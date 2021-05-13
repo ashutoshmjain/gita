@@ -22,7 +22,7 @@ deploy:
   edge: true
   cleanup: false
   github-token: $GITHUB_TOKEN
-  local-dir: 
+  local-dir: /src
   keep-history: false
   on:
     branch: main

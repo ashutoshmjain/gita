@@ -14,7 +14,7 @@ before_script:
   - cargo install-update -a
 
 script:
-  - mdbook build   
+  - mdbook build  /arjun && mdbook test /arjun 
   
 deploy:
   provider: pages
@@ -22,8 +22,8 @@ deploy:
   edge: true
   cleanup: false
   github-token: $GITHUB_TOKEN
-  local-dir: 
+  local-dir: /arjun
   keep-history: false
   on:
     branch: main
-  target_branch: main 
+  target_branch: gh-pages

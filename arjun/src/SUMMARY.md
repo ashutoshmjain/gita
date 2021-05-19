@@ -13,6 +13,7 @@
 - [Interplay](./4.0_interplay.md)
     - [Profiles](./4.1_threeProfiles.md)
     - [Real Wealth](./4.2_realWealth.md)
+    - [Recap](./4.3_recapGettingStarted.md)
 
 # [Consciousness]()
 - [Conscious Agent](./5.0_consciousAgent.md)

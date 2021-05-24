@@ -16,7 +16,7 @@
     - [Recap](./4.3_recapGettingStarted.md)
 
 # [Consciousness]()
-- [Conscious Agent](./5.0_consciousAgent.md)
+- [The Spin](./5.0_consciousAgent.md)
     - [Senses](./5.1_senses.md)
     - [Duality](./5.2_duality.md)
 - [Universal Sandbox](./6.0_universalSandbox.md)

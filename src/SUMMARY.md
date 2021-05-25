@@ -1,6 +1,6 @@
 # Summary
-[README](./0.0_about.md)
-# [Getting Started]()
+ [README](./0.0_about.md)
+# Getting Started
 - [Hypothesis](./1.0_hypothesis.md)
     - [Evolution v/s God](./1.1_evolutionVsGod.md)
     - [Why Gita](./1.2_whyGita.md)
@@ -14,8 +14,8 @@
     - [Profiles](./4.1_threeProfiles.md)
     - [Real Wealth](./4.2_realWealth.md)
     - [Recap](./4.3_recapGettingStarted.md)
-
-# [Consciousness]()
+---
+# Consciousness
 - [The Spin](./5.0_spin.md)
     - [Senses](./5.1_senses.md)
     - [Duality](./5.2_duality.md)
@@ -25,8 +25,8 @@
 - [Change](./7.0_change.md)
     - [Eons](./7.1_eons.md)
     - [Time](./7.2_time.md)
-
-# [Triangulation]()
+---
+# Triangulation
 
 - [Being Human](./8.0_beingHuman.md)
     - [Bhakti Yoga](./8.1_bhaktiYoga.md)

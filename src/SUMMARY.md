@@ -1,6 +1,8 @@
 # Summary
  [README](./0.0_about.md)
+ ---
 # Getting Started
+
 - [Hypothesis](./1.0_hypothesis.md)
     - [Evolution v/s God](./1.1_evolutionVsGod.md)
     - [Why Gita](./1.2_whyGita.md)
@@ -16,6 +18,7 @@
     - [Recap](./4.3_recapGettingStarted.md)
 ---
 # Consciousness
+
 - [The Spin](./5.0_spin.md)
     - [Senses](./5.1_senses.md)
     - [Duality](./5.2_duality.md)
@@ -34,3 +37,4 @@
 - [Test](./9.0_test.md)
     - [Know Yourself](./9.1_knowYourself.md)
     - [Resolve](./9.2_resolve.md)
+---

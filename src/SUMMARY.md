@@ -1,6 +1,6 @@
 # Summary
  [README](./0.0_about.md)
- ---
+---
 # Getting Started
 
 - [Hypothesis](./1.0_hypothesis.md)

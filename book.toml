@@ -11,3 +11,4 @@ default-theme = "ayu"
 git-repository-url = "https://github.com/ashutoshmjain/gita"
 cname = "gita.shutri.com"
 edit-url-template = "https://github.com/ashutoshmjain/gita/edit/main/{path}"
+no-section-label = true

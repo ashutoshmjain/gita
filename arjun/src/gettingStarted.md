@@ -1,0 +1,1 @@
+![](./mindMaps-gettingStarted.jpg)

@@ -21,7 +21,7 @@
     - [Duality](./5.2_duality.md)
 - [Universal Sandbox](./6.0_universalSandbox.md)
     - [Hello World](./6.1_helloWorld.md)
-    - [Engagement Model](./6.2_engagementModel.md)
+    - [Rules of the Game](./6.2_rulesOfTheGame.md)
 - [Change](./7.0_change.md)
     - [Eons](./7.1_eons.md)
     - [Time](./7.2_time.md)

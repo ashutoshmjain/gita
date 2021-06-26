@@ -1,0 +1,1 @@
+![](./mindMaps-consciousness.jpg)

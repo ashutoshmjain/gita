@@ -15,16 +15,16 @@
         - [Real Wealth](./4.2_realWealth.md)
     - [Recap](./4.3_recapGettingStarted.md)
 ---
-# Consciousness
-- [The Spin](./5.0_spin.md)
-    - [Senses](./5.1_senses.md)
-    - [Duality](./5.2_duality.md)
-- [Universal Sandbox](./6.0_universalSandbox.md)
-    - [Hello World](./6.1_helloWorld.md)
-    - [Rules of the Game](./6.2_rulesOfTheGame.md)
-- [Change](./7.0_change.md)
-    - [Eons](./7.1_eons.md)
-    - [Time](./7.2_time.md)
+- [Consciousness](./consciousness.md)
+    - [The Spin](./5.0_spin.md)
+        - [Senses](./5.1_senses.md)
+        - [Duality](./5.2_duality.md)
+    - [Universal Sandbox](./6.0_universalSandbox.md)
+        - [Hello World](./6.1_helloWorld.md)
+        - [Rules of the Game](./6.2_rulesOfTheGame.md)
+    - [Change](./7.0_change.md)
+        - [Eons](./7.1_eons.md)
+        - [Time](./7.2_time.md)
 ---
 # Triangulation
 - [Being Human](./8.0_beingHuman.md)

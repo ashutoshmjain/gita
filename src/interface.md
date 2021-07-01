@@ -1,10 +1,4 @@
 
-## Interface
-
-Every manifestation - water , air , earth , refrigerator or the apps on your smart device - all of them must provide an interface so that the manifestation could be perceived by the senses. Interface is a layer that allows the senses to get a feel for the manifestation without you having to go through the practice to understand the knowledge. Refrigerator has a very simple interface. It allows you to set the temperature and place the things in it to cool them down. You don't need a PhD in thermo dynamics to cool your leftover Pizza. If however you are interested to know more about the cooling machine, you can speculate as to how the damn thing works. One of the plausible way is to think that someone has stored lots of ice in the back of the fridge. You can reason that if that was to be true , there must be someone replacing the ice every couple of hours but you see no one walking past your kitchen with a bag of ice on their shoulders. And in that case why would someone plug the machine into an electrical socket. If you are hell bent on figuring out the mechanism, you will soon dispel such doubts. May be a good starting point is to search the you tube on "How Fridge Works". It might bring you close to an idea of compressor. You get the point - the knowledge is endless. 
-
-> Interface is just a starting point .. 
-
 The weird thing about the interface is, it has already created a separation - you now perceive refrigerator as a separate machine. A machine that your senses could feel and use to deliver some value and in addition if you are curious, it allows to create a placeholder for knowledge - "Doubt" - in your mind. 
 
 
@@ -19,10 +13,6 @@ As we decrypt the knowledge - means we move from the interface to the APIs and t
 That is because we identify ourselves beyond our body .. 
 
 Hmm  .. The question then is who am I ? And what do you mean by Identity ?
-
-### ID 
-
-
 
 ## Matrix
 
@@ -103,6 +93,9 @@ As your intelligence goes dormant, the knowledge in stays fully encrypted but yo
 
 >>>>>> Gita says this is the sleeping stage of conscious agent. 
 
+# Time 
+
+Time is the key reason for the expectations because we need to prioritize the selection of manifestations. The limitation of time creates the change. The design is so self perpetuating. If we had unlimited time, we wont prioritize , that means there is no reason to improve the information , that means there is no change. The time is attached to the expectations. That is the reason the Karm Yoga is is the only way  to exit this nonesense. 
 
 # Concious Agent 
 

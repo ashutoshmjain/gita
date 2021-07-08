@@ -26,7 +26,7 @@
         - [Eons](./7.1_eons.md)
         - [Time](./7.2_time.md)
 ---
-- [Traingulation](./trainulation.md)
+- [Traingulation](./traiangulation.md)
     - [Being Human](./8.0_beingHuman.md)
         - [Bhakti Yoga](./8.1_bhaktiYoga.md)
         - [Nyaan Yoga](./8.2_nyaanYoga.md)

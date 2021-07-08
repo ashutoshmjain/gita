@@ -10,6 +10,11 @@
 </figure>
 </center>
 
+In the first chapter of Gita we saw the set up of the armies at Kurukshetra. Both sides getting ready for the war of a lifetime, Arjuna asked Krishna to take him centerstage to take an up close view of those who were so eager to fight him. He saw known faces of his cousins, teachers and friends. Suddenly he felt that he was about to commit a major sin by raging a war against his own clan. He asked Krishna if he was on right path. He thought even Krishna was about to make a mistake. 
+
+Krishna was obviously surprised with this sudden change of heart and feeling of weekness in Arjuna. He spoke at length in chapter two about the nature of physical body, the righteous path and the importance of being steadfast on your course. He gave a lot of wisdom , too quickly to consume even for a person of Arjuna's intelligence and stature. Many people say Gita is all said in chapter 2. It is true but if Arjuna himself couldn't understand the intricacies of Karm Yoga, what chance do we stand ? 
+
+So Arjuna starts with few very basic questions here in chapter 3 and Krishna, having understood the information overload for Arjuna, take another deep dive at Karm Yoga. In fact, this is where the real deep conversation begins. Let us see how it goes... 
 
 ## Arjuna said
 
@@ -31,6 +36,9 @@ Vya [your] Mishrena Eva [ Kinda mixed] Vakyen [sentences -> words] Buddhim [inte
 
 Tat [therefore] Ekm [one thing] Vad [tell]  Nishchitya [after deciding] Yena [by which] Shreya [better in the eyes of others] Ahm [I] Aapnuyam [I get].
 
+{Your mixed messages are kinda dellusioning my mind. Thereforec decide and say only one thing that brings me credit and is good for all}
+
+
 ## Krishna Said
 
 ### 3.3
@@ -38,6 +46,8 @@ Tat [therefore] Ekm [one thing] Vad [tell]  Nishchitya [after deciding] Yena [by
 Loke [in the world] Asmin [this] Dwi-Vidha [two kinds of] Nishtha [faith] Pura [previously] Prokta [said] Maya [by me] Anagha [O sinless Arjun];
 
 Jnana Yogena [with ritual of knowledge] Sankhyanam [by philospphers] Karm Yogen [with ritiual of actions] Yoginam [by Yogies].
+
+{ There are two types of faith in this world as told by me previously. `Jnana Yoga` for the philosophers and the `Karm Yoga` for the Yogies}
 
 ### 3.4
 

@@ -26,7 +26,7 @@
         - [Eons](./7.1_eons.md)
         - [Time](./7.2_time.md)
 ---
-- [Traingulation](./traiangulation.md)
+- [Triangulation](./triangulation.md)
     - [Being Human](./8.0_beingHuman.md)
         - [Bhakti Yoga](./8.1_bhaktiYoga.md)
         - [Nyaan Yoga](./8.2_nyaanYoga.md)
@@ -34,5 +34,9 @@
         - [Know Yourself](./9.1_knowYourself.md)
         - [Resolve](./9.2_resolve.md)
 ---
-- [Transaltion](./translation.md)
-    - [Karm Yoga - Ch 3](chapter3.md)
+- [Podcast - Naad Yoga ](./p1.md)
+    - [S1 - Karm Yoga](p1s1.md)
+        - [E1 - More confused ](./p1s1e1.md)
+        - [E2 - Two Yogies](./p1s1e2.md)
+        - [E3 - Wasted Effort](./p1s1e3.md)
+        - [E4 - The Invention](./p1s1e4.md)

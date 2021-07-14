@@ -36,7 +36,7 @@
 ---
 - [Podcast - Naad Yoga ](./p1.md)
     - [S1 - Karm Yoga](p1s1.md)
-        - [E1 - More confused ](./p1s1e1.md)
-        - [E2 - Two Yogies](./p1s1e2.md)
-        - [E3 - Wasted Effort](./p1s1e3.md)
-        - [E4 - The Invention](./p1s1e4.md)
+        - [Yogies- Connected ](./p1s1e1.md)
+        - [Anhahta- Unhurt ](./p1s1e2.md)
+        - [Karma- Actions](./p1s1e3.md)
+        - [Two Yogies](./p1s1e4.md)

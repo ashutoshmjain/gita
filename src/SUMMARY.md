@@ -34,9 +34,10 @@
         - [Know Yourself](./9.1_knowYourself.md)
         - [Resolve](./9.2_resolve.md)
 ---
-- [Podcast - Naad Yoga ](./p1.md)
-    - [S1 - Karm Yoga](p1s1.md)
-        - [Yogies- Connected ](./p1s1e1.md)
+- [Naad- Podcast](./p1.md)
+    - [Karm Yoga- S1](p1s1.md)
+        - [Naad Yoga](./p1s1e0.md)
+        - [Two Yogies](./p1s1e1.md)
         - [Anhahta- Unhurt ](./p1s1e2.md)
         - [Karma- Actions](./p1s1e3.md)
         - [Two Yogies](./p1s1e4.md)

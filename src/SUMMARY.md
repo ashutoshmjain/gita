@@ -39,5 +39,5 @@
         - [Naad Yoga](./p1s1e0.md)
         - [Two Yogies](./p1s1e1.md)
         - [Living the Dreams](./p1s1e2.md)
-        - [Karma- Actions](./p1s1e3.md)
-        - [Two Yogies](./p1s1e4.md)
+        - [Vishuddi](./p1s1e3.md)
+        - [Muktsanga](./p1s1e4.md)

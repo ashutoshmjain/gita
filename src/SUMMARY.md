@@ -35,7 +35,7 @@
         - [Resolve](./9.2_resolve.md)
 ---
 - [Naad- Podcast](./p1.md)
-    - [Karm Yoga- S1](p1s1.md)
+    - [Karm Yoga](p1s1.md)
         - [Naad Yoga](./p1s1e0.md)
         - [Two Yogies](./p1s1e1.md)
         - [Living the Dreams](./p1s1e2.md)

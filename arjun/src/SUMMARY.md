@@ -40,4 +40,4 @@
         - [Two Yogies](./p1s1e1.md)
         - [Living the Dreams](./p1s1e2.md)
         - [Vishuddhi](./p1s1e3.md)
-        - [Muktsanga](./p1s1e4.md)
+        - [Yazna](./p1s1e4.md)

@@ -36,8 +36,8 @@
 ---
 - [Naad- Podcast](./p1.md)
     - [Karm Yoga](p1s1.md)
-        - [Naad Yoga](./p1s1e0.md)
-        - [Two Yogies](./p1s1e1.md)
-        - [Living the Dreams](./p1s1e2.md)
-        - [Vishuddhi](./p1s1e3.md)
-        - [Yazna](./p1s1e4.md)
+        - [Naad Yoga](./p1s1e1.md)
+        - [Two Yogies](./p1s1e2.md)
+        - [Living the Dreams](./p1s1e3.md)
+        - [Vishuddhi](./p1s1e4.md)
+        - [Yazna](./p1s1e5.md)

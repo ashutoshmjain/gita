@@ -1,13 +1,4 @@
-<center>
-<figure>
-    <audio
-       controls
-       src="./0dot0.mp3">
-          Your browser does not support the
-          <code>audio</code> element.
-    </audio>
-</figure>
-</center>
+The book (text and audio) is published at https://gita.shutri.com 
 
 # Gita
 
@@ -65,7 +56,3 @@ Just like any other scientific faculty, it is difficult to watertight these four
 As you will find in the reading, a book is only information ; it is a way to organize the knowledge in a template. We can get the template but we need to fill it up with our imagination. No matter how descriptive an information artifact , there is always room to read between the lines. I feel knowledge lives in that unwritten space. Thus, my request to not hold your imagination. With each section, try to fill the gaps with your experiences, your perception of reality and hopefully, it will align.
 
 The work here is not mere reflections of what I read, it, in fact comes from the me putting the ethos in practice to whatever little I could. I don't claim `Nirvana` but I vouch I have seen the tip of iceberg. Peace and happiness were alien to me. I was a wandering soul ever so lost in "what next" and consuming my way to bloat. Gita has helped me focus, remove the unnecessary baggage and fine tune my life. And it remains a work in progress though I see a light at the end ... 
-
-
-
-~Ashutosh~

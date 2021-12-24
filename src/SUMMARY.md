@@ -30,6 +30,7 @@
     - [Being Human](./8.0_beingHuman.md)
         - [Bhakti Yoga](./8.1_bhaktiYoga.md)
         - [Nyaan Yoga](./8.2_nyaanYoga.md)
+---
 - [Test](./testing.md)
     - [Know Yourself](./9.0_knowYourself.md)
         - [Dichotomy of a Desire](./9.1_dichotomyOfDesire.md)

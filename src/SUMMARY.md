@@ -7,6 +7,7 @@
     - [Ritual of Actions](./2.0_ritualOfActions.md)
         - [Practice and Skills](./2.1_practiceAndSkills.md)
         - [Manifestation](./2.2_manifestation.md)
+        - [Turning Inside](./2.3_turningInside.md)
     - [Ritual of Thinking](./3.0_ritualOfThinking.md)
         - [Curiosity](./3.1_curiosity.md)
         - [Intelligence](./3.2_intelligence.md)

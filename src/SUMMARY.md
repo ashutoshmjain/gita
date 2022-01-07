@@ -3,7 +3,6 @@
 - [Getting Started](./gettingStarted.md)
     - [Hypothesis](./1.0_hypothesis.md)
         - [Continuum](./1.1_evolutionVsGod.md)
-        - [Why Gita](./1.2_whyGita.md)
     - [Ritual of Actions](./2.0_ritualOfActions.md)
         - [Practice and Skills](./2.1_practiceAndSkills.md)
         - [Manifestation](./2.2_manifestation.md)

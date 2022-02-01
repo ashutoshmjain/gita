@@ -95,4 +95,44 @@ In a way , the very definition of `Karma` is the actions that we undertake to ac
 
 Coming back to our example of cellular biology. If someone questions as to why are we conducting the experiment in the first place. May be we want to bring out a vaccine . May be we want to solve the mystery of cancer. May be we just want to understand how the cells actually work. The first two are called `Sakaam Yazna`. The last one , where we only crave for the truth is called `Nishkaam Yazna` - A `Yazna` without desires. You may say there is still a desire. A desire to know the truth . And you are right in your assessment. Even `Nishkaam Yazna` has an underlying desire for true knowledge but given that we already have a physical body ; we can't reach a state of `Absolute No desire` unless we know the truth. Thus this last desire is a valid one - the desire to know the our inner self. Our own copy of true knowledge. The true nature of our underlying reality - the continuum.
 
+## Why Skills 
+
+The notion that time is spherical or measure of a rotational change means that history repeats itself though always with a new(er) set of circumstances. Mark Twain once said that history doesn't repeat itself but it rhymes. No matter how long we hold illusion of arrow of time, the underlying shape is circular. Which means we can leverage the skills we develop but each time with a new set of challenges. Thus building skills is a useful exercise. Gita says building the skills is collection of something called `Daivy Sampad` - divine wealth. The  system - `Bramha` can assign you certain tasks only if you have some skills. That is very easy to understand. In our workplace , we get to do specific jobs based on what are our skills. If you are a good coder , you will get to code. If you are a good writer , you will get to write the  documentation :-) . Again, this is not to say one skill is better than other. All the skills are equally important. In the bigger universe, insects breed to clean up the mess, then other species evolve to clean up the insects. Thus evolution is about application of skills based on new set of realities. 
+
+Krishna says , with the skills that we build through `Yazna` , we must participate in the worldly activities. The skills are built not to renounce everything , they are there to implement righteous actions. 
+
+To sum it up and recap , Gita says that our senses are there to provide us a virtual world to hone our skills. Our goal is to develop the skills based on our opportunities in this tiny box. We test and apply these skills in this virtual world but the process of attaining these skills and their application, makes us aware of the underlying cyclic nature of universe - both at physical as well as meta physical levels. In other words, perfecting our game means exit from the game. In that it says that renunciation is good if it is done to focus on your skill building pursuit - Yazna. But renunciation doesn't help if we are trying to run away from our virtual reality - such a renunciation doesn't attract any distinct success. A deep appreciation of our physical reality is paramount to develop the skills and their application. 
+
+Once we develop the skills, and we build innate capability to apply those skills based on new challenges, the assignment of duties gets automated. Thus , evolution automatically assigns us deliverables. We need not chase or worry about what is our righteous goal. Our job is focus on building our capabilities. 
+
+Not only assignment of duties gets automated, even the deliverance comes natural to us as soon as we are ready with our skills. And most importantly, Krishna is there to hold our hands if we falter. We don't feel as if we need to do anything special. The entire process becomes effortless. At this stage we are in unison with the universe. We understand the true reality and we appreciate the beauty of our virtual world. We seek actions and we attain peace. Gita says .. 
+
+
+> Yah [ one ] Tu [ but ] Atma-ratih [ busy in self ] Eva [ certainly ] Syat [ stays, remains ] Atma-triptah [ satiated  ] Cha [ and ] Manvah [ human ];
+>
+> Aatmni [ In herself ] Eva [ only ] Santushtah [ satisfied ] Tasya [ for her ] Karyam [ work,, duty ] Na [ does not ] Vidyte [ exists ] .
+>
+> But one who is busy in herself and stays satiated ; satisfied in herself building the necessary skills, for her there is no feeling of duty . The deliverables and the delivery is automatic. Even building the skills is natural to such a person. 
+
+`Karm Yoga` is the way  to attain this self satiated and satisfied state. 
+
+
+------
+Krishna says that we can neither do away this sensory reality nor do we need to. We should rather focus on removing the expansionary nature - that split second - the desires. And after removing the desires , we should regulate the senses to not take the shortcuts. Doing the actions and tasks as they are supposed to be done in this transformed reality. Without cutting the corners to please our senses or not withstanding any external pressures.  We need to follow the cycle the way it is meant to be - Righteous Actions. He says 
+
+> Evam [thus] Pravartitam [ transformed ] Chakram [ cycle] Na [ no] Anuvartaytih [ adapts and practices; follows] Iha [ in this life] Yah [ one who];
+>
+> Agha-Aayuh [ sinful life] Indriya-aaramo [ seeker of sense gratification] Mogham [ uselessly] Parth [ Arjuna] Sah [ that person] Jeevati [ lives].
+>
+> Thus , one who doesn't adapts and practices this transformed cycle ; the way it is meant to be. Such a person , full of misconduct and seeker of sensory gratification, lives uselessly. Sensory gratification is in chasing the desires. The expansionary nature of our senses. Or taking the shortcuts on our duties.
+
+So we understood as to how our sensory observations turn the time into a unidirectional arrow. The fastest way to consume and then keep expanding at the edges to keep inflating our tiny box. The question, however, is if time is not a straight line , then what it is ? What is the underlying nature of our reality ? But before we do hat, let us take another look at our tiny box. Our physical and meta-physical systems.
+
+------
+
+Stephen Hawking in his best seller "Universe in a Nut Shell" , argues and asks everyone  to devote more attention to understand the concept of "Imaginary Time" . Wick's rotation to an imaginary frame of reference ,  is a well established mathematical concept that when applied to real time, depicts that the time is actually spherical and for our type of universe it needs to be flat on the poles just like the north and south poles of earth.  In essence time and space are pretty similar in a four dimensional space-time model what we call Mikownski Space. 
+
+So we can say that the two extremes are the observation of our own survival - our journey v/s living in a moment. Our own life being our longest observation , that makes the time appear linear and unidirectional and on the other side , the infinitesimally small observation - say living in a moment , that makes the time appear circular. But we don't need to really go to any of these extremes to check the proof of underlying reality. If we observe anything from a distance , without being involved , we see things appear circular. Sun and moon appear circular because we are at a distance. If we stop following politics , even that is a circle - same set of people and parties keep rotating into and out of power. Fashions are circular - same trends of clothes keep repeating every five or six years. Stock market rises and falls. Even the price line of individual tickers take a notch up and then two notches down. If we spread the observations on a longer horizon, trend lines are like a wave. Even our own life is a wave. We sleep and then we wake up. We get hungry almost the same times of the day. Every thing that we can observe dispassionately - appears to be a wave. At the same time, if we attach ourselves to something, it feels like wait is endless. 
+
+
 

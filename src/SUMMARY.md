@@ -2,7 +2,7 @@
 [README](./0.0_about.md)
 - [Getting Started](./gettingStarted.md)
     - [Hypothesis](./1.0_hypothesis.md)
-        - [Continuum](./1.1_evolutionVsGod.md)
+        - [Continuum](./1.1_continuum.md)
     - [Ritual of Actions](./2.0_ritualOfActions.md)
         - [Practice and Skills](./2.1_practiceAndSkills.md)
         - [Manifestation](./2.2_manifestation.md)

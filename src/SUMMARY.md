@@ -1,5 +1,5 @@
 # Summary
-[README](./0.0_about.md)
+[About](./0.0_about.md)
 - [Getting Started](./gettingStarted.md)
     - [Hypothesis](./1.0_hypothesis.md)
         - [Continuum](./1.1_continuum.md)

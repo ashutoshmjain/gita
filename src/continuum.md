@@ -70,9 +70,10 @@ The other important aspect of our sensory perception is the unidirectional arrow
 ### Time is the information field
 Look at 1d information field to make it easy to grasp.
 ### Every point in the information field must have information - Yes or No , 0 or 1. Point with no information can't exist.
-In a way time is history of one computing bit.Nothing is also information. 
+In a way time is history(block-chain) of one computing bit.Nothing is also information. 
 ### Every point in the information field has a information space - kinda memory of that point
 ### Information Fields of many spatial dimensions can co-exist. That means if you have two spatial dimensions , you don't need two more dimensions for time.
+In a multi-dimensional scenario , think a dimension as as a channel feeding some information to an intersection on timelines.Information can comein from any channel, history registers from any channel.
 ### In a way , Time is universal memory.
 ### 1d information fields are infinite 
 because there is no way to tell where to purge the memory, for that you need 2d time info field which by design becomes dualistic. And second because there is no way to tell how big a dimension can be.

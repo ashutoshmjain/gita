@@ -67,7 +67,24 @@ The other important aspect of our sensory perception is the unidirectional arrow
 
 ## What is Time.
 
-Time is a linear memory of events observed by our senses. Since waves are the major part of information that our senses consume, Time is the measure of information brought by waves to our senses. For example , if we forget everything i.e lose our memory, is there a meaning of time. In mathematics, time is NOT unidirectional because math is only a tool to solve our problem. It doesn't remember anything. We, on the other hand have a intricate memory system. For us history is as important (if not more) as the event itself because history determines our next move. We will get back to our discussion on time but for now, let us say Time is a historical record of our observations. Now the idea of "observation" is little different from all the truckload of information that comes to us. We only process that information that we actively observe - knowingly or unknowingly.
+### Time is the information field
+Look at 1d information field to make it easy to grasp.
+### Every point in the information field must have information - Yes or No , 0 or 1. Point with no information can't exist.
+In a way time is history of one computing bit.Nothing is also information. 
+### Every point in the information field has a information space - kinda memory of that point
+### Information Fields of many spatial dimensions can co-exist. That means if you have two spatial dimensions , you don't need two more dimensions for time.
+### In a way , Time is universal memory.
+### 1d information fields are infinite 
+because there is no way to tell where to purge the memory, for that you need 2d time info field which by design becomes dualistic. And second because there is no way to tell how big a dimension can be.
+### 2d information field photons- ie information itself. Information is thus infinite and dualistic. 
+### Manifestation is finding what you are looking for at a point in time. -- Define Quest first. Linkage to wave nature of manifestation- manifestation happens at the place of highest probability with respect to your quest function - what are you looking for.
+Quest is the entry of senses. Senses are there to search something.
+### 3d information fields manifest solids. Solids lead to gravity and thus singularity. 
+### Thus Kaal Chakra is the cycle from knowledge to manifestation and then manifestation to knowledge. 
+Knowledge to Information is in a sense broadcast of information. It ends with manifestation by senses. Manifestation to singularity (gravity) is simplifying the manifestation such that it becomes singularity - matter turns into holographic information.
+### Infinite dimensions are possible
+3d is a minimum requirement for manifestation of solids. But there is no limit to more dimensions if they could be used for journey from manifestation to singularity. Better coding is another for example DNA. Intelligence is the iterative process to taking shots at that configuration. The configuration itself is the knowledge. Thus singularity is not a point. It is the expression of knowledge. And that is the very reason of quest. Though understanding what we are looking for is too an iterative process. 
+
 
 ## Waves to a circle to a dot.
 

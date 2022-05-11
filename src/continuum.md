@@ -85,6 +85,8 @@ Knowledge to Information is in a sense broadcast of information. It ends with ma
 ### Infinite dimensions are possible
 3d is a minimum requirement for manifestation of solids. But there is no limit to more dimensions if they could be used for journey from manifestation to singularity. Better coding is another for example DNA. Intelligence is the iterative process to taking shots at that configuration. The configuration itself is the knowledge. Thus singularity is not a point. It is the expression of knowledge. And that is the very reason of quest. Though understanding what we are looking for is too an iterative process. 
 
+It had be rather naive to imagine that this circle is around us. As if we are the drivers of knowledge to information  or from manifestation to knowledge because the cycle in itself is endless. But we do have a complete cycle around who we are. And since our copy of knowledge is same as anything else, our cycle is same as that of the entire universe. 
+
 
 ## Waves to a circle to a dot.
 

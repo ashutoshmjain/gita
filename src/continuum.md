@@ -72,6 +72,8 @@ The other important aspect of our sensory perception is the unidirectional arrow
 
 The best way to imagine time as an information field is to try to visualize a one dimensional line horizontal say along the x axis and time plotted as a wave on the y axis. Time is unidirectional upwards which means future is below the x axis. You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history of each point of the x line.  Lets say we are looking for a one dimensional particle along the 1 dimensional line x , the timeline associated to that point tells us if the particle was there or not. 
 
+![](./timeInfoGraph.jpeg)
+
 So that we don't conflict with one dimensional planes or the planes that connect two dimensions (for whatever reason) ; lets just call this plane as one dimensional information field. 1DIF - for short. The answer that each point of 1DIF records is "yes" or "No" based on he question. Question can be - Is there something there ? - Answer can be yes or no. Or the question can be - is there a panda there ? - Answer can be yes or no. You got it. Time stamp only records yes or no. A zero or a One. And Up or a Down. The question defines what does it mean to when time stamp says "yes" verses a "No". 
 
 As we progress towards the future, the timelines converge because the search population reduces logarithmically. For example if you want to get to a number in the range of 1 to 50 , you can get to the answer in say five questions
@@ -83,19 +85,20 @@ As we progress towards the future, the timelines converge because the search pop
 - That means number is between 10 and 12 - Next question - Is it larger than 11 - No
 - That means number is 10.
 
-Such a signal interpretation is called logarithmic  reduction. Once we reach the answer. We can continue is to ask - Is it ten ? Answer can be yes or no in terms of is "ten" present in the time stamp . Or you can say expected value is 10 . Has it reached yet or not. 
+Such a signal interpretation is called logarithmic  reduction. Once we reach the answer. We can continue is to ask - Hey Mr ten - are you still there ? In effect we changed the question context in the same dimension rather than creating a new dimension. Answer can be yes or no in terms of if "ten" is present in the time stamp . We may also call it persistence check. Key thing to note here is it was always signal for "ten" coded in the wave. All we are doing in Time is understanding what should be the expected value of the particle in that dimension. Once our estimate matches with the signal code , all we need to check is persistence for as long as we want. It might sound as if a timeline is a "Variable" history and persistence from computing landscape. It is because we are storing the information passed from the waves in a historical timeline. We may use our brains or computers or any other mechanism that can maintain the history. 
 
-In a way we are receiving the signal in the wave and we are trying to decode the signal to an expected value. A value built in the signal. Thus timelines are shown converging in the graphic below. Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. 
+In a way we are receiving the signal in the wave and we are trying to decode the signal to an expected value. A value built in the signal. Thus timelines are shown converging in the graphic above. Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. 
 
-In a way , time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest. 
-- 
+Thus  time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest. 
 
+We will get to 2DIF and 3DIF time information graph as we go along. 
 
+### Garbage Collection
 
-![](./circleOfKnowledge.jpeg)
+Every point in the information field must have information - Yes or No ; 0 or 1  - binary information. Point with no information can't exist. As soon as a timeline goes empty, the dimension is quickly garbage collected. This is so because Time is the most taxing resource in the system. This is where all "Actions" are performed and thus energy is consumed. Since energy must be conserved, there is a need to optimize the time lines. 
 
-### Every point in the information field must have information - Yes or No , 0 or 1. Point with no information can't exist.
-In a way time is history(block-chain) of one computing bit.Nothing is also information. 
+One important distinction needs to be made here, Sometimes when "No" is represented by "0" , it appears as if "0" is nothing. That is not true. Nothing means absence of both 0 and 1 . Absence of signal . In a way time is history of one computing bit.
+
 ### Every point in the information field has a information space - kinda memory of that point
 ### Information Fields of many spatial dimensions can co-exist. That means if you have two spatial dimensions , you don't need two more dimensions for time.
 In a multi-dimensional scenario , think a dimension as as a channel feeding some information to an intersection on timelines.Information can comein from any channel, history registers from any channel.

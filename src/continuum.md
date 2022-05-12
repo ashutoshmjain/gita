@@ -63,12 +63,37 @@ The strange thing about waves is we perceive our sensory reality through them, b
 
 Same is true about the matter waves. One of the coolest application of matter waves is of course electron microscope. And along with electron microscope we saw a revolution in particle physics. In a way electron microscope proves that the matter waves exist. The entire field of quantum mechanics sprung up around matter waves. Neils Bohr demonstrated that the electrons appear only in quantum orbits around the nucleus. Heisenberg gave the uncertainty principle. And Schrodinger worked out the wave equations. Yet we can't perceive the matter waves. We only perceive the information carried by the matter waves and that information is matter itself. Something that we not only see with our eyes but also confirm through touch. Understanding waves as the carrier of information is a key step towards understanding the underlying nature of reality. 
 
-The other important aspect of our sensory perception is the unidirectional arrow of time. Time is explained in many ways - for example increase of chaos. Time is also deemed as a separate dimension. All those may be true but I want to investigate "time" from the vantage of information processing.
 
-## What is Time.
+## Time - expanse of information.
+
+The other important aspect of our sensory perception is the unidirectional arrow of time. Time is explained in many ways - for example increase of chaos. Time is also deemed as a separate dimension -sometimes misconstrued as a spatial dimension . All those may be true but I want to investigate "time" from the vantage of information processing.
 
 ### Time is the information field
-Look at 1d information field to make it easy to grasp.
+
+The best way to imagine time as an information field is to try to visualize a one dimensional line horizontal say along the x axis and time plotted as a wave on the y axis. Time is unidirectional upwards which means future is below the x axis. You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history of each point of the x line.  Lets say we are looking for a one dimensional particle along the 1 dimensional line x , the timeline associated to that point tells us if the particle was there or not. 
+
+So that we don't conflict with one dimensional planes or the planes that connect two dimensions (for whatever reason) ; lets just call this plane as one dimensional information field. 1DIF - for short. The answer that each point of 1DIF records is "yes" or "No" based on he question. Question can be - Is there something there ? - Answer can be yes or no. Or the question can be - is there a panda there ? - Answer can be yes or no. You got it. Time stamp only records yes or no. A zero or a One. And Up or a Down. The question defines what does it mean to when time stamp says "yes" verses a "No". 
+
+As we progress towards the future, the timelines converge because the search population reduces logarithmically. For example if you want to get to a number in the range of 1 to 50 , you can get to the answer in say five questions
+
+- Is it larger than 25 ?  No
+- That means it is smaller than 25. Next question is - is it larger than 12 - No
+- That mean it is smaller than 12. Next question - Is it larger than 6 ? - Yes
+- Thant means number is between 12 and 7 - Next question - Is it larger than 9 - Yes
+- That means number is between 10 and 12 - Next question - Is it larger than 11 - No
+- That means number is 10.
+
+Such a signal interpretation is called logarithmic  reduction. Once we reach the answer. We can continue is to ask - Is it ten ? Answer can be yes or no in terms of is "ten" present in the time stamp . Or you can say expected value is 10 . Has it reached yet or not. 
+
+In a way we are receiving the signal in the wave and we are trying to decode the signal to an expected value. A value built in the signal. Thus timelines are shown converging in the graphic below. Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. 
+
+In a way , time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest. 
+- 
+
+
+
+![](./circleOfKnowledge.jpeg)
+
 ### Every point in the information field must have information - Yes or No , 0 or 1. Point with no information can't exist.
 In a way time is history(block-chain) of one computing bit.Nothing is also information. 
 ### Every point in the information field has a information space - kinda memory of that point
@@ -95,7 +120,6 @@ A wave has two primary aspects - time , normally plotted on the x axis and an am
 
 If we understand that "time" is a creation of our sensory perception, than it is obvious that underlying reality is circular in two spatial dimensions , a sphere in 3D space and something beyond us in four spatial dimensions and above. 
 
-![](./circleOfKnowledge.jpeg)
 
 For reference and a better visualization, [check this out](https://jackschaedler.github.io/circles-sines-signals/sincos.html).
 

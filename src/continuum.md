@@ -96,9 +96,27 @@ Such a signal interpretation is called logarithmic  reduction. Once we reach the
 
 In a way we are receiving the signal in the wave and we are trying to decode the signal to an expected value. A value built in the signal. Thus timelines are shown converging in the graphic above. Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. 
 
-Thus  time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest. 
+Thus  time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest.
 
-We will get to 2DIF and 3DIF time information graph as we go along. 
+The question is - is this 1DIF of any use or what exactly is it. It's a deeper question but we will get to it shortly. Suffice to say here is that a 1DIF is the field of our sensory focus. Our focus can explore only one dimension at a time. 
+
+### A two dimensional information field. - 2DIF
+
+The easiest way to imagine a 2DIF is to imagine a  2 dimensional plane and then assume a third dimension of time at every single point of the plane. 
+
+[](./2dif.jpg)
+
+The best example of 2DIF field is a electromagnetic field. If we change the "yes and No" question with "+ and -" then electric field has a + value on all the points on its dimension while a magnetic field has a -ve value on all the points. So every point on the timelines is a [+ , -] value. We know a photon has a [+ and -] charge that rotate clockwise , just like the + and - values oscillate in the electric and magnetic field. The information lines understand in a two question if it is a -ve or +ve charge and is it oscillating. There on it is just a persistent check. If or not the photon is still there. Well we can't see a photon but we know photons fill up our room as soon as we turn on the light bulb. Incandescent light bulbs generate and EM field through a phenomenon called black body rations. 
+
+Another thing to notice here is duality is built into such manifestation of photon. A plus and a minus charge. That is the reason EM fields are produced . When a conductor moves in a magnetic field , the energy we spend on the motion of the magnet can be harnessed as electricity. So 2DIFs are pretty useful. Not only they help is see the world , they also make our fridge  run and Netflix too :-)
+
+You may feel that the photons are moving at a speed of light. No. As you know photons themselves are the waves. Let us say you are sitting in a dark room. You want to manifest light. A wave that is transparent in itself but helps us see the things. You somehow find your way to the light switch. The moment you turn the light on , the room is filled with light. Means from now on ,every point in the room has a [+ , -] value on the time line. How much will it take to fill the room. At the speed the information could reach all the walls. The speed of alternating cycles of magnetic and electric fields is what gives the speed to this information. In essence the room is filled with the speed of light - almost negligible. Now let us say you want to see the watch on the watch. You focus your eyes on the wall. The line between your eyes to the watch is what gets your focus. The photon near the surface of the watch now needs to capture the information from the wall. May be color of the watch, hour and minutes. Same information travels back to our eyes at the speed at which photons are blinking. Just like a wave moves across the pond. Lets say you stare at the watch for five seconds. A history of five seconds is what goes into the time line. Next moment you want to see your dog. The timeline of your watch view is no more required because time wont change. But if you had seen picture of your mom instead of the watch , it is good idea to keep that time line persistent. 
+
+Thus speed of light is the flow of visual information. 
+
+
+
+
 
 ### Garbage Collection
 
@@ -106,9 +124,8 @@ Every point in the information field must have information - Yes or No ; 0 or 1 
 
 One important distinction needs to be made here, Sometimes when "No" is represented by "0" , it appears as if "0" is nothing. That is not true. Nothing means absence of both 0 and 1 . Absence of signal . In a way time is history of one computing bit.
 
-### Every point in the information field has a information space - kinda memory of that point
-### Information Fields of many spatial dimensions can co-exist. That means if you have two spatial dimensions , you don't need two more dimensions for time.
-In a multi-dimensional scenario , think a dimension as as a channel feeding some information to an intersection on timelines.Information can comein from any channel, history registers from any channel.
+### Every point in the information field has a information space.
+Information Fields of many spatial dimensions can co-exist in a single dimension of time. That means if you have two spatial dimensions , you don't need two more dimensions for time. In a multi-dimensional scenario , think a dimension as as a channel feeding some information to an intersection on timelines.Information can come in from any channel, history registers from any channel. More the dimensions, the information block gets bigger. 
 ### In a way , Time is universal memory.
 ### 1d information fields are infinite 
 because there is no way to tell where to purge the memory, for that you need 2d time info field which by design becomes dualistic. And second because there is no way to tell how big a dimension can be.

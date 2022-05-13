@@ -77,13 +77,13 @@ The other important aspect of our sensory perception is the unidirectional arrow
 
 ### Time is the information field
 
-The best way to imagine time as an information field is to try to visualize a one dimensional line horizontal say along the x axis and time plotted as a wave on the y axis. Time is unidirectional upwards which means future is below the x axis. You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history of each point of the x line.  Lets say we are looking for a one dimensional particle along the 1 dimensional line x , the timeline associated to that point tells us if the particle was there or not. 
+The best way to imagine time as an information field is to try visualize a one dimensional line horizontal say along the x axis and time plotted as a wave on the y axis. Time is unidirectional upwards which means future is below the x axis. You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history of each point of the x line.  Lets say we are looking for a one dimensional particle along the 1 dimensional line x , the timeline associated to that point tells us if the particle was there or not. 
 
 ![](./timeInfoGraph.jpeg)
 
-So that we don't conflict with one dimensional planes or the planes that connect two dimensions (for whatever reason) ; lets just call this plane as one dimensional information field. 1DIF - for short. The answer that each point of 1DIF records is "yes" or "No" based on he question. Question can be - Is there something there ? - Answer can be yes or no. Or the question can be - is there a panda there ? - Answer can be yes or no. You got it. Time stamp only records yes or no. A zero or a One. And Up or a Down. The question defines what does it mean to when time stamp says "yes" verses a "No". 
+So that we don't conflict with one dimensional planes or the planes that connect two dimensions - a world sheet as they call them in string theory (for whatever reasons) ; lets just call our plane as one dimensional information field. 1DIF - for short. The answer that each point of 1DIF records is "yes" or "No" based on the question. Question can be - Is there something there ? - Answer can be a "yes" or a "no". Or the question can be - is there a Panda there ? - Answer can be "yes" or "no". You got it!  Time stamp only records "yes" or "no". A "zero" or a "One". And a "Up" or a "Down". A "plus" or a "minus". Those are all just notations. The question defines what does it mean when time stamp says "yes" verses a "No". In essence, the answer is written in the time line. What you are trying to figure out is a right question. The good news is it is not hard to figure out the question. It takes few steps to decode the signal. That is what "work" is. 
 
-As we progress towards the future, the timelines converge because the search population reduces logarithmically. For example if you want to get to a number in the range of 1 to 50 , you can get to the answer in say five questions
+For example if you want to get to a number in the range of say 1 to 50 , you can estimate the nature of question in say five steps. Assume you are looking for a value of 10 in this range. Here is the simple way to decipher the value. 
 
 - Is it larger than 25 ?  No
 - That means it is smaller than 25. Next question is - is it larger than 12 - No
@@ -92,29 +92,51 @@ As we progress towards the future, the timelines converge because the search pop
 - That means number is between 10 and 12 - Next question - Is it larger than 11 - No
 - That means number is 10.
 
-Such a signal interpretation is called logarithmic  reduction. Once we reach the answer. We can continue is to ask - Hey Mr ten - are you still there ? In effect we changed the question context in the same dimension rather than creating a new dimension. Answer can be yes or no in terms of if "ten" is present in the time stamp . We may also call it persistence check. Key thing to note here is it was always signal for "ten" coded in the wave. All we are doing in Time is understanding what should be the expected value of the particle in that dimension. Once our estimate matches with the signal code , all we need to check is persistence for as long as we want. It might sound as if a timeline is a "Variable" history and persistence from computing landscape. It is because we are storing the information passed from the waves in a historical timeline. We may use our brains or computers or any other mechanism that can maintain the history. 
+You must have noticed that we are splitting the population range into two halves and repeating our question. As we progress towards the future, the timelines converge because the search population reduces logarithmically. This is the basis of "Information Theory".
+
+Such a signal interpretation is called logarithmic  reduction. Once we reach the answer. We can continue is to ask - Hey Mr 10 - are you still there ? In effect we changed the question context in the same dimension rather than creating a new dimension. Answer can be yes or no in terms of if "ten" is present in the time stamp . We may also call it persistence check. Key thing to note here is it was always signal for "ten" coded in the wave. All we are doing in Time is understanding what should be the expected value  in that dimension. Once our estimate matches with the signal code , all we need to check is persistence for as long as we want. It might sound as if a timeline is a "Variable" history (and or persistence) from our traditional computing landscape. It is,  because we are storing the information passed from the waves in a historical timeline. We may use our brains or computers or any other mechanism that can maintain the history. 
 
 In a way we are receiving the signal in the wave and we are trying to decode the signal to an expected value. A value built in the signal. Thus timelines are shown converging in the graphic above. Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. 
 
-Thus  time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest.
+Thus  time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest. It is important to state that the notion of "one dimension" is something that is not influenced from any other dimension. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. We are NOT there yet. We are still a one dimensional point and there is no way for us to know things like width or depth. All we know is there is an answer in time line. And all we want to know what is the right question. In other words - we are Focused on a single point and our quest is to frame the question. It will be easy if we give a name to this point - we can call it "focus". In `Hath Yoga` - this single point in one dimensional time line is called `Bindu` - which literally means a "point" in Sanskrit. 
 
-The question is - is this 1DIF of any use or what exactly is it. It's a deeper question but we will get to it shortly. Suffice to say here is that a 1DIF is the field of our sensory focus. Our focus can explore only one dimension at a time. 
+The question is - is this 1DIF of any use or what exactly is it? It's a deeper question but we will get to it shortly. Suffice to say here is that a 1DIF is the field of our sensory focus. Our focus can explore only one dimension at a time. 
 
 ### A two dimensional information field. - 2DIF
 
 The easiest way to imagine a 2DIF is to imagine a  2 dimensional plane and then assume a third dimension of time at every single point of the plane. 
 
-[](./2dif.jpg)
+![](./2Dif.jpg)
 
-The best example of 2DIF field is a electromagnetic field. If we change the "yes and No" question with "+ and -" then electric field has a + value on all the points on its dimension while a magnetic field has a -ve value on all the points. So every point on the timelines is a [+ , -] value. We know a photon has a [+ and -] charge that rotate clockwise , just like the + and - values oscillate in the electric and magnetic field. The information lines understand in a two question if it is a -ve or +ve charge and is it oscillating. There on it is just a persistent check. If or not the photon is still there. Well we can't see a photon but we know photons fill up our room as soon as we turn on the light bulb. Incandescent light bulbs generate and EM field through a phenomenon called black body rations. 
-
-Another thing to notice here is duality is built into such manifestation of photon. A plus and a minus charge. That is the reason EM fields are produced . When a conductor moves in a magnetic field , the energy we spend on the motion of the magnet can be harnessed as electricity. So 2DIFs are pretty useful. Not only they help is see the world , they also make our fridge  run and Netflix too :-)
-
-You may feel that the photons are moving at a speed of light. No. As you know photons themselves are the waves. Let us say you are sitting in a dark room. You want to manifest light. A wave that is transparent in itself but helps us see the things. You somehow find your way to the light switch. The moment you turn the light on , the room is filled with light. Means from now on ,every point in the room has a [+ , -] value on the time line. How much will it take to fill the room. At the speed the information could reach all the walls. The speed of alternating cycles of magnetic and electric fields is what gives the speed to this information. In essence the room is filled with the speed of light - almost negligible. Now let us say you want to see the watch on the watch. You focus your eyes on the wall. The line between your eyes to the watch is what gets your focus. The photon near the surface of the watch now needs to capture the information from the wall. May be color of the watch, hour and minutes. Same information travels back to our eyes at the speed at which photons are blinking. Just like a wave moves across the pond. Lets say you stare at the watch for five seconds. A history of five seconds is what goes into the time line. Next moment you want to see your dog. The timeline of your watch view is no more required because time wont change. But if you had seen picture of your mom instead of the watch , it is good idea to keep that time line persistent. 
-
-Thus speed of light is the flow of visual information. 
+The best example of 2DIF field is a electromagnetic field.  Let's look at a single time line of two dimensional electro magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
 
 
+<p align="center">
+
+  <img src="./emf.gif">
+
+</p>  
+
+
+For the sake of this discussion, assume electric and magnetic impulses are same but they are pointing in two dimensions perpendicular to each other. Z - the time line is shown at a point where these two dimensions intersect. . At every point on the time line, we receive two values from the signal. These values gradually increase from 0 to say 5 and then again reduce to 0. 
+
+So the question in this case is " Is the value of x same as Y" - And the answer is "Yes" or "No".
+
+The important insight in this question is value of "X" is somehow linked to value of "Y". Means they are interdependent. If the answer is "Yes" , that means an electro magnetic field exists. 
+
+> #### Photon
+>
+>The manifestation of this field is what we call a Photon. To simplify the things , assume there is an "electron" sitting at the intersection of "X" and "Y". This electron moves in X dimension exactly the same distance as it does in the Y dimension. How is it possible that the same particle moves in two dimensions at the same time ? From our discussion of "entanglement" above , this means it is the same particle trying to manifest in two dimensions. It starts at the intersection of X and Y and moves in both directions as the time passes. After reaching certain (same) distance it falls back to original state. In essence two entangled manifestations of the same particle are wiggling in two dimensions. It must be same particle because by definition a dimension is a thing where information can't come from outside. Since the particle knows how much to move in both dimensions , that means it must be the same particle or "same entangled particle" to be linguistically correct. :w
+>
+>In essence the particle is creating a gap with in its own two entangled positions. This gap is filled up by what we know as "Photon". Since it is a gap , the Photon must be mass less.
+
+It is easy to imagine that if there is more energy , the particle shall wiggle farther. And vice versa. If it goes farther, the resultant photon is UV or X ray photon. In case of extreme energy situation such as radio active decay, or Quasars , this photon can carry the energy of gamma rays. In case of small energy, we get a much shorter wiggle and thus a photon of radio waves. The key insight of Einstein was no matter the energy level , the frequency of wiggle stays constant and thus the speed of photon generation in Time. Turns out this speed of photons generation is what we know as the speed of Time. The key thing to understand here that in electro magnetic fields, it is not "Photon" that is moving , It is the speed of "Time". 
+
+> #### Duality
+>
+> In essence , a 1DIF gives us the notion of Focus, while a 2DIF defines our time. You may ask why Time or Light move at this specific speed 299792458 metres per second ? We may get that answer when we understand the "matter waves" because ultimately photons are produced by the wiggle of electrons - which are three dimensional manifestations - at least to our perception. However , this addresses a deeper question that 2DIF EMF is deeper than what we thought. From deeper I mean a notion of duality is in built into Electro magnetic fields. It is a point where our focus wants to split into two dimensions at the same time. Both valid. 
+>
+>Duality is the hall mark of the waves. Every rise must follow a fall. Every crest has a trough and vice versa. Since the fundamental perception is of Time is built by a dualistic wave, everything we perceive in this universe shows a wave nature. In essence Duality is not limited to magnetic dipoles - or simply the magnets. Duality is built into nature of our sensory observations - our perception of the world. 
 
 
 

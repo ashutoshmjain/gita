@@ -101,34 +101,15 @@ The strange thing about waves is we perceive our sensory reality through them, b
 
 ## Time - expanse of information.
 
-The other important aspect of our sensory perception is the unidirectional arrow of time. Time is explained in many ways - for example increase of chaos. Time is also deemed as a separate dimension -sometimes misconstrued as a spatial dimension . All those may be true but I want to investigate "time" from the vantage of information processing.
+Time is the beat of our universe at the tiniest level. In 1968 , time was set up as a standard for the beats of a cesium atom. We have much better quantum clocks now but the idea remains the same. The question is what do we mean by the beat of an atom ? And is there a signal in this beat. I tend to believe "Yes" because if something is happening in every single atom in this entire universe, there must be a good reason. Now, just like any thing else, time may be explained in many ways - for example increase of chaos. Time is also deemed as a separate dimension -sometimes misconstrued as a spatial dimension . All those may be true in different contexts but I want to investigate "time" from the vantage of information processing and hopefully you will see by the end, how this notion explains most of the things we observe in our our tiny box. 
 
 ### Time is the information field
 
-The best way to imagine time as an information field is to try visualize a one dimensional line horizontal say along the x axis and time plotted as a wave on the y axis. Time is unidirectional upwards which means future is below the x axis. You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history of each point of the x line.  Lets say we are looking for a one dimensional particle along the 1 dimensional line x , the timeline associated to that point tells us if the particle was there or not. 
+The easiest way to imagine time as an information field is to try visualize a one dimensional line horizontal say along the x axis and time plotted as a wave on the y axis. Time is unidirectional upwards which means future is below the x axis. You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history of each point of the x line.  Lets say we are looking for a one dimensional particle along the 1 dimensional line x , the timeline associated to that point tells us if the particle was there or not. 
 
 ![](./timeInfoGraph.jpeg)
 
-So that we don't conflict with one dimensional planes or the planes that connect two dimensions - a world sheet as they call them in string theory (for whatever reasons) ; lets just call our plane as one dimensional information field. 1DIF - for short. The answer that each point of 1DIF records is "yes" or "No" based on the question. Question can be - Is there something there ? - Answer can be a "yes" or a "no". Or the question can be - is there a Panda there ? - Answer can be "yes" or "no". You got it!  Time stamp only records "yes" or "no". A "zero" or a "One". And a "Up" or a "Down". A "plus" or a "minus". Those are all just notations. The question defines what does it mean when time stamp says "yes" verses a "No". In essence, the answer is written in the time line. What you are trying to figure out is a right question. The good news is it is not hard to figure out the question. It takes few steps to decode the signal. That is what "work" is. 
-
-For example if you want to get to a number in the range of say 1 to 50 , you can estimate the nature of question in say five steps. Assume you are looking for a value of 10 in this range. Here is the simple way to decipher the value. 
-
-- Is it larger than 25 ?  No
-- That means it is smaller than 25. Next question is - is it larger than 12 - No
-- That mean it is smaller than 12. Next question - Is it larger than 6 ? - Yes
-- Thant means number is between 12 and 7 - Next question - Is it larger than 9 - Yes
-- That means number is between 10 and 12 - Next question - Is it larger than 11 - No
-- That means number is 10.
-
-You must have noticed that we are splitting the population range into two halves and repeating our question. As we progress towards the future, the timelines converge because the search population reduces logarithmically. This is the basis of "Information Theory".
-
-Such a signal interpretation is called logarithmic  reduction. Once we reach the answer. We can continue is to ask - Hey Mr 10 - are you still there ? In effect we changed the question context in the same dimension rather than creating a new dimension. Answer can be yes or no in terms of if "ten" is present in the time stamp . We may also call it persistence check. Key thing to note here is it was always signal for "ten" coded in the wave. All we are doing in Time is understanding what should be the expected value  in that dimension. Once our estimate matches with the signal code , all we need to check is persistence for as long as we want. It might sound as if a timeline is a "Variable" history (and or persistence) from our traditional computing landscape. It is,  because we are storing the information passed from the waves in a historical timeline. We may use our brains or computers or any other mechanism that can maintain the history. 
-
-In a way we are receiving the signal in the wave and we are trying to decode the signal to an expected value. A value built in the signal. Thus timelines are shown converging in the graphic above. Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. 
-
-Thus  time line is history of every point on a one dimensional line though the point converges pretty quickly to a single point in most cases. Convergence depends on the nature of quest. Length of timeline depends on the duration of the quest. It is important to state that the notion of "one dimension" is something that is not influenced from any other dimension. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. We are NOT there yet. We are still a one dimensional point and there is no way for us to know things like width or depth. All we know is there is an answer in time line. And all we want to know what is the right question. In other words - we are Focused on a single point and our quest is to frame the question. It will be easy if we give a name to this point - we can call it "focus". In `Hath Yoga` - this single point in one dimensional time line is called `Bindu` - which literally means a "point" in Sanskrit. 
-
-The question is - is this 1DIF of any use or what exactly is it? It's a deeper question but we will get to it shortly. Suffice to say here is that a 1DIF is the field of our sensory focus. Our focus can explore only one dimension at a time. 
+So that we don't conflict with one dimensional planes or the planes that connect two dimensions ; lets just call our plane as "one dimensional information field". 1DIF - for short. The answer that each point of 1DIF records is "yes" or "No" based on the question. Question can be - Is there something there ? - Answer can be a "yes" or a "no". Or the question can be - is there a Panda there ? - Answer can be "yes" or "no". You got it!  Time stamp only records "yes" or "no". A "zero" or a "One". An "Up" or a "Down". A "plus" or a "minus". Those are all just notations. The question defines what does it mean when time stamp says "yes" verses a "No". In essence, the answer is written in the time line. What you are trying to figure out is a right question. The good news is it is not hard to figure out the question. It takes few steps to decode the signal once you know the context of the first dimension but we need to spin another dimension to ask those questions.
 
 ### A two dimensional information field. - 2DIF
 
@@ -136,7 +117,21 @@ The easiest way to imagine a 2DIF is to imagine a  2 dimensional plane and then 
 
 ![](./2Dif.jpg)
 
-The best example of 2DIF field is a electromagnetic field.  Let's look at a single time line of two dimensional electro magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
+Both the dimensions are feeding into one timeline. 
+
+For example let us say there is a dimension that is sending one unique number. Say that number is 10 but this number is hidden to us . Time line is only telling us "Yes " or "No" based on the value it sees in the signal. To figure out what the first dimension is telling us, we can design the second dimension such that it interferes with first dimension. 
+
+One way is to send a signal for every possible value through second dimension and ask the question - Is there a crest of size double the signal you are sending in second dimension. But that is if you are lucky in the sense you only have a small population to check. The easier way is to send the same wave through second dimension that is coming in first dimension. And see the interference pattern. 
+
+In a way interference pattern is the manifestation of the two dimensions. In essence we need second dimension to check what is there in the first. Now the question is simple - is it 20 ? And timeline can keep answering -"yes" or "no" . Just one beat that confirms the integrity of and value of first dimension. But in the process we introduced a "duality". Now there are two waves of the same shape - in two separate dimensions. This is a profound thing. Let us call this "convergence"
+
+Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. Convergence depends on the nature of the quest. Length of timeline depends on the duration of the quest. 
+
+It is important to state that the notion of "a dimension" is something that is not influenced from any other dimension. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. Since no information is allowed from outside , the idea of spinning a second dimension to know what is there in first, must come from with in the first dimension. This means - the idea of finding "who I am " is in built into the first dimension itself. 
+
+All we know is there is an answer in time line. And all we want to know what is the right question. In other words - we are Focused on a single point and our quest is to frame the question. It will be easy if we give a name to this point - we can call it "focus". In `Hath Yoga` - this single point in one dimensional time line is called `Bindu` - which literally means a "point" in Sanskrit. 
+
+The best example of 2DIF field is a electromagnetic field.  Let's look at a single time line of two dimensional electro-magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
 
 
 <p align="center">

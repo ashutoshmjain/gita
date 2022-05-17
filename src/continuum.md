@@ -9,14 +9,36 @@
 
 Krishna said in verse 27 of chapter 2 of Gita that all things born in truth must die and out of the death in truth comes life. This kinda hints at the cyclic reality of our being. In previous article, where we hypothesised the postulates of Gita , we went through a numbered list that we are all endowed with a protected, immutable but encrypted copy of knowledge. We also saw that `Bramh` - the system, provisions everything ; implements everything that we need to run our lives- in our tiny box. In addition it also implements a superior garbage collection system. But we left an important point open that the  underlying reality is a continuum. There is no beginning or an end. It's a everlasting cycle of knowledge to manifestation and vice-versa. 
 
-To understand the "Continuum", let us look at our physical reality. There are two things that don't need any more scientific proofs :-
+The question is how do we understand this underlying reality ? The only path we have is to observe our current physical reality and make informed guess. This approach is both scientific as well as a religious truth. We observed the Sun and the Moon and wondered how and why they go around us. With iterations over many centuries we have a better understanding that it is not the Sun that is running around us but quite the opposite. Sure, we had many conflicts over these centuries but those conflicts forced us to refine our rigor. Math and science are born out of this rigor - to explain our reality at a more fundamental level. 
 
-- First that every thing we observe is a "wave". The light is electromagnetic wave. Sound is a normal longitudinal wave. Even the tiny particles, such as electrons act like a wave as shown in the popular double slit experiment. 
+To understand the "Continuum", let us look at our physical reality. There are three things that don't need any more scientific proofs :-
 
-- And second that our notion of Time is linear and unidirectional.
+- First that we all are searching something. A hundred years from now, historians shell write that in the beginning of 21st century, human race conducted one of the largest survey. They invented something called internet. The idea of internet was to provide free information. Websites were set up to see what attracts humans the most. They came up with sophisticated mechanism of that time (though very primitive from 22nd century standpoint), to understand the their own behaviour. Turned out humans liked to search. A small company called Google became the most visited website. By an order of magnitude.  Humans flocked around search tools way more than social media, entertainment, news or even sports. The realization was that the way Google's crawlers search the web, humans were crawling through physical reality to catalog everything. In search of something. Search  is fundamental.We may NOT know what we are searching or why ; but we are all searching something.
 
-We will use some basic concepts of Physics to get us going but I promise to keep it to bare simple. Lets take a look at waves before we get to the idea of "Time". 
-    
+- Second that every thing we observe is a "wave". The light is electromagnetic wave. Sound is a normal longitudinal wave. Even the tiny particles, such as electrons act like a wave as shown in the popular double slit experiment. 
+
+- And the third,  that our notion of Time is linear and unidirectional.
+
+We will use these three basic assumptions to establish that underlying reality is a continuum. Along the way, We might use some basic concepts of Physics but I promise to keep it to bare simple. Lets take a look at waves before we get to the idea of "Time". 
+
+## Nature of Quest
+
+You may ignore the 22nd century folks as naive because they may not understand why we set up the internet. We know it was not a planned survey at all. It just evolved and since we are the basis of its evolution, , it looks just like our reality - a swath of information through which we are crawling. All individually on their own quest,  Just look at your browser history. You are searching something , almost on a daily basis. I do on hourly basis! That is the reason Google gets 4 billion hits. And it is quite amazing their web page has nothing. It's a plain white page. BTW reviewing our  browser history is a useful exercise to know who we are. How our quest is evolving over time. If Google can find "who we are ?" from our search , we sure can find "who we are" by looking at our own search. We will talk about this idea when we discuss "Triangulation" - A process to locate where we are in this maze. For now let us focus on nature of our quest. 
+
+Let us say, we are to search number 10 from a range say 1 to 50. The only answer we get is a "Yes" or a "No". One of the way is to ask fifty questions. Hey - is it 1 ? We shall get to answer in ten question. What if we were searching for 49 ?  Asking 49 questions seems really dumb. Is there a way to shorten our search. We are not only searching, we want to search as quickly possible. Don't we ? There is a better way. We can get to answer in around five questions. How ? 
+
+- Lets ask first question - Is it greater than 25 ? - No ! --> Means it is between 1 and 24.
+- There is no point asking if it is less than 25 because we already know that. So our next question is - Is it greater than 12 ? - No ! --> Means it is between 1 and 12. 
+- Next question - same drill - Is it greater than 6 ? Yes --> Bingo ! We got a smaller range. The number is between 7 and 11. 
+- Is it greater than 9 ? Yes. --> Means number is either 10 or 11.
+- Is it 10 ? - Yes. 
+
+So we got to the answer in five questions. Did you notice anything special in this approach ? We divide the population in roughly two haves and search one half. If we know the object of search is not there , we move on to next half. Again we split the second half and repeat the operation. Does it look like a familiar pattern ? May be a Sine wave ? 
+
+Other thing we notice that we never search the half that we already searched. There is no point going back there because we want to search as quickly as possible. Does it feel like our search is unidirectional ? 
+
+Science Alert - The idea that we can shorten the search to say five questions if our range is fifty is based on a mathematical model. Fifty lies between the 2^5 and 2^6. Or alternatively we can say that that we should find the answer in log 2 (50) attempts. Which is around 5.6. This is the basis of a subject called "Information Theory" that was 
+
 ## Waves - the basis of our sensory apparatus.
 
 Our world is made of waves. There are three broad types of wave and we are at the cusp of discovering the fourth one (gravitational waves) but we shall leave that out of the discussion for now.
@@ -110,7 +132,7 @@ The easiest way to imagine time as an information field is to try visualize a on
 The information is represented as "Y" and "N" . "Y" being particle is visible. "N" being particle is invisible.
 
 
-![](./1dif.jpeg)
+![](./1dif.jpg)
 
 So that we don't conflict with planes that connect two dimensions; lets just call our plane as "one dimensional information field". 1dif - for short. The answer that each point of 1dif records is "yes" or "No" based on the question. Question can be - Is something there ? - Answer can be a "yes" or a "no". Or the question can be - is the temperature more than 20 degrees ? - Answer can be "yes" or "no". You got it!  Time stamp only records "yes" or "no". A "zero" or a "One". An "Up" or a "Down". A "plus" or a "minus". Those are all just notations. The question defines what does it mean when time stamp says "yes" verses a "No". In essence, the answer is written in the time line. What you are trying to figure out is a right question. 
 

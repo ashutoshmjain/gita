@@ -35,13 +35,15 @@ Let us say, we are to search number 10 from a range say 1 to 50. The only answer
 
 So we got to the answer in five questions. Did you notice anything special in this approach ? We divide the population in roughly two haves and search one half. If we know the object of search is not there , we move on to next half. Again we split the second half and repeat the operation. Does it look like a familiar pattern ? May be a Sine wave ? 
 
-Other thing we notice that we never search the half that we already searched. There is no point going back there because we want to search as quickly as possible. Does it feel like our search is unidirectional ? 
+The key thing in this splitting algorithm is, we must be open to searching outside our search space. We can split the space only if we agree to search the second after first. This also means, we keep expanding our search space till we find what we are looking for. This expansionary nature of our quest is what we call "desire". Other thing we notice that we never search the half that we already searched. There is no point going back there because we want to search as quickly as possible. Does it feel like our search is unidirectional ? Just like the "time" ! 
 
-Science Alert - The idea that we can shorten the search to say five questions if our range is fifty is based on a mathematical model. Fifty lies between the 2^5 and 2^6. Or alternatively we can say that that we should find the answer in log 2 (50) attempts. Which is around 5.6. This is the basis of a subject called "Information Theory" that was 
+> Math Alert - The idea that we can shorten the search to say five-ish questions (if our range is fifty) is based on a mathematical model. Fifty lies between the 2^5 and 2^6. Or alternatively we can say that that we should find the answer in log 2 (50) attempts . Which is around 5.6. This is the basis of a subject called "Information Theory" that was postulated by Claud E Shannon in the forties. Question - Why log of 2? Probably because our answer is either "Yes" or a "No" - a binary bit !
+
 
 ## Waves - the basis of our sensory apparatus.
 
-Our world is made of waves. There are three broad types of wave and we are at the cusp of discovering the fourth one (gravitational waves) but we shall leave that out of the discussion for now.
+Our quest is a wave. The question is how do we search ? We have three primary sensors when it comes to search - Ears , Eyes and Touch. We perceive the world through these senses. Perceiving is, in a way, probing the reality for truth. If you see a table , you want to be sure if or not it is a table. That means our senses are receptors of information. Wouldn't it be nice if the information comes to us as a sine wave ? And that is exactly is what the nature has arranged for us. There are three types of wave for each of our sensors. 
+
 
 ### Mechanical waves  - Ears.
 

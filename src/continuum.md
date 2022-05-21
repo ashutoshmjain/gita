@@ -280,7 +280,7 @@ Knowledge to Information is in a sense broadcast of information. It ends with ma
 
 It had be rather naive to imagine that this circle is around us. As if we are the drivers of knowledge to information  or from manifestation to knowledge because the cycle in itself is endless. But we do have a complete cycle around who we are. And since our copy of knowledge is same as anything else, our cycle is same as that of the entire universe. 
 
-## Quest
+## Journey
 
 Waves are signals. Time is history of points in dimensions. Space is the "no land". What we are searching here is our quest. We can choose to search in one dimension or many dimensions. As many as we want. With each quest there is a cost to paid in terms of how many dimensions. What questions to ask in each dimension. And checking the persistence of those answers. If we don't find what we are looking for our focus must move. Thus motion is mandatory for quest. Absolute rest is observing what we are seeing and understanding what question our perception is answering. The work done to support the motion is work for desires. Work done for understanding what question your tiny box is answering at this moment is `Karm Yoga` - responding to the reality around us. A
 

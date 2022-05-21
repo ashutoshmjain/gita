@@ -167,25 +167,25 @@ There are many ways to approach this and probably Einstein was the first among u
 
 ### Time is the information field
 
-The easiest way to imagine time as an information field is to try visualize a one dimensional line . Assume a point is wiggling from time line "T-1" to "T+1". T being the center.  Time is unidirectional upwards which means future is pointing up and past is down. Plane Z indicates the time front - A frame representing "Now". You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history the  point .  
+The easiest way to imagine time as an information field is to try visualize a one dimensional line . Assume a point is wiggling from time line "T-1" to "T+1". T being the center.  Time is unidirectional upwards (future is pointing up and past is down. Plane Z indicates the time front - A frame representing "Now". You can say we have a horizontal one dimensional line and a timeline attached to every single point on that line as shown in T+1 and T-1. The job of the time line is to capture the history the  point .  
 
 The information is represented as "Y" and "N" . "Y" being particle is visible. "N" being particle is invisible.
 
 
 ![](./1dif.jpg)
 
-So that we don't conflict with planes that connect two dimensions; lets just call our plane as "one dimensional information field". 1dif - for short. The answer that each point of 1dif records is "yes" or "No" based on the question. Question can be - Is something there ? - Answer can be a "yes" or a "no". Or the question can be - is the temperature more than 20 degrees ? - Answer can be "yes" or "no". You got it!  Time stamp only records "yes" or "no". A "zero" or a "One". An "Up" or a "Down". A "plus" or a "minus". Those are all just notations. The question defines what does it mean when time stamp says "yes" verses a "No". In essence, the answer is written in the time line. What you are trying to figure out is a right question. 
+So that we don't conflict with planes that connect two dimensions; lets just call our plane as "one dimensional information field". 1dif - for short. The answer that each point of 1dif records is "yes" or "No" based on the question. Question can be - Is something there ? - Answer can be a "yes" or a "no". Or the question can be - is the temperature more than 20 degrees ? - Answer can be "yes" or "no". You got it!  Time stamp only records "yes" or "no". A "zero" or a "One". An "Up" or a "Down". A "plus" or a "minus". The binary information. The question defines what does it mean when time stamp says "yes" verses a "No". In essence, the answer is written in the time line. What you are trying to figure out is a right question. 
 
-You may ask why the point is wiggling ? Why is it not at rest ? That is a valid question. The answer is if the massless point is not wiggling , it has no information. Means it doesn't exist. In order to exist, everything must wield some information and everything that has information also has motion. Thus motion is the "information". Absolute rest is beyond "information" - no signal. You must have noticed this phenomenon in the face of your spouse when you do a late night with your friends out of the home. Absolute rest - no information :-) And that is an ultimate test for your focus :-)
+You may ask why the point is wiggling ? Why is it not at rest ? That is a valid question. The answer is if a massless point is not wiggling , it has no information. Means it doesn't exist. In order to exist, everything must wield some information and everything that has information also has motion. Thus motion is the "information". Absolute rest is beyond "information" - no signal. You must have noticed this phenomenon in the face of your spouse when you do a late night with your friends out of the home. Absolute rest - no information :-) And that is an ultimate test for your focus :-)
 
-The wiggle in one dimension creates a sine wave in time. As shown in the graphic above. So our particle knows that it exists. It sure can estimate from the timeline that it is wiggling. However, this information is not very useful. All it knows is that it exists. It can't see a shape. It can't frame any question. We need some manifestation to be able to shape our quest. Means there is some work needed. 
+The wiggle in one dimension creates a sine wave in time. As shown in the graphic above. So our particle knows that it exists. It sure can estimate from the timeline that it is wiggling. However, this information is not very useful. All it knows is that it exists. It can't see a shape. It can't frame any meaningful question. We need some manifestation to be able to shape our quest. Means there is some work needed. 
 
 
-You may tend to think that it is you observing this particle. No - it is just the massless particle. Imagine this particle is entire universe. All this particle is doing is wiggling in a single dimension to know that it exist. In `Hath Yoga`, we call this point a `Bindu` - which literally means a point but a better English translation is the "Focus". 
+You may tend to think that it is you observing this particle. No - it is just the massless particle. Imagine this particle is entire universe. All this particle is doing is wiggling in a single dimension to know that it exist. In `Hath Yoga`, we call this point a `Bindu` - which literally means a point but a better English translation is the "Focus". In essence, this point is the unit of conciousness. The purpose of consciousness is to make sense of the information. 
 
-The question now is what should be the first question that `Bindu` should ask ? Would you like to check the weather if you don't even know who you are ? Where you are located? In a way the first intelligent question is  - "Who am I ?" . 
+The question now is what is the first question that `Bindu` may ask ? Imagine you woke up from a timeless coma in the middle of nowhere. Would you like to check the weather if you don't even know who you are ? Where you are located? In a way the first intelligent question is  - "Who am I ?"  But as we agreed above, the answers are only "Yes" or "No" - means the question needs to be framed in a different way. It can ask "Am I a human?" or "Am I a chair ?" and that would be like asking -  Is it 1? Or Is it 2? . All the possible shapes or things in the universe. There must be a better way .. 
 
-> At this point you may breathe and marvel a bit on the overall design. 
+> At this point you may breathe and marvel a "bit" on the overall design. 
 >
 > - The quest is a Sine wave thus all the information is supplied to the sensors in the same format - a sine wave. 
 >
@@ -194,25 +194,31 @@ The question now is what should be the first question that `Bindu` should ask ? 
 > - A single timeline serves all the dimensions of quest (will see how it works down the line). 
 >
 > - Quest needs some sort of manifestation. 
->
-> Let us examine how this manifestation happens. 
+
+Let us examine how this manifestation happens. 
 
 
-### A two dimensional information field. - 2DIF
+### A two dimensional information field. - 2DIF - The holographic information field.
 
-The easiest way to imagine a 2DIF is to imagine a  2 dimensional plane and then assume a third dimension of time at every single point of the plane. 
+The easiest way to imagine a 2DIF is to construct a  2 dimensional plane and then assume a third dimension of time at every single point of the plane. 
 
 ![](./2dif.jpg)
 
-Both the dimensions are feeding into one timeline. 
+Both the dimensions are feeding into one timeline. Timeline is thus the line along the intersection of two 1Difs.
 
-For example let us say there is a dimension that is sending one unique number. Say that number is 10 but this number is hidden to us . Time line is only telling us "Yes " or "No" based on the value it sees in the signal. To figure out what the first dimension is telling us, we can design the second dimension such that it interferes with first dimension. 
+We are still in our single particle universe. All we have done is added an imaginary dimension perpendicular to the one that was already there - The sine wave generated out of the wiggle. In essence the exact shadow of the same particle is now wiggling in the second dimensions. Since our particle is a massless shapeless particle, and information must be conserved, that means it is the same particle in two dimensions - at the same time. Or we can say that the particle is "entangled" with itself. Now this may not be in full agreement with current hard-line physics definition of "entanglement" but it does satisfy the spirit of the idea - and that is what is more important when it comes to ideas such as love and entanglement :-)
 
-One way is to send a signal for every possible value through second dimension and ask the question - Is there a crest of size double the signal you are sending in second dimension. But that is if you are lucky in the sense you only have a small population to check. The easier way is to send the same wave through second dimension that is coming in first dimension. And see the interference pattern. 
+<p align="center">
 
-In a way interference pattern is the manifestation of the two dimensions. In essence we need second dimension to check what is there in the first. Now the question is simple - is it 20 ? And timeline can keep answering -"yes" or "no" . Just one beat that confirms the integrity of and value of first dimension. But in the process we introduced a "duality". Now there are two waves of the same shape - in two separate dimensions. This is a profound thing. Let us call this "convergence"
+  <img src="./circle.gif">
 
-Once the convergence is achieved and quest is answered, the time line can stop. If quest goes to infinity , the time line can keep searching for the expected value . In essence , timeline shall also grow to the infinity. Convergence depends on the nature of the quest. Length of timeline depends on the duration of the quest. 
+</p>  
+
+
+As you can see from the graphic above same sine wave oscillating perpendicular to each other is a circle in two dimensions. In high school math lingo we call these two sines at a phase difference of 90 degrees or if you were a trigonometry buff , you already know these are sine and cosine waves. 
+
+ So now our lonely "point" got a description for "who am I". Now it can ask a valid question - Am I a circle ? Another thing to notice here , there is only one question for both the dimensions. This is a profound thing. What we achieved here is rather than recording information (as it is) from two dimensions, the focus minimized the storage to a unique question and a unique answer in two dimensions. 
+
 
 It is important to state that the notion of "a dimension" is something that is not influenced from any other dimension. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. Since no information is allowed from outside , the idea of spinning a second dimension to know what is there in first, must come from with in the first dimension. This means - the idea of finding "who I am " is in built into the first dimension itself. 
 

@@ -217,15 +217,16 @@ The question now is what new dimension our particle must create and how. What is
 Let us examine how this manifestation happens. 
 
 
-### A two dimensional information field. - 2DIF - The holographic information field.
+### A two dimensional information field. - 2DIF
 
-The easiest way to imagine a 2DIF is to construct a  2 dimensional plane and then assume a third dimension of time at every single point of the plane. 
+The easiest way to imagine a 2DIF is to draw two lines at right angle. Every single point of the respective information plane record the history of the particle. Choice of right angle is arbitrary. It can we any other angle but keeping it a right angle shall help us down the line when we discuss the electromagnetic field. 
 
 ![](./2dif.jpg)
 
 Both the dimensions are feeding into one timeline. Timeline is thus the line along the intersection of two 1Difs.
 
-We are still in our single particle universe. All we have done is added an dimension perpendicular to the one that was already there - The sine wave generated out of the wiggle. In essence the exact shadow of the same particle is now wiggling in two dimensions. Since our particle is a massless shapeless particle, and information must be conserved, that means it is the same particle in two dimensions - at the same time. Or we can say that the particle is "entangled" with itself. Now this may not be in full agreement with current hard-line physics definition of "entanglement" but it does satisfy the spirit of the idea - and that is what is more important when it comes to ideas such as love and entanglement :-)
+The graphic shows three pairs of "Y"s . Pairs are to represent information coming from two dimensions though we could very well use only one "Y" along the time line. The central value is where the circle is just a dot but it is still a circle. The bottom and top pair is where circle is of full size. You may like to imagine this circle as a wine opener screw rotating and moving in the direction of time.
+
 
 <p align="center">
 
@@ -234,11 +235,14 @@ We are still in our single particle universe. All we have done is added an dimen
 </p>  
 
 
-As you can see from the graphic above same sine wave oscillating perpendicular to each other is a circle in two dimensions. In high school math lingo we call these two sines at a phase difference of 90 degrees or if you were a trigonometry buff , you already know these are sine and cosine waves. 
+> High School Math :- As you can see from the graphic above same sine wave oscillating perpendicular to each other is a circle in two dimensions. In high school math lingo we call these two sines at a phase difference of 90 degrees or if you were a trigonometry buff , you already know these are sine and cosine waves. 
 
- So now our lonely "point" got a description for "who am I". Now it can ask a valid question - Am I a circle ? Another thing to notice here , there is only one question for both the dimensions. This is a profound thing. What we achieved here is rather than recording information (as it is) from two dimensions, the focus minimized the storage to a unique question and a unique answer in two dimensions. 
+By projecting itself into an additional dimension, the information took a shape - a circle. A pattern emerged in the ocean of bits.  In case of right angle information planes , this pattern is a circle. In a way,  a specific property of the particle took expression. This is by far not all the knowledge that particle may have. It is just a beginning. Particle now may give itself a name - a circle. In essence, it got an identity. 
 
-It is important to state that the notion of "a dimension" is something that is not influenced from any other dimension. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. Since no information is allowed from outside , the idea of spinning a second dimension to know what is there in first, must come from with in the first dimension. This means - the idea of finding "who I am " is in built into the first dimension itself. In essence, "who am I" is the first question. A new born child wants to know it. A new born cell too. So does a new born universe. In a way manifestation and answer to this question go hand in hand. They both evolve in time. 
+ So now our lonely "point" got a description for "who am I". Now it can ask a valid question - Am I a circle ? Another thing to notice here , there is only one question for both the dimensions. This is a profound thing because we removed all the "No"s. What we achieved here is rather than recording raw information (as it is) from signals from two dimensions, we are asking a question about the manifestation. The answer remains "Yes" as long as the particle remains wiggling in two dimensions. If we remove the second dimension at any point, it again turns into information. If there is no particle wiggling at all then of course the answer is no. In a way, the manifestation confirms existence and it compacts information into a simpler format. That is what "Intelligence" is - making sense of information to express a property of inherent knowledge and at the same time compacting the information. Instead of "Yes"s and "No"s along the infinite length of each dimension, we have only one time line with a "Yes" or "No". 
+
+
+It is important to state that the notion of "a dimension" is something that is not influenced from any other dimension or anything external. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. Since no information is allowed from outside , the idea of spinning a second dimension , must come from with in the first dimension. This means - the idea of finding "who I am" is in-built into a dimension itself. Thus "Quest" is fundamental. "Who am I" is the first question. A new born child wants to know it. A new born cell too. So does a new born universe. The downside, however, is quest is endless. It never stops. 
 
 Before we discuss more complex manifestations, let us look at am elementary particle - Photon. The oldest example of 2DIF field is a electromagnetic field.  Let's look at a single time line of two dimensional electro-magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
 
@@ -250,7 +254,6 @@ Before we discuss more complex manifestations, let us look at am elementary part
 </p>  
 
 
-The graphic shows three pairs of "Y"s . Pairs are to represent information coming from two dimensions though we could very well use only one "Y". The central value is where the circle is just a dot but it is still a circle. The bottom and top pair is where circle is of full size. You may like to imagine this circle as a screw rotating and moving in the direction of time.
 
 As long as the electromagnetic field exist, this value continues to be yes. In essence, the photon is scale invariate. It doesn't matter how big or small the circle is. If he circle is big it may be a photon of a radio wave. If it is small it could be a Gamma ray photon. But it is photon nevertheless. The distinction of energy level is for the observers. Photon only knows it exists.
 

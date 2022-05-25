@@ -244,7 +244,7 @@ By projecting itself into an additional dimension, the information took a shape 
 
 It is important to state that the notion of "a dimension" is something that is not influenced from any other dimension or anything external. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. Since no information is allowed from outside , the idea of spinning a second dimension , must come from with in the first dimension. This means - the idea of finding "who I am" is in-built into a dimension itself. Thus "Quest" is fundamental. "Who am I" is the first question. A new born child wants to know it. A new born cell too. So does a new born universe. The downside, however, is quest is endless. It never stops. 
 
-Before we discuss more complex manifestations, let us look at am elementary particle - Photon. The oldest example of 2DIF field is a electromagnetic field.  Let's look at a single time line of two dimensional electro-magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
+Before we discuss more complex manifestations, let us look at an elementary particle - Photon. The oldest example of 2DIF field is an electromagnetic field. In the later parts of last century, Quantum Field Theory added a field for each of the elementary particles but they are beyond the scope of this article. Let's look at a single time line of two dimensional electro-magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
 
 
 <p align="center">

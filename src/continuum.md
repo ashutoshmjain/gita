@@ -244,7 +244,10 @@ By projecting itself into an additional dimension, the information took a shape 
 
 It is important to state that the notion of "a dimension" is something that is not influenced from any other dimension or anything external. It has nothing to do with the width or the thickness - those measures come into play when we start viewing the world in three dimensions. Since no information is allowed from outside , the idea of spinning a second dimension , must come from with in the first dimension. This means - the idea of finding "who I am" is in-built into a dimension itself. Thus "Quest" is fundamental. "Who am I" is the first question. A new born child wants to know it. A new born cell too. So does a new born universe. The downside, however, is quest is endless. It never stops. 
 
-Before we discuss more complex manifestations, let us look at an elementary particle - Photon. The oldest example of 2DIF field is an electromagnetic field. In the later parts of last century, Quantum Field Theory added a field for each of the elementary particles but they are beyond the scope of this article. Let's look at a single time line of two dimensional electro-magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
+At this point, you may feel that the circular shape as we discussed above is some sort of projection. Like something on our TV screen. Einstein proved quite the opposite. He showed that a two dimensional EM field actually manifests a physical particle. A photon - that can knock off an electron from the surface of a metal plate. These days , the idea of the "fields" is pretty common. The "Quantum Field Theory" provisions twenty three more such fields to our universe to describe all the elementary particles of standard model. The way EM field gives rise to a Photon , these fields manifest all the building blocks of our universe something akin to matter waves. A transformation of information to manifestation. 
+
+
+Let's look at a single time line of two dimensional electro-magnetic field. "X" is the dimension of electric field, "Y" is the dimension of magnetic field and "Z" is the Time pointing towards past. 
 
 
 <p align="center">
@@ -255,7 +258,8 @@ Before we discuss more complex manifestations, let us look at an elementary part
 
 
 
-As long as the electromagnetic field exist, this value continues to be yes. In essence, the photon is scale invariate. It doesn't matter how big or small the circle is. If he circle is big it may be a photon of a radio wave. If it is small it could be a Gamma ray photon. But it is photon nevertheless. The distinction of energy level is for the observers. Photon only knows it exists.
+As long as the electromagnetic field exist, the history of timeline continues to be yes. Since EM field (like other fields of QFT) is universal that means Photons are everywhere. In particular when they hit an electron, the interaction changes their energy level. This disturbance passes through this field at the speed of light. That is how we see the objects because our eyes are a sensor for the photons.
+
 
 ### Knowledge to Manifestation
 

@@ -18,7 +18,8 @@ There are three things that don't need any more scientific proofs. They are acce
 
 - First that we all are searching something. 
 
-    What we know as "quest" in our lives, is same as "motion" in the particle physics. We know from Quantum Mechanics that all elementary particles are always at motion. Nothing is stationary or at absolute rest in our universe. While particle motion is a scientific truth, we may not be so sure about the eternal nature of our own quest. The proof our quest is in data.
+    What we know as "quest" in our lives, is same as "motion" in the particle physics. We know from Quantum Mechanics that all elementary particles are always at motion. Nothing is stationary or at absolute rest in our universe. While particle motion is a scientific truth, we may not be so sure about the eternal nature of our own quest. Lets see if we could gather something from the data.
+    
 
     A hundred years from now, historians AI may write -
 
@@ -322,3 +323,9 @@ The good news is we are all in this state. We are all manifested beings of immen
 The question is how do we access or feel or get a glimpse of our knowledge. The thing that created us is hidden to us. Now obvious extension of the question is why do we need to access this knowledge ? Why not let it be where it is ? The answer is - Not knowing is a legit choice. But it comes at a cost. Since we (and everything around us) is manifested out of a wave, the nature of our life is a wave - in that there are cycles of elation and pain. It is a never ending roller coaster. I don't know if we can experience a black hole or become one where we may be able to separate information from knowledge but thankfully Gita suggests a simpler approach - `Karm Yoga`. This is the path to see or feel our internal hidden knowledge in this manifested body. 
 
 The first aspect of `Karm Yoga` is to understand that this cycle of knowledge to manifestation and vice versa is end less. There is no victory post. The journey never ends. In some shape or form it continues. In this universe or somewhere else in a parallel universe. There is no entry or exit. The notion of exit is exit from the cycles of elation and pain. In essence the goal is to ride the waves. We are NOT trying to solve the mysterious universe. Neither are we destined to create new ones. The idea is to feel the peace wherever we are. However, end of pain does mean end of happiness too. There is no silver bullet that may keep you ever joyous. The choice is entirely subjective. If you feel like trying this path, read on .. 
+
+----
+
+<center> 
+<h2> 2.0 </h2>
+</center>

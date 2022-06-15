@@ -28,9 +28,12 @@ The first question is how come these photons still around?  Once again from theo
 
 ![](./circleOfC.jpg)
 
-The figure above ignores the gravity to communicate a point. Since Photons move at the speed of light (C) in space, they don't move at all in time. In other words the photons created 380,000 years after the big bang are still available to our instruments. These photons are exactly in the same conditions as they were at the time of their birth and they are traveling in space at ~300K Km per second and are reaching from all the directions. We can go in details as to why is the CMB visible in all the directions but that is not the point. The point is it is generally understood that light emitted from the past events can reach us now . For example the light that is coming to us from sun left sun around 8 minutes back. The moonlight normally takes a second to reach earth. 
+The figure above ignores the gravity to communicate a point. Since Photons move at the speed of light (C) in space, they don't move at all in time. In other words the photons created 380,000 years after the big bang are still available to our instruments. These photons are exactly in the same conditions as they were at the time of their birth and they are traveling in space at ~300K Km per second and are reaching from all the directions. We can go in details as to why is the CMB visible in all the directions but that is not the point. The point is it is generally understood that light emitted from the past events can reach us now . For example the light that is coming to us from sun left sun around 8 minutes back but it didn't change at all in these last 8 minutes. In essence photons don't age at all. The one that left billions of years ago from the face of some star are still the same. Or we can say information moves at the speed of light in space. It doesn't contribute at all any of its motion towards time. 
 
-But the question is - if Photons don't move at all in time, then how do we get the light from our extreme past? And another equally relevant question is - Do we have access to all that has happened in the past or is there a limit ? Turns out - we can only get information from a three dimensional cone in our past. Anything outside our conical past is beyond us. 
+And this ties well with our earlier premise , to experience time, a thing must manifest. At the surface , it appears that photons never manifest into anything and hence they have no sense of passage of time. At least that is what we normally see as a conclusion in the popular science on youtube. 
+
+But the question is - if Photons don't move at all in time, then how do we get the light from our extreme past ? Even from near past. If something doesn't move at all in time , then it should be stuck in the same moment. It should never reach future !
+
 
 
 ![](cycleOfTime.jpg)

@@ -96,12 +96,30 @@ For example, we can count for each multiplet how many real degrees of freedom it
     - SU(2) gauge boson: SU(2)-triplet, 12 d.o.f.
     - Gluon: color-octet, 32 d.o.f.
 
-So there are 19 multiplets and if we decompose them we get 268 real fields.
+***So there are 19 multiplets and if we decompose them we get 268 real fields.***
+
+Now, in the Standard Model there is something called spontaneous symmetry breaking. It makes massive the massless fields it contained in principle. This changes the counting and gives us the fields associated with the particles we are more familiar with:
+
+- The Higgs boson 
+- 3 charged leptons: electron, muon and tau. 
+- 3 neutral leptons: the neutrinos corresponding to electron, muon and tau. 
+- 6 quarks (3 colors each): up, down, charm, strange, bottom and top. 
+- The photon 
+- 3 electroweak massive bosons: Z and W± 
+- 8 gluons
+
+***Counting this way gives us 37 fields. As you can see, field counting can be very arbitrary as it depends on what you understand by a single quantum field***
 </blockquote>
 
-And we are only talking about the basic particles here. No one has any clue how these complex fields interact with each other to build conscious objects such as humans. 
+So , if you survived above quote, what we are saying is , electromagnetic field is just one aspect of space. We have many many more. Each template has its own rules to give rise to massive and massless particles. I must add that the standard model still can't explain many things - for example it is somewhat limited in describing the "gravity". It has no clue what is "dark energy" or dark matter". Despite its limitations, the model is tested day in and day out in particle accelerators. 
 
- I guess there should be a better way to organize these ideas .. 
+The point that I want to make is , every tiny piece of space - even the empty space - has the intelligence built into it to convert waves of possibilities into something perceivable. The mathematics of these fields might seem like a crazy imagination but the model predicts formation of real particles such as electron and quarks. We know quarks make up the protons and neutrons and together with electrons they form the classical atoms. We can debate if atoms or molecules are real or a wave but the thing is - we can see them under a microscope. They persist. They experience "Time". They rise and decay in time. And the form the beautiful reality that we experience as conscious beings. 
+
+And now the more important point- We could have imagined that one such field (our old electromagnetic field) was an accident. A random property of universe. But all the above described fields can't just be an accident. These mathematical models exist in space as much as the particles that they give rise to. In other words - space holds the skills or intelligence to manifest things. In a way, it is something like a computer application - for example when you launch say Microsoft Word - you have the templates to make a Resume, or a Brochure or an Essay .. These templates in themselves are NOT a final product but they exist to make it easy to manifest a desired document. In a way, our space is a quantum computer that provides ready templates for manifesting real objects. In that the space could also be a manifested object. 
+
+But just templates are not the end of the story. We need one more crucial element for manifestation. And that is what we call "Energy"
+
+## Energy
 
 
 

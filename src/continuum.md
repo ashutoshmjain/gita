@@ -152,9 +152,8 @@ This content is very different from the nature of the template of the manifestat
 - Energy is protected - means it can not be created or destroyed
 - Energy is immutable - means it can't be changed. We can sure pack it in different forms through different templates into different manifestations but energy itself never changes.
 - Energy is encrypted - We can't perceive it with our senses. We only perceive it through its manifestations.
-- Energy is symmetric trough time and it is conserved.
 
-There exists a continuum from energy to manifestations and vice versa.
+And we know from science that Energy is symmetric trough time and it is conserved. There exists a continuum from energy to manifestations and vice versa.
 
 
 

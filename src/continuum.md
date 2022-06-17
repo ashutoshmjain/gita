@@ -20,14 +20,16 @@ You may say if a road is 1000 miles long , we can't see the starting point. I ag
 
 The good news is nature provides a mechanism to maintain history for everything. This mechanism is a fool proof ledger that can't be tempered by anyone. No it is not a Block Chain :-) It is called "light". We may also cal it "information". 
 
-Everything that exists or ever existed, emits electromagnetic radiations (with exception of Black holes- they swoop in their own radiations too - they are both hungry and greedy). These radiations can be in different levels of energy (or frequency). For example Gamma rays have very high energy even more than X rays. On the other side of spectrum we have radio waves that have a very high wave-length and thus very low energy. Our visible light falls somewhere in the middle. There is however one thing in common for all the electro-magnetic waves - they all travel at the same speed in our space - roughly at around 300,000 km per sec. I can go "on and on" on electro-magnetic waves but I had rather give you this xkcd - it says it all.
+Everything that exists or ever existed, emits electromagnetic radiations (with exception of Black holes- they swoop in their own radiations too - they are both hungry and greedy). These radiations can be in different levels of energy (or frequency). For example Gamma rays have very high energy even more than X rays. On the other side of spectrum we have radio waves that have a longer wave-length and thus very low energy. Our visible light falls somewhere in the middle. There is however one thing in common for all the electro-magnetic waves - they all travel at the same speed in our space - roughly at around 300,000 km per sec. I can go "on and on" on electro-magnetic waves but I had rather give you this xkcd - it says it all.
 
 ![](./spectrum.jpg)
 
 
 Scientists use these waves to measure all sorts of things from the far flung places to the origin of our universe. For example , our Universe is 13.8 billion years old. Obviously there was no recorded history at that time. Then how can we be so sure of the phenomenon? That is where electromagnetic waves come into play - We know that we can still observe the light created say around 380,000 years after the big bang. The photons from that event are still accessible to our instruments. This back ground light is distinctly available in the shape of microwave radiations commonly called "cosmic microwave radiations -CMB" . We can figure out with high confidence that the pattern of CMB is around 380,000 years after the big bang. 
 
-The first question is how come these photons still around?  From theory of Relativity, we know that everything moves at ~300K km per sec in our space-time. And that includes you , me and the computer you are reading  this text on. If something moves spatially at the speed of light ~300K Km per sec, then it doesn't move at all in time and -vice versa. In other words ~300K Km per sec in not a special thing for "light". The only thing that is special about light is it puts all its eggs into the spatial basket whereas we the "chair-seekers" move mostly in time :-)  
+The first question is how come these photons still around?  
+
+The answer is in Theory of Relativity, we know that everything moves at ~300K km per sec in our space-time. And that includes you , me and the computer you are reading  this text on. If something moves spatially at the speed of light ~300K Km per sec, then it doesn't move at all in time and -vice versa. In other words ~300K Km per sec in not a special thing for "light". The only thing that is special about light is it puts all its eggs into the spatial basket whereas we the "chair-seekers" move mostly in time :-)  
 
 Thus photons never move in time. They are ever young. Or in other words - nothing ever dies in the realm of information. 
 
@@ -41,15 +43,17 @@ Thus photons never move in time. They are ever young. Or in other words - nothin
 
 Since Photons move at the speed of light (C) in space, they don't move at all in time. In other words the photons created 380,000 years after the big bang are still available to our instruments. These photons are exactly in the same conditions as they were at the time of their birth and they are traveling in space at ~300K Km per second and are reaching us from all the directions. We can go in details as to why is the CMB visible in all the directions but that is not the point. The point is -  it is generally understood that light emitted from the past events can reach us now . For example the light that is coming to us from sun left sun around 8 minutes back but it didn't change at all in these last 8 minutes. In essence photons don't age at all. The one that left billions of years ago from the face of some star is still the same. Or we can say information moves at the speed of light in space. It doesn't contribute at all any of its motion towards time. 
 
-> This brings us to our second law of Time - Time is for only those things that exist. Or have some mass because only things with some mass can produce electromagnetic waves. In other words only manifested things experience time. Information, on the other hand,  is timeless because photons are massless. 
+> This brings us to our second law of Time - Only manifested things experience time. Information, on the other hand,is timeless because photons are massless. 
 >
-> This kinda makes sense and plays well with  our first law because you can record history of only those things that exist. If something never existed, there is no history for it. We sure can wait for it to happen but its history will start only after it happened. 
+This kinda makes sense and plays well with  our first law because you can record history of only those things that exist or existed in the past. If something never existed, there is no history for it. We sure can wait for it to happen but its history will start only after it happened. Well, there can be "conspiracy" histories of anything (the never existed) on youtube and twitter :-) but we are talking about real histories in terms of electromagnetic waves. 
 
-**And here goes first paradox of Time. You see , there is no fun in science if there are no paradoxes :-)**
+**And in line with Youtube tradition, here goes our first paradox of Time. You see , there is no fun in science if there are no paradoxes :-)**
 
 ### Wave Particle Duality
 
-The question is - if Photons don't move at all in time, then how do we get the light from our extreme past ? Even from near past? Things don't add up here ! If something doesn't move at all in time , then it should be stuck in the same moment. It should never reach future ! This is where the Nobel prize winning idea of Einstein comes up. Einstein showed that even information must manifest in order to pass through time. Okay , he didn't put it like this but he did prove the wave-particle duality of light. Just as a side note - Einstein won Nobel prize for describing the wave particle nature of light (photo-electric effect) NOT for theory of relativity. At the first look it appears gross negligence on the part of Nobel jury but if you dig deeper, the idea of wave particle duality is core of understanding time. Let us see how ?
+The question is - if Photons don't move at all in time, then how do we get the light from our extreme past ? Even from near past? Things don't add up here ! If something doesn't move at all in time , then it should be stuck in the same moment. It should never reach future ! 
+
+This is where the Nobel prize winning idea of Einstein comes up. Einstein showed that even information must manifest in order to pass through time. Okay , he didn't put it like this but he did prove the wave-particle duality of light. Just as a side note - Einstein won Nobel prize for describing the wave particle nature of light (photo-electric effect) NOT for theory of relativity. At the first look it appears gross negligence on the part of Nobel jury but if you dig deeper, the idea of wave particle duality is core to understanding "time". Let us see how ?
 
 ![](cycleOfTime.jpg)
 

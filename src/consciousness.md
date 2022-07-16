@@ -1,14 +1,12 @@
 <center>
-<h1>`Chakra`</h1>
-
-<iframe src="https://archive.org/embed/arjunUvaach/1dot1.mp3" width="350" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+<h1>`Consciousness`</h1>
 </center>
 
-> jātasya—for one who has been born; hi—for; dhruvaḥ—certain; mṛityuḥ—death; dhruvam—certain; janma—birth; mṛitasya—for the dead; cha—and; 
+In "Continuum" we talked about the cycle of Knowledge to Manifestations. We also touched upon the Anthropic Principle towards the end but we didn't go in much details. I think we need to see this principle once again to really get us started in our understanding of the "consciousness".
 
-Krishna said in verse 27 of chapter 2 that all things born in truth must die and out of the death in truth comes life. This kinda hints at the cyclic reality of our being. In previous article, where we hypothesised the postulates of Gita , we went through a numbered list that we are all endowed with a protected, immutable but encrypted copy of knowledge. We also saw that `Bramh` - the system, provisions everything ; implements everything that we need to run our lives- in our "tiny box". In addition it also implements a superior garbage collection system. But we left an important point open that the  underlying reality is a continuum. There is no beginning or an end. It's a everlasting cycle of knowledge to manifestation and vice-versa. 
+On a typical computer there are hundreds of documents , spread sheets , media files . Even if you buy a brand new computer or install a new operating system, there are thousands of files on the system. Most of these files are lower level configuration or code. But there are are hundreds of files in users and applications space that can be used as a template or a exercise or a manual. Even a blank document too is kind of a template. A typical user has tens of applications open on a computer with their respective files open - waiting for user attention. But we can only focus on one application or a file at one point in time. Even if you have a split screen where you have two or three windows open , you can only look at one side of the screen at a time. Splitting the screen only helps you to quickly get to the window without having to press a command+tab or clicking the mouse. 
 
+Why are we talking about computer and files in discussion on Anthropic principle. Well this is my convoluted interpretation of the principle. What I am saying here, our attention , our observation is not limited to by the computers or applications or the templates - Our attention is limited by a singular focus on one thing at a time. 
 The question is how do we understand this underlying reality ? The only path we have is to observe our current physical reality and make an informed guess. This approach is both scientific as well as a religious truth. We observed the Sun,  the Moon and the stars and wondered if we were the center of the universe. With iterations over many centuries we have a better understanding - It is not us or even the Sun. In fact, our universe has no center. Sure, we had many conflicts over these centuries but those conflicts forced us to refine our rigor. Math and science are born of this rigor - to explain our reality at a more fundamental level. To decrypt the truth or to find the signal in this noise. And that exactly is the stated goal of religion. We will see down the line how these two strategies harmonize as we get a better appreciation of "Continuum".
 
 To understand the "Continuum", let us use the same strategy - look at our physical reality. 

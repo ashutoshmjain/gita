@@ -1,6 +1,6 @@
 Krishna Dvaipayana was brought to life for a purpose. He was destined to compile thousands of sacred insights into the four Vedas. That, in itself was most noble writing project but his real goal was lot bigger. We need to uncover a bit of history before we get there!
 
-Before his time, Vedas were probably passed on as `Shruti`-The spoken word. A team of authorised `Vyasas — compilers` passed on the divine knowledge to the next generation. Or might have written down as one off text — half-baked, grammatically obsolete and contextually incoherent. Fortunately, a new human language, Sanskrit, was recently developed by *Panini* — a grammarian par excellence. 
+Before his time, Vedas were probably passed on as `Shruti`-The spoken word. A team of authorised `Vyasas — compilers` passed on the divine knowledge to the next generation. Or might have written down as one off text — half-baked, grammatically obsolete and contextually incoherent. Fortunately, a new grammer for the age-old language, Sanskrit, was recently developed by *Panini* — a grammarian par excellence. 
 
 > Modern linguistics acknowledges it as the most complete generative grammar of any language yet written, and continues to adopt technical ideas from it. Paul Kiparsky, 1994. 
  

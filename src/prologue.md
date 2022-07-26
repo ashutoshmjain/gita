@@ -36,15 +36,11 @@ She thought for a while — What would people say? Looking at `Yogi` she asked, 
 
 Rishi Parashara had a sigh of relief. He wanted it to be a clandestine operation. Not only he wasn't planning on having a wife but he knew `Matsagandha` must go on for she had a bigger role to play. And he already had a plan. He said — I have a nice `Ashram` in the middle of the island. You may stay there. I will be around your entire pregnancy and you will have no dearth of help, food or shelter. After couple days, I will have someone sent a message to village head that you took on `Sanyaasa` — ascetic life, and that I have sent you to study to one of my friend.
 
-That was not all for `Matsyagandha`. She wanted her smell be replaced with intense aroma that attracted every passerby. This was something `Parashara` didn't expect. Changing physical attribute of a biological woman was impossible - even for a Yogi. He promised her a life long supply of Sandalwood perfume that he had mastered for getting into intense meditation. Once invoked , the person and his vicinity smelled like Sandalwood jungle.
+`Matsyagandha` nodded her acceptance. She was still not sure it was happening to her. `Maharishi` looked at her and he figured she wanted something else. He stood up and asked - Do you want something else `Matsya`? - His voice full of love and gratitude.
 
-But, she wanted one more thing - she wanted the usage right (on demand) on the intelligence she was helping to bring to the world. In the physical world such usage was nothing less than miracles.
+What will happen to me after the child birth. I will need to feed him at least for an year!  but what after that? - asked `Matsyagandha`.
 
-Time was running out for `Rishi Parashara`. He wanted to set the project in motion. He was not sure of the last ask. 'On demand' use for the most advanced intelligence was too much to ask. Could he negotiate? Or should he give a counter offer . In a hurry , he proposed a single use for non-destructive purpose only.
-
-Matsyagandha looked at Rishi Parashara . She smiled and said - two. Parashara felt compromised though he had an inkling that this dot might connect with something more subtle in future. He finally succumbed to the situation. "Okay" - he agreed and raised his wand. The obligation was cast in the smart contract.
-
- Matsyagandha smiled - "all yours". And then she lost consciousness. When she woke up , she was on the bank, her boat was moored . Rishi Parashara had left. An egg stolen from her womb. She was now Satyawati - mother of the truth.
+`Maharishi Parashara` thought for a while. He wanted to make sure he found the right words as much as he said the truth. He said - after three years, once child is ready to go with me, you may , if you wish to return to the village.
 
 -----
 

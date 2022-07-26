@@ -26,7 +26,9 @@ And he had his eyes set on `Matsyagandha` as prospective mother to bear this div
 
 The solace and lone life made `Matsyagandha` see the life from a third vantage. An ability afforded in humans by evolution. She had imagination of a writer and creativity of a poet. `Maharishi Parashara` had taken her boat once when he wanted to spend a dark night in the island middle of `Yamuna`. A cursed jungle where no man wanted to go. They wanted their boats at least a mile from the cursed island. Only `Matsyagandh` would take `Maharishi` to the island for she had no passenger in days. She was short on basic supplies such as food and milk.
 
-On the way, she asked `Maharishi` the meaning of her curse. She challenged the existence of One God for God can't be merciless. Questions that forced a `Yogi` to engage with her life. `Maharishi` was forced to look at her life, and her future. And he saw the purpose of her being. She was the mother of `Krishna` and in due course she would play a prime role in testing what `Krishna` would find. `Maharishi` looked at the dark sky and saw glitter of stars. He smiled and told her - Your life has a much bigger purpose. I shall come back to you for your help.
+On the way, she asked `Maharishi` the meaning of her curse. She challenged the existence of One God for God can't be merciless. Questions that forced a `Yogi` to engage with her life. `Maharishi` was forced to look at her life, and her future. And he saw the purpose of her being. She was the mother of `Krishna` and in due course she would play a prime role in testing what `Krishna` would find. `Maharishi` looked at the dark sky and saw glitter of stars. He smiled and told her — Your life has a bigger purpose. I shall come back to you for your help.
+
+Exactly after an year, another dark night and `Maharishi` returned to the banks of `Yamuna`. `Matsyagandha was there as if destiny had plotted this union.
 
 The operation must be completely hidden to the populations and I need a new identity after .. - She demanded.  Boat was leaving the banks of `Yamuna`- heading mid stream.
 

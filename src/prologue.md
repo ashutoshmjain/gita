@@ -63,9 +63,9 @@ What will happen to me after the child birth? I will need to feed the new born a
 
 `Maharishi Parashara` thought for a while. He wanted to make sure he found the right words as much as he wanted to say the truth. He said — after two years, once child is ready to go with me, you may, if you wish to, return to the village.
 
-`Matsya's` face turned hollow. Her words broken — this village hates me. The old women would find out in no time that I mothered a child. They would despise me even more. As it is, I am living a hell. This would only add more to the hate  I receive. They would most likely burn me alive for bearing a child before marriage.
+`Matsya's` face turned hollow. Her words broken — this village hates me. The old women would find out in no time that I mothered a child. They would despise me even more. As it is, I am living a hell. This would only add more to the antipathy I receive. They would most likely burn me alive for bearing a child before marriage.
 
-No one would recognize you! — `Maharishi` said with confidence. I would bless you into the most beautiful woman ever lived. You will smell of Sandal all day and all night. Passengers would line up to take your boat. And one among them might take you as a wife, having fallen madly in love with you. And thereafter, you would rule the world!
+No one would recognize you! — `Maharishi` said with conviction. I would bless you into the most beautiful woman ever lived. You will smell of Sandal all day and all night. Fares would line up to take your boat. And one among them might take you as a wife, having fallen madly in love with you. And thereafter, you would rule the world!
 
 `Matsya` couldn't believe her ears. The prospect of looking and smelling good and the idea that the village that hated her would bow down to her beauty set butterflies in her. She folded both her hands and kneeled. And then she looked up straight into deep eyes of `Maharishi`. Her eyes said `Yes`. `Maharishi` met her gaze. He wanted to be sure — you need to say a 'Yes'. As he reconfirmed the acceptance, he pulled out his wand, lowered it into the waters of holy `Yamuna` and threw few droplets on her face. And she lost her consciousness.
 

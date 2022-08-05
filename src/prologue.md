@@ -100,10 +100,29 @@ The news of arrival of a beautiful noblewoman had already spread in the village.
 
 After few days of rest and enjoying cooked food, `Satyawati` returned to her boat. Along with her three local girls of her age who offered to help her on the boat. She was back in business as she saw a line of commuters growing to board her boat. She smiled and a song came to her lips. Life could be much easier for the rich and beautiful — she thought. The thought was soon replaced by the memory of `Krishna`. Every success must be paid in some form, some pain. She reminded herself that `Krishna` was with `Maharishi`. He couldn't have asked for a better father.
 
-Back to his `Ashrama`, there was a welcome celebration for `Maharishi` and `Krishna`. No one asked about the mother for they were all busy checking out one year old who could already speak fluent `Sanskrit`. He had all the `Mantras` by heart. 
+Back to his `Ashrama`, there was a welcome celebration for `Maharishi` and `Krishna`. No one asked about the mother for they were all busy checking out one year old who could already speak fluent `Sanskrit`. He had all the `Mantras` by heart. `Maharishi Parashara` always kept him with in his eyes. Young `Krishna` was curious. He asked even more questions than his mother. `Maharishi` always eager to respond to him. He learnt music, dance and finally the astrology.
 
 -----
 
 Time took the wings again. 
 
-Krishna built a deep understanding of the universe. The laws of our nature. This knowledge needed to be manifested. A text — a long one. Krishna, thus, compiled the entire wisdom in four Vedas — `Rik, Saam, Yazur and Atharva`. There was still a lot that could go as specialized annex. So he went on to write eighteen more books known as `Puranas`. 
+`Satyawati's` boat got so popular that people started poring over just to see her and listen to her sing. She was rich but she was still waiting for the next part of `Maharishi's` prediction. There were many suitors who were ready to give their lives (or take someone's) for `Satyawati` but none of them was possibly going to make her rule the world. More importantly, she wanted to know what was the bigger cause that `Maharishi` said she was going to be a part of. 
+
+The other side of the river `Yamuna` belonged to the kingdom of King `Shantanu`. A king known for his justice, wealth and valor. As king was nearing middle age, he got more interested in arts and philosophy rather than expansion of kingdom. He wanted his people safe, well fed and well taken care. He took upon himself to visit every village and talk to the grass root people for their problems. Luckily, his son, `Bheeshma` was even more prudent in managing the vast state. King `Shantanu` handed over the management of kingdom to `Bheeshma` and took on this long journey to the farthest reaches of his state. As part of his journey, he paid visits to many `Ashramas` and `Gurukuls` to earn good will as well to find the deeper meaning of life and it's purpose.
+
+Many months into journey, king learnt the people were not as happy as he was told. There was rampant rise of debate. Most of his local representatives were spending enormous time and effort on rituals rather than attending to the problems of common people. He was not sure how to handle this problem. He was caught in to duality. What is the right path? 
+
+As king reached the other side of `Yamuna`, he was told that the `Ashrama` of `Maharishi Parashara` was just across the river. He had heard about the philosophy of `Maharishi` and his support for scribing the knowledge rather than spending too much time on rituals. He wanted to meet `Maharishi` to discuss his conundrum but the problem was the other side of `Yamuna` belonged to different state. There was no binding on people to cross the state boundaries but for a king, it could be deemed as an act of aggression.
+
+`Shantanu` decided to dress up like a commoner and cross the river with common people to visit the `Maharishi's` abode. Not even his body guards. He tied his  horse a mile before  the docks and walked like a peasant. It was though not uncommon for `Shantanu` to visit parts of his state dressed like a farmer or a blacksmith. It was a common practice for kings and ministers to mix with masses to get a pulse on the state of the union. The only difference here was he was heading to a different state.
+
+Krishna built a deep understanding of the universe. The laws of our nature at an early age. This knowledge needed to be manifested. A text — a long one. Krishna, thus, compiled the entire wisdom in four Vedas — `Rik, Saam, Yazur and Atharva`. There was still a lot that could go as specialized annexes to the `Vedas`. So he went on to write eighteen more books known as `Puranas`. All written in `Panini's Sanskrit`. A piece of poetry never seen before or probably after. 
+
+The four `Vedas` soon became the reference point for the elite. Those who could read Sanskrit and understand the poetry. `Krishna Dvaipayana` thought his life work was done. Just like his father, he was proud of his work. His work was recognized by the kings and he was conferred with the title of `Ved Vyaasa` - the final complier of the divine knowledge. 
+
+There was however one question that weighed on Krishna's mind. And he brought this to his father `Maharishi Parashara` who was now bed ridden of the old age. He sat by his father's feet and asked - Is my mission really complete ?
+
+`Maharishi` opened his eyes and smiled at him. He was waiting for his son to ask this question. He said - `Krishna - your mission was to bring this divine knowledge to the masses.
+
+
+

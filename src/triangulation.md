@@ -16,3 +16,18 @@ As shown above, there is a path available at every stage of the life or in every
 
 Once we understand who we are, then only we can plot where we want to go. Yoga is nothing but this path. The internal evolution from what you are to what you want to be is thus Yoga. Karm Yoga goes a step further. It says that you should aspire to be someone who fully understand and comprehend the situation at hand ; and acts righteously without expectations. In a way, such person does what this universal machine wants him to do. Deliverance of such responsibility also entails our ability to fully understand ourselves , our emotional response and an innate ability to keep a check on our nature while we are in pursuit of the task or duty at hand. Thus Karm Yoga encompasses all the yogas. And that also means why `Karm Yoga` is most misunderstood concept. 
 
+# Guna Indicator
+
+The primary way to ascertain our nature is to check the rise of Gunas in yourself. Are you feeling lethargic. Do you want to consume. Do you want to fall or let go. This happens when Tamsa rises. The only way to get out of this state is to indulge in actions. Just force yourself to do chores.
+
+If you are feeling as if you are chasing a desired outcome. You are most probably on Rajasa. The way to handle this state is to question - what is it that you are chasing? What happens if you get it? Will the life be all flowery after that? What happens if if you don't get what you are chasing for. Will the world cease to exist? Generally you will find that the thing that you are chasing is kinda fad. It will pass.
+
+If you feel calm, and creative; you are probably in Sattva. You want to engage in creative things. You want to chase a higher purpose. 
+
+The last state is where you are beyond these three Gunas. Key thing is it is not actionless state. In this state you have singularity of focus. You are not swayed by the desires. You automatically act righeously because "righteous" is not different from what what you want to do in this state. This state is called `Gunateet`.
+
+# Mind body indicator
+
+The other way to look at what you want to do is to ask - are you doing this to please your mind or are you doing this to please your body . May be you want to watch TV. That is to please your mind. May be you want to eat - that is to please your body. What is your state ? Do you want to watch TV while eating ?
+
+A simple rule if thumb is pleasing your body is more important than pleasing your mind. 

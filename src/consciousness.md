@@ -370,6 +370,9 @@ The question is how do we access or feel or get a glimpse of our knowledge. The 
 
 The first aspect of `Karm Yoga` is to understand that this cycle of knowledge to manifestation and vice versa is end less. There is no victory post. The journey never ends. In some shape or form it continues. In this universe or somewhere else in a parallel universe. There is no entry or exit. The notion of exit is exit from the cycles of elation and pain. In essence the goal is to ride the waves. We are NOT trying to solve the mysterious universe. Neither are we destined to create new ones. The idea is to feel the peace wherever we are. However, end of pain does mean end of happiness too. There is no silver bullet that may keep you ever joyous. The choice is entirely subjective. If you feel like trying this path, read on .. 
 
+#Chakras
+
+The humans have two dimensional consciousness - wrong vs right. This duality is because of rise of life energies to throat and heart chakras. The animals on the other, hand have their energies focused on lower two chakras that lends their focus entirely on the sexuality and food. The ability to speak and communicate verbally leads to duality of ideas. In the beginning of this time cycle, both animals and humans a uni-dimensional consciousness. The singularity of the purpose was to survive and procreate. A two dimensional consciousness enables us to seek a desirable outcome out of multitude of possibilities that could be communicated. However, there are downsides to this approach. For every success, there is bigger probability of failures. When the consciousness rises beyond duality, we say that the life energies have reached the top chakra. The progression of consciousness from one dimension to next is what is called an eon or epoch. 
 ----
 
 <center> 

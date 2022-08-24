@@ -128,11 +128,11 @@ As it is, `Matsya` was living a hell. This would only add more to the antipathy 
 
 No one would recognize you! — `Maharishi` said with conviction that was hard to ignore — I would bless you into the most beautiful woman ever lived. You will smell of Sandal all day and all night. People will call you `Yojangandha` for your fragrance shall surround a distance. (The literal meaning of `Yojan` being a mile and `Gandha` means fragrance.) Fares would line up to take your boat. And one among them might take you as a wife, having fallen madly in love with you. And thereafter, you would rule the world!
 
-`Matsya` couldn't believe her ears. The prospect of smelling good and the idea that the village that hated her bowed to her beauty set butterflies in her. She was not sure if it was the prospect of revenge or expectation of success, but the proposal now seemed like a true blessing. She folded both her hands and kneeled. And then she looked up straight into deep eyes of `Maharishi`. Her eyes said `Yes`. `Maharishi` met her gaze. He wanted to be sure — you need to say a 'Yes' `Matsya`. 
+`Matsya` couldn't believe her ears. The prospect of smelling good and the idea that the village that hated her bowed to her beauty, set butterflies in her. She was not sure if it was the prospect of revenge or expectation of success, but the proposal now seemed like a true blessing. She folded both her hands and kneeled. And then she looked up straight into deep eyes of `Maharishi`. Her eyes said `Yes`. `Maharishi` met her gaze. He wanted to be sure — you need to say a 'Yes' `Matsya`. 
 
 As he reconfirmed the acceptance, he touched the thumb of his right hand between her eyes and with left hand he pulled out his wand, lowered it into the waters of holy `Yamuna` and threw few droplets on her face. She felt her head spinning and she lost her consciousness. 
 
-The place between the eyes, right above nose is called `Ajna Chakra`. This is where a `Yogi` may touch with his thumb to associate you with his "knowledge". Once the doorway is opened, there is no going back. You are now one with your `Guru`.
+The place between the eyes, right above the nose is called `Ajna Chakra`. This is where a `Yogi Guru` may touch with his thumb to associate you with his "knowledge". Once the doorway is opened, there is no going back. You are now one with your `Guru`. In `Hindu` tradition, this is why a `tilak` is placed here, particularly if you participate in a ritual.
 
 -----
 

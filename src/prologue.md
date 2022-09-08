@@ -291,6 +291,10 @@ The Ashram is half a mile to the North — `Satyawati` quickly added — and I w
 ------
 `Krishna` was only ten years old and he had already completed his education as a `Snataka`. `Maharishi` was keen to see if he wanted to pursue `Naad Yoga` or he was inclined to be a `Nyaan Yogi`. Having understood all the scriptures at this early age, `Maharishi` firmly believed he would choose right path for himself. `Maharishi` was always careful to not impress his own desires on `Krishna`. The path he chose must come from with in him. That said, `Maharishi` had all the time for him. They swam together in `Yamuna`. `Maharishi` cooked food for him and they ate together - Often resolving questions of young `Krishna`. And many times, even `Maharishi` had no answers to his quest.
 
+`Maharishi` , `Krishna` and few of his students were getting ready for the morning meal when king arrived at the `Ashrama`. Since he was dressed like a farmer, `Maharishi` thought he must have been bothered by some `Asura` lord. `Maharishi` asked him to join them for food before they sit down to talk. King was thoroughly impressed with the care and love `Maharishi` graced to a commoner. The food was simple — milk and fruits. `Maharishi` and all his students ate cooked meal only once a day before the sunset.
+
+----
+
 Krishna built a deep understanding of the universe. The laws of our nature at an early age. This knowledge needed to be manifested. A text — a long one. Krishna, thus, compiled the entire wisdom in four Vedas — `Rik, Saam, Yazur and Atharva`. There was still a lot that could go as specialized annexes to the `Vedas`. So he went on to write eighteen more books known as `Puranas`. All written in `Panini's Sanskrit`. A piece of poetry never seen before or probably after. 
 
 The four `Vedas` soon became the reference point for the elite. Those who could read Sanskrit and understand the poetry. `Krishna Dvaipayana` thought his life work was done. Just like his father, he was proud of his work. His work was recognized by the kings and he was conferred with the title of `Ved Vyasa` — the final complier of the divine knowledge. 

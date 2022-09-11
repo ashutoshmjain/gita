@@ -353,13 +353,19 @@ On his way out, the king invited `Maharishi` to visit the capital. He said he wa
 
 What exactly is `Karm Yoga` - king had never heard of this term before. 
 
-`Maharishi` thought it wouldn't be a justice to the king or concept itself to explain it as an 'out of the door' discussion. But this was probably only window he would ever get to rope a seed in king's brain - `Mahaaraj` it is a state body and mind where we scan the surroundings to seek what objective physical reality demands of us and doing exactly the same. Important aspect is do away all the desires because desires either force us to do something different or they make us action less.
+`Maharishi` thought it wouldn't be a justice to the king or the concept itself, to explain it as an 'out of the door' discussion. But this was probably only window he would ever get to rope a seed in king's brain - `Mahaaraj` it is a state of body and mind where we scan the surroundings to seek what objective physical reality demands of us, and we do exactly the same. Important aspect is to do away all the desires because desires either force us to do something different or they make us action less.
 
 King was impressed with the simplicity of idea. He also realized getting rid of desires was an uphill task. He asked - `Maharishi` is there any scripture that I could refer to. Have you written down your thoughts.
 
-`Maharishi` responded with a smile - `Maharaaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` in most difficult of circumstances. Before we write something down, we need a public figure to act righteously his entire life. 
+`Maharishi` responded with a smile - `Maharaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` in most difficult of circumstances. Before we write something down, we need a public figure to act righteously his entire life. We are waiting for such a leader.
 
-King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge and communication but more importantly, he was the man of action. Always busy in his own act - a `Karm Yogi`. He would always do what the situation demanded of him. May be `Karm Yoga` is something he naturally enacts. King saw new possibilities taking shape as the next generation of `Dev` and `Krishna` take the reins. He felt satisfied, and the same time he thought `Dev` and `Krishna` must meet. They were the keys to the new realm. A reality driven by action heroes.
+King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge, and communication, but more importantly, he was the "man of actions". Always busy in his own act - a `Karm Yogi`. He would always do what the situation demanded of him. May be `Karm Yoga` is something he naturally enacts. King saw new possibilities taking shape as the next generation of `Dev` and `Krishna` take the reins. He felt satisfied, and the same time he thought `Dev` and `Krishna` must meet. They were the keys to the new realm -  a reality driven by `Karm Yogies`.
+
+Before I leave, I have one more question `Maharishi` - What are your views on `Bhakti Yoga`. 
+
+`Maharishi` knew this question was coming. He was glad he didn't had to compare `Karm Yoga` with `Bhakti Yoga`. He said - `Rajan` (addressing a king with love and affection), `Bhakti Yoga` is still in its infancy. The trend that is out there to sit and chant `mantras` all day long, would soon change. The true emergence of `Bhakti Yoga` would be to take the example of a `Karm Yogi` and acting righteously (as needed by reality without desires) by emulating them in one's own life. The scripture that I was alluding to is not a story of a `Karm Yogi` alone, it was that of a `Bhakti Yogi` too.
+
+With that, king finally made his way, he was already late for his next meeting...
 
 
 ----
@@ -370,12 +376,5 @@ As they reached closer to the bank, king could see a single boat. And he got the
 
 She was quite surprised when she saw the farmer being escorted by three `Yogies`. This is no ordinary man - she thought to herself - Who exactly is he?
 
-----
 
-Krishna built a deep understanding of the universe. The laws of our nature at an early age. This knowledge needed to be manifested. A text — a long one. Krishna, thus, compiled the entire wisdom in four Vedas — `Rik, Saam, Yazur and Atharva`. There was still a lot that could go as specialized annexes to the `Vedas`. So he went on to write eighteen more books known as `Puranas`. All written in `Panini's Sanskrit`. A piece of poetry never seen before or probably after. 
-
-The four `Vedas` soon became the reference point for the elite. Those who could read Sanskrit and understand the poetry. `Krishna Dvaipayana` thought his life work was done. Just like his father, he was proud of his work. His work was recognized by the kings and he was conferred with the title of `Ved Vyasa` — the final complier of the divine knowledge. 
-
-There was however one question that weighed on Krishna's mind. And he brought this to his father `Maharishi Parashara` who was now bed ridden of the old age. He sat by his father's feet and asked - Is my mission really complete ?
-
-`Maharishi` opened his eyes and smiled at him. He was waiting for his son to ask this question. He said - `Krishna - your mission was to bring this divine knowledge to the masses.
+< WIP>

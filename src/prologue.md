@@ -351,10 +351,20 @@ The king was satisfied with `Krishna`. His council was always after him to forma
 
 On his way out, the king invited `Maharishi` to visit the capital. He said he wanted to discuss further the affirmative action that he must take to curb and contain the rituals. `Maharishi` smiled and said - `Maharaaj`, many times the best way to contain something is to ignore it. If you must do something, then you might consider giving the people a new narrative. Sometimes, the best way to shorten a line is to draw a slightly bigger line by it's side. The way `Nyaan Yoga` is for knowledge seekers, `Naad Yoga` is for communicators, a leader of the masses may have their own ideology - `Karm Yoga` - action orientation. And frankly, I think peace is only accessible to those who act righteously. 
 
-King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge and communication but more importantly, he was the man of action. Always busy in his own act - a `Karm Yogi`. King saw new possibilities taking shape as the next generation of `Dev` and `Krishna` take the reins. He felt satisfied, and the same time he thought `Dev` and `Krishna` must meet. They were the keys to the new realm. 
+What exactly is `Karm Yoga` - king had never heard of this term before. 
+
+`Maharishi` thought it wouldn't be a justice to the king or concept itself to explain it as an 'out of the door' discussion. But this was probably only window he would ever get to rope a seed in king's brain - `Mahaaraj` it is a state body and mind where we scan the surroundings to seek what objective physical reality demands of us and doing exactly the same. Important aspect is do away all the desires because desires either force us to do something different or they make us action less.
+
+King was impressed with the simplicity of idea. He also realized getting rid of desires was an uphill task. He asked - `Maharishi` is there any scripture that I could refer to. Have you written down your thoughts.
+
+`Maharishi` responded with a smile - `Maharaaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` in most difficult of circumstances. Before we write something down, we need a public figure to act righteously his entire life. 
+
+King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge and communication but more importantly, he was the man of action. Always busy in his own act - a `Karm Yogi`. He would always do what the situation demanded of him. May be `Karm Yoga` is something he naturally enacts. King saw new possibilities taking shape as the next generation of `Dev` and `Krishna` take the reins. He felt satisfied, and the same time he thought `Dev` and `Krishna` must meet. They were the keys to the new realm. A reality driven by action heroes.
+
+
 ----
 
-Sun had already gone down as king hurried to the docks. `Maharishi` had sent three of his best combat trained `Yogies` to show him the way and protect him in case of any emergency. He insisted many times to have the king spend a night at `Ashram` for finding a return passage at this hour might be difficult. Boats stop plying with the sun set. Little did he know that king had already planned his return. 
+Sun had already gone down as king hurried to the docks. `Maharishi` had sent three of his best combat trained `Yogies` to show him the way and to protect him in case of any emergency. He insisted many times to have the king spend a night at `Ashram` for finding a return passage at this hour might be difficult. Boats stop plying with the sun set. Little did he know that king had already planned his return. 
 
 As they reached closer to the bank, king could see a single boat. And he got the unmistakable  musky smell as the wind turned a corner towards them. `Satyawati` had asked `Dashraaj` daughters to return back home with gold coins for she didn't want to have the gold coins on them as the evening approached. She was sure that `Dashraj` must be celebrating bounty by now. She had told the girls that she must stay back on the docks for she had promised the rich farmer a passage back and she was anyway used to be on the river in nights.
 

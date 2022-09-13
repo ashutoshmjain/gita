@@ -409,9 +409,8 @@ Any other child would have rushed to his father to know who was his mother. But 
 
 ----
 
+< Work in Progress >
 
+< For questions, comments or suggestions - please drop a note to amj@shutri.com >
 
-
-
-
-< WIP>
+< Thanks for reading >

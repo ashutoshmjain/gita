@@ -357,7 +357,11 @@ What exactly is `Karm Yoga` - king had never heard of this term before.
 
 King was impressed with the simplicity of idea. He also realized getting rid of desires was an uphill task. He asked - `Maharishi` is there any scripture that I could refer to. Have you written down your thoughts.
 
-`Maharishi` responded with a smile - `Maharaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` in most difficult of circumstances. Before we write something down, we need a public figure to act righteously his entire life. We are waiting for such a leader.
+`Maharishi` responded with a smile - `Maharaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` in the most difficult of circumstances. Before we write something down, we need a public figure to act righteously -  his or her entire life. We are waiting for such a leader!
+
+King was bit intrigued with a blunt answer - most other scriptures are written by sages without an specific example. Why this one needs to follow a true story?
+
+Question was valid. Maharishi understood the spirit - `Maharaaj` if I write this as something that I thin, than it would be purely my point of view. How might one be certain that what she thought was right? Only truth, something that really happened in physical reality is something that may be treated beyond speculation.
 
 King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge, and communication, but more importantly, he was the "man of actions". Always busy in his own act - a `Karm Yogi`. He would always do what the situation demanded of him. May be `Karm Yoga` is something he naturally enacts. King saw new possibilities taking shape as the next generation of `Dev` and `Krishna` take the reins. He felt satisfied, and the same time he thought `Dev` and `Krishna` must meet. They were the keys to the new realm -  a reality driven by `Karm Yogies`.
 

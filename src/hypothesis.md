@@ -1,6 +1,5 @@
 <center>
 <h1>`Dhaarna`</h1>
-<iframe src="https://archive.org/embed/arjunUvaach/1dot0.mp3" width="350" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </center>
 Just like any scientific theory, be it Newton's laws of motion or Maxwell's description of electromagnetism, Gita's biggest insights are built into its assumptions. For example, the Maxwell made an assumption that the observable universe has something called an electromagnetic field at every point in space. This field enables the motion of energy through space in the shape of electro-magnetic waves. This is a great assumption because it allows to explain the wave particle nature of photons - the tiny packets of energy that move through space-time. The only problem however is we can't perceive the electromagnetic field. We can only experience it through the passage of photons. A well thought through assumption helps us explain things we observe. It becomes the underlying basis for the mathematics that leads to theories and subsequently proved through experiments. If the experimental results match the theoretical predictions, we acknowledge the underlying assumptions as "true" - else the assumptions are revised. 
 

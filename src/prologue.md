@@ -3,7 +3,7 @@
 Upashama
 </h1></center>
 
-`Krishna Dvaipayana` was brought to life for a purpose. He was destined to compile thousands of sacred insights — new and old — from sages (`Rishies`) to super sages (`Maharishis`); and rearrange the hymns into four foundational volumes. Four books of most ancient wisdom known to mankind — `Vedas`. For this legendary work, he was conferred the title of `Ved Vyasa` — the chief editor of `Vedas`. This, in itself, was virtuous enough to dedicate a life-time, but his real goal was even bigger. Immensity of his purpose, rightly made him one of the 'immortal eights' in Hindu tradition. 
+`Krishna Dvaipayana` was brought to life for a purpose. He was destined to compile thousands of sacred insights — new and old — from sages (`Rishies`) to super sages (`Maharishis`); and rearrange the hymns into four foundational volumes. Four books of most ancient wisdom — `Vedas`. For this legendary work, he was conferred the title of `Ved Vyasa` — chief editor of `Vedas`. This, in itself, was virtuous enough for a life-time, but life expected even more from him. Immensity of his purpose, rightly made him one of the 'immortal eights' in Hindu tradition. 
 
 This narrative is a tiny window on the locale and the events of that time. The ‘time’, when our ancestors laid the foundations of our present — our modern civilization. Long before time-keeping became a thing. I thought it was essential to reflect on this history, because knowledge rests in the context.
 

@@ -512,7 +512,7 @@ That won't be necessary `Yogi`. `Yamuna` is like my mother! I am safer with her 
 
 `Satyawati` didn't know how to react. He had the most powerful king right in font of her and possibly her long separated son too. She remembered the words of `Maharishi` - You will rule the world. 
 
-She almost sat down by the weight of the moment. She had thought about `Maharishi's` words almost everyday since she left him and Krishna behind, but she didn't realize the physical truth would be so much bigger, and so abrupt, and shocking. 
+She almost sat down by the weight of the moment. She had thought about `Maharishi's` words almost every day since she left him and Krishna behind, but she didn't realize the physical truth would be so much bigger, and so abrupt, and shocking. 
 
 `Krishna` moved a step closer and held her hand. Being a child it felt okay for him to hold the hand of a woman almost her mother's age. He didn't know yet he was holding his real mother. 
 
@@ -524,26 +524,35 @@ And who is your mother `Krishna` - `Satyawati` wanted to see if her son knew his
 
 A simple question, yet so profound. `Yogies` left the banks as king and `Satyawati` boarded the boat. On his way back, `Krishna` thought why did `Maharishi` never brought the topic of his mother. Why such a simple truth is hidden from humans. Why don't we automatically know our lineage? - our oldest history.
 
-Any other child would have rushed to his father to know who was his mother. But `Krishna` was no ordinary child. That night, `Krishna` climbed his favorite tall tree and sat there. This was his den when difficult questions troubled his child mind. If `Maharishi` sought not to tell this simple thing, there must be a reason. But more importantly does every manifestation hides something? Is Sun and the moon and the mother Earth that we perceive hide something behind the perceivable. If that was true, would it be right to say bigger the manifestation, bigger was the hidden truth? Then what is the biggest manifestation of all? Isn't it the human body itself, that perceives everything? What does this body hides behind it? Is it what `Maharishi` calls `Atma`. He didn't know when he slept, on the tree. Many questions still unanswered but he knew what to ask. And he also knew truth must reveal itself if we asked the right questions. `Maharishi` had told him never to seek answers. Instead seek the right questions!
+Any other child would have rushed to his father to know who was his mother. But `Krishna` was no ordinary child. That night, `Krishna` climbed his favorite tall tree and sat there. This was his den when difficult questions troubled his child mind. If `Maharishi` sought not to tell this simple thing, there must be a reason. But more importantly does every manifestation hides something? Is Sun and the moon and the mother Earth that we perceive hide something behind the perceivable. If that was true, would it be right to say bigger the manifestation, bigger was the hidden truth? Then what is the biggest manifestation of all? Isn't it the human body itself, that perceives everything? What does this body hides behind it? Is it what `Maharishi` calls `Atma`. He didn't know when he slept, on the tree. Many questions still unanswered but he knew what to ask. And he also knew truth must reveal itself if we asked the right questions. `Maharishi` had told him never to seek answers. Instead, seek the right questions!
 
 ----
 
 [^whoIsVas] The notion of invention at that time was different. Most religious accounts say that `Vaśiṣṭha` lived for more than a thousand years. It seems that `Vaśiṣṭha` was a family title rather than being an individual. A family that was responsible for remembering all that was ever invented. The knowledge was passed on generation by generation - from parents to offspring. Each generation dedicated to a sole purpose of synthesizing and cumulating the knowledge of all the basic discoveries of their time. They imparted parts of this knowledge to the followers based on their capabilities. Over a long period of many generations, the group of followers increased and turned into a community. Most of the followers spread geographically and many co-located in the `Ashrama`.
 
-[^network] Internet runs on a simple networking protocol — TCP/IP.  Internet is huge, just like our universe, but the TCP/IP bundle is so small that it could easily fit on a PC of mid nineties with say 64kb of RAM. Even today, it thrives on smaller systems such as Raspberry Pi. The knowledge network is centralized, just like TCP/IP. It implements a client server model. That is because, knowledge is mined through streamlined righteous actions — `Karma`. Only few people are able to perform righteous actions (in a specific field) to unlock the knowledge. These people, act like a server while rest of the members of the knowledge networks act like clients. Even clients need certain level of dedication and rigor. Thus, knowledge network is top down, and is hard to establish. There are other protocol too, that are fully distributed. For example, the Gossip protocol[^gossipProtocol]. By the very nature of this protocol, it needs a natural pull. It works great when the objects being distributed is not 'hard and dry' like ‘knowledge’, instead it is something enticing to the senses. The gossip architecture is used by the 'manifestations of knowledge' to spread the information that easily attract/ engage the sensory apparatus. Manifestations, by definition, are something that attract our senses. For example a written piece is hard knowledge. It is difficult for most people to have a natural affinity for long written text. But when this text is manifested into a fiction with, it become enticing for the readers. Thus fiction can be spread through Gossip.
+[^network] Internet runs on a simple networking protocol — TCP/IP.  Internet is huge, just like our universe, but the TCP/IP bundle is so small that it could easily fit on a PC of mid nineties with say 64kb of RAM. Even today, it thrives on smaller systems such as Raspberry Pi. The knowledge network is centralized, just like TCP/IP. It implements a client server model. That is because, knowledge is mined through streamlined righteous actions — `Karma`. Only few people are able to perform righteous actions (in a specific field) to unlock the knowledge. These people, act like a server while rest of the members of the knowledge networks act like clients. Even clients need certain level of dedication and rigor. Thus, knowledge network is top down, and is hard to establish. There are other protocol too, that are fully distributed. For example, the Gossip protocol[^gossipProtocol]. By the very nature of this protocol, it needs a natural pull. It works great when the objects being distributed is not 'hard and dry' like ‘knowledge’, instead it is something enticing to the senses. The gossip architecture is used by the 'manifestations of knowledge' to spread the information that easily attract/ engage the sensory apparatus. Manifestations, by definition, are something that attract our senses. For example a written piece is hard knowledge. It is difficult for most people to have a natural affinity for long written text. But when this text is manifested into a fiction , it becomes enticing for the readers. Thus, fiction can be spread through Gossip.
 
-[^rakshsa] `Rakshsas` were humans who believed in animalistic behavior. They thought, only way to survive in this jungle was to have more strength than predators. Thus by natural selection , they grew larger limbs and stronger muscles. They could be as tall as say ten feet. They could uproot the trees with their hands. At the same time, their brains remained small, just like animals. Most of them thought the idea of survival with a smarter brain was at best 'funny'. Some of them also thought that the knowledge driven people who were trying  to build a civil society were easy targets.
+[^rakshsa] `Rakshsas` were humans who believed in animalistic behavior. They thought, only way to survive in this jungle was to have more strength than predators. Thus, by natural selection, they grew larger limbs and stronger muscles. They could be as tall as say ten feet. They could uproot the trees with their hands. At the same time, their brains remained small, just like animals. Most of them thought the idea of survival with a smarter brain was at best 'funny'. Some of them also thought that the knowledge driven people who were trying to build a civil society were easy targets.
 
 [^gossipProtocol] Gossip is used in highly available and fault tolerant systems such as Cassandra. This is a great protocol for infecting a large population of decentralized nodes. For this reason, it is also called epidemic protocol. This protocol is used in propagating information rather than knowledge. A curious application of this protocol is bit coin mining with 'proof of work' consensus algorithm.
 
 ----
 
-< Work in Progress >
+This is a “work in progress” being published as is under “creative commons license”.
 
-< For questions, comments or suggestions — please drop a note to amj@shutri.com >
+### Donate
 
-< Thanks for reading >
+Crypto donations - shutosha.cb.id
+Cash tag for Cash App - $shutosha
 
-Notes — to be added. 
+### Mailing List
 
-- The `Vedas` as not the knowledge of say how to light a fire. Or how to sow the seeds. That knowledge got percolated into society by the time `Krishna` got to write the `Vedas`. Thus, Vedas are mostly a long list of credits for the contributors of the project that ran for thousands of years. Since the actual people were lost, the ‘thank you’ was in the shape of big modules. All things related to fire were attributed to `Agni` the deity of fire. All related to the water was accordingly associated `Indra` the deity of water.
+For questions, comments or to join the mailing list — please drop a note to amj@shutri.com 
+
+### Support with you time
+
+Since English is not my first language, I need help to edit these documents. Please feel free to join the github repo link at the top of the page. Second icon from the right.
+
+Thanks for reading 
+
+~ ashutosh ~ 

@@ -538,12 +538,14 @@ Any other child would have rushed to his father to know who was his mother. But 
 
 ----
 
-This is a “work in progress” being published as is under “creative commons license”.
+This is a “work in progress” being published daily  "as is" under “creative commons license”. Text may change substantially without any notice. If you want to store a version, there is a print icon (on the top) that lets you save a pdf. As a creative commons artifact, user are free to use the work the way the want with due credit back to this page but there is no warranty whatsoever for the accuracy of content or support from author. 
 
 ### Donate
+If you like this work, feel free to support me financially ..
 
-Crypto donations - shutosha.cb.id
-Cash tag for Cash App - $shutosha
+Crypto (coinbase wallet ID)- shutosha.cb.id
+
+Fiat (Cash tag for Cash App) - $shutosha
 
 ### Mailing List
 

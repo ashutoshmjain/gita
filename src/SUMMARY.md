@@ -1,5 +1,6 @@
 # Summary
 [Prologue](./prologue.md)
+[Software Testing](./footNoteTest.md)
 [About](./0.0_about.md)
 - [Getting Started](./gettingStarted.md)
     - [Hypothesis](./hypothesis.md)

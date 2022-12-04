@@ -91,10 +91,10 @@
 }
 
 .light {
-    --bg: hsl(0, 0%, 100%);
+    --bg: #f9ce00;
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #fafafa;
+    --sidebar-bg: #f9ce00;
     --sidebar-fg: hsl(0, 0%, 0%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
@@ -107,13 +107,13 @@
 
     --links: #20609f;
 
-    --inline-code-color: #301900;
+    --inline-code-color: #0e21eb;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
     --theme-hover: #e6e6e6;
 
-    --quote-bg: hsl(197, 37%, 96%);
+    --quote-bg: hsl(47, 86%, 52%);
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);

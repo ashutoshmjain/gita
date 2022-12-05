@@ -45,4 +45,6 @@ And there was a good reason for intense focus on recital. Memories couldn't be s
 
 [^rakshsa]: `Rakshsas` were humans who believed in animalistic behavior. They thought, only way to survive in this jungle was to have more strength than predators. Thus, by natural selection, they grew larger limbs and stronger muscles. They could be as tall as say ten feet. They could uproot the trees with their hands. At the same time, their brains remained small, just like animals. Most of them thought the idea of survival with a smarter brain was at best 'funny'. Some of them also thought that the knowledge driven people who were trying to build a civil society were easy targets.
 
+[^gossipProtocol]: Gossip is used in highly available and fault tolerant systems such as Cassandra. This is a great protocol for infecting a large population of decentralized nodes. For this reason, it is also called epidemic protocol. This protocol is used in propagating information rather than knowledge. A curious application of this protocol is bit coin mining with 'proof of work' consensus algorithm.
 
+---

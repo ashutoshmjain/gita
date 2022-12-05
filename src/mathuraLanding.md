@@ -4,7 +4,7 @@
 `Mathura` was the geographic center of `Bharata` — old India. It was also the center of mass adoption of `written-word`.
 
 
-`Mahabharta` was scribed in eighteen `Parvas` (books). The first book - `Adi Parva` , an abridged version that tells the story of the story, appears to be a later addition for it describes above incident — the divine intervention to scribe the entire epic. The key point is `Mahabharata` is not only the longest poem, it was the first major narrative written down in text. Even if it wasn't a divine intervention as claimed by the hyperbole added later, scribing such an immense scripture at that time, was no less than a divine grace. And `Vyasa` made a crucial point — narrating a scripture this complex to the masses, was almost impossible unless it was scribed first into written words. 
+`Mahabharta` was scribed in eighteen `Parvas` (books). The first book - `Adi Parva` , an abridged version that tells the story of the story, appears to be a later addition for it describes the divine intervention to scribe the entire epic. The key point is `Mahabharata` is not only the longest poem, it was the first major narrative written down in text. Even if it wasn't a divine intervention, scribing such an immense scripture at that time, was no less than a divine grace. And `Vyasa` made a crucial point — narrating a scripture this complex to the masses, was almost impossible unless it was scribed first into written words. 
 
 ## It all happened in `Mathura`
 

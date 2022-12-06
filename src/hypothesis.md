@@ -1,7 +1,5 @@
-<center>
-<h1>`Dhaarna`</h1>
-</center>
-Just like any scientific theory, be it Newton's laws of motion or Maxwell's description of electromagnetism, Gita's biggest insights are built into its assumptions. For example, the Maxwell made an assumption that the observable universe has something called an electromagnetic field at every point in space. This field enables the motion of energy through space in the shape of electro-magnetic waves. This is a great assumption because it allows to explain the wave particle nature of photons - the tiny packets of energy that move through space-time. The only problem however is we can't perceive the electromagnetic field. We can only experience it through the passage of photons. A well thought through assumption helps us explain things we observe. It becomes the underlying basis for the mathematics that leads to theories and subsequently proved through experiments. If the experimental results match the theoretical predictions, we acknowledge the underlying assumptions as "true" - else the assumptions are revised. 
+# Hypothesis ..
+Just like any scientific theory, be it Newton's laws of motion or Maxwell's description of electromagnetism, Gita's biggest insights are built into its assumptions. For example, Maxwell made an assumption that the observable universe has something called an electromagnetic[^1] field at every point in space. This field enables the motion of energy through space in the shape of electro-magnetic waves. This is a great assumption because it allows to explain the wave particle nature of photons - the tiny packets of energy that move through space-time. The only problem however is we can't perceive the electromagnetic field. We can only experience it through the passage of photons. A well thought through assumption helps us explain things we observe. It becomes the underlying basis for the mathematics that leads to theories and subsequently proved through experiments. If the experimental results match the theoretical predictions, we acknowledge the underlying assumptions as "true" - else the assumptions are revised. 
 
 At a time, say five-ish thousand years ago, when humans didn't have the mathematical tool box or the appliances of science and compute; Krishna introduced the humanity one of the deepest and most empowering idea. At a time when humans had no recourse other than settling or submitting to a strange, unknown external force - say God; Krishna theorized that the God actually lives in all of us in the shape of complete and unaltered knowledge what he named - `Atma` - which basically means "me".  Our own copy of the God- embedded or seeded deep into us. The obvious questions were - how does it look ? Can I see it ? Will it die with my physical death ? Difficult questions and hard to prove !
 
@@ -15,7 +13,7 @@ Gita says that the keys to our true nature, true reality -  lie in this tiny box
 >
 > One who initiates by regulating the senses with mind ; engaged in `Karm Yoga -ritual of actions` with active work organs and detached to sensory consumption; such a person is a special one.
 
-The ideas that Krishna discovered are experiential and testable as the postulates of science but the problem is these ideas are spread all across the text. That is because Gita is delivered in a conversational format. A format that was (and probably is) best suited to communicate the message to those who believe. This is however a problem for the ones like me, who seek a testable basis to satisfy our never satiated thirst for logic :-) So, here I a trying to organize the core principles of Gita in the format that looks kinda like a thesis that we could test, if we wish to. Obviously, these principles are not substantiated with mathematical equations because math was not even discovered back then. In a way, it is an advantage because you don't need background in science or math to test these ideas. Anyone with a quest for truth and willingness to invest time, can run these experiments in their own life; in their tiny box. BTW as shown by Godel in incompleteness theorem, a formal mathematical system can not prove that the system itself is consistent. Thus absence of hard math may  not be viewed as a disadvantage. The goal really is to prove the truth to ourselves.  
+The ideas that Krishna discovered are experiential and testable as the postulates of science but the problem is these ideas are spread all across the text. That is because Gita is delivered in a conversational format. A format that was (and probably is) best suited to communicate the message to those who believe. This is however a problem for the ones like me, who seek a testable basis to satisfy our never satiated thirst for logic :-) So, here I a trying to organize the core principles of Gita in the format that looks kinda like a thesis that we could test, if we wish to. Obviously, these principles are not substantiated with mathematical equations because math was not even discovered back then. In a way, it is an advantage because you don't need background in science or math to test these ideas. Anyone with a quest for truth and willingness to invest time, can run these experiments in their own life; in their tiny box. As shown by Godel in incompleteness theorem, a formal mathematical system can not prove that the system itself is consistent. Thus absence of hard math may  not be viewed as a disadvantage. The goal really is to prove the truth to ourselves.  
 
 With this long introduction - let us look at the Hypothesis ..
 
@@ -44,7 +42,7 @@ Because this knowledge is not easily perceived by our externally focused senses 
 
 Since everyone has a different set of circumstances , it is not hard to imagine that as an observer we have a  very different world view. In essence we have a very different set of cryptographic keys, thus the test of the hypothesis or the method to decrypt the underlying truth is individualistic. BTW it is important to state the meaning of "encrypted". Encrypted doesn't mean "impossible". It only means that it is hard to decrypt unless we devise a better algorithm. Better ways and means to understand the problem. Or we have the public private key combination. Once we have the keys, the entire knowledge base becomes self evident.
 
-BTW, this is not a call for the blind faith. Just as in any scientific inquiry, we start with a hypothesis and then test the validity through experiments , we will see down the line in this book as to why this knowledge is encrypted and how to perceive it without using the survival oriented senses. Or learn to focus our senses back onto  `Atma` - our internal knowledge.
+Again, this is not a call for the blind faith. Just as in any scientific inquiry, we start with a hypothesis and then test the validity through experiments , we will see down the line in this book as to why this knowledge is encrypted and how to perceive it without using the survival oriented senses. Or learn to focus our senses back onto  `Atma` - our internal knowledge.
 
 So we all get a copy of protected, immutable and encrypted knowledge. That is good but the question is why should I care ?
 
@@ -60,9 +58,10 @@ Just as a Black hole, though beyond our sensory observatories, because informati
 
 So we all should try to decrypt our internal knowledge . Is there a way we could collaborate ? After all we are all trying to accomplish the same goal from different angles ?
 
-### The knowledge cloud
+### The knowledge Network
 
-The decrypted knowledge manifests into all that we perceive with our senses. Our individual decryption leads to us acquiring skills that can manifest things. The collective decrypted knowledge is what Gita refers to as `Bramha`. We can think of it as the knowledge cloud immensely bigger than AWS or Google Cloud.
+The decrypted knowledge manifests into all that we perceive with our senses. Our individual decryption leads to us acquiring skills that can manifest things. The collective decrypted knowledge is what Gita refers to as `Bramha`. In essence, knowledge is borne by an infinite network of connections among conscious beings, busy in pursuit of decrypting the knowledge. This immense network, manifests our perceivable universe. In `Vaidik` traditions, the manifestative potency of this vast knowledge network is known as `Vishnu`. The manifestative potency, takes the conscious beings gradually to the higher state of consciousness through actions `Karma`. And the highest state of consciousness is called `Siva`. The network, in itself is termed as `Bramh`.
+
 
 `Bramha` is the entirety of our system. System that spans this universe and may be many more if we think we are living in a multiverse . We need to be connected with the this primordial cloud because this is what provisions all that we need to conduct our experiments but `Bramha` in itself is not the entire knowledge. It can only support us, indulge us or inspire us.
 
@@ -99,10 +98,8 @@ Gita Framework resolves many of such burning questions, or at least attempts to 
 
 In a way Gita, gives necessary structure and skeleton to our quest - scientific and spiritual. And it gets more relevant in these asking times, when on one side imminent  opportunities (think artificial intelligence, robotics , space and biotech) are hitting exponential trajectory, and on the other more than half the humanity struggles for elemental air and water. There was never a bigger demand on humans to choose right from wrong and then stay focused on path.
 
-<>
 Let us start the journey ..
 
 ---
-<center>
-<h2>1.0<h2>
-</center>
+
+[^1]: The idea that fields are fundamental stayed a "one off" theory for many decades after Maxwell's proposal. Take a look at this [paper](https://clerkmaxwellfoundation.org/DysonFreemanArticle.pdf) from Prof. Freeman J Dyson, Institute of Advanaced Studies, Princeton USA. - Quote - "The ultimate importance of the Maxwell theory is far greater than its immediate achievement in explaining and unifying the phenomena of electricity and magnetism. Its ultimate importance is to be the prototype for all the great triumphs of twentieth-century physics. It is the prototype for Einstein's theories of relativity, for quantum mechanics, for the Yang-Mills theory of generalised gauge invariance, and for the unified theory of fields and particles that is known as the Standard Model of particle physics. All these theories are based on the concept of dynamical fields, introduced by Maxwell in 1865. All of them have the same two-layer structure, separating the world of simple dynamical equations from the world of human observation. All of them embody the same quality of mathematical abstraction that made Maxwell's theory difficult for his contemporaries to grasp."

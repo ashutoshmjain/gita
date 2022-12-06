@@ -49,9 +49,7 @@ The legend says,` Krishna` invoked `Bramha`(`Bramh` in human form) to seek help 
 >
 > - birth celestial and human, for particular purposes; 
 >
-> - also a description of places of pilgrimage and other holy places of rivers, 
->
-> - mountains, forests, the ocean, of heavenly cities and the kalpas; 
+> - also a description of places of pilgrimage and other holy places of rivers, mountains, forests, the ocean, of heavenly cities and the kalpas; 
 >
 > - the art of war; 
 >
@@ -76,7 +74,7 @@ The legend says,` Krishna` invoked `Bramha`(`Bramh` in human form) to seek help 
 > Let Ganesa be thought of, O Muni, for the purpose of writing the poem.' 
 
 
-Having approached and advised by his father, `Ganesa` — the embodiment of ‘intelligence’, told `Krishna`, he was willing to help, but he would stop writing if `Krishna` paused even for a moment. He probably deemed there was no time to waste, given the immensity of the work to be scribed.  `Krishna` agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after fully understanding the intent, because text was meant for a human mind![^humanMind]
+Having approached by `Krishna` and advised by his father `Siva`, `Ganesa` — the embodiment of ‘intelligence’, told `Krishna`, he was willing to help, but he would stop writing if `Krishna` paused even for a moment. He probably deemed there was no time to waste, given the immensity of the work to be scribed.  `Krishna` agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after fully understanding the intent, because text was meant for a human mind![^humanMind]
 
 >"Ganesa, upon hearing this address, thus answered, 
 >
@@ -95,7 +93,9 @@ Having approached and advised by his father, `Ganesa` — the embodiment of ‘i
 > by doing which, he dictated this work according to his engagement.
 
 
- In a way, it was the tipping point, when humanity embraced a new medium for communication, and preserving the knowledge.
+#### In a way, it was the tipping point, when humanity embraced a new medium for communication, and preserving the knowledge - text.
+
+Supirior intelligence was deployed to scribe the large body of scriptures, the way we are now discovering tools of natural language processing (via artifical intelligence) to scribe the words in digital realm.
 
 
 ----
@@ -110,7 +110,7 @@ Having approached and advised by his father, `Ganesa` — the embodiment of ‘i
 
 [^siva]: Siva is the highest state of consciousness. Evolution of `Vishnu`, eventually reaches a state where ‘knowledge’ is absolute. This potency is thus, maintains the systems to support equilibrium of `Bramh`. In other words, `Siva` governs the knowledge field. `Siva` is thus seen as the one who keeps the knowledge current. These three protocols (`Bramh`, `Visnu` and `Siva`) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only `Vishnu` is potent enough to incarnate.
 
-[^ganesa]: `Ganesa` is the deity of intelligence. The legend says that `Ma Parvati` - wife of `Siva`, created a humanoid from her skin scrub. `Siva` unhappy with the limited intelligence of this humanoid (as he couldn't even contextualize that `Siva` was `Parvati's` husband, implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons verses a human brain. To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of largest neural networks of our time such as GPT3. Thus `Ganesa` had around 1000x natural(not artificial) intelligence verses the largest of our artificial intelligences! In Hindu tradition, it is considered auspicious to remember `Ganesa` at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.
+[^ganesa]: `Ganesa` is the deity of intelligence. The legend says that `Ma Parvati` - wife of `Siva`, created a humanoid from her skin scrub. `Siva` unhappy with the limited intelligence of this humanoid (as he couldn't even contextualize that `Siva` was `Parvati's` husband), implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons verses a human brain. To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of largest neural networks of our time such as GPT3. Thus `Ganesa` had around 1000x natural(not artificial) intelligence verses the largest of our artificial intelligences! In Hindu tradition, it is considered auspicious to remember `Ganesa` at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.
 
 [^humanMind]: The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example , a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. `Krishna` meant that `Ganesa` being a humanoid, could be faster in word processing but he really need to understand the meaning of the words.
 

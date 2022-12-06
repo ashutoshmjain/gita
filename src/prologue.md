@@ -93,9 +93,7 @@ Having approached by `Krishna` and advised by his father `Siva`, `Ganesa` — th
 > by doing which, he dictated this work according to his engagement.
 
 
-#### In a way, it was the tipping point, when humanity embraced a new medium for communication, and preserving the knowledge - text.
-
-Supirior intelligence was deployed to scribe the large body of scriptures, the way we are now discovering tools of natural language processing (via artifical intelligence) to scribe the words in digital realm.
+It was the tipping point, when humanity embraced a new medium for the knowledge — text - for communication and preservation.
 
 
 ----

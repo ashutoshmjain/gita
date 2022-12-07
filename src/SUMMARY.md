@@ -1,6 +1,6 @@
 # Summary
-[Prologue](./prologue.md)
 - [Mathura](./mathuraLanding.md)
+  - [Prologue](./prologue.md)
   - [The Mishap](./mathuraChap01.md)
   - [Reboot](./mathuraChap02.md)
   - [Recital v/s Writing](./mathuraChap03.md)

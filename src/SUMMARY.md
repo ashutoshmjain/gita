@@ -20,6 +20,7 @@
   - [Manifestation](./manifestation.md)
 - [Mahabharata](./maha00.md)
   - [Adi Parva](./maha01.md)
+  - [Adi Parva ..contd](./maha01_a.md)
   - [Sabha Parva](./maha02.md)
   - [Vana Parva](./maha03.md)
   - [Virata Parva](./maha04.md)

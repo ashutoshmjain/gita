@@ -1,5 +1,6 @@
 # Summary
 - [Mathura](./mathuraLanding.md)
+  - [How to read this book](./how.md)
   - [Prologue](./prologue.md)
   - [The Mishap](./mathuraChap01.md)
   - [Reboot](./mathuraChap02.md)

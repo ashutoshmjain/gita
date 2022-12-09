@@ -1,32 +1,26 @@
 # How to read this book
 
-This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it will ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text[^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser [^browser], you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser.
-
-It even supports the foot [^foot]notes :-)
-
 As far as the features go, you can:
 
-…toggle the chapter menu by clicking on the hamburger menu on top left: <i class="fa fa-fw fa-bars"></i>
+- toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i>
+- search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
+- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> 
+- You can also navigate by using your keyboard's left and right arrows. 
+- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
-…change the theme by selecting the paintbrush icon: <i class="fa fa-fw fa-paint-brush"></i> . I recommend using the "light theme" for optimum reading experience [^experience]
+This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it'll ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text[^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser [^browser], you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser.
 
-…search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i>
-
-…turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>
-
-You can also navigate by using your keyboard's left and right arrows.
-
-On the top right of the page, you can either print <i class="fa fa-fw fa-print"></i> this book in its entirety or visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
+It even supports the foot [^foot]notes :-)
 
 # About the book
 
 As you will see when you toggle the chapters, this web app has three sections :
 
 - The first section — `Mathura` is a historical narrative that discovers the "writing revolution" when humans adopted “written word” as primary medium for preserving knowledge. I believe this revolution took place around seven thousand years ago when `Krishna Dwaipayana` scribed `Maha-Bharata`. Study of this first major shift in human cognition — from spoken to written word — makes a fascinating quest narrative. And at the same time, it might resolve the dilemmas we face as we are moving from analog to increasingly digital realm. 
-- I also believe that the knowledge that `Krishna` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering various core concepts of Gita from the vantage of a technical writer of this age. This vantage may be useful to "tech-savvy" readers who intend to discover `Gita`.
-- The third section `Maha-Bharata` is the original translation of the entire epic, done by `Kisari Mohan Ganguly`, at the beginning of last century. I highly recommend reading his [preface](https://gita.shutri.com/maha00.html). My goal is to make this translation easier to consume in this modern web-app format. `Maha-bharata` and this translation is in public domain, thankfully received from [sacred-texts](https://www.sacred-texts.com/)
+- I also believe that the knowledge that `Krishna` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering core concepts of Gita — from the vantage of a technical writer. This ‘vantage’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
+- The third section `Maha-Bharata` is the original translation of the entire epic, done by `Kisari Mohan Ganguly`, at the beginning of last century. I highly recommend reading his [preface](https://gita.shutri.com/maha00.html) to review the guiding motivations of translation work — an immense task without the luxury of modern computing tools. My goal is to reformat this work in web-app format for obvious comfort of consumption on smart devices. `Maha-bharata` and this translation is in public domain, thankfully received from [sacred-texts](https://www.sacred-texts.com/)
 
-The collective name of this entire work, is `arjunUvaach`! You may call it the name of this web-app, rendered to you at https:/gita.shutri.com . Thus the knowledge discovery relationship of `arjunaUvaach` is `Mathura` < `Bhagavad Gita` < `Maha-Bharata` . 
+The collective name of this entire work, is `arjunUvaach`! You may call it the name of this web-app, rendered to you at https:/gita.shutri.com . 
 
 ---
 

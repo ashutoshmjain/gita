@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "arjunUvaach"
+description = "discovering Gita and Maha-bharata"
 
 [output.html]
 theme = "src/theme"
@@ -11,3 +12,7 @@ git-repository-url = "https://github.com/ashutoshmjain/gita"
 cname = "gita.shutri.com"
 edit-url-template = "https://github.com/ashutoshmjain/gita/edit/main/{path}"
 no-section-label = true
+
+[output.html.print]
+enable = false    # include support for printable output
+

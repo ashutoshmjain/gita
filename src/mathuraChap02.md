@@ -34,7 +34,7 @@ Re-instituting this age-old model based on spoken words,  was easy for someone l
 
 He thought his grandson `Parāśara`, now reaching maturity, would take on this challenge. Little did he know that focus on texting the scriptures, would create a dual among his own followers.
 
-----
+## Footnotes:
 
 [^seven]: Hindu scriptures believe there were seven `Bramh-rishis`. `Vaśiṣṭha` was one of them. The other six are `Bhrigu`, `Agniras`, `Atri`, `Vishwamitra`, `Kashyapa`, and `Shandilya`. All of them originated from `Bramh` with the gift of intelligence to cumulate the knowledge. The only exception is `Vishwamitra` who is said to have attained this highest title through sheer hard work and dedication (`Tapasya`). All of them, put together, are also called `Saptarishis` - the seven. 
 

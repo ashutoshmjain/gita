@@ -15,9 +15,11 @@ This book was generated using a `Rust` program called [mdBook](https://github.co
 
     ![Search mdBook](./search.png)
 
-    For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case , than the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. Since I use a heading for even "foot notes" , you can easily tell if the your search term is in the main chapter or if it is buried deep into foot notes ! When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
+    For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case , than the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. Since I use a heading for even "foot notes" , you can easily tell if your search term is in the main chapter or if it is buried deep into foot notes ! When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
 
-    There are few limitations though - Search index is being served to you over the internet (there is no central server), thus search index can't be too big. Which means if the book is too big , search gets painfully sluggish. That is the reason , I am publishing the third section of this online resource `Maha-Bharata` as a separate mdBook. The other limitation is, as of now search supports only English. Probably I haven't dug deeper into the features of this app! To circumvent this limitation, I am abstaining from publishing any text in script other than English. 
+    There are few limitations though - Search index is being served to you over the internet (there is no central server), thus search index can't be too big. Which means if the book is too big , search gets painfully sluggish. That is the reason , I am publishing the third section of this online resource `Maha-Bharata` as a [separate](https://mahabharata.shutri.com) mdBook. 
+
+    The other limitation is, as of now search supports only English. Probably I haven't dug deeper into the features of this app! To circumvent this limitation, I am abstaining from using any other language — even the `Sanskrit` verses are purposefully not typed in `Devnagri`.
 
     Despite these limitations, I think search is by far the most useful feature, particularly for a narrative that tries to build a complex message interwoven across many chapters. I highly encourage the reader to use search if they are looking for any specific thing. It can even take you to the text you were last reading if you remember a line or few words — that is the best that technology could do without having the user to "register" for reading and keeping a track of your reading habits. 
 
@@ -27,14 +29,14 @@ This book was generated using a `Rust` program called [mdBook](https://github.co
     ![privacy](./privacy.png)
 
     
-    .. btw , if you did that , you may not be able to load most of the websites (eg facebook or Instagram)  because ..well you know why ! :-)
+    .. btw , if you did that , you won't be able to load most of the websites (eg facebook or Instagram)  because ..well you know why ! :-)
 
 # About this book [grr - online resource]
 
-As you will see when you toggle the chapters, this web app has three sections :
+As you will see when you toggle the chapters, this web app has two main sections :
 
-- The first section — `Mathura` is a historical narrative that discovers the "writing revolution" when humans adopted “written word” as primary medium for preserving knowledge. I believe this revolution took place around seven thousand years ago when `Krishna Dwaipayana` scribed `Maha-Bharata`. Study of this first major shift in human cognition — from spoken to written word — makes a fascinating quest narrative. And at the same time, it might resolve the dilemmas we face as we are moving from analog to increasingly digital realm. 
-- I also believe that the knowledge that `Krishna` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering core concepts of Gita — from the vantage of a technical writer. This ‘vantage’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
+- The first section — `Mathura` is a historical narrative that discovers the "writing revolution" when humans adopted “written word” as primary medium for preserving knowledge. I believe this revolution took place around seven thousand years ago when `Krishna Dvaipayana` scribed `Maha-Bharata`. Study of this first major shift in human cognition — from spoken to written word — makes a fascinating quest narrative. And at the same time, it might resolve the dilemmas we face as we are moving from analog to increasingly digital realm. 
+- I also believe that the knowledge that `Dvaipayana` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering core concepts of Gita — this vantage of a technical writer. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
 - The third section `Maha-Bharata` is the original translation of the entire epic, done by `Kisari Mohan Ganguly`, at the beginning of last century. I highly recommend reading his [preface](http://mahabharata.shutri.com/) to review the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
     
     As said above, `Mahabharata` is too big to provide effective "mdBook search" feature.. My goal is to reformat this work in web-app format for obvious comfort of consumption on smart devices and search - it is a work in progress. `Maha-bharata` and this translation is in public domain, thankfully received from [sacred-texts](https://www.sacred-texts.com/). The benefit of reading it at [mahabharata.shutri.com](https://mahabharata.shutri.com) is obvious comfort of this presentation format (except for the sluggish search :-)
@@ -49,6 +51,18 @@ All the content in this website is under creatives common v1.0. Which means ever
  For more details please refer to details of [license](https://github.com/ashutoshmjain/gita/blob/main/LICENSE) at github repository for this work.
 
  Since `Mahabharata's` and it's translation by `Kisari Mohan Ganguli` is also in public domain , thus using any of this work should technically follow the same rules. 
+
+# Style 
+
+- I normally use maroon color for  `Hindi` or `Sanskrit`.  This style rule may not apply in the verses because there are just too many, and they are quite obvious.
+- Hyperlinks are in "blue" color. The hyperlinks are used only where I want the reader to investigate some content. Otherwise adding hyperlinks is pretty useless because you can literally select any word, right click and google search.
+- English being my second language, my vocabulary is limited. Even with-in my limited repertoire, I prefer using words that I regularly use. Clarity of idea is a priority over flowery words.
+- `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
+- I refrain from using citations as much as possible. The reason is simple — it is NOT a narrative chasing accuracy. The goal is to imagine possible scenarios, and then review them with an eye to seek comparative probability. This also means it is a subjective discretion.
+- Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
+- It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dvaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information.
+- Footnotes are used to avoid verbosity in the body of article, but they do carry useful information. For paucity of time, if you happen to "skip-over", or for keeping the flow of reading, I suggest to run by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in foot notes :-)
+- The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I review this text before publishing, I have restricted other mdBook standard themes[^theme].
 
 ## Footnotes:
 
@@ -68,6 +82,6 @@ All the content in this website is under creatives common v1.0. Which means ever
 
 ---
 
-[^experience]: Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. It is almost impossible to review the text though all the possible combinations. Thus a time-pressed editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
+[^theme]: Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. It is almost impossible to review the text though all the possible combinations. Thus a lone writer-editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
 
 ---

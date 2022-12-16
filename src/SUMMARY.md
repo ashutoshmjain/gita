@@ -20,3 +20,5 @@
   - [Practice and Skills](./practiceAndSkills.md)
   - [Manifestation](./manifestation.md)
   - [About](./0.0_about.md)
+- [Mahabharata](./mahabharataLanding.md)
+- [changeLog](./changeLog.md)

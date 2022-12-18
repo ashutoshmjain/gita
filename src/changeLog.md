@@ -1,7 +1,6 @@
 # changeLog
 
 # Dec 15, 22
-## Chapter wise Summary of changes: 
 - [Mathura](./mathuraLanding.md) - Added licence to copyright mark. Added page links.
   - [How to read this book](./how.md) - Added sections on search , style and license.
   - [Prologue](./prologue.md) - General Edits and Footnotes title
@@ -32,4 +31,31 @@
 
 ---
 
-Next Plan update - Dec 22.
+# Dec 22.
+- [Mathura](./mathuraLanding.md)
+  - [How to read this book](./how.md)
+  - [Prologue](./prologue.md)
+  - [The Mishap](./mathuraChap01.md)
+  - [Reboot](./mathuraChap02.md)
+  - [Recital v/s Writing](./mathuraChap03.md)
+  - [The Question](./mathuraChap04.md)
+  - [The Island](./mathuraChap05.md)
+  - [The Naive Question](./mathuraChap06.md) - General edits.
+  - [The Resolution](./mathuraChap07.md)
+  - [Proposal and the Plan](./mathuraChap08.md)
+  - [The Birth](./mathuraChap09.md)
+  - [The Return](./mathuraChap10.md)
+  - [Work In Progress](./mathura.md)
+- [Bhagvad Gita](./bhagvadGita.md)
+  - [Hypothesis](./hypothesis.md)
+  - [Continuum](./continuum.md)
+  - [Ritual of Actions](./ritualOfActions.md)
+  - [Practice and Skills](./practiceAndSkills.md)
+  - [Manifestation](./manifestation.md)
+  - [About](./0.0_about.md)
+- [Mahabharata](./mahabharataLanding.md)
+- [changeLog](./changeLog.md) 
+  - Added excerpt of KM preface and from his wikipedia page. 
+  - Added a paragraph on Mahabharata.
+- [Theme](https://github.com/ashutoshmjain/maholvi)
+  - Added a yellow grains back ground image to give the main body a slightly rougher look

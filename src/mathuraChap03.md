@@ -49,7 +49,7 @@ And it wasn't just the tools — the pen and the paper; he must find ways to wra
 
 Bottom line — there was a growing disagreement between `Naad` and `Nyaan Yogies` and the bone of contention was the `text`. But that was not the first concern of `Maharishi` ! His primary focus was to find the true righteous path that when scribed, actually made a difference in ordinary peoples' life.
 
-## Footnotes:
+## research and notes:
 
 [^chakra]: In `Hath Yoga`, human energy system is said to have seven interference points called `Chakras`. The bottom most `Chakra` is called `Mool-adhara`. Rising from the bottom are `Swadhishthana`, `Manipuraka`,`Anahata`, `Vishudhi`, `Ajna`, and `Sahsrara`. At the time of birth, the energy is situated at the bottom most `Chakra`. During the course of life, just like animals, energy rises to second `Chakra` for procreation and to the third for consumption. Humans have the capabilities to raise energy to fourth and fifth points that enable them to have compassion and communication. These two qualities formulate the knowledge graph and are relevant for `Naad` and `Nyaan Yogies`. Rise of energy beyond this point is possible only through intervention by spiritual `Guru` who uses sixth point `Ajna` to invoke her energy into disciples. A relevant point for the `Bhakti Yogies`. The last point `Sahsrara` is the final destination to invoke `Karm Yoga`.
 

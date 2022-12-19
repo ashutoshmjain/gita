@@ -130,7 +130,7 @@ As we are moving to increasingly digital world (think VR), we are trying to take
 
 Let me rewind you to around seven-ish thousands years back. It is about the time `Krishna's` father was to be born at `Mathura` — a major pilgrim destination now, the foremost seat of learning back then ... and a major mishap occurred — something never heard before — and something that triggered the **writing revolution.**
 
-## Footnotes:
+## reasech and notes:
 
 [^immortals]:  In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.
 

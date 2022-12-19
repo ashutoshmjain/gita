@@ -34,13 +34,17 @@
 # Dec 22.
 - [Mathura](./mathuraLanding.md)
   - [How to read this book](./how.md)
+     - Substituted "footnotes" with "research and notes" as the later title seems more appropriate.
+     - Added a new screenshot for search to align the graphic with above idea.
   - [Prologue](./prologue.md)
   - [The Mishap](./mathuraChap01.md)
   - [Reboot](./mathuraChap02.md)
   - [Recital v/s Writing](./mathuraChap03.md)
   - [The Question](./mathuraChap04.md)
   - [The Island](./mathuraChap05.md)
-  - [The Naive Question](./mathuraChap06.md) - General edits.
+  - [The Naive Question](./mathuraChap06.md) 
+     - General edits.
+     - Added the note on `Sanskrit`.
   - [The Resolution](./mathuraChap07.md)
   - [Proposal and the Plan](./mathuraChap08.md)
   - [The Birth](./mathuraChap09.md)
@@ -55,7 +59,7 @@
   - [About](./0.0_about.md)
 - [Mahabharata](./mahabharataLanding.md)
 - [changeLog](./changeLog.md) 
-  - Added excerpt of KM preface and from his wikipedia page. 
+  - Added excerpt of KMG's preface and from his wikipedia page. 
   - Added a paragraph on Mahabharata.
 - [Theme](https://github.com/ashutoshmjain/maholvi)
   - Added a yellow grains back ground image to give the main body a slightly rougher look

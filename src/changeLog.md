@@ -49,7 +49,9 @@ Since this is a living book, a weekly update is released with the list of major 
      - Added a note on "narratives and stories" and why did `Dvaipayana` chose to include descriptions that were prevalent in public discourse rather than scribing underlying truth.
      - Added the note on `Sanskrit`.
   - [The Resolution](./mathuraChap07.md)
+     - General edits.
   - [Proposal and the Plan](./mathuraChap08.md)
+     - General edits.
   - [The Birth](./mathuraChap09.md)
   - [The Return](./mathuraChap10.md)
   - [Work In Progress](./mathura.md)

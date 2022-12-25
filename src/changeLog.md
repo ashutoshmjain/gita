@@ -1,6 +1,7 @@
 # changeLog
 
-Since this is a living book, a weekly update is released with the list of major changes here-below. Readers can sure check the changes with `git diff` on github but it is kinda messy, and hard for the those with limited exposure of version control systems. Thus this changeLog — with links to the pages that I updated in last week , is the easiest way for the readers who are interested in the live changes on (weekly basis).
+Since this is a living book, a weekly update is released with the list of major changes here-below. 
+
 
 # Dec 15, 22
 - [Mathura](./mathuraLanding.md) - Added licence to copyright mark. Added page links.
@@ -65,9 +66,10 @@ Since this is a living book, a weekly update is released with the list of major 
 - [Mahabharata](./mahabharataLanding.md)
   - Added excerpt of KMG's preface and from his wikipedia page. 
   - Added a paragraph on Mahabharata.
-- [changeLog](./changeLog.md) 
 - [Theme](https://github.com/ashutoshmjain/maholvi)
   - Added a yellow grains back ground image to give the main body a slightly rougher look
 
 ## research and notes:
 [^edits]:  "general edits" means I reviewed the full page and made changes to the text and flow. These could be small changes , additions of few lines or rearranging the text for better readability. 
+
+# Next update - Dec 29

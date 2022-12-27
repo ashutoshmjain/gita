@@ -12,7 +12,7 @@
   - [Proposal and the Plan](./mathuraChap08.md)
   - [Birth](./mathuraChap09.md)
   - [Return](./mathuraChap10.md)
-  - [Ganga](./mathuraChap11.md)
+  - [River of Time](./mathuraChap11.md)
   - [Work In Progress](./mathura.md)
 - [Bhagvad Gita](./bhagvadGita.md)
   - [Hypothesis](./hypothesis.md)

@@ -16,7 +16,23 @@ Time took the wings again.
 
 `Satyawati's` boat got popular — like a tourist attraction.  People started pouring over just see her and listen to her sing.  And of course the fragrance. She got rich but she was still waiting for the next season of `Maharishi's` prediction. `Dashraaj` declared her as his daughter. There were many suitors who would happily surrender their lives' worth for `Satyawati`, but none of them could make her “rule the world”. More importantly, she was curious of the bigger cause that `Maharishi` said she was a part of. For now, she was content with love and respect that she know not existed. And she kept on sharpening her skills — music, singing, looking good and of course smelling good.
 
-Back to his `Ashrama`, there was a welcome celebration for `Maharishi` and `Krishna`. No one asked about the mother for they were all busy checking out the toddler who could already speak broken `Sanskrit`. He had the `Gaytri Mantra` by heart. `Maharishi Parāśara` always kept him with in his eyes. Young `Krishna` was curious. He asked even more questions than his mother. `Maharishi` always eager to respond to him. He learnt music, dance and finally the astrology. One thing always laid heavy on `Maharishi's` mind — `Krishna's` learning was only through words. He hadn't seen the life yet. Where would life take him? What all he must go through to be able to nail the truth!.
+----
+
+Back to his `Ashrama`, there was a welcome celebration for `Maharishi` and `Krishna`. No one asked about the mother for they were all busy checking out the toddler who could already speak broken `Sanskrit`. He had the `Gaytri Mantra` by heart. 
+
+The apparent joy in `Ashrama` appeared a bit subdued to `Maharishi`. At the very first chance, he asked `Maitreya` if things were fine. When he found `Maitreya` quiet, `Maharishi` dug deeper. The waves of anger arose in `Maharishi` as he heard about the tax plan and house arrests of his friends. A part of him asked him to repeat the magic he had done in his youth but then other part demanded compassion. Afterall, what difference between him and `Kansa` if he too acted like a monster !
+
+Time was of the essence. He called a general meeting of all the `yogies` later that evening — to announce a major initiatives — that the `Ashram` needs to be moved to the island. He told his disciples that the island was now free from curse since `Dwaipayana` was born there. And since it was out of `Sur Sena` boundary, `Kansa` had no jurisdiction. But moving a thousand strong congregation was not easy. Housing needs to be built ; jetty was a must and there were ton of other requirements to migrate the place. `Maharishi` sent a pigeon to `Shantanu` to summon his help if he or some of his leaders were around.
+
+Later that evening, `Maitreya` talked about `Vasudeva` to `Maharishi`. His assessment was `Kansa` might have him killed sooner because he was the only valid stake to the crown. `Maitreaya` had friends in `Kansa's` council who had let out a note to `Maitrya` that `Vasudev's` days were numbered. The plan was to show as if he was trying to escape and back-stab him. The question was how to delay this inevitable.
+
+Having thought about it together for an hour, they came up with a scheme. Given that it was impossible to get `Vasudev and Devki` out of `Kansa's` clutches, they must provide a good reason for `Kansa` to keep `Vasudev` alive. Their lives were precious even if it was behind the bars. 
+
+Being an astrologer, people believed in `Maharishi's` predictions. Most of the times, he didn't want his name attached to the such prophesies. But this time it was different. `Maitreya` sent a pigeon to his accomplice in `Kansa's` council with a secret message that was supposed to be delivered to one of `Kansa's` real aid. It noted that `Maharishi` predicted death of `Kansa`. It said, once `Kansa` kills `Vasudev`, `Devki` too would die of grief and in their next birth, their eighth offspring would kill `Kansa`. It was important that `Vasudev` died because that was the only way to freedom for him and `Kansa` would never know where he was born again!
+
+The message caused panic in `Kansa's` camp. It meant that both `Vasudev` and `Devki` must be kept alive till they have eight off-springs. And `Kansa` must kill the eighth. 
+
+Even `Maharishi` was unaware that the eighth child of `Devki` was going to be the chosen one .. `Vishu's` seventh incarnation to deliver the lead role of `Krishna Dwaipayana's` epic .. 
 
 -----
 

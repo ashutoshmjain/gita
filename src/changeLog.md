@@ -1,13 +1,21 @@
 # changeLog
 
 Since this is a living book, a weekly update is released with the list of major changes here-below. 
+# Jan 06, 2023 - Friday
+- [Mathura](./mathuraLanding.md)
+  - [Rivers](./mathuraChap11.md)- General edits.
+  - [Desire](./mathuraChap12.md) - Carved out a new chapter from the WIP content.
 
 ## Dec 29, 2022
 
 - [Mathura](./mathuraLanding.md)
-  - [Birth](./mathuraChap09.md)- Review and general edits. Scoping  - add story of Kansa.
-  - [Return](./mathuraChap10.md) - Review and general Edits.
-  - [Rivers](./mathuraChap11.md) - Carved out this new chapter from the "WIP". General Edits and scoping - add the seven verses.
+  - [Birth](./mathuraChap09.md) 
+    - Review and general edits. 
+    - Initiated story of `Kansa` as a new section. Introduced `Vasudev and Devki`.
+  - [Return](./mathuraChap10.md)
+    - Review and general edits. 
+    - Added a new section - divine announcement
+  - [Rivers](./mathuraChap11.md) - Carved out this new chapter from the "WIP". 
 
 ## Dec 22.
 - [Mathura](./mathuraLanding.md)
@@ -50,4 +58,5 @@ Since this is a living book, a weekly update is released with the list of major 
 [^edits]:  "general edits" means I reviewed the full page and made changes to the text and flow. These could be small changes , additions of few lines or rearranging the text for better readability. 
 
 ---
+
 

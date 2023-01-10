@@ -7,12 +7,18 @@
 <div class="cover-small"><sup>Pencil Art: Madan Maholvi</sup></div>
 <div class="cover-small">
   <div class="centered">
-      <a href="https://gita.shutri.com/how.html">Navigation & About .. </a>
+      <a href="./how.md">Navigation & About .. </a>
   </div>
 </div>
 <div class="cover-small">
   <div class="centered">
       <a href="./changeLog.md">changeLog .. </a>
+  </div>
+</div>
+
+<div class="cover-small">
+  <div class="centered">
+      <a href="https://wa.me/message/QTKE4LV2EBGCH1">whatsApp .. </a>
   </div>
 </div>
 

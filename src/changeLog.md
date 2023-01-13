@@ -14,11 +14,11 @@ Since this is a living book, a weekly update is released with the list of major 
   - [Resolution](./mathuraChap07.md)
   - [Proposal](./mathuraChap08.md)
   - [Birth](./mathuraChap09.md)
-  - [Return](./mathuraChap10.md)
+  - [Return](./mathuraChap10.md)- General edits to fix the flow and timeline
   - [Rivers](./mathuraChap11.md)
   - [Desire](./mathuraChap12.md)
   - [Meeting](./mathuraChap13.md) - New Chapter.
-  - [Work In Progress](./mathura.md)
+  - [Truth](./mathuraChap14.md) - New chapter
 - [Bhagvad Gita](./bhagvadGita.md)
   - [Hypothesis](./hypothesis.md)
   - [Continuum](./continuum.md)

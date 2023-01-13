@@ -15,7 +15,7 @@
   - [Rivers](./mathuraChap11.md)
   - [Desire](./mathuraChap12.md)
   - [Meeting](./mathuraChap13.md)
-  - [Work In Progress](./mathura.md)
+  - [Truth](./mathuraChap14.md)
 - [Bhagvad Gita](./bhagvadGita.md)
   - [Hypothesis](./hypothesis.md)
   - [Continuum](./continuum.md)

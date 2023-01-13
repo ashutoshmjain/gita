@@ -3,11 +3,11 @@
 
 `Krishna Dvaipayana` was brought to life for a purpose. He was destined to compile and rearrange thousands of sacred insights, new and old, from sages (`Rishies`) and super sages (`Maharishies`). He crystallized, then existing, entire wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate a life-time; however, his real goal was even bigger! The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
 
-`Krishna's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as `Brihat Parāśara Hora` — foundational work on Astrology; `Krishi Parāśara` — his insights on Agriculture;  `Vrkayurveda` — the first book on botany, and `Vishnu Purana`[^vishnu] — the manifestative potency of the knowledge. His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh`[^bramh]`-rishi` (The keeper of eternal knowledge). It feels like `Krishna's` lineage predetermined his destiny — as if someone planned a multi-generational project to bring `Vedas` to written word.
+`Krishna's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as `Brihat Parāśara Hora` — foundational work on Astrology; `Krishi Parāśara` — his insights on Agriculture;  `Vrkayurveda` — the first book on botany, and `Vishnu Purana`[^vishnu] — the manifestative potency of the knowledge. His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh`[^bramh]`-rishi` (The keeper of eternal knowledge). It feels like `Krishna's` lineage predetermined his destiny — as if someone planned a multi-generational project to bring `Vedas` to the "written word".
 
 Not only did `Krishna` edit the four Vedas, he also scribed eighteen `Puranas` and wrote the master piece `Jaya` (victory)  — a historical narrative that included the story of Lord Sri `Krsna`[^krsna] and `Arjuna`, among thousands of other histories, presented in a narrative format. All of them meshed up like a knowledge graph - intricately interwoven, yet able to stand alone separately. 
 
-`Jaya` was later expanded into a mega-epic, `Mahabharata`, his familial memoir - spanning his own and next two generations. `Mahabharata`, with around 1.8 million words, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
+> `Jaya` was later expanded into a mega-epic, `Mahabharata`, his familial memoir - spanning his own, and next two generations. `Mahabharata`, with around 1.8 million words, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
 More than the size, the quality of poetry is such that it inspired `Kalidasa` — commonly known as Shakespeare of Sanskrit — to write `Abhijnana Shakuntalam`. In fact, `Shakuntalam` is a rewrite of the plot first conceived by `Krishna` in `Mahabharata`. 
 
@@ -17,7 +17,7 @@ In addition to the poetic excellence, `Mahabharata` defined a new way of life �
 
 The legend says,` Krishna` invoked `Bramha`(`Bramh` in human form) to seek help in scribing `Mahabharata`. `Bramha`, in his infinite wisdom, advised him to reach out to `Siva`[^siva],  for his son `Ganesa`[^ganesa] (the elephant God) possessed the superior intelligence to scribe such a vast body of work.
 
-`Adi Parva` the first book of `Mahabharata` describes this story in all it's poet glory. Translated by `Kisari Mohan Ganguly` , here is an excerpt -
+`Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly` , here is an excerpt -
 
 > The son of Satyavati having, by penance and meditation, analysed the eternal Veda, afterwards composed this holy history, when that learned Brahmarshi of strict vows, the noble Dwaipayana Vyasa, offspring of Parasara, had finished this greatest of narrations, he began to consider how he might teach it to his disciples. 
 >

@@ -4,30 +4,10 @@ Since this is a living book, a weekly update is released with the list of major 
 # Jan 13, 23 - Friday ..
 - [Mathura](./mathuraLanding.md) - Added short-link  to whatsApp business account.
   - [Readme](./how.md)- Added contact 
-  - [Prologue](./prologue.md)
-  - [Mishap](./mathuraChap01.md)
-  - [Reboot](./mathuraChap02.md)
-  - [Recital v/s Writing](./mathuraChap03.md)
-  - [Righteous](./mathuraChap04.md)
-  - [Island](./mathuraChap05.md)
-  - [Naive Question](./mathuraChap06.md)
-  - [Resolution](./mathuraChap07.md)
-  - [Proposal](./mathuraChap08.md)
-  - [Birth](./mathuraChap09.md)
   - [Return](./mathuraChap10.md)- General edits to fix the flow and timeline
-  - [Rivers](./mathuraChap11.md)
-  - [Desire](./mathuraChap12.md)
   - [Meeting](./mathuraChap13.md) - New Chapter.
   - [Truth](./mathuraChap14.md) - New chapter
-- [Bhagvad Gita](./bhagvadGita.md)
-  - [Hypothesis](./hypothesis.md)
-  - [Continuum](./continuum.md)
-  - [Ritual of Actions](./ritualOfActions.md)
-  - [Practice and Skills](./practiceAndSkills.md)
-  - [Manifestation](./manifestation.md)
-  - [About](./0.0_about.md)
-- [Mahabharata](./mahabharataLanding.md)
-- [changeLog](./changeLog.md)
+
 ## Jan 06, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
   - [Rivers](./mathuraChap11.md)- General edits.

@@ -16,6 +16,7 @@
   - [Desire](./mathuraChap12.md)
   - [Meeting](./mathuraChap13.md)
   - [Truth](./mathuraChap14.md)
+  - [Chaal](./mathuraChap15.md)
 - [Bhagvad Gita](./bhagvadGita.md)
   - [Hypothesis](./hypothesis.md)
   - [Continuum](./continuum.md)

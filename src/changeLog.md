@@ -68,3 +68,31 @@ Since this is a living book, a weekly update is released with the list of major 
 
 
 
+# Summary
+- [Mathura](./mathuraLanding.md)
+  - [Readme](./how.md)
+  - [Prologue](./prologue.md)
+  - [Mishap](./mathuraChap01.md)
+  - [Reboot](./mathuraChap02.md)
+  - [Expression](./mathuraChap03.md) - changed the title and added a summary para on top.
+  - [Righteous](./mathuraChap04.md)
+  - [Island](./mathuraChap05.md)
+  - [Naive](./mathuraChap06.md) -  changed the title and added a summary para on top.
+  - [Resolution](./mathuraChap07.md)
+  - [Proposal](./mathuraChap08.md)
+  - [Birth](./mathuraChap09.md)
+  - [Return](./mathuraChap10.md)
+  - [Rivers](./mathuraChap11.md)
+  - [Desire](./mathuraChap12.md)
+  - [Meeting](./mathuraChap13.md)
+  - [Truth](./mathuraChap14.md)
+  - [Destiny](./mathuraChap15.md) - new chapter
+- [Bhagvad Gita](./bhagvadGita.md)
+  - [Hypothesis](./hypothesis.md)
+  - [Continuum](./continuum.md)
+  - [Ritual of Actions](./ritualOfActions.md)
+  - [Practice and Skills](./practiceAndSkills.md)
+  - [Manifestation](./manifestation.md)
+  - [About](./0.0_about.md)
+- [Mahabharata](./mahabharataLanding.md)
+- [changeLog](./changeLog.md)

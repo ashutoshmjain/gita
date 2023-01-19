@@ -1,12 +1,37 @@
-`Vidhi` (noun) - The generally accepted meaning of this Sanskrit word is "Destiny". It also means the method or the procedure of doing certain complex tasks.  Meaning in the present context is probably the collective destiny. The essence is "How the things unfold" — the sequence of events in melodrama of life. A popular sub-phrase in `Hindi` is `Vidhi Ka Vidhan` - which means "rules of the destiny" !
+`Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality. 
+
+Somewhat opposite of this word (in English) is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of our sensory reality. 
+
+There are infinite possibilities, triggered by just five senses, when they experience the variations of our "real verse" — our tiny box. Our emotions, actions, feelings, pains and elations — all live in this moment. Modern Hindi poet `Ayodhya Singh Upadhyay 'Hariaudh'` describes the possibilities — `Bhagya` — in his famous poem `Ek Boond` — a droplet of rain. He says as the droplet leaves the clouds, she wonders what is in store for her?. Will I diminish in the dirt, or will I burn in some fire?
+
+
+> Dev mere bhagy mein kya hai bada
+>
+> (O deity of luck, what ills wait in my fate?)
+>
+> main bachungi ya milungi dhool mein?
+>
+> (will I live, or lay on dirt to rot?)
+>
+> ya jalungi gir angaare par kisi?
+>
+> (or fall, to burn on ember hot?)
+>
+> choo padungi ya kamal ke phool mein?
+>
+> (or will I seep into an open lotus flower [^pearl] ?)
+
+It might appear that the fate might push us in different direction — set us up on a new course;  but overall sum of all those changes, in the long term, evens out. Hence, the long term future is predictable. Astrology may predict only long term future. Present day nuances of our sensory reality are indeterminate. 
+
+Think of our tiny box analogous to a  casino. We can't predict the result of one hand. But we can do the outcome of thousand trials - casino always wins! That is the reason the game exists. A knowledgeable player, thus, is never swayed by the outcomes. Their focus is always on the righteous actions.
 
 # Vidhi
 
 `Dashraj` woke up late, well past noon, thanks to the extra liquor, he consumed last night. He was barely through his morning routine when he heard a loud knock on his door. Who at this time ? His friends knew he hated visitors till evening, and girls had their own keys. The good thing, if any, about `Dashraj` was he never cared to put controls on the girls. They could come and go as they wished as long as they made some money for him. 
 
-As he opened the door, he saw a horseman, ironclad and holding a flag of `Kuru` kingdom. A neighbor had guided him to the address and knocked the door for him. The horseman stepped down and bowed in respect as he saw `Dashraj`. Taking out the king's stamp in his hand, he said — `Shrimat Dashraj` (a respectful address, slightly more than a plain  "Mr." which is equivalent to `Shri` in `Hindi or Sanskrit` )I am here to bring you a message from the king of all lands and rivers, the emperor of vast `Kuru` kingdom `Maharaaj Shantanu` has asked for you for a private council. I may wait here till the time of your convenience to ride with me — he pointed to another empty horse that he had brought for `Dashraaj`. The dangling sword and the muscles on the horseman were enough to let `Dashraj` know that saying a "no" wasn't an option. Not that he wanted to deny himself this opportunity to see the king. He was always keen to meet people of power though being called upon by the emperor was beyond his wildest dreams.
+As he opened the door, he saw a horseman, ironclad and holding a flag of `Kuru` kingdom. A neighbor had guided him to the address and knocked the door for him. The horseman stepped down and bowed in respect as he saw `Dashraj`. Taking out the king's stamp in his hand, he said — `Shrimat Dashraj` (a respectful address, slightly more than a plain  "Mr." which is equivalent to `Shri` in `Hindi or Sanskrit`), I am here under instructions from the king of all lands and rivers, the emperor of vast `Kuru` kingdom `Maharaaj Shantanu`, who has asked for your presence for a private council. I may wait here till the time of your convenience to ride with me — he pointed to another empty horse that he had brought for `Dashraaj`. The carefully dangling sword, and the muscles on the horseman were enough to let `Dashraj` know that saying a "no" wasn't an option, not that `Dashraj` wanted to deny himself this opportunity to see the king. He was always keen to meet people of power though being called upon by the emperor was beyond his wildest dreams.
 
-Oh sure, let me dress up suitably for the respect of the king — as he was about to turn back inside , he saw `Satyawati` walking back in. She wasn't surprised to see the `Kuru` flag. Without looking at the horseman, she stepped inside the big home. `Dashraj` checked with the horseman, if he or his horse needed water or anything to which he got a cleaver answer — Not till the work if my lord is done !
+Oh sure, let me dress up suitably for the respect of the king — as he was about to turn back inside , he saw `Satyawati` walking back in. She wasn't surprised to see the `Kuru` flag. Without looking at the horseman, she stepped inside the big home. `Dashraj` checked with the horseman, if he or his horse needed water or anything else, to which he got a clever answer — Not till the work if my lord is done !
 
 I don't know why the king wants to see me. Did I say anything wrong yesterday?  — `Dashraj` casually spoke to `Satyawati` — But then why would he want a private council rather then having me sent to a court ! — this time, as if he was talking to himself.
 
@@ -27,4 +52,5 @@ As `Dashraj` saw `Kansa's` long caravan pass by, the truth dawned upon him. He u
 `Dashraj` bowed to the king for the longest time. He straightened up after many requests from the king and then sat on the ground right near `Shantanu's` legs. King stood up and with his arms he lifted `Dashraj` and showed him a seat. He ordered the best wine for he knew `Dashraj` loved to indulge. `Dashraj` was already feeling thirsty for his mind had over-clocked since afternoon ever-since the horseman showed up. 
 
 
-
+### Research and Notes
+[^pearl]: Since a lotus flower stays up above dirt and water, a droplet may retain it's own if it was held in a silky lotus flower. A good outcome from droplet's standpoint.

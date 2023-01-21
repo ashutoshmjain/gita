@@ -1,20 +1,22 @@
 # changeLog
 
-Since this is a living book, a weekly update is released with the list of major changes here-below. 
-# Jan 13, 23 - Friday ..
+Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
+## Jan 20, 23 - Friday
+- [Mathura](./mathuraLanding.md)
+  - [Expression](./mathuraChap03.md) - changed the title and added a summary para on top.
+  - [Naive](./mathuraChap06.md) -  changed the title and added a summary para on top.
+  - [Fate](./mathuraChap15.md) - new chapter
+## Jan 13, 23 - Friday ..
 - [Mathura](./mathuraLanding.md) - Added short-link  to whatsApp business account.
   - [Readme](./how.md)- Added contact 
   - [Return](./mathuraChap10.md)- General edits to fix the flow and timeline
   - [Meeting](./mathuraChap13.md) - New Chapter.
   - [Truth](./mathuraChap14.md) - New chapter
-
 ## Jan 06, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
   - [Rivers](./mathuraChap11.md)- General edits.
   - [Desire](./mathuraChap12.md) - Carved out a new chapter from the WIP content.
-
 ## Dec 29, 2022
-
 - [Mathura](./mathuraLanding.md)
   - [Birth](./mathuraChap09.md) 
     - Review and general edits. 
@@ -23,7 +25,6 @@ Since this is a living book, a weekly update is released with the list of major 
     - Review and general edits. 
     - Added a new section - divine announcement
   - [Rivers](./mathuraChap11.md) - Carved out this new chapter from the "WIP". 
-
 ## Dec 22.
 - [Mathura](./mathuraLanding.md)
   - [How to read this book](./how.md)
@@ -42,9 +43,7 @@ Since this is a living book, a weekly update is released with the list of major 
   - Added a paragraph on Mahabharata.
 - [Theme](https://github.com/ashutoshmjain/maholvi)
   - Added a yellow grains back ground image to give the main body a slightly rougher look
-
 ## Dec 15, 22
-
 - [Mathura](./mathuraLanding.md) - Added licence to copyright mark. Added page links.
   - [How to read this book](./how.md) - Added sections on search , style and license.
   - [Prologue](./prologue.md) - General Edits [^edits] and Footnotes title
@@ -59,40 +58,7 @@ Since this is a living book, a weekly update is released with the list of major 
      - configured github pages for the https://mahabharata.shutri.com
      - Custom styling and published mdbook to new sub-doamin.
 - [changeLog](./changeLog.md) - Started maintaining a change log.
-
-## research and notes:
-
+### research and notes:
 [^edits]:  "general edits" means I reviewed the full page and made changes to the text and flow. These could be small changes , additions of few lines or rearranging the text for better readability. 
 
 ---
-
-
-
-# Summary
-- [Mathura](./mathuraLanding.md)
-  - [Readme](./how.md)
-  - [Prologue](./prologue.md)
-  - [Mishap](./mathuraChap01.md)
-  - [Reboot](./mathuraChap02.md)
-  - [Expression](./mathuraChap03.md) - changed the title and added a summary para on top.
-  - [Righteous](./mathuraChap04.md)
-  - [Island](./mathuraChap05.md)
-  - [Naive](./mathuraChap06.md) -  changed the title and added a summary para on top.
-  - [Resolution](./mathuraChap07.md)
-  - [Proposal](./mathuraChap08.md)
-  - [Birth](./mathuraChap09.md)
-  - [Return](./mathuraChap10.md)
-  - [Rivers](./mathuraChap11.md)
-  - [Desire](./mathuraChap12.md)
-  - [Meeting](./mathuraChap13.md)
-  - [Truth](./mathuraChap14.md)
-  - [Destiny](./mathuraChap15.md) - new chapter
-- [Bhagvad Gita](./bhagvadGita.md)
-  - [Hypothesis](./hypothesis.md)
-  - [Continuum](./continuum.md)
-  - [Ritual of Actions](./ritualOfActions.md)
-  - [Practice and Skills](./practiceAndSkills.md)
-  - [Manifestation](./manifestation.md)
-  - [About](./0.0_about.md)
-- [Mahabharata](./mahabharataLanding.md)
-- [changeLog](./changeLog.md)

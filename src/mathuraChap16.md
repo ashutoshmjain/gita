@@ -79,13 +79,76 @@ All three of them headed towards their private boat after seeking another round 
 
 ---
 
-Crew had built a makeshift wooden office to meet up every morning and evening. `Loma` and `Dwaipayana` used to meet there and then head to a specific location based in the needs of the day. Sometimes they went to see the progress on jetty. Other times they had visit the lodging area — huts, wells, common kitchen. Today, `Dwaipayana` wanted to go see the fire-pits on the North side of the island where large number of palm trees stood tall over the river. This was a new find, access was still trough a boat circling the island for the path wasn't yet paved for horses or carts. `Dwaipayana` was excited to circle the island in a boat and he was getting nervous for `Loma` was unusually late this morning. All the morning boats were already in with labourers and suppliers who lived in the villages nearby,  and all the crew members too who camped at the island. He was wondering if everything was alright back in `Ashrama`. 
+Crew had built a large wooden central place that served as planning office as well as an open kitchen. Any one could eat there for free. The crew members met up every morning and evening. `Loma` and `Dwaipayana` had a large room set up for record keeping. `Dwaipayana` was responsible to keep a track of the cost. `Loma` handled the wage disbursement for the villagers. He was the one to settle disputes with villagers if any. They both used to meet there every morning to visit different sites in the first half of the day . Sometimes they went to see the progress on jetty. Other times they had visit the lodging area — huts, wells, common kitchen. Today, `Dwaipayana` wanted to go see the fire-pits on the North side of the island where large number of palm trees stood tall over the river. This was a new find, access was still trough a boat circling the island for the path wasn't yet paved for horses or carts. `Dwaipayana` was excited to circle the island in a boat and he was getting nervous for `Loma` was unusually late this morning. All the morning boats were already in, with labourers and suppliers who lived in the villages nearby,  and all the crew members too who camped at the island. He was wondering if everything was alright back in `Ashrama`. 
 
-He was pleasantly surprised when he saw `Loma` walking in with two armoured men. Even more, when he saw the entire crew rush to the taller man and bow in respect as if he was the king. He must be `Dev` - the Prince , thought `Dwaipayana`. He saw the Prince, giving instructions to the crew leader to fetch someone as they all headed to the open space in the center of the makeshift office. 
+He was pleasantly surprised when he saw `Loma` walking in with two armoured men. Even more, when he saw the entire crew rush to the taller man and bow in respect as if he was the king. He must be `Dev` - the Prince , thought `Dwaipayana`. His face bore resemblance with the king though he was much taller and well built. He saw the Prince, giving instructions to the crew leader to fetch someone as they all headed to the open space in the center. 
 
 As soon as `Loma` saw `Dwaipayana`, he called out his name and asked him to come meet up the Prince. `Dwaipayana` was impressed with the grace and respect the Prince offered to all the crew members. With same respect, he addressed `Dwaipayana` as he saw him fold his hands. He held `Dwaipayana's` little hands and spoke with love - I have heard a great deal about you `Dwaipayana` and I am feeling lucky to have met you in person!
 
-`Dwaipayana` was overwhelmed with the towering strength and presence of the Prince. He could feel an aura of influence never felt before. Holding the hands of the Prince, he said — `Taat` you are welcome to the this side of your kingdom. We are all blessed to have you here in person. Hope `Maharaj` is doing well!
+`Dwaipayana` was overwhelmed with the towering presence of the Prince. He could feel an aura of influence never felt before. Holding the hands of the Prince, he said — `Taat` you are welcome to the this side of your kingdom. We are all blessed to have you here in person. Hope `Maharaj` is doing well!
 
-He noticed that `Dev` stole his eyes at the mention of `Shantanu`. Lines of worry showed up on his face.
+He noticed that `Dev` lowered his gaze at the mention of `Shantanu`. Lines of worry showed up on his face.
+
+---
+
+Prince sat with his crew , `Dwaipayana` and `Loma` for the morning meal. There were number of options on the table , though prince limited himself to fruits and goat milk. Prince was curious as to why the King chose to develop this place. He quickly got the gist of aggressive posture `Kansa` took towards the `Ashrama` after locking up his father and `Vasudeva`. He was furious over the injustice, and appreciated his father's strategy to set up a post here on the island while helping a just cause. He also appreciated `Maharishi` seeking the help rather than taking the things in his own hands. 
+
+Ever-since the work on the island started, `Dashraj` got into the morning habit. Everyday of the week, he had his morning meal in the kitchen, and stayed there till the last ferry. In between, he used to apparently hunt opportunities to make money on different sites, as a supplier or arranger. Everyone thought of him as an old man looking to pass his time being around with people and trying to win a wager. Only few knew he was tasked to keep an eye on the activities at island for someone high in the chain of command to `Kansa`. 
+
+He was waiting in line for the meal, when his name was announced by the kitchen supervisor. He was surprised to notice that supervisor knew his name. 
+
+Supervisor, directed him to the central table. The crew and prince had finished their morning meal. They had a large, map of the island, scribed on large palm leaves joined together with forest glue. The map was spread in front of them, at the large table where they just finished their lunch. The map was put together by young `Dwaipayana`. Prince was all praises for the attention to detail. Locations were drawn to a scale just by walk measurements. Three steps of `Dwaipayana` were almost equal to a yard. 
+
+`Dashraj` was shocked when he realized he was put on spot in front of `Dev`. His mind cautioned him of impending danger but there was no way out. His first thought was that someone blew his cover. The sword on the prince, and his youthful built meant there was no room to fool around. Prince asked if there was a place he could talk to `Dashraj` in person. Blood drained off `Dashraj's` old veins. `Dwaipayana` immediately suggested they could use the record room and offered to take the prince there. `Rituraj` and `Loma` followed the prince along with scared `Dashraj`. 
+
+`Dwaipayana` and `Loma` were about to leave the room, when Prince asked them to stay back. After all it was their room and he wanted local `Yogies` there to instill confidence in `Dashraj`. 
+
+Nothing untoward shall happen to you if you speak candid truth to me Mr `Raj` — said Prince in a voice that commanded respect and meant business. He was in no hurry but `Dashraj` felt as if time stopped for him. Truth, he felt was the only way out of the hole he dug himself into. But how must he say it ? 
+
+Pardon me my prince and I ask for safety of my life for I would share only truth with you — `Dashraj` tried to borrow as much time as possible to get a handle on the situation. He was relieved when Prince asked him what transpired between him and the king. That clearly meant he won't be under an act of treason. He might get appreciation for being a caring father. All depended how he played his act.
+
+`Dashraj` sat on the ground, praying to the God that king must stay healthy for ever. He kept on repeating the same till `Dev` picked him up and offered a seat at the table — my Prince, I am guilty of being overtly careful for the well being of my daughter. It maligned my mind when the good king asked for  `Satyawati` in marriage — he said — Trust me, I acted like a foolish father, blind sighted in love for the kids.
+
+The tide turned. Now , it was turn for `Dev` to get flabbergasted. Even `Dwaipayana` and `Loma` were surprised but `Loma`knew the charm of `Satyawati`. Anyone could lose heart to her.
+
+What are you talking about? — surprised `Dev` asked for more details. Who is `Satyawti` and what she got to do with my father? He looked at `Loma` for help and confirmation.
+
+My lord , I know nothing what king's interaction with `Satyawati` were, though I can confirm she is the most beautiful and talented woman on this side of `Yamuna`. And it wouldn't be a mismatch if king saw a potent queen in her — `Loma` bit his tongue for adding extra line in his description. It was not his place to judge what king should do or not do. He was relieved when he found `Dev` didn't notice his exaggeration. As a surprise, he found `Dev` appeared to be gratified. 
+
+What is wrong if king wanted to marry ! He is not that old and entire council is after him to give the kingdom a queen. — `Dev` thought there was somehow an objection to king pursuing `Satyawati`. All this time `Dashraj` planning his next move. He always nailed the confusion by adding more of it!
+
+My lord - there is  nothing wrong in king's proposal. In fact I am the culprit here. Please kill me for I put the king in harms way. I was blinded by my desires for the greater good of `Satyawati` and my family name. — `Dashraj` played the trick like a professional artist. He was almost crying.
+
+What exactly you wanted `Shrimat Raj` — `Dashraj` noticed that the Prince added respect for him in his address. If `Satyawati` was to marry `Shantanu` , `Dashraj` would be like a step grandfather to `Dev`. 
+
+My Prince, I wanted to future proof `Satyawati` for the capital is a big place. She wouldn't be able to handle the politics unless king named her offspring his heir. I know I was mistaken for I had not met you — `Dashraj` acted his best. He again slipped to the floor with his head in his hands — Pardon me my good  Prince for my crime, and I wouldn't wonder if you kill me right here !
+
+`Dev` now saw the situation with clarity. His father would rather let go his love, than entertain even a possibility of injustice to him. He couldn't help the rise of pride in him for being son of such caring parent. But what must he do? `Dashraj` was right. Capital is a complex ruthless place. No father should sacrifice her daughter in the politics without certain assurances. What must he do! 
+
+You are absolutely right `Shrimat Dashraj`. You have every right to care for your daughter. And you are right , capital is full of power hungry. — `Dev` said — Let me make it easier for you. I forgo my right to the title, right here , right now, if you agree to take `Satyawati` to the king in `Nimisha` forest. And get them married as per the rituals of both the families.
+
+`Rituraj` and `Loma` couldn't believe their ears. `Dwaipayana` trying to ascertain if he had ever seen a more just and kind person. Someone giving up his birthright without even thinking twice. Is it his devotion for his father or is it his natural virtue. Words couldn't describe such a spontaneous act of sacrifice. But evil `Dashraj` was still not satisfied.
+
+My Prince, I can't describe your virtue in words. But I know the king. If he knew I enshrined this idea in your mind. He would anyway kill me — said `Dashraj` — In addition, look at you. Your strength and intelligence. How many days `Satyawati's` offspring could stand against your sons, who in fact would be rightful heir if you let go your title. I think it is a grave mistake — `Dashraj` played the final act — I think `Satywati` should marry the king without any conditions.
+
+> You are right `Shrimat Dashraj` — King should not know this. And there should not be any conditions on the king — `Dev` spoke the words that would be known as `Bheeshma Pratigya` for generations to come. 
+>
+> He said — After the king, I take the vow to name `Satywati's` eldest son the king of this vast land. And as you rightly said, to protect the new king for my own offspring, I pledge to never marry. And to make sure that I don't have kids out of a wedlock, I pledge celibacy for the rest of my life.
+
+
+The sacrifice was greatest ever heard by anyone. `Dwaipayana` had no reference for such a pledge in any of the scriptures and he had read them all. Not even `Rama's` sacrifice came close to what `Dev` did. Suddenly the word came to his mouth – `Bheeshma` — my Prince, you will be known as `Bheeshma` from this day onwards. Your sacrifice will be seen as the biggest ever in mankind – in history as well as in future. Realm will take your example to define the word "pledge". 
+
+Later when `Dwaipayana` wrote the most important part of `Mahabharata` - the `Gita`, he embedded it as part of `Bheeshma Sarga` — a book dedicated to the name of the Prince.
+
+---
+
+The pledge also cleared the growing doubts in `Dwaipayana's` mind. Later that night he returned to his father. While he told the story of the day, he bowed to touch the feet of `Maharishi` — O father, O teacher - tell me not who am I. Tell me what I should be !
+
+`Maharishi` embraced him with water in his eyes. O son — you are here to organize and scribe world's wisdom. Destiny has brought you here for a purpose !
+
+----
+
+
+
+
 

@@ -31,9 +31,13 @@ The work and co-ordination kept him busy though deep with in, he craved for his 
 
 ---
 
-`Maharishi` could feel that `Dwaipayana` was drifting apart. Is it the adolescence or is it something else? As a keen observer, he could see a new reality taking shape. The unfortunate aggression from `Kansa` turned into an opportunity. He would soon have the palm leaves mass smoked in fire pits, being built by some of the best. The `Ashrama` found a better location. Local people got the work. And `Satyawati` was nearing the next phase of prophesy. He was sure, `Dwaipayana` would soon find his footings. 
+As a keen observer of the "present", `Maharishi` could see a new reality taking shape. The unfortunate aggression from `Kansa` turned into an opportunity. He would soon have the palm leaves mass smoked in fire pits, being built by some of very the best. The journey of the "written word" as a medium to store knowledge had already begun.
 
-The question that still bothered him was how to tell `Dwaipayana` about his mother ? If he let himself be swayed by the emotions, how would he expect `Satyawati` to play her part. As a mother, her affection must be a million times greater than his own !
+The `Ashrama` found a better location. Local people got the work. And `Satyawati` was nearing the next phase of prophesy. He wondered if she was still around or left with `Shantanu`. There was no point in checking because every observation has a cost to be paid. He believed in letting the reality unveil itself.
+
+On the other side, `Maharishi` could feel that `Dwaipayana` was drifting apart. Is it the adolescent hormones,  or is it something else? The question that still bothered him was how to tell `Dwaipayana` about his mother ? If he let himself swayed by the emotions, how would he expect `Satyawati` to play her part. As a mother, her affection must be a million times greater than his own!
+
+He was sure, `Dwaipayana` would soon find his footings. 
 
 ----
 

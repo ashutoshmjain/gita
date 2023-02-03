@@ -8,7 +8,7 @@ He writes in `Gita` that `Vishnu` himself told this secret. His seventh incarnat
 
 > Yada Yada hi Dharmaysa Glanir Bhavti Bharata
 >
-> Abhuthanm Adharmasya, Sambhvami Yuge Yuge
+> Abhuthanm Adharmasya, Tadatmanam Srijamyham
 > 
 > ---
 >

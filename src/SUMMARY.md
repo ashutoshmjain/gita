@@ -19,6 +19,7 @@
   - [Truth](./mathuraChap14.md)
   - [Fate](./mathuraChap15.md)
   - [Pledge](./mathuraChap16.md)
+  - [Injustice](./mathuraChap17.md)
 - [Bhagvad Gita](./bhagvadGita.md)
   - [Hypothesis](./hypothesis.md)
   - [Continuum](./continuum.md)

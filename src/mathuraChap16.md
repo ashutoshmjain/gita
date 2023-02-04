@@ -114,9 +114,9 @@ Supervisor, directed him to the central table. The crew and prince had finished 
 
 Nothing untoward shall happen to you if you speak candid truth to me Mr `Raj` — said Prince in a voice that commanded respect and meant business. He was in no hurry but `Dashraj` felt as if time stopped for him. Truth, he felt was the only way out of the hole he dug himself into. But how must he say it ? 
 
-Pardon me my prince and I ask for the safety of my life for I would share only truth with you — `Dashraj` tried to borrow as much time as possible to get a handle on the situation. He was relieved when Prince asked him what transpired between him and the king. That clearly meant he won't be under an act of treason. He might even get appreciation for being a caring father, if he played his cards well. All depended how he negotiated this next act, and he knew 'negotiation' was his sweet spot.
+Pardon me my prince and I ask for the safety of my life for I would share only truth with you — `Dashraj` tried to borrow as much time as possible to get a handle on the situation. He was relieved when Prince asked him what transpired between him and the king. That clearly meant he won't be under an act of treason. He might even get appreciation for being a caring father, if he played his cards well. All depended on how he negotiated this next act, and he knew 'negotiation' was his sweet spot.
 
-`Dashraj` sat on the ground, praying to the God that king must stay healthy for ever. He kept on repeating the same till `Dev` picked him up and offered a seat at the table — my Prince, I am guilty of being overtly careful for the well being of my daughter. It maligned my mind when the good king asked for  `Satyawati` in marriage — he said — Trust me, I acted like a foolish father, blind sighted in love for the kids.
+`Dashraj` sat on the ground, praying to the God that king must stay healthy for ever. He kept on repeating the same till `Dev` picked him up and offered a seat at the table — my Prince, I am guilty of being overtly cautious for the well being of my daughter. It maligned my mind when the good king asked for  `Satyawati` in marriage — he said — Trust me, I acted like a foolish father, blind sighted in love for the kids.
 
 The tide turned. Now , it was turn for `Dev` to get flabbergasted. Even `Dwaipayana` and `Loma` were surprised but `Loma`knew the charm of `Satyawati`. Anyone could lose heart to her.
 
@@ -124,7 +124,7 @@ What are you talking about? — surprised `Dev` asked for more details. Who is 
 
 My lord , I know nothing what king's interaction with `Satyawati` were, though I can confirm she is the most beautiful and talented woman on this side of `Yamuna`. And it wouldn't be a mismatch if king saw a potent queen in her — `Loma` bit his tongue for adding extra line in his description. It was not his place to judge what king should do or not do. He was relieved when he found `Dev` didn't notice his exaggeration. As a surprise, he found `Dev` appeared to be gratified. 
 
-What is wrong if king wanted to marry ! He is not that old and entire council is after him to give the kingdom a queen. — `Dev` thought there was somehow an objection to king pursuing `Satyawati`. All this time `Dashraj` planning his next move. He always nailed the confusion by adding more of it!
+What is wrong if king wanted to marry ! He is not that old and entire council is after him to bring the kingdom a queen. — `Dev` thought there was somehow an objection to king pursuing `Satyawati`. All this time `Dashraj` planning his next move. He always nailed the confusion by adding more of it!
 
 My lord - there is  nothing wrong in king's proposal. In fact I am the culprit here. Please kill me for I put the king in harms way. I was blinded by my desires for the greater good of `Satyawati` and my family name. — `Dashraj` played the trick like a professional artist. He was almost crying.
 
@@ -134,24 +134,24 @@ My Prince, I wanted to future proof `Satyawati` for the capital is a big place. 
 
 `Dev` now saw the situation with clarity. His father would rather let go his love, than entertain even a possibility of injustice to him. He couldn't help the rise of pride in him for being son of such caring parent. But what must he do? `Dashraj` was right. Capital is a complex ruthless place. No father should sacrifice her daughter in the politics without certain assurances. What must he do! 
 
-You are absolutely right `Shrimat Dashraj`. You have every right to care for your daughter. And you are right , capital is full of power hungry. — `Dev` said — Let me make it easier for you. I forgo my right to the title, right here , right now, if you agree to take `Satyawati` to the king in `Nimisha` forest. And get them married as per the rituals of both the families.
+You are absolutely right `Shrimat Dashraj`. You have every right to care for your daughter. And you are right , capital is full of power hungry — `Dev` said — Let me make it easier for you. I forgo my right to the title, right here , right now, if you agree to take `Satyawati` to the king in `Nimisha` forest. And get them married as per the rituals of both the families.
 
 `Rituraj` and `Loma` couldn't believe their ears. `Dwaipayana` trying to ascertain if he had ever seen a more just and kind person. Someone giving up his birthright without even thinking twice. Is it his devotion for his father or is it his natural virtue. Words couldn't describe such a spontaneous act of sacrifice. But evil `Dashraj` was still not satisfied.
 
-My Prince, I can't describe your virtue in words. But I know the king. If he knew I enshrined this idea in your mind. He would anyway kill me — said `Dashraj` — In addition, look at you. Your strength and intelligence. How many days `Satyawati's` offspring could stand against your sons, who in fact would be rightful heir if you let go your title. I think it is a grave mistake — `Dashraj` played the final act — I think `Satywati` should marry the king without any conditions.
+My Prince, I can't describe your virtue in words. But I know the king. If he knew I plotted this idea in your mind. He would anyway kill me — said `Dashraj` — In addition, look at you. Your strength and intelligence. How many days `Satyawati's` offspring could stand against your sons, who in fact would be rightful heir if you let go your title. I think it is a grave mistake — `Dashraj` played the final act — I think `Satywati` should marry the king without any conditions.
 
 > You are right `Shrimat Dashraj` — King should not know this. And there should not be any conditions on the king — `Dev` spoke the words that would be known as `Bheeshma Pratigya` for generations to come. 
 >
-> He said — After the king, I take the vow to name `Satywati's` eldest son the king of this vast land. And as you rightly said, to protect the new king for my own offspring, I pledge to never marry. And to make sure that I don't have kids out of a wedlock, I pledge celibacy for the rest of my life.
+> He said — After the king, I take the vow to name `Satywati's` eldest son the king of this vast land. And as you rightly said, to protect the new king from my own offspring, I pledge to never marry. And to make sure that I don't have kids out of a wedlock, I pledge celibacy for the rest of my life.
 
 
 The sacrifice was greatest ever heard by anyone. `Dwaipayana` had no reference for such a pledge in any of the scriptures and he had read them all. Not even `Rama's` sacrifice came close to what `Dev` did. Suddenly the word came to his mouth – `Bheeshma` — my Prince, you will be known as `Bheeshma` from this day onwards. Your sacrifice will be seen as the biggest ever in mankind – in history as well as in future. Realm will take your example to define the word "pledge". 
 
-Later when `Dwaipayana` wrote the most important part of `Mahabharata` - the `Gita`, he embedded it as part of `Bheeshma Sarga` — a book dedicated to the name of the Prince.
+> Later when `Dwaipayana` wrote the most important part of `Mahabharata` - the `Gita`, he embedded it as part of `Bheeshma Sarga` — a book dedicated to the name of the Prince.
 
 ---
 
-The pledge also cleared the growing doubts in `Dwaipayana's` mind. Later that night he returned to his father. While he told the story of the day, he bowed to touch the feet of `Maharishi` — O father, O teacher - tell me not who am I. Tell me what I should be !
+The pledge also cleared the growing doubts in `Dwaipayana's` mind. Later that night he returned to his father. While he told the story of the day, he bowed to touch the feet of `Maharishi` — O father, O teacher - tell me not who I am. Tell me what I should be !
 
 `Maharishi` embraced him with water in his eyes. O son — you are here to organize and scribe world's wisdom. Destiny has brought you here for a purpose !
 

@@ -8,7 +8,7 @@ In `Bal Kanda` , the first book of `Ram Charit Mansa`, revered poet `Tulsidasa` 
 >
 >  His stories are told, and listened by all saints — in different formats, and even more styles. 
 
- `Hari` is a name for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
+`Hari` means one who removes darkness and obstacles. One who paves the path for true success by removing illusions.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels with knowledge, intelligence and strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
 
  Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara)
 
@@ -38,9 +38,9 @@ In `Bal Kanda` , the first book of `Ram Charit Mansa`, revered poet `Tulsidasa` 
 > 
 > Blavatsky believed that the avatara-related Hindu texts were an allegorical presentation of Darwinian evolution. Some Orientalists and reformist Hindus in India picked up this idea to rationalize Hinduism as being consistent with modern science. Keshub Chandra Sen stated in 1882,
 
-Above ten or so, incarnations of `Hari` are described as "full incarnations" though there are thousands of semi-complete incarnations representing minor milestones in our journey to a evolved civilized way of life. In a way, `Hari` is the manifestative potency of `Brmha` - the entire knowledge base. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creation. They signify the upwards trajectory of human cognition - be it our infinite universe or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies to imbibe the freedom of birds,  or the fist light bulb to mimic a tiny Sun in our captive backyard. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness — these stories are endless, because such manifestations are endless
+Above ten incarnations of `Hari` are described as "full incarnations" though there are thousands of semi-complete incarnations representing minor milestones in our journey to a evolved civilized way of life. In a way, `Hari` is the manifestative potency of `Brmha` - the entire knowledge base. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creation. They signify the upwards trajectory of human cognition - be it our infinite universe or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies to imbibe the freedom of birds,  or the fist light bulb to mimic a tiny Sun in our captive backyard. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness — these stories are endless, because such manifestations are endless
 
-In all such stories, there is an element of innovation. We may call it creativity — a divine force that uses us like a vessel to evolve something new. `Krishna` — the eighth incarnation of `Vishnu` named such distinguished manifestations as his `Vibhooties` (entities).
+In all such stories, there is an element of innovation. We may call it creativity — a divine force that uses us like a vessel to evolve something new. `Krishna` — the eighth incarnation of `Vishnu` named such distinguished manifestations as his `Vibhooties` (entities that have attained perfections ).
 
 When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 
@@ -76,13 +76,9 @@ When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 
 Thus the common denominator of `Hari's` perceivable opulence is the creativity, innovation and knowledge. The expanse of `Hari Vibhooties` being such, infinite stories may be said of him, and heard without ever being fully satiated. These narratives are not necessarily (or limited to) religious scriptures. They rightly belong to scientific as well as technological breakthrough. They are descriptions of creative forces all around us. These narratives are said by thousands of reciters, written by many more writers and sung by even more poets .... 
 
-> The greatness doesn't belong to the teller of the story , Or the writer  — The greatness is in the narrative itself .
-
-The writer is only a medium , a vessel to bring infinite stories of endless creativity. His job, in changing the words to suite a specific taste, or to serve a class of audiences, is purposed to service this genre ..
-
 > This genre of story telling where human endeavour meets the divine grace to create the next big thing - next big shift,  is auspicious. 
 
-It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge.
+It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge. 
 
 ~ashutosh~
 

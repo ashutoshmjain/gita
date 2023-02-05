@@ -1,16 +1,20 @@
-> Hari Anant Hari Katha Ananta |
+# `Katha Ananta` - an infinite narrative
+
+> Hari Anant, Hari Katha Ananta |
 >
-> Kahahin Sunahi Bahu Bidhi Sab Santa ||
+> Kahahin Sunahi,  Bahu Bidhi Sab Santa ||
 
-In `Bal Kanda` , the first book of `Ram Charit Mansa`, revered poet `Tulsidasa` wrote ...
+In `Bal Kanda`, the first book of `Ramcharit Mansa`, revered saint and poet `Tulsidasa` wrote ...
 
-> `Hari` is endless, and the narratives  of `Hari` are endless. 
+> `Hari` is infinite, and his narratives are endless. 
 >
->  His stories are told, and listened by all saints — in different formats, and even more styles. 
+>  His stories are spoken, and enjoyed by all saints — in numerous forms, and even more styles. 
+>
+> <sup> Hari (हरि ) [Definition](https://sanskritdictionary.com/hari/279877/1) : m. (especially) Name of viṣṇu-kṛṣṇa- (in this sense thought by some to be derived from hṛ-,"to take away or remove evil or sin")  etc. </sup>
 
-`Hari` means one who removes darkness and obstacles. One who paves the path for true success by removing illusions.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels with knowledge, intelligence and strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
+`Hari` means the one who removes darkness, and obstacles. One who paves the path for true success by removing illusions.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels with knowledge, intelligence and strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
 
- Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara)
+<sup>  Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara) ...</sup>
 
 > Such an interpretation was first propounded by the Gaudiya Vaishnava saint Bhaktivinoda Thakura in his 1873 book Datta-kaustubha and again in his 1880 book Kṛṣṇa-saṁhita. 
 >
@@ -38,17 +42,21 @@ In `Bal Kanda` , the first book of `Ram Charit Mansa`, revered poet `Tulsidasa` 
 > 
 > Blavatsky believed that the avatara-related Hindu texts were an allegorical presentation of Darwinian evolution. Some Orientalists and reformist Hindus in India picked up this idea to rationalize Hinduism as being consistent with modern science. Keshub Chandra Sen stated in 1882,
 
-Above ten incarnations of `Hari` are described as "full incarnations" though there are thousands of semi-complete incarnations representing minor milestones in our journey to a evolved civilized way of life. In a way, `Hari` is the manifestative potency of `Brmha` - the entire knowledge base. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creation. They signify the upwards trajectory of human cognition - be it our infinite universe or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies to imbibe the freedom of birds,  or the fist light bulb to mimic a tiny Sun in our captive backyard. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness — these stories are endless, because such manifestations are endless
+Above ten incarnations of `Hari` are described as "full incarnations" — major evolutionary milestones. There are thousands  of other  incarnations representing minor milestones in our journey to a civilized way of life.  In `Hinduism`, it is customary to attribute every accomplishment to the blessings of `Vishnu` — `Hari Krupa`. 
 
-In all such stories, there is an element of innovation. We may call it creativity — a divine force that uses us like a vessel to evolve something new. `Krishna` — the eighth incarnation of `Vishnu` named such distinguished manifestations as his `Vibhooties` (entities that have attained perfections ).
+In a way, `Hari` is the manifestative potency of `Brmha` - the entire knowledge base. It is the accumulation of certain degree of rigor and knowledge that suddenly  precipitates into success. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creative accomplishments. From manifestation of a coherent book by a solo writer, to millions of us working together to write Wikipedia —  they signify the upwards trajectory of cognition. Be it the primordial force that instantiated our universe, or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies,  or the fist light bulb. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness. These stories are endless, because such manifestations are endless. 
+
+It doesn't really matter if the story is put in factual format with unassuming experimental data, or it is a flight of fancy with dragons or zombies; as long as the narrative targets active upwards progression, it is self consuming and self sustaining. And telling such stories is inspiring as much as listening to them.
+
+In all such stories, there is an element of innovation. We may call it creativity or hard work — a divine force toils us like a potters' wheel to seek perfection. `Krishna` — the eighth incarnation of `Vishnu` named such distinguished manifestations as his `Vibhooties` (entities that have attained perfections ).
 
 When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 
 > O Janardana (another name for `Krishna`), copiously declare thy mystic powers and (thy) perfections, for I am never satiated with hearing thy nectar-like words.
 
-`Krishna` responded  ... I am that creative force in all such endeavours... 
+`Krishna` responded  ... I am that "force of creation" in all such endeavours... 
 
-> Quote from original translation of `Mahabharata` by `Kisari Mohan Ganguli` ..
+> <sup> Quote from original translation of `Mahabharata` by `Kisari Mohan Ganguli` ..</sup>
 >
 > "The Holy One said,--'Well, unto thee I will declare my divine perfections, by means of the principal ones (among them), O chief of the Kurus, for there is no end to the extent of my (perfections).[236] 
 >
@@ -70,11 +78,15 @@ When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 >
 > I am Death that seizeth all, and the source of all, that is to be. Among females, I am Fame, Fortune, Speech, Memory, Intelligence, Constancy, Forgiveness. Of the Sama hymns, I am the Vrihat-sama and Gayatri among mantras. Of the months, I am Margasirsha, of the seasons (I am) that which is productive of flowers.[245]
 >
-> I am the game of dice of them that cheat, and the splendour of those that are splendid. I am Victory, I am Exertion, I am the goodness of the good. I am Vasudeva among the Vrishnis, I am Dhananjaya among the sons of Pandu. I am even Vyasa among the ascetics, and Usanas among seers. I am the Rod of those that chastise, I am the Policy of those that seek victory. I am silence among those that are secret. I am the Knowledge of those that are possessed of Knowledge. That which is the Seed of all things, I am that, O Arjuna. There is nothing mobile or immobile, which can exist without me. There is no end, O chastiser of foes, of my divine perfections. This recital of the extent of (those) perfections hath been uttered by me by way (only) of instancing them. Whatever of exalted things (there is) or glorious, or strong, understand thou that everything is born of a portion of my energy. Or rather, what hast thou to do, by knowing all this in detail, O Arjuna? Supporting this entire universe with only a portion (of myself), I stand.[246]"
+> I am the game of dice of them that cheat, and the splendour of those that are splendid. I am Victory, I am Exertion, I am the goodness of the good. I am Vasudeva among the Vrishnis, I am Dhananjaya among the sons of Pandu. I am even Vyasa among the ascetics, and Usanas among seers. I am the Rod of those that chastise, I am the Policy of those that seek victory. I am silence among those that are secret. I am the Knowledge of those that are possessed of Knowledge. That which is the Seed of all things, I am that, O Arjuna. There is nothing mobile or immobile, which can exist without me. There is no end, O chastiser of foes, of my divine perfections. This recital of the extent of (those) perfections hath been uttered by me by way (only) of instancing them. Whatever of exalted things (there is) or glorious, or strong, understand thou that everything is born of a portion of my energy. 
 
+Humans can feel the opulence of `Hari` in all it's forms because, as said above, he is the soul, seated in the heart of every being, but his "entirety" is beyond our sensory perception. Our sensory perception is a tiny fraction of our conscious-verse. In our sensory realm, thus , the common denominator of `Hari's` perceivable opulence is only creativity, innovation and knowledge. Creativity and innovation is what we refer to as "intelligence" , whereas "knowledge" is what we inherit from the `Vishnu` deep seated in all of us - a full copy of entire knowledge base. Intelligence is physical aspect of manifestation while knowledge is beyond physical.  With these two (knowledge and intelligence), we try to recreate "truth" in our physical world, instead of taking the approach, as spoken by `Krishna` in next verse. 
 
+He said ..
 
-Thus the common denominator of `Hari's` perceivable opulence is the creativity, innovation and knowledge. The expanse of `Hari Vibhooties` being such, infinite stories may be said of him, and heard without ever being fully satiated. These narratives are not necessarily (or limited to) religious scriptures. They rightly belong to scientific as well as technological breakthrough. They are descriptions of creative forces all around us. These narratives are said by thousands of reciters, written by many more writers and sung by even more poets .... 
+> Or rather, what hast thou to do, by knowing all this in detail, O Arjuna? Supporting this entire universe with only a portion (of myself), I stand.[246]"
+
+He suggested focus to focus on him — that him that is rooted deep in me and you. Understand his narratives, talk about him. Thus saints everywhere, in all walks of life, interest themselves in the infinite stories of `Hari`. Discussions of knowledge and intelligence are there in scientific papers as much as they are there in the Godly descriptions of scriptures. 
 
 > This genre of story telling where human endeavour meets the divine grace to create the next big thing - next big shift,  is auspicious. 
 

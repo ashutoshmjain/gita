@@ -8,11 +8,11 @@ In `Bal Kanda`, the first book of `Ramcharit Mansa`, revered saint and poet `Tul
 
 > `Hari` is infinite, and his narratives are endless. 
 >
->  His stories are spoken, and enjoyed by all saints — in numerous forms, and even more styles. 
+>  His stories are spoken, and relished by all saints — in numerous forms, and even more styles. 
 >
 > <sup> Hari (हरि ) [Definition](https://sanskritdictionary.com/hari/279877/1) : m. (especially) Name of viṣṇu-kṛṣṇa- (in this sense thought by some to be derived from hṛ-,"to take away or remove evil or sin")  etc. </sup>
 
-`Hari` means the one who removes darkness, and obstacles. One who paves the path for true success by removing illusions.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels with knowledge, intelligence and strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
+Thus, by definition,`Hari` means the one who removes darkness, and obstacles. One who paves the path for true success by removing illusions.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels. He does so  with knowledge and  intelligence, the source of his strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
 
 <sup>  Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara) ...</sup>
 
@@ -44,7 +44,7 @@ In `Bal Kanda`, the first book of `Ramcharit Mansa`, revered saint and poet `Tul
 
 Above ten incarnations of `Hari` are described as "full incarnations" — major evolutionary milestones. There are thousands  of other  incarnations representing minor milestones in our journey to a civilized way of life.  In `Hinduism`, it is customary to attribute every accomplishment to the blessings of `Vishnu` — `Hari Krupa`. 
 
-In a way, `Hari` is the manifestative potency of `Brmha` - the entire knowledge base. It is the accumulation of certain degree of rigor and knowledge that suddenly  precipitates into success. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creative accomplishments. From manifestation of a coherent book by a solo writer, to millions of us working together to write Wikipedia —  they signify the upwards trajectory of cognition. Be it the primordial force that instantiated our universe, or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies,  or the fist light bulb. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness. These stories are endless, because such manifestations are endless. 
+In a way, `Hari` is the manifestative potency that uses "intelligence" to decrypt `Brmha` - the knowledge base. It is the accumulation of certain quantum of knowledge ( with rigor) that suddenly  precipitates into success. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creative accomplishments. From manifestation of a coherent book by a solo writer, to millions of us working together to write Wikipedia —  they signify the upwards trajectory of cognition. Be it the primordial force that instantiated our universe, or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies,  or the fist light bulb. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness. These stories are endless, because such manifestations are endless. 
 
 It doesn't really matter if the story is put in factual format with unassuming experimental data, or it is a flight of fancy with dragons or zombies; as long as the narrative targets active upwards progression, it is self consuming and self sustaining. And telling such stories is inspiring as much as listening to them.
 
@@ -54,7 +54,7 @@ When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 
 > O Janardana (another name for `Krishna`), copiously declare thy mystic powers and (thy) perfections, for I am never satiated with hearing thy nectar-like words.
 
-`Krishna` responded  ... I am that "force of creation" in all such endeavours... 
+`Krishna` responded  ... I am the "force of creation" in all such endeavours that are demonstrable as "perfections" ..
 
 > <sup> Quote from original translation of `Mahabharata` by `Kisari Mohan Ganguli` ..</sup>
 >
@@ -80,15 +80,15 @@ When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 >
 > I am the game of dice of them that cheat, and the splendour of those that are splendid. I am Victory, I am Exertion, I am the goodness of the good. I am Vasudeva among the Vrishnis, I am Dhananjaya among the sons of Pandu. I am even Vyasa among the ascetics, and Usanas among seers. I am the Rod of those that chastise, I am the Policy of those that seek victory. I am silence among those that are secret. I am the Knowledge of those that are possessed of Knowledge. That which is the Seed of all things, I am that, O Arjuna. There is nothing mobile or immobile, which can exist without me. There is no end, O chastiser of foes, of my divine perfections. This recital of the extent of (those) perfections hath been uttered by me by way (only) of instancing them. Whatever of exalted things (there is) or glorious, or strong, understand thou that everything is born of a portion of my energy. 
 
-Humans can feel the opulence of `Hari` in all it's forms because, as said above, he is the soul, seated in the heart of every being, but his "entirety" is beyond our sensory perception. Our sensory perception is a tiny fraction of our conscious-verse. In our sensory realm, thus , the common denominator of `Hari's` perceivable opulence is only creativity, innovation and knowledge. Creativity and innovation is what we refer to as "intelligence" , whereas "knowledge" is what we inherit from the `Vishnu` deep seated in all of us - a full copy of entire knowledge base. Intelligence is physical aspect of manifestation while knowledge is beyond physical.  With these two (knowledge and intelligence), we try to recreate "truth" in our physical world, instead of taking the approach, as spoken by `Krishna` in next verse. 
+Humans can feel the opulence of `Hari` in all it's forms because, as said above, he is the soul, seated in the heart of every being, but his "entirety" is beyond our sensory apparatus. Our sensory perception is a tiny fraction of our conscious-verse. In our sensory realm, thus , the common denominator of `Hari's` perceivable opulence is only creativity, innovation and knowledge. Creativity and innovation is what we refer to as "intelligence" , whereas "knowledge" is what we inherit from the `Vishnu` deep seated in all of us - a full copy of entire knowledge base seeded into all of us. "Intelligence" is physical aspect of manifestation while "knowledge" is beyond physical.  With these two (knowledge and intelligence), we try to recreate "truth" in our physical world, instead of taking the approach, as spoken by `Krishna` in next verse. 
 
 He said ..
 
 > Or rather, what hast thou to do, by knowing all this in detail, O Arjuna? Supporting this entire universe with only a portion (of myself), I stand.[246]"
 
-He suggested focus to focus on him — that him that is rooted deep in me and you. Understand his narratives, talk about him. Thus saints everywhere, in all walks of life, interest themselves in the infinite stories of `Hari`. Discussions of knowledge and intelligence are there in scientific papers as much as they are there in the Godly descriptions of scriptures. 
+He suggests to focus on him — that him that is rooted deep in me and you. Understand his narratives, talk about him. Thus saints everywhere, in all walks of life, interest themselves in the infinite stories of `Hari` — stories of knowledge and intelligence. Discussions of this eternal combo are there in scientific papers as much as they are there in the Godly descriptions of scriptures. 
 
-> This genre of story telling where human endeavour meets the divine grace to create the next big thing - next big shift,  is auspicious. 
+> This genre of story telling, where intelligent endeavour meets the divine grace of knowledge, to create the next big thing or a tiny improvement - next big shift or a better way to do what we been doing for centuries,  is auspicious. 
 
 It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge. 
 

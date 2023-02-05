@@ -8,9 +8,9 @@ What if you start changing that home based on what you think is right for you. N
 
 Must I say, what is a good behavior, and what is evil. Altering reality of your friend's home just to satisfy your desires seems an obvious evil behaviour. What if we deem the entire universe that we observe around us, a friend's home. What if we seek and clarify the rules or expectations of the reality around us - our tiny box, and act exactly as per the expectations. No one stopped us from having fun. In fact everyone is pleased if you have fun with in the rules of your tiny box. Your actions, aligned with the physical reality, are `Karma`. And your behaviour aligned with the physical reality is called `Dharma`. There are rules even to alter the reality that are well accepted. But ignoring the rules, just to meet your desires is not acceptable. That is what evil is. Evil is born out of uncontrolled desires ! Desires for longer life, desires for wealth, desires for recognition, desire for pleasures — desires are endless. 
 
-`Anyaay` — Injustice happens when we, owing to our uncontrolled desires, harm someone else — take someone's rightful, to satisfy our unreasonable. The important thing is how do we define "rightful". That is the key and biggest cause of confusion. The rightful is determined by our "tiny box" , our physical reality. Since everyone has a unique tiny-box, forcing a universal definition of "rightful" is unjust.
+`Anyaay` — Injustice happens when we, owing to our uncontrolled desires, harm someone else — take someone's rightful, to satisfy our unreasonable. The important thing is how do we define "rightful". That is the key and biggest cause of confusion. The rightful is determined by our "tiny box" , our physical reality. Since everyone has a unique tiny-box, forcing a universal definition of "rightful" is also unjust.
 
-In most of the cases, the equations of good and evil balance out. They do in the tiniest moment and they obviously do so in the eternity. The balance endows perpetuity to our universe - `Bramha`. But once in a long while - evil may overpower the good. How to balance such an event ? That was the question that `Dwaipayana` had no answer to. Only `Bramha` ( through it's manifestative property) could reveal the answer, for no human , not even the divine writer could speculate such a pre-meditated balancing act of nature. 
+In most of the cases, the equations of good and evil balance out. They do in the tiniest moment and they obviously do so in the eternity. They balance out on individual level as well as for the entire population. The balance endows perpetuity to our universe - `Bramha`. But once in a long while - evil may overpower the good. How to balance such an event ? That was the question that `Dwaipayana` had no answer to. Only `Bramha` ( through it's manifestative property) could reveal the answer, for no human , not even the divine writer could speculate such a pre-meditated balancing act of nature. What seems like a reasonable hypothesis, still needs a proof. A proof is what actually happens in the physical reality. Proof is truth.
 
 He writes in `Gita` that `Vishnu` himself told this secret. His seventh incarnation, also named `Krishna` tells `Arjuna` in the middle of battle field. 
 
@@ -23,6 +23,8 @@ He writes in `Gita` that `Vishnu` himself told this secret. His seventh incarnat
 > Whenever the evil overpowers this universe such that "good" is marginalized. I incarnate myself to balance the evil out. 
 >
 > He didn't say he was there, incarnated in human form, to spread the message of love or success or even well-being. All those may be done by capable humans. Only when the evil crosses human capacity to launch a legit response, `Vishnu` must incarnate to restore the order. He must show, by example, the "code of conduct" in most difficult situations. 
+
+The point, however, was, should `Dwaipayana` accept the word of God just because he said so? Or God must show the proof in physical reality! 
 
 # Anyaay ...
 

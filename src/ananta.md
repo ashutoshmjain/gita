@@ -12,7 +12,9 @@ In `Bal Kanda`, the first book of `Ramcharit Mansa`, revered saint and poet `Tul
 >
 > <sup> Hari (हरि ) [Definition](https://sanskritdictionary.com/hari/279877/1) : m. (especially) Name of viṣṇu-kṛṣṇa- (in this sense thought by some to be derived from hṛ-,"to take away or remove evil or sin")  etc. </sup>
 
-Thus, by definition,`Hari` means the one who removes darkness, and obstacles. One who paves the path for true success by removing illusions.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. `Vishnu`, through his incarnations, takes consciousness to ever higher levels. He does so  with knowledge and  intelligence, the source of his strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
+Thus, by definition,`Hari` means the one who removes darkness, and obstacles. It may or may not be a person or a specific entity. The underlying force that removes illusions is `Hari`.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. 
+
+`Vishnu`, through his incarnations, takes consciousness to ever higher levels. He does so  with knowledge and  intelligence —  the source of his strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
 
 <sup>  Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara) ...</sup>
 
@@ -54,9 +56,9 @@ When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 
 > O Janardana (another name for `Krishna`), copiously declare thy mystic powers and (thy) perfections, for I am never satiated with hearing thy nectar-like words.
 
-`Krishna` responded  ... I am the "force of creation" in all such endeavours that are demonstrable as "perfections" ..
+`Krishna` expressed himself through his `Vibhooties` — I am the "force of creation" in all such endeavours that are demonstrable as "perfections" — he said ..
 
-> <sup> Quote from original translation of `Mahabharata` by `Kisari Mohan Ganguli` ..</sup>
+> <sup> Quote from original translation of `Mahabharata` by `Kisari Mohan Ganguli` </sup>
 >
 > "The Holy One said,--'Well, unto thee I will declare my divine perfections, by means of the principal ones (among them), O chief of the Kurus, for there is no end to the extent of my (perfections).[236] 
 >
@@ -86,9 +88,9 @@ He said ..
 
 > Or rather, what hast thou to do, by knowing all this in detail, O Arjuna? Supporting this entire universe with only a portion (of myself), I stand.[246]"
 
-He suggests to focus on him — that him that is rooted deep in me and you. Understand his narratives, talk about him. Thus saints everywhere, in all walks of life, interest themselves in the infinite stories of `Hari` — stories of knowledge and intelligence. Discussions of this eternal combo are there in scientific papers as much as they are there in the Godly descriptions of scriptures. 
+He suggests to focus on him — that him that is rooted deep in me and you. Thus understanding `Hari` is finding him in our own self. We do so through narratives that talk about the creative force. Thus saints everywhere, in all walks of life, interest themselves in the infinite stories of `Hari` — stories of knowledge and intelligence. Discussions of this eternal combo are there in scientific papers as much as they are there in the Godly descriptions of scriptures.
 
-> This genre of story telling, where intelligent endeavour meets the divine grace of knowledge, to create the next big thing or a tiny improvement - next big shift or a better way to do what we been doing for centuries,  is auspicious. 
+In essence, this genre of story telling, where intelligent endeavour meets the divine grace of knowledge, to create the next big thing or a tiny improvement - next big shift or a better way to do what we been doing for centuries,  is auspicious. 
 
 It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge. 
 

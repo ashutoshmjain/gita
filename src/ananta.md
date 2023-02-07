@@ -82,7 +82,7 @@ When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita` ..
 >
 > I am the game of dice of them that cheat, and the splendour of those that are splendid. I am Victory, I am Exertion, I am the goodness of the good. I am Vasudeva among the Vrishnis, I am Dhananjaya among the sons of Pandu. I am even Vyasa among the ascetics, and Usanas among seers. I am the Rod of those that chastise, I am the Policy of those that seek victory. I am silence among those that are secret. I am the Knowledge of those that are possessed of Knowledge. That which is the Seed of all things, I am that, O Arjuna. There is nothing mobile or immobile, which can exist without me. There is no end, O chastiser of foes, of my divine perfections. This recital of the extent of (those) perfections hath been uttered by me by way (only) of instancing them. Whatever of exalted things (there is) or glorious, or strong, understand thou that everything is born of a portion of my energy. 
 
-Humans can feel the opulence of `Hari` in all it's forms because, as said above, he is the soul, seated in the heart of every being, but his "entirety" is beyond our sensory apparatus. Our sensory perception is a tiny fraction of our conscious-verse. In our sensory realm, thus , the common denominator of `Hari's` perceivable opulence is only creativity, innovation and knowledge. Creativity and innovation is what we refer to as "intelligence" , whereas "knowledge" is what we inherit from the `Vishnu` deep seated in all of us - a full copy of entire knowledge base seeded into all of us. "Intelligence" is physical aspect of manifestation while "knowledge" is beyond physical.  With these two (knowledge and intelligence), we try to recreate "truth" in our physical world, instead of taking the approach, as spoken by `Krishna` in next verse. 
+Humans may feel the opulence of `Hari` in all it's forms for he is the soul, seated in the heart of every being, though his "entirety" is beyond our sensory apparatus. Our sensory perception is a tiny fraction of our conscious-verse. In our sensory realm, thus , the common denominator of `Hari's` perceivable opulence is only creativity, innovation and knowledge. Creativity and innovation is what we refer to as "intelligence" , whereas "knowledge" is what we inherit from the `Vishnu` deep seated in all of us - a full copy of entire knowledge base seeded into all of us. "Intelligence" is physical aspect of manifestation while "knowledge" is beyond physical.  With these two (knowledge and intelligence), we try to recreate "truth" in our physical world, instead of taking the approach, as spoken by `Krishna` in next verse. 
 
 He said ..
 
@@ -90,7 +90,26 @@ He said ..
 
 He suggests to focus on him — that him that is rooted deep in me and you. Thus understanding `Hari` is finding him in our own self. We do so through narratives that talk about the creative force. Thus saints everywhere, in all walks of life, interest themselves in the infinite stories of `Hari` — stories of knowledge and intelligence. Discussions of this eternal combo are there in scientific papers as much as they are there in the Godly descriptions of scriptures.
 
-In essence, this genre of story telling, where intelligent endeavour meets the divine grace of knowledge, to create the next big thing or a tiny improvement - next big shift or a better way to do what we been doing for centuries,  is auspicious. 
+In essence, this genre of story telling, where intelligent endeavour meets the divine grace of knowledge, to create the next big thing or a tiny improvement - next big shift or a better way to do what we been doing for centuries,  is auspicious. In `Vaidik` traditions, `Vishnu` is invoked to start any significant undertaking. The mantra from `Garuda Purana` is generally used to invoke `Vishnu` ..
+
+
+> Mangalam Bhagvan Vishnu
+>
+> Manglam Garuddhwaza
+>
+> Manglam Pundrikashay
+>
+> Manglay Tano Harih
+>
+> ---
+>
+> `Vishnu is auspicious
+>
+> One whose victory flag flies high, on the back of an Eagle - the king of birds, is auspicious
+>
+> One whose eyes see from above,  like a lotus flower that rises above above the mud, is auspicious.
+>
+> And the one who dispels all illusions is auspicious.
 
 It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge. 
 

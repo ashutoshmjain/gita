@@ -4,7 +4,7 @@
 >
 > Kahahin Sunahi,  Bahu Bidhi Sab Santa ||
 
-In `Bal Kanda`, the first book of `Ramcharit Mansa`, revered saint and poet `Tulsidasa` wrote ...
+In `Bal Kanda`, the first book of `Ramcharit Mansa`, adaptation of `Valmiki's` epic `Ramayana`, from `Sanskrit` to  vernacular `Avadhi`, revered saint and poet `Tulsidasa` wrote ...
 
 > `Hari` is infinite, and his narratives are endless. 
 >
@@ -12,9 +12,9 @@ In `Bal Kanda`, the first book of `Ramcharit Mansa`, revered saint and poet `Tul
 >
 > <sup> Hari (हरि ) [Definition](https://sanskritdictionary.com/hari/279877/1) : m. (especially) Name of viṣṇu-kṛṣṇa- (in this sense thought by some to be derived from hṛ-,"to take away or remove evil or sin")  etc. </sup>
 
-Thus, by definition,`Hari` means the one who removes darkness, and obstacles. It may or may not be a person or a specific entity. The underlying force that removes illusions is `Hari`.  In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu` , and all his incarnations. 
+`Hari`, thus, means the one who removes darkness, and obstacles. `Hari` may act as divinity — a discrete person — or another finite form of manifestation such as an animal, or a tool or a machine — or simply in a probabilistic fashion — a chance. Narratives may describe the persona in all its glory but the intent is rarely on the persona — it is on a fundamental aspect of nature. The underlying force that removes illusions is `Hari`. It is the force that separates 'unreal' from 'real', from random unformed to perfectly organized. In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu`. In our sensory physical realm, `Vishnu` affirmatively acts through its incarnations that we refer to as `Avataaras` (full incarnations) or `Vibhooties` (perfections or excellence in specific fields). For example `Krsna` is a full incarnation of `Vishnu` but `Sama Veda` among all scriptures is also a form of `Vishnu` for it reaches the pinnacle of wisdom. 
 
-`Vishnu`, through his incarnations, takes consciousness to ever higher levels. He does so  with knowledge and  intelligence —  the source of his strength. From `Matsyavtara` to `Krishna`, `Vishnu's` incarnations kick-start a progression in civilization. 
+`Vishnu`, through his incarnations or perfections, takes consciousness to ever higher levels. It does so  with repeated righteous actions governed by knowledge and  intelligence —  the source of it's strength. From `Matsyavtara` to `Krsna`, `Vishnu's` incarnations kick-start a progression in civilization. 
 
 <sup>  Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara) ...</sup>
 
@@ -36,7 +36,7 @@ Thus, by definition,`Hari` means the one who removes darkness, and obstacles. It
 >
 > Rama - an ideal hero, physically perfect, befriends a speaking vanara deity Hanuman
 > 
-> Krishna - Vishnu incarnating as a God.
+> Krishna (Krsna) - Vishnu incarnating as a God.
 > 
 > Buddha - the founder of Buddhism, an enlightened man
 > 
@@ -44,9 +44,22 @@ Thus, by definition,`Hari` means the one who removes darkness, and obstacles. It
 > 
 > Blavatsky believed that the avatara-related Hindu texts were an allegorical presentation of Darwinian evolution. Some Orientalists and reformist Hindus in India picked up this idea to rationalize Hinduism as being consistent with modern science. Keshub Chandra Sen stated in 1882,
 
-Above ten incarnations of `Hari` are described as "full incarnations" — major evolutionary milestones. There are thousands  of other  incarnations representing minor milestones in our journey to a civilized way of life.  In `Hinduism`, it is customary to attribute every accomplishment to the blessings of `Vishnu` — `Hari Krupa`. 
+The ten incarnations of `Hari`, described as "full incarnations" above, are major evolutionary milestones. Scriptures and culture is full of their narratives. That, however, is not all, there are countless other narratives representing minor milestones in our journey to a civilized way of life.  In `India`, it is customary to attribute every accomplishment to the blessings of `Vishnu` — `Hari Krupa` (Vishnu's grace) — be it a stroke of sheer luck or a genuine scientific breakthrough. The hard work to attain perfection is considered worship. Some worship a "form", others subscribe to the "formless", but all excellence is dedicated (by believers), unto one underlying creative force — `Vishnu`. In that, one must not take pride in accomplishments (or success) for the outcomes are grace of `Vishnu` — the primordial force of creation; one must focus on the righteous actions (without desires) for that is the path to invoke creative potency. Every success story thus is a story of `Vishnu` — as the poet said — `Hari Katha Ananta` — Infinite narratives of his grace.
 
-In a way, `Hari` is the manifestative potency that uses "intelligence" to decrypt `Brmha` - the knowledge base. It is the accumulation of certain quantum of knowledge ( with rigor) that suddenly  precipitates into success. Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creative accomplishments. From manifestation of a coherent book by a solo writer, to millions of us working together to write Wikipedia —  they signify the upwards trajectory of cognition. Be it the primordial force that instantiated our universe, or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies,  or the fist light bulb. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness. These stories are endless, because such manifestations are endless. 
+
+It is easy to comprehend that stories of his "perfections" are infinite. Our senses are designed to perceive the manifested — be it an incarnation or a breakthrough idea. But how do we map our heads to the idea of underlying infinite perpetual force — `Hari Ananta`? Is it even possible to imagine `Hari` in our limited sensory reality? `Hari` is obviously not one unique person or a specific formless success. One that may incarnate in millions of ways, is obviously not ONE  perceivable God. In our sensory realm, we may, at best,  describe  `Hari` as some sort of omni-present field. His incarnations are mere representation of a deeper underlying substrate that is beyond our senses — a concious field maybe, one that exists and baffles scientific thinkers as much as followers of scriptures. 
+
+The idea of a universal omnipresent field, that exist in all physical dimensions as well as in every instance of time, is not uncommon. In mid 1800s , Michael Faraday, a brilliant experimental chemist, who ultimately invented the electric motor, was intrigued by magnets. The question he had was simple — one that probably challenges every young mind — why do magnets repel when similar poles are brought near to each other. Unlike most of us, he wondered if it is something to do with the nature of magnets or is there something between the magnets that forces them apart. And unlike most of us, he concluded that between the two magnets, there exists a magnetic field such that it pulls opposite poles towards each other while it repels similar poles. 
+
+Building on Faraday's conclusion, Maxwell formulated, with mathematical equations, the idea of electro magnetic field. With a hindsight of more than hundred years, we now know that electromagnetic field spans our entire universe. The waves of disturbance in this omnipresent field is what we know as photons - the light. 
+
+The science, particularly physics, meets scripture at the most basic level — the quantum fields. In our physical world, we can continue to go atomic to the realm of electrons and protons but we don't stop there. We have more basic subatomic particles in quarks 
+
+The fundamental question for physicist of our ages is —  Why does electro-magnetic field exist? — at every single point in space though we could never directly feel it. Now, with standard model of particle physics, we have many more basic fields (like EMF) to reason the existence of numerous sub atomic particles. No one knows how and why these fields come into being, thereby giving rise to basic particles, the building blocks of physical universe. Questions of dark energy and mysteries of dark matter are rather new and beyond us. For thinkers and philosophers the unanswered question has always been " who am I" , how did I come to be ?". The `Vaidik` framework of three forces - `Vishnu`, `Bramh` and `Siva` ; addresses many such questions!
+
+In a way, `Vishnu` is the manifestative potency that uses "intelligence" to decrypt `Brmha` - the underlying knowledge base. It is the accumulation of certain quantum of knowledge ( with rigor) that suddenly  precipitates into success perceivable by our senses. The beauty of the framework is that the `Bramh` rises out of `Vishnu` for the knowledge is held in infinite relationships between manifested things. From human to human, from a tree to another, and between non-living to living. The infinite network of connections between everything to every other thing is `Bramha`, for knowledge is held in the synapses (parameters) of this vast ginormous  network. `Vishnu` is the cause of `Bramha` and `Bramha` incarnates `Vishnu`, for ever higher conscious progression, finally leading to a state of absolute knowledge - `Siva`. This super refined knowledge `Siva` is what maintains the continuum. It curates it, curtails it and cares for it.
+
+Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creative accomplishments. From manifestation of a coherent book by a solo writer, to millions of us working together to write Wikipedia —  they signify the upwards trajectory of cognition. Be it the primordial force that instantiated our universe, or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies,  or the fist light bulb. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness chasing the final state of being `Siva`. These stories are endless, because such manifestations are infinite. 
 
 It doesn't really matter if the story is put in factual format with unassuming experimental data, or it is a flight of fancy with dragons or zombies; as long as the narrative targets active upwards progression, it is self consuming and self sustaining. And telling such stories is inspiring as much as listening to them.
 
@@ -111,7 +124,7 @@ In essence, this genre of story telling, where intelligent endeavour meets the d
 >
 > And the one who dispels all illusions is auspicious.
 
-It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge. 
+It is in this spirit, with hands folded, and being aware of the infinite expanse of her creations, I present my humble submission `Mathura` - a historical narrative that investigates the time, and situations when humanity first discovered the "written word" as a medium to preserve knowledge. But more importantly, it understood what the knowledge is ...
 
 ~ashutosh~
 

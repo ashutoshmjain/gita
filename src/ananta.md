@@ -10,24 +10,24 @@ In `Bal Kanda`, the first book of `Ramcharit Mansa`, adaptation of `Valmiki's` e
 >
 >  His stories are spoken, and relished by all saints — in numerous forms, and even more styles. 
 
-The question for unobservant me was —  why, and who exactly is `Hari`? . The [Sanskritdictionary.com](https://sanskritdictionary.com) was few clicks away, to fulfill my quest ..
+The question for unobservant me was —  why, and who "exactly" is `Hari`? The focus was on "exactly", because anyone brought up in India, knows well `Hari` is other name for God. The [Sanskritdictionary.com](https://sanskritdictionary.com) was few clicks away ..
 
 > <sup> Hari (हरि ) [Definition](https://sanskritdictionary.com/hari/279877/1) : m. (especially) Name of viṣṇu-kṛṣṇa- (in this sense thought by some to be derived from hṛ-,"to take away or remove evil or sin")  etc. </sup>
 
 The definition, led me to a deeper dwelling...
 
-`Hari` means the one who removes darkness, and obstacles. `Hari` may act as divinity — a discrete person — or another finite form of manifestation such as an animal, or a tool or a machine — or simply in a probabilistic fashion — a chance. In `Rig Veda`, `Hari` is considered the first of all divine forces —  a synonym for `Vishnu`. 
+`Hari` means the one who removes darkness, and obstacles. `Hari` may act as divinity — a discrete person — or another finite form of manifestation such as an animal, or a tool or a machine — or simply in a probabilistic fashion — a chance. In `Rig Veda`,`Hari` is considered the first of all divine forces —  a synonym for `Vishnu`. 
 
 All that was good! We all claim to know the "essence" of God, but the question remained — why existence of such a force? If there exist a force for good, then there must be a force for evil too. And who gets to decide what is good and what is evil? Is it only for humans ? What about animals ? Even more, what about non living - the basic building blocks of life such as proteins or sub atomic particles? After all we all are made of Fermions and held together by Bosons. Do they have any sense of good v/s bad !
 
-As the poet said, `Hari` has infinite narratives. One such, that interested me more (than others) and, presented a different  perspective, and kinda put an end to "good v/s evil" debate  was — `Vishnu`, through his incarnations , takes consciousness to ever higher levels. In essence, it is not `Vishnu` that decides good v/s bad - s/he enables the decision. From `Matsyavtara` to `Krsna`, `Vishnu's` incarnations kick-start a progression in consciousness. And it goes long before humans put their feet on mother earth ..
+As the poet said, `Hari` has infinite narratives. One such, that interested me more (than others) and, presented a different  perspective is from `Sirla Bhaktivinoda`, and it kinda puts an end to the "good v/s evil" debate.  He premised `Vishnu` in an evolutionary force.`Vishnu`, through his incarnations , takes consciousness to ever higher levels. In essence, it is not `Vishnu` that decides good v/s bad - s/he enables the decision. From `Matsyavtara` (fish) to `Krsna`, `Vishnu's` incarnations kick-start a progression in consciousness. 
 
-This interpretation was first put forward by the `Gaudiya Vaishnava saint Bhaktivinoda Thakura`, long time back,  in his 1873 book `Datta-kaustubha`, and again in his 1880 book `Kṛṣṇa-saṁhita`. The time of his publication, incidently, appears to match the publication of Darwin's theory (1859). I got curious for one more reason — it appeared that attempts to bridge the gaps in  scientific reckonings and spiritual pursuits , isn't new ! We are all chasing for a "theory of everything ! from ever ..
+The time of his publication, incidently, appears to match the publication of Darwin's theory (1859). I got curious for one more reason — it appeared that the attempts to bridge the gaps in  scientific reckonings and spiritual pursuits, isn't new ! We are all chasing an elusive "theory of everything" — from ever .. for the knowledge underlying 'theory of everything', (by definition) is complete. It must explain every aspect, of physical reality and beyond, and all paths (scientific as well as religious)  must lead to this one eternal truth. From a philosophical vantage "theory of everything" is Godly knowledge — scriptures have as much stake in this knowledge as the science.
 
 <sup>  Quote from [wikipedia](https://en.wikipedia.org/wiki/Dashavatara) ...</sup>
 
 >
->  Bhaktivinoda Thakura proposed the following ordering of the Dashavataras — ten incarnations of `Vishnu`. 
+>  Bhaktivinoda Thakura proposed the following ordering<sup>*</sup> of the Dashavataras — ten incarnations of `Vishnu`. 
 >
 > Matsya - fish (Paleozoic era)
 >
@@ -47,12 +47,12 @@ This interpretation was first put forward by the `Gaudiya Vaishnava saint Bhakti
 > 
 > Buddha - the founder of Buddhism, an enlightened man
 > 
-> Kalki - the next step in evolution; yet to happen and the savior. 
+> Kalki - the next step in evolution; yet to happen and the savior. <sup> maybe the next step in evolution — amalgamation of biology, robotics and artificial intelligence </sup>
  
 
-<sup> Theosophist Helena Blavatsky also reiterated this in her 1877 opus [Isis Unveiled](https://selfdefinition.org/blavatsky/H.P.Blavatsky-Isis-Unveiled-vol-2.pdf). Blavatsky believed that the avatara-related Hindu texts were an allegorical presentation of Darwinian evolution. </sup>
+*<sup> Theosophist Helena Blavatsky also reiterated this in her 1877 opus [Isis Unveiled](https://selfdefinition.org/blavatsky/H.P.Blavatsky-Isis-Unveiled-vol-2.pdf). Blavatsky believed that the avatara-related Hindu texts were an allegorical presentation of Darwinian evolution. </sup>
 
-The ten incarnations of `Hari`, described as "full incarnations" above, are thus, major evolutionary milestones. Scriptures and culture is full of their narratives. That, however, is not all, there are countless other narratives representing minor milestones in our journey to a civilized way of life. These minor milestones are called "perfections" of `Vishnu` — `Vibhooties`. 
+The ten incarnations of `Hari`, described as "full incarnations" above, are thus, major evolutionary milestones. Scriptures and culture is full of their narratives. That, however, is not all, there are countless other narratives representing minor milestones in our journey to a civilized way of life. These minor milestones are called "perfections" of `Vishnu` — `Vibhooties`. The key thing is these "perfections" are NOT limited to human form — they are the "state of art" — books, horses, elephants, weapons, games, biological processes. Even perfections in gambling are `Vibhooties` of `Krsna`. And by that extension, they could be in computing, robotics, space travel, genomics and every other pursuit of excellence.
 
 When asked by `Arjuna` to describe himself, in chapter ten of `Bhagvad Gita`, `Krsna` expressed himself through his `Vibhooties` — I am the "force of creation" in all such endeavours that are demonstrable as my "perfections". 
 
@@ -60,15 +60,15 @@ He said ..
 
 > <sup> Quote from original translation of `Mahabharata` by `Kisari Mohan Ganguli` </sup>
 >
-> I am the soul, seated in the heart of every being, I am the beginning, and the middle, and the end also of all beings. I am Vishnu among the Adityas, the resplendent Sun among all luminous bodies; I am Marichi among the Maruts, and the Moon among constellations.[237] 
+> I am the soul, seated in the heart of every being, I am the beginning, and the middle, and the end also of all beings. I am Vishnu among the Adityas <sup>solar deities</sup>, the resplendent Sun among all luminous bodies; I am Marichi<sup> great universal wind</sup> among the Maruts <sup>different types of powerful winds</sup>, and the Moon among constellations.[237] 
 >
-> I am the Sama Veda among the Vedas; I am Vasava among the gods; I am the mind among the senses; I am the intellect in (living) beings. I am Sankara among the Rudras, the Lord of treasures among the Yakshas and the Rakshasas; I am Pavaka among the Vasus, and Meru among the peaked (mountains). [238] 
+> I am the Sama Veda among the Vedas; I am Vasava<sup> Indra </sup> among the gods; I am the mind among the senses; I am the intellect in (living) beings. I am Sankara <sup> Siva </sup> among the Rudras <sup> forces of destruction </sup>, the Lord of treasures among the Yakshas and the Rakshasas; I am Pavaka<sup> Fire </sup> among the Vasus <sup> Elemental forces </sup>, and Meru <sup> divine mountain and source of Ganges </sup> among the peaked (mountains). [238] 
 >
-> Know me, O son of Pritha, to be Vrihaspati, the chief of household priests. I am Skanda among commanders of forces. I am Ocean among receptacles of water. I am Bhrigu among the great Rishis, I am the One, undestructible (syllable Om) among words. Of sacrifices I am the Japa-sacrifice.[239] 
+> Know me, O son of Pritha <sup>Arjuna</sup>, to be Vrihaspati, the chief of household priests. I am Skanda among commanders of forces. I am Ocean among receptacles of water. I am Bhrigu among the great Rishis, I am the One, undestructible (syllable Om) among words. Of sacrifices I am the Japa-sacrifice.[239] 
 >
-> Of immobiles I am the Himavat (Himalayas). I am the figtree among all trees, I am Narada among the celestial Rishis. I am Chitraratha among the Gandharvas and the ascetic Kapila among ascetics crowned with Yoga success. Know me to be Uchchaisravas among horses, brought forth by (the churning for) nectar, Airavata among princely elephants, and the king among men. Among weapons I am the thunderbolt, among cows I am (she called) Kamadhuk. I am Kandarpa the cause of reproduction, I am Vasuki among serpents.[240]
+> Of immobiles I am the Himavat (Himalayas). I am the figtree among all trees, I am Narada among the celestial Rishis. I am Chitraratha among the Gandharvas and the ascetic Kapila among ascetics crowned with Yoga success. Know me to be Uchchaisravas among horses, brought forth by (the churning for) nectar, Airavata among princely elephants, and the king among men. Among weapons I am the thunderbolt, among cows I am (she called) Kamadhuk. I am Kandarpa <sup>lust</sup> the cause of reproduction, I am Vasuki among serpents.[240]
 >
-> I am Ananta among Nagas, I am Varuna among acquatic beings, I am Aryaman among the Pitris, and Yama among those that judge and punish.[241]
+> I am Ananta among Nagas, I am Varuna among acquatic beings, I am Aryaman among the Pitris <sup> the elders</sup>, and Yama <sup> deity of death</sup> among those that judge and punish.[241]
 >
 > I am Prahlada among the Daityas, and Time among things that count. I am the lion among the beasts, and Vinata's son among winged creatures. Of purifiers I am the wind. I am Rama among wielders of weapons. I am the Makara among fishes, and I am Jahnavi (Ganga) among streams.[242]
 >
@@ -78,26 +78,32 @@ He said ..
 >
 > I am Death that seizeth all, and the source of all, that is to be. Among females, I am Fame, Fortune, Speech, Memory, Intelligence, Constancy, Forgiveness. Of the Sama hymns, I am the Vrihat-sama and Gayatri among mantras. Of the months, I am Margasirsha, of the seasons (I am) that which is productive of flowers.[245]
 >
-> I am the game of dice of them that cheat, and the splendour of those that are splendid. I am Victory, I am Exertion, I am the goodness of the good. I am Vasudeva among the Vrishnis, I am Dhananjaya among the sons of Pandu. I am even Vyasa among the ascetics, and Usanas among seers. I am the Rod of those that chastise, I am the Policy of those that seek victory. I am silence among those that are secret. I am the Knowledge of those that are possessed of Knowledge. That which is the Seed of all things, I am that, O Arjuna. There is nothing mobile or immobile, which can exist without me. There is no end, O chastiser of foes, of my divine perfections. This recital of the extent of (those) perfections hath been uttered by me by way (only) of instancing them. Whatever of exalted things (there is) or glorious, or strong, understand thou that everything is born of a portion of my energy. 
+> I am the game of dice of them that cheat, and the splendour of those that are splendid. I am Victory, I am Exertion, I am the goodness of the good. I am Vasudeva among the Vrishnis, I am Dhananjaya among the sons of Pandu. I am even Vyasa among the ascetics, and Usanas among seers. I am the rod of those that chastise, I am the Policy of those that seek victory. I am silence among those that are secret. I am the Knowledge of those that are possessed of Knowledge. That which is the Seed of all things, I am that, O Arjuna. There is nothing mobile or immobile, which can exist without me. There is no end, O chastiser of foes, of my divine perfections. 
+>
+> This recital of the extent of (those) perfections hath been uttered by me by way (only) of instancing them. Whatever of exalted things (there is) or glorious, or strong, understand thou that everything is born of a portion of my energy. 
 
 
 Thus the "stories" of `Hari` (`Hari Katha`) are the stories of creative accomplishments. From manifestation of a coherent book by a solo writer, to millions of us working together to write Wikipedia —  they signify the upwards trajectory of cognition. Be it the primordial force that instantiated our universe, or the tiny innovations within our realm — from the "wheel" to our  first car(t), or the first flight in open skies,  or the fist light bulb. Or the operating systems, the internet , or the virtual worlds — anything that takes us to higher orbit of consciousness . These stories are endless, because such manifestations are infinite. 
 
-It doesn't really matter if the story is put in factual format with unassuming experimental data, or it is a flight of fancy with dragons or zombies; as long as the narrative targets active upwards progression, it is self consuming and self sustaining. And telling such stories is inspiring as much as listening to them.
+It doesn't really matter if the story is put in factual format with unassuming experimental data as in scientific papers, or it is a flight of fancy with dragons or zombies; as long as the narrative targets active upwards progression, it is self consuming and self sustaining. And telling such stories is inspiring as much as listening to them.
 
 -----
 
-Once I understood, what `Hari` stands for, it was easy to comprehend that his stories are endless. Our senses are designed to perceive the manifested — be it an incarnation or a breakthrough idea. We are good at telling stories of the things that we could see, touch or feel :-)  But how do we map our heads to the idea of underlying infinite perpetual force — `Hari Ananta`? Is it even possible to imagine `Hari` in our limited sensory reality? 
+Once I understood, what `Hari` stands for, it was easy to comprehend that his stories are endless. Our senses are designed to perceive the manifested excellence — be it an incarnation or a breakthrough idea. We are good at telling stories of the things that we could see, touch or feel :-)  But how do we map our heads to the idea of underlying infinite perpetual force — `Hari Ananta`? Is it even possible to imagine `Hari` in our limited sensory reality? 
 
 To clarify my claim above , understanding  "what `Hari` stands for" , didn't mean I know `Hari`! I only understood that `Hari` is something that progressively takes our consciousness to higher levels. I have no clue what it is and how it does such an immense task. For example just because I know it is the code that runs my desktop ; doesn't mean I know coding! 
 
-Knowing `Hari`, however,  is a chase that we must undertake for the exercise is NOT worthless. In fact, it is the most rewarding quest even though we know that the object of our quest is beyond our sensory perception — definitely beyond our reductive minds. Why? — you may ask. You may say — trying to find something that is beyond our realm is quite futile. And the answer is simple — knowing `Hari` is knowing "who we are"! Because, we are, after all, a superior emergence of consciousness. And the amazing thing is, as we progress in this quest, the "perfections" reveal themselves. The idea is equally applicable whether we take a spiritual or a scientific route to this discovery. They both lead to the same conclusions and the path for each is pretty similar. Gita calls this path "Karm Yoga".
+Knowing `Hari`, however,  is a chase that we must undertake for the exercise is NOT worthless. In fact, it is the most rewarding quest even though we know that the object of our quest is beyond our sensory perception — definitely beyond our reductive minds. Why ? — you may ask. And the answer is simple — knowing `Hari` is knowing "who we are"! Because, we are, after all, a superior emergence of consciousness. And the amazing thing is, as we progress in this quest, the "perfections" reveal themselves. The idea is equally applicable whether we take a spiritual or a scientific route to this discovery. They both lead to the same conclusions and the path for each is pretty similar. Gita calls this path "Karm Yoga".
 
 As a first step, `Hari` is obviously not one unique person. One that may incarnate in millions of ways, is obviously not ONE  perceivable God. Narratives may over-glorify the persona, but the intent is always on the fundamental aspect of nature. The underlying force that removes illusions is `Hari`. It is the force that separates 'unreal' from 'real', from "random unformed" to "perfectly organized". Even `Krsna` told `Arjuna` to focus on this underlying force. He said
 
 > Or rather, what hast thou to do, by knowing all this in detail (about my perfections), O Arjuna? Supporting this entire universe with only a portion (of myself), I stand.[246]"
 
-So my quest now boiled down to finding something "infinite" ( `Hari Ananta`)  and something that holds my entire universe with a portion of its strength (`Gita`). What could that be !
+So my quest now boiled down to a simple question — finding something "infinite" ( `Hari Ananta`)  and something that holds my entire universe with a portion of its strength (`Gita`). That is quite an ask ! What could that be ! 
+
+Turned out my quest is no different from the deepest scientific minds. From Dirac to Feynman, From Einstein to Hawking — all of them were searching the same underlying truth — theory of everything. `Bhagvad Gita` puts this idea very elegantly. It says — knowing me is the knowledge, knowing the ways I (this knowledge) work is science.
+
+Let's take the later first - How this knowledge works !
 
 ---
 

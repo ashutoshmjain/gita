@@ -3,7 +3,6 @@
 Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
 ## Feb 3, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
-  - [Preface](./ananta.md) - New.
   - [Pledge](./mathuraChap16.md) - Edits and updates.
 ## Jan 27, 23 - Friday
 - [Mathura](./mathuraLanding.md)

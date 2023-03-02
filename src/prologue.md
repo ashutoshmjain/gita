@@ -1,11 +1,11 @@
 
 # Prologue
 
-`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`). He crystallized, then existing, entire wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate a life-time; however, his real goal was even bigger! The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
+`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`). He crystallized, then existing, entire wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate many lives; though, his real goal was even bigger! The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as `Brihat Parāśara Hora` — foundational work on Astrology; `Krishi Parāśara` — Agriculture;  `Vrkayurveda` — Botany, and `Vishnu Purana`[^vishnu] — Stories of `Hari`, the manifestative potency of the knowledge. His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh`[^bramh]-`rishi` (The guardian of eternal knowledge). `Krishna's` lineage predetermined his destiny — as if someone planned a multi-generational project to instantiate preservation of knowledge through written words.
 
-Not only did `Dwaipayana` edit the four Vedas, he scribed eighteen `Puranas` and also wrote the master piece `Jaya` (victory)  — a historical narrative that included the story of Lord Sri `Krsna`[^krsna] and `Arjuna`. History interwoven into thousands of stories meshed up like a knowledge graph. This was probably first time a story was told at such a scale.
+Not only did `Dwaipayana` edit the four Vedas, he scribed eighteen `Puranas` and also wrote the master piece `Jaya` (victory)  — a historical narrative that included the story of Lord Sri `Krsna`[^krsna] and `Arjuna`. History interwoven into thousands of stories meshed up like a knowledge graph. This was probably the first time an epic was "written" at such a scale.
 
 > `Jaya` was later expanded into a mega-epic, `Mahabharata`, his familial memoir - spanning his own, and next two generations. `Mahabharata`, with around 1.8 million words, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
@@ -17,18 +17,7 @@ In addition to the poetic excellence,`Mahabharata` defined a new way of life —
 
 The legend says,` Dwaipayana` invoked `Bramha`(`Bramh` in human form) to seek scribing assistance. `Bramha`, in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly` , here is an excerpt -
 
-> The son of Satyavati (Dwaipayana) having, by penance and meditation, analysed the eternal Veda, afterwards composed this holy history, when that learned Brahmarshi of strict vows, the noble Dwaipayana Vyasa, offspring of Parasara, had finished this greatest of narrations, he began to consider how he might teach it to his disciples. 
->
-> And the possessor of the six attributes, Brahma, the world's preceptor, knowing of the anxiety of the Rishi Dwaipayana, came in person to the place where the latter was, for gratifying the saint, and benefiting the people. 
->
-> And when Vyasa, surrounded by all the tribes of Munis, saw him, he was surprised; and, standing with joined palms, he bowed and ordered a seat to be brought. 
->
-> And Vyasa having gone round him, seated on that distinguished seat, stood near it; 
->
-> and being commanded by Brahma Parameshthi, he sat down near the seat, full of affection and smiling in joy. 
-> 
-> Then the greatly glorious Vyasa, addressing Brahma Parameshthi, said, 
->
+
 > "O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; 
 >
 > - the various rituals of the Upanishadas with the Angas; 
@@ -78,7 +67,9 @@ The legend says,` Dwaipayana` invoked `Bramha`(`Bramh` in human form) to seek sc
 > Let Ganesa be thought of, O Muni, for the purpose of writing the poem.' 
 
 
-Having approached by `Dwaipayana` and advised by his father `Siva`, `Ganesa` — the embodiment of ‘intelligence’, told `Krishna`, he was willing to help, but he would stop writing if `Krishna` paused even for a moment. He probably deemed there was no time to waste, given the immensity of the work to be scribed.  `Krishna` agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after fully understanding the intent, because text was meant for a human mind![^humanMind]
+Having approached by `Dwaipayana` and advised by his father `Siva`, `Ganesa` — the embodiment of ‘intelligence’, said -  I want to help, but I would stop writing if you paused speaking even for a moment. 
+
+`Ganesa`  probably deemed there was no time to waste, given the immensity of the work to be scribed.  `Dwaipayana` agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after full appreciation of the meaning ! [^humanMind]
 
 >"Ganesa, upon hearing this address, thus answered, 
 >
@@ -117,7 +108,7 @@ What motivations led to this major step-up in our approach to preservation of kn
 
 Following pages are a filtered version of my research investigating that revolution. And not surprisingly, it makes a fascinating story! And also a reflection on why humans keep changing the medium in pursuit to climb the ladder of consciousness! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! There is a lot to learn!
 
-For example , as we are moving to increasingly digital world (think VR), we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on human scale posters as our forefathers did! Do we need another way to organize knowledge in digital world? Is that new format social media or is it Wikipedia? Or we still need to find a new home for the knowledge — an order of magnitude more efficient! As we go through the story of creation of `Maha-Bharata`, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.
+For example , as we are moving to increasingly digital world (think VR), we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on six feet tall poster as our forefathers did when they first tried to democratize knowledge -  a mistake, because knowledge evolves into a new shape with each evolutionary cycle.  Do we need another way to organize in digital world? Is that new format social media or is it Wikipedia? Or we still need to find a new home for the knowledge — an order of magnitude more efficient! As we go through the story of creation of `Maha-Bharata`, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.
 
 Let me rewind you to around seven-ish thousands years back. It is about the time `Dwaipayana's` father was to be born at `Mathura` — a major pilgrim destination now, the foremost seat of learning back then ... and a major mishap occurred — something never heard before — and something that triggered the **writing revolution.**
 

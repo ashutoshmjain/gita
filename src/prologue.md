@@ -1,7 +1,7 @@
 
 # Prologue
 
-`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then decrypted and tested (for truth) wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate many lives; though, his real accomplishment was even bigger! His goal was to welcome the eighth incarnation of `Hari`, understand wisdom 'as is' from the divine head, and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
+`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then proven wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate many lives; though, his real accomplishment was even bigger! His goal was to welcome the eighth [^8th] incarnation of `Hari`, understand wisdom 'as is' from the divine head, and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
@@ -9,7 +9,9 @@
 - `Vrkayurveda` — Botany, and 
 - `Vishnu Purana`[^vishnu] — Philosophy of manifestation. 
 
-His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh`[^bramh]-`rishi` (The guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational project to instantiate preservation of knowledge through written words.
+His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh-rishi` (The guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational project to instantiate preservation of knowledge through written words.
+
+> The most important difference between humans and any other species is our ability to store knowledge, outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary change. Humans, on the other hand, may adapt quicker because we store and pass on knowledge through external means. The first of such means was the spoken word. We could remember things told by our parents and they could what was told to them by theirs.
 
 Not only did `Dwaipayana` edit the four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)  — a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph. This was probably the first time an epic was "written" at such a scale.
 
@@ -121,19 +123,21 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 ## reasech and notes:
 
+[^8th]: `Vishnu` - the manifestative potency of supreme knowledge manifests, from smallest particle to the biggest universe, through his eightfold basic nature. Starting from first incarnation, he blossoms till eighth when he attains his full luminosity. Thus eighth incarnation is the only full embodiment of supreme knowledge. Ninth incarnation is to extend the universe while tenth incarnation is to move the consciousness into a new universe.
+
+---
+
 [^immortals]:  In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.
 
 ---
 
-[^vishnu]: Spoken by `Maharishi Parasara`, `Vishnu Purana` was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means the ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested being has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; Kurma - the amphibian - is regarded the next stage after Matysa, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). It is important to mention that while all three have their respective representations in human form, only `Vishnu` may physically incarnate in human world. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
+[^vishnu]: 
+- Spoken by `Maharishi Parasara`, `Vishnu Purana` was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means the ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested being has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; Kurma - the amphibian - is regarded the next stage after Matysa, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
+- The other two primal forces (potencies of knowledge are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
 
 ---
 
-[^bramh]: The meta-physical mechanism that bears the knowledge in a connected network of conscious  beings, is known as `Bramh`. Think of `Bramh` as a knowledge field of a social graph. Just the way mass must co-exists with meta-physical electro-magnetic field, consciousness co-exists with a ‘knowledge field’. In a way, `Bramh` holds the entire knowledge , `Vishnu` turns this knowledge into manifestations as per the laws of nature (physics). The way photons are perceivable particle state of EM fields, ‘actions — `Karma`’ are the manifested nature of knowledge field.
-
----
-
-[^krsna]: `Krasna` is eighth incarnation of `Vishnu`. Also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. In a way `Krsna` is the embodiment of `Krishna Dwaipayna's` knowledge such that only `Vishnu`, in his complete incarnation, could perform this role.
+[^krsna]: `Krasna` is the full (8th) incarnation of `Vishnu`. Also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. In a way `Krsna` is the embodiment of `Krishna Dwaipayna's` knowledge such that only `Vishnu`, in his complete incarnation, could perform this role.
 
 ---
 

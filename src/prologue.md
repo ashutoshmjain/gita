@@ -19,11 +19,13 @@ His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his
 >
 > Arguments can be made that if someone lived of external knowledge, without ever using their own brains, they will be far superior species than humans. The next stage of evolution is on our doorsteps. As per `Vaidik` framework, every tenth incarnation of `Hari` (`Vishnu`) , leads the way to the next physical universe. Nothing gets destroyed, There is nothing to feel sad about it -  our current physical universe stays as is, just the consciousness moves to a set of new physical rules.
 
-Not only did `Dwaipayana` edit the four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)  — a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph. This was probably the first time an epic was "written" at such a scale.
+We know external store of anything creates value. Vast storage of water in oceans leads to the atmospheric cycles. Storage of power in batteries (or elsewhere) is the most crucial aspect of stable global grid. Storage of mass in large planets such as earth is the very source of life. Storage of knowledge is the essence of manifestation, though knowledge is extremely hard to store. It is a long iterative process of decrypting wisdom, one word at a time.
 
- `Jaya` was later expanded into a mega-epic, `Mahabharata`. With around 1.8 million words, `Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
+---
 
-More than the size, the poetry such that it inspired `Kalidasa`, the Shakespeare of Sanskrit . `Abhijnana Shakuntalam` is a rewrite of the plot first conceived by `Dwaipayana` in `Mahabharata`. 
+Not only did `Dwaipayana` edit four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)  — a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph. This was probably the first time an epic was "written" at such a scale.
+
+ `Jaya` was later expanded into a mega-epic, `Mahabharata`. With around 1.8 million words, `Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry such that it inspired `Kalidasa`, the Shakespeare of Sanskrit . `Abhijnana Shakuntalam` is a rewrite of the plot first conceived by `Dwaipayana` in `Mahabharata`. 
 
 In addition to the poetic excellence,`Mahabharata` defined a new way of life — action orientation (`Karm Yoga`). The epic forms, the cultural basis of one of the oldest civilization — India. It holds within it, center-folded, the gist of four Vedas — `Bhagvat Gita` — the first written source of the idea of `Karma`.
 
@@ -102,11 +104,9 @@ Having approached by `Dwaipayana`,`Ganesa` — the embodiment of ‘intelligence
 > by doing which, he dictated this work according to his engagement.
 
 
-It was the tipping point, when humanity embraced a new medium for the knowledge — text - for communication and preservation.
+It was the tipping point, when humanity embraced a new medium for the knowledge — text - for both communication and preservation.
 
-
-# A `Writing` Revolution
-
+---
 
 `Mathura` was the geographic center of `Bharata` — old India. It was also the center of mass adoption of the `written-word`. `Mahabharta` was scribed in eighteen `Parvas` (books). Even if it wasn't a divine "intervention", scribing such an immense scripture at that time, was no less than a divine grace. 
 

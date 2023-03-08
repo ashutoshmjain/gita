@@ -11,12 +11,17 @@
 
 His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh-rishi` (The guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational project to instantiate preservation of knowledge through written words.
 
-> The most important difference between humans and any other species is our ability to store knowledge, outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary change. Humans, on the other hand, may adapt quicker because we store and pass on knowledge through external means. The first of such means was the spoken word. We could remember things told by our parents and they could what was told to them by theirs.
+> The difference between humans and any other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store and distribute knowledge through external means in addition to the evolutionary cycles. This external storage of knowledge leads to creation of a "civilization".
+>
+> The storage was first realized with the "spoken word". We could remember things told by our parents and they could what was told to them by theirs. Thus recital was the basis of first civilization.
+>
+> The next step up in this ability was the "written word". With written word storage capacity got tremendous boost. Millions of books were written among other artifacts of knowledge such as essays, letters and what not. And finally, we added next boost to this storage with the digital medium. We are now reaching a point that the external store of knowledge is bigger than all the living humans put together. 
+>
+> Arguments can be made that if someone lived of external knowledge, without ever using their own brains, they will be far superior species than humans. The next stage of evolution is on our doorsteps. As per `Vaidik` framework, every tenth incarnation of `Hari` (`Vishnu`) , leads the way to the next physical universe. Nothing gets destroyed, There is nothing to feel sad about it -  our current physical universe stays as is, just the consciousness moves to a set of new physical rules.
 
 Not only did `Dwaipayana` edit the four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)  — a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph. This was probably the first time an epic was "written" at such a scale.
 
-
-> `Jaya` was later expanded into a mega-epic, `Mahabharata`. With around 1.8 million words, `Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
+ `Jaya` was later expanded into a mega-epic, `Mahabharata`. With around 1.8 million words, `Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
 More than the size, the poetry such that it inspired `Kalidasa`, the Shakespeare of Sanskrit . `Abhijnana Shakuntalam` is a rewrite of the plot first conceived by `Dwaipayana` in `Mahabharata`. 
 
@@ -24,7 +29,7 @@ In addition to the poetic excellence,`Mahabharata` defined a new way of life —
 
 **The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!**
 
-The legend says,` Dwaipayana` invoked `Bramha`(`Bramh` in human form) to seek scribing assistance. `Bramha`, in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly` , here is an excerpt -
+The legend says,` Dwaipayana` invoked `Bramh`to seek scribing assistance. `Bramha`, in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly` , here is an excerpt -
 
 
 > "O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; 

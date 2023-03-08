@@ -1,8 +1,7 @@
 # Summary
 - [Mathura](./mathuraLanding.md)
   - [Readme](./how.md)
-  - [Invocation](./ananta.md)
-  - [Prologue](./prologue.md)
+  - [Invocation](./prologue.md)
   - [Mishap](./mathuraChap01.md)
   - [Reboot](./mathuraChap02.md)
   - [Expression](./mathuraChap03.md)

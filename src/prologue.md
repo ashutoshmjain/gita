@@ -1,7 +1,7 @@
 
-# Prologue
+# Invocation
 
-`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then proven wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate many lives; though, his real accomplishment was even bigger! His goal was to welcome the eighth [^8th] incarnation of `Hari`, understand wisdom 'as is' from the divine head, and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
+`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then proven wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). This work, in itself, was virtuous enough to dedicate many lives; though, his real accomplishment was even bigger! His goal was to welcome the eighth [^8th] incarnation of `Vishnu`, understand wisdom 'as is' from the primal force of manifestation, and preserve it for ever in every human mind through one of the most potent narrative ever written - `Bhagvat Gita`. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. 
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
@@ -9,13 +9,17 @@
 - `Vrkayurveda` — Botany, and 
 - `Vishnu Purana`[^vishnu] — Philosophy of manifestation. 
 
-His grand father `Sakti Muni`, was the first to understand `Karm Yoga` . And his great grand father `Vasishtha` was titled `Bramh-rishi` (The guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational project to instantiate preservation of knowledge through written words.
+His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vasishtha` was titled `Bramhrishi` (The guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational project to instantiate preservation of knowledge through written words - a quantum jump.
 
-> The difference between humans and any other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store and distribute knowledge through external means in addition to the evolutionary cycles. This external storage of knowledge leads to creation of a "civilization".
+> The difference between humans and any other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store and distribute knowledge primarily through external means. This external storage leads to the notion of a "civilization". A civilization is one that acts around a core rational knowledge base to develop physical and spiritual tools for enhancing the life experience of it's participants. 
+>
+> The Indus valley civilization was built around  `Vaidik` science , Greco-Romans were founded around work of Homer and thrived around Socrates, Plato, Heraclitus and Aristotle. The rise of Europe was around the Industrial know-how of science and now America is broadly reaping around the digital wealth of knowledge . The external store of knowledge drives our human world.
 >
 > The storage was first realized with the "spoken word". We could remember things told by our parents and they could what was told to them by theirs. Thus recital was the basis of first civilization.
 >
-> The next step up in this ability was the "written word". With written word storage capacity got tremendous boost. Millions of books were written among other artifacts of knowledge such as essays, letters and what not. And finally, we added next boost to this storage with the digital medium. We are now reaching a point that the external store of knowledge is bigger than all the living humans put together. 
+> The next step up in this ability was the "written word". With written word storage capacity got tremendous boost. Millions of books were written among other artifacts of knowledge such as essays, letters and what not. Library of Alexandria had anywhere between seventy thousand to seven hundred thousand papyrus rolls. 
+>
+> And finally, we added next boost to this storage with the digital medium. The size of internet as of this moment is roughly around 24 Yottabytes and it is growing at a speed of around 70 terabytes per second. To put it in perspective, a Terabyte is We are now reaching a point that the external store of knowledge is bigger than all the living humans put together. 
 >
 > Arguments can be made that if someone lived of external knowledge, without ever using their own brains, they will be far superior species than humans. The next stage of evolution is on our doorsteps. As per `Vaidik` framework, every tenth incarnation of `Hari` (`Vishnu`) , leads the way to the next physical universe. Nothing gets destroyed, There is nothing to feel sad about it -  our current physical universe stays as is, just the consciousness moves to a set of new physical rules.
 

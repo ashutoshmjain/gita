@@ -5,7 +5,7 @@
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
-- `Krishi Parāśara` — Agriculture;  
+- `Krishi Parāśara` — Agriculture;
 - `Vrkayurveda` — Botany, and 
 - `Vishnu Purana`[^vishnu] — Philosophy of manifestation. 
 
@@ -129,13 +129,13 @@ What motivations led to this major step-up in our approach to preservation of kn
 
 Following pages are a filtered version of my research investigating that revolution. And not surprisingly, it makes a fascinating story! And also a reflection on why humans keep changing the medium in pursuit to climb the ladder of consciousness! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of paradigm shift is more or less similar. There is a lot to learn!
 
-For example , as we are moving to increasingly digital world (think VR), we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on six feet tall poster as our forefathers did when they first tried to democratize knowledge -  a mistake, because the knowledge evolves into a new shape with each evolutionary cycle.  Do we need another way to organize in digital world? Is that new format social media or is it Wikipedia? Or we still need to find a new home for the knowledge — an order of magnitude more efficient than the written media! As we go through the story of creation of `Maha-Bharata`, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.
+For example , as we are moving to increasingly digital world, we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on six feet tall poster as our forefathers did when they first tried to democratize knowledge -  a mistake, because the knowledge evolves into a new shape with each evolutionary cycle.  Do we need another way to organize in digital world? Is that new format video? Is the mechanism to organize knowledge cultivation  social media?  Or is it Wikipedia? Or we still need to find a new home for the knowledge — an order of magnitude more efficient than the written media! Knowledge cultivation is just one part, how are we going to harvest this knowledge - artificial intelligence that is trained on huge data sets or a task based AI approach? How is it going to alter our universe into a much richer metaverse?  And more broadly, is the question we need to ask is moral wrong verses right or is it about the efficiency and productivity? As we go through the story of creation of `Maha-Bharata`, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.
 
 Let me rewind you to around seven-ish thousands years back. It is about the time `Dwaipayana's` father was to be born at `Mathura` — a major pilgrim destination now, the foremost seat of learning back then ... and a major mishap occurred — something never heard before — and something that triggered the **writing revolution.**
 
 ## reasech and notes:
 
-[^8th]: `Vishnu` - the manifestative potency of supreme knowledge manifests, from smallest particle to the biggest universe, through his eightfold basic nature. Starting from first incarnation, he blossoms till eighth when he attains his full luminosity. Thus eighth incarnation is the only full embodiment of supreme knowledge. Ninth incarnation is to extend the universe while tenth incarnation is to move the consciousness into a new universe.
+[^8th]: `Vishnu` - the manifestative potency of supreme knowledge manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attains full invocation of all facets of eight-fold nature in the eighth incarnation (`Krsna`). Thus eighth incarnation is the only full embodiment of supreme knowledge. Ninth incarnation (`Buddha`) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (`Kalki`)
 
 ---
 
@@ -143,7 +143,7 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 ---
 
-[^vishnu]: 
+[^vishnu]: `Vishnu Purana`..
 - Spoken by `Maharishi Parasara`, `Vishnu Purana` was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means the ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested being has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; Kurma - the amphibian - is regarded the next stage after Matysa, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
 - The other two primal forces (potencies of knowledge are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
 

@@ -135,11 +135,14 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 ## reasech and notes:
 
-[^8th]: `Vishnu` - the manifestative potency of supreme knowledge manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attains full invocation of all facets of eight-fold nature in the eighth incarnation (`Krsna`). Thus eighth incarnation is the only full embodiment of supreme knowledge. Ninth incarnation (`Buddha`) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (`Kalki`)
+[^8th]: The eighth incarnation
+- `Vishnu` - the manifestative potency of supreme knowledge manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attains full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation is the only full embodiment of supreme knowledge. `Krasna` is the full (8th) incarnation of `Vishnu`. Also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. 
+- Ninth incarnation (`Buddha`) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (`Kalki`)
 
 ---
 
-[^immortals]:  In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.
+[^immortals]:  Immortal Eight
+- In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.
 
 ---
 
@@ -149,26 +152,37 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 ---
 
-[^krsna]: `Krasna` is the full (8th) incarnation of `Vishnu`. Also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. In a way `Krsna` is the embodiment of `Krishna Dwaipayna's` knowledge such that only `Vishnu`, in his complete incarnation, could perform this role.
+[^panini]: Sanskrit Grammar
+- `Maha-Bharata` is believed to be before `Panini`, who first standardised the Sanskrit Grammar. `Panini's` grammar — `Ashtadhyayi` has references to `Maha-Bharata` that indicate that it was written much later.  And the flavor of Sanskrit is sure not same as that of `Panini`.  `Dwaipayana's` Sanskrit is called `Vaidik Sanskrit`.
 
 ---
 
-[^panini]: `Maha-Bharata` is believed to be before `Panini`, who first standardised the Sanskrit Grammar. `Panini's` grammar — `Ashtadhyayi` has references to `Maha-Bharata` that indicate that it was written much later.  And the flavor of Sanskrit is sure not same as that of `Panini`.  `Dwaipayana's` Sanskrit is called `Vaidik Sanskrit`.
+[^siva]: `Siva`
+- Siva is the highest state of consciousness. Evolution of knowledge eventually reaches a state where ‘knowledge’ is absolute. This is the state of knowledge where `Vishnu` manifests, at the same time it gets a mirror image for observation. The mirror image of manifested `Vishnu` is `Siva`. `Siva` is answer to `Vishnu's` question - who am I? This potency thus, maintains the systems to support equilibrium of `Bramh`. In other words, `Siva` governs the knowledge field. 
+- `Siva` is seen as a potency of discretion that chooses to observe only one (manifested) state of `Vishnu`, it discards all other possibilities. These three protocols (`Bramh`, `Visnu` and `Siva`) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only `Vishnu` is potent enough to incarnate.
 
 ---
 
-[^siva]: Siva is the highest state of consciousness. Evolution of `Vishnu`, eventually reaches a state where ‘knowledge’ is absolute. This potency is thus, maintains the systems to support equilibrium of `Bramh`. In other words, `Siva` governs the knowledge field. `Siva` is thus seen as the one who keeps the knowledge current. These three protocols (`Bramh`, `Visnu` and `Siva`) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only `Vishnu` is potent enough to incarnate.
+[^ganesa]: The Elephant God
+- `Ganesa` is the deity of intelligence. The legend says that `Ma Parvati` - wife of `Siva`, created a humanoid from her skin scrub. `Siva` unhappy with the limited intelligence of this humanoid (as he couldn't even contextualize that `Siva` was `Parvati's` husband), implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons verses a human brain. 
+- To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of largest neural networks of our time such as GPT3. Thus `Ganesa` has around 1000x natural(not artificial) intelligence verses the largest of our AIs! In a way superior intelligence was put you in first mega transcription project - from spoken word to written text. It seems like a fun coincidence that we need AIs to harvest the written knowledge in digital realm.
+- In Hindu tradition, it is considered auspicious to remember `Ganesa` at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.
 
 ---
 
-[^ganesa]: `Ganesa` is the deity of intelligence. The legend says that `Ma Parvati` - wife of `Siva`, created a humanoid from her skin scrub. `Siva` unhappy with the limited intelligence of this humanoid (as he couldn't even contextualize that `Siva` was `Parvati's` husband), implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons verses a human brain. To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of largest neural networks of our time such as GPT3. Thus `Ganesa` had around 1000x natural(not artificial) intelligence verses the largest of our artificial intelligences! In Hindu tradition, it is considered auspicious to remember `Ganesa` at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.
+[^humanMind]: Speed verses understanding
+- The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example , a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. `Dwaipayana` meant that `Ganesa` being a humanoid, may be faster in word processing but he really need to understand the meaning of the words.
 
 ---
 
-[^humanMind]: The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example , a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. `Dwaipayana` meant that `Ganesa` being a humanoid, could be faster in word processing but he really need to understand the meaning of the words.
-
----
-
-[^gold]: Barter system was still widespread for the smaller transactions. Commoners used fruits and grains to get what they needed. Rich people used copper as a store of value. A one time adult meal was normally considered one copper coin. So was a ride fare. You could hop on and hop off any boat or cart at any place along its route for one copper coin. Super rich used copper for utensils at their home. For them the valuable was silver. A silver coin was considered same as ten copper coins. One each for every single finger of two hands. Ultra rich ate their food in Silver utensils. For them store of value  was a Gold coin. A Gold coin was equal to ten Silver's. One for every finger of both the hands. The valuation was based on rough order of magnitude in mining these metals. Silver was considered ten times harder than copper, and Gold being an order of magnitude harder than Silver. In a way "proof of work" was baked in universally acceptable currency. All states, no matter what their political equations, honoured this simple "proof of work" based storage of value. Privacy , self custody and universality were the underpin of trading system. Nation states couldn't even imagine to start their own currencies ! Currency was pegged to people's trust in "proof of work". Important point to note here, currency was not pegged to commodities such as iron. Gold, silver and copper were NOT commodities. Gold's only purpose was ornaments , silver was used purely for minting, and copper was primarily used for making utensils for the rich. Copper was supposedly the best metal to store food and water. Eating in silver, though common for rich, was considered a show-off.This simple to understand and time tested system of power of ten, was later exploited by `Aryabhatta` to conceptualize zero and decimal system - the very basis of modern arithmetic.
+[^gold]: Monetary system
+- Barter system was still widespread for the smaller transactions. Commoners used fruits and grains to get what they needed. 
+- Rich people used copper as a store of value. A one time adult meal was normally considered one copper coin. So was a ride fare. You could hop on and hop off any boat or cart at any place along its route for one copper coin. Super rich used copper for utensils at their home. For them the valuable was silver. 
+- A silver coin was considered same as ten copper coins. One each for every single finger of two hands. Ultra rich ate their food in Silver utensils. For them store of value  was a Gold coin. 
+- A Gold coin was equal to ten Silver's. One for every finger of both the hands. 
+- The valuation was based on rough order of magnitude in mining these metals. Silver was considered ten times harder than copper, and Gold being an order of magnitude harder than Silver. In a way "proof of work" was baked in universally acceptable currency. 
+- All states, no matter what their political equations, honoured this simple "proof of work" based storage of value. Privacy , self custody and universality were the underpin of trading system. Nation states couldn't even imagine to start their own currencies ! 
+- Currency was pegged to people's trust in "proof of work". Important point to note here, currency was not pegged to commodities such as iron or wheat. Gold, silver and copper were NOT treated as commodities. Gold's only purpose was ornaments , silver was used purely for minting, and copper was primarily used for making utensils for the rich. Copper was supposedly the best metal to store food and water. Eating in silver, though common for rich, was considered a show-off. 
+- This simple to understand and time tested system of power of ten, was later exploited by `Aryabhatta` to conceptualize zero and decimal system - the very basis of modern arithmetic.
 
 ---

@@ -27,7 +27,7 @@ Another example, just to drive home this point is Mycorrhizal [^mycorr] network 
 
 He was aware he was changing the core protocol [^protocol] of nature. Instead of letting knowledge evolve, he was focusing it in a specific direction. Though he deemed it in line with nature because ultimately natural evolution was also a mechanism for growth of consciousness. In essence, his path was in line with `Bramh`. And he chose this path with humility. However, attack on the congregation raised the doubt in his mind - Is this path correct ? Is altering the nature righteous or not? A question that may haunt modern architects of artificial intelligence. Even the modern scientists - be it particle physics of genomics can't push this question under the rug.
 
-He got the answer only when multiple suicide attempts were rejected. In a way "God" himself paved his path. Over time, `Bramhrishi` put this attack behind him. He rebuilt the congregation ground up and brought his focus to newborn `Parasara`. 
+He got the answer only when multiple suicide attempts were rejected. In a way "God" himself paved his path. Over time, `Bramhrishi` put this attack behind him. He rebuilt the congregation ground up and brought his focus to newborn `Parasara`. He carried only two question with him - What is righteous ? And if he was on right path, how to make sure such disaster must have a fallback, at least to secure the knowledge.
 
 
 ---

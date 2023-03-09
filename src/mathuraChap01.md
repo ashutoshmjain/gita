@@ -25,7 +25,7 @@ Another example, just to drive home this point is Mycorrhizal [^mycorr] network 
 
 `Vaśiṣṭha` was called `Bramh-rishi` because he first understood this natural phenomenon and applied it to knowledge storage beyond evolutionary mechanism. In a way, he discovered the first "battery" for storing knowledge - to target it for a "purpose" in accelerated fashion. He distributed important discoveries among his disciples and had them remember fine details through daily recital - to perpetuate the knowledge externally from one generation to the next. Most importantly, he saw this ability as a kind grace, as if he inherited it from all-pervading `Bramh`. 
 
-He was aware he was changing the core protocol [^protocol] of nature. Instead of letting knowledge evolve, he was focusing it in a specific direction. Though he deemed it in line with nature because ultimately natural evolution was also a mechanism for growth of consciousness. In essence, his path was in line with `Bramh`. And he chose this path with humility.
+He was aware he was changing the core protocol [^protocol] of nature. Instead of letting knowledge evolve, he was focusing it in a specific direction. Though he deemed it in line with nature because ultimately natural evolution was also a mechanism for growth of consciousness. In essence, his path was in line with `Bramh`. And he chose this path with humility. However, attack on the congregation raised the doubt in his mind - Is this path correct ? Is altering the nature righteous or not?
 
 Such a gory attack on the keeper of the primitive knowledge would obviously beg two questions — Why and When ! 
 

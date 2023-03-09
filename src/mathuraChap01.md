@@ -25,11 +25,14 @@ Another example, just to drive home this point is Mycorrhizal [^mycorr] network 
 
 `Vaśiṣṭha` was called `Bramh-rishi` because he first understood this natural phenomenon and applied it to knowledge storage beyond evolutionary mechanism. In a way, he discovered the first "battery" for storing knowledge - to target it for a "purpose" in accelerated fashion. He distributed important discoveries among his disciples and had them remember fine details through daily recital - to perpetuate the knowledge externally from one generation to the next. Most importantly, he saw this ability as a kind grace, as if he inherited it from all-pervading `Bramh`. 
 
-He was aware he was changing the core protocol [^protocol] of nature. Instead of letting knowledge evolve, he was focusing it in a specific direction. Though he deemed it in line with nature because ultimately natural evolution was also a mechanism for growth of consciousness. In essence, his path was in line with `Bramh`. And he chose this path with humility. However, attack on the congregation raised the doubt in his mind - Is this path correct ? Is altering the nature righteous or not? 
+He was aware he was changing the core protocol [^protocol] of nature. Instead of letting knowledge evolve, he was focusing it in a specific direction. Though he deemed it in line with nature because ultimately natural evolution was also a mechanism for growth of consciousness. In essence, his path was in line with `Bramh`. And he chose this path with humility. However, attack on the congregation raised the doubt in his mind - Is this path correct ? Is altering the nature righteous or not? A question that may haunt modern architects of artificial intelligence. Even the modern scientists - be it particle physics of genomics can't push this question under the rug.
 
-He got the answer only when multiple suicide attempts were rejected. In a way "God" himself paved his path. Such a gory attack on the keeper of the primitive knowledge would obviously beg two questions — Why and When ! 
+He got the answer only when multiple suicide attempts were rejected. In a way "God" himself paved his path. Over time, `Bramhrishi` put this attack behind him. He rebuilt the congregation ground up and brought his focus to newborn `Parasara`. 
+
 
 ---
+
+Such a gory attack on the keeper of the primitive knowledge would obviously beg two questions — Why and When ! Why would anyone have a problem with someone trying to build a new civilization for greater good. Against the very first architect of external store of knowledge !
 
 As far as the ‘why’ is concerned — there is a good answer. The congregation was rich. The legend says `Bramh-rishi` had a magical cow (`Kaam Dhenu`) that gave him everything he asked for — on demand. The obvious truth is, magical cow was the ‘Knowledge’. Knowledge attracts wealth — be it Apple, or be it Google of our times, or the `Ashramas` of the past, the source of wealth has always been the accumulated knowledge. `Vaśiṣṭha's Ashram` was by far the biggest research institute of that time. They were the keepers of inheritance from `Bramh`. Many jealous eyes were set on the plush ‘wealth and peace’ of the congregation — material as well as intellectual.
 

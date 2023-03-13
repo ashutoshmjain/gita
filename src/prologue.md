@@ -1,7 +1,9 @@
 
 # Invocation
 
-`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then proven wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). On the face of it, this work, in itself, was virtuous enough to dedicate many lives; though his hidden accomplishment was even bigger! His purpose was to welcome the eighth [^8th] incarnation of `Vishnu`, understand wisdom 'as is' from the primal force of manifestation, and preserve it for ever in every human mind through one of the most potent narrative ever written - `Bhagvat Gita`, though, probably unaware of it, to make sure this knowledge was never lost, he ushered the humanity from spoken to the written word. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. His hidden accomplishment made him the foremost architect of modern civilization.
+`Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then existing and  proven wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
+
+Obviously this work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it for ever in every human mind through one of the most potent narrative ever written - `Bhagvat Gita`. As a complimentary gift, to ensure this knowledge was never lost, he ushered the humanity from "spoken" to the "written" word. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition. The complimentary gift made him the foremost architect of modern civilization — the teacher of all teachers!
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
@@ -134,8 +136,9 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 ## reasech and notes:
 
-[^8th]: The eighth incarnation
-- `Vishnu` - the manifestative potency of supreme knowledge manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attains full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation is the only full embodiment of supreme knowledge. `Krasna` is the full (8th) incarnation of `Vishnu`. Also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. 
+[^8th]: `Poorna-avtaara` - The eighth incarnation
+- In `Vaidik` framework, `Vishnu` is the manifestative potency of supreme knowledge. It manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attains full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation `Krsna` is the only full embodiment of supreme knowledge. 
+- `Krsna` is also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. 
 - Ninth incarnation (`Buddha`) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (`Kalki`)
 
 ---

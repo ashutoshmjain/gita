@@ -3,7 +3,7 @@ Seven months before `Parāśara's` birth, `Bramh-rishi Vaśiṣṭha` — his gr
 
 The epitome of India's contemporaneous knowledge hubs, `Mathura`, was in free blood-bath. In today's parlance, it would be as if someone killed en-masse at Google campus. Hundreds of knowledge bearers left dead. Not even their wives were spared. Even children didn't get a plea for mercy. 
 
-Only `Bramh-rishi` himself, and wife of `Śakti Muni — Adrushyanti`, survived the massacre. She was carrying yet to be born `Parāśara` — maybe two months into her pregnancy. The young widow couldn't even announce her motherhood before the fear and curse gripped the congregation.... and entire `Mathura`. A dark night swept her massive wings across the main city and adjoining villages. A part of `Bramh-rishi` saw himself at the epicenter of such ill eruption. He couldn't help thinking he must have incurred a foundational mistake to warrent such backlash, maybe unknowingly!
+Only `Bramh-rishi` himself, and wife of `Śakti Muni — Adrushyanti`, survived the massacre. She was carrying yet to be born `Parāśara` — maybe two months into her pregnancy. The young widow couldn't even announce her motherhood before the fear and curse gripped the congregation.... and entire `Mathura`. A dark night swept her massive wings across the main city and adjoining villages. A part of `Bramh-rishi` saw himself at the epicenter of such ill eruption. He couldn't help thinking he must have incurred a foundational mistake to warrent such a backlash, maybe unknowingly!
 
 Saddened to the core, and unaware that the young widow was carrying, `Vaśiṣṭha` tried to end his life. He miraculously survived multiple attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` got a chance at life. 
 

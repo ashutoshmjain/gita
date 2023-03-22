@@ -17,7 +17,7 @@ His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his 
 >
 > The Indus valley civilization was built around  `Vaidik` science , Greco-Romans were founded around work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application of modern science, and now America is broadly reaping around the digital wealth of knowledge . The external store of knowledge drives human world.
 >
-> The storage was first realized with the "spoken word". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Vasishtha` understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital, was the basis of first civilization.
+> The storage was first realized with the "spoken word". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Vasishtha` understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital (`Shruti`), was the basis of first civilization.
 >
 > With "written word" storage capacity got a boost. It is estimated that there are over 130 million books in existence as of 2021. Library of Alexandria, built by Ptolemy in early days of the written word ( around 3rd century bc) had anywhere between seventy to seven hundred thousand "Papyrus" rolls. A conversion into a modern textbook size should end up to say a hundred thousand books - a lot given they were all hand written and carefully transported to Alexandria for safe keeping and reference.
 >

@@ -1,7 +1,11 @@
 # changeLog
 
 Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
-
+## March 24, 2023 - Friday
+- [Mathura](./mathuraLanding.md)
+  - [Prologue](./prologue.md) - More changes to tightly align the ideas and improve readability.
+  - [The Mishap](./mathuraChap01.md) - More changes to tightly align the ideas and improve readability.
+ 
 ## March 10th, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
   - [Prologue](./prologue.md) - Major update.

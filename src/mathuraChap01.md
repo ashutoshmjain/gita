@@ -1,4 +1,7 @@
-# The mishap.
+On surface it appears that the fight is between the old and the new. The old seeking to maintain a status quo while the new seeking a new order. But the truth is old loves the new like a child. And the new respects the old like father. The unfortunate times, however cause a mishap - `Durghatna`. This mishap is just an indication that the time of old is over and that of new has started. The fight begins at this time between many possibilities of new. Having recognized their time, they all seek their claim to the seat of power.
+
+# `Durghtna`.
+
 Seven months before `Parāśara's` birth, `Bramh-rishi Vaśiṣṭha` — his grand father — woke up to a grotesque morning. His sprawling congregation (`Ashrama`), on the banks of river `Yamuna`, sunk into deepest of grief, and rage. His son `Śakti Muni` was killed by a self-proclaimed tribal king. Some religious accounts say `Bramh-Rishi` had one hundred sons taken that fateful morning of mass-murder. They probably mean `Bramh-rishi` treated all his close followers, particularly the faculty members, as his true-born.
 
 The epitome of India's contemporaneous knowledge hubs, `Mathura`, was in free blood-bath. In today's parlance, it would be as if someone killed en-masse at Google campus. Hundreds of knowledge bearers left dead. Not even their wives were spared. Even children didn't get a plea for mercy. 

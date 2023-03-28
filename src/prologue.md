@@ -1,5 +1,5 @@
 
-In sanskrit, "Invocation" means `Aavahan`. It is a practice in Hindu tradition to invoke deities before attempting difficult tasks that seem humanly impossible. Depending on the nature of task, specific deities are invoked. `Rama` invoked `Siva` before taking on `Ravna`. Scribing `Mahabharata` was such a gargantuan act of knowledge harvest  that `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge. 
+In sanskrit, "Invocation" means `Aavahan`. It is a practice in Hindu tradition to invoke deities before attempting difficult tasks. Tasks  that seem humanly impossible. Depending on the nature of task, specific deities are invoked. `Rama` invoked `Siva` before crossing the sea to take on `Ravna`. Scribing `Mahabharata` was such a gargantuan act of knowledge harvest  that `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge. 
 
 # `Aavahan`
 

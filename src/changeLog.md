@@ -1,6 +1,18 @@
 # changeLog
 
 Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
+
+## March 29, 2023 - Friday 
+Added title lines to following chapters and created sections to improve readability, clear conception of ideas and to help improve in application search features. 
+
+Bound first four chapters with the overarching idea that the conflict is not between the old and the new. It is always amongst many possibilities of new.
+
+- [Mathura](./mathuraLanding.md)
+  - [Invocation](./prologue.md)
+  - [Mishap](./mathuraChap01.md) 
+  - [Reboot](./mathuraChap02.md) 
+  - [Expression](./mathuraChap02.md) 
+
 ## March 24, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
   - [Prologue](./prologue.md) - More changes to tightly align the ideas and improve readability.

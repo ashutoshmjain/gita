@@ -1,6 +1,11 @@
 # changeLog
 
 Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
+## April 07, 2023 - Friday 
+
+- [Mathura](./mathuraLanding.md)
+  - [Righeous](./mathuraChap04.md) - Almost rewrote the chapter keeping the story line intact.
+ 
 
 ## March 29, 2023 - Friday 
 Added title lines to following chapters and created sections to improve readability, clear conception of ideas and to help improve in application search features. 

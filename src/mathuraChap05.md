@@ -1,4 +1,10 @@
-# The Island ..
+A day has no meaning without night. A river must have two banks. A narrative manifests amidst the story of a hero and a villain. Duality is the fundamental law of manifestation. It exists and yet it remains inseparable from the manifestation. One may see duality as the motherly cradle - others may see it simply as a property of manifestation, but none may argue it's omnipresence.
+
+In particle physics, duality is called "Parity Symmetry", In `Vaidik` science, the faction that holds "duality" supreme is known as `Dwait` - dualism. Since duality is fundamental, even "dualism" must have it's own reflection. That reflection is the birth of an islands between two inseparable yet never meeting banks of a river. The faith in singular force of manifestation, and a conscious removal of focus from duality, is known as `Adwait`. It is a choice to be. It says that since, "duality" is inseparable, and hence invisible, the singular truth is the thing that manifest amidst innumerable dualities. That manifest is not given - it takes tremendous energy ("knowledge") and repetitive actions (`Karma`) to fructify one observable "truth". An "island" is thus the truth of of a river's labour.
+
+In `Sanskrit`, an island is called a `Dweep`.And  one who is born out of a `Dweep` is called `Dwaipayana`. 
+
+# `Dweep` ..
 
 `Matsyagandha` was daughter of a poor fisherman who passed away when she turned eleven, not that anyone was counting. Her mother had died in labor of her birth. No one wanted to be with her for she was labeled bad omen. Poor girl knew only one way to live in this world — ferry people across `Yamuna` — the mighty river, by the abode (`Ashrama`) of `Maharishi Parāśara`. Her only possession was her father's dilapidated boat. The cruelty of her fate — no one wanted to ride with her. Not only the boat was in bad shape, she herself had a pungent smell; thus the name `Matsyagandha` that literally meant one who smelled like fish (`Matsya` in Sanskrit, means fish, and `Gandha` means fragrance). 
 

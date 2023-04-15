@@ -1,10 +1,16 @@
 # changeLog
 
 Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
+
+## April 14, 2023 - Friday 
+
+- [Mathura](./mathuraLanding.md)
+  - [Island](./mathuraChap05.md) - major edits.
+
 ## April 07, 2023 - Friday 
 
 - [Mathura](./mathuraLanding.md)
-  - [Righeous](./mathuraChap04.md) - Almost rewrote the chapter keeping the story line intact.
+  - [Righteous](./mathuraChap04.md) - Almost rewrote the chapter keeping the story line intact.
  
 
 ## March 29, 2023 - Friday 

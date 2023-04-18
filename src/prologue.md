@@ -1,6 +1,8 @@
 In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and self-sacrifice. It is a practice in Hindu tradition to invoke deities before uphill tasks - tasks  that seem humanly impossible. Depending on the nature of task, specific deities are invoked. For example, `Rama` invoked `Siva` before crossing the sea.
 
-Scribing `Mahabharata` was one such uphill task - an immense narrative of "form & format" never known before. `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
+Scribing `Mahabharata` was one such uphill task. A narrative such that it demanded discovery of writing apparatus. It included adapting the language model from "purely spoken" to "spoken and written", extension of calligraphic symbols to capture the essence of spoken word, writing tools such as palm leaves, ink, and pen. But more importantly, it needed "patience" to write (and read) long meaningful text. In a way, the idea of "scribing"  was purpose built for `Mahabharata`, the way "C" - the computer programming language, was purpose designed for Unix, Or block-chain technology was white-papered specifically for the Bitcoin. [^c]
+
+`Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
 
 # `Aavahan`
 
@@ -16,15 +18,15 @@ This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipa
 
 His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational mission to decipher and record "true" knowledge.
 
-In a way, it was a quantum jump in evolution of consciousness, at least from the humans' standpoint. The primary difference between humans and other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store, and distribute knowledge through external means. This external storage leads to the notion of a "civilization". A civilization is one that acts around a core rational knowledge-base to develop physical and spiritual tools to enhance the life experience of it's participants --> evolution of conciousness. By this definition, humans have much greater conscious experience compared to other species.
+In a way, it was a quantum jump in evolution of consciousness, at least from the humans' standpoint. The primary difference between humans and other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store, and distribute knowledge through external means. This external storage leads to the notion of a "civilization". A civilization is one that acts around a core rational knowledge-base to develop physical and spiritual tools that enhance the life experience of it's participants --> evolution of conciousness. By this definition, humans have much greater conscious experience compared to other species.
 
  The first Indus valley civilization was built around  `Vaidik` science, Greco-Romans were founded around work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application(s) of modern science, and now America is broadly reaping around the digital wealth of knowledge.
-
- The external store of knowledge drives human world. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the knowledge - text. Even in digital realm, most of the meaningful content is text. 
 
 ## 0.1
  ----
  
+ The external store of knowledge drives human world. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the knowledge - text. Even in digital realm, most of the meaningful content is text. 
+
  The storage was first realized with the "spoken word". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Bramhrishi Vaśiṣṭha` - great grand father of `Dwaipayana`, understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital (`Shruti`[^shruti]), was the basis of first civilization.
 
  With "written word" storage capacity got a boost. It is estimated that there are over 130 million books in existence as of 2021. Library of Alexandria, built by Ptolemy in early days of the written word ( around 3rd century bc) had anywhere between seventy to seven hundred thousand "Papyrus" rolls. A conversion into a modern textbook size should end up to say a hundred thousand books - a lot, given they were all hand written and carefully transported to Alexandria for safe keeping and reference.
@@ -153,6 +155,11 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 ## Research and notes:
 ----
+
+[^c]:  Human languages, Programming languages and Block-chains
+- It might feel like a flight of extreme imagination to compare the text written on palm leaves with modern programming language ; but there are few similarities if we peal the top layer. The written language is for communication between humans while a programming language takes the communication to next level - From humans to the machines. 
+- Language(s) are for communication. Communication needs order - history. Maintaining the history of communication for humans is easy but it is quite hard for the computers because time-stamps are easy to temper. Block-chains are thus distributed , easily verifiable blocks of text for computers to ascertain the true sequence of messages. This obviously have application in financial transactions where humans may not be trust worthy. Thus blockchain's first usecase is currency but that is just the beginning. Blackchains will enable trusted inter-computer communication in coming times.
+---
 
 [^8th]: `Poorna-avtaara` - The eighth incarnation
 - In `Vaidik` framework, `Vishnu` is the manifestative potency of supreme knowledge. It manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attain full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation `Krsna` is the only full embodiment of supreme knowledge. 

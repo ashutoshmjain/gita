@@ -1,6 +1,6 @@
-On the surface, it appears that the contest is between the "old" and the "new". The old seeking to maintain a status quo while the new aspiring for better. But the truth is old loves the new like it's own future. And the new knows the old as a trustee. The shift, however, must happen, and it needs a trigger, a mishap - `Vipda`. **Bigger the shift, bigger the mishap.**
+On the surface, it appears that the contest is between the "old" and the "new". The old seeking to maintain a status quo while the new aspiring for better. But the truth is old loves the new like it's own future. And the new knows the old as a trustee. The shift, however, must happen, and it needs a trigger, a mishap - `Vipda`. Bigger the shift, bigger the mishap - `Maha Vipda`.
 
-The mishap is just an indication that the time of old is over and that of new started. The battle begins at this moment between many possibilities of the "new". Having recognized the inevitable, they all seek their claim to the driver seat.
+In a way, the mishap marks the beginning of the "transition". It is a gun shot to init the race. The battle begins at this moment between many possibilities of the "new". Having recognized the inevitable, they all seek their claim to the throne. The old then sits back; many times turning a blind eye. The wait is painful ..
 
 # `Vipda`.
 

@@ -5,7 +5,7 @@ Since this is a living book, a weekly update is released every Friday, with the 
 ## April 21, 2023 - Friday 
 
 - [Mathura](./mathuraLanding.md)
-  - [Invocation](./prologue.md) - Improved the tone title entry and general edits.
+  - [Invocation](./prologue.md) - Improved the tone of title entry and general edits.
   - [Mishap](./mathuraChap01.md) - Changed title name to reflect better alignment with the chapter content. General Edits.
  
 ## April 14, 2023 - Friday 

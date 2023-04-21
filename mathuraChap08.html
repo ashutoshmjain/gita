@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://www.w3counter.com/">
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <script src="https://www.w3counter.com/tracker.js?id=135172"></script>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="how.html">Readme</a></li><li class="chapter-item expanded "><a href="prologue.html">Invocation</a></li><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li><li class="chapter-item expanded "><a href="mathuraChap08.html" class="active">Proposal</a></li><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Return</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Rivers</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Desire</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Meeting</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Truth</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li><li class="chapter-item expanded "><a href="mathuraChap16.html">Pledge</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="0.0_about.html">About</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Proposal';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                            </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="proposal-and-the-plan-"><a class="header" href="#proposal-and-the-plan-">Proposal and the Plan ..</a></h1>
+<p>It was as if <code>Matsyagandha</code> found a reason to live. <code>Maharishi Parāśara</code> got off the boat but he left a boatload of hope for <code>Matsya</code>. Every night she waited at the docks. She had gotten a new set of questions. What did <code>Maharishi</code> mean? Why would he even talk to someone like her. At times, she thought she was an insipid laughter for a <code>Yogi</code> — maybe he just wanted to let her feel good, other times she wanted to look beautiful — she must get herself ready for the bigger purpose — but she knew no ways. She wanted to smell good but she couldn't afford the Sandal wood — a wood used in making perfumes. The hope and despair played the cycles of pains and joy. She was caught into duality of the prospects, and unlike the waves in <code>Yamuna</code>, waves of duality were hard to navigate. She must go through this fire to harden herself for a path unknown. </p>
+<p>One more subtle change happened. She discovered a new confidence in just being herself. For the first time, she saw her smell as a virtue. She felt she existed despite being all alone in this world. <code>Maharishi's</code> simple anecdote almost changed her self-perception for good. She wondered, why did she not see the simple reality the way he saw it now !</p>
+<p>About a year later, on the night of <code>Vijya Dashmi</code> — the tenth night of Hindu month <code>Ashwin</code>,<code>Maharishi</code> returned to the wharf. Entire <code>Mathura</code> was celebrating the auspicious autumn night to commemorate victory of Lord <code>Rama</code> over <code>Ravana</code>. A noble king verses a tyrant — good over evil. The middle of peak festive season in entire India, and more so in this part because of the perfect weather conditions. Wet season ended almost a month ago in mid August (per English Calendar), to let this time of mid September dry with mild temperatures and acceptable humidity. No one was expected working on the docks this night, except that <code>Matsyagandha</code> was there, for 'waiting' was her daily ritual —  <code>Karma</code>. </p>
+<p><code>Maharishi</code> smiled at <code>Matsya</code> as if he expected her there waiting for him. He didn't have the courage to ask her why she was here? Why not celebrating the night with the rest, for he knew he was the one who put her to this test. And she sure passed. </p>
+<p><code>Matsya</code> returned the smile as if she simply erased the wait of last four seasons from her memory. He asked her to ferry the boat to the island. She happily toed the boat into waters. As the boat got stable, she looked at <code>Maharishi</code> in anticipation. She could feel her time had come. The moment she was preparing herself for a year was finally here. </p>
+<p><code>Maharishi</code> read her thoughts. She was like an open book to him — uncorrupted and pious. Her big expressive eyes said what her lips would not. Without much ado, he asked her if she could give him a son. No preamble, no sweet romantic submission. All he added — it was for a much bigger cause. A cause, she would appreciate in due course. And of course, she may ask anything in return for the favor of this service!</p>
+<p>Service! — <code>Matsya</code> though wildly imaginative, had never thought such a ‘service’ existed. To put it mildly, it was passionless. To say the truth, it was blunt and abrupt! No one asks a woman for a child in their second meeting (spaced an year) without any courtship. She was poor but she wasn't sold out. She worked hard for a living and she bore the wrath of society for no apparent reason. She was a proud woman. A part of her felt as if the man was total noob in worldly things. Even more than her. But other reassured her that he meant what he said — He is not here to steal! He is here to give!</p>
+<blockquote>
+<p>Both of them unaware that what <code>Maharishi</code> asked <code>Matsya</code> was the biggest sacrifice a human could do. Soliciting a new born of a first time mother — be it a human or even an animal, is the most audacious of the 'asks' imaginable. Every cell of a mother's body works nine months, non-stop, to manifest a baby. Not only does she make flesh and blood, she even drafts milk for the new born — to ease the child into inhospitable world. This selfless act is the <code>Karm Yoga</code> of the highest order . Even for a pronounced <code>Karm Yogi</code> , giving up on such a manifestation - the feat of binding conciousness to a biological form , is too much to ask. But none of them had this physical experience before. Neither comprehended that the price of such a service was more than entire cosmos !</p>
+</blockquote>
+<p>As the moment passed, she staged a quick recovery. Years of training to handle unexpected discomfort, helped her regain her rationale. She was definitely taken aback at the unexpected proposal. It was quite an anticlimax to the high hopes she had whipped up in her mind. She had no clue what to say and what to ask, but she knew <code>Maharishi Parāśara</code> was a <code>Yogi</code>. There was no one in <code>Mathura</code> who didn't know <code>Maharishi</code>, but since last year, her interest in the <code>Yogi</code> had peaked. She had found everything there was to know about him in public domain. He could had any woman if he wanted to, but why then he chose her? He sure was not a womaniser. He wasn't doing it for fun.</p>
+<p>More clarity emerged with another passing thought! She knew he could bless her with whatever she wanted — she felt the aura of calm and the strength he exuded, that made her believe the stories of his wizardry she had overheard commuters. Ever since their last meeting, she had wondered what she had in store. Her over sized imagination had led her to many scenarios but none of them was to bear his child. For one, he wasn't attractive, nor did he took care to look one. But more importantly, she knew that <code>Maharishi</code> would never take her (or anyone else) as a wife for his life was dedicated to the celibate work of God. Then why does he need a son, what exactly is the ‘bigger purpose’? She didn't realize, her curiosity had already shifted to the ‘purpose’ rather than her prospect of being a single mother in this transaction.</p>
+<p>She thought for a while. She wasn't even sure if he really wanted a baby or this was a way to ask for sex? Or he might be asking me as a wife. Why am I not sure? How do I seek clarity. Her mind chose to play a question for a question — the best strategy to seek more when uncertainty strikes. She whispered  — what would people say? As if there were people staring at her in the middle of the river.</p>
+<p>Looking at <code>Yogi</code> she asked — how could I possibly hide such a thing from the village? She meant she wanted to be in, but how? </p>
+<p>Boat was leaving the banks of <code>Yamuna</code>- heading mid stream. The rise and fall of waters simulated in the rise and fall of her breath. She could hear herself breathing and it wasn't because she was rowing the boat alone. She could boat off this bank like a child would step into walk of her mother. The anxiety stemmed from that no one had ever asked her a sexual favor and here she had a <code>Yogi</code> asking for a child! Does he like me or is he playing with me? Or is it something else? And the fear of unknown! She had never imagined herself pregnant!</p>
+<p><code>Rishi Parāśara</code> had a sigh of relief. First he didn't get a plain ‘no’, or was asked to leave the boat. After all, his reputation was at stake. And second, he too wanted it a furtive union. Not only was he not ready for a wife, he knew <code>Matsyagandha</code> must go on, for she had a larger role to play in her later life. </p>
+<p>And he had a plan — I know a nice cavern hidden in the island. We may stay there. I will be around you entire pregnancy and will have no dearth of food or shelter. After couple days, I will have a pigeon sent to the village head that you took on a journey downstream with me, as a sailor. And that we were gone to get lifesaving herbs from the East where <code>Yamuna</code> meets the most pious river <code>Ganga</code>.</p>
+<p><em><strong>Let me add a bit on the geography of the place before we move forward :-</strong></em></p>
+<p>Rivers <code>Ganga</code> and <code>Yamuna</code> run parallel through the fertile plains of North India. They formed the boundaries of the powerful kingdom established (long back) by King <code>Kuru</code> . Shown as Kuru (West) and Kuru (East) in the map below.  He built a grand capital in <code>Hastinapur</code>on the banks of <code>Yamuna</code> — nowadays known as Delhi, the capital of India. <code>Hastinapur</code> was around hundred miles upstream from the abode of <code>Maharishi</code>. </p>
+<p><img src="kuruKingdom.jpg" alt="" /></p>
+<p><code>Kuru's</code> grandson King <code>Shantanu</code> currently ruled the place. <code>Maharishi</code> could have approached the king for help with herbs but they grew beyond his borders deep into kingdom of <code>Magadha</code> with capital in <code>Patliputra</code>. </p>
+<p><code>Hastinapur</code> and <code>Patliputra</code> had ups and downs in the political relations. Thus, the (imaginary) trip had to be clandestine. Technically, <code>Rishies</code> were free to travel across state boundaries and <code>Maharishi</code> was not even a native of <code>Kuru-kingdom</code> because his <code>Ashrama</code> was on the western bank of <code>Yamuna</code> — a vast land infested with many <code>Asura</code> lords. After his early days of warring with <code>Asuras</code> in this area, <code>Maharishi Parāśara</code> helped <code>Ugrasen</code> take the reins of a new small kingdom named <code>Sur Sena</code> (Good people's army).  Thanks to the &quot;fire-traps&quot; of <code>Maharishi</code>, most of the rebellions either left the place or were living a subdued life under cover.</p>
+<p><code>Maharishi</code> decided to continue stay in his grand father's (Maharishi Vasishta's) <code>Ashrama</code>, on the bank of <code>Yamuna</code> in the capital of <code>Sur Sena</code> — a city (now) known as <code>Mathura</code> — a mile upstream from (now) famous <code>Vishram Ghat</code> of <code>Mathura</code>. The village where <code>Matsya</code> stayed, was run by an erstwhile <code>Asura</code> lord — <code>Dashraaj</code>. He was defeated by <code>Maharishi</code> but got his life back after he promised to live a conformal lifestyle. That he did, but inside, he wanted to be important. His ambitions, still played young even though old age caught up on him. On the surface, he served the <code>Ashram</code> and stayed in close with the ideology of <code>Maharishi</code>.</p>
+<blockquote>
+<p>The <a href="https://commons.wikimedia.org/wiki/File:EpicIndia.jpg">map</a> above (published under creative commons license at wikimedia), shows the locations of Kingdoms mentioned in the Indian epics. Focus is on <code>Mahabharata</code>.  Due credits to the publisher as per license.</p>
+<p>Names in Yellow were the main kingdoms. The river names are shown in blue, the mountains in purple and forests in green. You may need to enlarge the map to appreciate the extensive spread of populations, and complexity of the political landscape.</p>
+<p><code>Asuras</code> had their own kingdom run by <code>Vrishaparvan</code> — an <code>Asura</code> royal sage, though <code>Asuras</code> were spread beyond their indicated location. It is important to understand the difference between <code>Asuras</code> and <code>Rakshasas</code>. <code>Raskshsas</code> were the tribal population of &quot;bigger built&quot; who obviously wanted to continue with status quo because of advantage of their muscle power over animals and civilized humans. On the other hand <code>Asuras</code> were the educated humans who just didn't subscribe to <code>Vaidik</code> way of life. Many <code>Asura</code> lords naturally developed close ties with <code>Rakshas</code> as they had a common enemy in civilized world but this is not to say that all <code>Asuras</code> or <code>Rakshsas</code> were inherently against scriptures and the ones who believed in scriptures. In fact the palace of <code>Pandavas</code> - grand sons of <code>Dwaipayana</code> was built by a <code>Rakshsa</code> architect. <code>Asuras</code> were neither against scientific discovery. They had their own weapon systems and they too worked hard to invoke celestial powers.</p>
+<p>I have highlighted the <code>Kuru</code> territory and the location of <code>Maharishi Parāśara</code> abode (in <code>Sur-Sena</code>). The western boundary of <code>Kuru</code> kingdom was river <code>Yamuna</code> and eastern side was bound by river <code>Ganga</code>. Both major water ways for transport and source of irrigation in prosperous <code>Kuru</code> empire. </p>
+</blockquote>
+<p>An advantage of staying in <code>Sur-Sena</code> was no <code>Kuru</code> kingdom laws applied to the <code>Ashrama</code>. <code>Maharishi</code> was free to run his experiments and live the way he wanted. Prime among them was to optimize tools for writing such that common sages could easily scribe their work. When it came to writing, fear of retribution wasn't as big as as fear of becoming a laughing stock. Writing thus far was done on cotton clothes. Cotton was too expensive because the writing was more like big posters — a page, standing six feet tall. It was more like replicating the carvings in old caves. It usually cost one Gold coin to create hundred human size posters. Only possible for ultra rich or for the kings. He wanted to see if he could grow some new plant that served as the main material for a paper like experience. His goal was an order of magnitude reduction in size as well as the cost. If he could bring down the cost to a silver coin, many more books would enter publishing domain and many new players. These experiments led him into agriculture and hence his book <code>Krishi Parāśara</code> exploring new crops. Finally, he figured cotton could be mixed with wood to create a new medium that would be known as paper in due course but we are getting ahead of ourselves. Between the cotton posters and real paper, one more step was destined - the palm leaves, that <code>Maharishi</code> saw on the island after his <code>Samadhi</code>. All this was to fulfill his grand father's vision to scribe the scriptures. He knew he had covered much ground but there were many more miles to go.</p>
+<p>Staying off the main-land (<code>Kuru Kingdom</code>) also ensured only real seekers had the courage to reach him. Thus, less time spent on social and political disputations. And most probably, he had a fascination for the virgin island and the deep cave system that led to this cavern he was talking about. He believed that the path forward must emanate from the middle of two opposites of good and evil, and one need to dive deeper into the caves of soul to seek the ever illusive peace.</p>
+<p>Back to our story !</p>
+<p><code>Matsyagandha</code> thought for a while and finally nodded her consent. Her eyes hollow. She was still not sure it was happening to her but the plan seemed workable. <code>Maharishi</code> looked at her and he figured she wanted something else. He stood up and asked — Do you want something else <code>Matsya</code>? — His voice full of gratitude.</p>
+<p>What will happen to me after ? I will need to feed the new born at least for a year!  But what after that? — asked <code>Matsyagandha</code>.</p>
+<p><code>Maharishi Parāśara</code> thought for a while. He wanted to make sure he found the right words as much as he wanted to say the truth. He said — after two years, once child is ready to go with me, you may, if you wish to, return to the village.</p>
+<p><code>Matsya's</code> face turned red. Her body shaking and her words broken — this village hates me. If older women figured out I lost my virginity, they would despise me even more!</p>
+<p>As it is, <code>Matsya</code> was living a hell. This would only add more to the antipathy she already received. They would most likely name her a whore and burn her alive as a culprit of prostitution — a recognized sin in <code>Kuru-land</code>. Stories of such incidents were rampant though no such incident had yet happened in her village. If they were kind, they would most likely hand her over to some <code>Asura</code> lord where she had be enslaved for life, and possibly gang raped daily. That was considered a fair punishment for the sinful hookers!</p>
+<p>No one would recognize you <code>Matsya</code>! — <code>Maharishi</code> said with conviction that was hard to ignore — I would bless you into the most beautiful woman ever lived. You will smell of Sandal all day and all night. People will call you <code>Yojangandha</code> for your musky fragrance shall surround a distance. (The literal meaning of <code>Yojan</code> being a mile and <code>Gandha</code> means fragrance.) Fares would line up to take your boat. And one among them might take you as a wife, having fallen madly in love with you. And thereafter, you would rule the world!</p>
+<p><code>Matsya</code> couldn't believe her ears. The prospect of smelling good and the idea that the village that hated her bowed to her beauty, set butterflies in her. She was not sure if it was the prospect of revenge, or expectation of success, but the proposal now seemed like a true blessing. She folded both her hands and kneeled. And then she looked up straight into deep eyes of <code>Maharishi</code>. Her eyes said <code>Yes</code>. <code>Maharishi</code> met her gaze. He wanted to be sure — you need to say a 'Yes' <code>Matsya</code>. </p>
+<p>As he reconfirmed the acceptance, he touched the thumb of his right hand between her eyes and with left hand he pulled out his wand, lowered it into the waters of holy <code>Yamuna</code> and threw few droplets on her face. She felt her head spinning and she lost her consciousness. </p>
+<p>The place between the eyes, right above the nose is called <code>Aajna Chakra</code>. This is where a <code>Yogi Guru</code> may touch with his thumb to associate you with his &quot;knowledge&quot;. Once the pathway is opened, there is no going back. You are now one with your <code>Guru</code>. In <code>Hindu</code> tradition, this is why a <code>tilak</code> is placed here, particularly if you participate in a ritual. <code>Matsya</code> was now part of a <code>Maha Yazna</code>. She would take <code>Maharishi's</code> vision for grounding in reality!</p>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="mathuraChap07.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="mathuraChap09.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="mathuraChap07.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="mathuraChap09.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

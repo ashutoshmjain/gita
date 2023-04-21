@@ -1,0 +1,426 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://www.w3counter.com/">
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <script src="https://www.w3counter.com/tracker.js?id=135172"></script>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="how.html">Readme</a></li><li class="chapter-item expanded "><a href="prologue.html" class="active">Invocation</a></li><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Proposal</a></li><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Return</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Rivers</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Desire</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Meeting</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Truth</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li><li class="chapter-item expanded "><a href="mathuraChap16.html">Pledge</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="0.0_about.html">About</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Invocation';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                            </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>In <code>Sanskrit</code>, &quot;Invocation&quot; means <code>Aavahan</code>. It is a ritualized act of instantiating superior powers within oneself through intense meditation and self-sacrifice. In Hindu tradition, deities are invoked before uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, <code>Rama</code> invoked <code>Siva</code> before crossing the sea.</p>
+<p>Scribing <code>Mahabharata</code> was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. It included adapting the language model from &quot;primarily spoken&quot; to &quot;primarily written&quot;; extension of calligraphic symbols to capture the true essence of spoken word; writing tools such as palm leaves, ink, and pen. But more importantly, it needed &quot;patience&quot; to write (and read) long meaningful text. In a way, the idea of &quot;transcription&quot;  was to <code>Mahabharata</code>, the way &quot;C&quot; - the computer programming language, was purpose built for Unix, Or block-chain technology was white-papered specifically for the Bitcoin. <sup class="footnote-reference"><a href="#c">1</a></sup></p>
+<p>The legend says, <code>Dwaipayana</code> invoked <code>Bramha</code> - the all pervading supreme knowledge, to accomplish this pursuit.</p>
+<h1 id="aavahan"><a class="header" href="#aavahan"><code>Aavahan</code></a></h1>
+<p><code>Krishna Dwaipayana</code>was destined to compile thousands of sacred insights from sages (<code>Rishies</code>) - old and new. He crystallized, then existing wisdom into four foundational volumes — the <code>Vedas</code>. For this legendary work, he was conferred the most coveted title in literature — <code>Ved Vyasa</code> (the chief editor of Vedas). </p>
+<p>This work, in itself, was virtuous enough to dedicate many lives; though <code>Dwaipayana</code> was just getting started! His purpose was to welcome <code>Poorna Avtaara</code> — the full-incarnation <sup class="footnote-reference"><a href="#8th">2</a></sup> of <code>Vishnu</code>, understand the wisdom 'as is', and preserve it for ever in every human mind through one of the most potent narrative ever told - <code>Bhagvat Gita</code>. As a complimentary gift, to ensure this knowledge was never lost, he ushered the humanity from &quot;spoken&quot; to the &quot;written&quot; word. The immensity of his purpose, rightfully so, made him one of the immortal-eights <sup class="footnote-reference"><a href="#immortals">3</a></sup> in Hindu tradition.</p>
+<p><code>Dwaipayana's</code> literary work was no accident. He came from a lineage of scholarly sages. His father <code>Maharishi Parāśara</code> spoke titles such as </p>
+<ul>
+<li><code>Brihat Parāśara Hora</code> — foundational work on Astrology; </li>
+<li><code>Krishi Parāśara</code> — Agriculture;</li>
+<li><code>Vrkayurveda</code> — Botany, and </li>
+<li><code>Vishnu Purana</code><sup class="footnote-reference"><a href="#vishnu">4</a></sup> — Stories of universal manifestative potency.</li>
+</ul>
+<p>His grand father <code>Sakti Muni</code>, was the first to understand <code>Karmyoga</code> . And his great grand father <code>Vaśiṣṭha</code> was titled <code>Bramhrishi</code> (The first guardian of eternal knowledge). <code>Dwaipayana's</code> lineage predetermined his destiny — as if someone planned a multi-generational mission to decipher and record &quot;true&quot; knowledge.</p>
+<p>In a way, it was a quantum jump in evolution of consciousness, at least from the humans' standpoint. The primary difference between humans and other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store, and distribute knowledge through external means. </p>
+<p>This external storage leads to the notion of a &quot;civilization&quot;. A civilization surrounds itself around a core rational knowledge-base. It develops physical and spiritual tools that enhance the life experience of it's participants. Enhanced life experience is nothing but evolution of conciousness. Not only does it improve the longevity, it also adds to  what we may explore per unit of time. By this definition, humans have much greater conscious experience compared to other species.</p>
+<p>The first Indus valley civilization was built around  <code>Vaidik</code> science, Greco-Romans were founded around work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application(s) of modern science, and now America is broadly reaping around the digital wealth of knowledge.</p>
+<h2 id="01"><a class="header" href="#01">0.1</a></h2>
+<hr />
+<p>The external store of knowledge drives human world. Thanks to the work of <code>Dwaipayana</code>, we have pristine tools for storing the knowledge - text. Even in digital realm, most of the meaningful content is text. </p>
+<p>The storage was first realized with the &quot;spoken word&quot;. Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. <code>Bramhrishi Vaśiṣṭha</code> - great grand father of <code>Dwaipayana</code>, understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital (<code>Shruti</code><sup class="footnote-reference"><a href="#shruti">5</a></sup>), was the basis of first civilization.</p>
+<p>With &quot;written word&quot; storage capacity got a boost. It is estimated that there are over 130 million books in existence as of 2021. Library of Alexandria, built by Ptolemy in early days of the written word ( around 3rd century bc) had anywhere between seventy to seven hundred thousand &quot;Papyrus&quot; rolls. A conversion into a modern textbook size should end up to say a hundred thousand books - a lot, given they were all hand written and carefully transported to Alexandria for safe keeping and reference.</p>
+<p>And finally, we added next boost to this storage with the digital medium. Internet is still in its infancy, somewhat like Library of Alexandria was to the &quot;Papyrus&quot; world. As of 2021, there are over 1.83 billion websites on the internet. The amount of data stored on the internet is estimated to be in the zettabyte range (1 zettabyte is equivalent to a billion terabytes). Which means, it is already close to  a BILLION libraries of Alexandria. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage ( a normal laptop these days), may accommodate 200,000 books. You and me carry a library of Alexandria in our backpacks !</p>
+<p>The comparison above is certainly not 'apple to apple' because data on internet contains machine logs, code, graphics and hundreds of other formats but the point really is to show case that in roughly 2500 years, our external storage grew almost a billion times. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human can read all the books in print much less the content stored on the internet. The reason we are forced to develop tools such as &quot;search&quot; and &quot;artificial intelligence&quot; is to harvest this external store of knowledge <sup class="footnote-reference"><a href="#whySearch">6</a></sup>.</p>
+<p>Storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets such as earth is the very source of life. Storage of &quot;knowledge&quot; is the essence of consciousness itself, though knowledge is extremely hard to store. It is a long iterative process of decrypting eternal wisdom, one word at a time. Vast external store of knowledge leads to creation of new universes. <sup class="footnote-reference"><a href="#kalki">7</a></sup>.</p>
+<h2 id="02"><a class="header" href="#02">0.2</a></h2>
+<hr />
+<p>Not only did <code>Dwaipayana</code> edit four Vedas, he compiled eighteen <code>Puranas</code> and also wrote the master piece <code>Jaya</code> (victory)- a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph.<code>Jaya</code> was later expanded into a mega-epic, <a href="https://mahabharata.shutri.com">Mahabharata</a>. With around 1.8 million words,<code>Mahabharata</code>, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry is such that it inspired<code>Kalidasa</code>, the Shakespeare of Sanskrit.<code>Abhijnana Shakuntalam</code>, the marquee work of<code>Kalidasa</code>  is a rewrite of the plot first conceived by<code>Dwaipayana</code>.</p>
+<p>In addition to the poetic excellence,<code>Mahabharata</code> defined a new way of life - action orientation (<code>Karm Yoga</code>). The epic forms, the cultural basis of India - one of the oldest civilization. It holds within it, center-folded, the gist of four Vedas - <code>Bhagvat Gita</code> - the first written source of the idea of <code>Karma</code>.</p>
+<p>The question is, how did <code>Dwaipayana</code> manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar <sup class="footnote-reference"><a href="#panini">8</a></sup> was not even formalized yet. And of-course there was no computer. Not even a type-writer!</p>
+<p><em><strong>The legend says,<code> Dwaipayana</code> invoked <code>Bramh</code>to seek scribing assistance</strong></em>. <code>Bramha</code>, in his infinite wisdom, pointed  him to <code>Siva's</code><sup class="footnote-reference"><a href="#siva">9</a></sup> son <code>Ganesa</code><sup class="footnote-reference"><a href="#ganesa">10</a></sup> (the elephant God). <code>Adi Parva</code> the first book of <code>Mahabharata</code> describes this story in all it's poetic glory. Translated by <code>Kisari Mohan Ganguly</code> , here is an excerpt -</p>
+<blockquote>
+<p>&quot;O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; </p>
+<ul>
+<li>
+<p>the various rituals of the Upanishadas with the Angas; </p>
+</li>
+<li>
+<p>the compilation of the Puranas and history formed by me and named after the three divisions of time, past, present, and future; </p>
+</li>
+<li>
+<p>the determination of the nature of decay, fear, disease, existence, and non-existence, a description of creeds and of the various modes of life; </p>
+</li>
+<li>
+<p>rule for the four castes, and the import of all the Puranas; </p>
+</li>
+<li>
+<p>an account of asceticism and of the duties of a religious student; </p>
+</li>
+<li>
+<p>the dimensions of the sun and moon, the planets, constellations, and stars, together with the duration of the four ages; </p>
+</li>
+<li>
+<p>the Rik, Sama and Yajur Vedas; </p>
+</li>
+<li>
+<p>also the Adhyatma; </p>
+</li>
+<li>
+<p>the sciences called Nyaya, Orthoephy and Treatment of diseases; </p>
+</li>
+<li>
+<p>charity and Pasupatadharma; </p>
+</li>
+<li>
+<p>birth celestial and human, for particular purposes; </p>
+</li>
+<li>
+<p>also a description of places of pilgrimage and other holy places of rivers, mountains, forests, the ocean, of heavenly cities and the kalpas; </p>
+</li>
+<li>
+<p>the art of war; </p>
+</li>
+<li>
+<p>the different kinds of nations and languages: </p>
+</li>
+<li>
+<p>the nature of the manners of the people; </p>
+</li>
+<li>
+<p>and the all-pervading spirit;</p>
+</li>
+</ul>
+<p>all these have been represented. <strong>But, after all, no writer of this work is to be found on earth.</strong></p>
+<p>&quot;Brahma said. </p>
+<p>'I esteem thee for thy knowledge of divine mysteries, before the whole body of celebrated Munis distinguished for the sanctity of their lives. </p>
+<p>I know thou hast revealed the divine word, even from its first utterance, in the language of truth. </p>
+<p>Thou hast called thy present work a poem, wherefore it shall be a poem. </p>
+<p>There shall be no poets whose works may equal the descriptions of this poem, </p>
+<p><strong>Let Ganesa be thought of, O Muni, for the purpose of writing the poem.</strong></p>
+</blockquote>
+<p>Having approached by <code>Dwaipayana</code>,<code>Ganesa</code>- the embodiment of ‘intelligence’, said he wanted to help, but I would stop writing if there was a pause, even for a moment.<code>Ganesa</code>probably deemed there was no time to waste, given the immensity of the transcription.<code>Dwaipayana</code>agreed, but he (tactfully) added, <code>Ganesa</code> must scribe a verse only after full appreciation of the meaning ! <sup class="footnote-reference"><a href="#humanMind">11</a></sup></p>
+<blockquote>
+<p>&quot;Ganesa, upon hearing this address, thus answered, </p>
+<p>'I will become the writer of thy work, provided my pen do not for a moment cease writing.&quot; </p>
+<p>And Vyasa said unto that divinity, </p>
+<p>'Wherever there be anything thou dost not comprehend, cease to continue writing.' </p>
+<p>Ganesa having signified his assent, by repeating the word Om! proceeded to write; </p>
+<p>and Vyasa began; </p>
+<p>and by way of diversion, he knit the knots of composition exceeding close; </p>
+<p>by doing which, he dictated this work according to his engagement.</p>
+</blockquote>
+<p>All scriptures before <code>Mahabharata</code> were spoken words passed on from one generation to the next through rigorous  &quot;recital&quot;. Having given a detailed account of it's transcription in the very first book, <code>Dwaipayana</code> left a proof that the mega-epic was actually &quot;written down&quot;.</p>
+<p>This was, thus, the tipping point, when humanity embraced a new medium for storing the knowledge at scale — text - our transition from a purely spoken to mostly written word.</p>
+<h2 id="03"><a class="header" href="#03">0.3</a></h2>
+<hr />
+<p><code>Mathura</code> was the geographic center of <code>Bharata</code> — old India. It was also the center of mass adoption of the <code>written-word</code>. <code>Mahabharta</code> was scribed in eighteen <code>Parvas</code> (books). Even if it wasn't a divine &quot;intervention&quot;, scribing such an immense scripture at that time, was no less than a divine grace. </p>
+<p>‘Text’ was the new medium. It was somewhat similar to our migration from analog to digital. Not only did it demand new writing skills, it also meant the populations must learn reading, beyond a select class of sages and super sages. New tools such as Pen, Ink, Palm leaves or Papyrus scrolls were invented; just the way we needed mass adoption of computers in early nineties, to kick start the digital shift. Superior intelligence <code>Ganesa</code> was invoked to usher the humanity into this new era, just the way we are using natural language processing in current digital realm. </p>
+<p>An argument could be made that ‘texting revolution’ was a bigger leap forward than the digital shift, simply because the focus was on comprehensibility. The written word was curated like the &quot;programmable code&quot; for human brain, such that the message stayed in the memory once read. Which meant iterative rigor to precipitate the words into immaculate verses. The legend says <code>Mahabharata</code> got to it's current state in over six hundred years. It was like the Wikipedia of that time except it was also poetry of extraordinary caliber. Every king, every invention of value, must find it's place in <code>Mahabharata</code>, but in a fashion that was readable and succinct. The superfluous vastness of current (digital) knowledge store, on the other hand, necessitates that a new conscious form must replace humans. Or humans amalgamate with AI tools. Good or bad ? - only time shall tell!</p>
+<p>Any major paradigm shift, necessitates an order of magnitude improvement. There was an all around effort to reduce the cost while increasing the utility. It wasn't that no one knew scribing before, but the written word was pegged to the cave walls. Like murals or wall carvings, text was written on human size posters. Instead of chiseling, they used colors to paint the messages. Paintings and books were of the same measure and medium. An artist could afford to spend an year on a painting, but spending that much effort on a single page of a scripture was hell of an effort. Even if someone willing to put in the effort, the language model and calligraphy wasn't mature enough to capture the essence of the spoken words.</p>
+<p>In an estimate, a hundred page book, printed on human size frame back then, used to cost a gold <sup class="footnote-reference"><a href="#gold">12</a></sup> coin. The goal was to bring the cost down to a silver coin. And bring the size down to a tenth of the human size. An order of magnitude reduction in the size and cost, paved the way for large scale adoption of written words. Does it sound like our journey from mainframes to the smartphone?</p>
+<p>What motivations led to this major step-up in our approach to preservation of knowledge? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth before putting into text? </p>
+<p>Following pages are a filtered version of my research investigating that revolution. And not surprisingly, it makes a fascinating story! And also a reflection on why humans keep changing the medium in pursuit to climb the ladder of consciousness! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of a &quot;paradigm shift&quot; is more or less similar. There is a lot to learn!</p>
+<p>For example, as we are moving to increasingly virtual world, we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on six feet tall posters as our forefathers did when they first tried to democratize knowledge - a mistake, because the containers of knowledge must evolve into a new shape with each evolutionary cycle.  Do we need another way to organize content in the digital world? Is that new format neural networks that feast on all the text scribed thus far? Is the mechanism to organize knowledge cultivation hidden in distributed social content?  Or we still need to find a new home for the knowledge on block-chains and hash-graphs that is an order of magnitude more efficient than the written media! Knowledge cultivation is just one part, how are we going to compensate the artistic expression where AI generates content on demand? How is it going to alter our universe into a much richer tapestry of metaverse?  And more broadly, is the question we need to ask is moral 'wrong verses right' or is it about the 'efficiency and productivity'? As we go through the back-story of creation of <code>Mahabharata</code>, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.</p>
+<p>Let me rewind you to around seven-ish thousands years back. It is about the time <code>Dwaipayana's</code> father was to be born at <code>Mathura</code> — a major pilgrim destination now; the foremost seat of learning back then ... and a major mishap occurred — something never heard before — and something that triggered the <strong>writing revolution.</strong></p>
+<h2 id="research-and-notes"><a class="header" href="#research-and-notes">Research and notes:</a></h2>
+<hr />
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">1</sup>
+<p>Human languages, Programming languages and Block-chains</p>
+<ul>
+<li>It might feel like a flight of extreme imagination to compare the text written on palm leaves with modern programming language ; but there are few similarities if we peal the top layer. The written language is for communication between humans while a programming language takes the communication to next level - From humans to the machines. </li>
+<li>Language(s) are for communication. Communication needs order - history. Maintaining the history of communication for humans is easy but it is quite hard for the computers because time-stamps are easy to temper. Block-chains are thus distributed , easily verifiable blocks of text for computers to ascertain the true sequence of messages. This obviously have application in financial transactions where humans may not be trust worthy. Thus blockchain's first usecase is currency but that is just the beginning. Blackchains will enable trusted inter-computer communication in coming times.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="8th"><sup class="footnote-definition-label">2</sup>
+<p><code>Poorna-avtaara</code> - The eighth incarnation</p>
+<ul>
+<li>In <code>Vaidik</code> framework, <code>Vishnu</code> is the manifestative potency of supreme knowledge. It manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attain full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation <code>Krsna</code> is the only full embodiment of supreme knowledge. </li>
+<li><code>Krsna</code> is also called <code>Krishna</code> in north India in which case his name is same as the author of <code>Mahabharata</code> — <code>Krishna Dwaipaiyana</code>. Was it a sweet coincidence or is there something more to it?</li>
+<li>Ninth incarnation (<code>Buddha</code>) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (<code>Kalki</code>)</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="immortals"><sup class="footnote-definition-label">3</sup>
+<p>Immortal Eight</p>
+<ul>
+<li>In Hindu scriptures, there are frequent mentions of eight <code>Chiranjeevies</code>. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="vishnu"><sup class="footnote-definition-label">4</sup>
+<p><code>Vishnu Purana</code>..</p>
+<ul>
+<li>Spoken by <code>Maharishi Parasara</code>, <code>Vishnu Purana</code> (the gem of <code>Puranas</code>) was later scribed into text by his son <code>Krishna Dwaipayana</code>. <code>Purana</code> means the ancient stories. <code>Vishnu Purana</code> is thus ancient stories of <code>Vishnu</code> - One of the three primal forces of existence. In <code>Vaidik</code> framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as <code>Vishnu</code>. Each of the manifested being has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, <code>Vishnu</code> is the collection of templates of creation. In his idol image, <code>Vishnu</code> is normally shown to bear the universal continuum <code>Chakra</code> on his finger. The incarnations of <code>Vishnu</code>, lead the life to higher state of consciousness. For example first incarnation of <code>Vishnu</code>, <code>Matsya Avtara</code> a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was <code>Kurma</code> a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of <code>Vishnu</code> are called <code>Dashavataras</code> . They are compared to evolution; <code>Kurma</code> - the amphibian - is regarded the next stage after <code>Matysa</code>, the fish. Here is the detailed <a href="https://en.wikipedia.org/wiki/Dashavatara">evolutionary interpretation</a>. </li>
+<li>The other two primal forces (potencies of knowledge are <code>Bramha</code> and <code>Siva</code>. It is important to mention that while all three have their respective representations (in idols) in the human form, only <code>Vishnu</code> may physically incarnate in living form. Obviously, because <code>Vishnu</code> is the science of manifestation. It must present reference examples. <code>Bramh</code> and <code>Siva</code> never incarnate in the physical world.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="shruti"><sup class="footnote-definition-label">5</sup>
+<p><code>Shruti</code> meant the spoken word when the humans used to sustain knowledge, only in the vocal format. Maybe because scribing was difficult. With the advent of writing tools, many <code>Shruties</code> were scribed. In essence the scriptures were born out of <code>Shruties</code>. The words that got written down, entered the collective memory of humanity.  Such written down early scriptures were called <code>Smrities</code>. For example <code>Manu Smriti</code> is among the oldest written down scripture, trans-encoded from <code>Shruti</code> to <code>Smriti</code>. The Sanskrit word <code>Shruti</code> got deformed into <code>Shutri</code> in Hindi with passage of time. It is important to bear in mind that every thing that we talk (chatter) is NOT <code>Shruti</code>. <code>Shruties</code> were consciously identified pieces of wisdom, preserved through formal recital to enable passage of knowledge from one generation to the next.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="whySearch"><sup class="footnote-definition-label">6</sup>
+<p>Though our external storage grew a lot, argument can be made that most of this storage is inaccessible to humans. A small portion that is accessible, is usable because rest of it is either junk or not in human readable shape. Thus the benefit to humans is limited unless tools are developed to harness this vast knowledge base. This is one reason web &quot;search&quot; is by far the most used application of computing technologies. We humans want to reach as much knowledge possible to understand who we are. Even search didn't solve all the problems because every search generates millions of results. And the way to prioritize search results are simple page ranking algorithms. Add to that the commercial aspects of selling keywords to grab your attention. That is the reason we need tools like chatGPT to give us exact answers without bothering me with millions of search results. These tools will keep on improving till we get our own full reflection through artificial intelligence. And then they will be automated so that we don't even need to ask the question - answer is already there. At this stage, the external source of knowledge becomes evolutionary knowledge. For example, We don't even need to ask how to breathe or how to digest the food. The conversion of external knowledge to evolutionary knowledge is a slow process and this leads to new manifestations of higher conciousness.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="kalki"><sup class="footnote-definition-label">7</sup>
+<p>A universe is defined by a set of physical rules. The external storage of knowledge bends the rules of physical universe. For example sound waves, in our physical universe travel only in a medium (air or water) but with advancement in science, we have converted sound signals into electromagnetic waves - our cellular phones, and thus they have no limitation of distance or the medium. We can fly in metaverse - we need not self impose the limitations of gravity on our avatars in virtual worlds. In a way we have already created a layer over physical rules of the current universe. </p>
+<ul>
+<li>Arguments can be made that if someone lived of our current external knowledge, without ever using their own brains, they will be a far superior species than humans because we can code artificial intelligence to not fight for survival and we have an option to create vastly altruistic world. </li>
+<li>Even in our universe, automation may lead to such huge productivity gains that humans may defy the core principles of evolution - survival of the fittest. In many ways we are already doing that.</li>
+<li>With current set of existing technologies, the next stage of evolution is already on our doorsteps. As per <code>Vaidik</code> framework, every tenth incarnation of <code>Vishnu</code> , leads the way to the next physical universe. The tenth incarnation is named <code>Kalki</code> which literally means automation. </li>
+<li>It is of general acceptance in Hindu tradition that the universe gets destroyed after the fourth age - <code>Kaliyuga</code> - age of machines. This is initiated by tenth incarnation of <code>Vishnu</code> - <code>Kalki</code>. This belief, however, contradicts the scriptures that state  <code>Vishnu</code> has many more incarnations after <code>Kalki</code>. In places, as many as thirty incarnations of <code>Vishnu</code> are listed. This probably means that tenth incarnation would evolve humans into beings of much superior conscious experience. This interpretation appear more palpable with the current state of scientific discovery in fields such as artificial intelligence, genomics, robotics, particle physics and general direction of computing into distributed trust-less systems such as block-chain networks.</li>
+<li>Nothing gets destroyed . There is nothing to feel sad about it -  our current physical universe stays as is, just the consciousness moves to a set of new physical rules. </li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="panini"><sup class="footnote-definition-label">8</sup>
+<p>Sanskrit Grammar</p>
+<ul>
+<li><code>Maha-Bharata</code> is believed to be before <code>Panini</code>, who first standardised the Sanskrit Grammar. <code>Panini's</code> grammar — <code>Ashtadhyayi</code> has references to <code>Maha-Bharata</code> that indicate that it was written much later.  And the flavor of Sanskrit is sure not same as that of <code>Panini</code>.  <code>Dwaipayana's</code> Sanskrit is called <code>Vaidik Sanskrit</code>.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="siva"><sup class="footnote-definition-label">9</sup>
+<p><code>Siva</code></p>
+<ul>
+<li>Siva is the highest state of consciousness. Evolution of knowledge eventually reaches a state where ‘knowledge’ is absolute. This is the state of knowledge where <code>Vishnu</code> manifests, at the same time it gets a mirror image for observation. The mirror image of manifested <code>Vishnu</code> is <code>Siva</code>. <code>Siva</code> is answer to <code>Vishnu's</code> question - who am I? This potency thus, maintains the systems to support equilibrium of <code>Bramh</code>. In other words, <code>Siva</code> governs the knowledge field. </li>
+<li><code>Siva</code> is seen as a potency of discretion that chooses to observe only one (manifested) state of <code>Vishnu</code>, it discards all other possibilities. These three protocols (<code>Bramh</code>, <code>Visnu</code> and <code>Siva</code>) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only <code>Vishnu</code> is potent enough to incarnate.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="ganesa"><sup class="footnote-definition-label">10</sup>
+<p>The Elephant God</p>
+<ul>
+<li><code>Ganesa</code> is the deity of intelligence. The legend says that <code>Ma Parvati</code> - wife of <code>Siva</code>, created a humanoid from her skin scrub. <code>Siva</code> unhappy with the limited intelligence of this humanoid (as he couldn't even contextualize that <code>Siva</code> was <code>Parvati's</code> husband), implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons verses a human brain. </li>
+<li>To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of largest neural networks of our time such as GPT3. Thus <code>Ganesa</code> has around 1000x natural(not artificial) intelligence verses the largest of our AIs! In a way superior intelligence was put to use in first mega transcription project - from spoken word to written text. It seems like a fun coincidence that we need AIs to harvest the written knowledge in digital realm.</li>
+<li>In Hindu tradition, it is considered auspicious to remember <code>Ganesa</code> at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="humanMind"><sup class="footnote-definition-label">11</sup>
+<p>Speed verses understanding</p>
+<ul>
+<li>The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example , a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. <code>Dwaipayana</code> meant that <code>Ganesa</code> being a humanoid, may be faster in word processing but he really needs to understand the meaning of the words.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="gold"><sup class="footnote-definition-label">12</sup>
+<p>Monetary system</p>
+<ul>
+<li>Barter system was still widespread for the smaller transactions. Commoners used fruits and grains to get what they needed. </li>
+<li>Rich people used copper as a store of value. A one time adult meal was normally considered one copper coin. So was a ride fare. You could hop on and hop off any boat or cart at any place along its route for one copper coin. Super rich used copper for utensils at their home. For them the valuable was silver. </li>
+<li>A silver coin was considered same as ten copper coins. One each for every single finger of two hands. Ultra rich ate their food in Silver utensils. For them store of value  was a Gold coin. </li>
+<li>A Gold coin was equal to ten Silver's. One for every finger of both the hands. </li>
+<li>The valuation was based on rough order of magnitude in mining these metals. Silver was considered ten times harder than copper, and Gold being an order of magnitude harder than Silver. In a way &quot;proof of work&quot; was baked in universally acceptable currency. </li>
+<li>All states, no matter what their political equations, honoured this simple &quot;proof of work&quot; based storage of value. Privacy , self custody and universality were the underpin of trading system. Nation states couldn't even imagine to start their own currencies ! </li>
+<li>Currency was pegged to people's trust in &quot;proof of work&quot;. Important point to note here, currency was not pegged to commodities such as iron or wheat. Gold, silver and copper were NOT treated as commodities. Gold's only purpose was ornaments , silver was used purely for minting, and copper was primarily used for making utensils for the rich. Copper was supposedly the best metal to store food and water. Eating in silver, though common for rich, was considered a show-off. </li>
+<li>This simple to understand and time tested system of power of ten, was later exploited by <code>Aryabhatta</code> to conceptualize zero and decimal system - the very basis of modern arithmetic.</li>
+</ul>
+<hr />
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="how.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="mathuraChap01.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="how.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="mathuraChap01.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

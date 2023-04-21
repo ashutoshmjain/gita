@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://www.w3counter.com/">
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <script src="https://www.w3counter.com/tracker.js?id=135172"></script>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="how.html" class="active">Readme</a></li><li class="chapter-item expanded "><a href="prologue.html">Invocation</a></li><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Proposal</a></li><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Return</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Rivers</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Desire</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Meeting</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Truth</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li><li class="chapter-item expanded "><a href="mathuraChap16.html">Pledge</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="0.0_about.html">About</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Readme';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                            </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="icons-and-navigation-"><a class="header" href="#icons-and-navigation-">Icons and navigation ..</a></h1>
+<p>As far as the features go, you can:</p>
+<ul>
+<li>toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i></li>
+<li>search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> </li>
+<li>turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> </li>
+<li>You can also navigate by using your keyboard's left and right arrows. </li>
+<li>On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.</li>
+</ul>
+<h1 id="mdbook"><a class="header" href="#mdbook">mdBook</a></h1>
+<p>This book was generated using a <code>Rust</code> program called <a href="https://github.com/rust-lang/mdBook">mdBook</a>. Well, it'll ‘technically’ be wrong to call it a &quot;Book&quot; because <code>mdBook</code> turns the written text <sup class="footnote-reference"><a href="#text">1</a></sup>into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser <sup class="footnote-reference"><a href="#browser">2</a></sup>, you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. For example </p>
+<ul>
+<li>
+<p>It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. </p>
+</li>
+<li>
+<p>At the same time, this application, keeps the essential book experience intact. Particularly on a tablet <sup class="footnote-reference"><a href="#tablet">3</a></sup>or even on a smartphone browser. It even supports the foot <sup class="footnote-reference"><a href="#foot">4</a></sup>notes :-) which I use to stick in my research and notes - kinda the ideas that led to shaping up the chapter.</p>
+</li>
+<li>
+<p>One of the best (and probably least appreciated) feature of this app is &quot;search&quot; . The search, in here provides a three level view </p>
+<p><img src="./search.png" alt="Search mdBook" /></p>
+<p>For example - if I search for <code>Siva</code>, as shown in the graphic above, it gives me the name of the book (<code>Mathura</code> in this case , than the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. Since I use a heading for even &quot;research and  notes&quot; , you can easily tell if your search term is in the main chapter or if it is buried deep into the foot notes ! When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. </p>
+<p>There are few limitations though - Search index is being served to you over the internet (there is no central server), thus search index can't be too big. Which means if the book is too big , search gets painfully sluggish. That is the reason , I am publishing the third section of this online resource <code>Maha-Bharata</code> as a <a href="https://mahabharata.shutri.com">separate</a> mdBook. </p>
+<p>The other limitation is, as of now search supports only English. Probably I haven't dug deeper into the features of this app! To circumvent this limitation, I am abstaining from using any other language — even the <code>Sanskrit</code> verses are purposefully not typed in <code>Devnagri</code>.</p>
+<p>Despite these limitations, I think search is by far the most useful feature, particularly for a narrative that tries to build a complex message interwoven across many chapters. I highly encourage the reader to use search if they are looking for any specific thing. It can even take you to the text you were last reading if you remember a line or few words — that is the best that technology could do without having the user to &quot;register&quot; for reading and keeping a track of your reading habits. </p>
+</li>
+<li>
+<p>Last , but not the least ; <strong>the privacy</strong> :  the application doesn't use any &quot;cookies or trackers&quot; whatsoever. Which means no one is really watching what you are reading. A word of caution - your browser may still be tracking you ! If you care, I highly recommend using <code>Safari</code> on a Mac and block all the cookies. Press  &lt;&lt;command + Comma&gt;&gt;  in Safari and block the cookies , as shown below on <code>Privacy</code> tab </p>
+<p><img src="./privacy.png" alt="privacy" /></p>
+<p>.. btw , if you did that , you won't be able to load most of the websites (eg facebook or Instagram)  because ..well you know why ! :-)</p>
+</li>
+</ul>
+<h1 id="about-this-book-grr---online-resource"><a class="header" href="#about-this-book-grr---online-resource">About this book [grr - online resource]</a></h1>
+<p>As you will see when you toggle the chapters, this web app has two main sections :</p>
+<ul>
+<li>
+<p>The first section — <code>Mathura</code> is a historical narrative that discovers the &quot;writing revolution&quot; when humans adopted “written word” as primary medium for preserving knowledge. I believe this revolution took place around seven thousand years ago when <code>Krishna Dvaipayana</code> scribed <code>Maha-Bharata</code>. Study of this first major shift in human cognition — from spoken to written word — makes a fascinating quest narrative. And at the same time, it might resolve the dilemmas we face as we are moving from analog to increasingly digital realm. </p>
+</li>
+<li>
+<p>I also believe that the knowledge that <code>Dvaipayana</code> (also known as <code>Ved Vyasa</code>) wanted to communicate was summarized in <code>Bhagvad Gita</code>. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the <code>Maha-bharata</code> is still as interesting a read as the day it was written. Thus the <strong>second section</strong> of this online resource provides original translation of <code>Bhagvad Gita</code>, followed by my essays discovering core concepts of Gita — this vantage of a technical writer. This ‘point of view’ may be useful to &quot;tech-savvy&quot; readers who desire to see <code>Gita</code> in prevailing rationale of popular science.</p>
+</li>
+<li>
+<p>The third section <code>Maha-Bharata</code> is the original translation of the entire epic, done by <code>Kisari Mohan Ganguly</code>, at the beginning of last century. I highly recommend reading his <a href="http://mahabharata.shutri.com/">preface</a> to review the guiding motivations of translation work — an immense task without the luxury of modern computing tools. </p>
+<p>As said above, <code>Mahabharata</code> is too big to provide effective &quot;mdBook search&quot; feature.. My goal is to reformat this work in web-app format for obvious comfort of consumption on smart devices and search - it is a work in progress. <code>Maha-bharata</code> and this translation is in public domain, thankfully received from <a href="https://www.sacred-texts.com/">sacred-texts</a>. The benefit of reading it at <a href="https://mahabharata.shutri.com">mahabharata.shutri.com</a> is obvious comfort of this presentation format (except for the sluggish search :-)</p>
+</li>
+</ul>
+<p>The collective name of this entire work, is <code>arjunUvaach</code>! You may call it the name of this web-app, rendered to you at https:/gita.shutri.com . </p>
+<h1 id="licence-stuff"><a class="header" href="#licence-stuff">Licence stuff</a></h1>
+<p>All the content in this website is under creatives common v1.0. Which means everything is under public domain. The net of this license is as below
+<img src="./license.png" alt="license" /></p>
+<p>For more details please refer to details of <a href="https://github.com/ashutoshmjain/gita/blob/main/LICENSE">license</a> at github repository for this work.</p>
+<p>Since <code>Mahabharata's</code> and it's translation by <code>Kisari Mohan Ganguli</code> is also in public domain , thus using any of this work should technically follow the same rules. </p>
+<h1 id="style"><a class="header" href="#style">Style</a></h1>
+<ul>
+<li>I normally use maroon color for  <code>Hindi</code> or <code>Sanskrit</code>.  This style rule may not apply in the verses because there are just too many, and they are quite obvious.</li>
+<li>Hyperlinks are in &quot;blue&quot; color. The hyperlinks are used only where I want the reader to investigate some content. Otherwise adding hyperlinks is pretty useless because you can literally select any word, right click and google search.</li>
+<li>English being my second language, my vocabulary is limited. Even with-in my limited repertoire, I prefer using words that I regularly use. Clarity of idea is a priority over flowery words.</li>
+<li><code>Mathura</code> is a historical &quot;narrative&quot;. The focus is on &quot;narrative&quot; rather than historical accuracy. </li>
+<li>I refrain from using citations as much as possible. The reason is simple — it is NOT a narrative chasing accuracy. The goal is to imagine possible scenarios, and then review them with an eye to seek comparative probability. This also means it is a subjective discretion.</li>
+<li>Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus order is important — each chapter builds on previous. Simple words, say for example &quot;knowledge&quot; , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.</li>
+<li>It is not a didactic religious document ! The goal is not to impart <code>Gita</code>. And for a good reason — no one might ever tell it better than <code>Dvaipayana</code>. The purpose of this narrative is to seek that information that writer withheld at that time to avoid &quot;stating the obvious&quot;. Having lost the context after thousands of years, we now crave for that information.</li>
+<li>Footnotes are used to avoid verbosity in the body of article, but they do carry useful information. For paucity of time, if you happen to &quot;skip-over&quot;, or for keeping the flow of reading, I suggest to run by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in foot notes :-)</li>
+<li>The theme is based on <a href="https://github.com/ashutoshmjain/maholvi">maholvi</a>. A yellow background with black care-free <code>Kalam</code> fonts form &quot;Indian Fonts Foundry&quot;. Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes<sup class="footnote-reference"><a href="#theme">5</a></sup>, such as <code>ayu</code> , <code>navy</code> etc.</li>
+</ul>
+<h1 id="contact"><a class="header" href="#contact">Contact</a></h1>
+<p>You can reach me at <a href="https://wa.me/message/QTKE4LV2EBGCH1">whatsApp</a> for any questions or suggestions. Since I don't use any cookies or trackers on these pages, only way for me to know you are reading this text, is if you drop a me text ..hopefully of appreciation :-)</p>
+<h2 id="research-and-notes"><a class="header" href="#research-and-notes">research and notes:</a></h2>
+<div class="footnote-definition" id="text"><sup class="footnote-definition-label">1</sup>
+<p><code>mdBook</code> takes the text written in <code>markdown</code> format to publish it through the web app. <code>markDown</code> is an open source implementation that allows conversion of text into <code>html</code> format through a set of simple notations. </p>
+</div>
+<hr />
+<div class="footnote-definition" id="browser"><sup class="footnote-definition-label">2</sup>
+<p>Because of limited resources, I only use ‘Google Chrome’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or elinks that don't support javascipt natively.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="tablet"><sup class="footnote-definition-label">3</sup>
+<p>This book was “designed” for ‘in-browser’ reading experience on an Apple or Android tablet. It should work pretty well on kindle browser as well, if you want to read it in the bright sun light, though you will need an internet connection. Of course it will work fine on a laptop browser - duh:-)</p>
+</div>
+<hr />
+<div class="footnote-definition" id="foot"><sup class="footnote-definition-label">4</sup>
+<p>When you click on the foot note marker in the main text, it brings you down to the relevant note at the bottom. You can always press the browser back arrow on computer (or on tablet) to get back to where you were reading - back to the foot note mark in the main text. Isn't that lot better than reading a paper book!</p>
+</div>
+<hr />
+<div class="footnote-definition" id="theme"><sup class="footnote-definition-label">5</sup>
+<p>Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. It is almost impossible to review the text though all the possible combinations. Thus a lone writer-editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)</p>
+</div>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="mathuraLanding.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="prologue.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="mathuraLanding.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="prologue.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

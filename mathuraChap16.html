@@ -1,0 +1,295 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://www.w3counter.com/">
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <script src="https://www.w3counter.com/tracker.js?id=135172"></script>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="how.html">Readme</a></li><li class="chapter-item expanded "><a href="prologue.html">Invocation</a></li><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Proposal</a></li><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Return</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Rivers</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Desire</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Meeting</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Truth</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li><li class="chapter-item expanded "><a href="mathuraChap16.html" class="active">Pledge</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="0.0_about.html">About</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Pledge';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                            </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><code>Pratigya</code> (abstract noun) means pledge. </p>
+<p>A difficult pledge is <code>Kathin Pratigya</code>. A pledge that seems impossible for a human to undertake is called <code>Bheeshma Pratigya</code>. </p>
+<hr />
+<h1 id="pratigya-"><a class="header" href="#pratigya-"><code>Pratigya</code> ..</a></h1>
+<p>It was three months that <code>Dev</code> didn't hear from the king. Normally, he used to receive a pigeon every week or max biweekly. The last message he had received was for deploying experts to develop an island far East of the kingdom. There was neither economic, nor any strategic value in investing at that end, but <code>Dev</code> knew his father had a vision decades in the future. And in any case, it was not his place to judge the wisdom of the king. </p>
+<p>As soon as <code>Dev</code> got the word, he dispatched a group of six superior craftsmen who could execute  this simple work, rather quickly.  Simple in the sense that it was not an engineering challenge — it wasn't like building a dam on a running river — just lodging and a small jetty, and may be few other structures. How would such a settlement be seen as king's legacy — <code>Dev</code> wondered! He had an inkling, there must be more to it than what meets the eyes! Over twenty some years of his life, <code>Dev</code> had learnt his father always left a lot unsaid, between the lines — a man less of words, more of deep diplomatic wisdom.</p>
+<p>For <code>Dev</code>, his father was a role model. While most kings spent their evenings indulging in wine and women, <code>Shantanu</code> made sure he spent that time with young <code>Dev</code>. Not only did he NOT marry after <code>Ganga</code> left, he practiced celibacy to make sure <code>Dev</code> got his undivided attention. Now twenty years old, <code>Dev</code> understood how hard was it to lead a celibate life particularly when one's evenings were full of opportunities.</p>
+<p>King's consistent affection, and the divine intelligence of his mother, turned <code>Dev</code> into finest young man possible. Tall, handsome, strong and energetic, but more importantly &quot;kind and just&quot; — king felt proud whenever he looked at <code>Dev</code> and people saw a natural leader worth following with their hearts. Being measured of his words, <code>Shantanu</code> made sure he never let <code>Dev</code> feel the extent of his sacrifices. Truth be told, he saw <code>Dev</code> as a parting gift of <code>Ganga</code> — his only love. To him, spending time with <code>Dev</code> was the reminiscences of the past with <code>Ganga</code>. He made sure to not make  his endearments for <code>Dev</code> public, though the circle around reinforced the relationship as a model 'father-son' relationship. Some of them even cited them as reincarnation of <code>Dashratha and Rama</code> from <code>Ramayana</code>. The virtuous cycle of affection, once set in, was unstoppable. More father did for his son, more son wanted to do for his father. </p>
+<p>Since the king left, and <code>Dev</code> oversaw the complexities of running an empire first-hand, his devotion to his father only increased. The question that recently took over <code>Dev's</code> mind was, how would he ever repay his debt? <code>Rama</code> went to jungle for fourteen years, to uphold &quot;word&quot; of his father — what would he do? Will he be able to rise if such a situation if occurred ?</p>
+<hr />
+<p>Not only did <code>Dev</code> deploy his finest crew to the cause, they had blanket permission to ask as much resources as they needed. They must do the best work possible, and of course, they all must take advice from <code>Maharishi Parashara</code>. <code>Dev</code> had heard great deal about <code>Maharishi</code>, though  he never had a chance to see him in person. He had also heard about son of <code>Maharishi</code> —  <code>Dwaipayana</code>, that he  was a walking encyclopedia. He had hundreds of scriptures memorized at an age when most students started learning the language. More magical was his capacity to reference different scriptures on a topic, on the fly. Which meant he could contrast different scriptures to ask which was wrong and what was right ! A sure sign that he was growing to be an editor (<code>Vyasa</code>). The world still didn't have a clue that not only he would vocally organize the entire &quot;then existing&quot; knowledge base, but also scribe them in written word. But even that is only half of the story — his skill would perforce the God himself to incarnate —  to share the truth with mankind through his pen.</p>
+<p><code>Maharishi</code> suggested <code>Lomaharshana</code> and <code>Dwaipayana</code> be the primary contact for the 'crew from capital', which they gladly agreed. <code>Dwaipayana</code> in particular because this was his first assignment outside the walls of <code>Ashrama</code>. They quickly set up a camp on the island and mapped out the &quot;would be&quot; settlement. Places earmarked for the lodging, a jetty for porting the boats, fireplaces,  a guest house with high windmill, a high tower and many more. The design of fire-pits was of particular interest to <code>Maharishi</code>. He wanted to use them for smoking palm leaves. And yes, there were express instructions to protect all the vegetation as much as possible. No big tree could be uprooted without consent of <code>Maharishi</code> — palm trees in particular. Labourers was sourced from the local village. Many <code>Yogies</code> volunteered to help in the building activities. </p>
+<p>For <code>Dwaipayana</code> it was an opportunity to indulge in real life activities and he took deep interest in civil works. More than work, he enjoyed the exposure beyond the boundaries of the <code>Ashrama</code>. He realized that the scriptures were grounded in the &quot;actions&quot; of real life. Most <code>Nyaan Yogies</code> got to formulating scriptures after a life long experience in their chosen fields. For him it was quite the opposite. He got to &quot;work&quot; after reading the theory. However, there was a benefit of this approach too ...</p>
+<p>The realization, clubbed with his intense memory, made him speak insights extempore. He quickly became the co-ordinator of all planning and review meetings. Craftsmen as well as workers, wanted to listen to scriptural insights from his mouth. They were amazed by the fact that the work that they thought so unique to them, was actually well thought through by many before.</p>
+<p>The work and co-ordination kept him busy though deep with in, he craved for his roots — his 'never known' mother. Why every child had a mother to go to except for him — he wondered —  and why would <code>Maharishi</code> stay silent on this topic. The distance in mind was turning into physical distance. He started staying back on the island while <code>Lomaharshana</code> needed to commute back to <code>Ashrama</code> for his young son <code>Vaishmpayana</code> needed his presence in the nights. He was always keen to listen what <code>Dwaipayana</code> did in the day. Later he would become the prime disciple of <code>Dwaipayana</code> but we are getting ahead of ourselves ..</p>
+<hr />
+<p>As a keen observer of the &quot;present&quot;, <code>Maharishi</code> could see a new reality taking shape. The unfortunate aggression from <code>Kansa</code> turned into an opportunity. He would soon have the palm leaves smoked 'en masse' in fire pits, being built by some of the very best. The journey of the &quot;written word&quot; as a medium to store the knowledge had already begun. The scribing revolution is well on it's way - he thought!</p>
+<p>The <code>Ashrama</code> found a better location. Local people got the work. And <code>Satyawati</code> was nearing the next phase of prophesy. He wondered if she was still around or left with <code>Shantanu</code>. There was no point in checking because every observation has a cost to be paid - at the very least, it alters the reality. He believed in letting the reality unveil itself.</p>
+<p>On the other side, <code>Maharishi</code> could feel that <code>Dwaipayana</code> was drifting apart. Is it the adolescent hormones,  or is it something else? The question that still bothered him was how to tell <code>Dwaipayana</code> about his mother ? If he let himself swayed by the emotions, how would he expect <code>Satyawati</code> to play her part. As a mother, her affection must be a million times greater than his own!</p>
+<p>He was sure, <code>Dwaipayana</code> would soon find his footings. </p>
+<hr />
+<p><code>Satyawati</code> wondered what happened to the king, and the marriage proposal! Why this sudden disappearance — not even a message! Many times she tried to talk to <code>Dashraj</code> who plainly refused to have a conversation on that topic. He was probably hoping that the king would forget <code>Satyawti</code> in due course, though something alarmed him inside -  that she was special. No man could ever forget even a single encounter with her. </p>
+<p>Many mornings, she waited on the banks hoping to see the king — a futile wait. She did notice a foreign crew started working on the island. At times she dropped <code>Loma</code> and other <code>Yogies</code> on the island. A jetty was slowly taking shape. She learnt that the <code>Ashrama</code> would probably move to the island. She also noticed many of the villagers started working on the island. They were paid four times the normal wages, and a personal assurance from <code>Maharishi</code> to take full care of their families in case anything happened to them on the haunted land.</p>
+<p>Days still passed, but nights were difficult. She wondered why she was losing her calm? It was not that she was in some sort of romantic relationship with the king, neither was there any dearth of admirers — her boat was still running full with more passenger waiting than she could accommodate. But something seemed to have fallen apart. She felt alone. There was nothing to feel joyful about. Despite everything, there was none that mattered anymore. On top, she couldn't even go to the island — her only refuge — because  there were people camping out there. What would they think of her if she showed up there alone. Many times she thought of going to <code>Maharishi</code> to understand the meaning of this uncertainty but then she remembered what <code>Maharishi</code> told her — he could predict future, not the present. What happens in the coming hour, day or even a week is always beyond speculation. It's a roll of dice constrained by our sensory reality. </p>
+<p>One thing she was sure — king would never forget her. And the good thing was this gap helped her assess her own cravings — Is it for the wealth and power,  or did she really see a soulmate in <code>Shantanu</code>? He was no ordinary man. She could imagine <code>Shantanu</code> in her life the way she could never place <code>Maharishi</code> — as a partner. Someone to share all your life. She wondered what <code>Shantanu</code> was doing at this moment. Was he happy and content? Was the suffering for her alone? </p>
+<p>The most unfortunate thing was she had nothing to act on — only wait for the next hand of <code>Bhagya</code>.</p>
+<hr />
+<p>With every passing day, <code>Dev's</code> worries kept increasing. Finally he sent out a messenger, asking his team at the island to trace the path of the king.  After much inquiries, the crew figured that the king was headed into <code>Naimisha</code> forest. A forest known for its ascetics (<code>Sanyasins</code>). That was enough to set <code>Dev</code> on course to <code>Naimisha</code>. After weeks of 'track and trace', he finally met his father. And his eyes watered at the sight as he bowed to touch the feet of his father.. </p>
+<p>King had gotten frail. Grown beard looked old on him. <code>Dev</code> understood something was a miss. Few days with the king, he figured that the most important person in the kingdom had lost interest in life. He saw king spending hours in his makeshift tent — sitting alone. Sometimes he would wander into the thick forest in the middle of the night. Other times he wouldn't wake up till afternoon. What is going on? King wanted him to go back to the capital for the kingdom couldn't be left unattended but the father, <code>Dev</code> knew, needed someone close. <code>Dev</code> resolved he must attend to the king. </p>
+<p>One evening, he was hanging out with king's closest guard - One that had gone to fetch <code>Dashraj</code>. In the conversation it came out that this sudden change in king's lifestyle was after the king met <code>Dashraj</code>. No one had any idea as to  why king met <code>Dashraj</code> and what transpired between two of them. Asking the king was inappropriate  because if he didn't tell it to his closest yet, maybe he didn't want to bring this topic up for discussion. The worst part was, he declined to take any medical help.</p>
+<p>The only source of information thus was <code>Dashraj</code>...</p>
+<hr />
+<p>Taking an assurance for a daily communication, <code>Dev</code> took leave from the king . King was satisfied that <code>Dev</code> prioritised responsibility to the kingdom above his personal distractions. He asked <code>Dev</code> to promise he will always dedicate his life to the cause of the kingdom more than anything else. Which he did till his last breath, but he did have one more action to complete on his way back to the capital — he wanted to  meet <code>Dashraj</code>. What kind of black magic this erst-while <code>Asura lord</code> played on the king! What exactly did he tell the king that made him lose interest in physical reality? His initial hunch was <code>Dashraj</code> must have brokered the deal between <code>Shantanu</code> and <code>Kansa</code>, for the idea that king was love struck, was beyond his wildest imagination. He also wanted to personally check the work was meeting <code>Maharishi's</code> expectations. And of-course, he was curious to see <code>Dwaipayana</code>. His crew had reported about the anchor role a ten year old was playing on this project.</p>
+<p>When it came to relationship with neighboring states, <code>Dev</code> practiced his father's philosophy. Just like <code>Shantanu</code> he had his men set up the camp a mile before <code>Yamuna</code>, to avoid unnecessary conflicts. To keep it easy and to save time, he sent his men to buy few boats so that they didn't have to depend on public transport, or conceal their identities. He and one of his closest ally (and chariot driver) - <code>Rituraj</code>, crossed the river at first light. He sent <code>Rituraj</code> to get <code>Dashraj</code>, while he himself, went straight to the <code>Ashrama</code> to meet with <code>Maharishi</code>.</p>
+<p><code>Lomaharshna</code> was about to leave for the island when he saw a princely man of his age stepping into the <code>Ashrama</code>. His body armour and confident walk, were his introduction. With folded hands <code>Loma</code> welcomed the Prince and took him to <code>Maharishi</code>. As he touched <code>Maharishi's</code> feet — <code>Chirayu Bhav</code> (live a very long life — were the words that came to <code>Maharishi's</code> lips. A sense of pride came over <code>Maharishi</code> when he properly saw the young  man — your father is very rightly so proud of you! And I pay my respect to the mother who gave this kingdom a leader like you. — said <code>Maharishi</code> — What brought you here <code>Vats</code> (an affectionate way to address youngsters).</p>
+<p>Walking towards <code>Maharishi's</code> hut, <code>Dev</code> said with folded hands — <code>Maharishi</code> , I wanted to check if the work on the island is going to your satisfaction. </p>
+<p><code>Maharishi</code> was pleased at the gesture though he knew a prince wouldn't leave the kingdom just to get a progress report. There must be something else. He smiled — <code>Vats</code>, I am very happy with the craftsmen you sent. <code>Loma</code> here, and <code>Dwaipayana</code> are coordinating the work. — he pointed towards <code>Loma</code> —  And I hear them pleased with the quality and dedication your team brought to us. </p>
+<p>Stepping into the hut, <code>Maharishi</code> asked <code>Loma</code> to bring <code>Dwaipayana</code> over from the island, while the Prince took some food and rest. It's been many weeks that <code>Dwaipayana</code> was living on the island, and  <code>Maharishi</code> himself wanted to see his son.</p>
+<p><code>Loma</code> had just stepped outside (second time) the <code>Ashrama</code> when he saw <code>Rituraj</code>, who inquired about the prince. Good lord — <code>Loma</code> thought to himself — looks like today I will miss all the boats. He smiled on the fate as he repeated to himself what <code>Maharishi</code> always said — the events in the &quot;present&quot; are beyond anyone's control. </p>
+<p><code>Rituraj</code> sought blessings from <code>Maharishi</code> and sought permission to say a word to the prince. Seeing <code>Maharishi</code> nod, <code>Rituraj</code> whispered to the prince — looks like <code>Dashraj</code> has gone to the island. He is trying to get a bigger piece of work in search of a bigger pie for himself and other <code>Asuras</code>. </p>
+<p><code>Dev</code> thought for a quick second. Turning to <code>Maharishi</code>, he said — <code>Taat</code> (an affectionate and respectful address to elders. Somewhat like &quot;uncle&quot;) I would love to spend time here in the <code>Ashrama</code>,  but I wanted to visit the island to see for myself,  the progress of the work. If you don't mind, we could accompany <code>Loma</code> to the island. That will also allow us meet <code>Dwaipayana</code> on site.</p>
+<p><code>Maharishi</code> smiled. Probably he wouldn't get to see <code>Dwaipayana</code> even today. Raising his hand, he said — Of course. I wish I could come with you too, but I need to run this <code>Ashrama</code> — pointing towards <code>Loma</code>, he added — you are in good hands. </p>
+<p>All three of them headed towards their private boat after seeking another round of blessings from <code>Maharishi</code>. <code>Loma</code> once again didn't fail to notice his fate. He was worried about missing the boats and God sent a private ride for him !</p>
+<hr />
+<p>Crew had built a large wooden central place that served as planning office as well as an open kitchen. Any one could eat there for free. The crew members met up there every morning and evening. <code>Loma</code> and <code>Dwaipayana</code> had a large room set up for record keeping. <code>Dwaipayana</code> was responsible to keep a track of the cost. <code>Loma</code> handled the wage disbursement for the villagers. He was the one to settle disputes with villagers if any. They both used to meet there every morning to visit different sites in the first half of the day . Sometimes they went to see the progress on jetty. Other times they had visit the lodging area — huts, wells, common kitchen. Today, <code>Dwaipayana</code> wanted to go see the fire-pits on the North side of the island where large number of palm trees stood tall over the river. This was a new find, access was still trough a boat circling the island for the path wasn't yet paved for horses or carts. <code>Dwaipayana</code> was excited to circle the island in a boat and he was getting nervous, for <code>Loma</code> was unusually late this morning. All the morning boats were already in, with labourers and suppliers who lived in the villages nearby,  and all the crew members too who camped at the island. He was wondering if everything was alright back in <code>Ashrama</code>. </p>
+<p>He was pleasantly surprised when he saw <code>Loma</code> walking in with two armoured men. Even more, when he saw the entire crew rush to the taller man and bow in respect as if he was the king. He must be <code>Dev</code> - the Prince , thought <code>Dwaipayana</code>. His face bore resemblance with the king though he was much taller and well built. He saw the Prince, giving instructions to the crew leader to fetch someone as they all headed to the open space in the center. </p>
+<p>As soon as <code>Loma</code> saw <code>Dwaipayana</code>, he called out his name and asked him to come meet the Prince. <code>Dwaipayana</code> was impressed with the grace and respect the Prince offered to all the crew members. With same respect, he addressed <code>Dwaipayana</code> as he saw him fold his hands. He held <code>Dwaipayana's</code> little hands and spoke with love - I have heard a great deal about you <code>Dwaipayana</code> and I am feeling lucky to have met you in person!</p>
+<p><code>Dwaipayana</code> was overwhelmed with the towering presence of the Prince. He could feel an aura of influence never felt before. Holding the hands of the Prince, he said — <code>Taat</code> you are welcome to the this side of your kingdom. We are all blessed to have you here in person. Hope <code>Maharaj</code> is doing well!</p>
+<p>He noticed that <code>Dev</code> lowered his gaze at the mention of <code>Shantanu</code>. Lines of worry showed up on his face.</p>
+<hr />
+<p>Prince sat with his crew , <code>Dwaipayana</code> and <code>Loma</code> for the morning meal. There were number of options on the table , though prince limited himself to fruits and goat milk. Prince was curious as to why the King chose to develop this place. He quickly got the gist of aggressive posture <code>Kansa</code> took towards the <code>Ashrama</code>.  And that he locked up his father and <code>Vasudeva</code>. He was furious over the injustice, and appreciated his father's strategy to set up a post here on the island. While helping a just cause, King seeded a small deterrence. In a way, <code>Kansa</code> was now under direct surveillance. He also appreciated <code>Maharishi</code> seeking the help rather than taking the things in his own hands.</p>
+<p>Ever-since the work on the island started, <code>Dashraj</code> got into the morning habit. Everyday of the week, he had his morning meal in the open  kitchen, and stayed there till the last ferry. In between, he used to apparently hunt opportunities to make money on different sites, as a supplier or arranger. Everyone thought of him as an old man looking to pass his time being around with people and trying to win a wager. Only few knew he was tasked to keep an eye on the activities at island for someone high in the chain of command to <code>Kansa</code>. </p>
+<p>He was waiting in line for the meal, when his name was announced by the kitchen supervisor. He was surprised to notice that supervisor knew his name. </p>
+<p>Supervisor, directed him to the central table. The crew and prince had finished their morning meal. They had a large, map of the island, drawn on large palm leaves joined together with forest glue. The map was spread in front of them, at the large table where they just finished their lunch. The map was put together by young <code>Dwaipayana</code>. Prince was all praises for the attention to detail. Locations were drawn to a scale just by walk measurements. Three steps of <code>Dwaipayana</code> were almost equal to a yard!</p>
+<p><code>Dashraj</code> was shocked when he realized he was put on spot in front of <code>Dev</code>. His mind cautioned him of impending danger but there was no way out. His first thought was that someone blew his cover. The sword on the prince, and his youthful built meant there was no room to fool around. Prince asked if there was a place he could talk to <code>Dashraj</code> in person. Blood drained off <code>Dashraj's</code> old veins. <code>Dwaipayana</code> immediately suggested they could use the record room and offered to take the prince there. <code>Rituraj</code> and <code>Loma</code> followed the prince along with scared <code>Dashraj</code>. </p>
+<p><code>Dwaipayana</code> and <code>Loma</code> were about to leave the room, when Prince asked them to stay back. After all it was their room and he wanted local <code>Yogies</code> there to instill confidence in <code>Dashraj</code>. </p>
+<p>Nothing untoward shall happen to you if you speak candid truth to me Mr <code>Raj</code> — said Prince in a voice that commanded respect and meant business. He was in no hurry but <code>Dashraj</code> felt as if time stopped for him. Truth, he felt was the only way out of the hole he dug himself into. But how must he say it ? </p>
+<p>Pardon me my prince and I ask for the safety of my life for I would share only truth with you — <code>Dashraj</code> tried to borrow as much time as possible to get a handle on the situation. He was relieved when Prince asked him what transpired between him and the king. That clearly meant he won't be under an act of treason. He might even get appreciation for being a caring father, if he played his cards well. All depended on how he negotiated this next act, and he knew 'negotiation' was his sweet spot.</p>
+<p><code>Dashraj</code> sat on the ground, praying to the God that king must stay healthy for ever. He kept on repeating the same till <code>Dev</code> picked him up and offered a seat at the table — my Prince, I am guilty of being overtly cautious for the well being of my daughter. It maligned my mind when the good king asked for  <code>Satyawati</code> in marriage — he said — Trust me, I acted like a foolish father, blind sighted in love for the kids.</p>
+<p>The tide turned. Now , it was turn for <code>Dev</code> to get flabbergasted. Even <code>Dwaipayana</code> and <code>Loma</code> were surprised but <code>Loma</code>knew the charm of <code>Satyawati</code>. Anyone could lose heart to her.</p>
+<p>What are you talking about? — surprised <code>Dev</code> asked for more details. Who is <code>Satyawti</code> and what she got to do with my father? He looked at <code>Loma</code> for help and confirmation.</p>
+<p>My lord , I know nothing what king's interaction with <code>Satyawati</code> were, though I can confirm she is the most beautiful and talented woman on this side of <code>Yamuna</code>. And it wouldn't be a mismatch if king saw a potent queen in her — <code>Loma</code> bit his tongue for adding extra line in his description. It was not his place to judge what king should do or not do. He was relieved when he found <code>Dev</code> didn't notice his exaggeration. As a surprise, he found <code>Dev</code> appeared to be gratified. </p>
+<p>What is wrong if king wanted to marry ! He is not that old and entire council is after him to bring the kingdom a queen. — <code>Dev</code> thought there was somehow an objection to king pursuing <code>Satyawati</code>. All this time <code>Dashraj</code> planning his next move. He always nailed the confusion by adding more of it!</p>
+<p>My lord - there is  nothing wrong in king's proposal. In fact I am the culprit here. Please kill me for I put the king in harms way. I was blinded by my desires for the greater good of <code>Satyawati</code> and my family name. — <code>Dashraj</code> played the trick like a professional artist. He was almost crying.</p>
+<p>What exactly you wanted <code>Shrimat Raj</code> — <code>Dashraj</code> noticed that the Prince added respect for him in his address. If <code>Satyawati</code> was to marry <code>Shantanu</code> , <code>Dashraj</code> would be like a step grandfather to <code>Dev</code>. </p>
+<p>My Prince, I wanted to future proof <code>Satyawati</code> for the capital is a big place. She wouldn't be able to handle the politics unless king named her offspring his heir. I know I was mistaken for I had not met you — <code>Dashraj</code> acted his best. He again slipped to the floor with his head in his hands — Pardon me my good  Prince for my crime, and I wouldn't wonder if you kill me right here !</p>
+<p><code>Dev</code> now saw the situation with clarity. His father would rather let go his love, than entertain even a possibility of injustice to him. He couldn't help the rise of pride in him for being son of such caring parent. But what must he do? <code>Dashraj</code> was right. Capital is a complex ruthless place. No father should sacrifice her daughter in the politics without certain assurances. What must he do! </p>
+<p>You are absolutely right <code>Shrimat Dashraj</code>. You have every right to care for your daughter. And you are right , capital is full of power hungry — <code>Dev</code> said — Let me make it easier for you. I forgo my right to the title, right here , right now, if you agree to take <code>Satyawati</code> to the king in <code>Nimisha</code> forest. And get them married as per the rituals of both the families.</p>
+<p><code>Rituraj</code> and <code>Loma</code> couldn't believe their ears. <code>Dwaipayana</code> trying to ascertain if he had ever seen a more just and kind person. Someone giving up his birthright without even thinking twice. Is it his devotion for his father or is it his natural virtue. Words couldn't describe such a spontaneous act of sacrifice. But evil <code>Dashraj</code> was still not satisfied.</p>
+<p>My Prince, I can't describe your virtue in words. But I know the king. If he knew I plotted this idea in your mind. He would anyway kill me — said <code>Dashraj</code> — In addition, look at you. Your strength and intelligence. How many days <code>Satyawati's</code> offspring could stand against your sons, who in fact would be rightful heir if you let go your title. I think it is a grave mistake — <code>Dashraj</code> played the final act — I think <code>Satywati</code> should marry the king without any conditions.</p>
+<blockquote>
+<p>You are right <code>Shrimat Dashraj</code> — King should not know this. And there should not be any conditions on the king — <code>Dev</code> spoke the words that would be known as <code>Bheeshma Pratigya</code> for generations to come. </p>
+<p>He said — After the king, I take the vow to name <code>Satywati's</code> eldest son the king of this vast land. And as you rightly said, to protect the new king from my own offspring, I pledge to never marry. And to make sure that I don't have kids out of a wedlock, I pledge celibacy for the rest of my life.</p>
+</blockquote>
+<p>The sacrifice was greatest ever heard by anyone. <code>Dwaipayana</code> had no reference for such a pledge in any of the scriptures and he had read them all. Not even <code>Rama's</code> sacrifice came close to what <code>Dev</code> did. Suddenly the word came to his mouth – <code>Bheeshma</code> — my Prince, you will be known as <code>Bheeshma</code> from this day onwards. Your sacrifice will be seen as the biggest ever in mankind – in history as well as in future. Realm will take your example to define the word &quot;pledge&quot;. </p>
+<blockquote>
+<p>Later when <code>Dwaipayana</code> wrote the most important part of <code>Mahabharata</code> - the <code>Gita</code>, he embedded it as part of <code>Bheeshma Sarga</code> — a book dedicated to the name of the Prince.</p>
+</blockquote>
+<hr />
+<p>The pledge also cleared the growing doubts in <code>Dwaipayana's</code> mind. Later that night he returned to his father. While he told the story of the day, he bowed to touch the feet of <code>Maharishi</code> — O father, O teacher - tell me not who I am. Tell me what I should be !</p>
+<p><code>Maharishi</code> embraced him with water in his eyes. O son — you are here to organize and scribe world's wisdom. Destiny has brought you here for a purpose !</p>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="mathuraChap15.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="bhagvadGita.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="mathuraChap15.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="bhagvadGita.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

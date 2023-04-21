@@ -2,7 +2,7 @@
 - [Mathura](./mathuraLanding.md)
   - [Readme](./how.md)
   - [Invocation](./prologue.md)
-  - [Mishap](./mathuraChap01.md)
+  - [Trigger](./mathuraChap01.md)
   - [Reboot](./mathuraChap02.md)
   - [Expression](./mathuraChap03.md)
   - [Righteous](./mathuraChap04.md)

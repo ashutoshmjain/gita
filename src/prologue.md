@@ -1,6 +1,14 @@
 In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and self-sacrifice. In Hindu tradition, deities are invoked before uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama` invoked `Siva` before crossing the sea.
 
-Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. It included adapting the language model from "primarily spoken" to "primarily written"; extension of calligraphic symbols to capture the true essence of spoken word; writing tools such as palm leaves, ink, and pen. But more importantly, it needed "patience" to write (and read) long meaningful text. In a way, the idea of "transcription"  was to `Mahabharata`, the way "C" - the computer programming language, was purpose built for Unix, Or block-chain technology was white-papered specifically for the Bitcoin. [^c]
+Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. The shift included among many other things ..
+- adapting the language model from "primarily spoken" to "primarily written"; 
+- extension of calligraphic symbols to capture the true essence of spoken word; 
+- organizing a pay back model around scribing; 
+- development of writing tools such as palm leaves, ink, and pen. 
+- and patience to write (and read) long meaningful text.
+
+But more importantly, finding a purpose to write -  a narrative that would span ages without losing it's lustre and relevance. The idea of "transcription"  was to `Mahabharata`, the way "C" - the computer programming language, was purpose built for Unix, Or block-chain technology was white-papered specifically for the Bitcoin. [^c]
+
 
 The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
 

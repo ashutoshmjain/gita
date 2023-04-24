@@ -58,7 +58,7 @@ In addition to the poetic excellence,`Mahabharata` defined a new way of life - a
 
 The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-***The legend says,` Dwaipayana` invoked `Bramh`to seek scribing assistance***. `Bramha`, in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly` , here is an excerpt -
+***The legend says,` Dwaipayana` invoked `Bramh`to seek scribing assistance***. `Bramha`, in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
 
 > "O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; 
@@ -110,7 +110,7 @@ The question is, how did `Dwaipayana` manage to write such epics at a time when 
 > **Let Ganesa be thought of, O Muni, for the purpose of writing the poem.**
 
 
-Having approached by `Dwaipayana`,`Ganesa`- the embodiment of ‘intelligence’, said he wanted to help, but I would stop writing if there was a pause, even for a moment.`Ganesa`probably deemed there was no time to waste, given the immensity of the transcription.`Dwaipayana`agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after full appreciation of the meaning ! [^humanMind]
+Having approached by `Dwaipayana`,`Ganesa`- the embodiment of ‘intelligence’, said he wanted to help, but he would stop writing if there was a pause, even for a moment.`Ganesa`probably deemed there was no time to waste, given the immensity of the transcription.`Dwaipayana`agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after full appreciation of the meaning ! [^humanMind]
 
 >"Ganesa, upon hearing this address, thus answered, 
 >

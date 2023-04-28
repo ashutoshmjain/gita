@@ -2,6 +2,12 @@
 
 Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
 
+## April 27, 23 - Friday
+- [Mathura](./mathuraLanding.md) - Working on kinda final Edit round for the first five chapter. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
+  - [Invocation](./prologue.md) - General Edits [^edits]
+  - [Trigger](./mathuraChap01.md) - General Edits 
+  - [Reboot](./mathuraChap02.md) - General Edits  
+  - [Expression](./mathuraChap03.md) -  General Edits 
 ## April 21, 2023 - Friday 
 
 - [Mathura](./mathuraLanding.md)

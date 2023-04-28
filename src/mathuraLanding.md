@@ -18,7 +18,7 @@
 
 <div class="cover-small">
   <div class="centered">
-      <a href="https://wa.me/message/QTKE4LV2EBGCH1">whatsApp .. </a>
+      <a href="https://wa.me/message/QGSNODVGGPBQJ1">whatsApp .. </a>
   </div>
 </div>
 

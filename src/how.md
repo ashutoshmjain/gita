@@ -42,10 +42,11 @@ As far as the features go, you can:
 - You can also navigate by using your keyboard's left and right arrows. 
 - On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
-
+### Theme
+The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes[^theme], such as `ayu` , `navy` etc.
 ## Privacy
 
-Last , but not the least ; **the privacy** :  the mdBook application is highly customizable. It is for the publisher to make sure that it doesn't use any "cookies or trackers" whatsoever. Which means no one is really watching what you are reading. And the readers are saved from random profiling and pesky advertisements.
+The mdBook application is highly customizable. It is for the publisher to make sure that it doesn't use any "cookies or trackers". Which simply means no one is watching what you are reading. And the readers are saved from random profiling and pesky advertisements. Privacy is not only a right, it is also a good design because it makes pages faster to load.
 
 A word of caution - your browser may still be tracking you ! If you care, I highly recommend using `Safari` on a Mac and block all the cookies. Press  <<command + Comma>>  in Safari and block the cookies, as shown below on `Privacy` tab 
 
@@ -53,9 +54,11 @@ A word of caution - your browser may still be tracking you ! If you care, I high
 
 .. btw , if you did that , you won't be able to load most of the websites (eg facebook or Instagram)  because ..well you know why ! :-)
 
-If you must use Chrome (for chromebooks are the best and most affordable computers), you may want to use "duckduck go" privacy application. This chrome extension will make sure you are protected from the trackers and cookies. Not only it will save you from being profiled by hundreds of unknown data aggregators, it will help your pages load much faster.  And save you from those small videos clips at the bottom right of your screen that make the reading experience a living hell. I was surprised that reputed sites such as cnn.com use as many as 21 trackers, screen shot below
+A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there on the page for the sole purpose of profiling you but it allows those that are needed for the functionality of the website. Not an ideal case but still the best among available options. Not only it will save you from being profiled by hundreds of unknown data aggregators, it will help your pages load much faster.  And save you from those small videos clips at the bottom right of your screen that make the reading experience a living hell. I was surprised that reputed sites such as cnn.com use as many as 21 trackers, screen shot below
 
 ![cnnTrackers](./cnnTrackers.png)
+
+> As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension and it will show up on the page in speed. You will never notice any advertisements on these pages.
 
 ## About this book [grr - online resource]
 
@@ -88,7 +91,6 @@ All the content in this website is under creatives common v1.0. Which means ever
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
 - It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dvaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information.
 - Footnotes are used to avoid verbosity in the body of article, but they do carry useful information. For paucity of time, if you happen to "skip-over", or for keeping the flow of reading, I suggest to run by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in foot notes :-)
-- The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes[^theme], such as `ayu` , `navy` etc.
 
 ## Contact
 

@@ -4,14 +4,14 @@ Internet is the biggest library and the web-browser is the most used app irrespe
 - Omnipresent - Browsers are available for every platform. Even for pure terminal users there are many choices - w3m, lynx, elink. For primarily UI based platforms such as Mac, Windows, iOS and Android, the choices are practically limitless.
 
 Browsers are particularly suitable for the long text 
-- Easily reach the embedded links for references - that is what the browser is but if you are reading in apps such a "kindle" or on a epub reader or simply a pdf , this may not be as easily accessible.
-- offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed.
-- In page and global search - most browsers let you search through the page. 
+- Easily reach the embedded links for references - that is what the browser is but if you are reading in apps such a "kindle" or on a epub reader or simply a pdf , this may not be as easily accessible. You will need to anyway start a browser.
+- offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. Thus webpages should be one full chapter. Even a small full book may easily fit in one web page these days.
+- In-page and global search - most browsers let you search through the page with Control+f. In essence, you don't need book marks. Because book mark is the last word that you remember.
 - Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the page.
 - Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options.
+- If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances though for all browsers implement different key bindings for the shortcuts. One of the way to circumvent this problem is to use a plug-in such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements a uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
 
-> That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized". In some cases, the pages show up differently in different browsers. And some pages may not even render well on mobile devices And even more the advertisers want to track your eye movements with trackers and cookies :-)
-
+> That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-)
 
 # `arjunUvaach` ..
 

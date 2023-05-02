@@ -1,6 +1,7 @@
-# changeLog
+# changeLog [^history]
 
-Since this is a living book, a weekly update is released every Friday, with the list of major changes here-below. 
+Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
+
 
 ## April 27, 23 - Friday
 - [Mathura](./mathuraLanding.md) - Working on kinda final Edit round for the first five chapter. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
@@ -110,6 +111,16 @@ Bound first four chapters with the overarching idea that the conflict is not bet
      - Custom styling and published mdbook to new sub-doamin.
 - [changeLog](./changeLog.md) - Started maintaining a change log.
 ### research and notes:
+----
+
+[^history]: Knowledge is deep understanding of the history. Be it a project, a book or a product. The final copy (with a small training manual) is mere manifestation of the knowledge. The knowledge is encrypted with in that final shape as the history of all the changes - of the ideas, of the code or the people.  For example, what you are reading is just an online document, the histoy of this book is in the thousands of commits on the github. The knowledge is "encrypted" because there is no way to document the rationale of all the changes that go into creation of the final shape. Even if someone document all the changes, it is almost impossible to read, understand and appreciate the sequential changes. The iterative actions to reach a final shape is `Karma`. In essence knowledge gets encrypted in `Karma` or in other words `Karma` is what leads to manifestation hiding (or binding) the knowledge to a final shape. What we get from the "manifested" product is only "information". Information may inspire or distract but it is not knowledge. Thus even after reading a book or even after using a product, the consumer only gets the information. Knowledge needs close association or active participation in the process of creation.A "changelog" is thus the starting point for "knowledge" seekers.
+
+---
+
+[^open]: "Open" is kinda misnomer because best way to hide something is to keep it in the open :-)
+
+---
+
 [^edits]:  "general edits" means I reviewed the full page and made changes to the text and flow. These could be small changes , additions of few lines or rearranging the text for better readability. 
 
 ---

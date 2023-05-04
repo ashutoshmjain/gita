@@ -1,25 +1,18 @@
-> Internet is the biggest library and the web-browser is the most used app. 
+# Icons and navigation ..
 
-Some of the benefits of reading on the internet are 
-- Truly decentralized and open system - There are hundreds of web browsers - offered by the biggest of corporations to the lone developers working off their garages.
-- Open source alternatives - many browsers are fully open sourced such as Firefox. 
-- Omnipresent - Browsers are available for every platform.  For popular graphical platforms such as Mac, Windows, iOS or Android, the choices are practically limitless.  Even for pure terminal users there are many choices - w3m, lynx, elink to name a few. 
-- For writers, advantages are many. Prime among them is shaking off intermediary publishers and content aggregators. In addition, simple html allows infinite customizability. For tech savvy writers, markdown offers easy scribing. And the best is that publishing direct to the web is 100% free. 
-- The content published directly to the web is future proof in the sense no matter the evolution of devices from desktops to smart phones to AR/VR headsets, the open internet content will always be available. The content locked in platforms such as Wikipedia or Facebook will always be subject to the policies of aggregators. It may go behind a payall at a short notice, as happened in case of Medium.
-- Universally accessible - Nation states may ban big platforms such as Twitter in China and Tiktok in USA, it is almost imposiible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about sponsoring censorship resistant perpetual content!
+As far as the features go, you can:
 
-Browsers are particularly suitable for the long text ..
-- Easily reach the embedded links for references and jump back in at your reading point  - that is the very purpose of the browser, but if you are reading on apps or devices such as "kindle" or on a epub reader or simply a pdf , this feature may not be as easily accessible. You will need to anyway fire up a browser.
-- With text to speech plugins, most major browsers offer AI based reading. Which means you can listen to a page on demand. With onset of AI revolution, this feature is going to further improve.
-- Offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. Thus webpages should be one full chapter. Even a small full book may easily fit in one web page these days. You can always save a page as a file on your computer with a single press of "ctrl+s" on most browsers.
-- In-page and global search - most browsers let you search through the page with Control+f. In essence, you don't need book marks. Because book mark is the last word that you remember.
-- Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word.
-- Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options.
-- If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances for different browsers may implement different key bindings for the same shortcut. Or the shortcuts may be different on Windows v/s a Mac. One of the way to circumvent this problem is to use plug-ins such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
+- toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i>
+- search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
+- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> 
+- You can also navigate by using your keyboard's left and right arrows. 
+- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
-> That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-) Search engines and most content providers clutter the page with click-baits.
 # `arjunUvaach` ..
-Since web-browser is a general purpose application, fine-tuning it for the purpose of pure "reading joy" is somewhat a necessity. And it sure isn't rocket science with free open source and light weight applications such as mdBook.
+`arjunUvaach` is a collection of books and  essays around `Bhagvat Gita`. It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is to promote "free" internet. "Free" in this context means - Cookies free , trackers free, advertising free and of course free as in free beers!
+
+Since web-browser is a general purpose application, fine-tuning it for the purpose of pure "reading joy" is somewhat a necessity. And it sure isn't rocket science with light weight applications such as mdBook.
+
 
 ## mdBook
 This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it'll ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text [^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could run a browser [^browser]. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. For example 
@@ -30,16 +23,6 @@ This book was generated using a `Rust` program called [mdBook](https://github.co
 ![Search mdBook](./search.png)
 
 For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
-
-### Icons and navigation ..
-
-As far as the features go, you can:
-
-- toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i>
-- search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
-- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> 
-- You can also navigate by using your keyboard's left and right arrows. 
-- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
 ### Theme
 The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes[^theme], such as `ayu` , `navy` etc.
@@ -59,7 +42,7 @@ A better compromise is to use "duckduck go" privacy extension. It stops trackers
 
 > As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. You will never notice any advertisements on these pages.
 
-## About this book ..
+## About the content ..
 
 As you will see when you toggle the chapters, this web app has two main sections :
 
@@ -93,6 +76,28 @@ All the content in this website is under creatives common v1.0. Which means ever
 You can reach me at [whatsApp](https://wa.me/message/QTKE4LV2EBGCH1) for any questions or suggestions. Since I don't use any cookies or trackers on these pages, only way for me to know you are reading this text, is if you drop me a text ..hopefully of appreciation :-)
 
 ## research and notes:
+
+[^mission]: Free internet is beautiful. It is the biggest library and the web-browser is the most used app.  Some of the benefits of reading on the internet are 
+- Truly decentralized and open system - There are hundreds of web browsers - offered by the biggest of corporations to the lone developers working off their garages.
+- Open source alternatives - many browsers are fully open sourced such as Firefox. 
+- Omnipresent - Browsers are available for every platform.  For popular graphical platforms such as Mac, Windows, iOS or Android, the choices are practically limitless.  Even for pure terminal users there are many choices - w3m, lynx, elink to name a few. 
+- For writers, advantages are many. Prime among them is shaking off intermediary publishers and content aggregators. In addition, simple html allows infinite customizability. For tech savvy writers, markdown offers easy scribing. And the best is that publishing direct to the web is 100% free. 
+- The content published directly to the web is future proof in the sense no matter the evolution of devices from desktops to smart phones to AR/VR headsets, the open internet content will always be available. The content locked in platforms such as Wikipedia or Facebook will always be subject to the policies of aggregators. It may go behind a payall at a short notice, as happened in case of Medium.
+- Universally accessible - Nation states may ban big platforms such as Twitter in China and Tiktok in USA, it is almost imposiible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about sponsoring censorship resistant perpetual content!
+
+Browsers are particularly suitable for the long text ..
+- Easily reach the embedded links for references and jump back in at your reading point  - that is the very purpose of the browser, but if you are reading on apps or devices such as "kindle" or on a epub reader or simply a pdf , this feature may not be as easily accessible. You will need to anyway fire up a browser.
+- With text to speech plugins, most major browsers offer AI based reading. Which means you can listen to a page on demand. With onset of AI revolution, this feature is going to further improve.
+- Offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. Thus webpages should be one full chapter. Even a small full book may easily fit in one web page these days. You can always save a page as a file on your computer with a single press of "ctrl+s" on most browsers.
+- In-page and global search - most browsers let you search through the page with Control+f. In essence, you don't need book marks. Because book mark is the last word that you remember.
+- Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word.
+- Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options.
+- If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances for different browsers may implement different key bindings for the same shortcut. Or the shortcuts may be different on Windows v/s a Mac. One of the way to circumvent this problem is to use plug-ins such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
+
+> That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-) Search engines and most content providers clutter the page with click-baits.  Instead of starting a twitter campaign, I thought why not create an ideal online resource (myslef). And that morphed into kinda mission for this work.
+
+
+----
 
 [^text]: `mdBook` takes the text written in `markdown` format to publish it through the web app. `markDown` is an open source implementation that allows conversion of text into `html` format through a set of simple notations. 
 

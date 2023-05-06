@@ -26,6 +26,16 @@ For example - if I search for `Siva`, as shown in the graphic above, it gives me
 
 ### Theme
 The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes[^theme], such as `ayu` , `navy` etc.
+### Cover Photo
+The cover picture is a hand drawn sketch of `Ganesa` by `Madan Maholvi` for his handwritten book [Rasta Tau Mile](https://poems.shutri.com). I have changed the background to bright yellow (#f9ce00), to match with the theme. 
+
+`Ganesa` is considered as the embodiment of superior intelligence in `Vaidik` scriptures. 
+### Favicon
+The little picture right in front of your browser's url bar (where you type the address of the website such as hhtps://gita.shutri.com) is called a favicon. The Favicon is kinda a little picture of the  webpage particularly useful if you have many tabs open. 
+
+The favicon for this web-app is a "Trefoil" knot. Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle) and it passes the "tri-colorability" knot variant. In Vaidik scriptures, Trefoil is considered as the first and most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation. More technical stuff on [Trefoil](https://en.wikipedia.org/wiki/Trefoil_knot) . 
+
+Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists. Unlike a "circle" where mirror image has no meaning. In that sense, Trefoil not only passes tri-colorability, it is the first three dimensional structure that passes the "parity symmetry" the most fundamental necessity of manifestation.
 ## Privacy
 
 The mdBook application is highly customizable. It is for the writer to make sure that they don't use any "cookies or trackers". And the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design because it makes pages faster to load.
@@ -82,8 +92,8 @@ You can reach me at [whatsApp](https://wa.me/message/QTKE4LV2EBGCH1) for any que
 - Open source alternatives - many browsers are fully open sourced such as Firefox. 
 - Omnipresent - Browsers are available for every platform.  For popular graphical platforms such as Mac, Windows, iOS or Android, the choices are practically limitless.  Even for pure terminal users there are many choices - w3m, lynx, elink to name a few. 
 - For writers, advantages are many. Prime among them is shaking off intermediary publishers and content aggregators. In addition, simple html allows infinite customizability. For tech savvy writers, markdown offers easy scribing. And the best is that publishing direct to the web is 100% free. 
-- The content published directly to the web is future proof in the sense no matter the evolution of devices from desktops to smart phones to AR/VR headsets, the open internet content will always be available. The content locked in platforms such as Wikipedia or Facebook will always be subject to the policies of aggregators. It may go behind a payall at a short notice, as happened in case of Medium.
-- Universally accessible - Nation states may ban big platforms such as Twitter in China and Tiktok in USA, it is almost imposiible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about sponsoring censorship resistant perpetual content!
+- The content published directly to the web is future proof in the sense no matter the evolution of devices from desktops to smart phones to AR/VR headsets, the open internet content will always be available. The content locked in platforms such as Wikipedia or Facebook will always be subject to the policies of aggregators. It may go behind a paywall at a short notice, as happened in case of Medium.
+- Universally accessible - Nation states may ban big platforms such as Twitter in China and Tiktok in USA, it is almost impossible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about sponsoring censorship resistant perpetual content!
 
 Browsers are particularly suitable for the long text ..
 - Easily reach the embedded links for references and jump back in at your reading point  - that is the very purpose of the browser, but if you are reading on apps or devices such as "kindle" or on a epub reader or simply a pdf , this feature may not be as easily accessible. You will need to anyway fire up a browser.
@@ -94,7 +104,7 @@ Browsers are particularly suitable for the long text ..
 - Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options.
 - If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances for different browsers may implement different key bindings for the same shortcut. Or the shortcuts may be different on Windows v/s a Mac. One of the way to circumvent this problem is to use plug-ins such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
 
-> That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-) Search engines and most content providers clutter the page with click-baits.  Instead of starting a twitter campaign, I thought why not create an ideal online resource (myslef). And that morphed into kinda mission for this work.
+> That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-) Search engines and most content providers clutter the page with click-baits.  Instead of starting a twitter campaign, I thought why not create an ideal online resource (myself). And that morphed into kinda mission for this work.
 
 
 ----

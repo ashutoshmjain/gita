@@ -15,9 +15,9 @@ Since web-browser is a general purpose application, fine-tuning it for the purpo
 
 
 ## mdBook
-This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it'll ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text [^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could run a browser [^browser]. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. For example 
+This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). `mdBook` turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool a public domain book may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
 - It handles the layout and responsive design so my focus stays on the content of this book instead of the architecture of the site. 
-- At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) which I use to stick in my research and notes - kinda the ideas that led to shaping up the chapter.
+- At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) 
 - One of the best (and probably least appreciated) feature of this app is "search" . The search, in here provides a three level view 
 
 ![Search mdBook](./search.png)
@@ -26,16 +26,22 @@ For example - if I search for `Siva`, as shown in the graphic above, it gives me
 
 ### Theme
 The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes[^theme], such as `ayu` , `navy` etc.
-### Cover Photo
-The cover picture is a hand drawn sketch of `Ganesa` by `Madan Maholvi` for his handwritten book [Rasta Tau Mile](https://poems.shutri.com). I have changed the background to bright yellow (#f9ce00), to match with the theme. 
-
-`Ganesa` is considered as the embodiment of superior intelligence in `Vaidik` scriptures. 
 ### Favicon
-The little picture right in front of your browser's url bar (where you type the address of the website such as hhtps://gita.shutri.com) is called a favicon. The Favicon is kinda a little picture of the  webpage particularly useful if you have many tabs open. 
+The little picture right in front of your browser's url bar (where you type the address of the website such as https://gita.shutri.com) is called a favicon. 
 
-The favicon for this web-app is a "Trefoil" knot. Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle) and it passes the "tri-colorability" knot variant. In Vaidik scriptures, Trefoil is considered as the first and most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation. More technical stuff on [Trefoil](https://en.wikipedia.org/wiki/Trefoil_knot) . 
+The favicon for this web-app is a "Trefoil" knot. Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
-Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists. Unlike a "circle" where mirror image has no meaning. In that sense, Trefoil not only passes tri-colorability, it is the first three dimensional structure that passes the "parity symmetry" the most fundamental necessity of manifestation.
+Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the "parity symmetry". A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
+
+### Cover Photo
+The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
+
+In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only answer. Framing the right questions is left to the evolution. 
+
+> One who has all the answers doesn't know of any question!
+
+
+
 ## Privacy
 
 The mdBook application is highly customizable. It is for the writer to make sure that they don't use any "cookies or trackers". And the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design because it makes pages faster to load.

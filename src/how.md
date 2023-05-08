@@ -9,15 +9,17 @@ As far as the features go, you can:
 - On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
 # `arjunUvaach` ..
-`arjunUvaach` is a collection of books and  essays around `Bhagvat Gita`. It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is to promote "free" internet. "Free" in this context means - Cookies free , trackers free, advertising free and of course free as in free beers!
+This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working and collaboration place for the ideas and artifacts surrounding the epic. In essence, it is NOT a final published book and will never be. This is meant to be the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, esseys, comic strips, movies or podcasts based on this material. Or may even take it to VR in some shape or form or even feed it to AI models. The source text is available at github repository.
 
-Since web-browser is a general purpose application, fine-tuning it for the purpose of pure "reading joy" is somewhat a necessity. And it sure isn't rocket science with light weight applications such as mdBook.
+It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is to promote "free" internet. "Free" in this context means - Cookies free , trackers free, advertising free and of course free as in free beers!
+
+Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. And it sure isn't rocket science with light weight applications such as mdBook.
 
 
 ## mdBook
-This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). `mdBook` turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool a public domain book may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
-- It handles the layout and responsive design so my focus stays on the content of this book instead of the architecture of the site. 
-- At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) 
+This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). `mdBook` turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool a public domain work  may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
+- It handles the layout and responsive design so my focus stays on the content instead of the architecture of the site. 
+- At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) . This experience is different from that of "wikis" or "writing platforms". I find it easier to read and write in this format.
 - One of the best (and probably least appreciated) feature of this app is "search" . The search, in here provides a three level view 
 
 ![Search mdBook](./search.png)
@@ -25,11 +27,10 @@ This website was generated using a program called [mdBook](https://github.com/ru
 For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
 
 ### Theme
-The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from experience standpoint (before publishing), I have restricted other mdBook standard themes[^theme], such as `ayu` , `navy` etc.
+The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (user) experience standpoint (before publishing), I have restricted other mdBook standard themes [^theme], such as `ayu` , `navy` etc.
 ### Favicon
-The little picture right in front of your browser's url bar (where you type the address of the website such as https://gita.shutri.com) is called a favicon. 
 
-The favicon for this web-app is a "Trefoil" knot. Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+The favicon [^favi] for this web-app is a "Trefoil" knot. Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the "parity symmetry". A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
 
@@ -104,10 +105,10 @@ You can reach me at [whatsApp](https://wa.me/message/QTKE4LV2EBGCH1) for any que
 Browsers are particularly suitable for the long text ..
 - Easily reach the embedded links for references and jump back in at your reading point  - that is the very purpose of the browser, but if you are reading on apps or devices such as "kindle" or on a epub reader or simply a pdf , this feature may not be as easily accessible. You will need to anyway fire up a browser.
 - With text to speech plugins, most major browsers offer AI based reading. Which means you can listen to a page on demand. With onset of AI revolution, this feature is going to further improve.
-- Offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. Thus webpages should be one full chapter. Even a small full book may easily fit in one web page these days. You can always save a page as a file on your computer with a single press of "ctrl+s" on most browsers.
-- In-page and global search - most browsers let you search through the page with Control+f. In essence, you don't need book marks. Because book mark is the last word that you remember.
-- Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word.
-- Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options.
+- Offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. Thus webpages should be one full chapter. Even a small book may easily fit in one web page these days. You can always save a page as a file on your computer with a single press of "ctrl+s" on most browsers.
+- In-page and global search - most browsers let you search through the page with Control+f. In essence, you don't need bookmarks. Because book mark is the last word that you remember. Check out this firefox extension if you still need an [in-page bookmark]( https://addons.mozilla.org/en-US/firefox/addon/simple-bookmark-tool/).   It saves scroll positions for tabs, as well as the tabs themselves. Designed for quick bookmarking and keeping track of where you were on long pages.
+- Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word. On chrome you can install "Google Dictionary" extension and Firefox's most recommended addon for the spell is "dictionary anywhere" among hundreds others. 
+- Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options. On Firefox there is an official "Notes" extension that lets you take notes in a side bar.
 - If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances for different browsers may implement different key bindings for the same shortcut. Or the shortcuts may be different on Windows v/s a Mac. One of the way to circumvent this problem is to use plug-ins such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
 
 > That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-) Search engines and most content providers clutter the page with click-baits.  Instead of starting a twitter campaign, I thought why not create an ideal online resource (myself). And that morphed into kinda mission for this work.
@@ -123,14 +124,21 @@ Browsers are particularly suitable for the long text ..
 
 ---
 
-[^tablet]: This book was “designed” for ‘in-browser’ reading experience on an Apple or Android tablet. It should work pretty well on kindle browser as well, if you want to read it in the bright sun light, though you will need an internet connection. Of course it will work fine on a laptop browser - duh:-)
+[^tablet]: This content is “designed” for ‘in-browser’ reading experience on an Apple or Android tablet. It should work pretty well on kindle browser as well, if you want to read it in the bright sun light, though you will need an internet connection. Of course it will work fine on a laptop browser.
 
 ---
 
-[^foot]: When you click on the foot note marker in the main text, it brings you down to the relevant note at the bottom. You can always press the browser back arrow on computer (or on tablet) to get back to where you were reading - back to the foot note mark in the main text. Isn't that lot better than reading a paper book!
+[^foot]: Footnote
+- When you click on the foot note marker in the main text, it brings you down to the relevant note at the bottom. Think of it as a hyperlink with in the page.
+- You can always press the browser back arrow on computer (or on tablet) to get back to where you were reading - back to the foot note mark in the main text. Isn't that lot better than reading a paper book!
 
 ---
 
-[^theme]: Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. It is almost impossible to review the text though all the possible combinations. Thus a lone writer-editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
+[^theme]: Theme
+- Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. 
+- Though choice is a good thing, it is almost impossible to review the text though all the possible combinations. Thus a lone writer-editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
 
 ---
+
+[^favi]: Favicon
+- The little picture right in front of your browser's url bar (where you type the address of the website such as https://gita.shutri.com) is called a favicon. 

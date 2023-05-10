@@ -9,9 +9,9 @@ As far as the features go, you can:
 - On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
 # `arjunUvaach` ..
-This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working and collaboration place for the ideas and artifacts surrounding the epic. In essence, it is NOT a final published book and will never be. This is meant to be the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, esseys, comic strips, movies or podcasts based on this material. Or may even take it to VR in some shape or form or even feed it to AI models. The source text is available at github repository.
+This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. In essence, it is NOT a final published book and will never be. This is meant to be the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, esseys, comic strips, movies or podcasts based on this material. Or may even take it to VR in some shape or form or even feed it to AI models. The source text is available at github repository.
 
-It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is to promote "free" internet. "Free" in this context means - Cookies free , trackers free, advertising free and of course free as in free beers!
+It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is (also) to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
 
 Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. And it sure isn't rocket science with light weight applications such as mdBook.
 
@@ -26,22 +26,20 @@ This website was generated using a program called [mdBook](https://github.com/ru
 
 For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
 
-### Theme
+## Theme
 The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (user) experience standpoint (before publishing), I have restricted other mdBook standard themes [^theme], such as `ayu` , `navy` etc.
-### Favicon
 
-The favicon [^favi] for this web-app is a "Trefoil" knot. Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+## Favicon
+The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the "parity symmetry". A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
 
-### Cover Photo
+## Cover Photo
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
 In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only answer. Framing the right questions is left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
-
-
 
 ## Privacy
 
@@ -94,7 +92,7 @@ You can reach me at [whatsApp](https://wa.me/message/QTKE4LV2EBGCH1) for any que
 
 ## research and notes:
 
-[^mission]: Mission of this publication is to realize the original promise of the internet. A universally accessible, anonymous and clutter-free way to communicate. Free internet is beautiful. It is the biggest library and the web-browser is the most used app.  Some of the benefits of reading on the internet are 
+[^mission]: This publication aspires to adhere the original promise of the internet. A universally accessible, anonymous and clutter-free way to communicate. Free internet is beautiful. It is the biggest library and the web-browser is the most used app.  Some of the benefits of reading on the internet are 
 - Truly decentralized and open system - There are hundreds of web browsers - offered by the biggest of corporations to the lone developers working off their garages.
 - Open source alternatives - many browsers are fully open sourced such as Firefox. 
 - Omnipresent - Browsers are available for every platform.  For popular graphical platforms such as Mac, Windows, iOS or Android, the choices are practically limitless.  Even for pure terminal users there are many choices - w3m, lynx, elink to name a few. 
@@ -110,6 +108,7 @@ Browsers are particularly suitable for the long text ..
 - Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word. On chrome you can install "Google Dictionary" extension and Firefox's most recommended addon for the spell is "dictionary anywhere" among hundreds others. 
 - Notes - you can easily add plugins such as "Zotero" to take notes. I am sure there are many other options. On Firefox there is an official "Notes" extension that lets you take notes in a side bar.
 - If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances for different browsers may implement different key bindings for the same shortcut. Or the shortcuts may be different on Windows v/s a Mac. One of the way to circumvent this problem is to use plug-ins such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
+- You can save a snapshot of a webpage as a legal proof with open archive's "wayback machine". [wayback machine](https://archive.org/web/) allows you to catalog web pages even if the site is totally removed from the internet. 
 
 > That said, the reading experience on Browsers is compromised! You don't think of a web browser when you indulge yourself into a four hundred page book! This is partly because great content is NOT carefully "webbitized" but more because being the most open and used application, browsers are targets of prying eyes. Advertisers want to track your eye movements with trackers and cookies :-) Search engines and most content providers clutter the page with click-baits.  Instead of starting a twitter campaign, I thought why not create an ideal online resource (myself). And that morphed into kinda mission for this work.
 
@@ -124,7 +123,7 @@ Browsers are particularly suitable for the long text ..
 
 ---
 
-[^tablet]: This content is “designed” for ‘in-browser’ reading experience on an Apple or Android tablet. It should work pretty well on kindle browser as well, if you want to read it in the bright sun light, though you will need an internet connection. Of course it will work fine on a laptop browser.
+[^tablet]: This content is “designed” for ‘in-browser’ reading experience on a laptop or a desktop. It should work pretty well on Tablets and Smartphones, even on and Kindle browser (if you want to read it in the bright sun light), but the browsers are pretty compromised on smart devices. For one you can't install extensions or "add ons" on most of the browsers on smart(er) devices :-) There are ways to hack the tablets to get desktop quality browsers but then you are turning a tablet into a laptop anyways :-). A curious implementation is "Samsung Dex" on their Android tablets. It is a good start but as of 2023, if you are someone who is enthused by "Dex", you should probably dust off your ten years old laptop and use a "32 bit version" of Debian for a better quality of Browsers (and life:-). Even a low cost "Chromebook" does lot better!
 
 ---
 

@@ -6,10 +6,10 @@ As far as the features go, you can:
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> 
 - You can also navigate by using your keyboard's left and right arrows. 
-- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
+- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
 # `arjunUvaach` ..
-This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. In essence, it is NOT a final published book and will never be. This is meant to be the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, esseys, comic strips, movies or podcasts based on this material. Or may even take it to VR in some shape or form or even feed it to AI models. The source text is available at github repository.
+This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. It aspires to be  the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, esseys, comic strips, movies or podcasts based on this material. Or may even take it to the virual reality in some shape or form, or may even feed it to the AI models.
 
 It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is (also) to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
 
@@ -17,7 +17,7 @@ Since web-browser is a general purpose application, fine-tuning it for "readabil
 
 
 ## mdBook
-This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). `mdBook` turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool a public domain work  may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
+This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). It turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool a public domain work  may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
 - It handles the layout and responsive design so my focus stays on the content instead of the architecture of the site. 
 - At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) . This experience is different from that of "wikis" or "writing platforms". I find it easier to read and write in this format.
 - One of the best (and probably least appreciated) feature of this app is "search" . The search, in here provides a three level view 
@@ -27,23 +27,23 @@ This website was generated using a program called [mdBook](https://github.com/ru
 For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
 
 ## Theme
-The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (user) experience standpoint (before publishing), I have restricted other mdBook standard themes [^theme], such as `ayu` , `navy` etc.
+The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (user) experience standpoint (before publishing), I have restricted other mdBook standard themes [^themes], such as `ayu` , `navy` etc.
 
 ## Favicon
-The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. For living beings, this is the minimum needed for the life to exist. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the "parity symmetry". A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
 
 ## Cover Photo
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only answer. Framing the right questions is left to the evolution. 
+In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only answer. Framing the right set of questions is left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
 
 ## Privacy
 
-The mdBook application is highly customizable. It is for the writer to make sure that they don't use any "cookies or trackers". And the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design because it makes pages faster to load.
+The mdBook application is highly customizable. It is for the writer to make sure they don't use any "cookies or trackers". And the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice because it makes pages faster to load.
 
 You can configure `Safari` (on a Mac) to block all the cookies. Press  "command + Comma"  in Safari to block the cookies, as shown below on the `Privacy` tab 
 
@@ -115,15 +115,20 @@ Browsers are particularly suitable for the long text ..
 
 ----
 
-[^text]: `mdBook` takes the text written in `markdown` format to publish it through the web app. `markDown` is an open source implementation that allows conversion of text into `html` format through a set of simple notations. 
+[^text]: mdBook takes the written words in "markdown" format and churns out a fully deployable webApp.
+- markDown is a "translation engine" that translates a piece of simple written text into html that is easily understood and parsed by web browsers. You stil need to follow mardown notations. It is not a bad deal because markdown notations are lot easier than typing html tags.
+- markDown is prebuilt into mdbook.  It thus takes the text written in markdown format and converts it into a static website that looks and feels like a book. You still need a server to deploy this website. And you still need to connect it with a domain name.
+- a static website is something that doesn't changes it's content till a new version is deployed. 
+- Since static websites put minimal load on the webservers, places like github or gitlab allow free hosting and publishing.
+- They also allow connection to your own domain name if you have one.
 
 ---
 
-[^browser]: Because of limited resources, I only use ‘Google Chrome’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or elinks that don't support javascipt natively.
+[^browser]: Because of limited resources, I only use ‘Firefox’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or elinks that don't support javascipt natively.
 
 ---
 
-[^tablet]: This content is “designed” for ‘in-browser’ reading experience on a laptop or a desktop. It should work pretty well on Tablets and Smartphones, even on and Kindle browser (if you want to read it in the bright sun light), but the browsers are pretty compromised on smart devices. For one you can't install extensions or "add ons" on most of the browsers on smart(er) devices :-) There are ways to hack the tablets to get desktop quality browsers but then you are turning a tablet into a laptop anyways :-). A curious implementation is "Samsung Dex" on their Android tablets. It is a good start but as of 2023, if you are someone who is enthused by "Dex", you should probably dust off your ten years old laptop and use a "32 bit version" of Debian for a better quality of Browsers (and life:-). Even a low cost "Chromebook" does lot better!
+[^tablet]: This content is “designed” for ‘in-browser’ reading experience on a laptop or a desktop. It should work pretty well on Tablets and Smartphones, even on a Kindle browser (if you want to read it in the bright sun light), but the browsers are pretty compromised on smart devices. For one you can't install extensions or "add ons" on most of the browsers on smart(er) devices :-) There are ways to hack the tablets to get desktop quality browsers but then you are turning a tablet into a laptop anyways :-). A curious implementation is "Samsung Dex" on their Android tablets. It is a good start but as of 2023, if you are someone who is enthused by "Dex", you should probably dust off your ten years old laptop and use a "32 bit version" of Debian for a better quality of Browsers (and life:-). Even a low cost "Chromebook" does lot better!
 
 ---
 
@@ -133,7 +138,7 @@ Browsers are particularly suitable for the long text ..
 
 ---
 
-[^theme]: Theme
+[^themes]: Theme
 - Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. 
 - Though choice is a good thing, it is almost impossible to review the text though all the possible combinations. Thus a lone writer-editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
 

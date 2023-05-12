@@ -17,7 +17,7 @@ Since web-browser is a general purpose application, fine-tuning it for "readabil
 
 
 ## mdBook
-This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). It turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool a public domain work  may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
+This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). It turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool,  public domain work(s) may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
 - It handles the layout and responsive design so my focus stays on the content instead of the architecture of the site. 
 - At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) . This experience is different from that of "wikis" or "writing platforms". I find it easier to read and write in this format.
 - One of the best (and probably least appreciated) feature of this app is "search" . The search, in here provides a three level view 
@@ -27,23 +27,23 @@ This website was generated using a program called [mdBook](https://github.com/ru
 For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
 
 ## Theme
-The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (user) experience standpoint (before publishing), I have restricted other mdBook standard themes [^themes], such as `ayu` , `navy` etc.
+The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (reader's) experience standpoint (before publishing), I have restricted other mdBook standard themes [^themes], such as `ayu` , `navy` etc.
 
 ## Favicon
 The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
-Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the "parity symmetry". A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
+Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the [parity symmetry](https://en.wikipedia.org/wiki/Parity_(physics)). In `Vaidik` science, chirality is considered the basis of manifestion. A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
 
 ## Cover Photo
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only answer. Framing the right set of questions is left to the evolution. 
+In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
 
 ## Privacy
 
-The mdBook application is highly customizable. It is for the writer to make sure they don't use any "cookies or trackers". And the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice because it makes pages faster to load.
+The mdBook application is highly customizable. One can infest it with any number of trackers - sometimes unknowingly. It is for the writer to make sure they don't use any "plug and play" code such as "google analytics" that adds  "cookies or trackers". The publisher must go and extra mile to make sure the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice because it makes pages faster to load.
 
 You can configure `Safari` (on a Mac) to block all the cookies. Press  "command + Comma"  in Safari to block the cookies, as shown below on the `Privacy` tab 
 
@@ -59,7 +59,7 @@ A better compromise is to use "duckduck go" privacy extension. It stops trackers
 
 ## About the content ..
 
-As you will see when you toggle the chapters, this web app has two main sections :
+As you will see when you toggle the chapters, this web app has three main sections :
 
 - The first section — `Mathura` is a historical narrative that discovers the "writing revolution" when humans adopted “written word” as primary medium for preserving knowledge. I believe this revolution took place around seven thousand years ago when `Krishna Dwaipayana` scribed `Maha-Bharata`. Study of this first major shift in human cognition — from spoken to written word — makes a fascinating quest narrative. And at the same time, it might resolve the dilemmas we face as we are moving from analog to increasingly digital realm. 
 - I also believe that the knowledge that `Dwaipayana` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering core concepts of Gita. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
@@ -83,7 +83,7 @@ All the content in this website is under creatives common v1.0. Which means ever
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
 - I refrain from using citations as much as possible. The reason is simple — it is NOT a narrative chasing accuracy. The goal is to imagine possible scenarios, and then review them with an eye to seek comparative probability. This also means it is a subjective discretion.
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
-- It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information.
+- It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information. Infact the name `arjunUvaach` means "Arjuna speaks". And most of the times in `Gita`, Arjuna speaks to seek knowledge. `Gita` is answers to Arjuna's questions.
 - Footnotes are used to avoid verbosity in the body of article, but they do carry useful information. For paucity of time, if you happen to "skip-over", or for keeping the flow of reading, I suggest to run by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in foot notes :-)
 
 ## Contact
@@ -116,7 +116,7 @@ Browsers are particularly suitable for the long text ..
 ----
 
 [^text]: mdBook takes the written words in "markdown" format and churns out a fully deployable webApp.
-- markDown is a "translation engine" that translates a piece of simple written text into html that is easily understood and parsed by web browsers. You stil need to follow mardown notations. It is not a bad deal because markdown notations are lot easier than typing html tags.
+- markDown is a "translation engine" that translates a piece of simple written text into html that is easily understood and parsed by web browsers. You still need to follow markdown notations. It is not a bad deal because markdown notations are lot easier than typing html tags.
 - markDown is prebuilt into mdbook.  It thus takes the text written in markdown format and converts it into a static website that looks and feels like a book. You still need a server to deploy this website. And you still need to connect it with a domain name.
 - a static website is something that doesn't changes it's content till a new version is deployed. 
 - Since static websites put minimal load on the webservers, places like github or gitlab allow free hosting and publishing.

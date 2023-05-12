@@ -1,6 +1,12 @@
 # changeLog [^history]
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
+## May 08, 23 - Friday
+- [Mathura](./mathuraLanding.md)  
+  - [readme](./how.md) - General Edits [^edits].
+  - [Invocation](./prologue.md) - General Edits [^edits]
+
+----
 
 ## May 05, 23 - Friday
 - [Mathura](./mathuraLanding.md) - General stuff around the website. Fixed the whatsapp link. Changed the Favicon to a "Trefoil" knot.

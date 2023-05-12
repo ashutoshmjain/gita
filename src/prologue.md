@@ -1,13 +1,13 @@
-In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and self-sacrifice. In Hindu tradition, deities are invoked before uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama` invoked `Siva` before crossing the sea.
+In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and sacrifice. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama` invoked `Siva` before crossing the sea.
 
-Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. The shift included among many other things ..
-- adapting the language model from "primarily spoken" to "primarily written"; 
+Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This shift, among many other things, included ..
+- improvements in the language model from "primarily spoken" to "primarily written"; 
 - extension of calligraphic symbols to capture the true essence of spoken word; 
-- organizing a pay back model around scribing; 
+- organizing a self sustaining pay back model around scribing; 
 - development of writing tools such as palm leaves, ink, and pen. 
 - and patience to write (and read) long meaningful text.
 
-But more importantly, finding a purpose to write -  a narrative that would span ages without losing it's lustre and relevance. The idea of "transcription"  was to `Mahabharata`, the way "C" - the computer programming language, was purpose built for Unix, Or block-chain technology was white-papered specifically for the Bitcoin. [^c]
+But more importantly, finding a purpose to write -  a narrative that would span ages without losing it's luster and relevance. The idea of "transcription"  was to `Mahabharata`, the way a "keyboard & display" is to a  computer - purpose built. [^c]
 
 
 The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
@@ -16,12 +16,14 @@ The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowl
 
 `Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then existing wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
 
-This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. As a complimentary gift, to ensure this knowledge was never lost, he ushered the humanity from "spoken" to the "written" word. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
+
+As a complimentary gift, to ensure this knowledge was never lost, he ushered the humanity from "spoken" to the "written" word. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
-- `Krishi Parāśara` — Agriculture;
-- `Vrkayurveda` — Botany, and 
+- `Krishi Parāśara` — The science of Agriculture;
+- `Vrkayurveda` — Insights into Botany, and 
 - `Vishnu Purana`[^vishnu] — Stories of universal manifestative potency.
 
 His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational mission to decipher and record "true" knowledge.
@@ -46,7 +48,7 @@ And finally, we added next boost to this storage with the digital medium. Intern
  The comparison above is certainly not 'apple to apple' because data on internet contains machine logs, code, graphics and hundreds of other formats but the point really is to show case that in roughly 2500 years, our external storage grew almost a billion times. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human can read all the books in print much less the content stored on the internet. The reason we are forced to develop tools such as "search" and "artificial intelligence" is to harvest this external store of knowledge [^whySearch].
 
 
-Storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets such as earth is the very source of life. Storage of "knowledge" is the essence of consciousness itself, though knowledge is extremely hard to store. It is a long iterative process of decrypting eternal wisdom, one word at a time. Vast external store of knowledge leads to creation of new universes. [^kalki].
+Storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. Storage of "knowledge" is the essence of consciousness itself, though knowledge is extremely hard to store. It is a long iterative process of decrypting eternal wisdom, one word at a time. Vast external store of knowledge leads to creation of new universes. [^kalki].
 
 
 ## 0.2
@@ -150,16 +152,17 @@ What motivations led to this major step-up in our approach to preservation of kn
 
 Following pages are a filtered version of my research investigating that revolution. And not surprisingly, it makes a fascinating story! And also a reflection on why humans keep changing the medium in pursuit to climb the ladder of consciousness! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of a "paradigm shift" is more or less similar. There is a lot to learn!
 
-For example, as we are moving to increasingly virtual world, we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on six feet tall posters as our forefathers did when they first tried to democratize knowledge - a mistake, because the containers of knowledge must evolve into a new shape with each evolutionary cycle.  Do we need another way to organize content in the digital world? Is that new format neural networks that feast on all the text scribed thus far? Is the mechanism to organize knowledge cultivation hidden in distributed social content?  Or we still need to find a new home for the knowledge on block-chains and hash-graphs that is an order of magnitude more efficient than the written media! Knowledge cultivation is just one part, how are we going to compensate the artistic expression where AI generates content on demand? How is it going to alter our universe into a much richer tapestry of metaverse?  And more broadly, is the question we need to ask is moral 'wrong verses right' or is it about the 'efficiency and productivity'? As we go through the back-story of creation of `Mahabharata`, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.
+For example, as we are moving to increasingly virtual world, we are trying to take books into the new medium - digital copies in similar size and shape as the physical hardcovers! Maybe we are trying to write books on six feet tall posters as our forefathers did when they first tried to democratize knowledge - a mistake, because the containers of knowledge must evolve into a new shape with each evolutionary cycle.  Do we need another way to organize content in the digital world? Is that new format neural networks that feast on all the text scribed thus far? Is the mechanism to organize knowledge cultivation hidden in distributed social content?  Or we still need to find a new home for the knowledge on block-chains and hash-graphs that are an order of magnitude more efficient than the written media! Knowledge cultivation is just one part, how are we going to compensate the artistic expression where AI generates content on demand? How is it going to alter our universe into a much richer tapestry of metaverse?  And more broadly, is the question we need to ask is moral 'wrong verses right' or is it about the 'efficiency and productivity'? As we go through the back-story of creation of `Mahabharata`, we will discover many such questions. I can't promise all the answers, but a look at that first shift, might get us a better vantage of our current struggles ..and the road ahead.
 
 Let me rewind you to around seven-ish thousands years back. It is about the time `Dwaipayana's` father was to be born at `Mathura` — a major pilgrim destination now; the foremost seat of learning back then ... and a major mishap occurred — something never heard before — and something that triggered the **writing revolution.**
 
 ## Research and notes:
 ----
 
-[^c]:  Human languages, Programming languages and Block-chains
-- It might feel like a flight of extreme imagination to compare the text written on palm leaves with modern programming language ; but there are few similarities if we peal the top layer. The written language is for communication between humans while a programming language takes the communication to next level - From humans to the machines. 
-- Language(s) are for communication. Communication needs order - history. Maintaining the history of communication for humans is easy but it is quite hard for the computers because time-stamps are easy to temper. Block-chains are thus distributed , easily verifiable blocks of text for computers to ascertain the true sequence of messages. This obviously have application in financial transactions where humans may not be trust worthy. Thus blockchain's first usecase is currency but that is just the beginning. Blackchains will enable trusted inter-computer communication in coming times.
+[^c]: Purpose Built ..
+- When "knowledge" around a specific area of expertise, becomes intensely granular, it manifests into physical objects. For example the computer, morphed from large mainframes to it's current shape because the operating systems became more and more granular.
+- The rigor of operating systems such as "Unix" not only mandated a large number of new peripheral, it also led to formation of a high level programming languages starting with "C". 
+- In essence the rigor of `Mahabharata` in spoken form, led to creation of scribing tools and also immense advancements in scribing technology.
 ---
 
 [^8th]: `Poorna-avtaara` - The eighth incarnation

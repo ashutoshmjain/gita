@@ -18,7 +18,7 @@ The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowl
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 
-As a complimentary gift, to ensure this knowledge was never lost, he ushered the humanity from "spoken" to the "written" word. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+As a complimentary gift, to ensure this knowledge stayed accessible to everyone, he ushered the humanity from "spoken word" to the "written text". The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
@@ -28,25 +28,27 @@ As a complimentary gift, to ensure this knowledge was never lost, he ushered the
 
 His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational mission to decipher and record "true" knowledge.
 
-In a way, it was a quantum jump in evolution of consciousness, at least from the humans' standpoint. The primary difference between humans and other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store, and distribute knowledge through external means. 
+## 0.1
+ ----
+ 
+The idea of "text" was profound, with far reaching consequences. It was a quantum jump in evolution of consciousness, at least from the humans' standpoint. The primary difference between humans and other species is our ability to store knowledge outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, may adapt quicker because we store, and distribute knowledge through external means. 
 
 This external storage leads to the notion of a "civilization". A civilization surrounds itself around a core rational knowledge-base. It develops physical and spiritual tools that enhance the life experience of it's participants. Enhanced life experience is nothing but evolution of conciousness. Not only does it improve the longevity, it also adds to  what we may explore per unit of time. By this definition, humans have much greater conscious experience compared to other species.
 
  The first Indus valley civilization was built around  `Vaidik` science, Greco-Romans were founded around work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application(s) of modern science, and now America is broadly reaping around the digital wealth of knowledge.
 
-## 0.1
- ----
- 
+
  The external store of knowledge drives human world. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the knowledge - text. Even in digital realm, most of the meaningful content is text. 
 
  The storage was first realized with the "spoken word". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Bramhrishi Vaśiṣṭha` - great grand father of `Dwaipayana`, understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital (`Shruti`[^shruti]), was the basis of first civilization.
 
  With "written word" storage capacity got a boost. It is estimated that there are over 130 million books in existence as of 2021. Library of Alexandria, built by Ptolemy in early days of the written word ( around 3rd century bc) had anywhere between seventy to seven hundred thousand "Papyrus" rolls. A conversion into a modern textbook size should end up to say a hundred thousand books - a lot, given they were all hand written and carefully transported to Alexandria for safe keeping and reference.
 
-And finally, we added next boost to this storage with the digital medium. Internet is still in its infancy, somewhat like Library of Alexandria was to the "Papyrus" world. As of 2021, there are over 1.83 billion websites on the internet. The amount of data stored on the internet is estimated to be in the zettabyte range (1 zettabyte is equivalent to a billion terabytes). Which means, it is already close to  a BILLION libraries of Alexandria. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage ( a normal laptop these days), may accommodate 200,000 books. You and me carry a library of Alexandria in our backpacks !
+And finally, with digital medium, we inoculated our external store with third booster. Internet is still in its infancy, somewhat like Library of Alexandria was to the "Papyrus" world. As of 2021, there are over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range (One zettabyte is equivalent to a billion terabytes). Which means, it is already close to  a BILLION libraries of Alexandria. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage ( a normal laptop these days), may accommodate 200,000 books. You and me carry a library of Alexandria in our backpacks !
 
- The comparison above is certainly not 'apple to apple' because data on internet contains machine logs, code, graphics and hundreds of other formats but the point really is to show case that in roughly 2500 years, our external storage grew almost a billion times. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human can read all the books in print much less the content stored on the internet. The reason we are forced to develop tools such as "search" and "artificial intelligence" is to harvest this external store of knowledge [^whySearch].
+ The comparison above is certainly not 'apple to apple' because data on internet contains machine logs, code, graphics and hundreds of other formats but the point really is to show case our external storage grew almost a billion times. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human could ever read all the books in print much less the content stored on the internet. 
 
+> The reason we are forced to develop tools such as "search" and "artificial intelligence" is to harvest this external store of knowledge [^whySearch]. In a way, consciousness (ability to experience) is already in the process of migration to superior mechanisms. Evolution is already put on an accelerated path.
 
 Storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. Storage of "knowledge" is the essence of consciousness itself, though knowledge is extremely hard to store. It is a long iterative process of decrypting eternal wisdom, one word at a time. Vast external store of knowledge leads to creation of new universes. [^kalki].
 
@@ -54,7 +56,7 @@ Storage beyond a critical cumulation creates disruption. Vast storage of water i
 ## 0.2
 ---
 
-Not only did `Dwaipayana` edit four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)- a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph.`Jaya` was later expanded into a mega-epic, [Mahabharata](https://mahabharata.shutri.com). With around 1.8 million words,`Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry is such that it inspired`Kalidasa`, the Shakespeare of Sanskrit.`Abhijnana Shakuntalam`, the marquee work of`Kalidasa`  is a rewrite of the plot first conceived by`Dwaipayana`.
+Not only did `Dwaipayana` edit four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)- a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph.`Jaya` was later expanded into a mega-epic, [Mahabharata](https://mahabharata.shutri.com). With around 1.8 million words,`Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry is such that it inspired `Kalidasa` (the Shakespeare of Sanskrit).`Abhijnana Shakuntalam`, the marquee work of`Kalidasa`  is a rewrite of the plot first conceived by`Dwaipayana`.
 
 In addition to the poetic excellence,`Mahabharata` defined a new way of life - action orientation (`Karm Yoga`). The epic forms, the cultural basis of India - one of the oldest civilization. It holds within it, center-folded, the gist of four Vedas - `Bhagvat Gita` - the first written source of the idea of `Karma`.
 
@@ -174,6 +176,7 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 
 [^immortals]:  Immortal Eight
 - In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.
+- The idea of immortality is a metaphor the work they did. For examle `Parshuram` weilded and axe. The axe is a symbol of tools. `Parshuram` is immortal in every tool we use todate no matter how sophisticated our tools got from that primordial time. Similarly `Ved Yyasa Dwaipayana` is immortal for the literature he created and also the most important tool of the trade - transcription.
 
 ---
 

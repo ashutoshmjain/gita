@@ -1,8 +1,8 @@
-In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and sacrifice. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama` invoked `Siva` before crossing the sea.
+In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and sacrifice. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
 
 Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This shift, among many other things, included ..
-- improvements in the language model from "primarily spoken" to "primarily written"; 
-- extension of calligraphic symbols to capture the true essence of spoken word; 
+- improvements in the language model (e.g. punctuation) to support scribing.
+- extension of calligraphic symbols to capture the true essence of spoken sounds.
 - organizing a self sustaining pay back model around scribing; 
 - development of writing tools such as palm leaves, ink, and pen. 
 - and patience to write (and read) long meaningful text.

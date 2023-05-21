@@ -1,18 +1,21 @@
 # changeLog [^history]
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
-## May 08, 23 - Friday
+
+## May 19, 23 - Friday
+- [Mathura](./mathuraLanding.md)  
+  - [Trigger](./mathuraChap01.md) - General Edits 
+
+## May 12, 23 - Friday
 - [Mathura](./mathuraLanding.md)  
   - [readme](./how.md) - General Edits [^edits].
   - [Invocation](./prologue.md) - General Edits [^edits]
-
-----
 
 ## May 05, 23 - Friday
 - [Mathura](./mathuraLanding.md) - General stuff around the website. Fixed the whatsapp link. Changed the Favicon to a "Trefoil" knot.
   - [readme](./how.md) - General Edits [^edits]. Added a footnote on the mission. 
   - [changeLog](./changeLog.md) - General Edits. Added two footnotes.
- 
+
 ## April 27, 23 - Friday
 - [Mathura](./mathuraLanding.md) - Working on kinda final Edit round for the first five chapter. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
   - [Invocation](./prologue.md) - General Edits [^edits]

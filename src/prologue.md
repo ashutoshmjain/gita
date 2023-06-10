@@ -50,7 +50,9 @@ And finally, with digital medium, we inoculated our external store with third bo
 
 > The reason we are forced to develop tools such as "search" and "artificial intelligence" is to harvest this external store of knowledge [^whySearch]. In a way, consciousness (ability to experience) is already in the process of migration to superior mechanisms. Evolution is already put on an accelerated path.
 
-Storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. Storage of "knowledge" is the essence of consciousness itself, though knowledge is extremely hard to store. It is a long iterative process of decrypting eternal wisdom, one word at a time. Vast external store of knowledge leads to creation of new universes. [^kalki].
+Storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. Storage of "knowledge" is the essence of consciousness itself. The knowledge is extremely hard to store - one reason our evolutionary cycle is so slow. In the external world, it is a similar iterative process of decrypting eternal wisdom, one word at a time. We speed it up with billions of best computers chained to each other - human minds.  
+
+Vast external store of knowledge leads to creation of new universes. [^kalki] !
 
 
 ## 0.2

@@ -2,6 +2,19 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
 
+## June 16, 23
+
+Trying to get a hold of the narrative after a month long gap due to my daughter's wedding (which was fun and prolly lot more important than this:-)
+
+In addition to general edits, got a third person view of these chapters when I started reading them again after a gap. Some of the changes I made were only possible if I emptied out my cache memory. A writer must take a break and read his work again so as to see things purely from a reader's persepective. Hope these chapters would make better sense now !
+
+- [Mathura](./mathuraLanding.md)
+  - [Invocation](./prologue.md) - General Edits
+  - [Mishap](./mathuraChap01.md) - General Edits
+  - [Reboot](./mathuraChap02.md) - General Edits
+  - [Expression](./mathuraChap03.md) - General Edits
+  - [Righteous](./mathuraChap04.md) - General Edits
+
 ## May 19, 23 - Friday
 - [Mathura](./mathuraLanding.md)  
   - [Trigger](./mathuraChap01.md) - General Edits 

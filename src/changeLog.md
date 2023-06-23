@@ -2,6 +2,15 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
 
+
+## June 23, 23
+
+Restored the Mahabharata landing page. It seems the page was deleted with other Mahabharata files.
+Moved the development work to Android. Samsung Galaxy tab S7 FE. The terminal experience on Android has improved a lot with Termux though the sad part is Google has removed Termux from the app store. Needed to install F Droid to get the terminal going. Tried out installing Debian Andronix as well as with userLand but all I needed was old and time tested Termux with a Zook bluetooth Fingerpad.
+- [Mathura](./mathuraLanding.md)
+  - [Island](./mathuraChap05.md) - General Edits. Reshaped the introduction to meet with the content.
+  - [Naive](./mathuraChap06.md) - General Edits. Reshaped introduction and added a footnote.
+
 ## June 16, 23
 
 Trying to get a hold of the narrative after a month long gap due to my daughter's wedding (which was fun and prolly lot more important than this:-)

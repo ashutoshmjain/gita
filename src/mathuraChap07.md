@@ -1,4 +1,8 @@
-# The Resolution ..
+What exactly is the ¨present¨ ? 
+
+Infinite impulses live in the past (or future). They fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is unclear if it is righteous. When our action organs engage in actions, it is ¨Present¨. The continuity of the present is an illusion. We are good story tellers to ourselves. 
+
+# `Nishchya` ..
 
 Walking back to his `Ashrama`, `Maharishi` reflected on the events of the last day. There are always some new twists whenever one indulges in the physical reality! — he thought. That is the reason one could never predict the next hour or next day — though predicting events say ten years from now is possible. And that is what makes this world such an interesting place! — he argued to himself. All prediction, whether they are ten years hence, or a hundred years, or a multi generational prophecy, may happen with their own slight nuances, but those tiny wrinkles are insignificant at this point in time. At this time we are lost in the nuances of the ‘present’ — the tiniest (but comprehensive) sensory details, as in color, smell and touch. These sensory overlays, in our current moment are important because our involuntary reactions (to sensory overlays) determine if the reality we create is worth spending our time or not. This is where we need to feel and appreciate others' point of view. Compassion is a characteristic of the present and like compassion, all the `Karmas`, live in this very moment. Future is well-known — ultimately we all die, the important question is how we live our present. Because "present" is the only accessible ‘door’ to the future (and the past) — it is where the spotlight of consciousness is shining bright — this moment. In fact, it may be confusing to use the words ‘future’ or ‘past’. An easier way to say this is: 
 

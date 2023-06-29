@@ -1,9 +1,18 @@
 What exactly is the ¨present¨ ? Would you call yourself in conscious present when you are sleeping ?
 
-Infinite impulses live in the past or future (a better word is ¨continuum¨). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is unclear if it is righteous. When our action organs engage in actions, it is ¨Present¨. The continuity of the present is an illusion. We are good story tellers to ourselves. This is the reason, we can never be actionless in the present. 
+Infinite impulses live in the past or the future (a better word is ¨continuum¨). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is unclear if it is righteous. When our action organs engage in actions, it is the ¨Present¨. There is no concept of time between one action to another because the sense of time is only with actions. The continuity of the present is an illusion. We are good story tellers to ourselves :-)
 
+In other words the meaning of the word ¨present¨ for the conscious beings is the active state. This is the reason, we can never be actionless in the present. And there is no notion of present in our actionless sleep. 
 
-No one can abide even for a moment without doing work.[151] 
+`Dwaipayana` wrote in third chapter of `Gita`
+
+> Nahi Kashchit Khshanam Api, Jatu tishthati Akaramkrit !
+>
+> No one may stay without actions even for a moment in this conscious world.
+
+Most of the actions are driven by duality. They are to test what is right and what is wrong. Like we slowly touch a little finger on a hot plate to check if it is hot or not. After many many trials, we exactly know the right path. The actions done at this stage are an outcome of a resolve. A correct objective assessment of the situation at hand, and an experienced response is said to be out of a ¨resolve¨ - Like a surgeonś call to cut open a patientś heart. 
+
+In Saskrit such an action is called `Nishchyatmak` - beyond doubts. The action itself respresnts the resolve - `Nishchaya`.
 
 # `Nishchya` ..
 

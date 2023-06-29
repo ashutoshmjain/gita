@@ -340,9 +340,11 @@ tell (me) one thing definitely by which I may attain to what is good.'
 that here are, in this world, two kinds of devotion; that of the Sankhyas
 through knowledge and that of the yogins through work. A man doth not
 acquire freedom from work from (only) the non-performance of work. Nor
-doth he acquire final emancipation from only renunciation (of work). No
-one can abide even for a moment without doing work.[151] That man of
-deluded soul who, curbing the organs of sense, liveth mentally cherishing
+doth he acquire final emancipation from only renunciation (of work). 
+
+No one can abide even for a moment without doing work.[151] 
+
+That man of deluded soul who, curbing the organs of sense, liveth mentally cherishing
 the objects of sense, is said to be a dissembler. He however, O Arjuna,
 who restraining (his) senses by his mind, engageth in devotion (in the
 form) of work with the organs of work, and is free from attachment, is

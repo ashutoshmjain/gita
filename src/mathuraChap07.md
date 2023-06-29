@@ -1,6 +1,9 @@
-What exactly is the ¨present¨ ? 
+What exactly is the ¨present¨ ? Would you call yourself in conscious present when you are sleeping ?
 
-Infinite impulses live in the past (or future). They fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is unclear if it is righteous. When our action organs engage in actions, it is ¨Present¨. The continuity of the present is an illusion. We are good story tellers to ourselves. 
+Infinite impulses live in the past or future (a better word is ¨continuum¨). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is unclear if it is righteous. When our action organs engage in actions, it is ¨Present¨. The continuity of the present is an illusion. We are good story tellers to ourselves. This is the reason, we can never be actionless in the present. 
+
+
+No one can abide even for a moment without doing work.[151] 
 
 # `Nishchya` ..
 

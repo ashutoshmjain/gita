@@ -20,6 +20,9 @@ Walking back to his `Ashrama`, `Maharishi` reflected on the events of the last d
 
 >‘Present’ is the only window to engage with continuum (`Bramh`) and the invocation is ‘sensory’ in nature. The question really is how to turn this sensory invocation [^senses] into actionables - a `Karmik` reality [^karmik]. How to make sure actions are righteous ?
 
+
+## 7.1
+---
 Spending a night at the island always sharpened his thinking. The `Samadhi` at the cave, helped `Maharishi` conclude the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective, while they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animalistic behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vasishta` had envisaged for a civil society. Compassion was the very basis of new design and it was exact opposite to current notion of debate.
 
 Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it. 
@@ -29,6 +32,9 @@ Being an astrologer, was a unique gift. He had the ability to see the ‘present
 In that moment with `Matsya`, `Maharishi` saw himself through her eyes. Though it was a brief meetup, and unplanned — she was neither educated nor elite — but she was an embodiment of a commoner's expectations from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners because while the elite class of `Naad Yogies` was busy solving greater problems, the masses suffered the untold miseries of life. Someone must provide a clear path to stay afloat in the ups and downs - in the cycles of ordinary pleasures and pains.
 
 He saw he must rise to make a difference in the lives of ordinary people, and being the sole heir of `Bramh-rishi` - the keeper of knowledge — that was his destiny. He must rise above the never-ending conflicts, and the petty prejudices of his own class, and must indulge in actions that the masses expected him to render. He understood the idea of `Karm Yoga` though it was still beyond articulation. He also felt the extreme weight of the responsibility he retained, for the privileges of being `Vasitha's` son must be paid back to the realm. For a moment, he missed his grand father. He wished `Bramh-rishi` was there with him, to guide him through this maze — to navigate him onto a righteous path! 
+
+## 7.1
+----
 
 `Maharishi` concluded there was only one way to enable people see beyond what they deemed righteous — beyond their own point of view: add the ability to see oneself 'objectively' in every human being — as if they were seeing themselves from a distance — just the way they see others. He named this ability - `Atmoupamyen Drishti`. In Sanskrit `Drishti` means the vision, and `Atmoupamyen` means looking at self from a distance. 
 

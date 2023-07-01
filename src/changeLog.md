@@ -2,6 +2,12 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
 
+## July 1, 23
+
+- [Mathura](./mathuraLanding.md)
+  - [Naive](./mathuraChap06.md) - General Edits. Created sections. 
+  - [Resolution](./mathuraChap07.md) - Added the introduction paras. General edits and sections 
+
 
 ## June 23, 23
 

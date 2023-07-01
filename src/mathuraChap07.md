@@ -1,10 +1,12 @@
 What exactly is the ¨present¨? Would you call yourself in conscious present when you are sleeping ?
 
-Infinite impulses live in the past or the future (a better word is ¨continuum¨). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is not righteous. When our action organs engage in actions, it is the ¨Present¨. We can think in past (or in future) but we can´t act anywhere outside the present window. Even the sense of time is with actions, the pendulum swing of a watch. If all watches were to stay still - even those that tick in our body and mind (and in our computers), would we know the passage of time?  
+Infinite impulses live in the past or the future (a better word is ¨continuum¨ - a sub conscious field). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought - a knot - to create a bond or to liberate from one. Something must be done even if it is not righteous. When our action organs engage, it is the ¨Present¨. 
+
+We can think in past (or in future) but we can´t act anywhere outside the present window. In fact ¨present¨ is when we act. No one can ever hold a moment - least without action in so called meditations. Even the sense of time is with actions, the pendulum swing of a watch. If all watches were to stay still - even those that tick in our body and mind (and in our computers), would we know the passage of time?  
 
 > The continuity of the present is an illusion. We are good story tellers ....  to ourselves :-)
 
-In other words the meaning of the word ¨present¨ for the conscious beings is the active state. This is the reason, we can never be actionless in the present. And there is no notion of present in our actionless sleep. 
+In other words the meaning of the word ¨present¨ for the conscious beings is the active state. This is the reason, we can never be action less in the present. And there is no notion of present in our action less sleep. 
 
 `Dwaipayana` wrote in third chapter of `Gita`
 
@@ -12,9 +14,9 @@ In other words the meaning of the word ¨present¨ for the conscious beings is t
 >
 > No one may stay without actions even for a moment in this conscious world.
 
-Most of the actions are driven by duality. They are to test what is right and what is wrong. Like we slowly touch a little finger on a hot plate to check if it is hot or not. After many many trials, we exactly know the right path. The actions done at this stage are an outcome of a resolve. A correct objective assessment of the situation at hand, and an experienced response is said to be out of a ¨resolve¨ - Like a surgeonś call to cut open a patientś heart. 
+Most of the actions are driven by duality - bondage of a chiral knot. They are to test what is right and what is wrong. Like we slowly touch a finger on a cooker - to check if it is hot or not. After many many trials, we exactly know the right path. The actions done at this stage are an outcome of a resolve. A correct objective assessment of the situation at hand, and an experienced response is said to be out of a ¨resolve¨ - Like a surgeon's call to cut open a patient's heart. 
 
-In Saskrit such an action is called `Nishchyatmak` - beyond doubts. The action itself respresnts the resolve - `Nishchaya`.
+In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The action itself represents the resolve - `Nishchaya`.
 
 # `Nishchya` ..
 
@@ -33,7 +35,7 @@ Being an astrologer, was a unique gift. He had the ability to see the ‘present
 
 Our sensory apparatus is designed to see everything other than that we claim our own. In essence we can never understand the limitations of our ‘point of view’ unless we truly see it from others' standpoint. The problem is, our sensory apparatus (eyes, ears, nose, tongue and skin) doesn't know how to enable this ability. Our senses are designed to see external things — outwards, whereas seeing our own self is ‘metaphorically’ inwards. Since we can't turn our senses upside down, the only way available to perceive “who we are?” is through subscribing to others' senses. And this access is available only in this moment, and only through compassion.
 
-In that moment with `Matsya`, `Maharishi` saw himself through her eyes. Though it was a brief meetup, and unplanned — she was neither educated nor elite — but she was an embodiment of a commoner's expectations from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners because while the elite class of `Naad Yogies` was busy solving greater problems, the masses suffered the untold miseries of life. Someone must provide a clear path to stay afloat in the ups and downs - in the cycles of ordinary pleasures and pains.
+In that moment with `Matsya`, `Maharishi` saw himself through her eyes. Though it was a brief meetup, and unplanned — she was neither educated nor elite — but she was an embodiment of a commoner's hopes from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners. Because while the elite class of `Naad Yogies` were busy solving greater problems, the masses suffered the untold miseries of life -  in the ups and downs - in the cycles of ordinary pleasures and pains.
 
 He saw he must rise to make a difference in the lives of ordinary people, and being the sole heir of `Bramh-rishi` - the keeper of knowledge — that was his destiny. He must rise above the never-ending conflicts, and the petty prejudices of his own class, and must indulge in actions that the masses expected him to render. He understood the idea of `Karm Yoga` though it was still beyond articulation. He also felt the extreme weight of the responsibility he retained, for the privileges of being `Vasitha's` son must be paid back to the realm. 
 
@@ -58,7 +60,7 @@ This ability, he fathomed, was more than the natural impulses of hunger and repr
 ## 7.3
 ---
 
-`Maharishi` understood, every human needed `Atmoupamyen` vision. The question was how to impart this ability to every human being. Adding the messages of compassion led service into every scripture was one possibility. In fact, these messages were already there in every scripture. The problem was scriptures were locked under wraps in a close network of people, or were protected for a privileged class. How would this knowledge reach everyone? The simple answer was ‘written text’. It was the only way to open the flood gates of information to the masses. Opening up this channel, he thought, would be the biggest act of self-less service to mankind! He understood that he was uniqly qualified to do this job. Having learnt speech as well as scribing right from his childhood positioned him well for the pursuit.  In a way, this was his `Karma`.
+`Maharishi` understood, every human needed `Atmoupamyen` vision. The question was how to impart this ability to every human being. Adding the messages of compassion led service into every scripture was one possibility. In fact, these messages were already there in every scripture. The problem was scriptures were locked under wraps in a close network of people, or were protected for a privileged class. How would this knowledge reach everyone? The simple answer was ‘written text’. It was the only way to open the flood gates of information to the masses. Opening up this channel, he thought, would be the biggest act of self-less service to mankind! He understood that he was uniquely qualified to do this job. Having learnt speech as well as scribing right from his childhood positioned him well for the pursuit.  In a way, this was his `Karma`.
 
 This also meant everyone must be able to at least read (if not write). A long journey — he thought, but well worth trying. And that was the reason he was keen on the format of the written word - It must be a narrative. From his experience of `Vishun Purana`, he figured that story telling was a superior art. But it was a ‘vocal’ art-form. It must be realized in written format. Something that attracts people — young and old. People remembered `Ramayana` by heart, because it was a narrative but masses didn't remember other didactic scriptures at all! Scriptures had to be forcefully recited by `Naad Yogies` to give them perpetuity. Thus he concluded,  the new knowledge must be ‘scribed’ in `Ramayana's` format. It must be self descriptive, and intense enough to capture the public imagination. It must be so gripping that masses are pulled into learning the reading skills. 
 
@@ -71,6 +73,9 @@ He also felt the urgency. Now was the time because as the populations were incre
 Again, he used the new found tool to assess this fear. How would a young `Asura` react to the idea of restricted access? Wouldn't limiting the access push her further on the anarchic path? If, despite being a `Maharishi`, he himself didn't trust the other side, how were they expected to trust the `Vaidik vision`? Not only trust, the ‘written text’ was an opportunity to win the hearts of other side. `Asuras` were barred from participating in rituals. A book could be read offline, without having to show up at `Vaidik` ceremonies. Let them see the light at a place of their comfort, and be a part of human progress — together. A state where multiplicity of ideas could co-exist. People could speak without fear of persecution and at the same time listen to something obtuse to their own vantage.
 
 But then, hard coding the knowledge into written text, and making it publicly available, without the context, without the rigor needed to bear the ‘knowledge’ could be harmful to the masses. In a way, `Maharishi Parāśara` was sold on the idea of `textification` but he was held back by apparent pit falls. He was waiting for a sign. Universe must lead him to the right path. Almighty must give him a clue for he was at a stalemate with his own mind. 
+
+## 7.4
+----
 
 He got his clue when he stepped in the `Ashrama`. His friend and senior student `Maitrea` was finishing his morning sermons to the new students when he saw `Maharishi` getting in. `Maitrea` wondering of sudden night out by `Maharishi`, approached him with a curious smile. He had just finished greeting him when `Maharishi` asked the basic question.
 

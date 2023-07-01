@@ -1,6 +1,8 @@
 What exactly is the ¨present¨? Would you call yourself in conscious present when you are sleeping ?
 
-Infinite impulses live in the past or the future (a better word is ¨continuum¨). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is unclear if it is righteous. When our action organs engage in actions, it is the ¨Present¨. There is no concept of time between one action to another because the sense of time is only with actions. The continuity of the present is an illusion. We are good story tellers to ourselves :-)
+Infinite impulses live in the past or the future (a better word is ¨continuum¨). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought. Something must be done even if it is not righteous. When our action organs engage in actions, it is the ¨Present¨. We can think in past (or in future) but we can´t act anywhere outside the present window. Even the sense of time is with actions, the pendulum swing of a watch. If all watches were to stay still - even those that tick in our body and mind (and in our computers), would we know the passage of time?  
+
+> The continuity of the present is an illusion. We are good story tellers ....  to ourselves :-)
 
 In other words the meaning of the word ¨present¨ for the conscious beings is the active state. This is the reason, we can never be actionless in the present. And there is no notion of present in our actionless sleep. 
 

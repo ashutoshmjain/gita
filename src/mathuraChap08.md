@@ -1,13 +1,51 @@
-# Proposal and the Plan ..
+In a deep dense jungle a man got caught up in a massive forrest fire. Luckily he was a climber. He selected a big redwood tree and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself to the branch and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in an endless fire! 
+
+Before he got a chance to curse the God, he saw a big beehive and also saw the honey dripping off it as the rising smoke must have heated the necter. The only problem was it was on a soft branch and of course he didnt want to wake up thousands of bees closely guarding their life saving. He figured if he could somwhow move below the beehive (and somehow catch the dripping necter) he could possibly survive another day. He carefully did that, though in the process he definitely rubbed few bees on the wrong side, who didnt waste any time in returning the favor.
+
+A wizard angel was flying past in his chariot. His fairer friend who was sitting besides the angel saw the forest fire and asked her wizard to take a swing down - to check if they could help someone. How can we go on with our gifted lives with no attention to those who actually need our skills? - she argued.
+
+Angel smiled for they were mandated not to cause glitches in the world of Mudbloods.  But who may deny the lady of charm her wishful cravings. Even `Rama` couldn´t tell `Siya` that a golden deer is nothing but a trap. He took a nose-dive and they both saw this intriguing scene. A strong able man in his mid thirties was hanging off a soft branch that may break any time. And right below him fire was still raging high.  From a distance, they couldn´t see that the man was aptly catching the drops of honey falling off the great beehive directly into his open mouth. They also didnt see that some of the bees, seeing someone stealing even though it was a waste, were biting all over him. His eyes, ears and lips swollen yet hunger and survival was paramount. It appeared from a distance that the man wanted to live no matter what the quality of his life and extent of his struggle.
+
+We must save this man - said the fairy. 
+
+The angel still had reservations. He knew the rules. But his lips, culprit of his own desires, didnt abide by the rationale - As you say my lady luck ! - he said -  But we must make it look like as if we are making a deal for we just can´t change the destiny for no good reason.
+
+Sure. You do the talking - said the smiling fairy. She was happy that her mate was willing to take on a potential ¨curse for life¨ for her love.
+
+Angel stationed the flying chariot right above the hanging man.  - O man,  I offer you a seat in the chariot for the divine honey you have broken up in this blessed beehive. We both can share this Godly gift and save your life too. He made a ¨proposal¨.
+
+> In Hindi or Sanskrit, a proposal is called a `Prastaav`...
+
+The man probably thought he was hellucinating, or having understood it was divine necter, he wanted all for himself. He was convinced that the Gods had provisioned this gift solely for him and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal? - those questions are for later. For now let me grab all of it. 
+
+No wonder now this angel wants a piece out of his winnings. They always show up at opportune moments - don´t they? - He thought to himself. Not this time - this time this necter of immortal life is mine - all of it. 
+
+Outloud he spoke without curtesy or care, without even looking at the chariot or the smiling face of the kind fairy - No - he said. Go your way angel and enjoy your girl! - Thanks but no thanks for I know your girl desparately wants my honey and itś not gonna be cheap!
+
+Angel looked at the fairy and gave the man another chance to think  - fair , if you don´t want the deal then know that you will die off the poisen of thousand bees, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another hour. Time is of essence for your survival !
+
+O ya! - said the greedy man as the angel flew away !
+
+Whatever happened to the man is another story but intrigued by what unfolded, the fairy asked the angel - how stupid can a man be! Why wouldn´t he take your proposal. 
+
+The angel smiled in releif - A proposal is always made by the one who needs something. And accepted (or rejected) by those who have the upper hand. Quite the opposite of ¨charity¨ where the rich offload their excesses ¨as is¨ and poor take whatever was on offer. 
+
+O' my love - he said - If a propsal comes from the able, the motive is always questioned by the beneficiaries. Only in a rare cases sanity prevails. Such cases are the grace of God! 
+
+Do you know any such case ? - impressed by the wisdom of angel, she asked - you not only kept my word but also saved yourself from the ultimate curse. Please tell me more of your wisdom!
+
+The angel thought for a while. He then told her the proposal that `Maharishi Parasara` made to `Matsyagandha` at the dawn of the new age - an impossibility by any stretch of imagination. Yet it worked ... and created a race of men that went on to become wizards! Those who had flying chariots. Those who could save others from fires and floods. Those who could get as much necter as they wanted...
+
+# `Prastaav` ..
 
 It was as if `Matsyagandha` found a reason to live. `Maharishi Parāśara` got off the boat but he left a boatload of hope for `Matsya`. Every night she waited at the docks. She had gotten a new set of questions. What did `Maharishi` mean? Why would he even talk to someone like her. At times, she thought she was an insipid laughter for a `Yogi` — maybe he just wanted to let her feel good, other times she wanted to look beautiful — she must get herself ready for the bigger purpose — but she knew no ways. She wanted to smell good but she couldn't afford the Sandal wood — a wood used in making perfumes. The hope and despair played the cycles of pains and joy. She was caught into duality of the prospects, and unlike the waves in `Yamuna`, waves of duality were hard to navigate. She must go through this fire to harden herself for a path unknown. 
 
-One more subtle change happened. She discovered a new confidence in just being herself. For the first time, she saw her smell as a virtue. She felt she existed despite being all alone in this world. `Maharishi's` simple anecdote almost changed her self-perception for good. She wondered, why did she not see the simple reality the way she saw it now !
+One more subtle change happened. She discovered a new confidence in just being herself. For the first time, she saw her smell as a virtue. She felt she existed despite being all alone in this world. `Maharishi's` simple anecdote almost changed her self-perception for good. She wondered, why did she not see the simple reality the way she see it now !
 
 ## 8.1
 ---
 
-About a year later, on the night of `Vijya Dashmi` — the tenth night of Hindu month `Ashwin`,`Maharishi` returned to the wharf. Entire `Mathura` was celebrating the auspicious autumn night to commemorate victory of Lord `Rama` over `Ravana`. A noble king verses a tyrant — good over evil. The middle of peak festive season in entire India, and more so in this part because of the perfect weather conditions. Wet season ended almost a month ago in mid August (per English Calendar), to let this time of mid September dry with mild temperatures and acceptable humidity. No one was expected working on the docks this night, except that `Matsyagandha` was there, for 'waiting' was her daily ritual —  `Karma`. 
+About a year later, on the night of `Vijya Dashmi` — the tenth night of Hindu month `Ashwin`,`Maharishi` returned to the wharf. Entire `Mathura` was celebrating the auspicious autumn night to commemorate victory of Lord `Rama` over `Ravana`. A noble king verses a tyrant — good over evil. The middle of peak festive season in entire India, and more so in this part because of the perfect weather conditions. Wet season (monsoons) ended almost a month ago in mid August (per English Calendar), to let this time of mid September dry with mild temperatures and acceptable humidity. No one was expected working on the docks this night, except that `Matsyagandha` was there, for 'waiting' was her daily ritual —  `Karma`. 
 
 `Maharishi` smiled at `Matsya` as if he expected her there waiting for him. He didn't have the courage to ask her why she was here? Why not celebrating the night with the rest, for he knew he was the one who put her to this test. And she sure passed. 
 
@@ -15,14 +53,14 @@ About a year later, on the night of `Vijya Dashmi` — the tenth night of Hindu 
 
 `Maharishi` read her thoughts. She was like an open book to him — uncorrupted and pious. Her big expressive eyes said what her lips would not. Without much ado, he asked her if she could give him a son. No preamble, no sweet romantic submission. All he added — it was for a much bigger cause. A cause, she would appreciate in due course. And of course, she may ask anything in return for the favor of this service!
 
-Service! — `Matsya` though wildly imaginative, had never thought such a ‘service’ existed. To put it mildly, it was passionless. To say the truth, it was blunt! No one asks a woman for a child in their second meeting (spaced an year) without any courtship. She was poor but she wasn't sold out. She worked hard for a living and she bore the wrath of society for no apparent reason. She was a proud woman. A part of her felt as if the man was total noob in worldly things. Even more than her. But other reassured her that he meant what he said — He is not here to steal! He is here to give!
+Service! — `Matsya` though wildly imaginative, had never thought such a ‘service’ existed. To put it mildly, it was passionless. To say the truth, it was blunt! No one asks a woman for a child in their second meeting (spaced an year) without any courtship. She was poor but she wasn't sold out. She worked hard for a living and she bore the wrath of society for no apparent reason. She was a proud woman. A part of her felt as if the man was total noob in worldly things. Even more than her. But other reassured her that he meant what he said — He is not here to steal! He is here to give! He had a winner proposal for her if only she beleived!
 
 > Both of them unaware that what `Maharishi` asked `Matsya` was the biggest sacrifice a human could do. Soliciting a new born of a first time mother — be it a human or even an animal, is the most audacious of the 'asks' imaginable. Every cell of a mother's body works nine months, non-stop, to manifest a baby. Not only does she make flesh and blood, she even drafts milk for the new born — to ease the child into inhospitable world. This selfless act is the `Karm Yoga` of the highest order . Even for a pronounced `Karm Yogi` , giving up on such a manifestation - the feat of binding conciousness to a biological form , is too much to ask. But none of them had this physical experience before. Neither comprehended that the price of such a service was more than entire cosmos !
 
 ## 8.2
 ---
 
-As the moment passed, she staged a quick recovery. Years of training to handle unexpected discomfort, helped her regain her rationale. She was definitely taken aback at the unexpected proposal. It was quite an anticlimax to the high hopes she had whipped up in her mind. She had no clue what to say and what to ask, but she knew `Maharishi Parāśara` was a `Yogi`. There was no one in `Mathura` who didn't know `Maharishi`. Since last year, her interest in the `Yogi` had peaked. She had found everything there was to know about him in public domain. He could have had any woman if he wanted to, but why then he chose her? He sure was not a womaniser. He wasn't doing it for fun.
+As the moment passed, she staged a quick recovery. Years of training to handle unexpected discomforts - from those of prying eyes to the outreach of groping hands, helped her regain her rationale. She was definitely taken aback at the unexpected proposal. It was quite an anticlimax to the high hopes she had whipped up in her mind. She had no clue what to say and what to ask, but she knew `Maharishi Parāśara` was a `Yogi`. There was no one in `Mathura` who didn't know `Maharishi`. Since last year, her interest in the `Yogi` had peaked. She had found everything there was to know about him in public domain. He could have had any woman if he wanted to, but why then he chose her? He sure was not a womaniser. He wasn't doing it for fun.
 
 More clarity emerged with another passing thought! She knew he could bless her with whatever she wanted — she felt the aura of calm and the strength he exuded, that made her believe the stories of his wizardry she had overheard commuters. Ever since their last meeting, she had wondered what she had in store. Her over sized imagination had led her to many scenarios but none of them was to bear his child. For one, he wasn't attractive, nor did he took care to look one. But more importantly, she knew that `Maharishi` would never take her (or anyone else) as a wife for his life was dedicated to the celibate work of God. Then why does he need a son, what exactly is the ‘bigger purpose’? She didn't realize, her curiosity had already shifted to the ‘purpose’ rather than her prospect of being a single mother in this transaction.
 
@@ -97,3 +135,6 @@ The place between the eyes, right above the nose is called `Aajna Chakra`. This 
 
 -----
 
+The fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
+
+Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution you that this story may change your mind and your life for ever ! 

@@ -18,9 +18,50 @@
 
 <div class="cover-small">
   <div class="centered">
-      <a href="https://wa.me/message/QGSNODVGGPBQJ1">whatsApp .. </a>
+      <a href="https://wa.me/message/QGSNODVGGPBQJ1">Contact .. </a>
   </div>
 </div>
+
+-----
+
+In a deep dense jungle a man got caught up in a massive forest fire. Luckily he was a climber. He selected a big redwood tree and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself to the branch and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in an endless fire! 
+
+Before he got a chance to curse the God, he saw a big beehive and also saw the honey dripping off it as the rising smoke must have heated the nectar. The only problem was it was on a soft branch and of course he didn't want to wake up thousands of bees closely guarding their life saving. He figured if he could somehow move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He carefully did that, though in the process he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
+
+A wizard angel was flying past in his chariot. His fairer friend who was sitting besides the angel saw the forest fire and asked her wizard to take a swing down - to check if they could help someone. How can we go on with our gifted lives with no attention to those who actually need our skills? - she argued.
+
+Angel smiled for they were expressly forbidden from causing glitches in the world of Mud bloods.  But who may deny the lady of charm her wishful musings. Even `Rama` couldn't convince `Siya` that a golden deer is nothing but a trap. He took a nose-dive and they both saw this intriguing scene. A strong able man in his mid thirties was hanging off a soft branch that may break any time. And right below him fire was still raging high.  From a distance, they couldn't see that the man was aptly catching the drops of honey falling off the great beehive directly into his open mouth. They also didn't see that some of the bees, seeing someone stealing even though it was a waste, were biting all over him. They were probably enraged by the forest fire that took away their source of collection - the wild flowers; and they wanted someone to pay the price. His eyes, ears and lips swollen yet hunger and survival was paramount. It appeared from a distance that the man wanted to live no matter what the quality of his life, and the extent of his struggle.
+
+We must save this man - said the fairy. At the back of her mind the question that had always irked her - why do humen (like orcs) love their lives of endless misery? I mean I am a fairy and still life seems so boring! - She thought.
+
+The angel still had reservations. He knew the rules. But his lips, culprit of his own desires, didn't abide by the rationale - As you say my lady luck ! - he said -  But we must make it look like a trade deal for we just can´t change the destiny for no good reason. The surveillance has gotten worse these days. They are keeping track of all of us who visit Earth particularly in the flying chariots.
+
+Sure. You do the talking - said the smiling fairy. She was happy that her mate was willing to take on a potential ¨curse for life¨ for her love.
+
+Angel stationed the flying chariot right above the hanging man.  - O man,  I offer you a seat in the chariot for the divine honey you have broken up in this blessed beehive. We both can share this Godly gift and save your life too. He made a ¨proposal¨.
+
+> In Hindi or Sanskrit, a proposal is called a `Prastaav`...
+
+The man probably thought he was hallucinating, or having understood it was divine nectar, he wanted all for himself. He was convinced that the Gods had provisioned this gift solely for him and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal? - those questions are for later. For now let me grab all of it. 
+
+No wonder now this angel wants a piece out of my winnings. They always show up at opportune moments - don´t they? - He thought to himself. Not this time - this time this nectar of immortal life is mine - all of it. 
+
+Out loud he spoke without courtesy or care, without even looking at the chariot or the smiling face of the kind fairy - No - he said. Go your way angel and enjoy your girl! - Thanks but no thanks for I know your girl desperately wants my honey and its not gonna be cheap!
+
+Angel looked at the fairy and gave the man another chance to think  - fair O'dead man , if you don´t want the deal then know that you will die off the poison of thousand bees, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another hour. Time is of essence for your survival !
+
+O ya! - said the greedy man as the angel flew away !
+
+Whatever happened to the man is another story but intrigued by what unfolded, the fairy asked the angel - how stupid can a man be! Why wouldn't he take your proposal. 
+
+The angel smiled in relief - A proposal is always made by the one who needs something. And accepted (or rejected) by those who have the upper hand. Quite the opposite of ¨charity¨ where the rich offload their excesses ¨as is¨ and poor take whatever was on offer. 
+
+O' my love - he said - If a proposal comes from the able, the motive is always questioned by the beneficiaries. Only in a rare cases sanity prevails. Such cases are the grace of God! 
+
+Do you know any such case ? - impressed by the wisdom of angel, she asked - you not only kept my word but also saved yourself from the ultimate curse. Please tell me more of your wisdom!
+
+The angel thought for a while. He then told her the proposal that `Maharishi Parasara` made to `Matsyagandha` at the dawn of the new age - an impossibility by any stretch of imagination. Yet it worked ... and created a race of men that went on to become wizards! Those who had flying chariots. Those who could save others from fires and floods. Those who could get as much nectar as they wanted...
+
 
 
 <div class="cover-medium">

@@ -24,9 +24,9 @@
 
 -----
 
-In a deep dense jungle a man got caught up in a massive forest fire. Luckily he was a climber. He selected a big redwood tree and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself to the branch and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in an endless fire! 
+In a deep dense California jungle,  a man got caught up in a massive forest fire. Not unusual for the Norcal summer . Luckily he was a climber. He selected a big redwood tree and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself to the branch and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in an endless fire! 
 
-Before he got a chance to curse the God, he saw a big beehive and also saw the honey dripping off it as the rising smoke must have heated the nectar. The only problem was it was on a soft branch and of course he didn't want to wake up thousands of bees closely guarding their life saving. He figured if he could somehow move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He carefully did that, though in the process he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
+Before he got a chance to curse the Gods, he saw a big beehive and also saw the honey dripping off it as the rising smoke must have heated the nectar. The only problem was it was on a soft branch and of course he didn't want to wake up thousands of bees closely guarding their life saving. He figured if he could somehow move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He carefully did that, though in the process he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
 
 A wizard angel was flying past in his chariot. His fairer friend who was sitting besides the angel saw the forest fire and asked her wizard to take a swing down - to check if they could help someone. How can we go on with our gifted lives with no attention to those who actually need our skills? - she argued.
 
@@ -48,7 +48,7 @@ No wonder now this angel wants a piece out of my winnings. They always show up a
 
 Out loud he spoke without courtesy or care, without even looking at the chariot or the smiling face of the kind fairy - No - he said. Go your way angel and enjoy your girl! - Thanks but no thanks for I know your girl desperately wants my honey and its not gonna be cheap!
 
-Angel looked at the fairy and gave the man another chance to think  - fair O'dead man , if you don´t want the deal then know that you will die off the poison of thousand bees, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another hour. Time is of essence for your survival !
+Angel looked at the fairy and gave the man another chance to think  - fair O'dead man , if you don´t want the deal then know that you will die off the poison of thousand bees, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another hour. Time is of the essence for your survival ! And even if you take the deal it would probably take the divine doc many days to remove all the stings you got from the deathly bees!
 
 O ya! - said the greedy man as the angel flew away !
 
@@ -60,7 +60,7 @@ O' my love - he said - If a proposal comes from the able, the motive is always q
 
 Do you know any such case ? - impressed by the wisdom of angel, she asked - you not only kept my word but also saved yourself from the ultimate curse. Please tell me more of your wisdom!
 
-The angel thought for a while. He then told her the proposal that `Maharishi Parasara` made to `Matsyagandha` at the dawn of the new age - an impossibility by any stretch of imagination. Yet it worked ... and created a race of men that went on to become wizards! Those who had flying chariots. Those who could save others from fires and floods. Those who could get as much nectar as they wanted...
+The angel thought for a while. He then told her the proposal that `Maharishi Parasara` made to `Matsyagandha` at the dawn of the new age in a city called `Mathura` in the northern province of India. An impossibility by any stretch of imagination, yet it worked, and created a race of men that went on to become wizards! Those who have flying chariots. Those who save others from fires and floods. Those who could get as much nectar as they wanted from Amazon.com !
 
 
 

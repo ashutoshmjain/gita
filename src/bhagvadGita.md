@@ -757,8 +757,9 @@ taking refuge in me. I will now, without leaving anything speak to thee
 about knowledge and experience, knowing which there would be left nothing
 in this world (for thee) to know. One among thousands of men striveth for
 perfection. Of those even that are assiduous and have attained to
-perfection, only some one knoweth me truly.[203] Earth, water, fire, air,
-space, mind, also understanding, and consciousness,--thus hath my nature
+perfection, only some one knoweth me truly.[203] 
+
+Earth, water, fire, air, space, mind, also understanding, and consciousness,--thus hath my nature
 been divided eight-fold. This is a lower (form of my) nature. Different
 from this, know there is a higher (form of my) nature which is animate, O
 thou of mighty arms, and by which this universe is held.[204] Know that

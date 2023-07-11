@@ -1,4 +1,26 @@
-# The Birth
+There are three basic colors - Red, Blue and Green. They mix up to make trllions of colors. Possibilities are endless but four new colors are rather stable - Orange, Yellow, Indigo and Voilet. Together with three basic, the seven colors are called the colors of a rainbow. Each of these seven colors is an orientation of information. And their absence is the inverse orentation of that color. So Yellow is of course Yellow, but let's say absence of Yellow is "Anti-Yellow" - all the remaining six colors except Yellow as a single shade. The curious question is what happens when Yellow meets anti-Yellow ? Does it make the White or the black color? 
+
+`Vaidik Science` thinks that a color and it's anti-color give rise to the "white" - the identity element of the group of seven colors. Thus seven colors of the rainbow, along with the identity element "White" are what we call `Ashtdhamool Prakriti`. The eightfold basic nature.
+
+I have used color as a metaphor here. `Dwipayana` describes the eightfold basic nature in `Bhagvad Gita` as ...
+
+>bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha
+>
+>ahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā
+>
+> Earth, Fire, Air, Space, mind and intellect - these six along with the "identity" (`Ahmkara`) are the constituents of (my) eight fold nature that underpins the consciousness - our experence. It spans on both side - the physical as well as the observer. For example the physical solids correspond to the Identity, Water corresponds to Intelligence, Air to the `Mana` - the fickle mind, and Space corresponds to the Energy - the fire. These knots of the physical and the subtle creates conscious experence. 
+
+The color and it's anti-color, though form an identity, they are a specific orientation of knowledge - an aspect of knowledge. In that a Yellow and Anti-Yellow mix is very different from that of Orange and Anti-Orange. You may argue that both combinations individually had all the seven colors and you are right, but a color and anti-color never merge with each other - just like the two poles of the magnet. A spark of whitelight occured because a duality of a color and it's anti color was formed and knotted together as a mirror image of each other. If they truly merged, they would annihilate into darkness. They are compacted as mirror images of each other into one - ever so close but never meeting each other - just like two banks of a river. River is manifested becuse the banks and anti-bank never come close on each other. If they did than there is no flow - it is just a loathsome pond.
+
+Think of identity formation as a tiny spark. An event in the infinte underlying field of knowledge. The moment a spark happens, the universal machine gives it a shape - a mass. A mass is nothing but the compaction of the color and it's anti-color into a shape. As if an orientaion is trapped into a body - A physical shape that expresses a specific orientation of knowledge. This marks the beginning of the conscious experience - the beginning of Time for this new manifestation. This is NOT big bang. Infinite sparks light up the underlying mesh to take a stab at conscious experience - to understand what is the nature of knowledge.
+
+The challenge for the physical shape is to understand the knowledge. The best strategy is to survive as long as possible. Or to seek a different shape. Or to collude with other shapes to evolve consciousness. Over endless trials, certain configurtions and collusions do better than others. Such evolutions are templatized. These templates along with this spark is what we know as `Vishnu` - the manifestative potency. The inverse of the manifestative potency is the one that removes all the "unsurvivable" manifestations. It decays all those permutations that can't improve the conscious experience. This potency is called `Siva`. The unity of `Vishnu` and `Siva` is the primrdial and perpetual underlying field - `Bramh`. Since `Vishnu` and `Siva` are a combination of color and it's nti-color - their coming together as a spark must also have a shape. This shape is what we know as the univere. In essence `Bramh` is the univers. The templates  of the knowledge are retained in this field - i.e. knowledge is held in `Bramh`. `Bramh` responds to the questions of manifestations. 
+
+The birth of trillions of conscious configurations is called - `Utpatti`.. It is a never ending continuous process. Only once in a while a careful storke of luck leads to a special one who could tell the shape of the knowledge . In such cases the questions are said to answered by the Knowledge herself - or an incarnation of the God.
+
+
+
+# `Utpatti`
 
 She found herself in a bed made of flowers when she woke up. It was early morning. Light was slowly filling up the entrance of the cave. She quickly fixed her rags and hair, and stepped out of the cave. She saw `Maharishi` sitting in a `Samadhi` (sitting upright in a trance). There was holy fire burning in front of the `Yogi`. The place smelled of Sandal wood. Later she realized this part of the island was full of Sandal trees. She sat there, grasping the serenity of the space, trying to make a sense of it all. The events of last night played in her mind. She tried hard to sequence the things but there was no recollection after she lost herself on the boat. Entire evening felt hazy and distant as if a memory was pulled off her brain. Last thing she knew was a sprinkle of cold `Yamuna` water on her face.
 

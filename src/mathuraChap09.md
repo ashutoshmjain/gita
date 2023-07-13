@@ -38,7 +38,10 @@ She found herself in a bed made of flowers when she woke up. It was early mornin
 
 While she was thinking of the night that she missed, a thick fog surrounded the cave. It was as if the smoke from the holy fire froze into smog to make an invisible circle around. She felt comforted in the hideous state of everything around her — free from her painful past. She also felt a strange feeling in her stomach. As if, a life had taken place in her.
 
-> Human birth, and for that matter all living beings is predicated on separation of a living form into a male and female - sexual. This separation bears the greatest of attraction as well as a never ending set of conflicts. Because a male and a female are two sides of coin - dipoles of a magnet. This separation bears the biggest lock of knowledge in a child. But the birth need not be sexual. As the modern science shows the birth may be accomplished in many other ways.
+> In most living beings the conception  is predicated on separation of a living form into a male and a female - sexual. Together they form the identity of a specific species but individually they are inverse of each other. This separation like the separation of colors, bears a complete copy of knowledge and the templates that are destined to evolve to higher degree of conscious experience - at least to the level of the species. The double helix of DNA is that template. 
+>
+> Just like there are infinite possible combinations of colors - each with its own anti-color; the male and females are also chosen pairs to fulfill the identity. When such compatible pairs interlock in one identity, a child is born. While the  natural process is sexual, science has shown us the means to circumvent the process - to an extent to create altogether new breeds. Even with in humans, a child with certain target skills is possible. Such births are rarely sexual. In `Vaidik` speak , such births are said to be interventions  of `Yog Maya`. 
+
 
 Am I pregnant? — She didn't intend to disturb the `Samadhi` but the words just came of her mouth. `Parāśara` opened his eyes. He gazed at her with a welcome look — Yes — he said. Do you need anything? There is fresh milk and fruits, and he pointed to a grotto next to the entrance of the main cave. 
 

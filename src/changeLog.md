@@ -2,9 +2,15 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
 
+## July 13, 23
+
+- [Mathura](./mathuraLanding.md) 
+  - [Birth](./mathuraChap09.md) - General Edits. Created sections. Added introduction.
+
+
 ## July 7, 23
 
-- [Mathura](./mathuraLanding.md) - Fnally foun th text that could go on the landing page. It is same as introduction to chater 8 but made sense to start the book of Mathura as well.
+- [Mathura](./mathuraLanding.md) - Finally found the text that could go on the landing page. It is same as introduction to chater 8 but made sense to start the book of Mathura as well.
   - [Proposal](./mathuraChap08.md) - General Edits. Created sections. Added introduction.
 
 

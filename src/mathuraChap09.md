@@ -2,7 +2,7 @@ Back in her tinsel town, the fairy couldn't help share the experience of last ev
 
 Only one of them pondered about `Matsya` - What happened to her? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted?
 
-Luckily, that evening, both of them got hold of the Wizard Angel at a social mixer. The conversation started at an odd note. How could someone conceive at a sprinkle of "Yamuna" water? After all, it is just water. Is there something more to be read between the lines ? - They asked the wizard with a cunning smile - as if they knew what actually went down on that boat!
+Luckily, that evening, at a social mixer, they got hold of the Wizard Angel. The conversation started at an odd note. How could someone conceive at a sprinkle of "Yamuna" water? After all, it is just water.  - They asked the wizard with a cunning smile - as if they knew what actually went down on that boat! - Is there something more to be read between the lines ? - the friend said out loud. 
 
 Unaware that the story had already leaked into the "social circles", Wizard was taken aback. He wanted to cover up. He was concerned if the matter reached the flight controllers. But few martinis later, he too jumped in on the details. And particularly because the focus was not on the man who didn't take his deal. It was on the story that was anyway so dear to him.
 

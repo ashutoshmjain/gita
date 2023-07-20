@@ -2,11 +2,11 @@ Back in her tinsel town, the fairy couldn't help share the experience of the for
 
 Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men.
 
-Luckily, that evening, at a social mixer, they got hold of the Angel. The conversation started at a rather skeptic note. How could someone conceive at a sprinkle of Yamuna" water? After all, it was a boat, not a fertility clinic  - they asked the wizard with a cunning smile - as if they knew what actually went down that evening! 
+Luckily, that evening, at a social mixer, they got hold of the Angel. The conversation started at a rather skeptic note. How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked the wizard with a cunning smile - as if they knew what actually went down that evening! 
 
 Is there something more to be read between the lines ? - the friend said out loud!
 
-Unaware that the story got leaked into the "social circles", Angel was taken aback. He wanted to cover up. He was concerned if the matter reached the flight controllers, his flights mights be revoked for a period if not for good. But few martinis later, he too jumped in on the details. And particularly because the focus was not on the man who didn't take his deal. It was on the story of `Parasara`  that was anyway so dear to him.
+Unaware that the story got leaked into the "social circles", Angel was taken aback. He wanted to cover up. He was concerned if the matter reached the flight controllers, his flights might be revoked for a period if not for good. But few martinis later, he too jumped into the narrative. And particularly because the focus was not on the man who didn't take his deal. It was on the story of `Parasara`  that was anyway so dear to him.
 
 What exactly is the birth ? - He asked both of them. Seeing their faces blank out - Let's go outside for it's too noisy in here. We need a quieter place to talk - he suggested with a smile.
 
@@ -28,31 +28,26 @@ He continued after making sure of the heightened curiosity of both his listeners
 
 He paused only to restart immediately to drive home the point - The curious question then is what happens when Yellow meets anti-Yellow ? Does it maketh the White or does it make the Black? 
 
-The friend, who had recently researching "Abstract Algebra" jumped in now - group operation under addition dictates that a color and it's anti-color put together must give rise to the "white".  Simply because anti-color is "white" minus the color we see. 
+The friend, who had recently learnt  "Abstract Algebra" jumped in now - group operation under addition dictates that a color and it's anti-color put together must give rise to the "white".  Simply because anti-color is "white" minus the color we see. 
 
 You nailed it - said the wizard - In fact any color mixed with it's anti-color should give us the white light. The "White" is thus the identity of the group of seven rainbow colors. This identity has it's own inverse - the utter darkness ... but we are digressing. Let's get back to our group of seven colors and their singular identity in white - he took a pause to clear his throat - thus seven colors of the rainbow, along with the identity element "White" are what we may say the manifestation engine of the white light. In other words, the white light is born of seven underlying separations - Seven knots in `Vaidik` speak...
 
 Sure, I give you that - said the friend - energy is trapped in the waves of light and that is what is known as a Photon. As a matter of fact, the separation is lot more finer. Every single shade of light is a wave, and energy shows up as a massless Photon when the wave splits into a electric and magnetic pulse. But how is this related to the birth of a child? She didn't make any attempt to hide her impatience.
 
-Well, our conscious experience is also made of just seven knots and one identity. `Dwaipayna`, the son of `Matsya` and `Maharishi` named it `Ashtdhamool Prakriti`. The eightfold basic nature - the mechanism of creation - `Utpatti` - said the Angel Wizard . He continued -  `Dwipayana` described the eightfold basic nature in just two lines .. 
+It is - said the wizard - for that we need to investigate what happens if an odd anti color is paired with the color. It is bit of twist of imagination but there are exactly eight combinations that are out of symmetry. For example Green with Anti-Blue or Anti-Red with Blue. These strange combinations can't exist - there is always a race to attain the balance. In particle physics this group of eight odd dualities is termed "Gluons". They can't exist in isolation but together they give rise to matter - quarks as we call them. Three types of quarks to be precise. In a way the three basic colors morph into matter and look at the strangeness of creation - matter too has three states - Solids, liquids and gases. 
 
->bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha
->
->ahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā
->
-> Earth, Water, Air, Space, Fire, fickle mind and intellect - these seven dualistic expressions along with the "identity" (`Ahmkara`) are the constituents of (the) eight fold nature that underpins the consciousness - our experience. 
+It was time for both fairy and her friend to get surprised. No one ever told this perspective to them. The Angel continued - So eight colors and three states of matter - that is eleven things what we observe. And absence of all these is what we know as "Space" . So put together there are "twelve" dualities that we observe. Now add to this the perceptible facets of the observer - the five senses (`Indriyas`), fickle mind (`Mana`), intelligence (`Buddhi`) and energy (fire) - All these eight are stable separations of facet and anti facet that make an observer. But their odd combinations are unstable. Just like Gluons, they can't exist. These eight odds give rise to three `Gunas` - `Sattva`, `Rajasa` and `Tamsa`. Just the way eight gluons create three states of matter that are observed, the eight facets of observer create three `Gunas` that drive all the "actions" - `Karma`.  To put it simply, the three states of matter drive actions in the unconscious matter while the three `Gunas` do the same in the conscious observer. 
 
-The inverse of this external experience is the one unknown locked with in. That is the reason "knowledge" is accessible from any experience. There are infinite ways to know. One can start with a leaf on a tree as much as navigating the complexities of Abstract Algebra - Group theory to be precise that I am using here in a mumbo jumbo fashion to explain the `Vaidik` realizations 
+And lastly all the twelve elements of what is observed and eleven facets of the observer create one identity `Ahmkara`. All of these twenty four together is what we know as the "field" of consciousness in `Vaidik Science`. What is it that is held with in twenty four dualities of the field ? Well that is the inverse of the "Identity" (`Ahmkara`) and it is called `Atma` - The knowledge.
 
-The idea of the birth is this unknown energy - that `Dwaipayna` termed `Atma` getting locked into an Identity - smiled the Angel.
+Well, I'll need another drink before my mind blows up - said the fairy as she pointed to her empty glass. Three of them walked inside and found  quiet corner with ample food on the table after filling up their fancy tumblers with sacred poisons of their respective choice.
 
-Well, I'll need another drink before my mind blows up - said the fairy as she pointed to her empty glass. Three of them walked inside and found  quiet corner with ample food on the table.
+But we still didn't get to the "Birth" - said the friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day and it was well past her dinner time!
 
-Another way to comprehend - said the Angel - is to understand the "Time" - `Kala`.  The "separation" is  an event. A spark of light occurred because a duality of a color and it's anti color was formed and knotted together as a mirror image of each other. If they truly merged, they would annihilate into darkness but they are not merged. They are compacted as mirror images of each other into one - ever so close but never meeting each other - just like two banks of a river. River is manifested because the banks never close on each other. If they did than there is no flow - it is just a loathsome pond waiting to be evaporated. Just like river, the electricity flows with in the separation of positive and negative. The flow stops as soon as the charge difference ends. Time is this flow . Time has no meaning beyond conscious experience and experience is only in the separation.
+Okay - let me reveal the big secret - In `Vaidik Science` the human body is considered the field. They call it `Kshetra`. And no surprise that we have exactly twenty four chromosomes. If someone understands this field, and knows the science of organizing these twenty four elements, conception can be triggered in any place that could keep the embryo safe for nine months. And of course, the best place is a mother's womb. 
 
-The moment a spark happens, the conscious experience gives it a shape - a mass. Mass is nothing but the compaction of the many dualities into a shape. As if an orientation is trapped into a body - a physical shape that expresses a specific orientation of knowledge. This marks the beginning of the conscious experience - the beginning of the Time for this new manifestation. The time ends when dualities are unlocked but the purpose of the manifestation isn't to exit from the body. If that was so why would there be a creation in the first place? The purpose really is to understand and to see what is it that is locked in the myriad knots. 
+Such a birth is called a birth through `Yog Maya` - `Utpatti` ..
 
-The mixture of liquors with choicest foods had already comforted the table. Okay, you don't need to convince us. She smiled - probing you on what happened on the boat was not even the point. We actually wanted to know what happened to `Matsya`.
 
 
 # `Utpatti`
@@ -123,3 +118,21 @@ Driven by equally ill advisors, `Kansa` announced a major tax on the `Ashrama`. 
 Before `Vasudev` could take further action, `Kansa` limited his mobility too — a house arrest till he be tried under fake charges of treason. Without `Maharishi` , `Maitreya` was at a stalemate except that he had a trusted friend in the council who sent him daily updates of `Kansa's` plans. Unfortunately, those updates only aggravated the worries .. 
 
 ----
+
+>bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha
+>
+>ahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā
+>
+> Earth, Water, Air, Space, Fire, fickle mind and intellect - these seven dualistic expressions along with the "identity" (`Ahmkara`) are the constituents of (the) eight fold nature that underpins the consciousness - our experience. 
+
+The inverse of this external experience is the one unknown locked with in. That is the reason "knowledge" is accessible from any experience. There are infinite ways to know. One can start with a leaf on a tree as much as navigating the complexities of Abstract Algebra - Group theory to be precise that I am using here in a mumbo jumbo fashion to explain the `Vaidik` realizations 
+
+The idea of the birth is this unknown energy - that `Dwaipayna` termed `Atma` getting locked into an Identity - smiled the Angel.
+
+
+Another way to comprehend - said the Angel - is to understand the "Time" - `Kala`.  The "separation" is  an event. A spark of light occurred because a duality of a color and it's anti color was formed and knotted together as a mirror image of each other. If they truly merged, they would annihilate into darkness but they are not merged. They are compacted as mirror images of each other into one - ever so close but never meeting each other - just like two banks of a river. River is manifested because the banks never close on each other. If they did than there is no flow - it is just a loathsome pond waiting to be evaporated. Just like river, the electricity flows with in the separation of positive and negative. The flow stops as soon as the charge difference ends. Time is this flow . Time has no meaning beyond conscious experience and experience is only in the separation.
+
+The moment a spark happens, the conscious experience gives it a shape - a mass. Mass is nothing but the compaction of the many dualities into a shape. As if an orientation is trapped into a body - a physical shape that expresses a specific orientation of knowledge. This marks the beginning of the conscious experience - the beginning of the Time for this new manifestation. The time ends when dualities are unlocked but the purpose of the manifestation isn't to exit from the body. If that was so why would there be a creation in the first place? The purpose really is to understand and to see what is it that is locked in the myriad knots. 
+
+The mixture of liquors with choicest foods had already comforted the table. Okay, you don't need to convince us. She smiled - probing you on what happened on the boat was not even the point. We actually wanted to know what happened to `Matsya`.
+

@@ -1,3 +1,23 @@
+The narrative has the power to capture people's imagination. The Fairy and her friend were hooked to the story of `Matsya`. They wanted to know how people reacted to see `Matsya` back in the town. Will she see the same version of reality that she lived in that village or will she see a new version - may be an anti-version of her assumed truth.
+
+As if the Wizard read their minds. You always see a new reality when you return to your home town. That is partially true for any place where you spent good time, but home is something that flows in your blood. Thus you notice every tiny change. You would ignore these changes had you stayed at the same place for the rate of change is subtle - unnoticeable. A "return" makes you aware of the change. But that is not how you see the anti-Yellow - said the Wizard.
+
+To be able to see the inverse of your reality - the other side -  you must change your entire persona. No one must recognize you in your own home - he said - No one even looking for your return. And you must be exact opposite of what you were - rich if you were poor, handsome if you didn't have the looks, a singer if you were a thinker and fragrant if you smelled like a fish. 
+
+The Angel thought for a while, looking at his watch - returning to your home with anonymity, and  with exactly opposite persona is a powerful experience to do a "reality check" . It is like going to your office after many years of retirement - as nobody where you served as a Deputy or a Boss.  You feel as if the walls and chairs are mocking you for you never cared to notice them. You thought office was made of people and now the reality dawns that the people were most fungible in an office -  all your peers are gone long back and all your subs are probably transferred. And it also proves to you that the "knowledge" held "with-in" is always complete. It appears the way you see it. Beauty, in fact, lies in the eyes of the beholder ..
+
+Tell us more of her return O, good Angel - insisted the friend - now that you have kindled the interest you can't hold the narrative back. As she said it, the mid night bell rang. The club was about to close. 
+
+May be some other time - said the wizard. And then he thought for a while - how about instead of me telling this story, you see it yourself ?
+
+How ? - asked the Fairy - last I checked we still can't travel back in time - she smiled. 
+
+Yup, we can't travel back in time, but you can can see it in your head set - replied the Angel - How about you come with us - he pointed to the friend - both of you may get into virtual reality at the back seat while I keep my hands on the wheel. He didn't miss the opportunity to curse the traffic controllers -  what is the point of self driving chariots if at least one must be sitting on the steering - he raised his hands in frustration :-)
+
+Yes sure - said the friend - my car can follow you. There is no need for someone to be on the steering if there is no one in the car - strange rules (of the Wizland) - she laughed -  A chariot may drive itself without living beings but if there is even a dog inside, someone must be on the wheel. 
+
+After clearing the bills, the Fairy summoned her Model X. The friend had the latest iteration - they call it Model Theta - what ever it means.  The Angel hopped on to the driver seat while the two friends entered the new "Vision Pros" at the back. From the driver seat, the Angel navigated them to a new locale built at the dawn of the civilization. He asked Siri to tune in the sequence of separation. They could see `Matsya` riding her boat as she waved good bye to `Maharishi`, and her two year old. She had tears in her eyes. And once again, she had no clue what to expect ..
+
 #  The Return .. 
 
 The village was in a state of shock when `Satyawati` made it to the docks. `Maharishi` had fixed her boat that it looked like new. `Matsya` was long gone from the memory of this village. She docked her boat and turned to a group of fishermen who were looking at her in disbelief — Is there a place to stay in this village and also who is the village head here? I wanted to seek permission to moor my boat in this dock — she acted as if she didn't know the docks she grew on! She had practiced this opening line of her new act many times in her mind, but in real, it felt different. And she was excited!

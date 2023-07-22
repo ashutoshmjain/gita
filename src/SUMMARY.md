@@ -1,6 +1,5 @@
 # Summary
 - [Mathura](./mathuraLanding.md)
-  - [Readme](./how.md)
   - [Invocation](./prologue.md)
   - [Trigger](./mathuraChap01.md)
   - [Reboot](./mathuraChap02.md)
@@ -27,3 +26,4 @@
   - [About](./0.0_about.md)
 - [Mahabharata](./mahabharataLanding.md)
 - [changeLog](./changeLog.md)
+- [Readme](./how.md)

@@ -2,6 +2,12 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
 
+## July 21, 23
+
+- [Mathura](./mathuraLanding.md) 
+  - [Birth](./mathuraChap09.md) - Turned the chapter introduction into a story - continuation from the last chapter. Experimenting with mixing two narratives - An observer and another being observed. 
+
+
 ## July 13, 23
 
 - [Mathura](./mathuraLanding.md) 

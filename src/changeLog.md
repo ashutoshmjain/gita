@@ -2,6 +2,11 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
 
+## July 28, 23
+
+- [Mathura](./mathuraLanding.md) 
+  - [Identity](./mathuraChap10.md) - Changed the name of the chapter and reimgined the content in the light of new title. Major changes .. 
+
 ## July 21, 23
 
 - [Mathura](./mathuraLanding.md) 

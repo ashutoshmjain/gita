@@ -8,7 +8,9 @@ Is there something more to be read between the lines ? - the friend said out lou
 
 Unaware that the story got leaked into the "social circles", Angel was taken aback. He wanted to cover up. He was concerned if the matter reached the flight controllers, his flights might be revoked for a period if not for good. But few martinis later, he too jumped onto the narrative. And particularly because the focus was not on the man who didn't take his deal. It was on the story of `Parasara`  that was anyway so dear to him.
 
-What exactly is the birth ? - He asked both of them. Seeing their faces blank out - Let's go outside for it's too noisy in here. We need a quieter place to talk - he suggested with a smile.
+What exactly is the birth ? - He asked both of them. And waited a bit for their response.
+
+Seeing their faces blank out - Let's go outside for it's too noisy in here. We need a quieter place to talk - he suggested with a smile.
 
 As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow had lit up the evening sky. All three of them, raising their big mugs, took a deep breath of the clean air that was restored with enormous efforts from the angle scientists and equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; and disclaiming the brevity of his words, he started his monologue ..
 

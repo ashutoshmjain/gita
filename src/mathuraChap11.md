@@ -1,6 +1,6 @@
-It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. 
+It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. Waking up to the smell of fresh coffee beans always brought unique pleasure to Fairy.
 
-When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open. And as soon as the chariot announced the arrival, he slipped into his bedroom before two of them even finished the virtual session on the back seat. The Friend could have gone back to her place. It was only a 15 minutes flight for her new flying machine but unfortunately flying was prohibited from one am to four am. It seems the air traffic systems were updated every night. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around. The other option was to self drive while keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another one and half hours on the wheel. Though they ended up talking for at least two more hours in the living room with a round of hot tea and cookies.
+When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open. And as soon as the chariot announced the arrival, he slipped into his bedroom before two of them even finished the virtual session on the back seat. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine. Unfortunately flying was prohibited from one am to four am. It seems the air traffic system was updated every night. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around. The other option was to let the machine self drive on the crappy road. But that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour on the wheel though they ended up talking for at least two more hours in the living room -  with a round of hot tea and cookies. The topic was obviously - what would `Matsya` see and what sort of plans she had in store for her!
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
@@ -12,51 +12,69 @@ Hmm - we don't have the next session in virtual yet - said the Angel - and befor
 
 That is such a bummer - complained the Friend. There must be a way to get the complete picture - with story as it happened and the context. 
 
-To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't know it was so interesting!
+To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't know it was so interesting for you guys! He obviously underestimated the curiosity a woman mind has for the one who was prophesied to rule the world particularly from the drudge life of `Matsya`.
 
-Can we do a zoom in with him ? - asked the Friend.
+Can we Zoom in with him ? - asked the Friend.
 
-Unfortunately no - he lives a secluded life near Lake Tahoe. It is 30 mins flight and I can schedule you guys if you wanna go - said the Angel.
+Unfortunately no! - he lives off the grid near Lake Tahoe in the Summer. It is 30 mins flight though I can schedule you guys if you wanna go see him - said the Angel.
 
-I wish I could join you but I am gone for a week - said the Angel - not hiding at all that he hated his work.
+I wish I could join you but I am gone for a week - said the Angel - not hiding at all that he hated his work!
 
-Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes. 
+Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - she said peeking on her watch.
 
-Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime numbers, I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life!
+Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime Numbers. I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life of the affluent!
 
 ----
 
-The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen but everything looks great from inside of a climate controlled plush heated seat. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the time Angel had met him almost twenty years back.
+The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen but everything looks great from inside of a "climate controlled" plush heated seat. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel had met him -  almost twenty years back. Some people don't change as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication!
 
-Would you like some tea - Mentor asked - pointing them to the chairs in front of his table. 
+Would you like some tea - Mentor asked - pointing them to the chairs in front of his table in rather large study room just by the entrance.
 
-The study room had a big table almost fully covered with two layers of books. There was an old desktop station with the wall behind the chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelves that went as high as eight feet on both the sides. 
+The room had a big table almost eight feet wide -  fully covered with at least two layers of books. There was an old desktop station touching the wall behind his chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelves that went as high as the high ceiling on both the sides. 
 
-The Angel said you two want to create a scene from Ganga's story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties. 
+The Angel said you two want to create a scene from Ganga's story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties incapable of running even the slightest of graphics. The dark terminal was reminiscent of Fortran era.
 
-The friend was surprised. She did have the VR skills but she didn't know that she was being recruited. She looked at the Fairy. The look on her face told her that she didn't read the full note from Angel. She just noted the location and time to pass on the coordinates to her Friend.
+The friend was surprised. She did have the creative skills but she didn't know she was being recruited. She looked at the Fairy. The look on Fairy's face told her she didn't read the full note from Angel. Apparently, she just noted the location (and time) to pass on the coordinates to the flying machine.
 
-She looked at her phone again as the Mentor went to kitchen to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
+She looked at her phone again as the Mentor disappeared to small kitchenette in the living room - to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
 
 Talk about communication - the Friend spoke with a whim on her face as she handed the phone back to the Fairy - Okay but I don't know how long would it take. And I have never done a historical narrative before. 
 
-Yes - they both said as they found Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right. And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your thoughts on the prime numbers if that is relevant to the narrative .. 
+Yes - they both said as they found Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right. And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your theory on the Prime Numbers if that is relevant to the narrative .. 
 
-Oh sure - it is actually not a theory as some people try to give unnecessary credit and it is not that hard either - said the mentor as he poured them tea and settled in his old chair. 
+Oh sure - it is actually not a theory as some people try to give undue credit, and it is not that hard either - said the mentor as he poured them tea and settled in his old chair, but I do need to know how much you two know about the "Primes" - He was courteous and his intent was not to waste their time in the basics.
 
-The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number 1. In a way, a prime number is an orientation. It can't be sub-divided. You can name this orientation and that is what we call the "Identity".
+The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number 1 - said the Fairy - and that is all I know about them except that they keep on finding new primes almost every day.
 
-The first prime is of course "1" and that is what we know as "knowledge" - it is part of every orientation. The second prime is "2" - it means every orientation is dualistic - up and down , left and right , observer and observed - every thing that we consciously observe is dualistic. 
+There are trillions of  them already known and they say there exist infinite primes - added the friend.
 
-Mentor paused for a moment. He wanted to check if the fairy and the friend understood what he thought was very simple idea. Often people have hard time when someone talks about primes and complex numbers. And he didn't blame them for his life was spent researching the math of number theory.
+Mentor was pleased that he was spared from the definitions - So what is "1", is a Prime ? 
+
+Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot - She was already getting comfortable in this conversation.
+
+You are absolutely right. The conjecture you are talking about is that any non prime number can be factored into two or more primes. If we consider "1" as prime then obviously you can factor "1" as many times you want. So they decided to remove "1" from the list of Primes - said the Mentor - and that is exactly right in my mind because "1" is a unique number - it is the "knowledge". It sits with in every other number!
+
+The mentor got his flow - In a way, a prime number is an orientation. It can't be sub-divided. You can give a name to this "orientation" and that is what I call the "Identity". like an axis an "Orientation" has only two faces - up or down, left or right.  That is the reason the first prime is "2" - it means every orientation is dualistic - every thing that we consciously observe is dualistic. 
+
+Mentor paused for a moment. He wanted to check if the fairy and the friend understood what he thought was very simple idea. Often people have hard time when someone talks about primes and complex numbers. And he didn't blame them for his life was spent researching the math of number theory. And of course, subscribing to his ideas was kinda leap of faith!
 
 Very interesting - said the fairy - I never thought it in this light and no one ever talked about it like this on the school.
 
-A smile came to Mentor's face. He looked at the Friend. He wanted to make sure she was on board with the idea - well no one is allowed to teach it for the it is a theory without any proof - he said as he saw a confirmation of communication in Friend's eyes. 
+A smile came to Mentor's face. He looked at the Friend. He wanted to make sure she was on board with the idea - well no one is allowed to teach it for it is a theory without any proof - he said as he saw a confirmation of communication in Friend's eyes. 
 
 Well "1" and "2" is fine, but what about "3" - what is the name or identity for "3"? - asked the Friend.
 
-Very good question. Now we are talking - said the mentor - just like "1" and "2" , the prime "3" is also without identity but it is an interesting number. It has it roots in the next prime "7". You can say "3" is formed when an identity is attached to number "7". When number "7" takes an identity , all the unstable anti-color dualities come together to form "3" forces. And it is not unique to "7" . Any higher prime orientation formation -  be it "11" or "17" or "23" - they all give rise to "3" . That is the reason "3" is the fundamental design of our perception - be it three basic colors or three types of quarks or three states of the matter . In `Vaidik` speak we call it three `Gunas` when it comes to the observer and three states when it comes to matter but three is simply three protocols - the fundamental agreement on the design of the universe. 
+Very good question. Now we are talking - said the mentor - just like "1" and "2" , the prime "3" is also without identity but it is an interesting number. It has it roots in the next prime "7". You can say "3" is formed when an identity is attached to number "7". When number "7" takes an identity , all the unstable anti-color dualities come together to form "3" forces. And it is not unique to "7" . Any higher prime orientation formation -  be it "11" or "17" or "23" - they all give rise to "3" . That is the reason "3" is the fundamental design of our three dimensional perception - be it three basic colors or three types of quarks or three states of the matter . In `Vaidik` speak we call it three `Gunas` when it comes to the observer(`Sookshma`) and three "states" as in solids, liquids and gases - when it comes to the matter (`Sthoola`) - he paused a minute to bite into his cookie and slurp a big sip of tea - but three is simply three prongs of protocol - the fundamental agreement on the design of the universe.
+
+He waited  to let the idea sink in - A protocol is by definition something everyone must agree to. Saying "good morning" is a protocol, internet runs on TCP and IP protocols. Bitcoin network is a protocol. Lightening is a protocol. It is an idea that everyone must subscribe no matter what orientation you have. 
+
+So what is this protocol of three ? - The Friend was getting more curious while things started getting a bit hazy to the Fairy.
+
+Well the first prong of the eternal protocol is to allow all possibilities of the "Orientation" - Infinite Primes exist - We call it `Vishnu` in `Vaidik` terms.
+
+The second protocol is to choose only one for a purpose, that fits the purpose best. Only that would manifest. Rest all would decay - we call it `Siva`.
+
+And the third prong is that the knowledge of manifestation and its purpose is in the relationships of all manifested entities - we call it `Bramh` - each relationship is an expression of the "Orientation" - up or down, love or hate, impudence or respect. Trillions of such relationships form the complex network to express the "1" knowledge. Thus "1" is as much in a tiny quark as it is in the entire universe. 
 
 
 The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna` , `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.

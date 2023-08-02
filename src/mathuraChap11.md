@@ -1,6 +1,6 @@
 It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. 
 
-When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel had a hard time not sleeping on the steering wheel and he had slipped into his bedroom before two of them finished the VR session on the back seat. The Friend could have gone back to her place. It was only a 15 minutes flight for her new flying machine but unfortunately flying was prohibited from one am to four am. It seems the air traffic systems were updated every night. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around. The other option was to self drive while keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another one and half hours on the wheel. Though they ended up talking for at least two more hours. 
+When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open. And as soon as the chariot announced the arrival, he slipped into his bedroom before two of them even finished the virtual session on the back seat. The Friend could have gone back to her place. It was only a 15 minutes flight for her new flying machine but unfortunately flying was prohibited from one am to four am. It seems the air traffic systems were updated every night. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around. The other option was to self drive while keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another one and half hours on the wheel. Though they ended up talking for at least two more hours in the living room with a round of hot tea and cookies.
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
@@ -8,31 +8,35 @@ Yes we did - responded the Fairy and can you send us the link to the next sessio
 
 If we had the link, we would have watched the next episode last night itself - laughed the Friend. 
 
-Hmm - we don't have the next session in virtual yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And unfortunately I only know half the story - the skeleton. To really understand the context, you will need to see my Mentor. 
+Hmm - we don't have the next session in virtual yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And unfortunately I only know half the story - the skeleton. 
 
-Can we do a zoom call with him ? - asked the Friend.
+That is such a bummer - complained the Friend. There must be a way to get the complete picture - with story as it happened and the context. 
+
+To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't know it was so interesting!
+
+Can we do a zoom in with him ? - asked the Friend.
 
 Unfortunately no - he lives a secluded life near Lake Tahoe. It is 30 mins flight and I can schedule you guys if you wanna go - said the Angel.
 
 I wish I could join you but I am gone for a week - said the Angel - not hiding at all that he hated his work.
 
-Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw yes in her eyes. 
+Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes. 
 
-Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime numbers, I want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life!
+Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime numbers, I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life!
 
 ----
 
-The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch. 
+The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen but everything looks great from inside of a climate controlled plush heated seat. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the time Angel had met him almost twenty years back.
 
 Would you like some tea - Mentor asked - pointing them to the chairs in front of his table. 
 
-The study room had a big table almost fully covered with two layers of books. There was an old desktop station with the wall behind the chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelf that went as high as eight feet on both the sides. 
+The study room had a big table almost fully covered with two layers of books. There was an old desktop station with the wall behind the chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelves that went as high as eight feet on both the sides. 
 
-The Angel said that you two want to create a scene from Ganga's story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties. 
+The Angel said you two want to create a scene from Ganga's story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties. 
 
-The friend was surprised. She did have the VR skills but she didn't know that she was being recruited. She looked at the Fairy. The look on her face told her that she didn't read the full note from Angel. She just noted the location and time to pass on to her Friend.
+The friend was surprised. She did have the VR skills but she didn't know that she was being recruited. She looked at the Fairy. The look on her face told her that she didn't read the full note from Angel. She just noted the location and time to pass on the coordinates to her Friend.
 
-She looked at her phone again as the Mentor went to kitchen to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they invest are okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
+She looked at her phone again as the Mentor went to kitchen to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
 
 Talk about communication - the Friend spoke with a whim on her face as she handed the phone back to the Fairy - Okay but I don't know how long would it take. And I have never done a historical narrative before. 
 

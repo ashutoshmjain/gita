@@ -76,6 +76,18 @@ The second protocol is to choose only one for a purpose, that fits the purpose b
 
 And the third prong is that the knowledge of manifestation and its purpose is in the relationships of all manifested entities - we call it `Bramh` - each relationship is an expression of the "Orientation" - up or down, love or hate, impudence or respect. Trillions of such relationships form the complex network to express the "1" knowledge. Thus "1" is as much in a tiny quark as it is in the entire universe. 
 
+What about number "5". It is also a prime - asked the Fairy. She was getting impatient on the discussion on number "3" and somehow wanted to progress the conversation to the real story. She had a feeling that they were tied here for the full day and she would again miss the chance to walk around the lake.
+
+Well number "5" is another interesting prime. It is still not ripe for the Identity but it has it's own significance - said the Mentor - if you see the range "1" to "10", there are exactly five primes in this range (1, 2, 3, 5, 7). Exactly fifty percent. There is no other range that may have fifty percent of its members as prime. So "5" are the basic dualities of perception - five elements and five senses to observe them.These are fundamental bonds of perception - solids to touch , water to taste, fire to vision , air to smell, and space to the sense of hearing.
+
+But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the friend..
+
+It was `Ganga` who first understood that a specific orientation could be imparted to an endeavour - even a marriage and the offspring from the wed-lock. It all depends on how the bond is created. In `Vaidik` science the bond is called `Bandhana`. `Ganga's` character shows how to create the bonds and how to exit from them - said the Mentor - we will see that in the story - he paused a bit - let me also give you a lay of land (geography) so that you two could visualize the landscape as you bake it into a virtual narrative. 
+
+The door bell rang and they had Pizza on delivery. All three of them were hungry for the mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend - Lets grab a bite while we talk about the narrative - he said.
+
+# `Bandhana`
+
 
 The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna` , `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.
 

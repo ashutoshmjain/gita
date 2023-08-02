@@ -78,13 +78,13 @@ And the third prong is that the knowledge of manifestation and its purpose is in
 
 What about number "5". It is also a prime - asked the Fairy. She was getting impatient on the discussion on number "3" and somehow wanted to progress the conversation to the real story. She had a feeling that they were tied here for the full day and she would again miss the chance to walk around the lake.
 
-Well number "5" is another interesting prime. It is still not ripe for the Identity but it has it's own significance - said the Mentor - if you see the range "1" to "10", there are exactly five primes in this range (1, 2, 3, 5, 7). Exactly fifty percent. There is no other range that may have fifty percent of its members as prime. So "5" are the basic dualities of perception - five elements and five senses to observe them.These are fundamental bonds of perception - solids to touch , water to taste, fire to vision , air to smell, and space to the sense of hearing.
+Well number "5" is another interesting prime. It is still not ripe for the Identity but it has it's own significance - said the Mentor - if you see the range "1" to "10", there are exactly five primes in this range (1, 2, 3, 5, 7). Exactly fifty percent. There is no other range that may have fifty percent of its members as prime. So five dualities of perception make up the decimal system that was invented by `Aaryabhatta` based on `Vaidik` science - five elements and five senses to observe them - a system of ten. These are fundamental bonds of perception - solids to touch , water to taste, fire to vision , air to smell, and space to the sense of hearing.
 
 But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the friend..
 
-It was `Ganga` who first understood that a specific orientation could be imparted to an endeavour - even a marriage and the offspring from the wed-lock. It all depends on how the bond is created. In `Vaidik` science the bond is called `Bandhana`. `Ganga's` character shows how to create the bonds and how to exit from them - said the Mentor - we will see that in the story - he paused a bit - let me also give you a lay of land (geography) so that you two could visualize the landscape as you bake it into a virtual narrative. 
+It was `Ganga` who first understood that a specific orientation could be imparted to an endeavour - even a marriage and the offspring from the wed-lock. It all depends on how the bond is created. In `Vaidik` science the bond is called `Bandhana`. `Ganga's` character shows how to create the bonds and how to exit from them - said the Mentor - we will see that in the story - he paused a bit - let me also give you the lay of the land (geography) so that you two could visualize the landscape as you bake it into a virtual narrative. 
 
-The door bell rang and they had Pizza on delivery. All three of them were hungry for the mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend - Lets grab a bite while we talk about the narrative - he said.
+The door bell rang and they had Pizza on delivery. All three of them were hungry for the Mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend - Lets grab a bite while we talk about the narrative - he said.
 
 # `Bandhana`
 

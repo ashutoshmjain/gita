@@ -1,3 +1,60 @@
+It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. 
+
+When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel had a hard time not sleeping on the steering wheel and he had slipped into his bedroom before two of them finished the VR session on the back seat. The Friend could have gone back to her place. It was only a 15 minutes flight for her new flying machine but unfortunately flying was prohibited from one am to four am. It seems the air traffic systems were updated every night. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around. The other option was to self drive while keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another one and half hours on the wheel. Though they ended up talking for at least two more hours. 
+
+Good morning everyone - they heard the Angel - hope you two slept well last night !
+
+Yes we did - responded the Fairy and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission - she smiled. 
+
+If we had the link, we would have watched the next episode last night itself - laughed the Friend. 
+
+Hmm - we don't have the next session in virtual yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And unfortunately I only know half the story - the skeleton. To really understand the context, you will need to see my Mentor. 
+
+Can we do a zoom call with him ? - asked the Friend.
+
+Unfortunately no - he lives a secluded life near Lake Tahoe. It is 30 mins flight and I can schedule you guys if you wanna go - said the Angel.
+
+I wish I could join you but I am gone for a week - said the Angel - not hiding at all that he hated his work.
+
+Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw yes in her eyes. 
+
+Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime numbers, I want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life!
+
+----
+
+The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch. 
+
+Would you like some tea - Mentor asked - pointing them to the chairs in front of his table. 
+
+The study room had a big table almost fully covered with two layers of books. There was an old desktop station with the wall behind the chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelf that went as high as eight feet on both the sides. 
+
+The Angel said that you two want to create a scene from Ganga's story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties. 
+
+The friend was surprised. She did have the VR skills but she didn't know that she was being recruited. She looked at the Fairy. The look on her face told her that she didn't read the full note from Angel. She just noted the location and time to pass on to her Friend.
+
+She looked at her phone again as the Mentor went to kitchen to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they invest are okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
+
+Talk about communication - the Friend spoke with a whim on her face as she handed the phone back to the Fairy - Okay but I don't know how long would it take. And I have never done a historical narrative before. 
+
+Yes - they both said as they found Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right. And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your thoughts on the prime numbers if that is relevant to the narrative .. 
+
+Oh sure - it is actually not a theory as some people try to give unnecessary credit and it is not that hard either - said the mentor as he poured them tea and settled in his old chair. 
+
+The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number 1. In a way, a prime number is an orientation. It can't be sub-divided. You can name this orientation and that is what we call the "Identity".
+
+The first prime is of course "1" and that is what we know as "knowledge" - it is part of every orientation. The second prime is "2" - it means every orientation is dualistic - up and down , left and right , observer and observed - every thing that we consciously observe is dualistic. 
+
+Mentor paused for a moment. He wanted to check if the fairy and the friend understood what he thought was very simple idea. Often people have hard time when someone talks about primes and complex numbers. And he didn't blame them for his life was spent researching the math of number theory.
+
+Very interesting - said the fairy - I never thought it in this light and no one ever talked about it like this on the school.
+
+A smile came to Mentor's face. He looked at the Friend. He wanted to make sure she was on board with the idea - well no one is allowed to teach it for the it is a theory without any proof - he said as he saw a confirmation of communication in Friend's eyes. 
+
+Well "1" and "2" is fine, but what about "3" - what is the name or identity for "3"? - asked the Friend.
+
+Very good question. Now we are talking - said the mentor - just like "1" and "2" , the prime "3" is also without identity but it is an interesting number. It has it roots in the next prime "7". You can say "3" is formed when an identity is attached to number "7". When number "7" takes an identity , all the unstable anti-color dualities come together to form "3" forces. And it is not unique to "7" . Any higher prime orientation formation -  be it "11" or "17" or "23" - they all give rise to "3" . That is the reason "3" is the fundamental design of our perception - be it three basic colors or three types of quarks or three states of the matter . In `Vaidik` speak we call it three `Gunas` when it comes to the observer and three states when it comes to matter but three is simply three protocols - the fundamental agreement on the design of the universe. 
+
+
 The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna` , `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.
 
 

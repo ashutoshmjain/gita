@@ -82,80 +82,197 @@ Well number "5" is another interesting prime. It is still not ripe for the Ident
 
 But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the friend..
 
-It was `Ganga` who first understood that a specific orientation could be imparted to an endeavour - even a marriage and the offspring from the wed-lock. It all depends on how the bond is created. In `Vaidik` science the bond is called `Bandhana`. `Ganga's` character shows how to create the bonds and how to exit from them - said the Mentor - we will see that in the story - he paused a bit - let me also give you the lay of the land (geography) so that you two could visualize the landscape as you bake it into a virtual narrative. 
+It was `Ganga` who first understood that a specific orientation could be imparted to an endeavour - even a marriage and the offspring from the wed-lock. It all depends on how the bond is created. In `Vaidik` science the bond is called `Bandhana`. `Ganga's` character shows how to create the bonds and how to exit from them - said the Mentor - we will see that in the story.
 
-The door bell rang and they had Pizza on delivery. All three of them were hungry for the Mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend - Lets grab a bite while we talk about the narrative - he said.
+The door bell rang and they had Pizza on delivery. All three of them were hungry for the Mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend and also to make sure he didn't sleep before this meeting - Lets grab a bite while we talk about the narrative - he said.
+
+The lunch was light chit chat among which the Mentor also fired a print command on his dark terminal and an old Epson dot matrix printer started whirring in the living room. He went there and grabbed two copies a printed pages. Handing over one to each, he  said - here, I wrote down the story of `Ganga and Shantanu` this morning thinking you will need some sort of document to build your scenes. 
+
+They both quickly glanced at the sheets, chewing their Pizzas. 
+
+You can read it on your flight back. For now I suggest you two go around the lake for this beautiful day is not to be wasted listening to an old-man. I have given as much lay of the land (geography) as possible to let you better visualize the locale.  Rest is your creativity - he smiled.
+
+Fairy thought as if he read her mind - she did wonder if she will get a chance to see the lake. Little did she know that the Mentor didn't want to miss his afternoon nap ...
 
 # `Bandhana`
 
 
-The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna` , `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.
+The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna`, `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.
 
 
 ![kuruRivers](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png)
 
 
-Most big cities shaped up along the rivers, including `Hastinapur` — the capital city of `Shantanu`. In addition to pure water, the river system also served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but up-stream traffic was still a mystery. Many times they used elephants to move the cargo up-stream but in deeper stretches it was hard. 
+Most big cities shaped up along the rivers, including `Hastinapur` — the capital city of `Shantanu`. In addition to pure water, the river system also served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but up-stream traffic was still a mystery. Many times they used elephants to move the cargo up-stream but in deeper stretches it was hard. Nevertheless, the elephants and their owners were important part of lumber and grain movement.
 
-And there was another problem. Rampant floods made living near the rivers a major risk. There was a need to make sure water stayed in the rivers. While there were many rituals designed to appease the gods of rains, people were working on "pre-engineering era" efforts to deepen the rivers, particularly in stretches where the depth was shallow and thus rivers used to spread in miles. 
+And there was another problem. Rampant floods made living near the rivers a major risk. There was a need to make sure water stayed in the rivers. While there were many rituals designed to appease the gods of rains, people were working on "pre-engineering era" efforts to deepen the rivers, particularly in stretches where the depth was shallow and thus rivers used to spread in miles. Though most of their efforts lacked the top down planning and also innovation of tools. No one had made it a mission of their lives.
 
 As the king circled right of the middle age, he got interested in music, religion and philosophy. Expansion of his kingdom dropped off the priority. He wanted his people safe, well-fed and well taken care.  Luckily, his son, `Devvrata` was even more prudent in managing the vast province. In addition to being a warrior par excellence, his primary skill was his deep understanding of the water ways. He developed the signalling system with pigeon points [^pigeon] located along the river banks — to serve as early warning system for the floods. He had his large teams of soldiers and craftsmen build the wooden bridges, transport jetties, docks, dams and water locks. 
 
-This deep knowledge of the rivers made him popular. People started calling him `Ganga-putra` — the son of Ganges! His work brought prosperity and security to the kingdom never seen before. People said that the skills that `Devvrata` had, were natural to him because he was son of `Ganga` (Hindi name for the river Ganges). That was true because name of his 'human' mother was `Ganga` too; though the hyperbole is `Ganga` (the mother) was a true incarnation of the river itself - literally. Even the scripture noted that river `Ganges` manifested into a beautiful woman called `Ganga` to bear `Devvrata`. 
+This deep knowledge of the rivers made him popular. People started calling him `Ganga-putra` — the son of Ganges! The ancient `Vaidik` system was a matriarchy where able offspring bore the name of their mothers instead of fathers though in this case it was quite appropriate. His work brought prosperity and security to the kingdom never seen before. People said that the skills that `Devvrata` had, were natural to him because he was son of `Ganga` (Hindi name for the river Ganges). That was true because name of his 'human' mother was `Ganga` too; though the hyperbole is `Ganga` (the mother) was a true incarnation of the river itself - literally. Even the scripture noted that river `Ganges` manifested into a beautiful woman called `Ganga` to bear `Devvrata`. 
 
-# Ganga
+#11.1
+---
 
-Just like the pious river, `Dev's` real mother was born on the peaks of Himalayas — near the birth place of river `Ganges` — a place called `Gangotri`. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it's decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her `Ganga` — the name of the river itself — one who is `Ganges`. People forgot her real name — not that it mattered anymore, for she was a true embodiment of `Ganges` — through her actions (`Karma`)
+Just like the pious river, `Dev's` real mother was born on the peaks of Himalayas — near the birth place of river `Ganges` — a place called `Gangotri`. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it's decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her `Ganga` — after the name of the river in local dialect. People forgot her real name — not that it mattered anymore, for she was a true embodiment of Ganges — through her actions (`Karma`)
 
 As she got into her late teens, she and her friends would go on longer voyages in Ganges. Many times for days and weeks. They designed two person Kayaks. They would kayak downstream through rapids and falls, and then carry them back on their shoulders — two persons supporting one Kayak. Climbing the mountains with Kayaks on their backs, used to be painfully long, and arduous — sometimes through the thick uncharted forests. Her dream was to design a boat that could sail upstream. Or something that could sail the boat up. She didn't know yet that she was imagining "water-locks" in her teen mind. 
 
 > Even more cherished dream was to find out how and where 'Ganges' ended? She had heard (from travelers) that the mighty river finally met into a vast ocean that could retain water of a thousand rivers! `Ganga` used to wonder why couldn't they make an ocean right here in `Himalayas`, to store the water for irrigation and boating. Little did the young girl know that stopping the water is like stopping the circle of life. And she learnt it as she entered her early youth.  In a way Ganges was a definition of time for her. Her childhood in `Gangotri` — the origin of the river ; her teens in the upper rapids ; her youth in the flat stretch where the mighty river walked like a gorgeous woman of reason, action, and pride. And she wanted to see  the endless sea to mark the completion of her time! 
 
-Longer voyages, and turn to adulthood, made it clear to `Ganga` that the floods were the biggest problems for common people downstream. In one of her trips, she saw the devastation firsthand, when she and her crew, narrowly escaped the swelling river. The legend says that the real `Ganga` was born out of that massive swell. They probably meant that the resolve, and the dedication to a singular focus in her life, incarnated out of that flood. Without saying out loud, she started a mission to deepen Ganges where ever it was flattish. 
+Longer voyages, and turn to adulthood, made it clear to `Ganga` that the floods were the biggest problems for common people downstream. In one of her trips, she saw the devastation firsthand, when she and her crew, narrowly escaped the swelling river. The legend says that the real `Ganga` was born out of that massive swell. They probably meant that the resolve, and the dedication to a singular focus in her life, incarnated out of that flood. Without saying out loud, she started a mission to deepen Ganges where ever it was flattish. She wanted to bound the river with in two banks. Bondage is a must to manifest - she must have thought.
 
-Starting from the very top near the origins, she and her team finally reached the plains — working through one gorge to the next. It was as is she (and her team) shaped a new Ganges. They were welcomed by the local people as they brought skills to deepen a running river. They had designed tools to form a constellation of Kayaks tied to each other with ropes, and then lower a heavy metal harvester to scour the bottom. Many times they recovered valuables from the bottom, but the business was not risk free. Many died in the pursuit of these riverbed scouring projects. True to her name, `Ganga` committed her life to this cause that turned into a long series of engineering projects. The work, however, was not conflict free. Deeper river meant that elephants had even harder time moving the floaters upstream. 
+Good deeds gain support from the masses. Her crew grew in size and skills. Starting from the very top near the origins, she and her team finally reached the plains — working through one gorge to the next. It was as is she (and her team) shaped a new Ganges. They were welcomed by the local people as they brought skills to deepen a running river. They had designed tools to form a constellation of Kayaks tied to each other with ropes, and then lower a heavy metal harvester to scour the bottom. Many times they recovered valuables from the bottom, but the business was not risk free. Many died in the pursuit of these riverbed scouring projects. True to her name, `Ganga` committed her life to this cause that turned into a long series of engineering projects. The work, however, was not conflict free. Deeper river meant that elephants had even harder time moving the floaters upstream. 
 
-Her work, along with the politics of rich cargo movers, got her so popular that the news reached the king `Shantanu`. He was happy to see people taking on the creative engineering in their hands rather than depending solely on the high priests or the king, but the elephant owners were also important for the movement of goods and more importantly they were a major revenue stream for the kingdom. He also wanted to see if the tools and boats her team designed could be used to anchor his army, mid-stream, in a fast running river. 
+Her work, along with the politics of rich cargo movers, got her so popular that the news reached the king `Shantanu`. He was happy to see people taking on the creative engineering in their hands rather than depending solely on the high priests or the king, but the elephant owners were also important for the movement of goods, and more importantly they were a major revenue stream for the kingdom. He wanted to settle the disputes himself. He also wanted to see if the tools and boats her team designed could be used to anchor his army, mid-stream, in a fast running river. A definite advantage in war-times.
 
 He also wanted to lend the official support to the project(s) for the public opinion was with her, NOT the cargo movers. But most importantly he wanted to see `Ganga` — the woman every one talked about for her courage, charisma and dedication.
 
-### It was a love at first sight. 
-Being of same age when passion knows no bounds, the King admired `Ganga` for her altruism and engineering prowess, and she admired the king for his zest to make people's life better. They talked for hours. She was never tired of detailing her expeditions and he was never tired of listening to her. One fine evening, `Shantanu` proposed `Ganga`. He offered her the first (and only) queen of the vast empire. 
+## 11.2
+---
 
-She had her heart out for the king, but she was dedicated to the cause. Being a queen meant to be stationed at the capital with thousands of chores that come with the crown. Like the river, she was not one for the bondage. She was free, and she wanted to stay that way. 
+It was love at first sight.
 
-I don't want to be bound by the rituals and the bondage that must follow the relationships — she told `Shanatnu` with love in her eyes and passion in her words —  we may meet here as long as you are willing to see me at `Ganges` !
+Being of the age when passion knows no bounds, the King admired `Ganga` for her altruism and engineering prowess, and she admired the king for his zest to make people's life better. They talked for hours. She was never tired of detailing her expeditions and he was never tired of listening to her. One fine evening, `Shantanu` proposed `Ganga`. He offered her the first (and the only) queen of the vast empire. 
+
+She had her heart out for the king, but she was dedicated to the cause. Being a queen meant to be stationed at the capital with thousands of chores that come with the crown. Like the river, her flow was unstoppable. She was free, and she wanted to stay that way. 
+
+I don't want to give up my mission that brought you to me in the first place — she told `Shanatnu` with love in her eyes and passion in her words —  we may meet here as long as you are willing to see me at `Ganges` !
 
 But I can't stay here for ever. I must attend to my people — said `Shantanu`, bit confused with `Ganga's` proposal.
 
-You may leave as you need to. Your `Karma` to your people is ever more than our mutual feelings — said `Ganga` — and come back when you crave for me. 
+You may leave as you need to. Your duties as a king, to your people are ever more than our obligations to each other — said `Ganga` — and come back when you crave for me. 
 
 >> Such an arrangement was not new — there was even a name for it  — `Gandhrva Vivah` —  A marriage among equals with no strings attached.
 
-With just one verse, `Ganga` took `Shantanu` as her wedded husband — On the banks of Ganges with the river as the only witness. Together they chanted this verse in front of the mother river. The verse is now part of famous `Taittriya Upnishada`
+The counter proposal seemed fair to `Shantanu` for he was hardly stationed at his capital. And most of the times he was anyway sailing through `Ganges` or `Yamuna` - I do need an heir for this vast empire. Someone who has your passion and love for my people - he told `Ganga` holding both her hands.
 
-<sup>
-Saha Naav[au]-Avatu | Saha Nau Bhunaktu | Saha Veeryam Karava Vahai |
-Tejasvi Naav[au]-Adhiitam-Astu Maa Vidvissaavahai |
+`Ganga` thought for a while - I will give you one and it will be the eighth of our union. An "Identity" for our love. Like the seven colors of the rainbow, the first seven will combine their skills into the youngest and help me raise a "white" identity for our union. One that would make you proud. And also have a life long commitment to our people. But we will need to go to `Bramh-rishi Vasishtha` to forge this identity. He can ordain a wedding for us such that our bond not only manifest what we want but also set us free from previous bondages. 
+
+## 11.3
+---
+
+`Bramh-rishi` welcomed both `Ganga and Shantanu` with his grand son `Parasara`. He was rebuilding his congregation after attack on `kaam-dhenu` that took his son `Sakti Muni` though this was not the first attempt to steal the wealth of people. He recalled eight Wizards had tried to steal from the congregation whom he had cursed a life of mediocrity. On their repentance and pleading guilty, he had blessed them an exit from the curse. They would still take birth like men but their life would be for a purpose bigger than what they could do as Wizards. `Bramh-rishi` saw `Shantanu` and `Ganga` as the best couple to parent the cursed Wizards. 
+
+`Bramh-rishi` if I have permission to speak - asked `Ganga`. Seeing the bearer of primordial knowledge nod, she submitted - we want one of our child to truly represent our bond. Someone who could serve the people as much as the king does and I care. 
+
+`Vasishtha` was pleased at the good will of the young girl - seven verses to bless your bond into an identity that you seek `Ganga`. Seven of your sons will shine as as seven colors of the rainbow. Together they would blossom into eighth who would be oriented from the very first breath as you seek. One who would make both of you proud. 
+
+`Bramh-rishi` asked `Parasara` to light up a `Vaidik` fire. All the `Yogies` and their families stood around the holy fire as `Ganga` and `Shantnu` took seven circles of the fire. One with each verse ..
+
+
+### First verse
+----
+
+The ceremony started with a `Swastivachan` - a good wish from all the present - all the witnesses of the union.
+
+> Ihemavindra Samnudam Chakravakev Dampati;
+>
+> Prajyouno Swastikou Vismayurvya Ashnutaam.
+
+O Lord, may you bring this couple together, like a pair of `Charavaka` birds. `Chakravaka` is a duck. In India we call it a `Brahmini` duck. Which means a sacred duck. Let them enjoy the marital bliss and live a long life along with their progeny. 
+
+### second verse
+----
+`Bramh-rishi` pointed towards `Ganga` to invoke this the second verse in her ..
+
+> Dhairham Prithvitvam;
+>
+> Raitoham, raitobritvam;
+>
+> Manohamsmi Vaaktvam;
+>
+> Saamasmi Rikarvam;
+>
+> Sa Mam, Anuvrata bhav.
+
+
+I am the sky, you are the earth;
+
+I radiate energy and you hold it to manifest things in this physical world;
+
+I am the thought (`Mana`) and you are the words. 
+
+I am `Saama` the music, and you are `Rika` the song
+
+I and you follow each other. 
+
+### Third verse
+----
+
+The third verse is bride's expression of Trust in this union - said `Bramh-rishi` as he recited one of his own ..
+
+> Tat Chakshuh Devhitam, Shukram Uccharta;
+>
+> Pashyema Shardah Shatam, Jeevema Shardah Shatam.
+
+Your foresight , your auspicious vision of this union is bright and rising.
+
+May we see it together for hundred years. May we live together for hundred years.
+
+### Fourth Verse
+----
+
+Having moved with bride's expression of Trust, the groom now makes worldly commitments. In the fourth verse he says
+
+> Dharmecha Arthecha Kaamecha, Imam Naticharami;
+>
+> Dharmecha Arthecha Kaamecha, Imum Naticharami.
+
+In my Duties (`Dharmecha`), In my financial responsibilities (`Arthecha`) and in my physical needs (`Kaamecha`), I will always consult you. I will actively seek and act based on your consensus.
+
+### Fifth verse
+---
+
+And also moved with bride's expression of spiritual love, the groom thanks the Gods for this good fortune. He thanks the deities for bringing the bride to his life. He says ..
+
+> Gribhnami te Soubhagstvay, Hastam Maya Patya Jardishtirysthasa;
+>
+> Bhago Aryama Savita Purandhir Mayama Tva Durgahptyay Devah.
+
+I thank the deities of enjoyment (Bhaga) , deity of wisdom (Aryama) and the deity of the creative force (Savitaru) for bringing you in my life. Not only these deities , I thank the entire universe `Purandhir` a name of `Bramha` , for the good fortune of being together till we get very very old - or till death do us apart.
+
+### Sixth verse
+----
+
+The sixth verse is the celebration of companionship. They wish not to lose this friendship even if they lose everything else. 
+
+> Sakha Saptpada Bhav;
+>
+> Sakhayou Saptpada Babhoove;
+>
+> Sakhyam Te Gameyam
+>
+> Sakyat te Mayosham
+>
+> Sakhyanme Mayoshthah
+
+Oh friend we are taking seven steps together.
+
+Having gotten the taste of your company, I am enchanted with the magic of your companionship.
+
+It's you who I always talk about. Your conversations are always on my lips.
+
+Please never let me stay away from your company.
+
+### Seventh verse
+
+> Saha Naav[au]-Avatu | Saha Nau Bhunaktu | Saha Veeryam Karava Vahai |
+>
+> Tejasvi Naav[au]-Adhiitam-Astu Maa Vidvissaavahai |
 
 May we two Move Together,  May we two Relish  Together ;
 May we indulge in our objectives with Vigor , May we never doubt or  be jealous of each other. 
 
-</sup>
+## 11.4
 
-The arrangement seemed fair to `Shantanu` for he was hardly stationed at his capital. And most of the times he was anyway sailing through `Ganges` or `Yamuna`.
-
-King promised her all the support for her work — gold, men and boats. The mutual admiration turned into an association of lifetime. `Ganga` however had one more favor to seek from the king. She wanted their offspring to stay with her and take the work she started to the next level. King was happy to oblige except he wanted just one son as heir of vast kingdom. Again against the convention, `Ganga` decided that it would be the last of their born. 
-
-### He was `Dev`, the youngest of the eight brothers.
-
-In a way, `Dev` was a divine gift from river `Ganga`. At an early age he understood the intricacies of motion of water. The last of eight brothers, all of whom dedicated their lives to improve peoples' lives. Two of them were sent to the North by `Ganga` to create a map of Ganges and its tributaries. Other two went South East where Ganges meets the ocean. They too had the similar goal — charter Ganges path to the ocean. `Ganga` wanted complete picture of Ganges — from the mountains of her birth to the ocean of it's salvage. Brothers coordinated their work through pigeons to draw one comprehensive map of river system that makes the most fertile plains of North India. 
+`Dev` was a divine gift from river `Ganga`. At an early age he understood the intricacies of motion of water. The last of eight brothers, all of whom dedicated their lives to improve peoples' lives. Two of them were sent to the North by `Ganga` to create a map of Ganges and its tributaries. Other two went South East where Ganges meets the ocean. They too had the similar goal — charter Ganges path to the ocean. `Ganga` wanted complete picture of Ganges — from the mountains of her birth to the ocean of it's salvage. Brothers coordinated their work through pigeons to draw one comprehensive map of river system that makes the most fertile plains of North India. 
 
 >> The hyperbole is that `Ganga` threw her first seven kids back into the Ganges, which is not entirely wrong because they did serve their lives to the cause of the mighty river.
 
-Fifth brother worked on setting up bridges on Ganga. He wanted to help the commuters when there was no boat in the river say during the nighttime. Sixth worked on techniques to move the boats and tree logs upstream through a system of water locks. Seventh on making levies for low-lying villages where flood caused havoc in rainy seasons. 
+Fifth brother worked on setting up bridges on Ganges. Sixth worked on techniques to move the boats and tree logs upstream through a system of water locks. Seventh on making levies for low-lying villages where flood caused havoc in rainy seasons. 
 
-Having learnt from all his brothers, who had dedicated their lives to `Ganga`, the youngest `Dev` pulled the biggest of all engineering feats at a young age. He built a dam and changed the direction of Ganga such that more people could get help from the waters. During rainy seasons, the dam could be opened to let the water flow in two streams. People thought he was the real water bender. They named him `Ganga-putra` —  Son of `Ganges` — the river. `Dev's` life mission was to stay true to the kingdom and it's people. A vow that he carried till his last breath.
+Having learnt from all his brothers, who had dedicated their lives to Ganges, the youngest `Dev` pulled the biggest of all engineering feats at a young age. He built a dam and changed the direction of Ganges such that more people could get help from the waters. During rainy seasons, the dam could be opened to let the water flow in two streams. People thought he was the water bender. They named him `Ganga-putra` —  Son of `Ganges` — the river. `Dev's` life mission was to stay true to the kingdom and it's people. A vow that he carried till his last breath.
 
 Good times go fast. `Ganga` had to move South East, towards the point where `Yamuna` met `Ganges`. King and Dev were left behind. Busy in serving the river and people, she wanted to continue to follow her dream. She wanted to see the grand unified river merge into the vast ocean. And she thought meeting the ocean was her final destination, just like it was for the river.
 

@@ -1,6 +1,6 @@
 It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. Waking up to the smell of fresh coffee beans always brought unique pleasure to Fairy.
 
-When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open. And as soon as the chariot announced the arrival, he slipped into his bedroom before two of them even finished the virtual session on the back seat. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine. Unfortunately flying was prohibited from one am to four am. It seems the air traffic system was updated every night. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around. The other option was to let the machine self drive on the crappy road. But that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour on the wheel though they ended up talking for at least two more hours in the living room -  with a round of hot tea and cookies. The topic was obviously - what would `Matsya` see and what sort of plans she had in store for her!
+When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around in the night sky. The other option was to let the machine self drive on the crappy road - that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour though they ended up talking for at least two - in the living room -  with a round of hot tea and cookies. The topic was obviously - what would `Matsya` see and what sort of plans she had in store for her!
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
@@ -8,15 +8,15 @@ Yes we did - responded the Fairy and can you send us the link to the next sessio
 
 If we had the link, we would have watched the next episode last night itself - laughed the Friend. 
 
-Hmm - we don't have the next session in virtual yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And unfortunately I only know half the story - the skeleton. 
+Hmm - we don't have the next episode up yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And I only know half the story - the skeleton without context.
 
 That is such a bummer - complained the Friend. There must be a way to get the complete picture - with story as it happened and the context. 
 
-To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't know it was so interesting for you guys! He obviously underestimated the curiosity a woman mind has for the one who was prophesied to rule the world particularly from the drudge life of `Matsya`.
+To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't know it was so interesting for you guys! He obviously underestimated the curiosity ..
 
 Can we Zoom in with him ? - asked the Friend.
 
-Unfortunately no! - he lives off the grid near Lake Tahoe in the Summer. It is 30 mins flight though I can schedule you guys if you wanna go see him - said the Angel.
+Unfortunately no! - he lives off the grid in Summer. It is 30 mins flight though I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel.
 
 I wish I could join you but I am gone for a week - said the Angel - not hiding at all that he hated his work!
 
@@ -36,15 +36,15 @@ The Angel said you two want to create a scene from Ganga's story in the new mach
 
 The friend was surprised. She did have the creative skills but she didn't know she was being recruited. She looked at the Fairy. The look on Fairy's face told her she didn't read the full note from Angel. Apparently, she just noted the location (and time) to pass on the coordinates to the flying machine.
 
-She looked at her phone again as the Mentor disappeared to small kitchenette in the living room - to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
+She looked at her phone again as the Mentor disappeared to a small kitchenette in the living room - to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
 
 Talk about communication - the Friend spoke with a whim on her face as she handed the phone back to the Fairy - Okay but I don't know how long would it take. And I have never done a historical narrative before. 
 
-Yes - they both said as they found Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right. And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your theory on the Prime Numbers if that is relevant to the narrative .. 
+Yes - they both said as they found Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right for a "yes". And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your theory on the Prime Numbers if that is relevant to the narrative .. 
 
-Oh sure - it is actually not a theory as some people try to give undue credit, and it is not that hard either - said the mentor as he poured them tea and settled in his old chair, but I do need to know how much you two know about the "Primes" - He was courteous and his intent was not to waste their time in the basics.
+Oh sure - it is actually not a theory as some people try to give undue credit - humility reflected in his voice -  and it is not that hard either - said the mentor as he poured them tea and settled in his old chair, but I do need to know how much you two know about the "Primes" - He was courteous and his intent was not to waste their time in the basics.
 
-The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number 1 - said the Fairy - and that is all I know about them except that they keep on finding new primes almost every day.
+The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number "1" - said the Fairy - and that is all I know about them except that they keep on finding new primes almost every day.
 
 There are trillions of  them already known and they say there exist infinite primes - added the friend.
 

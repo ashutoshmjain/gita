@@ -1,6 +1,6 @@
-It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. Waking up to the smell of fresh beans always brought unique pleasure to Fairy.
+It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the coffee beans. Waking up to the smell of fresh beans always brought unique pleasure to Fairy.
 
-When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open - that included seat vibrations and mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - totally on central navigation - even headlights weren't allowed in night - to accommodate and respect star gazers. 
+When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - totally on central navigation - even headlights weren't allowed in night - to accommodate and respect star gazers. 
 
 The other option was to let the machine self drive on the crappy road - that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour though they ended up talking for at least two - in the living room -  with a round of hot tea - and fresh cookies auto-programmed to be baked by 2 am to allow for at least three hours of in-oven cooling. 
 
@@ -8,7 +8,7 @@ The topic was obviously - what would `Matsya` see and what sort of plans she had
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
-Fairy responded yes with a smile - and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission.
+Fairy responded "yes" with a smile - and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission.
 
 If we had the link, we would have watched the next episode last night itself - laughed the Friend pouring over the coffee in three mugs
 
@@ -20,9 +20,13 @@ To really understand the context, you will need to see my Mentor - Angel said wi
 
 Can we Zoom in with him ? - asked the Friend.
 
-Unfortunately no! - he lives off the grid in Summer. It is 30 mins flight though I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel.
+Unfortunately no! - In Summer, he lives off the grid  It is only 30 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel - that is summer home. Well most of the year - he added.
 
-I wish I could join you but I am gone for a week - said the Angel - not hiding at all that he hated his work!
+I wish I could join you; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he managed bio-engineered bees that were planted in deep forest - they did maximise honey but they turned poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself more to protect it. If the woke media got a hint of it, his career was on the line, but more for the hate he was sure to get from his own circle - "Fairy" in particular. 
+
+To his good luck, the last episode with the bees didn't get much attention even though Fairy - unaware of the situation - posted about it. How could he save the man? The rescue, he was sure had the Fairy killed at a single sting. She didn't have the patched genes active as a protection against the poison. Even though he knew a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that Intelligence secured in lieu of all the automation and practically free life) - pursue till "one human death". Yet he let a human die just to save the Fairy.
+
+He was happy that he prioritized love over success and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. 
 
 Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - she said peeking on her watch.
 

@@ -1,12 +1,16 @@
-It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. Waking up to the smell of fresh coffee beans always brought unique pleasure to Fairy.
+It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the fresh beans. Waking up to the smell of fresh beans always brought unique pleasure to Fairy.
 
-When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of chariots flying around in the night sky. The other option was to let the machine self drive on the crappy road - that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour though they ended up talking for at least two - in the living room -  with a round of hot tea and cookies. The topic was obviously - what would `Matsya` see and what sort of plans she had in store for her!
+When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open - that included seat vibrations and mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - totally on central navigation - even headlights weren't allowed in night - to accommodate and respect star gazers. 
+
+The other option was to let the machine self drive on the crappy road - that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour though they ended up talking for at least two - in the living room -  with a round of hot tea - and fresh cookies auto-programmed to be baked by 2 am to allow for at least three hours of in-oven cooling. 
+
+The topic was obviously - what would `Matsya` see and what sort of plans she had in store for her!
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
-Yes we did - responded the Fairy and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission - she smiled. 
+Fairy responded yes with a smile - and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission.
 
-If we had the link, we would have watched the next episode last night itself - laughed the Friend. 
+If we had the link, we would have watched the next episode last night itself - laughed the Friend pouring over the coffee in three mugs
 
 Hmm - we don't have the next episode up yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And I only know half the story - the skeleton without context.
 
@@ -148,6 +152,13 @@ You may leave as you need to. Your duties as a king, to your people are ever mor
 The counter proposal seemed fair to `Shantanu` for he was hardly stationed at his capital. And most of the times he was anyway sailing through `Ganges` or `Yamuna` - I do need an heir for this vast empire. Someone who has your passion and love for my people - he told `Ganga` holding both her hands.
 
 `Ganga` thought for a while - I will give you one and it will be the eighth of our union. An "Identity" for our love. Like the seven colors of the rainbow, the first seven will combine their skills into the youngest and help me raise a "white" identity for our union. One that would make you proud. And also have a life long commitment to our people. But we will need to go to `Bramh-rishi Vasishtha` to forge this identity. He can ordain a wedding for us such that our bond not only manifest what we want but also set us free from previous bondages. 
+
+Legend has it that the seven rivers flowed down to earth when Indra killed Vritra.
+
+It must be noted here that the names of the seven rivers are given differently in different scriptures.
+
+The modern name of Sindhu is Indus; that of Vitasta is Jhelum, Asikni is Chenab, Iravati is Ravi, Vipasa is Beas and Shatudru is Sutlej.
+![Refrence](https://www.hindu-blog.com/2016/04/sapta-sindhu-concept-of-seven-rivers-in.html)
 
 ## 11.3
 ---

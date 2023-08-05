@@ -20,45 +20,45 @@ To really understand the context, you will need to see my Mentor - Angel said wi
 
 Can we Zoom in with him ? - asked the Friend.
 
-Unfortunately no! - In Summer, he lives off the grid  It is only 30 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel - that is summer home. Well most of the year - he added.
+Unfortunately no! - In Summer, he lives off the grid  It is only 30 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel - that is summer home. Well, for most of the year! - he added.
 
-I wish I could join you; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he managed bio-engineered bees that were planted in deep forest - they did maximise honey but they turned poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself more to protect it. If the woke media got a hint of it, his career was on the line, but more for the hate he was sure to get from his own circle - "Fairy" in particular. 
+I wish I could join you; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he managed bio-engineered bees that were planted in deep forest - they did maximise honey but they turned super poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself more to protect it. If the woke media got a hint of it, his career was on the line, but more for the hate he was sure to get from his own circle - The "Fairy", in particular. 
 
-To his good luck, the last episode with the bees didn't get much attention even though Fairy - unaware of the situation - posted about it. How could he save the man? The rescue, he was sure had the Fairy killed at a single sting. She didn't have the patched genes active as a protection against the poison. Even though he knew a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that Intelligence secured in lieu of all the automation and practically free life) - pursue till "one human death". Yet he let a human die just to save the Fairy.
+To his good luck, the last episode (with the bees) didn't get much attention even though Fairy - unaware of the situation - posted about it. How could he save the man? The rescue, he was sure had the Fairy killed at a single sting. She didn't have the patched genes active as a protection against the poison. Even though he knew, a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that Intelligence secured in lieu of all the automation and practically free life) - pursue till "one human death", yet he let a human die just to save the Fairy.
 
-He was happy that he prioritized love over success and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. 
+He was happy that he prioritized love over success - and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. Lying was not his strong suite! 
 
-Can we go today ? Its been a while I went to the lake - said Fairy and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - she said peeking on her watch.
+Can we go today ? Its been a while I went to the lake - said Fairy after mulling over her calendar, and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - the Friend said peeking on her watch.
 
 Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime Numbers. I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life of the affluent!
 
 ----
 
-The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen but everything looks great from inside of a "climate controlled" plush heated seat. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel had met him -  almost twenty years back. Some people don't change as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication!
+The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen but everything looks great from inside of a "climate controlled" plush heated seat. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel had met him -  almost twenty years back. Some people don't change - he though - as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication! - the resistance had secured a chorded network beyond central intelligence in lieu of granting the rights till "one human death". The angel was not sure if the Mentor was active member of the resistance but he was well aware that he tread the border line. 
 
 Would you like some tea - Mentor asked - pointing them to the chairs in front of his table in rather large study room just by the entrance.
 
 The room had a big table almost eight feet wide -  fully covered with at least two layers of books. There was an old desktop station touching the wall behind his chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelves that went as high as the high ceiling on both the sides. 
 
-The Angel said you two want to create a scene from Ganga's story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties incapable of running even the slightest of graphics. The dark terminal was reminiscent of Fortran era.
+The Angel said you two want to create a scene from `Ganga's` story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties incapable of running even the slightest of graphics. The dark terminal was reminiscent of Fortran era.
 
 The friend was surprised. She did have the creative skills but she didn't know she was being recruited. She looked at the Fairy. The look on Fairy's face told her she didn't read the full note from Angel. Apparently, she just noted the location (and time) to pass on the coordinates to the flying machine.
 
-She looked at her phone again as the Mentor disappeared to a small kitchenette in the living room - to get them the tea. And she handed over the phone to the friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
+The Fairy looked at her phone again as the Mentor disappeared to a small kitchenette in the living room - to get them the tea. And she handed over the phone to the Friend. The message clearly read that the Mentor was willing to talk to them if they were okay creating a small animated sequence of the story. To Angel's mind, it was a win win. 
 
-Talk about communication - the Friend spoke with a whim on her face as she handed the phone back to the Fairy - Okay but I don't know how long would it take. And I have never done a historical narrative before. 
+Talk about communication - the Friend spoke with a whim on her face, as she handed the phone back to the Fairy - Okay but I don't know how long would it take. And I have never done a historical narrative before. 
 
-Yes - they both said as they found Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right for a "yes". And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your theory on the Prime Numbers if that is relevant to the narrative .. 
+Yes - they both said as they found the Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right for a "yes". And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your theory on the Prime Numbers if that is relevant to the narrative .. 
 
 Oh sure - it is actually not a theory as some people try to give undue credit - humility reflected in his voice -  and it is not that hard either - said the mentor as he poured them tea and settled in his old chair, but I do need to know how much you two know about the "Primes" - He was courteous and his intent was not to waste their time in the basics.
 
 The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number "1" - said the Fairy - and that is all I know about them except that they keep on finding new primes almost every day.
 
-There are trillions of  them already known and they say there exist infinite primes - added the friend.
+There are billions of  them already known and they say there exist infinite Primes - added the Friend.
 
-Mentor was pleased that he was spared from the definitions - So what is "1", is a Prime ? 
+Mentor was pleased that he was spared from the definitions - So what is "1", is it a Prime ?  He asked to get the conversation started.
 
-Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot - She was already getting comfortable in this conversation.
+Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot the name - She was already getting comfortable in this conversation.
 
 You are absolutely right. The conjecture you are talking about is that any non prime number can be factored into two or more primes. If we consider "1" as prime then obviously you can factor "1" as many times you want. So they decided to remove "1" from the list of Primes - said the Mentor - and that is exactly right in my mind because "1" is a unique number - it is the "knowledge". It sits with in every other number!
 

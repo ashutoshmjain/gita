@@ -60,35 +60,41 @@ Mentor was pleased that he was spared from the definitions - So what is "1", is 
 
 Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot the name - She was already getting comfortable in this conversation.
 
-You are absolutely right.  The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor - and that is exactly right in my mind because "1" is a unique number - it is the "basic unit". It sits with in every other number - means every number is basically how many "1s" are bundled in it - for example a bundle of five sticks have five individual sticks. Thus making a bundle of five sticks is the rigor it takes to bring five sticks together. It won't happen on it's own. We must tie them with some rope - or create certain rules.
+You are absolutely right.  The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor - and that is exactly right in my mind because "1" is a unique number - it is the "unit". It sits with in every other number. 
 
-The number "1" has another unique thing about it. If you add it to any number, a new number of formed. For example if we add one more stick to our bundle, it becomes a bundle of six sticks. A bundle of six sticks is different from that of five. 
+The mentor got his flow - In a way, a prime number is an orientation. It can't be factored. An idea that stands on it's own. And every other number can be expressed through "unique" prime factors - for example the number 210 has a unique set of prime factors 
 
-The mentor got his flow - In a way, a prime number is an orientation. It can't be sub-divided. You can give a name to this "orientation" and that is what I call the "Identity". like an axis an "Orientation" has only two faces - up or down, left or right.  That is the reason the first prime is "2" - it means every orientation is dualistic - every thing that we consciously observe is dualistic. 
+> 210 = 7 x 5 x 3 x 2
 
-Mentor paused for a moment. He wanted to check if the fairy and the friend understood what he thought was very simple idea. Often people have hard time when someone talks about primes and complex numbers. And he didn't blame them for his life was spent researching the math of number theory. And of course, subscribing to his ideas was kinda leap of faith!
+In other words - if we take "1" - split it into two branches - then split each branch into three branches - then split the six branches into five each - and then split thus obtained thirty branches into into seven each - we get the number 210 branches. 
 
-Very interesting - said the fairy - I never thought it in this light and no one ever talked about it like this on the school.
+Wait! You opened a lot of branches and I am lost in the basic math - said the Fairy - Can you please repeat.
 
-A smile came to Mentor's face. He looked at the Friend. He wanted to make sure she was on board with the idea - well no one is allowed to teach it for it is a theory without any proof - he said as he saw a confirmation of communication in Friend's eyes. 
+Oh! Absolutely - said the mentor - Let me explain it with a rather simple example. Let is take a smaller number - say "8". And let us just focus on "8" today - he thought for a while - let me draw it for you to make it easy to comprehend ... 
 
-Well "1" and "2" is fine, but what about "3" - what is the name or identity for "3"? - asked the Friend.
+He said while looking for a pen and paper - the number "8" has prime factors as 2x2x2 or 2^3. We can display it as the branches of a inverted tree as below. 
+   
+        |
+      /   \
+     /\   /\
+    /\/\ /\/\
+   
+You see there are eight branches hanging below kinda like eight ports. The key thing to note here is every joint has three branches. We say that eight ports lead to structures with three branches.
 
-Very good question. Now we are talking - said the mentor - just like "1" and "2" , the prime "3" is also without identity but it is an interesting number. It has it roots in the next prime "7". You can say "3" is formed when an identity is attached to number "7". When number "7" takes an identity , all the unstable anti-color dualities come together to form "3" forces. And it is not unique to "7" . Any higher prime orientation formation -  be it "11" or "17" or "23" - they all give rise to "3" . That is the reason "3" is the fundamental design of our three dimensional perception - be it three basic colors or three types of quarks or three states of the matter . In `Vaidik` speak we call it three `Gunas` when it comes to the observer(`Sookshma`) and three "states" as in solids, liquids and gases - when it comes to the matter (`Sthoola`) - he paused a minute to bite into his cookie and slurp a big sip of tea - but three is simply three prongs of protocol - the fundamental agreement on the design of the universe.
+Very interesting - said the Fairy - I never thought it in this light and no one ever talked about it like this on the school.
 
-He waited  to let the idea sink in - A protocol is by definition something everyone must agree to. Saying "good morning" is a protocol, internet runs on TCP and IP protocols. Bitcoin network is a protocol. Lightening is a protocol. It is an idea that everyone must subscribe no matter what orientation you have. 
+He looked at the Friend. He wanted to make sure she was on board with the idea - well, there is a free port right at the top - she said. 
 
-So what is this protocol of three ? - The Friend was getting more curious while things started getting a bit hazy to the Fairy.
+A smile came to Mentor's face - you got me. Let me redraw the number "8"
 
-Well the first prong of the eternal protocol is to allow all possibilities of the "Orientation" - Infinite Primes exist - We call it `Vishnu` in `Vaidik` terms.
+     \ /  \/
+      \   /
+        |
+      /   \
+     /\   /\
+ 
 
-The second protocol is to choose only one for a purpose, that fits the purpose best. Only that would manifest. Rest all would decay - we call it `Siva`.
-
-And the third prong is that the knowledge of manifestation and its purpose is in the relationships of all manifested entities - we call it `Bramh` - each relationship is an expression of the "Orientation" - up or down, love or hate, impudence or respect. Trillions of such relationships form the complex network to express the "1" knowledge. Thus "1" is as much in a tiny quark as it is in the entire universe. 
-
-What about number "5". It is also a prime - asked the Fairy. She was getting impatient on the discussion on number "3" and somehow wanted to progress the conversation to the real story. She had a feeling that they were tied here for the full day and she would again miss the chance to walk around the lake.
-
-Well number "5" is another interesting prime. It is still not ripe for the Identity but it has it's own significance - said the Mentor - if you see the range "1" to "10", there are exactly five primes in this range (1, 2, 3, 5, 7). Exactly fifty percent. There is no other range that may have fifty percent of its members as prime. So five dualities of perception make up the decimal system that was invented by `Aaryabhatta` based on `Vaidik` science - five elements and five senses to observe them - a system of ten. These are fundamental bonds of perception - solids to touch , water to taste, fire to vision , air to smell, and space to the sense of hearing.
+Good that you asked this question and also made me redraw the picture because now you can see that the upper side is a mirror image of the bottom and the left side is a mirror image of the right. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
 
 But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the friend..
 

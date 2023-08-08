@@ -79,26 +79,50 @@ He said while looking for a pen and paper - the number "8" has prime factors as 
      /\   /\
     /\/\ /\/\
    
-You see there are eight branches hanging below kinda like eight ports. The key thing to note here is every joint has three branches. We say that eight ports lead to structures with three branches.
+You see there are eight branches hanging below kinda like eight ports ready to dock a boat. The key thing to note here is every joint has three branches. We say that eight ports lead to structures with three branches.
 
-Very interesting - said the Fairy - I never thought it in this light and no one ever talked about it like this in the school.
+Very interesting - said the Fairy - I never thought it in this light ..
 
 He looked at the Friend. He wanted to make sure she was on board with the idea - well, there is a free port right at the top - she said - so in all there seems to be nine free ports.
 
-A smile came to Mentor's face - you got me. Let me redraw the number "8"
+A smile came to Mentor's face - you got me. Let me redraw the number "8". How about this? - he asked ..
 
      \ /  \/
       \   /
         |
       /   \
      /\   /\
- 
 
-Good that you asked this question and also made me redraw the picture because now you can see that the left side is a mirror image of the right. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
+Well, this looks like 4 x 2 , rather than a 2 x 2 x 2 - said the Friend.
 
-But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
+Excellent - said the Mentor. Looks like you have a grounding in Abstract math. Let's add more to it ..
 
-`Ganga` understood the significance of eight - that the trifecta was like the three basic colors - Red, Blue and Green. And the four sets of RGB were like the four main emergent colors. And seven of them led to a unique identity. Though she didn't think it in terms of colors. She thought it terms of rivers. There were three main rivers - Ganges, Yamuna and Sarswati and they had four emergent rivers. Put together seven rivers created the plains.
+    \/\/ \/\/
+     \/   \/
+      \   /
+        |
+      /   \
+     /\   /\
+    /\/\ /\/\
+
+He continued - you can call this number 4 x 2 x 2 that is sixteen but notice there are only 8 free ports. Or we can call it number 8 with a mirror image. What is more prudent ?
+
+Are we saying that the number 8 can't exist without it's mirror image? - asked the intrigued Friend.
+
+Bingo - you got it.  Good that you asked this question and also made me redraw the picture because now you can see that the left side is a mirror image of the right. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
+
+To save space, we write such manifests that exist with a mirror image as below. Notice the bar on the top. It denotes the "chirality" . So here is the picture of 8
+
+        _
+        |
+      /   \
+     /\   /\
+    /\/\ /\/\
+
+But then how this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
+
+`Ganga` understood the significance of eight - that the eight open ports have seven trifecta joints. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers. Eight tributaries joined Ganges at seven nodes to form the mighty river at `Dev Prayag` - the head of Ganges. In modern Hydrology we call this "Horton-Strahler Number".  For example Mississippi has a Strahler number of 8 and Amazon is 12. 
+
 
 The door bell rang and they had Pizza on delivery. All three of them were hungry for the Mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend and also to make sure he didn't sleep before this meeting - Lets grab a bite while we talk about the narrative - he said.
 

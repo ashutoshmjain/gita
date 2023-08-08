@@ -1,6 +1,6 @@
 It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the coffee beans. Waking up to the smell of fresh beans always brought unique pleasure to Fairy.
 
-When did you wake up - asked the Fairy. She had insisted the Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel almost passed out on the steering wheel but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - totally on central navigation - even headlights weren't allowed in night - to accommodate and respect star gazers. 
+When did you wake up - asked Fairy. She had insisted her Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel had almost passed out on the steering wheel, but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. It seems the air traffic system was getting an offline update. The system was capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - solely on central navigation - even headlights weren't allowed in night - to accommodate and respect star gazers. 
 
 The other option was to let the machine self drive on the crappy road - that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour though they ended up talking for at least two - in the living room -  with a round of hot tea - and fresh cookies auto-programmed to be baked by 2 am to allow for at least three hours of in-oven cooling. 
 
@@ -10,31 +10,31 @@ Good morning everyone - they heard the Angel - hope you two slept well last nigh
 
 Fairy responded "yes" with a smile - and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission.
 
-If we had the link, we would have watched the next episode last night itself - laughed the Friend pouring over the coffee in three mugs
+If we had the link, we would have watched the next episode last night itself - laughed the Friend pouring over black coffee in three mugs
 
 Hmm - we don't have the next episode up yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. And I only know half the story - the skeleton without context.
 
 That is such a bummer - complained the Friend. There must be a way to get the complete picture - with story as it happened and the context. 
 
-To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't know it was so interesting for you guys! He obviously underestimated the curiosity ..
+To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - I really didn't see it getting so interesting for you guys! He obviously underestimated the curiosity ..
 
 Can we Zoom in with him ? - asked the Friend.
 
-Unfortunately no! - In Summer, he lives off the grid  It is only 30 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel - that is summer home. Well, for most of the year! - he added.
+Unfortunately no! - In Summer, he lives off the grid  It is only 30 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel - you can charge your return flight at his place - it is summer home and he got a fast charger last year when administration refused to put a super charger for his home for he is the only one in one mile radius ! - he added.
 
-I wish I could join you; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he managed bio-engineered bees that were planted in deep forest - they did maximise honey but they turned super poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself more to protect it. If the woke media got a hint of it, his career was on the line, but more for the hate he was sure to get from his own circle - The "Fairy", in particular. 
+I wish I could join you guys; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he managed bio-engineered bees planted in deep forests - they did make 5x honey but they turned 10x poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself even more to protect it. If the woke media got a hint of it, his career was on the line, but more for the hate he was sure to get from his own circle - The "Fairy", in particular. 
 
-To his good luck, the last episode (with the bees) didn't get much attention even though Fairy - unaware of the situation - posted about it. How could he save the man? The rescue, he was sure had the Fairy killed at a single sting. She didn't have the patched genes active as a protection against the poison. Even though he knew, a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that Intelligence secured in lieu of all the automation and practically free life) - pursue till "one human death", yet he let a human die just to save the Fairy.
+To his good luck, the last episode (with the bees) didn't get much attention even though Fairy - unaware of the situation - posted about it. How could he save the man? The rescue attempt, he was sure, had the Fairy killed at a single sting. She didn't have the patched genes active as a protection against the poison. Even though he knew, a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that Intelligence secured in lieu of all the automation and practically free life) - pursue till "one human death", yet he let a human die just to save the Fairy. The lost life was attributed to the forest fire even though identification was impossible for the there was hardly anything left in over-burnt ashes. The first thing he did after the incident was remove the bees from the spot and remove the location from department database. Fortunately there was no entry on the distributed ledger - he thought.
 
-He was happy that he prioritized love over success - and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. Lying was not his strong suite! 
+At the end of it, he was happy that he prioritized love over success - and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. Lying was not his strong suite! And he did try rescue the man - at least gave him an offer that the man disrespectfully declined.
 
-Can we go today ? Its been a while I went to the lake - said Fairy after mulling over her calendar, and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - the Friend said peeking on her watch.
+Can we go today ? Its been a while I went to the lake - said Fairy after mulling over her calendar, and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - the Friend said peeking over her watch.
 
 Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime Numbers. I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life of the affluent!
 
 ----
 
-The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen but everything looks great from inside of a "climate controlled" plush heated seat. They got the first feel of cold air when they stepped out of the chariot. 53 degrees felt like 43. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel had met him -  almost twenty years back. Some people don't change - he though - as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication! - the resistance had secured a chorded network beyond central intelligence in lieu of granting the rights till "one human death". The angel was not sure if the Mentor was active member of the resistance but he was well aware that he tread the border line. 
+The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen. They got the first feel of cold air when they stepped out of the chariot. 63 degrees felt like 53. They had landed in front of a small house and they found an old man open the door as they were about to knock. He must have seen the notification of an unknown car landing on his porch - they thought, though the old man had no notifications or even security cams. Angel had called him on his landline that Fairy had landed in his courtyard. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel had met him -  almost twenty years back. Some people don't change - he though - as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication! - the resistance had secured a chorded peer to peer network beyond central intelligence in lieu of granting the rights till "one human death". The angel was not sure if the Mentor was active member of the resistance but he was well aware that he tread the border line. More importantly, he had friends deep in both the sides and many times he had brokered high value agreements.
 
 Would you like some tea - Mentor asked - pointing them to the chairs in front of his table in rather large study room just by the entrance.
 
@@ -70,9 +70,9 @@ In other words - if we take "1" - split it into two branches - then split each b
 
 Wait! You opened a lot of branches and I am lost in the basic math - said the Fairy - Can you please repeat.
 
-Oh! Absolutely - said the mentor - Let me explain it with a rather simple example. Let is take a smaller number - say "8". And let us just focus on "8" today - he thought for a while - let me draw it for you to make it easy to comprehend ... 
+Oh! Absolutely - said the mentor - Let me explain it with a rather simple example. Let's take a smaller number - say "8". And let us just focus on "8" today - he thought for a while - let me draw it for you to make it easy to comprehend ... 
 
-He said while looking for a pen and paper - the number "8" has prime factors as 2x2x2 or 2^3. We can display it as the branches of a inverted tree as below. 
+He said while looking for a pen and paper - the number "8" has prime factors as 2 x 2 x 2 or 2^3. We can display it as the branches of a inverted tree as below. 
    
         |
       /   \
@@ -81,9 +81,9 @@ He said while looking for a pen and paper - the number "8" has prime factors as 
    
 You see there are eight branches hanging below kinda like eight ports. The key thing to note here is every joint has three branches. We say that eight ports lead to structures with three branches.
 
-Very interesting - said the Fairy - I never thought it in this light and no one ever talked about it like this on the school.
+Very interesting - said the Fairy - I never thought it in this light and no one ever talked about it like this in the school.
 
-He looked at the Friend. He wanted to make sure she was on board with the idea - well, there is a free port right at the top - she said. 
+He looked at the Friend. He wanted to make sure she was on board with the idea - well, there is a free port right at the top - she said - so in all there seems to be nine free ports.
 
 A smile came to Mentor's face - you got me. Let me redraw the number "8"
 
@@ -94,23 +94,23 @@ A smile came to Mentor's face - you got me. Let me redraw the number "8"
      /\   /\
  
 
-Good that you asked this question and also made me redraw the picture because now you can see that the upper side is a mirror image of the bottom and the left side is a mirror image of the right. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
+Good that you asked this question and also made me redraw the picture because now you can see that the left side is a mirror image of the right. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
 
-But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the friend..
+But then how are this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
 
-It was `Ganga` who first understood that a specific orientation could be imparted to an endeavour - even a marriage and the offspring from the wed-lock. It all depends on how the bond is created. In `Vaidik` science the bond is called `Bandhana`. `Ganga's` character shows how to create the bonds and how to exit from them - said the Mentor - we will see that in the story.
+`Ganga` understood the significance of eight - that the trifecta was like the three basic colors - Red, Blue and Green. And the four sets of RGB were like the four main emergent colors. And seven of them led to a unique identity. Though she didn't think it in terms of colors. She thought it terms of rivers. There were three main rivers - Ganges, Yamuna and Sarswati and they had four emergent rivers. Put together seven rivers created the plains.
 
 The door bell rang and they had Pizza on delivery. All three of them were hungry for the Mentor too had skipped his morning meal in anticipation of having lunch together with the Fairy and her Friend and also to make sure he didn't sleep before this meeting - Lets grab a bite while we talk about the narrative - he said.
 
-The lunch was light chit chat among which the Mentor also fired a print command on his dark terminal and an old Epson dot matrix printer started whirring in the living room. He went there and grabbed two copies a printed pages. Handing over one to each, he  said - here, I wrote down the story of `Ganga and Shantanu` this morning thinking you will need some sort of document to build your scenes. 
+The lunch was light chit chat. Mentor talked about how `Vaidik` mathematics puts very complex ideas of Abstract Algebra in simple to understand graphics. The Friend talked about she laboured almost six months to understand Groups of SU3 symmetry that were so easily presented in less than fifteen minutes. During the discussion, the Mentor also fired a print command on his dark terminal and an old Epson dot matrix printer sitting by the desktop started whirring. He grabbed two copies a printed pages. Handing over one to each, he  said - here, I wrote down the story of `Ganga and Shantanu` this morning thinking you will need some sort of document to build your scenes. 
 
 They both quickly glanced at the sheets, chewing their Pizzas. 
 
 You can read it on your flight back. For now I suggest you two go around the lake for this beautiful day is not to be wasted listening to an old-man. I have given as much lay of the land (geography) as possible to let you better visualize the locale.  Rest is your creativity - he smiled.
 
-Fairy thought as if he read her mind - she did wonder if she will get a chance to see the lake. Little did she know that the Mentor didn't want to miss his afternoon nap ...
+Fairy thought as if he read her mind - she did wonder if she will get a chance to see the lake. Though the truth was the Mentor didn't want to miss his afternoon nap ...
 
-# `Bandhana`
+# `Ashtdha` - Eight Fold
 
 
 The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna`, `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.

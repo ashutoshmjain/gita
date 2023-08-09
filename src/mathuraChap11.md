@@ -64,9 +64,10 @@ Mentor was pleased that he was spared from the definitions - So what is "1", is 
 
 Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot the name - She was already getting comfortable in this conversation.
 
-You are absolutely right.  The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor - and that is exactly right in my mind because "1" is a unique number - it is the "unit". It sits with in every other number. 
+You are absolutely right.  The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor. He thought for a while and continued - The strangest thing about "1" is it looks exactly what we want it to be - for example - 1 book is a book , 1 meter is a meter , 1 home is a home but we can never know what "1" is ! We can never understand the "1" without association to a worldly thing. As for "2", we can at least say it is twice the "1" - He smiled.
 
-The mentor got his flow - In a way, a prime number is an orientation. It can't be factored. An idea that stands on it's own. And every other number can be expressed through "unique" prime factors - for example the number 210 has a unique set of prime factors 
+The mentor got his flow - prime numbers are our best shot to describe the "unit". The easiest way to comprehend this is to imagine rivers flowing into an ocean. They all become "One" ocean. The "Unity" is such an ocean where only prime numbers of rivers could flow in. 
+
 
 > 210 = 7 x 5 x 3 x 2
 

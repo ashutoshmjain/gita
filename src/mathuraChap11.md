@@ -66,25 +66,24 @@ Well technically yes - replied the Friend - though it is not counted as one beca
 
 You are absolutely right.  The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor. He thought for a while and continued - The strangest thing about "1" is it looks exactly what we want it to be - for example - 1 book is a book , 1 meter is a meter , 1 home is a home but we can never know what "1" is ! We can never understand the "1" without association to a worldly thing. As for "2", we can at least say it is twice the "1" - He smiled.
 
-The mentor got his flow - prime numbers are our best shot to describe the "unit". The easiest way to comprehend this is to imagine rivers flowing into an ocean. They all become "One" ocean. The "Unity" is such an ocean where only prime numbers of rivers could flow in. 
+The mentor got his flow - the way I like to think about prime numbers is to imagine rivers flowing into an ocean. They all become "One" ocean. The special thing about this ocean is that only prime number of rivers are allowed to flow in. You may also think about it as a flower plant . For example think about a flower plant - each flower with seven leafs - one flower on every one of five branch. And then five branches on two stems each.
 
-
-> 210 = 7 x 5 x 3 x 2
-
-In other words - if we take "1" - split it into two branches - then split each branch into three branches - then split the six branches into five each - and then split thus obtained thirty branches into into seven each - we get the number 210 branches. 
+> 70 leafs = 7 Flowers x 5 branches x  2 stems = 1 flower plant.
+>
+> The key thing is, this is only one unique way to organize 70 leafs. This is because the fundamental theorem of Arithmetic dictates that number 70 has a unique set of prime factors = 7 x 5 x 2 . For example if we put flowers with 35 leafs each on 2 stems (35 x 2 = 70) the flowers will automatically rearrange themselves into 7 leafs and five branches. If we try to put flowers of seven leafs each on ten branches (7 x 10 = 70), the ten branches would automatically reorganize themselves into five branches on two stems each.
 
 Wait! You opened a lot of branches and I am lost in the basic math - said the Fairy - Can you please repeat.
 
 Oh! Absolutely - said the mentor - Let me explain it with a rather simple example. Let's take a smaller number - say "8". And let us just focus on "8" today - he thought for a while - let me draw it for you to make it easy to comprehend ... 
 
-He said while looking for a pen and paper - the number "8" has prime factors as 2 x 2 x 2 or 2^3. We can display it as the branches of a inverted tree as below. 
+He said while looking for a pen and paper - the number "8" has prime factors as 2 x 2 x 2. We can display it as the branches of a inverted tree as below. 
    
         |
       /   \
      /\   /\
     /\/\ /\/\
    
-You see there are eight branches hanging below kinda like eight ports ready to dock a boat. The key thing to note here is every joint has three branches. We say that eight ports lead to structures with three branches.
+You see there are eight branches hanging below kinda like eight ports ready to dock a boat on a single wharf. The key thing to note here is every joint has three branches. We say that eight ports lead to structures with three branches.
 
 Very interesting - said the Fairy - I never thought it in this light ..
 
@@ -98,9 +97,9 @@ A smile came to Mentor's face - you got me. Let me redraw the number "8". How ab
       /   \
      /\   /\
 
-Well, this looks like 4 x 2 , rather than a 2 x 2 x 2 - said the Friend.
+Well, this looks like 4 x 2 , rather than a 2 x 2 x 2 - said the Friend - you said only prime number of rivers may flow into an ocean then how come four rivers flowing into the unity ?
 
-Excellent - said the Mentor. Looks like you have a grounding in Abstract math. Let's add more to it ..
+Excellent - said the Mentor. Looks like you have a grounding in Abstract math. Let's add more layer to it ..
 
     \/\/ \/\/
      \/   \/
@@ -110,19 +109,21 @@ Excellent - said the Mentor. Looks like you have a grounding in Abstract math. L
      /\   /\
     /\/\ /\/\
 
-He continued - you can call this number 4 x 2 x 2 that is sixteen but notice there are only 8 free ports. Or we can call it number 8 with a mirror image. What is more prudent ?
+He continued - you can call this number 4 x 2 x 2 that is 16, but as you noticed there are 4 branches flowing into the root. Another thing that you may notice is the upper side is a mirror image of the bottom. Now imagine two mirror images fold onto each other - the problem of four is gone.
 
 Are we saying that the number 8 can't exist without it's mirror image? - asked the intrigued Friend.
 
-Bingo - you got it.  Good that you asked this question and also made me redraw the picture because now you can see that the left side is a mirror image of the right. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
+Bingo - you got it.  Good that you asked this question and also made me redraw the picture because now you can see that the up side is a mirror image of the bottom. In essence the duality is maintained for the entire structure. Such a structure can "manifest". A major part of my study is to figure out such numbers of higher order that exhibit similar behaviour.
 
-To save space, we write such manifests that exist with a mirror image as below. Notice the bar on the top. It denotes the "chirality" . So here is the picture of 8
+To save space, we write such manifests that exist with a mirror image as below. 
 
         _
         |
       /   \
      /\   /\
     /\/\ /\/\
+
+Notice the bar on the top. It denotes the "chirality" . So here is the picture of 8 - we block the port indicating that the structure is folded at the unity.
 
 But then how this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
 

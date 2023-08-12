@@ -1,8 +1,8 @@
 It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the coffee beans. Waking up to the smell of fresh beans always brought unique pleasure to Fairy.
 
-When did you wake up - asked Fairy. She had insisted her Friend to stay back last night. It was almost one am when they reached home and there after both of them kept talking about `Matsya`. Angel had almost passed out on the steering wheel, but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. 
+When did you wake up - asked Fairy. She had insisted her Friend to stay back last night. It was almost one am when they reached home and thereafter both of them kept talking about `Matsya`. Angel had almost passed out on the steering wheel, but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am. 
 
-It seems the air traffic system is getting an offline update - said the Friend - the system is capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - solely on central navigation - even headlights aren't allowed in night - to accommodate and respect star gazers. Fairy felt she was obsessed with her new toy but she brushed the thought. People spend so much on art these days - a flying car is after all a useful thing - she reasoned to herself - and if you spend an year worth of salary then you do have right to show off a little bit.
+It seems the air traffic system is getting an offline update - said the Friend - the system is capable of live updates but you need to be extra cautious when you are talking about thousands of silent chariots flying around in the night sky - solely on central navigation - even headlights aren't allowed in night - to accommodate and respect star gazers. Fairy felt she was obsessed with her new toy but she brushed the thought. People spend so much on art these days - a flying car is after all a useful thing - she reasoned to herself - and if you spend an year worth of wages, you do get to show off a little bit.
 
 The other option was to let the machine self drive on the crappy road - that meant keeping the eyes open on the steering wheel. She was definitely not in a position to stay awake for another hour though they ended up talking for at least two - in the living room -  with a round of hot tea.
 
@@ -24,21 +24,21 @@ Can we Zoom in with him ? - asked the Friend.
 
 Unfortunately no! - In Summer, he lives off the grid. It is only 20 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel - you can charge your return flight at his place - it is his summer home and he got a new super charger last year.  
 
-I wish I could join you guys; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he designed engineered bees planted in deep forests with almost zero human footprint in last ten years - they did make 5x honey but they turned 10x over poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself even more to protect it. If the woke media got a hint, his career was on the line, but he was more scared of the hate he was sure to get from his own circle - The "Fairy", in particular. 
+I wish I could join you guys; but I am gone for a week - said the Angel - not hiding at all that he hated his work! How could he tell others that he designed engineered bees - planted in deep forests with zero human footprint in last ten years. The effort was to resolve the growing demand of honey as humans stopped consuming cane sugars. They did make 5x honey but they turned 10x poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself even more to protect it. If the woke media got a hint, his career was on the line, but he was more scared of the hate he was sure to get from his own circle - The "Fairy", in particular. 
 
-To his good luck, the last episode (with the bees) didn't get much attention even though Fairy, unaware of the situation, posted about it. How could he save the man? The rescue attempt, he was sure, had the Fairy killed at a single sting. She didn't have the patched genes active - a protection against the poison. Even though he knew, a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that Intelligence secured for the automation to a practically free life for the humans) - pursue till "one human death" - yet he let a human die just to save the Fairy. The lost life was attributed to the forest fire. The identification was impossible for the there was hardly anything left in over-burnt ashes. The first thing he did after the incident was remove the bees from the spot and remove the location from department database. Fortunately there was no entry on the distributed ledger - he thought.
+To his good luck, the last episode (with the bees) didn't get much attention even though Fairy, unaware of the situation, posted about it. How could he save the man? The rescue attempt, he was sure, had the Fairy killed at a single sting. She didn't have the patched genes active - a protection against the poison. Even though he knew, a technology that killed a single human, was programmed to be wiped off in central intelligence (that was the bargain that "the Intelligence" secured for the automation to a free life for the humans) - pursue till "one human death" - yet he let a human die just to save the Fairy. The lost life was attributed to the forest fire. The identification was impossible for the there was hardly anything left in over-burnt ashes - even the bees died. The first thing he did after the incident was remove the spot location from department database. Fortunately there was no entry on the distributed public ledger - he thought.
 
-At the end of it, he was happy that he prioritized love over success - and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. Lying was not his strong suite! And he did try to rescue the man - at least gave him an offer that the man disrespectfully declined. He wasn't sure if the argument absolved him from the sin but it allowed him to live with himself.
+At the end of it, he was happy that he prioritized love over success - and probably that was the good `Karma` that her best Friend too was focused on `Matsya`. He wanted she never asked questions about the real incident. Lying was not his strong suite! And he did try to rescue the man - at least gave him an offer that the man disrespectfully declined. He wasn't sure if the argument absolved him from the sin but it afforded him comfort to live with himself.
 
-Can we go today ? - his thoughts were interrupted by Fairy - Its been a while I went to the lake - she said after mulling over her calendar, and also looking at her Friend if she was fine to fly ! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - the Friend said peeking over her watch.
+Can we go today ? - his train of thoughts was interrupted by Fairy - Its been a while I went to the lake - she said after mulling over her calendar, and also looking at her Friend if she was fine to fly at no notice! And she saw a "yes" in her eyes - I am pretty open today till an evening dinner - the Friend said peeking over her watch and I don't need to file a request if I am flying away from San Francisco. She never missed sharing unnecessary details when it came to the flying cars!
 
 Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime Numbers. I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life of the affluent!
 
 ----
 
-The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the water was not frozen. They got the first feel of cold air when they stepped out of the chariot. 63 degrees felt like 53. They had landed in front of a small house and they found an old man open the door as they were about to knock. 
+The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the green sheet of trees circling white water looked pretty from five thousand feet. They got the first feel of cold air when they stepped out of the chariot. 63 degrees felt like 53. They had landed in front of a small house and they found an old man open the door as they were about to knock. 
 
-He must have seen the notification of an unknown car landing on his porch - they assumed, though the old man had no security cams. Angel had called him on his landline that Fairy had landed on his driveway. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel met him -  almost twenty years back. Some people don't change - he thought - as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication! - he wondered not knowing that the resistance had secured a chorded peer to peer network beyond the "watch" of central intelligence in lieu of granting the rights till "one human death". The angel was not sure if the Mentor was active member of the "Resistance" but he was aware that he tread the border line. More importantly, he had friends deep in both the sides and many times he had brokered high value agreements.
+He must have seen the notification of an unknown car landing on his porch - they assumed, though the old man had no security cams. Angel had called him on his landline that Fairy had landed on his driveway. He probably wanted to make sure the mentor didn't sleep because he loved to have an after meal nap from before the times Angel met him -  almost twenty years back. Some people don't change - he thought - as he waited for him to pick up the chorded land line - who uses the chord these days of star linked communication! - he wondered not knowing that the resistance had secured a chorded peer to peer network beyond the "watch" of central intelligence in lieu of granting the rights till "one human death". The angel was not sure if the Mentor was active member of the "Resistance" but he was aware that he tread both sides of the fence. More importantly, he had friends deep in both the sides and many times he had brokered high value agreements.
 
 Would you like some tea - Mentor asked - pointing them to the chairs in front of his table in rather large study room just by the entrance.
 
@@ -58,7 +58,7 @@ Oh sure - it is actually not a theory - some people try to give undue credit - h
 
 The prime numbers, as you know are something that can't be divided by anything other than themselves - and of course by the number "1" - said the Fairy - and that is all I know about them except that they keep on finding new primes almost every day.
 
-There are billions of  them already known and they say there exist infinite Primes - added the Friend.
+There are billions of them already known and they say there exist infinite Primes - added the Friend - their biggest use is in cryptography - to hide the things or to make them truly public.
 
 Mentor was pleased that he was spared from the definitions - So what is "1", is it a Prime ?  He asked to get the conversation started.
 
@@ -66,19 +66,21 @@ Well technically yes - replied the Friend - though it is not counted as one beca
 
 You are right. The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor. 
 
-He thought for a while and continued - The strangest thing about "1" is it looks exactly what we want it to be - for example - 1 book is a book , 1 meter is a meter , 1 home is a home but we can never know what "1" is ! We can never understand the "1" without association to a worldly thing. As for "2", we can at least say it is twice the "1" - He smiled.
+He thought for a while and continued - The strangest thing about "1" is it looks exactly what we want it to be - for example - 1 book is a book , 1 meter is a meter , 1 home is a home but we can never know what "1" is ! We can never understand the "1" without association to a worldly thing - an "Identity". As for "2", we can at least say it is twice the "1" - He smiled.
 
-The mentor got his flow - the way I like to think about prime numbers is to imagine rivers flowing into an ocean. They all become "One" ocean. The special thing about this ocean is that only prime number of rivers are allowed to flow in. You may also think about it as a flower plant . For example think about a flower plant - each flower with seven leafs - one flower on every one of five branches. And then five branches on two stems each.
+The mentor got his flow - the way I like to think about prime numbers is to imagine rivers flowing into an ocean. They all become "One" ocean. The special thing about "this" ocean is that only prime number of rivers are allowed to flow in. You may also think about it as a flower plant . For example think about a flower plant - each flower with seven leafs - one flower on every one of five branches. And then five branches on two stems each.
 
 > 70 leafs = 7 Flowers x 5 branches x  2 stems = 1 flower plant.
 >
-> The key thing is, this is only one unique way to organize 70 leafs. This is because the fundamental theorem of Arithmetic dictates that number 70 has a unique set of prime factors = 7 x 5 x 2 . For example if we put flowers with 35 leafs each on 2 stems (35 x 2 = 70) the flowers will automatically rearrange themselves into 7 leaf flowers on five branches. If we try to put flowers of seven leafs each on ten branches (7 x 10 = 70), the ten branches would automatically reorganize themselves into five branches on two stems each.
+> The key thing is, this is unique way to organize 70 leafs. This is because the fundamental theorem of Arithmetic dictates that number 70 has a unique set of prime factors = 7 x 5 x 2 . For example if we put flowers with 35 leafs each on 2 stems (35 x 2 = 70) the flowers will automatically rearrange themselves into 7 leaf flowers on 5 branches. If we try to put flowers of seven leafs each on ten branches (7 x 10 = 70), the ten branches would automatically reorganize themselves into five branches on 2 stems each. Nature gravitates towards the prime factors because - well - they are uniquely identifiable. 
+>
+> Every number must have prime factors, and no two numbers have same set of prime factors - the very definition of Identity.
 
-Wait! You made quite a bouquet and I am lost in the basic math - said the Fairy - Can you please repeat.
+Wait! You made quite a bouquet of flowers, and I am lost in the basic math - said the Fairy - Can you please repeat.
 
 Oh! Absolutely - said the mentor - Let me explain it with a rather simple example. Let's take a smaller number - say "8". He thought for a bit - let me draw it for you ... 
 
-He said while looking for a pen and paper - the number "8" has prime factors as 2 x 2 x 2. We can display it as the boats docked on a wharf. 
+He said while looking for a pen and paper - the number "8" has prime factors 2 x 2 x 2. We can display it as say the boats docked on a wharf. 
    
         .
        / \
@@ -86,18 +88,18 @@ He said while looking for a pen and paper - the number "8" has prime factors as 
      /\   /\
     ][][ ][][ 
    
-- There are eight boats (shown with open brackets) - this is the identity - this is how people interact with this structure.
+- There are eight boats (shown with open brackets) - this is the identity - this is how people interact with this structure. You see it as a dock when you see boats moored on it. Same with the Airports.
 - There are seven joints - that is the internal spatial arrangement.
 - If you leave the identity aside , there are five internal angles.
 - If we fold the structure - left on to right or vice versa - there are "3" joints in each fold.
 - Of course there are two images - each reflection of the other.
 - And one unique structure represented by number "8" that has all the primes less than itself in-built into it.]
 
-If you consider each prime as a unique idea, this number has all the pre-existing ideas in harmony - for lack of a better word ! - smiled the Mentor.
+If you consider each prime as a unique idea, this number has all the pre-existing ideas in harmony - for lack of a better word ! - smiled the Mentor - and btw it is the first non prime number on the Fibonacci [^fib] sequence.
 
-Very interesting - said the Fairy - I never thought it in this light ..
+Very interesting - said the Fairy - I never thought it in this light but it makes sense!
 
-Bingo - you got it. Good that you asked the question that made me draw the picture - a major part of my study is to figure out such numbers of higher order that exhibit similar behaviour and speculate what those "prime" ideas could be. For example "2" underscores the idea of duality, "3" that of "Trinity", "5" angles may be five senses as different angles to sense the things, and "7" being the largest single digit prime might evoke "intelligence". Goes without saying that this is pseudo science. There is no proof.
+Bingo - you got it. Good that you asked the question & made me draw the picture - a major part of my study is to figure out such numbers of higher order that exhibit similar behaviour and to speculate what those "prime" ideas could be. For example "2" underscores the idea of Duality, "3" that of "Trinity", "5" angles may be five senses as different angles to see the things, and "7" being the largest single digit prime might evoke "Intelligence". Goes without saying that this is pseudo science. There is no proof.
 
 But then how this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
 
@@ -301,4 +303,9 @@ Good times go fast. `Ganga` had to move South East, towards the point where `Yam
 
 ## Research and notes:
 
+[^fib]: The Fibonacci numbers were first described in Indian mathematics, as early as 200 BC in work by `Pingala` on enumerating possible patterns of Sanskrit poetry formed from syllables of two lengths. They are named after the Italian mathematician Leonardo of Pisa, also known as Fibonacci, who introduced the sequence to Western European mathematics in his 1202 book `Liber Abaci`.
+
+---
+
 [^pigeon]: A wooden high tower , tall enough to see at least a mile upstream in the river. The tower also served as the collection and dispatch point for the pigeons.
+

@@ -72,28 +72,31 @@ The mentor got his flow - the way I like to think about prime numbers is to imag
 
 > 70 leafs = 7 Flowers x 5 branches x  2 stems = 1 flower plant.
 >
-> The key thing is, this is unique way to organize 70 leafs. This is because the fundamental theorem of Arithmetic dictates that number 70 has a unique set of prime factors = 7 x 5 x 2 . For example if we put flowers with 35 leafs each on 2 stems (35 x 2 = 70) the flowers will automatically rearrange themselves into 7 leaf flowers on 5 branches. If we try to put flowers of seven leafs each on ten branches (7 x 10 = 70), the ten branches would automatically reorganize themselves into five branches on 2 stems each. Nature gravitates towards the prime factors because - well - they are uniquely identifiable. 
+> The key thing is, this is unique way to organize 70 leafs. This is because the fundamental theorem of Arithmetic dictates that number 70 has a unique set of prime factors = 7 x 5 x 2 . For example if a genetic mutation put flowers with 35 leafs each on 2 stems (35 x 2 = 70) the flowers will automatically rearrange themselves into 7 leaf flowers on 5 branches over evolutionary cycles. If we try to put flowers of seven leafs each on ten branches (7 x 10 = 70), the ten branches would automatically reorganize themselves into five branches on 2 stems each over an evolutionary horizon. Nature gravitates towards the prime factors because - well - they are uniquely identifiable. 
 >
 > Every number must have prime factors, and no two numbers have same set of prime factors - the very definition of Identity.
 
-Wait! You made quite a bouquet of flowers, and I am lost in the basic math - said the Fairy - Can you please repeat.
+Wait! You made quite a bouquet of flowers, and I am lost in the basic math - said the Fairy - Could you please repeat?
 
 Oh! Absolutely - said the mentor - Let me explain it with a rather simple example. Let's take a smaller number - say "8". He thought for a bit - let me draw it for you ... 
 
 He said while looking for a pen and paper - the number "8" has prime factors 2 x 2 x 2. We can display it as say the boats docked on a wharf. 
-   
-        .
-       / \
-      /   \
-     /\   /\
-    ][][ ][][ 
+
+<center>
+
+          .
+         / \
+        /   \
+       /\   /\
+      ][][ ][][ 
+</center>
    
 - There are eight boats (shown with open brackets) - this is the identity - this is how people interact with this structure. You see it as a dock when you see boats moored on it. Same with the Airports.
 - There are seven joints - that is the internal spatial arrangement. The number of joints is fixed.
 - If you leave the identity aside , there are five internal angles. The structure may take infinite shapes just by changing  these angles.
 - If we fold the structure - left on to right or vice versa - there are "3" joints in each fold.
 - Of course there are two images - each reflection of the other.
-- And one unique structure represented by number "8" that has all the primes less than itself in-built into it.]
+- And one unique structure represented by number "8" that has all the primes less than itself in-built into it.
 
 If you consider each prime as a unique idea, this number has all the pre-existing ideas in harmony - for lack of a better word ! - smiled the Mentor - and btw it is the first non prime number on the Fibonacci [^fib] sequence.
 
@@ -127,7 +130,7 @@ As the king circled right of the middle age, he got interested in music, religio
 
 This deep knowledge of the rivers made him popular. People started calling him `Ganga-putra` — the son of Ganges! The ancient `Vaidik` system was a matriarchy where able offspring bore the name of their mothers instead of fathers though in this case it was quite appropriate. His work brought prosperity and security to the kingdom never seen before. People said that the skills that `Devvrata` had, were natural to him because he was son of `Ganga` (Hindi name for the river Ganges). That was true because name of his 'human' mother was `Ganga` too; though the hyperbole is `Ganga` (the mother) was a true incarnation of the river itself - literally. Even the scripture noted that river `Ganges` manifested into a beautiful woman called `Ganga` to bear `Devvrata`. 
 
-#11.1
+# 11.1
 ---
 
 Just like the pious river, `Dev's` real mother was born on the peaks of Himalayas — near the birth place of river `Ganges` — a place called `Gangotri`. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it's decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her `Ganga` — after the name of the river in local dialect. People forgot her real name — not that it mattered anymore, for she was a true embodiment of Ganges — through her actions (`Karma`)
@@ -159,7 +162,7 @@ But I can't stay here for ever. I must attend to my people — said `Shantanu`, 
 
 You may leave as you need to. Your duties as a king, to your people are ever more than our obligations to each other — said `Ganga` — and come back when you crave for me. 
 
->> Such an arrangement was not new — there was even a name for it  — `Gandhrva Vivah` — A marriage among equals with no strings attached.
+> Such an arrangement was not new — there was even a name for it  — `Gandhrva Vivah` — A marriage among equals with no strings attached.
 
 The counter proposal seemed fair to `Shantanu` for he was hardly stationed at his capital. And most of the times he was anyway sailing through `Ganges` or `Yamuna` - I do need an heir for this vast empire. Someone who has your passion and love for my people - he told `Ganga` holding both her hands.
 
@@ -174,11 +177,9 @@ The counter proposal seemed fair to `Shantanu` for he was hardly stationed at hi
 
 `Vasishtha` was pleased at the good will of the young girl - seven verses to bless your bond into an identity that you seek `Ganga`. Seven verses - each to serve as a primal joint for this union. Seven of your sons will shine as as seven colors of the rainbow. Together they would blossom into eighth who would be oriented from the very first breath as you seek. One who would make both of you proud. 
 
-`Bramh-rishi` asked `Parasara` to light up a `Vaidik` fire. All the `Yogies` and their families stood around the holy fire as `Ganga` and `Shantnu` took seven circles of the fire. One with each verse ..
-
+`Bramh-rishi` asked `Parasara` to light up a `Vaidik` fire. All the `Yogies` and their families stood around the holy fire as `Ganga` and `Shantnu` took seven circles of the fire. One with each verse:
 
 ### First verse
-----
 
 The ceremony started with a `Swastivachan` - a good wish from all the present - all the witnesses of the union.
 
@@ -190,7 +191,6 @@ O Lord, may you bring this couple together, like a pair of `Charavaka` ducks. Th
 
 
 ### second verse
-----
 `Bramh-rishi` pointed towards `Ganga` to invoke this second verse in herself ..
 
 > Dhairham Prithvitvam;
@@ -215,7 +215,6 @@ I am `Saama` the music, and you are `Rika` the song
 I and you follow each other. 
 
 ### Third verse
-----
 
 This is bride's expression of Trust in this union - said `Bramh-rishi` as he recited one of his own verse ..
 
@@ -227,7 +226,6 @@ Your foresight favours the work of Deities. Your auspicious vision is bright and
 
 
 ### Fourth Verse
-----
 
 Having moved with `Ganga's` expression of Trust, `Shantanu` made worldly commitments. In the fourth verse he said ..
 
@@ -238,7 +236,6 @@ Having moved with `Ganga's` expression of Trust, `Shantanu` made worldly commitm
 In my Duties (`Dharmecha`), In my financial responsibilities (`Arthecha`) and in my physical needs (`Kaamecha`), I will always consult you. I will actively seek and act per consensus.
 
 ### Fifth verse
----
 
 And also moved with bride's expression of spiritual love, `Shantanu` thanked the Gods for this good fortune. He praised the deities for bringing `Ganga` to his life. He said ..
 
@@ -249,7 +246,6 @@ And also moved with bride's expression of spiritual love, `Shantanu` thanked the
 I thank the deities of enjoyment (Bhaga) , deity of wisdom (Aryama) and the deity of the creative force (Savitaru) for bringing you in my life. Not only these deities , I thank the entire universe `Purandhir` a name of `Bramha` , for the good fortune of being together. 
 
 ### Sixth verse
-----
 
 The sixth verse was the celebration of companionship. They wished not to lose this friendship even if they lose everything else. 
 
@@ -285,10 +281,11 @@ May we indulge in our objectives with Vigor ,
 May we never doubt or be jealous of each other. 
 
 ## 11.4
+----
 
 `Dev` was a divine gift from river `Ganga`. At an early age he understood the intricacies of motion of water. The last of eight brothers, all of whom dedicated their lives to improve peoples' lives. Two of them were sent to the North by `Ganga` to create a map of Ganges and its tributaries. Other two went South East where Ganges meets the ocean. They too had the similar goal — charter Ganges path to the ocean. `Ganga` wanted complete picture of the Ganges — from the mountains of her birth to the ocean of it's salvage. Brothers coordinated their work through pigeons to draw one comprehensive map of river system that makes the most fertile plains of North India. 
 
->> The hyperbole is that `Ganga` threw her first seven kids back into the Ganges, which is not entirely wrong because they did serve their lives to the cause of the mighty river.
+> The hyperbole is that `Ganga` threw her first seven kids back into the Ganges, which is not entirely wrong because they did serve their lives to the cause of the mighty river.
 
 Fifth brother worked on setting up bridges on Ganges. Sixth worked on techniques to move the boats and tree logs upstream through a system of water locks. Seventh on making levies for low-lying villages where floods caused havoc in rainy seasons. 
 

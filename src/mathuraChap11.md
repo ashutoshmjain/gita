@@ -89,8 +89,8 @@ He said while looking for a pen and paper - the number "8" has prime factors 2 x
     ][][ ][][ 
    
 - There are eight boats (shown with open brackets) - this is the identity - this is how people interact with this structure. You see it as a dock when you see boats moored on it. Same with the Airports.
-- There are seven joints - that is the internal spatial arrangement.
-- If you leave the identity aside , there are five internal angles.
+- There are seven joints - that is the internal spatial arrangement. The number of joints is fixed.
+- If you leave the identity aside , there are five internal angles. The structure may take infinite shapes just by changing  these angles.
 - If we fold the structure - left on to right or vice versa - there are "3" joints in each fold.
 - Of course there are two images - each reflection of the other.
 - And one unique structure represented by number "8" that has all the primes less than itself in-built into it.]
@@ -99,11 +99,11 @@ If you consider each prime as a unique idea, this number has all the pre-existin
 
 Very interesting - said the Fairy - I never thought it in this light but it makes sense!
 
-Bingo - you got it. Good that you asked the question & made me draw the picture - a major part of my study is to figure out such numbers of higher order that exhibit similar behaviour and to speculate what those "prime" ideas could be. For example "2" underscores the idea of Duality, "3" that of "Trinity", "5" angles may be five senses as different angles to see the things, and "7" being the largest single digit prime might evoke "Intelligence". Goes without saying that this is pseudo science. There is no proof.
+Bingo - you got it. Good that you asked the question & made me draw the picture - a part of my study is to figure out such numbers of higher order say 23 that exhibit similar behaviour and to speculate what those "prime" ideas could be. For example "2" underscores the idea of Duality, "3" that of "Trinity", "5" angles may be five senses as different angles to see the things, and "7" being the largest single digit prime might evoke "Intelligence". Goes without saying that this is pseudo science. There is no proof.
 
 But then how this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
 
-`Ganga` understood the significance of Eight. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers.  She noticed on the upper glacier,  eight water falls running into four lakes. Four tributaries, one from each lake, merged into two streams finally meeting up in `Dev Pryag` to form the river Ganges. Her friends would go to the lakes and leave a stick with a colored rope tied to it in the outlets to let remaining group know that they reached the lake - a different color for each lake.
+`Ganga` understood the significance of Eight. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers.  She noticed on the upper glacier,  eight water falls running into four lakes. Four tributaries, one from each lake, merged into two streams finally meeting up in `Dev Pryag` to form the river Ganges. Her friends would go to the lakes and leave a stick with a colored rope tied to it in the outlets to let remaining group know that they reached the lake - a different color for each lake. In a way, the identity of Ganges were the eight water falls and the purpose was to carry the information downstream to the plains.
 
 The lunch was a light chit chat. During the discussion, he fired a print command and an old dot matrix printer sitting by the desktop started whirring. He grabbed two copies of printed pages. Handing over one to each, he  said - here, I wrote down the story of `Ganga and Shantanu` thinking you will need some sort of document to build your scenes. 
 
@@ -111,9 +111,7 @@ They both quickly glanced at the sheets, chewing their Pizzas.
 
 You can read it on your flight back. For now I suggest you two go around the lake for this beautiful day is not to be wasted listening to an old-man. I have given as much lay of the land (geography) as possible to let you better visualize the locale.  Rest is your creativity - he smiled.
 
-Fairy thought as if he read her mind - she did wonder if she will get a chance to see the lake. Though the truth was the Mentor didn't want to miss his afternoon nap ...
-
-# `Ashtdha` - Eight Fold
+# `Ashtdha` - Eight Fold ..
 
 The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers `Yamuna`, `Sarswati` and `Ganges`. On the north it reached the peaks of `Himalayas` that protected it's border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of `Ganges-Yamuna` river system.
 
@@ -121,9 +119,9 @@ The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A ki
 ![kuruRivers](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png)
 
 
-Most big cities shaped up along the rivers, including `Hastinapur` — the capital city of `Shantanu`. In addition to pure water, the river system also served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but up-stream traffic was still a mystery. Many times they used elephants to move the cargo up-stream but in deeper stretches it was hard. Nevertheless, the elephants and their owners were important part of lumber and grain movement.
+In absence of freeways, most big cities shaped up along the rivers, including `Hastinapur` — the capital city of `Shantanu`. In addition to pure water, the river system served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but up-stream traffic was still a mystery. Many times they used elephants to move the cargo up-stream but in deeper stretches it was hard. Nevertheless, the elephants and their owners were important part of lumber and grain movement.
 
-And there was another problem. Rampant floods made living near the rivers a major risk. There was a need to make sure water stayed in the rivers. While there were many rituals designed to appease the gods of rains, people were working on "pre-engineering era" efforts to deepen the rivers, particularly in stretches where the depth was shallow and thus rivers used to spread in miles. Though most of their efforts lacked the top down planning and also innovation of tools. No one had made it a mission of their lives.
+And there was another problem. Rampant floods made living near the rivers a major risk. There was a need to make sure water stayed in the rivers. While there were many rituals designed to appease the gods of rains, people were figuring out means to deepen the rivers, particularly in stretches where the depth was shallow and thus rivers used to spread in miles. Though most of their efforts lacked the top down planning and also innovation of tools. No one had made it a mission of their lives.
 
 As the king circled right of the middle age, he got interested in music, religion and philosophy. Expansion of his kingdom dropped off the priority. He wanted his people safe, well-fed and well taken care.  Luckily, his son, `Devvrata` was even more prudent in managing the vast province. In addition to being a warrior par excellence, his primary skill was his deep understanding of the water ways. He developed the signalling system with pigeon points [^pigeon] located along the river banks — to serve as early warning system for the floods. He had his large teams of soldiers and craftsmen build the wooden bridges, transport jetties, docks, dams and water locks. 
 
@@ -134,7 +132,7 @@ This deep knowledge of the rivers made him popular. People started calling him `
 
 Just like the pious river, `Dev's` real mother was born on the peaks of Himalayas — near the birth place of river `Ganges` — a place called `Gangotri`. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it's decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her `Ganga` — after the name of the river in local dialect. People forgot her real name — not that it mattered anymore, for she was a true embodiment of Ganges — through her actions (`Karma`)
 
-As she got into her late teens, she and her friends would go on longer voyages in Ganges. Many times for days and weeks. They designed two person Kayaks. They would kayak downstream through rapids and falls, and then carry them back on their shoulders — two persons supporting one Kayak. Climbing the mountains with Kayaks on their backs, used to be painfully long, and arduous — sometimes through the thick uncharted forests. Her dream was to design a boat that could sail upstream. Or something that could sail the boat up. She didn't know yet that she was imagining "water-locks" in her teen mind. 
+As she got into her late teens, she and her friends would go on longer voyages in Ganges. Many times for days and weeks. They designed two person Kayaks. They would kayak downstream through rapids and falls, and then carry them back on their shoulders — two persons supporting one Kayak. Climbing the mountains with Kayaks on their backs, used to be painfully long, and arduous — sometimes through the thick uncharted forests. Her dream was to design a boat that could sail upstream. Or something that could sail the boats up without depending on elephants. She didn't know yet that she was imagining "water-locks" in her teen mind. 
 
 > Even more cherished dream was to find out how and where 'Ganges' ended? She had heard (from travelers) that the mighty river finally met into a vast ocean that could retain water of a thousand rivers! `Ganga` used to wonder why couldn't they make an ocean right here in `Himalayas`, to store the water for irrigation and boating. Little did the young girl know that stopping the water is like stopping the circle of life. And she learnt it as she entered her early youth.  In a way Ganges was a definition of time for her. Her childhood in `Gangotri` — the origin of the river ; her teens in the upper rapids ; her youth in the flat stretch where the mighty river walked like a gorgeous woman of reason, action, and pride. And she wanted to see  the endless sea to mark the completion of her time! 
 

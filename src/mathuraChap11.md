@@ -64,7 +64,7 @@ Mentor was pleased that he was spared from the definitions - So what is "1", is 
 
 Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot the name - She was already getting comfortable in this conversation.
 
-You are right. The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. ![ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor. 
+You are right. The good reason for 1 not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If 1 were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding 1 from the primes smooths that out. [ref](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) - said the Mentor.
 
 He thought for a while and continued - The strangest thing about "1" is it looks exactly what we want it to be - for example - 1 book is a book , 1 meter is a meter , 1 home is a home but we can never know what "1" is ! We can never understand the "1" without association to a worldly thing - an "Identity". As for "2", we can at least say it is twice the "1" - He smiled.
 
@@ -82,21 +82,7 @@ Oh! Absolutely - said the mentor - Let me explain it with a rather simple exampl
 
 He said while looking for a pen and paper - the number "8" has prime factors 2 x 2 x 2. We can display it as say the boats docked on a wharf. 
 
-<center>
-
-          .
-         / \
-        /   \
-       /\   /\
-      ][][ ][][ 
-</center>
-   
-- There are eight boats (shown with open brackets) - this is the identity - this is how people interact with this structure. You see it as a dock when you see boats moored on it. Same with the Airports.
-- There are seven joints - that is the internal spatial arrangement. The number of joints is fixed.
-- If you leave the identity aside , there are five internal angles. The structure may take infinite shapes just by changing  these angles.
-- If we fold the structure - left on to right or vice versa - there are "3" joints in each fold.
-- Of course there are two images - each reflection of the other.
-- And one unique structure represented by number "8" that has all the primes less than itself in-built into it.
+![8](./8.svg)
 
 If you consider each prime as a unique idea, this number has all the pre-existing ideas in harmony - for lack of a better word ! - smiled the Mentor - and btw it is the first non prime number on the Fibonacci [^fib] sequence.
 

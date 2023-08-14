@@ -1,6 +1,6 @@
 <div class="cover-huge">Mathura</div>
 <div class="centered">
-    <img src="./ganesa.png" alt="ganesay namh" class="responsive">
+    <img src="./ganesa.svg" alt="ganesay namh" class="responsive">
 </div>
 <div class="cover-medium">by Ashutosh</div>
 <div class="cover-small">&copy; 2022 CC0</div>

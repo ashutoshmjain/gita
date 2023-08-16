@@ -98,9 +98,12 @@ Bingo - you got it. Good that you asked the question & made me draw the picture 
 
 But then how this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
 
-`Ganga` understood the significance of Eight. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers.  She noticed on the upper glacier,  eight water falls running into four lakes. Four tributaries, one from each lake, merged into two streams finally meeting up in `Dev Pryag` to form the river Ganges. Her friends would go to the lakes and leave a stick with a colored rope tied to it in the outlets to let remaining group know that they reached the lake - a different color for each lake. 
+`Ganga` understood the significance of Eight. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers.  She noticed four rivers tied up eight frozen lakes (glaciers). It will be easy if you see this map of `Gangotri Region` - the birth place of Ganges.
 
-In a way, the identity of Ganges were the eight water falls and the purpose was to unite the knowledge of their existence into one "Ganges" for downstream. Ganges brought mountains (her home) to the plains through a primal scheme and to `Ganga` that schema was auspicious.
+![Ganga](./ganga.svg)
+
+
+In a way, the identity of Ganges was the entire glacier region that she could access as eight frozen water falls (glaciers) and the purpose of Ganges - she though -  was to unite the knowledge of their existence into one. Ganges brought mountains (her home) to the plains through a primal scheme and to `Ganga` that schema was auspicious. Later, modern geologists marvel at this scheme in the sense such a vast glacier system ultimately manifests into just one perennial mega-river. Just like the locals, they too see the magic of God's gift. Keep in mind the glacier is retreating almost two miles per century. That is the reason you see many more tributaries now spread around the main rivers in 100 to 150 miles range.
 
 The lunch was a light chit chat. During the discussion, he fired a print command - old dot matrix printer sitting by the desktop started whirring. He grabbed two copies of printed pages. Handing over one to each, he  said - here, I wrote down the story of `Ganga and Shantanu` thinking you will need some sort of document to build your scenes. 
 
@@ -116,13 +119,29 @@ The other side of the river `Yamuna` belonged to the empire. `Shantanu` — A ki
 ![kuruRivers](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png)
 
 
-In absence of freeways, most big cities shaped up along the rivers, including `Hastinapur` — the capital city of `Shantanu`. In addition to pure water, the river system served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but up-stream traffic was still a mystery. Many times they used elephants to move the cargo up-stream but in deeper stretches it was hard. Nevertheless, the elephants and their owners were important part of lumber and grain movement.
+In the absence of freeways, most big cities shaped up along the rivers, including `Hastinapur` — the capital city of `Shantanu`. In addition to pure water, the river system served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but upstream traffic was still a mystery. Many times they used elephants to move the cargo upstream but in deeper stretches it was hard. Nevertheless, the elephants and their owners were important part of lumber and grain movement.
 
 And there was another problem. Rampant floods made living near the rivers a major risk. There was a need to make sure water stayed in the rivers. While there were many rituals designed to appease the gods of rains, people were figuring out means to deepen the rivers, particularly in stretches where the depth was shallow and thus rivers used to spread in miles. Though most of their efforts lacked the top down planning and also innovation of tools. No one had made it a mission of their lives.
 
-As the king circled right of the middle age, he got interested in music, religion and philosophy. Expansion of his kingdom dropped off the priority. He wanted his people safe, well-fed and well taken care.  Luckily, his son, `Devvrata` was even more prudent in managing the vast province. In addition to being a warrior par excellence, his primary skill was his deep understanding of the water ways. He developed the signalling system with pigeon points [^pigeon] located along the river banks — to serve as early warning system for the floods. He had his large teams of soldiers and craftsmen build the wooden bridges, transport jetties, docks, dams and water locks. 
+As the king circled right of the middle age, he got interested in music, religion and philosophy. Expansion of his kingdom dropped off the priority. He wanted his people safe, well-fed and well taken care.  Luckily, his son, `Devvrata` was even more prudent in managing the vast province. In addition to being a warrior par excellence, he brought primal understanding of the water ways. He developed the signalling system with pigeon points located along the river banks — to serve as early warning system for the floods. He had his large teams of soldiers and craftsmen build the wooden bridges, transport jetties, docks, dams and water locks. 
 
-This deep knowledge of the rivers made him popular. People started calling him `Ganga-putra` — the son of Ganges! The ancient `Vaidik` system was a matriarchy where able offspring bore the name of their mothers instead of fathers though in this case it was quite appropriate. His work brought prosperity and security to the kingdom never seen before. People said that the skills that `Devvrata` had, were natural to him because he was son of `Ganga` (Hindi name for the river Ganges). That was true because name of his 'human' mother was `Ganga` too; though the hyperbole is `Ganga` (the mother) was a true incarnation of the river itself - literally. Even the scripture noted that river `Ganges` manifested into a beautiful woman called `Ganga` to bear `Devvrata`. 
+This deep knowledge of the rivers made him popular. People started calling him `Ganga-putra` — the son of Ganges! The ancient `Vaidik` system was a matriarchy where able offspring bore the name of their mothers though in this case it was quite appropriate. His work brought prosperity and security to the kingdom never seen before. People said that the skills that `Devvrata` had, were natural to him because he was son of `Ganga` (Hindi name for the river Ganges). That was true because name of his 'human' mother was `Ganga` too; though the hyperbole is `Ganga` (the mother) was a true incarnation of the river itself - literally. 
+
+Even the scripture noted that river `Ganges` manifested into a beautiful woman called `Ganga` to bear `Devvrata` and seven other `Vasus` - the elemental deities. In `Mahabharata`, `Vasus` are considered as eight identities of the manifestation ..
+
+| Vasu      | Meaning    |
+|:--------- |:---------- |
+| Dhara     | Earth      |
+| Aapa      | Water      |
+| Anala     | Fire       |
+| Anila     | Wind       |
+| Pratyusha | Sun        |
+| Prabhasa  | Sky        |
+| Dhruva    | North Star |
+
+> It was believed that the `Vasus`, long before `Kalmashpada`, wanted to steal `Kaamdhenu` - the knowledge of `Vasishtha's` congregation and were thus cursed to be born as humans.
+
+
 
 # 11.1
 ---
@@ -290,8 +309,3 @@ Good times go fast. `Ganga` had to move South East, towards the point where `Yam
 ## Research and notes:
 
 [^fib]: The Fibonacci numbers were first described in Indian mathematics, as early as 200 BC in work by `Pingala` on enumerating possible patterns of Sanskrit poetry formed from syllables of two lengths. They are named after the Italian mathematician Leonardo of Pisa, also known as Fibonacci, who introduced the sequence to Western European mathematics in his 1202 book `Liber Abaci`.
-
----
-
-[^pigeon]: A wooden high tower , tall enough to see at least a mile upstream in the river. The tower also served as the collection and dispatch point for the pigeons.
-

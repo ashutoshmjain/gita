@@ -10,11 +10,11 @@ The topic was obviously - what would `Matsya` see and what sort of plans she had
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
-Fairy responded "yes" with a smile - and can you send us the link to the next session. Can't wait to find what was `Matsya's` mission.
+Fairy responded "yes" with a smile - and please send us the link to the next session. Can't wait to find what was `Matsya's` mission.
 
 If we had the link, we must have watched the next episode last night itself - laughed the Friend pouring over black coffee in three mugs
 
-Hmm - we don't have the next episode up yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. He waited for a bit looking for a facial response - and I know only half the story - the skeleton without context - the "Wikipedia" stuff!
+Hmm - we don't have the next episode up yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. He waited for a bit looking for a facial response - and I know only half the story - the "Wikipedia" stuff!
 
 That is such a bummer - complained the Friend. There must be a way to get hold of the complete narrative - with story as it happened, and the context. 
 
@@ -24,7 +24,9 @@ Can we Zoom in with him ? - asked the Friend.
 
 Unfortunately no! - In Summer, he lives off the grid. It is only 20 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - said the Angel and waited for their response.
 
-I wish I could join you guys; but I am gone for a week - he continued - not hiding at all that he hated his work! How could he tell others that he was the lead on "engineered bees" - planted in deep forests. They took care to plant them in deep forests where no man had ever gone in last ten years - zero human footprint, as they say in the language of "Intelligent GPS surveillance", yet the project was a hush hush. The effort was to resolve the growing demand of honey as humans stopped consuming cane sugars. The new bees did make 5x honey but they turned 10x poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself even more to protect it. If the woke media got a hint, his career was on the line, but he was more scared of the hate he was sure to get from his own circle - The "Fairy", in particular. 
+I wish I could join you guys; but I am gone for a week - he continued - not hiding at all that he hated his work! The worst part was he couldn't tell it to Fairy - much less her friend.
+
+How could he tell others that he was the lead on "engineered bees". They took care to hive them in deep forests where no man had ever gone -  at least in last ten years - zero human footprint, as they say in the IGS [^igs] community, yet the project was turned hush hush. The big idea, with all the pomp,  was to resolve the growing demand of honey for humans stopped consuming cane sugars. The new bees did make 5x honey but they turned 10x poisonous - a consequence that was never considered in the design. The nature demanded - if you have more, you must equip yourself even more to protect it. If the woke media got a hint, his career was on the line, but he was more worrisome of the hate he was sure to get from his own circle - The "Fairy", in particular. 
 
 To his good luck, the last episode (with the bees) didn't get much attention even though Fairy, unaware of the situation, posted about it. How could he save the man? The rescue attempt, he was sure, had the Fairy killed at a single sting. She didn't have the patched genes active - a protection against the poison. Even though he knew, a technology that killed a single human, was programmed to be wiped off (that was the bargain that "Intelligence" secured with a promise to a practically free life for all the humans) - pursue till "one human death" - yet he let a human die just to save the Fairy. 
 
@@ -308,4 +310,11 @@ Good times go fast. `Ganga` had to move South East, towards the point where `Yam
 
 ## Research and notes:
 
+[^igs]: Intelligent GPS systems were - IGS were set up in late 90s , inspired by the Hollywood movie "Minority Report". Early break through in Google Maps led to the idea if GPS based AI models could predict the near future location of a crime or an accident. The public face of the effort was "Traffic Prediction". Not that the technology was still early alpha, soon they realized that predicting the present (the next action) was almost impossible. The project was abandoned in 2020. Google did share the map history of everyone. They acknowledged that they did keep track of everyone's geographical location but for most it was not a bad thing. They thought it was an additional free service Google is providing. Even those with inner knowledge of the project, didn't see any issue in this. The project data was archived and it found it's use in obscure things such as "Zero Footprint locations" - pockets of land where humans have never gone. Such locations need not be things like North or South poles. These locations may exist in your backyard. 
+
+---
+
 [^fib]: The Fibonacci numbers were first described in Indian mathematics, as early as 200 BC in work by `Pingala` on enumerating possible patterns of Sanskrit poetry formed from syllables of two lengths. They are named after the Italian mathematician Leonardo of Pisa, also known as Fibonacci, who introduced the sequence to Western European mathematics in his 1202 book `Liber Abaci`.
+
+----
+

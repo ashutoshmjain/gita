@@ -11,7 +11,7 @@
   - [Proposal](./mathuraChap08.md)
   - [Birth](./mathuraChap09.md)
   - [Identity](./mathuraChap10.md)
-  - [Rivers](./mathuraChap11.md)
+  - [Eight-fold](./mathuraChap11.md)
   - [Desire](./mathuraChap12.md)
   - [Meeting](./mathuraChap13.md)
   - [Truth](./mathuraChap14.md)

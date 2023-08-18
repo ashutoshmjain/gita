@@ -1,7 +1,15 @@
 # changeLog [^history]
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
+ 
+## August 17, 23 
 
+- [Mathura](./mathuraLanding.md)  - Painted white on Ganesha pic with yellow background showing up in the background.
+  - [Proposal](./mathuraChap08.md) - minor edit
+  - [Birth](./mathuraChap09.md) - minor edit
+  - [Identity](./mathuraChap10.md) - minor edits.
+  - [Eight-fold](./mathuraChap11.md) - Almost rewrote the chapter to bring in a parallel narrative that is taking place in near future. The challanges were pretty similar to the times of `Krishna` and `Arjuna` ..
+ 
 ## July 28, 23
 
 - [Mathura](./mathuraLanding.md) 

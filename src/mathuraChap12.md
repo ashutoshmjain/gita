@@ -1,8 +1,39 @@
+A week flew by and the Friend didn't get  any creative inspiration. She did research on Prime Numbers aka watched many Youtube videos. And then Youtube started feeding her with more and more on Prime numbers. How can the algorithms be so dumb - she thought - not even basic decency to hide raw intent - desire to get a click and make you spend more time watching the screen! A pressure was building in her to get going with the scene but something was amiss that she couldn't verbalize to herself. It became clear when she met her boyfriend. 
+
+Whats up ? - he asked - you seem to be lost - said the Boyfriend - they were early to their regular club. Their usual weekend meet up with Fairy and Angel.
+
+Well ! - Apparently I signed up for doing this small historical narrative but somehow, I am not getting the hook. Where should I start. And she passed on the printed story to the Boyfriend. 
+
+Huh  - seems like someone trying to glorify a river - not bad - you can get some good visuals of the rapids and mountains on "Unity". In fact, you can simply ask "Unreal AI" to render this scene for you.  - said the Boyfriend.
+
+That is least of my problem. I can figure out the tool set - she looked at the Boyfriend as if he was preaching to the choir - the reason we went to see this guy in Lake Tahoe was to understand what happened to `Matsya` and he gave us a good download on `Ganga`. Suddenly she realized what was missing !
+
+Who is `Matsya` anyways - The Boyfriend played along. 
+
+Umm - that is a long story - are you on Fairy's social relay? - and she felt a pat on her shoulder. She saw Fairy as she turned around - think of the devil - she smiled at her - where is your Mister Angel!
+
+He should be here any minute. He said he would fly in direct from work - said Fairy - remember he was gone for a week - Did you guys order anything - I got to eat just one berry all day long !
+
+They were in the middle of ordering food and drinks when Angel joined in - a pan pizza for me and 16 oz of hazy IPA.
+
+How was your meet up with Mentor? - he asked sitting down. 
+
+First of all I was not told that I was signing up for a job - she looked at the Fairy while responding to Angel - and second, the Mentor gave us something that we were not even looking for. 
+
+Oh ya - added Fairy - I was like what happened to `Matsya`!
+
+The Boyfriend passed on the printed sheet to the Angel - can someone bring me to speed whats going on! - His voice lost in the growing chatter with in the joint.
+
+
+
+----
+
 `Shantanu` was left alone. More he tried to stop `Ganga` more quickly she wanted to leave. She pointed to the king that he can't stop the flow of water, and time. But the life did stop pulsing for `Shantanu`. He lost faith in reality. If he, despite being a king, couldn't retain his love, what was the point of all the wealth and the armies. At times, he wanted to renounce the world but `Dev` was too young to handle the politics. He didn't want his son to pay the price of his messed up love life. He heard people talk that the king had to pay the price of unorthodox marriage. They said it was the result of not following the laid down rituals. A king's wedding should have happened as per the protocol. The politics with in his circles got trickier as many big houses wanted their girls wedded into the monarchy. They had many lobbyists, trying to pursue in merits of never keeping the crown without a queen. Saying a ‘no’, to a proposal, was always a ‘lose-lose’ situation. But no one felt like `Ganga`. And nothing clicked like she did. 
 
 He tried to get out of grief in hunting and drinking but nothing worked. The only thing that made him lose himself was the work. Work turned into passion for him. He didn't understand that it was the `Karm Yoga` that was pulling him out of separation anxiety, and plugging him back to the real world, but he could feel the presence of something magical. More he focused on work, more interesting it became. People slowly forgot his marriage debacle and they started appreciating the tireless efforts he put in getting the complex balance of power into absolute equilibrium. First he handled the problem of `Asuras` — drove them out of his land, into their own dedicated kingdom. All without using a single arrow — through endless negotiations and diplomacy. Many `Asura` leaders' deaths were attributed to the king but he knew the truth. He never authorised any assassination. 
 
 Next, he took the works started by `Ganga` to fruition. Every city and village was connected through bridges. A vast irrigation system was set up. `Dev` led all these developmental efforts. And lastly, he made sure no one in his kingdom slept hungry, without a roof or without proper clothes. The three basics were the responsibility of the state. As the prince turned into a flawless statesman, the king, finally thought taking time off for himself. He wanted to spend more time visiting regions around `Yamuna`, for he thought he spent more time on `Ganges`. And he wanted to meet grass root people — to understand their lives — live like them — face the pleasures and pains of life like a commoner.
+
 
 Having made sure that the kingdom was on auto-pilot, and `Dev` was fully plugged in, `Shantanu` handed over the reins to the prince and took on this long journey to the farthest reaches of his state. Part of his motivation was to see if `Dev` could run the kingdom in his absence. And the other part was obviously to let go the responsibilities and live his own life for whatever was left of it after `Ganga`. As part of his journey, he paid visits to many `Ashramas` and `Gurukuls` to earn good will as well to find the deeper meaning of life and it's purpose.
 

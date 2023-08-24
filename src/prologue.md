@@ -3,11 +3,11 @@ In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantia
 Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This shift, among many other things, included ..
 - improvements in the language model (e.g. punctuation) to support scribing.
 - extension of calligraphic symbols to capture the true essence of spoken sounds.
-- organizing a self sustaining pay back model around scribing; 
 - development of writing tools such as palm leaves, ink, and pen. 
-- and patience to write (and read) long meaningful text.
+- triggering a self sustaining (and censor resistant) pay back model around scribing; 
+- and the patience to write (and read) long meaningful text.
 
-But more importantly, finding a purpose to write -  a narrative that would span ages without losing it's luster and relevance. The idea of "transcription"  was to `Mahabharata`, the way a "keyboard & display" is to a  computer - purpose built. [^c]
+But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. The idea of "transcription on palm leaves" [^transcription] was to `Mahabharata`, the way a "keyboard & display" was to IBSYS - purpose built. [^c]
 
 
 The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
@@ -165,10 +165,19 @@ Let me rewind you to around seven-ish thousands years back. It is about the time
 ## Research and notes:
 ----
 
+[^transcription]: Transcription on palm leaves ..
+- Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.
+- One of the earliest known instances of palm leaf manuscripts comes from ancient India and Southeast Asia, where they were used for religious texts, literature, and other writings. These manuscripts are known as "Palm-leaf Manuscripts" or "Palm-leaf Books."
+- The use of palm leaves for writing is associated with the traditional writing system known as `"Tāḻam-Paṭṭu"` or `"Tala Patra"` in Sanskrit. This system involved inscribing characters onto dried palm leaves using sharp tools. Palm leaf manuscripts were often bound together into books or scrolls.
+- One of the oldest known dated Sanskrit manuscripts is shown below, this specimen transmits a substantial portion of the `Pārameśvaratantra`, a scripture of the `Śaiva Siddhānta`, one of the `Tantric` theological schools that taught the worship of `Śiva` as "Supreme Lord" (the literal meaning of `Parameśvara`). No other complete manuscript of this work is known. A note in the manuscript states that it was copied in the year 252, which some scholars judge to be of the era established by the Nepalese king `Aṃśuvarman` (also known as `Mānadeva`), therefore corresponding to 828 CE. [Ref - Cambridge Digital Library](https://artsandculture.google.com/asset/p%C4%81rame%C5%9Bvaratantra-ms-add-1049-1/kQErGkONgxbJrg?childassetid=UwHEHymvp48xmg)
+
+![oldest palm manuscript](./oldestPalm.jpg)
+
+---
+
 [^c]: Purpose Built ..
-- When "knowledge" around a specific area of expertise, becomes intensely granular, it manifests into physical objects. For example the computer, morphed from large mainframes to it's current shape because the operating systems became more and more granular.
-- The rigor of operating systems such as "Unix" not only mandated a large number of new peripheral, it also led to formation of a high level programming languages starting with "C". 
-- In essence the rigor of `Mahabharata` in spoken form, led to creation of scribing tools and also immense advancements in scribing technology.
+- IBSYS, released around 1960, was one of the early operating systems that provided support for a keyboard and display system, allowing users to interact with the computer through a keyboard and view output on a display screen. While these early keyboard and display systems might not resemble the ones we are familiar with today, they laid the foundation for modern computer interfaces.
+- IBSYS was designed for the IBM 7090 and 7094 mainframe computers, which had limited memory and processing power by today's standards. The operating systems of that era were written in assembly language, which is relatively low-level and compact compared to modern high-level programming languages.
 ---
 
 [^8th]: `Poorna-avtaara` - The eighth incarnation

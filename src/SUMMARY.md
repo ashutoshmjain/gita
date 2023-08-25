@@ -14,7 +14,7 @@
       - [Birth](./mathuraChap09.md)
       - [Identity](./mathuraChap10.md)
       - [Eight-fold](./mathuraChap11.md)
-      - [Desire](./mathuraChap12.md)
+      - [Currency](./mathuraChap12.md)
       - [Meeting](./mathuraChap13.md)
       - [Truth](./mathuraChap14.md)
       - [Fate](./mathuraChap15.md)

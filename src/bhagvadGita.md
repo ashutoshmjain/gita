@@ -955,13 +955,11 @@ Do thou again, O Janardana, copiously declare thy mystic powers and (thy) perfec
 satiated with hearing thy nectar-like words."
 
 #### "The Holy One said,--
-
 'Well, unto thee I will declare my divine perfections, by means of the principal ones (among them), O chief of the Kurus, for there is no end to the extent of my (perfections).[236] [10.7]
 
 I am the soul, O thou of curly hair, seated in the heart of every being, I am the beginning, and the middle, and the end also of all beings. I am Vishnu among the Adityas, the resplendent Sun among all luminous bodies; I am Marichi among the Maruts, and the Moon among constellations.[237] [10.8]
 
 I am the Sama Veda among the Vedas; I am Vasava among the gods; I am the mind among the senses; I am the intellect in (living) beings. I am Sankara among the Rudras, the Lord of treasures among the Yakshas and the Rakshasas; I am Pavaka among the Vasus, and Meru among the peaked (mountains). [238] [10.9]
-
 
 Know me, O son of Pritha, to be Vrihaspati, the chief of household priests. I am Skanda among commanders of forces. I am Ocean among receptacles of water. I am Bhrigu among the great Rishis, I am the One, undestructible (syllable Om) among words. Of sacrifices I am the Japa-sacrifice.[239] [10.10]
 

@@ -99,11 +99,11 @@ On his way out, the king asked `Maharishi` the plan for meeting up at the island
 
 What exactly is `Karm Yoga` - king had never heard of this term before. 
 
-`Maharishi` thought it wouldn't be justice to the king, or to the concept itself, to explain it as an 'out of the door' discussion. But this was probably the only window he would ever get to rope a seed in king's brain - `Mahaaraj` in nutshell, `Karm Yoga` is doing exactly what the physical situation demands of us. Important aspect is to do it with without desires of favorable outcomes. Desires - he though for a second - because desires either force us to do something different, or they make us action-less.
+`Maharishi` thought it wouldn't be justice to the king, or to the concept itself, to explain it as an 'out of the door' discussion. But this was probably the only window he would ever get to rope a seed in king's brain - `Mahaaraj` in nutshell, `Karm Yoga` is doing exactly what the physical situation demands of us. Important aspect is to do it with without desires of favorable outcomes. Desires - he though for a second - because desires either force us to do something different, or they make us action-less. The literal meaning of "desire" is that you are not happy in your current situation and you want to make a change to it - you want to change the world. A `Karmyogi` is always happy in the current situation. He works not to change the situation but as directed by the situation.
 
 King was impressed with the simplicity of idea. He also realized getting rid of desires was an uphill task. He asked — `Maharishi` is there any scripture that I could refer to. Have you written down your thoughts?
 
-`Maharishi` responded with a smile — `Maharaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` in the most difficult of circumstances. Before we write something down, we need a public figure to act righteously — his or her entire life. We are waiting for such a leader!
+`Maharishi` responded with a smile — `Maharaaj`, this scripture is yet to be written for the scripture of this sort only elucidate the actions of `Karm Yogi` - in difficult circumstances. Before we write something down, we need a public figure to act righteously — an entire life. We are waiting for such a leader!
 
 King was a bit intrigued with a blunt answer — most other scriptures are written by sages without a specific example. Why this one needs to follow a true story?
 

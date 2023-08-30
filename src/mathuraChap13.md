@@ -1,3 +1,34 @@
+The Fairy got many hooks. There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verse `Yamuna` and that of love at the first sight. There were two other threads that she could use to place the narrative at a socio moral pulpit - the public good and the innovation of currency. What would you do - she asked the Boyfriend.
+
+I think we need to listen to the entire narrative before we get down to cut a visual presentation - said the Boyfriend. 
+
+But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - said the Friend - something in me is telling me this is story needs to  be told.
+
+Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good hook up for you to ask for the tips as well - showing the viewers your own basket for tips - for supporting the narrative - he smiled - after all creatives need to make both ends meat. In fact one thing that came out of the story is from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the singing and fragrance was an add on. Art flourishes when it is mixed with some thing real.
+
+That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
+
+Well you need to start somewhere - Rome wasn't built in a day ! - he smiled.
+
+
+---
+
+The Mentor welcomed them on the Friday evening. Fairy had flown in with Mentor - and Friend with her Boyfriend. They arrived a bit early.
+
+Friend introduced her Boyfriend to Mentor - he is my boyfriend and partner - well payments partner - she smiled.
+
+Huh - smiled the Mentor - are you a Bitcoin Maximalist or you have your own token!
+
+The Boyfriend smiled shaking his hand - I am more like a Lightning plumber and I got really interested reading that `Dev` introduced the wooden currency. Wanted to check if there was a credible reference for such a big claim! Because that would be a pretty big deal.
+
+The Mentor smiled back him - Do you know who was Satoshi ? Do we really want to know or he is better unknown!
+
+The Boyfriend was about to speak something when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy as an icebreaker while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there for it was as per the plan - Sorry for being little late - he said.
+
+
+
+
+
 `Maharishi` and his direct students (a council of `Acharays` - teachers)  were getting ready for the morning meal when king arrived at the `Ashrama`. King noticed there was no boundary wall or a main gate. Anyone - humans or animals, could simply walk in. Since he was dressed like a farmer, `Maharishi` assumed he must have been bothered by some `Asura` lord. `Maharishi` asked him to join them for food before they sat down to talk. King was thoroughly impressed with the careful respect `Maharishi` graced to a commoner. 
 
 The food was simple — a pudding made of rice and milk, and seasonal fruits. `Maharishi` and all his students ate full meal only once a day, before the sunset. In summer afternoons they drank buttermilk (leftovers after taking butter out of yogurt) with a pinch of Himalayan salt. In winter, they drank a hot drink made with milk and herbs from `Assam` — a place far far East. Sometimes they added raw sugarcane syrup (`Gud`) to this hot drink, later named "tea" (by Brits). During lunch, they chatted about the latest happenings in and around `Ashrama`. `Maharishi` always heard everything with keen interest but rarely spoke. The chats were always light. No discussion about scriptures or serious matters of governance of `Ashrama`.

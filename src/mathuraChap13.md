@@ -1,14 +1,20 @@
-The Fairy got many hooks. There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verse `Yamuna` and that of love at the first sight. There were two other threads that she could use to place the narrative at a socio moral pulpit - the public good and the innovation of currency. What would you do - she asked the Boyfriend.
+The Friend got many hooks. There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the love at the first sight. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the public good and the innovation of currency. But she was keen on the idea that everyone gets a chance to see their reality from two opposite angles. What would you do? - she asked the Boyfriend.
 
 I think we need to listen to the entire narrative before we get down to cut a visual presentation - said the Boyfriend. 
 
-But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - said the Friend - something in me is telling me this is story needs to  be told.
+But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - said the Friend - something in me feels like this story needs to be told in a different way.
 
-Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good hook up for you to ask for the tips as well - showing the viewers your own basket for tips - for supporting the narrative - he smiled - after all creatives need to make both ends meat. In fact one thing that came out of the story is from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the singing and fragrance was an add on. Art flourishes when it is mixed with some thing real.
+Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the hull - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the narrative. 
+
+The Friend laughed out loud - you are a pucca payments man! All you care about is getting as many zaps as you can.
+
+Well - he replied - after all creatives too need to make both ends meat. In fact one thing that came out of the story is from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Art flourishes when it is mixed with some thing real.
 
 That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
 
-Well you need to start somewhere - Rome wasn't built in a day ! - he smiled.
+Well you need to start somewhere - Rome wasn't built in a day ! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers come out with the best possible narrative. They should not hold anything back.
+
+That is a good point - said the friend - time to smell the coffee and get to work - she smiled.
 
 
 ---
@@ -17,17 +23,35 @@ The Mentor welcomed them on the Friday evening. Fairy had flown in with Mentor -
 
 Friend introduced her Boyfriend to Mentor - he is my boyfriend and partner - well payments partner - she smiled.
 
-Huh - smiled the Mentor - are you a Bitcoin Maximalist or you have your own token!
+I see - smiled the Mentor - are you a Bitcoiner or you have your own token!
 
-The Boyfriend smiled shaking his hand - I am more like a Lightning plumber and I got really interested reading that `Dev` introduced the wooden currency. Wanted to check if there was a credible reference for such a big claim! Because that would be a pretty big deal.
+The Boyfriend smiled shaking his hand - I am more like a Lightning plumber and I got really interested reading that `Dev` introduced the wooden currency. Wanted to check if there was a credible reference for such a big claim! That would be a pretty big deal!
 
-The Mentor smiled back him - Do you know who was Satoshi ? Do we really want to know or he is better unknown!
+The Mentor smiled back at him - I would first find out who was Satoshi!  Or certain things are best left to the realm of unknown for they serve a greater purpose in "mystery"
 
-The Boyfriend was about to speak something when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy as an icebreaker while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there for it was as per the plan - Sorry for being little late - he said.
+The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy as an icebreaker while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there for it was as per the plan - Sorry for being little late - he said.
 
+Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one!
 
+The Mentor smiled - thanks I would sure need one but before than I need a beer - who else ? - He looked at everyone's "yes" as he walked to the refrigerator in the living room. 
 
+----
 
+The scene was beyond anyone's expectations. The realism, the attention to details. 
+
+Looks like you have spent all your creative energy in one shot - said the Fairy as she took off her headset after multiple replays of hardly three minutes experience! 
+
+Now I know why Angel said you are the best - said the Mentor as he struggled to get his beer bottle to his mouth while still wearing the headset!
+
+The Friend was about to respond when she got a notification on her phone - what ! - she exclaimed - some one zapped a million Sats in my wallet - And then she looked at the Mentor.
+
+I can't accept a full Bitcoin for a three minute clip - she said - I do full narratives for a tenth of that money.
+
+The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times the work anything you did before! - I have the next piece ready for you .. And I want to keep the "Payments man" happy - He looked at the Boyfriend who couldn't believe someone tipped a million. 
+
+Angel was happy for everyone was plugged into the story! And Fairy was keen to read the next piece.
+
+# `Karma Yoga`
 
 `Maharishi` and his direct students (a council of `Acharays` - teachers)  were getting ready for the morning meal when king arrived at the `Ashrama`. King noticed there was no boundary wall or a main gate. Anyone - humans or animals, could simply walk in. Since he was dressed like a farmer, `Maharishi` assumed he must have been bothered by some `Asura` lord. `Maharishi` asked him to join them for food before they sat down to talk. King was thoroughly impressed with the careful respect `Maharishi` graced to a commoner. 
 

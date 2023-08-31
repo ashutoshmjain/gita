@@ -1,45 +1,45 @@
-The Friend got many hooks. There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the prime numbers. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the idea of public good by an ancient king, and more specifically the innovation of currency. But she was keen on the idea that everyone gets a chance to see their reality from two opposite angles and the contrast that `Matsya` and `Shantanu` had in their lives. 
+There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the prime numbers. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the idea of public good by an ancient king, and more specifically the innovation of currency. But she was keen on something else -  that everyone gets a chance to see their reality from two opposite angles and the contrast that `Matsya` and `Shantanu` had in their lives. But how do you show such a thing. Visual canvass is very limited - she thought - text can do lot more than the graphics in abstract aspects or she was hitting her own creative limits.
 
 What would you do? - she asked the Boyfriend.
 
 I think we need to listen to the entire narrative before we get down to cut a visual presentation - said the Boyfriend. 
 
-But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - said the Friend - something in me feels like this story needs to be told - in a different way.
+But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - she said - something in me feels this story needs to be told - in a different way.
 
-Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the hull - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the narrative. 
+Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the hull - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the artist. 
 
 The Friend laughed out loud - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
 
-Well - he replied - after all creatives too need to make both ends meat. In fact one thing that came out of the story is - from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Art flourishes when it is mixed with some thing real.
+Well - he replied - after all artists too need to feed their pets. In fact one thing that came out loud of the story is - from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Art flourishes when it is mixed with something tangible.
 
 That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
 
-Well you need to start somewhere - Rome wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers come out with the best possible narrative. They should not hold anything back.
+Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers open up. They should not hold anything back.
 
 That is a good point - said the friend - time to smell the coffee ... and get to work - she smiled.
 
 
 ---
 
-The Mentor welcomed them on the Friday evening. Fairy had flown in with Mentor. And Friend with her Boyfriend -  they arrived a bit early.
+The Mentor welcomed them on the Friday evening. Fairy had flown in with Angel. And Friend with her Boyfriend -  they arrived a bit early.
 
 Friend did the intros - he is my boyfriend and partner - well payments partner - she smiled.
 
 I see - smiled the Mentor - are you a Bitcoiner or you have your own token!
 
-The Boyfriend smiled shaking his hand - I am more like a "Lightning" plumber and I got really interested reading that `Dev` was the first to introduce the wooden currency. It made perfect sense with carriage of water being the proof of work .. but! - he stopped - probably thought the introduction is not the time to ask questions.
+The Boyfriend smiled shaking his hand - I am more like a "Lightning" plumber and I got really interested reading that `Dev` was the first to introduce the wooden currency. It made perfect sense with Ganges water being proof of work .. but! - he stopped - probably thought the introduction is not the time to ask loaded questions.
 
-But ? - asked the Mentor - he was still smiling.
+But ? - insisted the Mentor - he was still smiling as if he expected this question!
 
-Wanted to check if there was a credible reference for such a big claim! That would be a pretty big deal! - said the Boyfriend - he didn't want to meddle with a client directly but he was put on spot by his own curiosity.
+I wanted to check if there was a credible reference for such a claim! That would be a pretty big deal! - said the Boyfriend - he didn't want to meddle with a client directly but he was put on spot by his own curiosity.
 
-The Mentor smiled back at him - I would first find out who was Satoshi!  Last I heard his Bitcoin paper was sent to us mortals from future! Others claim it was an alien thing leaked by their rebels - he continued smiling - Or certain things are best left to the realm of unknown for they serve a greater purpose in the "mystery"
+The Mentor smiled back at him - I would first find out who was Satoshi!  Last I heard his Bitcoin paper was sent to us mortals from the future! Others claim it was an alien thing leaked by their rebels - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in "mystery"
 
 The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy as an icebreaker while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there for it was as per the plan - Sorry for being little late - he said.
 
 Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one!
 
-The Mentor smiled - thanks I would sure need one but before than I need a beer - who else ? - He looked at everyone's "yes" as he walked to the refrigerator in the living room. 
+The Mentor smiled - thanks I would sure need one but before that I need a beer - who else ? - He looked at everyone's "yes" as he walked to the refrigerator in the kitchenette. 
 
 ----
 
@@ -53,9 +53,16 @@ The Friend was about to respond when she got a notification on her phone - what 
 
 I can't accept a full Bitcoin for a three minute clip - she said - I do full narratives for a tenth of that money.
 
-The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times the work anything you did before! - I have the next piece ready for you .. And I want to keep the "Payments man" happy - He looked at the Boyfriend who couldn't believe someone tipped a million. 
+The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times of any work you did before! - I already have the next piece ready for you .. And I want to keep the "Payments man" happy - He looked at the Boyfriend who couldn't believe someone tipped a million - you had something on your mind!
 
-Angel was happy for everyone was plugged into the story! And Fairy was keen to read the next piece.
+It felt like a religious text without the evidence and references - the Boyfriend said - not that religion is bad you know ! - He was probably not able to crystallize the question.
+
+You might get some answers in the next piece but we need to understand that religion, nations or corporations are just a way to organize a community - Mentor said - at the core of all these is community work. In religion, we are expected to put in work before the purpose is exposed to us, in other forms of community, we fix the purpose first and then put in efforts. As long as the work is being done, the questions and purpose keep evolving with stage and time. 
+
+He paused a bit to make sure everyone was listening -  If an organization or even an individual fails to "work", they soon perish. What we must focus on is the community work that an organization accomplishes rather than the ideals and assumptions they appear to be built on. Even profit motivation is a secondary goal because one may profit only if one survives. In `Hindu` way of thinking, this intense focus of collective actions - complimentary work streams is what is known as `Karm Yoga`. Once we associate ourselves with `Karma`, the myths and their authenticity kinda take a secondary seat. Even the completion of work is unimportant. What matters to a `Karmyogi` is indulging in actions - it doesn't matter if it was agriculture or science.
+
+Angel was happy for everyone was plugged into the story! And Fairy was keen on reading the next piece.
+
 
 # `Karma Yoga`
 

@@ -1,33 +1,39 @@
-The Friend got many hooks. There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the love at the first sight. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the public good and the innovation of currency. But she was keen on the idea that everyone gets a chance to see their reality from two opposite angles. What would you do? - she asked the Boyfriend.
+The Friend got many hooks. There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the prime numbers. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the idea of public good by an ancient king, and more specifically the innovation of currency. But she was keen on the idea that everyone gets a chance to see their reality from two opposite angles and the contrast that `Matsya` and `Shantanu` had in their lives. 
+
+What would you do? - she asked the Boyfriend.
 
 I think we need to listen to the entire narrative before we get down to cut a visual presentation - said the Boyfriend. 
 
-But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - said the Friend - something in me feels like this story needs to be told in a different way.
+But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - said the Friend - something in me feels like this story needs to be told - in a different way.
 
 Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the hull - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the narrative. 
 
-The Friend laughed out loud - you are a pucca payments man! All you care about is getting as many zaps as you can.
+The Friend laughed out loud - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
 
-Well - he replied - after all creatives too need to make both ends meat. In fact one thing that came out of the story is from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Art flourishes when it is mixed with some thing real.
+Well - he replied - after all creatives too need to make both ends meat. In fact one thing that came out of the story is - from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Art flourishes when it is mixed with some thing real.
 
 That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
 
-Well you need to start somewhere - Rome wasn't built in a day ! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers come out with the best possible narrative. They should not hold anything back.
+Well you need to start somewhere - Rome wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers come out with the best possible narrative. They should not hold anything back.
 
-That is a good point - said the friend - time to smell the coffee and get to work - she smiled.
+That is a good point - said the friend - time to smell the coffee ... and get to work - she smiled.
 
 
 ---
 
-The Mentor welcomed them on the Friday evening. Fairy had flown in with Mentor - and Friend with her Boyfriend. They arrived a bit early.
+The Mentor welcomed them on the Friday evening. Fairy had flown in with Mentor. And Friend with her Boyfriend -  they arrived a bit early.
 
-Friend introduced her Boyfriend to Mentor - he is my boyfriend and partner - well payments partner - she smiled.
+Friend did the intros - he is my boyfriend and partner - well payments partner - she smiled.
 
 I see - smiled the Mentor - are you a Bitcoiner or you have your own token!
 
-The Boyfriend smiled shaking his hand - I am more like a Lightning plumber and I got really interested reading that `Dev` introduced the wooden currency. Wanted to check if there was a credible reference for such a big claim! That would be a pretty big deal!
+The Boyfriend smiled shaking his hand - I am more like a "Lightning" plumber and I got really interested reading that `Dev` was the first to introduce the wooden currency. It made perfect sense with carriage of water being the proof of work .. but! - he stopped - probably thought the introduction is not the time to ask questions.
 
-The Mentor smiled back at him - I would first find out who was Satoshi!  Or certain things are best left to the realm of unknown for they serve a greater purpose in "mystery"
+But ? - asked the Mentor - he was still smiling.
+
+Wanted to check if there was a credible reference for such a big claim! That would be a pretty big deal! - said the Boyfriend - he didn't want to meddle with a client directly but he was put on spot by his own curiosity.
+
+The Mentor smiled back at him - I would first find out who was Satoshi!  Last I heard his Bitcoin paper was sent to us mortals from future! Others claim it was an alien thing leaked by their rebels - he continued smiling - Or certain things are best left to the realm of unknown for they serve a greater purpose in the "mystery"
 
 The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy as an icebreaker while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there for it was as per the plan - Sorry for being little late - he said.
 

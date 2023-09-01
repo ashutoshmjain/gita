@@ -1,4 +1,4 @@
-There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the prime numbers. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the idea of public good by an ancient king, and more specifically the innovation of currency. But she was keen on something else -  that everyone gets a chance to see their reality from two opposite angles and the contrast that `Matsya` and `Shantanu` had in their lives. But how do you show such a thing. Visual canvass is very limited - she thought - text can do lot more than the graphics in abstract aspects or she was hitting her own creative limits.
+There were two popular threads that she could easily latch on to start the scene - that of `Ganga` verses `Yamuna`, and that of the prime numbers. There were two other anchor themes that she could use to place the narrative at a socio-moral pulpit - the idea of public good by an ancient king, and more specifically the innovation of currency. But she was keen on something else -  that everyone gets a chance to see their reality from two opposite angles and the contrast that `Matsya` and `Shantanu` had in their lives. But how do you show such a thing. Visual canvass is very limited - she thought - text could do lot more than the graphics; or was she hitting her own creative limits.
 
 What would you do? - she asked the Boyfriend.
 
@@ -10,7 +10,7 @@ Let's just create one scene - of the boat ride and `Shantanu` dropping all his g
 
 The Friend laughed out loud - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
 
-Well - he replied - after all artists too need to feed their pets. In fact one thing that came out loud of the story is - from the oldest times, the creative arts are living on donations but they must host themselves to a real world service - for example `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Art flourishes when it is mixed with something tangible.
+Well - he replied - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on donations - `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. 
 
 That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
 
@@ -27,15 +27,15 @@ Friend did the intros - he is my boyfriend and partner - well payments partner -
 
 I see - smiled the Mentor - are you a Bitcoiner or you have your own token!
 
-The Boyfriend smiled shaking his hand - I am more like a "Lightning" plumber and I got really interested reading that `Dev` was the first to introduce the wooden currency. It made perfect sense with Ganges water being proof of work .. but! - he stopped - probably thought the introduction is not the time to ask loaded questions.
+The Boyfriend smiled shaking his hand - I am more like a "Lightning" plumber and I got really interested when I noticed `Dev` was the first to introduce the wooden currency. It made perfect sense with Ganges water being proof of work .. but! - he stopped - probably thought the introduction is not the time to ask loaded questions.
 
 But ? - insisted the Mentor - he was still smiling as if he expected this question!
 
 I wanted to check if there was a credible reference for such a claim! That would be a pretty big deal! - said the Boyfriend - he didn't want to meddle with a client directly but he was put on spot by his own curiosity.
 
-The Mentor smiled back at him - I would first find out who was Satoshi!  Last I heard his Bitcoin paper was sent to us mortals from the future! Others claim it was an alien thing leaked by their rebels - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in "mystery"
+The Mentor smiled back at him - I would first find out who was `Satoshi`!  Last I heard his Bitcoin paper was sent to us mortals from the future! Others claim it was an alien thing leaked by their rebels - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in the "mystery"
 
-The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy as an icebreaker while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there for it was as per the plan - Sorry for being little late - he said.
+The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there - it was as per the plan - Sorry for being little late - he said.
 
 Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one!
 
@@ -43,23 +43,17 @@ The Mentor smiled - thanks I would sure need one but before that I need a beer -
 
 ----
 
-The scene was beyond anyone's expectations. The realism, the attention to details. 
+The scene was beyond anyone's expectations. The realism, the attention to details. It was as if everyone was teleported to five thousand BC.
 
-Looks like you have spent all your creative energy in one shot - said the Fairy as she took off her headset after multiple replays of hardly three minutes experience! 
+Looks like you have spent all your creative juices in one shot - said the Fairy as she took off her headset after multiple replays of hardly three minutes experience! 
 
-Now I know why Angel said you are the best - said the Mentor as he struggled to get his beer bottle to his mouth while still wearing the headset!
+Now I know why Angel said you are the best - said the Mentor as he struggled to get his beer bottle to his mouth -  still wearing the headset!
 
-The Friend was about to respond when she got a notification on her phone - what ! - she exclaimed - some one zapped a million Sats in my wallet - And then she looked at the Mentor.
+The Friend was about to respond when she got a notification on her phone - what ! - she exclaimed - some one zapped a million to my wallet - And then she looked at the Mentor.
 
 I can't accept a full Bitcoin for a three minute clip - she said - I do full narratives for a tenth of that money.
 
-The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times of any work you did before! - I already have the next piece ready for you .. And I want to keep the "Payments man" happy - He looked at the Boyfriend who couldn't believe someone tipped a million - you had something on your mind!
-
-It felt like a religious text without the evidence and references - the Boyfriend said - not that religion is bad you know ! - He was probably not able to crystallize the question.
-
-You might get some answers in the next piece but we need to understand that religion, nations or corporations are just a way to organize a community - Mentor said - at the core of all these is community work. In religion, we are expected to put in work before the purpose is exposed to us, in other forms of community, we fix the purpose first and then put in efforts. As long as the work is being done, the questions and purpose keep evolving with stage and time. 
-
-He paused a bit to make sure everyone was listening -  If an organization or even an individual fails to "work", they soon perish. What we must focus on is the community work that an organization accomplishes rather than the ideals and assumptions they appear to be built on. Even profit motivation is a secondary goal because one may profit only if one survives. In `Hindu` way of thinking, this intense focus of collective actions - complimentary work streams is what is known as `Karm Yoga`. Once we associate ourselves with `Karma`, the myths and their authenticity kinda take a secondary seat. Even the completion of work is unimportant. What matters to a `Karmyogi` is indulging in actions - it doesn't matter if it was agriculture or science.
+The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times of any work you did before! - I already have the next piece ready for you - he continued - and I want to keep the "Payments man" happy - He looked at the Boyfriend who couldn't believe someone tipped a million.
 
 Angel was happy for everyone was plugged into the story! And Fairy was keen on reading the next piece.
 
@@ -68,7 +62,7 @@ Angel was happy for everyone was plugged into the story! And Fairy was keen on r
 
 `Maharishi` and his direct students (a council of `Acharays` - teachers)  were getting ready for the morning meal when king arrived at the `Ashrama`. King noticed there was no boundary wall or a main gate. Anyone - humans or animals, could simply walk in. Since he was dressed like a farmer, `Maharishi` assumed he must have been bothered by some `Asura` lord. `Maharishi` asked him to join them for food before they sat down to talk. King was thoroughly impressed with the careful respect `Maharishi` graced to a commoner. 
 
-The food was simple — a pudding made of rice and milk, and seasonal fruits. `Maharishi` and all his students ate full meal only once a day, before the sunset. In summer afternoons they drank buttermilk (leftovers after taking butter out of yogurt) with a pinch of Himalayan salt. In winter, they drank a hot drink made with milk and herbs from `Assam` — a place far far East. Sometimes they added raw sugarcane syrup (`Gud`) to this hot drink, later named "tea" (by Brits). During lunch, they chatted about the latest happenings in and around `Ashrama`. `Maharishi` always heard everything with keen interest but rarely spoke. The chats were always light. No discussion about scriptures or serious matters of governance of `Ashrama`.
+The food was simple — a pudding made of rice and milk, and fresh mangoes. The summer in this part was terrible except that it also brought sweetest of Mangoes - the king of all fruits.  `Maharishi` and all his students ate full meal only once a day, before the sunset. In summer afternoons they drank buttermilk (leftovers after taking butter out of yogurt) with a pinch of Himalayan salt. In winter, they drank a hot drink made with milk and herbs from `Assam` — a place far far East. Sometimes they added raw sugarcane syrup (`Gud`) to this hot drink, later named "tea" (by Brits). During lunch, they chatted about the latest happenings in and around `Ashrama`. `Maharishi` always heard everything with keen interest but rarely spoke. The chats were always light. No discussion about scriptures or serious matters of governance of `Ashrama`.
 
 After lunch, `Maharishi` and the disguised king, walked around the `Ashrama` —  a daily routine `Maharishi` stuck to no matter rain or shine. Having woken up at 3 am — a tradition continued from the days of `Maharishi Vasishtha` , students were allowed to nap after morning meals,  before they started evening chores and classes. Few minutes into the walk, `Maharishi` asked the disguised king to tell his name and village, and the reason of his visit. `Shantanu` reached into his inner pocket and pulled out the king's stamp — a cast that only king or his authorized messengers could carry (on person) to identify themselves. With the stamp [^stamp] in hand, words of a messenger were the words of the king. 
 
@@ -87,9 +81,11 @@ King settled down with a smile. In a way he was relieved for he had heard storie
 
 King smiled at the intelligence of `Maharishi` for having saved `Vasudev` without any conflict or bloodshed. First he assured `Maharishi` that he and his congregation had nothing to fear. He offered  them to move on his side of `Yamuna` where they could stay without disturbance —  taxation would be least of their worries in `Kuru's` land. He almost laughed at the idea of taxing a congregation. What kind of a king would dare to entertain such a loathsome law, on a land that technically didn't even belong to him! In a way, it was like taxing the research and innovation - a sure shot way to stifle the growth in your land while handing over the opportunity to your enemies.
 
-Second, after a little pause, he said — we need to strengthen our presence this area so that `Kansa` may know there is a limit to his excesses. 
+Second, after a little pause, he said — we need to strengthen our presence in this area so that `Kansa` may know there is a limit to his excesses. 
 
-But what would you say the reason for deployments? I am sure people will ask and so will your own council — asked `Maharishi` while nodding his approval for the plan. `Shantanu` understood that `Maharishi` didn't want to turn the `Ashrama` into a war zone. And also, didn't want to put undue burden on the empire. He was well aware that any political help always comes with strings attached. Those strings may not be visible now but they would someday show up. He also knew that as a strategy, empires always look for means to fight on the foreign lands. He didn't want the island burnt in evil spirits of aggression and insurgence. The King immediately understood that `Maharishi` had a deep understanding of politics. He was already enjoying this discussion with `Maharishi`. He wished `Dev` had a chance to learn from the best thinker of the time for it was `Dev` who would soon be leading the vast nation. The role of a leader - he thought - was pivotal to success or failures of any organization.
+But what would you say the reason for deployments? I am sure people will ask and so will your own council — asked `Maharishi` while nodding his approval for the plan. `Shantanu` understood that `Maharishi` didn't want to turn the `Ashrama` into a war zone. 
+
+`Maharishi` was well aware that any political help always comes with strings attached. Those strings may not be visible now but they would someday show up. He also knew that as a strategy, empires always look for means to fight on the foreign lands. He didn't want the island burnt in evil spirits of aggression and insurgence. The King immediately understood that `Maharishi` had a deep understanding of politics. He was already enjoying this discussion with `Maharishi`. He wished `Dev` had a chance to learn from the best thinker of the time. 
 
 King thought for a while — there was actually no reason for him to move forces in this area. `Kansa` had made sure all his deeds were limited to the other side of `Yamuna`. Moving armies was neither easy nor cheap. Plus , once the army is moved , there must be a good reason to sustain them — say an active conflict, or a civil war or 'at the very least' an unrest! In fact, the deployment of forces cause unrest even in otherwise peaceful lands.
 
@@ -111,7 +107,9 @@ Having gone through the essentials, King added — `Maharishi` I have few other
 ## 13.2
 ----
 
-The king took his time. He wanted to make sure that he chose the right words though the ideas were still not fully framed in his mind. Finally, he said — `Maharishi`, I have been traveling across the kingdom and many times dressed like a local to blend with people. I find that people are generally happy but the for the bureaucracy they are lost into rituals -  and rituals have become a means to spend and celebrate. Even the poor citizens who can't afford rituals are forced into such acts because of social pressures. I like celebrations, but it is getting to a point where we are losing focus on the work. I guess I am finding diminishing work ethics, and this is leading to lessening prosperity. Citizens are not much ready to face a catastrophe as their previous generation were. No one seems to understand that we, as a race are not beyond calamities, and God only helps those who help themselves. I am not sure if it is with in the rights of a king to bring a sense of work responsibility back to the masses, or if this message was something that might be led by a `Maharishi` such as you.
+The king took his time. He wanted to make sure that he chose the right words though the ideas were still not fully framed in his mind. Finally, he said — `Maharishi`, I have been traveling across the kingdom and many times dressed like a local to blend with people. I find that people are generally happy but the bureaucracy is lost into the rituals -  and rituals have become a means to over spend and show-off. 
+
+He continued - Even the poor citizens who can't afford rituals are forced into such acts because of social pressures. I like celebrations, but it is getting to a point where we are losing focus on the work. I guess I am finding diminishing work ethics, and this is leading to lessening prosperity. Citizens are not much ready to face a catastrophe as their previous generation were. No one seems to understand that we, as a race are not beyond calamities, and God only helps those who help themselves. I am not sure if it is with in the rights of a king to bring a sense of work ethics back to the masses, or if this message was something that might be led by a `Maharishi` such as you.
 
 `Maharishi` thought for a while. He felt his worst nightmare was turning into truth. He always thought that the rituals had only symbolic value. He believed `Naad Yogies` must only convey the messages of sages, and not indulge in building their own communities. Communities were for the kings to build (and maintain) not for the `Yogies`. But then, he recalled his vow to never author a book himself. And he didn't want to spearhead a mass campaign without well crafted written down scripture to back it up. He brought his gaze back to the king — `Maharaaj` (O king of kings), this message must be for the next generation for it is hard to change the value system of current one. It is for your son (and my son) to craft, plan and communicate such a narrative. And they must do so at their own impulse — not as an instigation from us two. 
 
@@ -128,7 +126,7 @@ Congregation had a separate room for guests to sleep. The room had wooden sleepe
 
 `Maharishi` had around twenty `Aacharayas`, each with similar number of students. Very few compared to other more commercially oriented `Gurukuls`, for `Maharishi` was really picky in choosing the students. Since there was always a threat of `Asuras`, students were extensively trained in arms and physical strength, in addition to hard curricula of scriptures. They all stood up as the king entered the open space surrounded with big Banyan trees. There was no roof. The sunlight was passing through the Banyans to the ground and one could hear the gushing waters of `Yamuna` nearby. It was a peaceful place. King took a seat by `Maharishi`. `Maharishi` introduced the king and asked him to address the students and also pitch the questions if he might like to. It was customary for the visiting faculties , sages and leaders to interact directly with the students, to gauge their learning path as well as to suggest new directions.
 
-After thanking `Maharishi` and the students for taking the time without a planned schedule, king talked couple of minutes about the state of the administration. The great work that his son was doing on the water ways. The peaceful treaties with most of the neighboring states and still unresolved conflicts with `Asuras`. He finally got down the issue of exponential increase in number and extent of rituals. To keep the question open-ended, he asked — What you all think about `Naad Yoga` verses `Nyaan Yoga`. Which is better and why? 
+After thanking `Maharishi` and the students for taking the time without a planned schedule, king talked couple of minutes about the state of the administration. The great work that his son was doing on the water ways. He was particularly excited to share that everyone was getting Ganges pure water on daily basis for drinking. The peaceful treaties with most of the neighboring states and still unresolved conflicts with `Asuras`. He finally got down the issue of exponential increase in number and extent of rituals. To keep the question open-ended, he asked — What you all think about `Naad Yoga` verses `Nyaan Yoga`. Which is better and why? 
 
 Looking at `Dwaipayana` , the king suggested they speak from youngest to the eldest so that youngsters got first chance without having to be swayed by the thoughts of their seniors. He obviously wanted to hear `Dwaipayana` — the magical boy everyone talked about everywhere. 
 
@@ -138,25 +136,25 @@ Looking at `Dwaipayana` , the king suggested they speak from youngest to the eld
 
 King was thoroughly impressed with the equanimity of the views held by a ten-year-old. There was no doubt in the young teen. His thoughts as clear as the bright sunny day. The king, however, wanted to hear more. He added — I can't agree more, but I have a follow-up for the little `Yogi`. If I may, and he looked at `Maharishi` for approval. 
 
-After getting a green signal from `Maharishi`, king asked - What if one of the bank of this river of information gets week such that it leads to leakage of floods, who is there to fix it?
+After getting a green signal from `Maharishi`, king asked - What if one of the bank of this river of information gets week such that it leads to leakage or floods, who is there to fix it?
 
-King didn't want to mention anything controversial about expanding scope of rituals in a general gathering. He thus planted a subtle question. `Maharishi` smiled at the tactfulness of king though he expected nothing less. He was worried if `Krishna` could handle such an indirect comment.
+King didn't want to mention anything controversial about expanding scope of rituals in a general gathering. He thus planted a subtle question. `Maharishi` smiled at the tactfulness of king though he expected nothing less. He was worried if `Dwaipayana` could handle such an indirect comment.
 
 It didn't take a minute for young student to respond — `Maharaaj`, the kingdom is the community of the king. That is the reason king is sometimes called `Praja Pati` - one who owns the people. It is for the king to shape his garden the way he deems right. If one bank gives way, it must be fortified. All `Ashramas` have autonomy on what (and how) they teach, but if their teachings impact the community, it is for the king to manage the situation. For example even `Asuras` have their own `Maharishis`. They even have their kingdom managed by `Asura Maharishi Vrishaparvan`. King chose to give them a separate land, far North, because their message appeared to break the fabric of `Kuru` society. Like wise no school is beyond king's ultimate responsibility, be it a school of `Nyaan Yoga` or `Naad Yoga`.
 
-King was struck with the speed and clarity that `Krishna` responded with. His mind as sharp as his keen eyes. Knowledge seemed to flow from him. Even `Maharishi` was pleasantly surprised. He didn't recall he ever shared politics of the prevailing situation with the students — `Krishna` seemed to have gained the perspective on his own - a self learning "Intelligence" of the highest order.
+King was struck with the speed and clarity that `Dwaipayana` responded with. His mind as sharp as his keen eyes. Knowledge seemed to flow from him. Even `Maharishi` was pleasantly surprised. He didn't recall he ever shared politics of the prevailing situation with the students — `Dwaipayana` seemed to have gained the perspective on his own - a self learning "Intelligence" of the highest order.
 
-King continued the conversations — Since you spoke about king's responsibilities `Krishna`, what else do you think is important for king? — his eyes full of appreciation. He was genuinely curious what a child `Yogi` thought about king's job description.
+King continued the conversations — Since you spoke about king's responsibilities `Dwaipayana`, what else do you think is important for king? — his eyes full of appreciation. He was genuinely curious what a child `Yogi` thought about king's job description.
 
-`Krishna` folded his hands. He said — `Maharaaj`, I have no experience of the politics so I seek pardon before I share what I have gathered from scriptures. 
+`Dwaipayana` folded his hands. He said — `Maharaaj`, I have no experience of the politics so I seek pardon before I share what I have gathered from scriptures. 
 
 King looked at the child prodigy with love and respect - Your views are of immense value for me. And I seek your vantage for I am truly curious. This is not a test. This is a conversation.
 
-Having understood where the king was coming from, `Krishna` spoke calmly - `Maharaaj` king's first responsibility is security of his lands for without a safe border there exists no kingdom. 
+Having understood where the king was coming from, `Dwaipayana` spoke calmly - `Maharaaj` king's first responsibility is security of his lands for without a safe border there exists no kingdom. 
 - Second is law and order because a kingdom always have a bigger threat from internal chaos. 
 - Third, is "right to work" without any prejudice attached, because unproductive people seek abrupt changes. 
 - Fourth is a well grounded succession plan, because most anarchies occur during transfer of power, 
-- And finally a king must provide his citizens an able queen, for only a woman may speak "heart to heart" with fairer population. Information travels faster in women than it does with men. As such, queen plays the vital role of managing quicker informal communications. Thus scripture demands a king to have a wedded queen at all the times. The way men pride in their King and seek leadership from him, women do so in their Queen. Gender harmony is the basis of Monarchy. In fact - it is for this reason, Kings are permitted to have more than one Queens. 
+- And finally a king must provide his citizens an able queen, for only a woman may speak "heart to heart" with fairer population. Information travels faster in women than it does with men. As such, queen plays the vital role of managing quicker informal communications. Thus scripture demands a king to have a wedded queen at all the times. The way men pride in their King and seek leadership from him, women do so in their queen. Gender harmony is the basis of Monarchy. In fact - it is for this reason, Kings are permitted to have more than one queens. 
 
 The king was satisfied. His council was always after him to formally marry `Ganga` and after she left, there were many proposals duly vetted by his council. But no one had ever explained to him "why" the way `Dwaipayana` put it. He did spend more time with other senior students, and had many of his trivial questions answered. He didn't realize the sun was already setting in the west - time passed quickly. 
 
@@ -167,7 +165,7 @@ On his way out, the king asked `Maharishi` the plan for meeting up at the island
 
 What exactly is `Karm Yoga` - king had never heard of this term before. 
 
-`Maharishi` thought it wouldn't be justice to the king, or to the concept itself, to explain it as an 'out of the door' discussion. But this was probably the only window he would ever get to rope a seed in king's brain - `Mahaaraj` in nutshell, `Karm Yoga` is doing exactly what the physical situation demands of us. Important aspect is to do it with without desires of favorable outcomes. Desires - he though for a second - because desires either force us to do something different, or they make us action-less. The literal meaning of "desire" is that you are not happy in your current situation and you want to make a change to it - you want to change the world. A `Karmyogi` is always happy in the current situation. He works not to change the situation but as directed by the situation.
+`Maharishi` thought it wouldn't be justice to the king, or to the concept itself, to explain it as an 'out of the door' discussion. But this was probably the only window he would ever get to rope a seed in king's mind - `Mahaaraj` in nutshell, `Karm Yoga` is doing exactly what the physical situation demands of us. Important aspect is to do it with without desires of favorable outcomes. Desires - he though for a second - because desires either force us to do something different, or they make us action-less. The literal meaning of "desire" is that you are not happy in your current situation and you want to make a change to it - you want to change the world. A `Karmyogi` is always happy in the current situation. He works not to change the situation but as directed by the situation.
 
 King was impressed with the simplicity of idea. He also realized getting rid of desires was an uphill task. He asked — `Maharishi` is there any scripture that I could refer to. Have you written down your thoughts?
 
@@ -177,13 +175,15 @@ King was a bit intrigued with a blunt answer — most other scriptures are writt
 
 Question was valid. Maharishi understood the spirit - `Maharaaj` if I write this as something that I think, than it would purely be my point of view. How might one be certain that what he thought was right? Only TRUTH — that really happened in physical reality —  is something that may be treated beyond speculation!
 
-King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge, and communication, but more importantly, he was the "man of actions". Always busy in his own act - a `Karm Yogi`. He would always do what the situation demanded of him. May be `Karm Yoga` is something he naturally enacted. King saw new possibilities taking shape as the next generation of `Dev` and `Krishna` take the reins. He felt satisfied, and the same time he thought `Dev` and `Krishna` must meet. They were the keys to the new realm -  a reality driven by `Karm Yogies`.
+King smiled in response. He got the message and he understood the deep wisdom. `Karm Yoga` must be a path in the middle of the river. He thought why `Dev` - his son and worthy heir, was so popular with masses. He was big on knowledge, and communication, but more importantly, he was the "man of actions". Always busy in his own act - a `Karm Yogi`. He would always do what the situation demanded of him. May be `Karm Yoga` is something he naturally enacted. King saw new possibilities taking shape as the next generation of `Dev` and `Dwaipayana` take the reins. He felt satisfied, and the same time he thought `Dev` and `Dwaipayana` must meet. They were the keys to the new realm -  a reality driven by `Karm Yogies`.
 
 Before I leave, I have one more question `Maharishi` - What are your views on `Bhakti Yoga`. 
 
 `Maharishi` knew this question was coming. He was glad he didn't had to compare `Karm Yoga` with `Bhakti Yoga`. He said - `Rajan` (addressing a king with love and affection), `Bhakti Yoga` is still in its infancy. The trend that is out there — to sit and chant `mantras` all day long, would soon change. The true emergence of `Bhakti Yoga` would be to take the example of a `Karm Yogi` and act righteously (as needed by the physical reality without the influence of desires) — by emulating them in one's own life. The (to be written) scripture that I was alluding to, is not a story of a `Karm Yogi` alone, it is that of a `Bhakti Yogi` too.
 
-With that, king finally made his way, along with three of the `Ashram's` best combat trained `Yogies` , and little `Dwaipayana` who were quietly listening to the conversation at the doorsteps of `Ashrama`. He was already late for his next meeting...
+With that, king finally made his way, along with three of the `Ashram's` best combat trained `Yogies` , and little `Dwaipayana` who were quietly listening to the conversation at the doorsteps of `Ashrama`. 
+
+He was already late for his next meeting...
 
 ### Research and Notes ..
 

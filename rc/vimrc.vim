@@ -92,7 +92,6 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'tpope/vim-fugitive'
 Plug 'junegunn/goyo.vim'
-Plug 'tpope/vim-markdown'
 Plug 'https://github.com/godlygeek/Tabular'  
 Plug 'https://github.com/tpope/vim-surround'  
 Plug 'itchyny/lightline.vim' " from https://github.com/itchyny/lightline.vim
@@ -110,20 +109,14 @@ Plug 'vuciv/vim-bujo'
     " Plug 'dbmrq/vim-ditto', {'for': ['text', 'markdown']}
     " " }}}
     "
-    " Plug 'reedes/vim-litecorrect' " autocorrect - https://github.com/reedes/vim-litecorrect
+Plug 'reedes/vim-litecorrect' " autocorrect - https://github.com/reedes/vim-litecorrect
 
-
-" Autosave taskpaper files                    
-Plug 'vim-scripts/vim-auto-save' 
-Plug 'djoshea/vim-autoread'      
 
 " All of your Plugins must be added before the following line
 call plug#end()
 
 
 
-autocmd filetype taskpaper let g:auto_save = 1
-autocmd filetype taskpaper :WatchForChanges!
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
 "filetype plugin on

@@ -26,7 +26,6 @@ That won't be necessary `Yogi`. `Yamuna` is like my mother! I am safer with her 
 
 `Satyawati` didn't know how to react. He had the most powerful king right in font of her and possibly her long separated son too. She remembered the words of `Maharishi` - "You will rule the world". She was, however, not aware of the weight of such a reality! 
 
-
 She almost sat down by the weight of the moment. She had thought about `Maharishi's` words almost every day since she left him and `Krishna` behind, but she didn't realize the physical truth would be so much bigger, and so abrupt, and shocking. She felt excited, overwhelmed and hundreds of more emotions striking like a thunderbolt. As the moment passed, `Satyawati`, once again staged a quick recovery. She readied herself for the enormous opportunity destiny had delivered on her hands.
 
 `Krishna` moved a step closer and held her hand. Being a child it felt okay for him to hold the hand of a woman almost her mother's age. He didn't know yet he was holding his real mother. 

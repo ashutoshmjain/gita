@@ -26,11 +26,15 @@ Seeing them both share the pleasant observation, he continued  - they also hold 
 
 Each of these seven colors is a statement of separation. For example, an Indigo is a signal that all the other six colors left it alone - a separation occurred yet it survived. What color is that combination of six that we don't see beneath the shining Indigo?  - He waited a bit for the Fairy and her Friend to respond - It must be a color of it's own shade. 
 
-Looking at that shade say White minus Indigo, we can never tell that it is a shade that conspired against "Indigo" - left the poor "Indigo" alone - he smiled. Let's just call it the "inverse" of Indigo, or "Anti-Indigo" ! The key thing is - looking at something you can never tell that it is an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. Let it sink in for a bit :-) - said he as he gulped the last ounce from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying complexity - a knot!
+Looking at that shade say "White minus Indigo", we can never tell that it is a shade that conspired against "Indigo" - left the poor "Indigo" alone - he smiled. Let's just call it the "inverse" of Indigo, or "Anti-Indigo" ! The key thing is - looking at something you can never tell that it is an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
 
-It was time for the Fairy to reflect - Conscious perception is in the separation. A magnet only personifies this idea - we can see the separation of dipoles in a magnet -  though the tenet is applicable to everything we observe or even feel.  Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence . Everything manifests in the separation.
+Let it sink in for a bit :-) - said he, as he gulped the last ounce from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying complexity - a knot!
+
+It was time for the Fairy to reflect - conscious perception is in the separation. A magnet only personifies this idea - we can see the separation of dipoles in a magnet -  though the tenet is applicable to everything we observe or even feel.  Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence . Everything manifests in the separation.
 
 Exactly! - said the wizard - Even the "observer" is able to to observe something because there is a separation between the observer and what is being observed. Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in" knowledge except that it appears Yellow, or Red or Green as the case may be. 
+
+---
 
 He continued after making sure of the heightened curiosity of both his listeners - The thing (knowledge) that is locked-in is complete in itself but in this case the expression is a specific color - Just like in case of a rock the conscious expression is ..well ..that of a rock. In case of a lion, it is a man eating beast; in case of tree it is the fruits and the shade. Our conscious experience may interpret the locked knowledge in infinite different ways because the knowledge is always complete. A full copy is distributed in every animate and inanimate expression - from a super massive black-hole to a puny quark - a distributed ledger of immense proportion if you humor the block-chain technology!
 
@@ -40,7 +44,7 @@ The friend, who had recently learnt  "Abstract Algebra" jumped in now - group op
 
 You nailed it - said the wizard - In fact, any color mixed with it's anti-color shade should give us the white light. The "White" is thus the identity of the "group" of seven rainbow colors. This identity has it's own inverse - the utter darkness ... but we are digressing. Let's get back to our group of seven colors and their singular identity in "White" - he took a pause to clear his throat - seven colors of the rainbow, along with the identity element "White" are what we say the manifestation engine of "information". 
 
-Identity is again a separation from something. In other words, the white light is born of seven underlying separations - Seven knots in `Vaidik` speak , and it separates itself from the darkness. 
+Identity is again a separation from something. In other words, the white light is born of seven underlying separations - Seven knots in `Vaidik` speak , and it separates itself from the darkness.  No matter how complex a manifestation, it always has it's inverse  - it must separate from something else.  In a three dimensional world the separation is known as a "layer". In other words - white light is a layer that surrounds darkness ! The complexity of seven knots is held within this separation. This complexity , known as knowledge, has an observable expression though the knowledge in itself is complete.
 
 Sure, I give you that - said the friend - energy is trapped in the waves of light and that is what is known as a Photon. As a matter of fact, the separation is lot more ingrained. Every single shade of light is an electro-magnetic wave, and energy shows up as a massless Photon when the wave splits into it's electric and magnetic pulse - that is high school physics! -  she added hastily - But how is this related to the birth of a child? She didn't make any attempt to hide her impatience.
 
@@ -48,23 +52,29 @@ It is - smiled the wizard - you must be patient if you want to understand the an
 
 Okay - smiled the Friend - I am listening!
 
+---
+
 Imagine the time - thousands of year back - long before  the periodic table - continued the Angel - the broad categories of the matter were - solids, liquids and gases. Every thing that may be observed must be one of these. And the eight colors were considered the means to observe the matter. The matter, be it solid or liquid must have a unique color, air being the transparent white light. So they concluded - All observable things, at max may have eleven transitions - eight colors (the state of information) and three states of matter - solids, liquids and gases. At any given point in time only two were observable - one state of matter and one color. The notion of "work" was to change either of these two - for example if you heat a metal, first it changes the colors and then it becomes liquid.
 
 He paused a little to think the qualifying remarks - even today, with all the science, that basic design of "observability" stands good. Now, in modern science - we we have covered many miles on the observability (of matter) but what about the  "Observer"? What is the dichotomy of an "observer" ? Unfortunately we have never focused much on the "observer".
 
 Well , technically speaking , an "observer" is also matter but we have five senses that are unique to us "observers" - said the Fairy.
 
-You are on the right track - Angel was happy to see his ideas getting registered - but there is little more than mere five senses. First, there is a notion of Space. If senses are incapable of observing the three states of matter and don't see any of the (eight) colors, we say it is dark "space". In addition, an observer has a natural impetus to observe things - we must continuously use our senses to observe - sometimes randomly . This propensity was termed "Fickle Mind" (`Mana`). 
+You are on the right track - Angel was happy to see his ideas getting registered - but there is little more than mere five senses. First, there is a notion of "space". If senses are incapable of observing the three states of matter and don't see any of the (eight) colors, we say it is dark "space". In addition, an observer has a natural impetus to observe things - we must continuously use our senses to observe - sometimes randomly . This propensity was termed "Fickle Mind" (`Mana`). 
 
-Not only "Fickle Mind" - he added - there is definite mechanism to analyse what we observe. This capacity was termed "Intelligence" (`Buddhi`). So in all, an observer is "matter" that has eight additional assets to process the information - five senses, ability to perceive Space, propensity to explore and lastly the capacity to analyse.
+Not only "Fickle Mind" - he added - there is definite mechanism to analyse what we observe. This capacity was termed "Intelligence" (`Buddhi`). So in all, an observer is "matter" that has eight additional assets to process the information - five senses, ability to perceive space, propensity to explore and lastly the capacity to analyse.
 
-It was time for both fairy and her friend to get spooked. No one ever told this perspective to them. 
+It was time for both fairy and her friend to get surprised. No one ever told this perspective to them though it was simple and made sense.
 
-The Angel continued - So eight colors and three states of matter - that is eleven basic dualities that we "observe". Now add to this the perceptual facets of the observer - the five Senses (`Indriyas`), Fickle Mind (`Mana`), Intelligence (`Buddhi`) and Space (`Kham`) - these eight are stable knots that make an observer. But there is little more to it ..
+---
+
+The Angel continued - So eight colors and three states of matter - that is eleven basic dualities that we "observe". Now add to this the perceptual facets of the observer - the five Senses (`Indriyas`), Fickle Mind (`Mana`), Intelligence (`Buddhi`) and Space (`Kham`) - these eight are stable knots that make an observer. But there is little more to it ..  an "observer" too has three states ..
 
 > Just like three states of the observable  matter, the observer too has three states - in `Vaidik` speak these states are called `Gunas`. The three `Gunas` are - `Sattva`, `Rajsa` and `Tamsa`. The notion of "Work" (`Karma`), on the observer side, is to transition with in these three `Gunas`.
 
-To put it simply, the three states of matter drive "actions" in the matter - exchange from one state to other - for example solids convert into liquids - liquids into gases etc. The three `Gunas` do the same in the observer. An observer continuously moves from `Sattva` to `Rajasa` to `Tamsa` or vice-versa or some other order. Effectively - three states of what is observed and three states of the observer!
+To put it simply, the three states of matter drive "actions" in the matter - exchange from one state to other - for example solids convert into liquids - liquids into gases. The three `Gunas` do the same in the observer. An observer continuously moves from `Sattva` to `Rajasa` to `Tamsa` or vice-versa or some other order. Unfortunately there is no English word for these `Gunas`. Just think of them as three states of being. 
+
+> Effectively - three states of what is observed and three states of the observer!
 
 Thus eleven physical facets plus eleven perceptual facets create one observer. These twenty two knots combined create an identity. In `Vaidik` system the identity is called `Ahmkara` - a perceptible and conscious shape what we call "I". In `Vaidik Science`, all of these twenty three together, is what we know as the "field" of consciousness.
 
@@ -76,7 +86,7 @@ Well, I'll need another drink before my mind blows up - said the fairy as she po
 
 But we still didn't get to the "Birth" - said the friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day and it was well past her dinner time!
 
-Okay - let me reveal the big secret - In `Vaidik Science` the human body is the field. It has twenty three oddities as I said. They call it `Kshetra`. As a bio scientist, I was intrigued by this idea because we have exactly twenty three pairs of chromosomes! Ever-since I learnt it from my mentor, I am trying to link our genetic makeup with this ancient science. No wonder that the ancient hyperbole was ..
+Okay - let me reveal the big secret - In `Vaidik Science` the human body is the field. It has twenty three oddities as I said. They call it `Kshetra`. As a bio-scientist, I was intrigued by this idea because **we have exactly twenty three pairs of chromosomes!**  Ever-since I learnt it from my mentor, I am trying to link our genetic makeup with this ancient science. No wonder that the ancient hyperbole was ..
 
 > If someone understood this field of consciousness - these twenty three facets, conception may be triggered in any place that could keep the embryo safe for nine months. They say `Maharishi Parāśara` not only figured it out, he passed this science onto `Dwaipayana` (his son) in his mother's womb.
 

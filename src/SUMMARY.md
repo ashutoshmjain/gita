@@ -15,7 +15,7 @@
       - [Identity](./mathuraChap10.md)
       - [Eight-fold](./mathuraChap11.md)
       - [Currency](./mathuraChap12.md)
-      - [Meeting](./mathuraChap13.md)
+      - [Work](./mathuraChap13.md)
       - [Night](./mathuraChap14.md)
       - [Fate](./mathuraChap15.md)
       - [Pledge](./mathuraChap16.md)

@@ -122,7 +122,7 @@ Staying off the main-land (`Kuru Kingdom`) also ensured only real seekers had th
 
 What will happen to me after ? I will need to feed the new born at least for a year!  But what after that? — asked `Matsyagandha`.
 
-`Maharishi Parāśara` thought for a while. He wanted to make sure he found the right words as much as he wanted to say the truth. He said — after two years, once child is ready to go with me, you may, if you wish to, return to the village.
+`Maharishi Parāśara` thought for a while. He wanted to make sure he found the right words as much as he wanted to say the truth. He said — after two years, once child is ready to go with me, you may, if you wish, return to the village.
 
 `Matsya's` face turned red. Her body shaking and her words broken — this village hates me. If older women figured out I lost my virginity, they would despise me even more!
 

@@ -1,12 +1,12 @@
-It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the coffee beans. Waking up to the smell of fresh beans always brought unique pleasure to Fairy.
+It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to grab a coffee to find her Friend grinding the beans. Waking up to the smell of ground coffee always brought unique pleasure to Fairy.
 
-When did you wake up? - asked Fairy. She had insisted her Friend to stay back last night. It was well past midnight when they reached home and thereafter both of them kept talking about `Matsya`. Angel had almost passed out on the steering wheel, but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the chariot announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am - some random offline air traffic update.
+When did you wake up? - asked Fairy. She had insisted her Friend to stay back last night. It was well past midnight when they reached home and thereafter both of them kept talking about `Matsya`. Angel had almost passed out on the steering wheel, but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the car announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but flights were on hold from one am to four am - some random offline air traffic update.
 
 Good morning everyone - they heard the Angel - hope you two slept well last night !
 
-Fairy responded "yes" with a smile - and please send us the link to the next session. Can't wait to find what was `Matsya's` mission.
+Fairy responded "huh" with a smile - please send us the link to the next session. Can't wait to find what was `Matsya's` mission.
 
-If we had the link, we must have watched the next episode last night itself - laughed the Friend pouring over black coffee in three mugs
+If we had the link, we had watched the next episode last night itself - laughed the Friend pouring over black coffee in three mugs
 
 Um - we don't have the next episode up yet - said the Angel - and before you figure out next of `Matsya`, you need to check out the story of `Ganga` and `Shantnu`. He waited for a bit looking for a facial response - and I know only half the story - the "Wikipedia" stuff!
 

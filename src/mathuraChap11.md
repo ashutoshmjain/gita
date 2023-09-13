@@ -126,15 +126,15 @@ This deep knowledge of the rivers made him popular. People started calling him `
 
 Even the scripture noted that river `Ganges` manifested into a beautiful woman called `Ganga` to bear `Devvrata` and seven other `Vasus` - the elemental deities. In `Mahabharata`, `Vasus` are considered as eight identities of the manifestation ..
 
-| Vasu      | Meaning    |
-|:--------- |:---------- |
-| Dhara     | Earth      |
-| Aapa      | Water      |
-| Anala     | Fire       |
-| Anila     | Wind       |
-| Pratyusha | Sun        |
-| Prabhasa  | Sky        |
-| Dhruva    | North Star |
+|  Vasu              |  Meaning          |
+|:-------------------|:------------------|
+|  Dhara             |  Earth            |
+|  Aapa              |  Water            |
+|  Anala             |  Fire             |
+|  Anila             |  Wind             |
+|  Pratyusha         |  Sun              |
+|  Prabhasa          |  Sky              |
+|  Dhruva            |  North Star       |
 
 > It was believed that the `Vasus`, long before `Kalmashpada`, wanted to steal `Kaamdhenu` - the knowledge of `Vasishtha's` congregation and were thus cursed to be born as humans.
 
@@ -144,13 +144,13 @@ Even the scripture noted that river `Ganges` manifested into a beautiful woman c
 
 Just like the pious river, `Dev's` real mother was born on the peaks of Himalayas — near the birth place of river `Ganges` — a place called `Gangotri`. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it's decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her `Ganga` — after the name of the river in local dialect. People forgot her real name — not that it mattered anymore, for she was a true embodiment of Ganges — through her actions (`Karma`)
 
-As she got into her late teens, she and her friends would go on longer voyages in Ganges. Many times for days and weeks. They designed two person Kayaks. They would kayak downstream through rapids and falls, and then carry them back on their shoulders — two persons supporting one Kayak. Climbing the mountains with Kayaks on their backs, used to be painfully long, and arduous — sometimes through the thick uncharted forests. Her dream was to design a boat that could sail upstream. Or something that could sail the boats up without depending on elephants. She didn't know yet that she was imagining "water-locks" in her teen mind. 
+As she got into her teens, she and her friends would go on longer voyages in Ganges. Many times for days and weeks. They designed two person Kayaks. They would kayak downstream through rapids and falls, and then carry them back on their shoulders — two persons supporting one Kayak. Climbing the mountains with Kayaks on their backs, used to be painfully long, and arduous — sometimes through the thick uncharted forests. Her dream was to design a boat that could sail upstream. Or something that could sail the boats up without depending on elephants. She didn't know yet that she was imagining "water-locks" in her teen mind. 
 
 > Even more cherished dream was to find out how and where 'Ganges' ended? She had heard (from travelers) that the mighty river finally met into a vast ocean that could retain water of a thousand rivers! `Ganga` used to wonder why couldn't they make an ocean right here in `Himalayas`, to store the water for irrigation and boating. Little did the young girl know that stopping the water is like stopping the circle of life. And she learnt it as she entered her early youth.  In a way Ganges was a definition of time for her. Her childhood in `Gangotri` — the origin of the river ; her teens in the upper rapids ; her youth in the flat stretch where the mighty river walked like a gorgeous woman of reason, action, and pride. And she wanted to see  the endless sea to mark the completion of her time! 
 
 Longer voyages, and turn to adulthood, made it clear to `Ganga` that the floods were the biggest problems for common people downstream. In one of her trips, she saw the devastation firsthand, when she and her crew, narrowly escaped the swelling river. The legend says that the real `Ganga` was born out of that massive swell. They probably meant that the resolve, and the dedication to a singular focus in her life, incarnated out of that flood. Without saying out loud, she started a mission to deepen Ganges wherever it was flattish. She wanted to bound the river with in two banks. Bondage is a prerequisite to manifest - she must have thought.
 
-Good deeds gain support from the masses. Her crew grew in size and skills. Starting from the very top near the origins, she and her team finally reached the plains — working through one gorge to the next. It was as if she (and her team) shaped a new Ganges. They were welcomed by the local people as they brought skills to deepen a running river. They had designed tools to form a constellation of Kayaks tied to each other with ropes, and then lower a heavy metal harvester to scour the bottom. Many times they recovered valuables, but the business was not risk free. Many died in the pursuit of these riverbed scouring projects. True to her name, `Ganga` committed her life to this cause that turned into a long series of semi-engineering projects. The work, however, was not conflict free. Deeper river meant that elephants had even harder time moving the floaters upstream. 
+Good deeds gain support from the masses. Her crew grew in size and skills. Starting from the very top near the origins, she and her team finally reached the plains — working through one gorge to the next. It was as if she (and her team) shaped a new Ganges. They were welcomed by the local people as they brought skills to deepen a running river. They had designed tools to form a constellation of Kayaks tied to each other with ropes, and then lower a heavy metal harvester to scour the bottom. Many times they recovered valuables, but the business was not risk free. Many died in these pursuits. True to her name, `Ganga` committed her life to this cause that turned into a long series of semi-engineering projects. The work, however, was not conflict free. Deeper river meant that elephants had even harder time moving the floaters upstream. 
 
 Her work, along with the negative politics of rich cargo movers, got her so popular that the news reached the king `Shantanu`. He was happy to see people taking on the public works in their hands rather than depending solely on the high priests or the king, but the elephant owners were important for the movement of goods, and they were a major revenue stream for the kingdom. He wanted to settle the disputes himself. In addition, he wanted to see if the tools and boats her team designed could be used to anchor his army, mid-stream, in a fast running river. A definite advantage in war-times.
 
@@ -268,7 +268,7 @@ The sixth verse was the celebration of companionship. They wished not to lose th
 >
 > Sakhyanme Mayoshthah
 
-Oh friend we are taking seven steps together.
+O friend we are taking seven steps together.
 
 Having gotten the taste of your company, I am enchanted with the magic of your companionship.
 

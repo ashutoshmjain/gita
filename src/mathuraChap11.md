@@ -68,19 +68,17 @@ You are right. The good reason for "1" not being considered prime is the fundame
 
 Walking back in about ten minutes later - The strangest thing about "1" is it looks exactly what we want it to be - for example - "1" book is a book , "1" meter is a meter , "1" home is a home but we can never know what "1" is ! We can never understand the "1" without association to a worldly thing - an "Identity". As for "2", we can at least say it is twice the "1" - " 1 + 1 = 2" - He smiled. 
 
-> Other thing that we all know about "1" - it free from multiplier effect. No matter how many times you multiply "1" with itself, it still remains "1"; but same is not true for addition. "1" gets added to the things and it increases the count. Only "0" is free from material additive property. Since "Unity" is free from multiplier effect you can have infinite instances of "1" without altering the universe even a tiny bit. It however dictates one rule - no addition is allowed - a universe with singular operation - of multiplication. It also means if you must have addition then all things made with additions must add together into "zero" - they must cancel each other out. 
+> Other thing that we all know about "1" - it free from multiplier effect. No matter how many times you multiply "1" with itself, it still remains "1"; but same is not true for addition. "1" gets added to the things and it increases the count. Only "0" is free from material additive property. Since "Unity" is free from multiplier effect you can have infinite instances of "1" without altering the universe even a tiny bit. It however dictates one rule - no addition is allowed - a universe with singular operation - of multiplication. It also means if you must have addition then all things made with additions must add together into "zero" - they must cancel each other out to zero because zero is from additive property.
 >
 > In a multiplicative universe of "one" infinite instances exist - in an additive world there must be a mirror image - an anti particle to balance it out to just "zero". The multiplicative world is beyond perception simply because it is infinite - the additive world is perceivable only if mirror images are separated or else there is simply "nothing" - a zero sum game!
 
-The mentor got his flow - the way I like to think about prime numbers is they are representation of indivisible and infinite "one" in higher dimensions. Imagine rivers flowing into an ocean. They all become "One" ocean. Each river being a dimension - a channel of information -  feeding into the ocean. The special thing about "this" ocean is that only prime number of rivers are allowed to flow in. In essence a prime number is an indivisible notion free from duality - it is a principle - a law of nature. It is a key that encrypts that encrypts the ocean.
-
-Every observable thing may be factored down to a set of such keys. For example think about a bouquet - each flower with seven leafs - one flower on every one of the five branches. And then five branches on two stems each.
+The mentor got his flow - the way I like to think about prime numbers is little different from the mathematical idea of prime factors. Yes, every number has a unique set of prime factors but I like to study what do these prime factors mean in real life.  For example think about a bouquet - each flower with seven leafs - one flower on every one of the five branches. And then five branches on two stems each.
 
 > 70 leafs = 7 Flowers x 5 branches x  2 stems = "1" flower plant.
 >
 > The key thing is, this is unique way to organize 70 leafs. This is because the fundamental theorem of Arithmetic dictates that number 70 has a unique set of prime factors = 7 x 5 x 2 . For example if a genetic mutation put flowers with 35 leafs each on 2 stems (35 x 2 = 70) the flowers will automatically rearrange themselves into 7 leaf flowers on 5 branches over evolutionary cycles. If we try to put flowers of seven leafs each on ten branches (7 x 10 = 70), the ten branches would automatically reorganize themselves into five branches on 2 stems each over a longer evolutionary horizon. Nature gravitates towards the prime factors because - well - they are uniquely identifiable. 
 >
-> Every number must have prime factors, and no two numbers have same set of prime factors - the very definition of Identity.
+> In other words it appears like a multi layered encryption scheme. If one flower plant was a text message, it was first encrypted with a prime number 2 the outcome was encrypted with number 5 and further down with number 7. The final appearance of 70 leafs is a encrypted representation of unity. It also means to decrypt it we need to crack open these knots. In physical world what appears as simple knots, in perceptual world these knots are "ideas". Conscious beings are multilayered encryption of ethos - each represented by a prime number.
 
 Wait! You made quite a bouquet of flowers, and I am lost in the basic math - said the Fairy - Could you please repeat?
 
@@ -98,10 +96,9 @@ Bingo - you got it. Good that you asked the question & made me draw the picture 
 
 But then how this number theory related to the story of `Ganga` and `Shantanu` - asked the Friend..
 
-`Ganga` understood the significance of Eight. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers.  She noticed four rivers tied up eight frozen lakes (glaciers). It will be easy if you see this map of `Gangotri Region` - the birth place of Ganges.
+`Ganga` understood the significance of Eight. Though she didn't think it in terms of numbers. She learnt it through real experience of rivers.  She noticed four rivers tied up eight frozen lakes (glaciers). It will be easy if you see this map. He removed many layers of books from the table to spread a big map of `Gangotri region` - the birth place of Ganges.
 
 ![Ganga](./ganga.svg)
-
 
 In a way, the identity of Ganges was the entire glacier region that she could access as eight frozen water falls (glaciers) and the purpose of Ganges - she though -  was to unite the knowledge of their existence into one. Ganges brought mountains (her home) to the plains through a primal scheme and to `Ganga` that schema was auspicious. Later, modern geologists marvel at this scheme in the sense such a vast glacier system ultimately manifests into just one perennial mega-river. Just like the locals, they too see the magic of God's gift. Keep in mind the glacier is retreating almost two miles per century. That is the reason you see many more tributaries now spread around the main rivers in 100 to 150 miles range.
 
@@ -142,8 +139,7 @@ Even the scripture noted that river `Ganges` manifested into a beautiful woman c
 > It was believed that the `Vasus`, long before `Kalmashpada`, wanted to steal `Kaamdhenu` - the knowledge of `Vasishtha's` congregation and were thus cursed to be born as humans.
 
 
-
-# 11.1
+## 11.1
 ---
 
 Just like the pious river, `Dev's` real mother was born on the peaks of Himalayas — near the birth place of river `Ganges` — a place called `Gangotri`. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it's decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her `Ganga` — after the name of the river in local dialect. People forgot her real name — not that it mattered anymore, for she was a true embodiment of Ganges — through her actions (`Karma`)

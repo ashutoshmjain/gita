@@ -4,17 +4,17 @@ What would you do? - she asked the Boyfriend.
 
 I think we need to listen to the entire narrative before we get down to cut a visual presentation - said the Boyfriend. 
 
-But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - she said - something in me feels this story needs to be told - in a different way.
+But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - she said - something in me feels this story is important - it needs to be told.
 
-Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the hull - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the artist. 
+Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the mast - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the artist. 
 
 The Friend laughed out loud - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
 
-Well - he replied - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on donations - `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. 
+Well - he replied - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on donations - `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Isn't it ?
 
 That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
 
-Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers open up. They should not hold anything back.
+Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers open up. They should not hold anything back. More like a trailor ..
 
 That is a good point - said the friend - time to smell the coffee ... and get to work - she smiled.
 
@@ -33,9 +33,9 @@ But ? - insisted the Mentor - he was still smiling as if he expected this questi
 
 I wanted to check if there was a credible reference for such a claim! That would be a pretty big deal! - said the Boyfriend - he didn't want to meddle with a client directly but he was put on spot by his own curiosity.
 
-The Mentor smiled back at him - I would first find out who was `Satoshi`!  Last I heard his Bitcoin paper was sent to us mortals from the future! Others claim it was an alien thing leaked by their rebels - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in the "mystery"
+The Mentor smiled back at him - I would first find out who was `Satoshi`!  Last I heard his Bitcoin paper was sent to us mortals from the future! Others claim it was an alien thing leaked by their rebels - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in the "mystery"!
 
-The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods ?  - said Fairy while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there - it was as per the plan - Sorry for being little late - he said.
+The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods?  - said Fairy while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there - it was as per the plan - Sorry for being little late - he said.
 
 Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one!
 
@@ -49,11 +49,17 @@ Looks like you have spent all your creative juices in one shot - said the Fairy 
 
 Now I know why Angel said you are the best - said the Mentor as he struggled to get his beer bottle to his mouth -  still wearing the headset!
 
-The Friend was about to respond when she got a notification on her phone - what ! - she exclaimed - some one zapped a million to my wallet - And then she looked at the Mentor.
+The Friend was about to respond when she got a notification on her phone - what ! - she exclaimed - some one zapped a million to my wallet - And then she looked at the Mentor because the transfer was made inside scene.
 
-I can't accept a full Bitcoin for a three minute clip - she said - I do full narratives for a tenth of that money.
+I can't accept a million Sats for a three minute clip - she said - we integrated my wallet to the virtual bucket tied to the mast, just to test it out - she looked at the Boyfriend who enabled this feature while she was busy building the scene. Then she turned to the Mentor - I do a full feature for a tenth of this money!
 
-The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times of any work you did before! - I already have the next piece ready for you - he continued - and I want to keep the "Payments man" happy - He looked at the Boyfriend who couldn't believe someone tipped a million.
+The Mentor smiled at her - No one stopped you from doing this full narrative and trust me it is ten times of any work you did before! - I already have the next piece ready for you - he continued - and I want to keep the "Payments man" happy. He looked at the Boyfriend who couldn't believe his "alpha" code worked - the presentation was perfect. I saw commuters throwing coins. My curious eyes looked at the bucket. As soon as I focused on the bucket, it automatically scanned my iris - boom the transfer happened at a blink on an eye - now I know what they mean by frictionless payments!
+
+Boyfriend smiled - I am sure you saw the options - blink left eye 1000 Sats, right eye 10 K and both together a million. Frankly I myself didn't test both eyes!
+
+Yes I did - replied the Mentor - it was lot easier to blink both eyes - he laughed.
+
+He is a Scamster - Friend looked at her payments man - proud and full of love - he knows how to squeeze money of the innocent eyes!
 
 Angel was happy for everyone was plugged into the story! And Fairy was keen on reading the next piece.
 

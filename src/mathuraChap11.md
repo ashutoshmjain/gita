@@ -308,7 +308,7 @@ Good times go fast. `Ganga` had to move South East, towards the point where `Yam
 
 ---
 
-[^trapdoor]: in Mathematics, a trapdoor function is one that we may compute very easily in one direction but finding the inverse is almost impossible. More here on [wikipedia](https://en.wikipedia.org/wiki/Trapdoor_function). In mathematical terms, if f is a trapdoor function, then there exists some secret information t, such that given f(x) and t, it is easy to compute x. Consider a padlock and its key. It is trivial to change the padlock from open to closed without using the key, by pushing the shackle into the lock mechanism. Opening the padlock easily, however, requires the key to be used. Here the key t is the trapdoor and the padlock is the trapdoor function. Philosophically speaking, our observable universe is a padlock and we are searching for the keys - the trapdoor to unlock the mysterious that upholds this experience.
+[^trap]: in Mathematics, a trapdoor function is one that we may compute very easily in one direction but finding the inverse is almost impossible. More here on [wikipedia](https://en.wikipedia.org/wiki/Trapdoor_function). In mathematical terms, if f is a trapdoor function, then there exists some secret information t, such that given f(x) and t, it is easy to compute x. Consider a padlock and its key. It is trivial to change the padlock from open to closed without using the key, by pushing the shackle into the lock mechanism. Opening the padlock easily, however, requires the key to be used. Here the key t is the trapdoor and the padlock is the trapdoor function. Philosophically speaking, our observable universe is a padlock and we are searching for the keys - the trapdoor to unlock the mysterious that upholds this experience.
 
 ---
 

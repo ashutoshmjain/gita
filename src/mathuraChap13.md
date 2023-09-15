@@ -39,7 +39,7 @@ The Mentor smiled back at him - I would first find out who was `Satoshi`!  Last 
 
 The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods?  - said Fairy while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there - it was as per the plan - Sorry for being little late - he said.
 
-Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one! - she attached fresh Olorama sachets to the headsets - I give you the custom designed fragrance of `Matsya`..
+Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one! - she attached fresh Olorama singleUse cartridges to the headsets - I give you the custom designed fragrance of `Matsya`..
 
 The Mentor smiled - thanks I would sure need one but before that I need a beer - who else ? - He looked at everyone's "yes" as he walked to the refrigerator in the kitchenette. 
 

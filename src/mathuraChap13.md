@@ -10,11 +10,11 @@ Let's just create one scene - of the boat ride and `Shantanu` dropping all his g
 
 The Friend laughed out loud - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
 
-Well - he replied - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on donations - `Matsya` offered a boat ride but the real thing she sold was her songs and the experience of her fragrance. Isn't it ?
+Well - he replied - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on tips - `Matsya` offered a boat ride but the real thing she showcased her songs and fragrance. Isn't it ?
 
 That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
 
-Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it makes the writers open up. They should not hold anything back. More like a trailor ..
+Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it wows the producers and writers. They should not hold anything back. More like a promo clip ..
 
 That is a good point - said the friend - time to smell the coffee ... and get to work - she smiled.
 

@@ -6,17 +6,19 @@ I think we need to listen to the entire narrative before we get down to cut a vi
 
 But I need to show him something - I kinda signed up for getting him at least a draft - and may be it is a test - she said - something in me feels this story is important - it needs to be told.
 
-Let's just create one scene - of the boat ride and `Shantanu` dropping all his gold coins - that would be a good place for you to ask for the tips as well - showing the viewers the tips bucket tied to the mast - he said - I can integrate your wallet to the bucket - he smiled - let them pay something for supporting the artist. 
+Let's just create one scene - of the boat ride - the songs pulling the peacocks , the fragrance attracting the deers - it's a perfect scene for integrating [olorama](https://www.olorama.com/creative-smells) digital scent in VR - he said.
 
-The Friend laughed out loud - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
+And top it up with `Shantanu` dropping all his gold coins.  That would be a good place for you to ask for the tips as well - showing the viewers the "tips bucket" tied to the mast - money dropped in the bucket would directly go to your wallet - he smiled - let them pay something for supporting the artist. 
 
-Well - he replied - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on tips - `Matsya` offered a boat ride but the real thing she showcased her songs and fragrance. Isn't it ?
+The Friend laughed out loud with her happy jingle - you are a `pucca` payments man! All you care about is getting as many zaps as you can :-)
 
-That would be a myopic view of a mega narrative - but it is not a bad idea - she said ..
+Well - he raised his hands - artists too need to feed their pets! In fact one thing that came out quite loud of the story was - from the oldest times, the creative arts are living on tips (not on donations - there is a difference) - `Matsya` offered a boat ride but the real thing she showcased were her songs and fragrance. Isn't it? - and what commuters paid were "tips" - a tip is what you pay for a "service" - a donation is what you pay for a "cause". I love tips and I hate donations for I want to render services, not change the world!
 
-Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it wows the producers and writers. They should not hold anything back. More like a promo clip ..
+That would be a myopic view of a mega narrative - it is not for tips - it is to change the world - she said - but it is not a bad idea - she smiled - artists do need to feed their pets!
 
-That is a good point - said the friend - time to smell the coffee ... and get to work - she smiled.
+Well you need to start somewhere - `Mathura` wasn't built in a day! - he smiled - at this stage your goal is to give an opening scene such that it wows your cheque holders and creative writers. They should not hold anything back. Think of it as a promo clip ..
+
+That is a good point - said the friend - time to smell the coffee ... and get to work - she smiled - when it came to capturing ideas, Boyfriend was her Steelman whereas Fairy was her Strawgirl.
 
 
 ---
@@ -33,11 +35,11 @@ But ? - insisted the Mentor - he was still smiling as if he expected this questi
 
 I wanted to check if there was a credible reference for such a claim! That would be a pretty big deal! - said the Boyfriend - he didn't want to meddle with a client directly but he was put on spot by his own curiosity.
 
-The Mentor smiled back at him - I would first find out who was `Satoshi`!  Last I heard his Bitcoin paper was sent to us mortals from the future! Others claim it was an alien thing leaked by their rebels - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in the "mystery"!
+The Mentor smiled back at him - I would first find out who was `Satoshi`!  Last I heard his Bitcoin paper was sent to us mortals from the future! - he continued smiling - or certain things are best left to the realm of unknown for they serve a greater purpose shrouded in the "mystery"!
 
 The Boyfriend was about to speak when they heard Angel and Fairy stepping in  - wow the door was open. Aren't there bear threats in this part of the woods?  - said Fairy while Angel hugged the Mentor. He wasn't surprised to see Boyfriend there - it was as per the plan - Sorry for being little late - he said.
 
-Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one!
+Is the watch party ready? - Asked the Friend - I brought few extra headsets just in case anyone needs - she was sure Mentor didn't have one! - she attached fresh Olorama sachets to the headsets - I give you the custom designed fragrance of `Matsya`..
 
 The Mentor smiled - thanks I would sure need one but before that I need a beer - who else ? - He looked at everyone's "yes" as he walked to the refrigerator in the kitchenette. 
 

@@ -1,6 +1,30 @@
 # changeLog [^history]
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of major changes here-below. 
+
+## Sep 15, 23 
+
+- [Mathura](./mathuraLanding.md)  
+  - [Proposal](./mathuraChap08.md) - Minor edits
+  - [Birth](./mathuraChap09.md) - Minor edits.  
+  - [Identity](./mathuraChap10.md) - Major edits.  
+  - [Eight-fold](./mathuraChap11.md) - Almost rewrote the chapter.  
+  - [Currency](./mathuraChap12.md) - Almost rewrote the chapter.  
+  - [Work](./mathuraChap13.md) - Almost rewrote the chapter. Still pending full review.
+  - [Night](./mathuraChap14.md) - Almost rewrote the chapter. Still WIP. 
+ 
+## Sep 01, 23 
+
+- [Mathura](./mathuraLanding.md)  
+  - [Work](./mathuraChap13.md) - Major edits. Added the introduction. 
+  - [Bhagavad Gita](./bhagvadGita.md) - Formatted chapter 9 and 10.
+ 
+## August 25, 23 
+
+- [Mathura](./mathuraLanding.md)  - Split the narrative in two books. Book one a the base narrative of the beginning of civilization and Book two to draw a comparison with the current world. 
+  - [Invocation](./prologue.md) - minor edit and changed first two footnotes.
+  - [Trigger](./mathuraChap01.md) - minor edit
+  - [Currency](./mathuraChap12.md) - Major edits. Almost rewrote the entire chapter.
  
 ## August 17, 23 
 

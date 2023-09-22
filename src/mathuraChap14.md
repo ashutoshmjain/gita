@@ -163,11 +163,15 @@ As he sat down he wondered if he did right to keep `Krishna` away his mother? He
 
 `Dashraj` had a night of his life. First he thought how to hide the Gold. Once properly secured, he headed to the local pub with "drinks on me" slogan. All his friends ate and drank belly-full till the middle of the night. On his way back, he marveled at his genius for having found a cash cow in `Satyawati`. And then he worried if she left like older girls to marry someone. He must crop any plans of her wedding even before they get framed. 
 
-`Satyawati` was his path to riches and a daily celebration on the local pub. With the money he had, he was planning to set up a small metal shop to make finest hand-crafted swords. He knew `Kansa` was buying steel from `Magdha` - and he paid two coppers for a wooden seal of `Kuru`. Why would `Magdha` - an enemy of `Kuru` kingdom interested in enemy's currency? He brushed the thought aside - tonight was his night - it was his passage back into the politics of `Kansa`. Now that `Maharishi` was dethroned, he must set the plans fast in motion.
+> Shallow minds plan with two eyes of shorter sight. Once they commit it gets hard to see the bigger one of one who runs the planet and beyond. One reason present is so unpredictable for our designs must give in to the greater waves in making.
+
+`Satyawati` was his path to riches and a daily celebration on the local pub. With the new gold, he was planning to set up a big metal shop - to make finest hand-crafted swords. He knew `Kansa` was buying steel from `Magdha` - and he paid two coppers for a wooden seal of `Kuru`. Why was `Magdha`, an enemy of `Kuru` kingdom interested in Dev's currency? He brushed the thought aside - tonight was his night - it was his passage back into the politics of `Kansa`. Now that `Maharishi` was dethroned, he must set the plans fast in motion. After all the ups and downs, he thought he was finally due. False pride stained his shallow mind more than the local hooch.
 
 --- 
 
 The ride back to his camp was lost in time for `Shantanu`. He didn't know when he started and when he reached the camp. Sleep was no where near the king. He was planning the communications he must send tomorrow morning. One to his son `Dev` for deploying best of his river crew for the island. Second, to `Kansa` for the deal of the island. And third, and probably most important, to `Dashraj` for a face to face meeting. Should he go to his home or should he invite him over. He thought later would be appropriate because he didn't want to step into `Kansa's` land. His own life seemed precious now. 
+
+His gaze suddenly went to the wooden seal he had taken from `Satyawati`. He wanted to send it to `Dev` as a souvenir. As he looked closer, he could see the seal was a little off. Dev's craftsmen wouldn't make such a mistake. Is someone else printing their currency ! Why ?
 
 ---
 
@@ -175,9 +179,8 @@ The ride back to his camp was lost in time for `Shantanu`. He didn't know when h
 
 ---
 
-`Yamuna` the river, spoke to `Mathura` the city that night — to let her know that her times were changing. Very soon, `Mathura` would be the most important city ever in the history. 
+> `Yamuna` , spoke to `Mathura` that night — to let her know her times were changing. Very soon, `Mathura` would be the most important city ever in the history. 
 
-> Truth is what happens in the physical reality. History is the outcome of "actions" in our tiny box. Only truth has the staying power in public discourse.
 
 
 ## Notes and Research:
@@ -206,9 +209,13 @@ The ride back to his camp was lost in time for `Shantanu`. He didn't know when h
 - Since there is no room for debate or reason with the protocol - it is simply agreed on behaviour - like saying "Good Morning" when you meet someone first time in  the morning - in that, it means faith.
 - As the acceptance of protocol increases, it gets exponentially harder to change it because you need 100% acceptance. Thus no one can change TCP/IP. It's improvements must be communicated well in advance and feedback must be taken from all the stakeholders. This however doesn't mean new protocols can't be instituted. For example TCP/IP is a computer communication protocol but Bitcoin is a protocol to transfer the value. Lightning is a protocol to provide liquidity. And Nostr is a protocol to separate data layer from real-time applications with massive user base such as social networks, DNS, ride sharing, messaging, publications, news networks, banking. The key aspects of Nostr is enabling the users to carry their data with them to different applications. Bitcoin, Lightning and Nostr have similarities in their design elements but most importantly they provide the design basis for distributed databases with universal rules - they are protocols for data management.
 
+---
+
 [^wizards]: Who are Wizards
 - The power of following the protocol is a network effect. If you have faith in the protocol you experience growth with the growth of the protocol. For example when TCP/IP was in growth phases it was growing at a rate of 2300 x per year. This was the founding insight of Amazon.com. Jeff Bezos thought that if something was growing at this rate one need to hold just one small piece - say selling books online. The growth would automatically manifest into other things. No wonder in mere fifteen years it became the biggest retailer of the world. The faith in the protocol makes you a wizard. This however is not new. The faith in Christ and Mohammad opened door to opportunities many. But even before that the first wizards were who believed in `Veda`. `Veda` was the first vocally stored protocol. 
 - Those who don't believe in the protocol end developing their own platforms - sometime big and sometime niche. Such non-believers were termed `Asuras`. They try to propagate their own ideologies but they fail because people could see that they themselves were the first beneficiaries - people could see their greed their vested interest. This is the reason a protocol is always proposed by one who has no vested interest. No greed. Bitcoin is a universal protocol because `Satoshi Nakamoto` had no greed. All other platforms - be it Ethereum or Solana have greed built into them. Not that greed is bad but it makes it hard for others to join the party. 
 - The olds were called `Rakshsas`. They appeared strong like the regulators and sovereign leaders but their systems were  obsolete. They were about to perish. They only created triggers to unleash the new innovations as the regulators tried to stop Bitcoin ETFs. 
+
+---
 
 [^data]: data is the only thing in the entire computing landscape that never changes. You can change the code on the client side to see the data in different layouts. You can change the code for underlying infrastructure to store in a better database. You can make the architecture from client server to distributed. Everything can change given enough attention or time or money. Only thing that never changes is the data. The data layer is thus the lowest layer. It is deeper than operating system or even a computer. It is simply what happened in the real world.

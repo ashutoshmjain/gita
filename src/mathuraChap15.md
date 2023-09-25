@@ -1,20 +1,22 @@
-Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city on Wednesday. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attent to him - everything revolved around him - at least that is what he thought.
+Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city on Wednesday. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him - everything revolved around him - at least that is what he thought.
 
 "Your place, my bill" was a code that he was in deep shit. Something that he wouldn't take to the parents - his sister must bail him out.
 
 She ordered a vegan salad with a white wine. Brother understood she didn't want to indulge - she wanted to keep it business - what are you up to?
 
-He bit big into his equally big Burrito - I need one coin that I would return with in a month - max. To his credit - he had never messed up the money part. Whenever she bailed him out - he recouped the money with five and half percent interest, before time. The problem was "Fairy" was not too sure of his enterprise. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. Everyone in the family knew that law is always by intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct" of Angels, you may find millions. There is only one reason to appropriate law - there are thousands to bend it. Brother didn't subscribe to the idea of "reason". To him winner wrote the history.
+He bit big into his equally big Burrito - I need one coin that I would return with in a month - max. To his credit - he had never messed up the money part. Whenever she bailed him out - he recouped the money with five and half percent interest, before time. The problem was "Fairy" was not too sure of his enterprise. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. Everyone in the family knew that law is always by intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct" of Angels, you may find millions. You must aspire to follow the intent of the law - not other way around. And that there is only one reason to appropriate law - there are thousands to bend it. Brother didn't subscribe to the idea of "reason". To him winner wrote the history.
 
 And may I know who you are helping this time? - she asked with blank eyes.
 
-Well - you don't wanna know - I don't want to rock your relationships ! - and that is exactly what he wanted to do.
+Well - you don't wanna know sister - I don't want to rock your relationships ! - and that is exactly what he wanted to do. And that is what he already did by saying what he did. And why not - that little Angel of dirt was trying to sabotage his biggest investment.
 
 Go on - I am listening - she knew her friends and she knew she could handle the waves of duality.
 
 Don't say I didn't warn you ! And you can't bring it on me in the family - which meant you can't talk to no one.
 
 Fairy rushed to vomit her salad - she couldn't digest the extent to which people go to make money. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother had another and the last one was with Parents. They only needed two keys to clear the funds.
+
+In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her role was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world.
 
 ---
 

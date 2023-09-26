@@ -8,17 +8,17 @@ He bit big into his equally big Burrito - I need one coin that I would return wi
 
 Go on - I am listening - she knew her friends and she knew she could handle the waves of duality.
 
-Don't say I didn't warn you ! And you can't bring it on me in the family - which meant you can't talk to no one.
+Don't say I didn't warn you ! And you can't bring it on me in the family - which meant you can't talk to no one. He knew Fairy would talk this over with Angel. All he wanted his name stayed out of it.
 
-Fairy rushed to vomit her salad - she couldn't digest the extent to which people go to make money. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother had another and the last one was with Parents. They only needed two keys to clear the funds.
+Fairy rushed back home - she couldn't digest the extent to which people go to make money but she didn't want Angel be part of this. She knew the greed that comes with the riches and he barely escaped that world. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother had another and the last one was with Mother. They only needed two keys to clear the funds.
 
-In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her role was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world.
+In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her role was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world. But this was different - it was about Trust.
 
 ---
 
-Angel could sense the tension in the air - what is the matter honey - am I bringing my work conflicts to home? Living a life of secrecy is hard. Your behaviour adapts to work. It shows up even if you don't say a word.
+Angel could sense the tension in the air - what is the matter honey - am I bringing my work n the briefcase ? Living a life of secrecy is hard. Your behaviour adapts to work. It shows up even if you don't say a word.
 
-The question for Fairy was if she may brood on it or should she confront. She had thought of talking to Friend first but how would she even tell her that Angel was ready to risk their relationship for his career. How should she frame the idea that he was ready to load a beta AI model in his mind - without even asking her - a model that may leave him altered into a different person for ever. To analyse the "unintended consequences" - horse shit. She chose to confront.
+The question for Fairy was if she may brood on it or should she confront. She had thought of talking to the Friend first but how would she even tell her that Angel was ready to risk their relationship for his career. How should she frame the idea that he was ready to load a beta AI model in his mind - without even asking her - a model that may leave him altered into a different person - for ever. And all this to analyse the "unintended consequences" some random project - horse shit. She chose to confront.
 
 Would you want to ask me if your work wanted you to go live on Mars for ever? - She asked. 
 
@@ -28,22 +28,17 @@ A small thing wouldn't take six months extension - she was logical. The relation
 
 She knows it - he thought - there is nothing to hide and it is not important "who told her" - yet he tried. 
 
-`Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality. 
+Before she could answer, they heard a bell. He looked at the monitors - it was Angel!
 
-Somewhat opposite of this word (in English) is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of our sensory reality. 
+---
 
-There are infinite possibilities, triggered by just five senses, when they experience the variations of our "real verse" — our tiny box. Our emotions, actions, feelings, pains and elations — all live in this moment. Modern Hindi poet `Ayodhya Singh Upadhyay 'Hariaudh'` describes the possibilities — `Bhagya` — in his famous poem `Ek Boond` — a droplet of rain. He says as a droplet leaves the clouds, she wonders what is in store for her?. Will I diminish in the dirt, or will I burn in some fire?
+Hope all well ! - asked Fairy opening the door - Angel right behind her.
+
+Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you !
 
 
-> Dev mere bhagy mein kya hai bada
+> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word (in English) is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of our sensory reality. 
 >
-> main bachungi ya milungi dhool mein?
->
-> ya jalungi gir angaare par kisi?
->
-> choo padungi ya kamal ke phool mein?
->
->---
 > O deity of luck, what ills wait in my fate?
 >
 > will I live, or lay on dirt to rot?
@@ -51,14 +46,44 @@ There are infinite possibilities, triggered by just five senses, when they exper
 > or fall, to burn on ember hot?
 >
 > or will I seep into an open lotus flower [^pearl] ?
+>
+> Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for stock market. We can't determine the movement of a single scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! They are never tired of trying out their luck ..
 
-It might appear that the fate pushes us in different direction — sets us up on newer unknown courses;  but overall sum of all that "push n pull", in the long term, evens out. Hence, the long term future is predictable. Thus astrology may predict only long term future. Present day nuances of our sensory reality are indeterminate. 
+Tell me what is going on - Mentor asked as a normal visitor may ask - but Angel thought he knew. May be it is the same source that leaked to Fairy also got to the Mentor. And may be it is best to talk this out in front of him. He was anyway split on righteousness of the mission.
 
-Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for stock market. We can't determine the movement of a single scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! They are never tired of trying out their luck ..
+Well - you know I had joined the sleep project.
 
-This is not to say that above knowledge absolutely absolves us from the sorrows or happiness. It only blunts the edge of pain or happiness because sensory reality is powerful...
+The project is at beta release and they need certification for the "unintended consequences". The experience is mind boggling. It is like a new world. Avatars may grow their own limbs - like us. They will feel the pains and pleasures like we do. How may I certify it without visiting it myself ! 
 
----
+How is the data ? Asked the Mentor.
+
+Well at Alpha stage - no human died - but 14 participants are in deep sleep. Their body functions are normal. 53 returned safe and fine. And rest have reported weird dreams. It was a hundred sample size.
+
+The reason I asked for six months because you need to learn mindLang - a new bio programming paradigm. And there are other phyco-conditioning requirements.
+
+So you are basically turning yourself into a developer to test the world ! - Fairy interjected - why don't you sign off based on the data ! And that is exactly what Brother wanted. He had genuinely believed this new certification had run max a week. And he had hoped Angel would be as excited to get this to the controlled beta. 
+
+What if you go in without mindLang. - asked the Mentor.
+
+Well technically you can learn it inside the experience to hack your way out but the chances of getting stuck inside are even odds - fifty fifty. Essentially the model is such that you will need to learn the language once inside the experience - it may take you a week or a month. Your body is well fed on "total life support". It's a matter of "luck".
+
+Can't trained developers reach you inside - Fairy got curious.
+
+They can - but if you took help then most of the sample reported weird dreams. And we don't know everything that changed in their lives. If you go in with mindLang certification, then you are sure to eject at any time. Then you know it was a game.
+
+I am sure you have access to the nostr media inside the experience - Mentor handed over the next post to Fairy while speaking to the Angel - he meant that he will still be productive on their media project. 
+
+Somehow Fairy thought the narrative has something to do with Angel's project. Does it has the code to a backdoor. Or an emergency exit ! - shaped in a story.
+
+Yes, you can access media but you can't take a reading list with you. You must discover it inside. You can look up anything but what you want to look up can't be in your memory. I mean then you can write your entire life and take it in with you. That is not a real experience! This complete detachment from the reality is the key selling point. You will breathe and eat through your avatar.
+
+Well, you can't really tell the "unintended consequences" without experience. I mean you understood on your last project because you were bitten by the bees. Isn't that why you got the patched gene active..
+
+What - that was a news to Fairy - were those bees dangerous !
+
+She looked at the Angel - who had strange expression in his eyes..
+
+> You can't predict the "present" - the way things unfold ..
 
 # `Bhagya`
 

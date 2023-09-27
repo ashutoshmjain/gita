@@ -1,34 +1,34 @@
-Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city on Wednesday. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him! How do some people assume they are more important than others! - she thought.
+Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him! How do some people assume they are more important than others! - she thought.
 
 "Your place, my bill" was a code that he was in deep shit. Something that he wouldn't take to the parents - his sister must bail him out. He was willing to eat lunch of her choice and also pay for it - a big accommodation from his standpoint.
 
 She ordered a vegan salad with a white wine. Brother understood she didn't want to indulge - she wanted to keep it business - what are you up to?
 
-He bit big into his equally big Burrito - I need ten coins that I would return with in six months - max. To his credit - he had never messed up the money part. Whenever she bailed him out - he recouped the money with five and half percent interest, before time. 
+He bit big into his equally big Burrito - I need hundred coins that I would return with in six months - max. To his credit - he had never messed up the money part. Whenever she bailed him out - he dropped the funds back in with five and half percent interest, before time. But he had never asked for hundred coins before.
 
-The problem:  "Fairy" was not too sure of his enterprise. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. He knew law is always by intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct", you may find millions - yet he acted selfish and greedy.  Probably, he didn't subscribe to the idea of "Truth". To him winner wrote the history and history was the only Truth. 
+> Money was not a problem for they probably had thousands of coins - no one knows for sure except for the three trustees. The problem was  Fairy didn't trust his drive. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. Being a lawyer himself, he knew law must always be of the intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct", you may find millions - yet he acted selfish and greedy.  Probably, he didn't subscribe to the idea of "Truth". To him winner wrote the history and history was the only Truth. 
 
-He spoke slower than his normal pitch - you don't wanna know this sister - I don't want to rock your relationships ! - and that is exactly what he wanted to do. And why not - that little Angel of dirt was trying to sabotage his biggest investment. And that was  after stealing one key to the trust - Fairy's heart. He needed to be tamed.
+He spoke slower than his normal pitch - you don't wanna know this sister - I don't want to rock your relationships ! - and that is exactly what he wanted to do. And why not - that little Angel of dirt was trying to sabotage his biggest investment. And that was  after stealing one key to the trust - Fairy's heart. He needed to be tamed. He could never understand why his own father passed on his key to the Angel - how could he be same as his trueborns.
 
-Go on - I am listening - she knew her friends and she knew she could handle the waves of duality.
+Go on - I am listening - she thought she was putting forward her stronger foot but she didn't realize she was being framed. 
 
 Don't say I didn't warn you ! And you can't bring it on me in the family - which meant you can't talk to no one. He knew Fairy would talk this over with Angel. All he wanted his name stayed out of it.
 
-Fairy rushed back home - she couldn't digest the extent to which people go to make money but she didn't want Angel be part of this. She knew the greed that comes with the riches and he barely escaped that world. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother had another and the last one was with Mother. They only needed two keys to clear the funds.
+Fairy rushed back home - she couldn't digest the extent to which people go to make money but she didn't want Angel be part of all this. She knew the greed that comes with the riches and she barely escaped that world. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother and Mother had one each and the last one was with Mentor. They needed only two for with-drawls but anything more than one coin could be vetoed - the other two must decline with in six hours. 
 
-In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her role was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world. But this was different - it was about Trust.
+In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her commitment was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world. But this was different - it was about Trust.
 
 ---
 
-Angel could sense the tension in the air - what is the matter honey - am I bringing my work n the briefcase ? Living a life of secrecy is hard. Your behaviour adapts to work. It shows up even if you don't say a word.
+Angel could sense the tension in the air - what is the matter honey - is it about the funds you authorized for your brother! He was getting an hourly notification !
 
 The question for Fairy was if she may brood on it or should she confront. She had thought of talking to the Friend first but how would she even tell her that Angel was ready to risk their relationship for his career. How should she frame the idea that he was ready to load a beta AI model in his mind - without even asking her - a model that may leave him altered into a different person - for ever. And all this to analyse the "unintended consequences" some random project - horse shit. She chose to confront.
 
-Would you want to ask me if your work wanted you to go live on Mars for ever? - She asked. 
+Would you ask me if your work wanted you to go live on Mars for ever? - She asked. 
 
 Angel couldn't look into her eyes. He knew he was living a lie but when must you tell your partner - what is that line - I am not going to Mars. It is just a small experiment.
 
-A small thing wouldn't take six months extension - she was logical. The relationship between a man and a woman is a protocol - "logic" doesn't work here because they see the reality from two different places. No one is right or wrong. You must trust the protocol - that both are right and the path forward is based on the trust in the protocol.
+A small thing wouldn't take six months extension - she was right. The relationship between a man and a woman is a protocol - "logic" doesn't work here because they see the reality from two different places. No one is right or wrong. You must trust the protocol - that both are right and the path forward is based on the trust in the protocol.
 
 She knows it - he thought - there is nothing to hide and it is not important "who told her" - yet he tried. 
 
@@ -41,15 +41,7 @@ Hope all well ! - asked Fairy opening the door - Angel right behind her.
 Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you !
 
 
-> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word (in English) is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of our sensory reality. 
->
-> O deity of luck, what ills wait in my fate?
->
-> will I live, or lay on dirt to rot?
->
-> or fall, to burn on ember hot?
->
-> or will I seep into an open lotus flower [^pearl] ?
+> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of our sensory reality. 
 >
 > Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for stock market. We can't determine the movement of a single scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! They are never tired of trying out their luck ..
 
@@ -59,27 +51,27 @@ Well - you know I had joined the sleep project.
 
 The project is at beta release and they need certification for the "unintended consequences". The experience is mind boggling. It is like a new world. Avatars may grow their own limbs - like us. They will feel the pains and pleasures like we do. How may I certify it without visiting it myself ! 
 
-How is the data ? Asked the Mentor.
+mm - How is the data ? Asked the Mentor.
 
-Well at Alpha stage - no human died - but 14 participants are in deep sleep. Their body functions are normal. 53 returned safe and fine. And rest have reported weird dreams. It was a hundred sample size.
+Well at Alpha stage - no human died - but 14 participants are in deep sleep. Their body functions are normal. 53 returned safe and fine. And rest have reported weird dreams. It was a hundred sample size. The reason I asked for six months because you need to learn mindLang - a new bio programming paradigm. And there are other conditioning requirements.
 
-The reason I asked for six months because you need to learn mindLang - a new bio programming paradigm. And there are other phyco-conditioning requirements.
+So you are basically turning yourself into a developer to test the world ! - Fairy interjected - why don't you sign off based on the data ! And that is exactly what Brother wanted. He had genuinely believed this new certification had run max a week. And he had hoped Angel would be as excited to get this to the controlled beta as he was. Holding up a project of this size for six months needed money. He was on hook for his funders won't sign off till the certificate. A beta software is as good as general availability from all safety standpoints.
 
-So you are basically turning yourself into a developer to test the world ! - Fairy interjected - why don't you sign off based on the data ! And that is exactly what Brother wanted. He had genuinely believed this new certification had run max a week. And he had hoped Angel would be as excited to get this to the controlled beta. 
+What if you go in without mindLang. - asked the Mentor - there must be a force eject!
 
-What if you go in without mindLang. - asked the Mentor.
-
-Well technically you can learn it inside the experience to hack your way out but the chances of getting stuck inside are even odds - fifty fifty. Essentially the model is such that you will need to learn the language once inside the experience - it may take you a week or a month. Your body is well fed on "total life support". It's a matter of "luck".
+Well technically you can learn it inside the experience to hack your way out but the chances of getting stuck inside are even odds - fifty fifty. Essentially the model is such that you will need to learn the language once inside the experience - it may take you a week or a month. Your body is well fed on "total life support". Going in without knowing is a matter of "luck", though the learning is accelerated. An hour inside is as much as a day outside. You can easily get a weeks learning in a day. That exactly is the sell pitch - learn faster by building inside the mind. You can choose a relevant AI model, you become an expert in a day. A ten day boot camp  is like six months project outside.
 
 Can't trained developers reach you inside - Fairy got curious.
 
-They can - but if you took help then most of the sample reported weird dreams. And we don't know everything that changed in their lives. If you go in with mindLang certification, then you are sure to eject at any time. Then you know it was a game.
+They can - but if you took help then most of the sample reported weird dreams. And we don't know everything that changed in their lives. If you go in with mindLang certification, then you are sure to eject at any time. Then you know it was a game. You pay to learn the mindLang.
 
-I am sure you have access to the nostr media inside the experience - Mentor handed over the next post to Fairy while speaking to the Angel - he meant that he will still be productive on their media project. 
+Is that the only source of revenue? - Mentor was surprised.
 
-Somehow Fairy thought the narrative has something to do with Angel's project. Does it has the code to a backdoor. Or an emergency exit ! - shaped in a story.
+That is what I know but who knows what they have on mind till I see it myself! - replied Angel.
 
-Yes, you can access media but you can't take a reading list with you. You must discover it inside. You can look up anything but what you want to look up can't be in your memory. I mean then you can write your entire life and take it in with you. That is not a real experience! This complete detachment from the reality is the key selling point. You will breathe and eat through your avatar.
+I am sure you have access to the media inside the experience - Mentor handed over the next post to Fairy while speaking to the Angel - he meant to check Angel would still be productive on their media project.  Somehow Fairy thought the narrative has something to do with this project. Does it has the code to a backdoor. Or an emergency exit ! - shaped in a story.
+
+Yes, you can access media but you can't take a reading list with you. You must discover it inside. You can look up anything but what you want to look up can't be in your memory. I mean then you can write your entire life and take it in with you. The biggest problem in learning is that we need to unlearn a lot. The idea is go in as a blank slate. This complete detachment from the reality is the key selling point. You will feel as if you breathe and eat through your avatar. And they say you get very hungry very fast. Your intake is almost ten times your normal consumption - and that is another revenue steam - to hold your body and continuously feed it with calories. In fact people have reported wight gain.
 
 Well, you can't really tell the "unintended consequences" without experience. I mean you understood on your last project because you were bitten by the bees. Isn't that why you got the patched gene active..
 

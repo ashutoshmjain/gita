@@ -166,3 +166,13 @@ He didn't know where he was headed ...
 ### Research and Notes
 
 [^pearl]: Since a lotus flower stays up above dirt and water, a droplet may retain it's own if it was held in a silky lotus flower. A good outcome from droplet's standpoint.
+
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+

@@ -1,4 +1,4 @@
-Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him! How do some people assume they are more important than others! - she thought.
+Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him! How do some people assume importance! - she thought.
 
 "Your place, my bill" was a code that he was in deep shit. Something that he wouldn't take to the parents - his sister must bail him out. He was willing to eat lunch of her choice and also pay for it - a big accommodation from his standpoint.
 

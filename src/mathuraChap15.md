@@ -71,15 +71,41 @@ That is what I know but who knows what they have on mind till I see it myself! -
 
 I am sure you have access to the media inside the experience - Mentor handed over the next post to Fairy while speaking to the Angel - he meant to check Angel would still be productive on their media project.  Somehow Fairy thought the narrative has something to do with this project. Does it has the code to a backdoor. Or an emergency exit ! - shaped in a story.
 
-Yes, you can access media but you can't take a reading list with you. You must discover it inside. You can look up anything but what you want to look up can't be in your memory. I mean then you can write your entire life and take it in with you. The biggest problem in learning is that we need to unlearn a lot. The idea is go in as a blank slate. This complete detachment from the reality is the key selling point. You will feel as if you breathe and eat through your avatar. And they say you get very hungry very fast. Your intake is almost ten times your normal consumption - and that is another revenue steam - to hold your body and continuously feed it with calories. In fact people have reported wight gain.
+Yes, you can access media but you can't take a reading list with you. You must discover it inside. You can look up anything but what you want to look up can't be in your memory. I mean then you can write your entire life and take it in with you. The biggest problem in learning is we need to unlearn a lot. The idea is go in as a blank slate. This complete detachment from the reality is the key selling point. You will feel as if you breathe and eat through your avatar. And they say you get very hungry very fast. Your intake is almost ten times your normal consumption - and that is another revenue steam - to hold your body and continuously feed it with calories. In fact people have reported wight gain.
 
-Well, you can't really tell the "unintended consequences" without experience. I mean you understood on your last project because you were bitten by the bees. Isn't that why you got the patched gene active..
+It is like Sleep - exclaimed the Mentor - as the name suggested - you can't take this world's memories to your sleep and you can rarely bring something out of the sleep - may be few dreams that you forget with in days - right ?
+
+Exactly - added the Mentor.
+
+Well, you can't really tell the "unintended consequences" without first hand  experience. I mean you understood on your last project because you were bitten by the bees. Isn't that why you got the patched gene active..
 
 What - that was a news to Fairy - were those bees dangerous !
 
 She looked at the Angel - who had strange expression in his eyes..
 
+I couldn't let you die so I told the story - the Mentor meant it. His love was visible. 
+
+And Fairy got a hint. We have ability to know beyond facial clues. 
+
+I am going in with you - she said. And she meant it. She picked up Angel's phone and vetoed the funds. Showing it to Mentor - I would let him talk to me again!
+
 > You can't predict the "present" - the way things unfold ..
+
+--- 
+
+The call came in less than five minutes. It was on Fairy's phone
+
+Your lover vetoed your authorisation - he said.
+
+Actually I did that on his phone and you are on speaker - Fairy replied - I have one condition for the whole thing.
+
+Brother thought his genius plan was falling apart but a smile came back to his lips as he heard the next sentence.
+
+I am going in with him - she said.
+
+Oh sure - more the merrier. I am sure you two will do the justice to "unintended consequence"
+
+No one saw that a new idea cropped up in his mind - what if both of them were to be jailed there for ever - in that new verse. With both there keys inactive for 30 days , he could ask for a transfer of keys to his sons - both of whom key developers of this project - the most ardent Wizards on whom he was forced to invest.
 
 # `Bhagya`
 

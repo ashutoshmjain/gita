@@ -14,6 +14,11 @@ Date
 -[] fix vimrc autocmd
 -[] vim nostr plugin
 -[] zap feature for mdbook
+-[] Orangepill.dev tipjar
+-[] filestr
+-[] nostr highlighter
+-[] nostr it - how to take notes on the webpages and send them to nostr.
 
 ## Plot
 Main story is humans. Our world. The cover story is how Angels and Wizards built the virtual world that we are living in. How did they create the sense of Time and Actions in our mortal world. Angels and Wizards are an advanced civilization that is roping the seeds of development in our world - through incarnations. Every new incarnation is a correction that must in entirety know the work of previous - every bigger prime must include all the orientations of previous primes. The sense of writing, the sense of storage of information externally , the idea of Karma were all planted. To the inhabitants of our world (us) they were told in "magic" - an assumption that it magically happened was given as a starting point. The goal is simply to decipher that magic - who we are ? How the knowledge seeped from the Angels into our virtual world. And yet when we sleep we are connected to their world. Our virtual world is largest simulation AI running on their servers to solve their problems but in order to know who they are they must create their complete reflection - we. In essence we are what they are - we can find them if we understand who we are - our reflection in our dreams. Wizards in our world create a new world - just like the wizards of that world. Angels in our world are trying to see internally just like the Angels in their world. They come to our world to save us from unintended consequences. Wizards must bring them in because without their reflection - the VR that they are making is incomplete - Duality must be carried forward.
+

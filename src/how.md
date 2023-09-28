@@ -9,15 +9,18 @@ As far as the features go, you can:
 - On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
 # `arjunUvaach` ..
-This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. It aspires to be  the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, esseys, comic strips, movies or podcasts based on this material. Or may even take it to the virual reality in some shape or form, or may even feed it to the AI models.
+This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. It aspires to be  the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, essays, comic strips, movies or podcasts based on this material. Or may even take it to the virtual reality in some shape or form, or may even feed it to the AI models.
 
 It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is (also) to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
 
-Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. And it sure isn't rocket science with light weight applications such as mdBook.
+Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. I use a command-line tool called `mdBook` to shape this into a book-like reading experience.
 
 
 ## mdBook
-This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). It turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool,  public domain work(s) may reach any device that could run a browser [^browser]. The “web app” , thus created,  has several goodies baked in. For example 
+
+This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). It turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool,  public domain work(s) may reach any device that could run a browser [^browser]. 
+
+The “web app” , thus created,  has several goodies baked in. For example 
 - It handles the layout and responsive design so my focus stays on the content instead of the architecture of the site. 
 - At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) . This experience is different from that of "wikis" or "writing platforms". I find it easier to read and write in this format.
 - One of the best (and probably least appreciated) feature of this app is "search" . The search, in here provides a three level view 
@@ -32,12 +35,12 @@ The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yel
 ## Favicon
 The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
-Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the [parity symmetry](https://en.wikipedia.org/wiki/Parity_(physics)). In `Vaidik` science, chirality is considered the basis of manifestion. A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
+Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three dimensional structure that passes the [parity symmetry](https://en.wikipedia.org/wiki/Parity_(physics)). In `Vaidik` science, chirality is considered the basis of manifestation. A self contained mirror image allows the manifestation(s) to ask the question - who am I? - the very reason eternal knowledge binds itself into actions.
 
 ## Cover Photo
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" diety. In that, `Ganesa` (being the mind child of `Siva`) represnts the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciouness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
+In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" deity. In that, `Ganesa` (being the mind child of `Siva`) represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
 
@@ -49,7 +52,7 @@ You can configure `Safari` (on a Mac) to block all the cookies. Press  "command 
 
 ![privacy](./privacy.png)
 
-.. btw , if you did that , you won't be able to load most of the websites (eg facebook or Instagram)  because ..well you know why ! :-)
+.. btw , if you did that , you won't be able to load most of the websites (eg facebook or Instagram)  because ..well you know why :-)
 
 A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there on the page for the sole purpose of profiling you but it allows those that are needed for the functionality of the website. Not an ideal case but still the best among available options. Not only it will save you from being profiled by hundreds of unknown data aggregators, it will help your pages load much faster.  And save you from those small videos clips at the bottom right of your screen that make the reading experience a living hell. I was surprised that reputed sites such as cnn.com use as many as 21 trackers, screen shot below
 
@@ -72,7 +75,7 @@ The collective name of this entire work, is `arjunUvaach`! You may call it the n
 All the content in this website is under creatives common v1.0. Which means everything is under public domain. The net of this license is as below
  ![license](./license.png)
 
- For more details please refer to details of [license](https://github.com/ashutoshmjain/gita/blob/main/LICENSE) at github repository for this work.
+ For more details please refer to details of [license](https://github.com/ashutoshmjain/gita/blob/main/LICENSE) at GitHub repository for this work.
 
  Since `Mahabharata's` and it's translation by `Kisari Mohan Ganguli` is also in public domain , thus using any of this work should technically follow the same rules. 
 
@@ -83,12 +86,30 @@ All the content in this website is under creatives common v1.0. Which means ever
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
 - I refrain from using citations as much as possible. The reason is simple — it is NOT a narrative chasing accuracy. The goal is to imagine possible scenarios, and then review them with an eye to seek comparative probability. This also means it is a subjective discretion.
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
-- It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information. Infact the name `arjunUvaach` means "Arjuna speaks". And most of the times in `Gita`, Arjuna speaks to seek knowledge. `Gita` is answers to Arjuna's questions.
+- It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information. In fact, the name `arjunUvaach` means "Arjuna speaks". And most of the times in `Gita`, Arjuna speaks to seek knowledge. `Gita` is answers to Arjuna's questions.
 - Footnotes are used to avoid verbosity in the body of article, but they do carry useful information. For paucity of time, if you happen to "skip-over", or for keeping the flow of reading, I suggest to run by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in foot notes :-)
 
 ## Contact
 
 You can reach me at [whatsApp](https://wa.me/message/QTKE4LV2EBGCH1) for any questions or suggestions. Since I don't use any cookies or trackers on these pages, only way for me to know you are reading this text, is if you drop me a text ..hopefully of appreciation :-)
+
+## Tips and Donations:
+
+Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You will see at the bottom of each page a donation box as shown below ..
+
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+You can pay as many `Satoshies` as you want. If you don't have a lightening wallet I highly recommend installing one. I normally use [Alby](https://getalby.com) on as a Firefox or Chrome extension. On mobile phones I have used [Wallet of Satoshi](https://www.walletofsatoshi.com) - there are many more.
+
+Please feel free to leave a message with your tips. I would definitely respond back with a lightning message.
+
+
 
 ## research and notes:
 
@@ -98,14 +119,14 @@ You can reach me at [whatsApp](https://wa.me/message/QTKE4LV2EBGCH1) for any que
 - Omnipresent - Browsers are available for every platform.  For popular graphical platforms such as Mac, Windows, iOS or Android, the choices are practically limitless.  Even for pure terminal users there are many choices - w3m, lynx, elink to name a few. 
 - For writers, advantages are many. Prime among them is shaking off intermediary publishers and content aggregators. In addition, simple html allows infinite customizability. For tech savvy writers, markdown offers easy scribing. And the best is that publishing direct to the web is 100% free. 
 - The content published directly to the web is future proof in the sense no matter the evolution of devices from desktops to smart phones to AR/VR headsets, the open internet content will always be available. The content locked in platforms such as Wikipedia or Facebook will always be subject to the policies of aggregators. It may go behind a paywall at a short notice, as happened in case of Medium.
-- Universally accessible - Nation states may ban big platforms such as Twitter in China and Tiktok in USA, it is almost impossible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about sponsoring censorship resistant perpetual content!
+- Universally accessible - Nation states may ban big platforms such as Twitter in China and Tiktok in USA, it is almost impossible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about censorship resistant perpetual content!
 
 Browsers are particularly suitable for the long text ..
-- Easily reach the embedded links for references and jump back in at your reading point  - that is the very purpose of the browser, but if you are reading on apps or devices such as "kindle" or on a epub reader or simply a pdf , this feature may not be as easily accessible. You will need to anyway fire up a browser.
-- With text to speech plugins, most major browsers offer AI based reading. Which means you can listen to a page on demand. With onset of AI revolution, this feature is going to further improve.
-- Offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. Thus webpages should be one full chapter. Even a small book may easily fit in one web page these days. You can always save a page as a file on your computer with a single press of "ctrl+s" on most browsers.
-- Notes and bookmarks - One of the most interesting thing on the webbrowser is to take and save your notes on the note taking app that you regularly use. For eample I normally use "Google Keep" for my notes. Simply select a piece of text on the page and share it with Keep. Google will not only save store and let you edit your notes later, it will also bookmark the exact place on the the webpage where you picked up the note - again, it's not only a link to the webpage , it is to the exact lines your selected on the page. I use this feature not ony to take a note but also to store my book marks in one place. For example if I am reading say five different long posts on blogs or news sites, I just share a line with my Keep to remind me where I left the page 
-- Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word. On chrome you can install "Google Dictionary" extension and Firefox's most recommended addon for the spell is "dictionary anywhere" among hundreds others. 
+- Easily reach the embedded links for references and jump back in at your reading point. You may laugh off this point as "obvious", but if you are reading on apps or devices such as a  "kindle", this feature may not be as easily accessible. You will need to anyway fire up a browser.
+- With text to speech plugins, most major browsers offer AI based reading. Which means you can listen to a page on demand and possibly in many different voices. With onset of AI revolution, this feature is going to further improve. Days are nit far that every web page would sound like a well crafted podcast.
+- Offline reading - Yes, a page once loaded, can be viewed as long as it isn't refreshed. You can always save a page as a file on your computer with a single press of `ctrl+s` on most browsers.
+- Notes and bookmarks - One of the most interesting thing on the web-browser is to take and save your notes on the note taking app that you regularly use. For example on Android, I normally use "Google Keep" for my notes. Simply select a piece of text on the page and share it with Keep. Google will not only save store and let you edit your notes later, it will also bookmark the exact place on the webpage where you picked up the note - again, it's not only a link to the webpage , it is to the exact lines your selected on the page. I use this feature not only to take a note but also to store my book marks in one place. For example if I am reading say five different long posts on blogs or news sites, I just share a line with my Keep to remind me where I left the page 
+- Word meanings and pronunciations - simply select a word or phrase, right click and most of the browsers take you to a dictionary. "Safari" makes it even more intuitive with a little dialog box that pops on the word. On chrome you can install "Google Dictionary" extension and Firefox's most recommended add-on for the spell is "dictionary anywhere" among hundreds others. 
 - If you are into keyboards and shortcuts, then browser is something you already love. There may be some nuances for different browsers may implement different key bindings for the same shortcut. Or the shortcuts may be different on Windows v/s a Mac. One of the way to circumvent this problem is to use plug-ins such as "Vimium". Vimium or similar plugins are available for the big threes - Chrome, Firefox and Safari. Vimium implements uniform bindings based on "vi" that is almost like a universal standard, available for not only browsers but many editors, spreadsheets, photo galleries and countless other applications.
 - You can save a snapshot of a webpage as a legal proof with open archive's "wayback machine". [wayback machine](https://archive.org/web/) allows you to catalog web pages even if the site is totally removed from the internet. 
 
@@ -116,18 +137,18 @@ Browsers are particularly suitable for the long text ..
 
 [^text]: mdBook takes the written words in "markdown" format and churns out a fully deployable webApp.
 - markDown is a "translation engine" that translates a piece of simple written text into html that is easily understood and parsed by web browsers. You still need to follow markdown notations. It is not a bad deal because markdown notations are lot easier than typing html tags.
-- markDown is prebuilt into mdbook.  It thus takes the text written in markdown format and converts it into a static website that looks and feels like a book. You still need a server to deploy this website. And you still need to connect it with a domain name.
+- markDown is pre-built into mdbook.  It thus takes the text written in markdown format and converts it into a static website that looks and feels like a book. You still need a server to deploy this website. And you still need to connect it with a domain name.
 - a static website is something that doesn't changes it's content till a new version is deployed. 
-- Since static websites put minimal load on the webservers, places like github or gitlab allow free hosting and publishing.
-- They also allow connection to your own domain name if you have one.
+- Since static websites put minimal load on the web-servers, places like GitHub or Gitlab allow free hosting and publishing. They also allow connection to your own domain name if you have one.
+- If you are a Nostrich you already know you can publish text to any number of nostr relays - a much better option for the writers because you are not tied to one walled garden and you can possibly monetize your work.
 
 ---
 
-[^browser]: Because of limited resources, I only use ‘Firefox’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or elinks that don't support javascipt natively.
+[^browser]: Because of limited resources, I only use ‘Firefox’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or links that don't support JavaScript natively.
 
 ---
 
-[^tablet]: This content is “designed” for ‘in-browser’ reading experience on a laptop or a desktop. It should work pretty well on Tablets and Smartphones, even on a Kindle browser (if you want to read it in the bright sun light), but the mainstream browsers ( Safari and Chrome ) are purposefully kept dumbed down on smart devices. For one you can't install extensions or "add ons" on most of the browsers on smart(er) devices :-) I prefer [Kiwi](https://kiwibrowser.com/) Browser just because it allows me the ability to add extensions. Kiwi uses open source Chromium project as the base along with webkit. Highly recommend.
+[^tablet]: This content is “designed” for ‘in-browser’ reading experience on a laptop or a desktop. It should work pretty well on Tablets and Smartphones, even on a Kindle browser (if you want to read it in the bright sun light), but the mainstream browsers ( Safari and Chrome ) are purposefully kept dumbed down on smart devices. For one you can't install extensions or "add ons" on most of the browsers on smart(er) devices :-) I prefer [Kiwi](https://kiwibrowser.com/) Browser just because it allows me the ability to add extensions. Kiwi uses open source Chromium project as the base along with web kit. Highly recommend.
 
 
 ---

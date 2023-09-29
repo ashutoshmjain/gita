@@ -38,18 +38,24 @@ Before she could answer, they heard a bell. He looked at the monitors - it was A
 
 Hope all well ! - asked Fairy opening the door - Angel right behind her.
 
-Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you ! Hope I am not inconvenience.
+Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you !  - he paused for a bit - Hope I am not inconvenience.
 
 
 > `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of the "present"
 >
-> Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for stock market. We can't determine the movement of a single scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! They are never tired of trying out their luck ..
+> Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for equities. We can't determine the movement of a scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! 
 
-Tell me what is going on - Mentor asked as a normal visitor may ask - but Angel thought he knew. May be it is the same source that leaked to Fairy also got to the Mentor. And may be it is best to talk this out in front of him. He was anyway split on righteousness of the mission.
+Tell me what's going on - Mentor asked as a normal visitor may ask - but Angel thought he knew. May be it is the same source that leaked to Fairy also got to the Mentor. And may be it is best to talk this out in front of him -- He could vouch Angel's role. 
 
 Well - you know I had joined the sleep project.
 
-The project is at beta release and they need certification for the "unintended consequences". The experience is mind boggling. It is like a new world. Avatars may grow their own limbs - like us. They will feel the pains and pleasures like we do. How may I certify it without visiting it myself ! 
+Angel nodded - a bit surprised at the interrogation!
+
+They now call it project Bonaventure. It is at beta release and they need certification for the "unintended consequences". 
+
+What exactly are they doing - Mentor didn't expect him as forthcoming with his work details. Something must have gone wrong - he thought.
+
+The experience is somewhat new. It could be spun into many shapes - for now they pivoted on a learning environment. They claim you can learn something in a day that had take you six months in a rigorous school.
 
 mm - How is the data ? Asked the Mentor.
 

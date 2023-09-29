@@ -159,7 +159,7 @@ King continued the conversations — Since you spoke about king's responsibiliti
 
 King looked at the child prodigy with love and respect - Your views are of immense value to me. And I seek your vantage for I am truly curious. This is not a test. This is a conversation.
 
-Having understood where the king was coming from, `Dwaipayana` spoke calmly - `Maharaaj` king's first responsibility is security of his lands for without a safe border there exists no kingdom. 
+Having understood where the king was coming from, `Dwaipayana` spoke calmly - `Maharaaj` king's first responsibility is security of his lands. He must establish an undisputed border with his adjacent kingdoms for without a well-defined border there exists no kingdom. The border petrol must carry King's vision. They must not stop humans to commute across the border. Their purpose is to weed out foreign aggressors.
 - Second is law and order because a kingdom always have a bigger threat from internal chaos. 
 - Third, is "right to work" without any prejudice attached, because unproductive people seek abrupt changes. 
 - Fourth is a well grounded succession plan, because most anarchies occur during transfer of power, 

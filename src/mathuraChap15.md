@@ -1,18 +1,18 @@
-Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him! How do some people assume importance! - she thought.
+Fairy was surprised to see a lunch invitation from her Brother. It read simple and straight - I am in the city. Lets grab some lunch together. Your place, my bill. She knew her brother too well to be surprised on the message. He thought the world must drop everything to attend to him! How do some people assume they are importance! - she thought.
 
-"Your place, my bill" was a code that he was in deep shit. Something that he wouldn't take to the parents - his sister must bail him out. He was willing to eat lunch of her choice and also pay for it - a big accommodation from his standpoint.
+"Your place, my bill" was a message that he needed help. Something that he wouldn't take to the parents - his sister must bail him out. He was willing to eat lunch of her choice and also pay for it - a big accommodation from his standpoint.
 
 She ordered a vegan salad with a white wine. Brother understood she didn't want to indulge - she wanted to keep it business - what are you up to?
 
 He bit big into his equally big Burrito - I need hundred coins that I would return with in six months - max. To his credit - he had never messed up the money part. Whenever she bailed him out - he dropped the funds back in with five and half percent interest, before time. But he had never asked for hundred coins before.
 
-> Money was not a problem for they probably had thousands of coins - no one knows for sure except for the three trustees. The problem was  Fairy didn't trust his drive. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. Being a lawyer himself, he knew law must always be of the intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct", you may find millions - yet he acted selfish and greedy.  Probably, he didn't subscribe to the idea of "Truth". To him winner wrote the history and history was the only Truth. 
+> Money was not a problem for they probably had thousands of coins - no one knows for sure except for the four trustees. The problem was  Fairy didn't trust his drive. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. Being a lawyer himself, he knew law must always be of the intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct", you may find millions - yet he acted selfish and greedy.  Probably, he didn't subscribe to the idea of "Truth". To him winner wrote the history and history was the only Truth. 
 
-He spoke slower than his normal pitch - you don't wanna know this sister - I don't want to rock your relationships ! - and that is exactly what he wanted to do. And why not - that little Angel of dirt was trying to sabotage his biggest investment. And that was  after stealing one key to the trust - Fairy's heart. He needed to be tamed. He could never understand why his own father passed on his key to the Angel - how could he be same as his trueborns.
+He spoke slower than his normal pitch - you don't wanna know this sister - I don't want to rock your relationships ! - and that is exactly what he wanted to do. And why not - that little Angel of dirt was trying to sabotage his biggest investment. And that was  after stealing one key to the trust. He not only  won Fairy's heart but his father too confided more in Angel. He could never understand why his own father passed on his key to the Angel - how could he be same as his trueborns.
 
 Go on - I am listening - she thought she was putting forward her stronger foot but she didn't realize she was being framed. 
 
-Don't say I didn't warn you ! And you can't bring it on me in the family - which meant you can't talk to no one. He knew Fairy would talk this over with Angel. All he wanted his name stayed out of it.
+Don't say I didn't warn you ! And you can't bring it on me. He knew Fairy would talk this over with Angel. All he wanted his name stayed out of it.
 
 Fairy rushed back home - she couldn't digest the extent to which people go to make money but she didn't want Angel be part of all this. She knew the greed that comes with the riches and she barely escaped that world. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother and Mother had one each and the last one was with Mentor. They needed only two for with-drawls but anything more than one coin could be vetoed - the other two must decline with in six hours. 
 
@@ -20,7 +20,7 @@ In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's w
 
 ---
 
-Angel could sense the tension in the air - what is the matter honey - is it about the funds you authorized for your brother! He was getting an hourly notification !
+Angel could sense the tension in the air - what is the matter honey - is it about the funds you authorized for your brother! He was getting an hourly notification to decline.
 
 The question for Fairy was if she may brood on it or should she confront. She had thought of talking to the Friend first but how would she even tell her that Angel was ready to risk their relationship for his career. How should she frame the idea that he was ready to load a beta AI model in his mind - without even asking her - a model that may leave him altered into a different person - for ever. And all this to analyse the "unintended consequences" some random project - horse shit. She chose to confront.
 
@@ -38,10 +38,10 @@ Before she could answer, they heard a bell. He looked at the monitors - it was A
 
 Hope all well ! - asked Fairy opening the door - Angel right behind her.
 
-Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you !
+Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you ! Hope I am not inconvenience.
 
 
-> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of our sensory reality. 
+> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of the "present"
 >
 > Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for stock market. We can't determine the movement of a single scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! They are never tired of trying out their luck ..
 

@@ -6,44 +6,42 @@ She ordered a vegan salad with a white wine. Brother understood she didn't want 
 
 He bit big into his equally big Burrito - I need hundred coins that I would return with in six months - max. To his credit - he had never messed up the money part. Whenever she bailed him out - he dropped the funds back in with five and half percent interest, before time. But he had never asked for hundred coins before.
 
-> Money was not a problem for they probably had thousands of coins - no one knows for sure except for the four trustees. The problem was  Fairy never had a feel for his motivations. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws of the jurisdiction. He knew law must always be of the intent. Finding loopholes is a right approach for the code that ran the machine but if you tried to find loopholes in the "code of conduct", you may find millions - yet he acted selfish and greedy.  Probably, he didn't subscribe to the idea of "Truth". To him winner wrote the history and history was the only Truth. 
+> Money was not a problem for they probably had thousands of coins - no one knows for sure except for the four trustees. The problem was - Fairy never had a feel for his motivations. He wanted to be the richest Wizard - the means were least of his concern as long as he adhered to the laws. He knew law must always be of the intent. Finding loopholes was a right approach for the code that ran the machine, but if you tried to find loopholes in the "code of conduct", you may find millions - yet he acted selfish and greedy. Probably, he didn't subscribe to the idea of "Truth". To him winner wrote the history and history was the only Truth. 
 
-He spoke slower than his normal pitch - you don't wanna know this sister - I don't want to rock your relationship ! - and that is exactly what he wanted to do. And why not - that little Angel of dirt was trying to sabotage his biggest investment. And that was  after stealing one key to the trust. He not only  won Fairy's heart but his father too confided more in Angel. He could never understand why his own father passed on his key to the Angel - how could he be same to his father as his own.
+He spoke slower than his normal pitch - you don't wanna know this sister - I don't want to rock your relationship ! - and that is exactly what he wanted to do. And why not - that little Angel of dirt was trying to sabotage his biggest investment. And that was  after stealing one key to the trust. He not only  won Fairy's heart but his father too confided in Angel. He could never understand why his own father passed on his key to the Angel - how could he be same to his father as his own!
 
 Go on - I am listening - she thought she was putting forward her stronger foot but she didn't realize she was being framed. 
 
 Don't say I didn't warn you ! And you can't bring it on me. He knew Fairy would talk this over with Angel. All he wanted his name stayed out of it.
 
-Fairy rushed back home - She knew the greed that comes with the riches and she barely escaped that world. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother and Mother had one each and the last one was with Angel. They needed only two for with-drawls but anything more than one coin could be vetoed - the other two must decline with in six hours. 
+Fairy rushed back home - She knew the greed that comes with the riches and she barely escaped that world. She did sign the invoice her brother sent from his business account. She held one key of the multiSig Trust - Brother and Mother had one each and the last one was with Angel. They needed only two for with-drawls but anything more than one coin could be vetoed - one of the other two must decline with in six hours. 
 
-In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her commitment was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world. But this was different - it was about Trust.
+In normal circumstances, Fairy wouldn't listen to anyone talking about Angel's work. If anyone knew - good for them - her commitment was to NOT know. And neither was that she couldn't find if she wanted to - information travelled much faster in her world. But this was different - it was about love.
 
 ---
 
 Angel could sense the tension in the air - what is the matter honey - is it about the funds you authorized for your brother! He was getting an hourly notification to decline.
 
-The question for Fairy was if she may brood on it or should she confront. She had thought of talking to the Friend first but how would she even tell her that Angel was ready to risk their relationship for his career. How should she frame the idea that he was ready to load a beta AI model in his mind - without even asking her - a model that may leave him altered into a different person - for ever. And all this to analyse the "unintended consequences" some random project - horse shit. She chose to confront.
+The question for Fairy was if she may brood or should she confront. She had thought of talking to the Friend first but how would she even tell her that Angel was ready to risk their relationship for his "career". How should she frame the idea that he was ready to "deep-sleep"  his mind - without even asking her - a state that may leave him altered into a different person - for ever. And all this to analyse the "unintended consequences" some random project - horse shit. She chose to confront.
 
 Would you ask me if your work wanted you to go live on Mars for ever? - She asked. 
 
-Angel couldn't look into her eyes. He knew he was living a lie but when must you tell your partner - what is that line - I am not going to Mars. It is just a small experiment.
+Angel couldn't look into her eyes. He knew he was living a lie but when must you tell your partner - what is that line ? - he wondered. Out loud he spoke - I am not going to Mars. It is just a small experiment -- a lie - they both knew.
 
-A small thing wouldn't take six months extension - she was right. The relationship between a man and a woman is a protocol - "logic" doesn't work here because they see the reality from two different places. No one is right or wrong. You must trust the protocol - that both are right and the path forward is based on the trust in the protocol.
+A small experiment wouldn't take six months! - she was right. 
 
 She knows it - he thought - there is nothing to hide and it is not important "who told her" - yet he tried. 
 
-Before she could answer, they heard a bell. He looked at the monitors - it was Angel!
+Before he could answer, they heard a bell. He looked at the monitors - it was Angel!. A twist of Fate !
 
 ---
 
 Hope all well ! - asked Fairy opening the door - Angel right behind her.
 
-Oh - nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you !  - he paused for a bit - Hope I am not inconvenience.
+Oh - Absolutely! Nothing serious - I was heading  to LA - I thought to soup up my car while I check on two of you !  - he paused for a bit - Hope I am not inconvenience!
 
 
-> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of the "present"
->
-> Think of our tiny box analogous to a  casino. We can't predict the result of one single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Same is true for equities. We can't determine the movement of a scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice ! 
+> `Bhagya` (abstract noun)  - The generally accepted meaning of this Sanskrit word is "fate". If we peel a layer, the meaning reduces to the way things unfold in (immediate) present — our sensory reality.  Somewhat opposite of this word is "Destiny" — the long term outcomes. As an astrologer, `Maharishi Parashara` learnt early on —  one can predict the destiny, but it is impossible to predict the  "fate" — the nuances of the "present". Think of our tiny box analogous to a  casino. We can't predict the result of a single hand. But we can assert the outcomes of say a thousand trials - with fair degree of accuracy. Which means we must be "present" for thousand trials. Which interalia means "time" makes things predictable.  We can't determine the movement of a scrip in short term, but a long term investment in a broad index always bears the fruits.  A knowledgeable player, thus, is never swayed by the coincidental outcomes. Their focus is always on the righteous actions. On the other hand, most people are lost in the pains and elations of the current moment. They bet on outcome of a single throw of dice! 
 
 Tell me what's going on - Mentor asked as a normal visitor may ask - but Angel thought he knew. May be it is the same source that leaked to Fairy also got to the Mentor. And may be it is best to talk this out in front of him -- He could vouch Angel's role. 
 
@@ -51,37 +49,37 @@ Well - you know I had joined the sleep project.
 
 Angel nodded - a bit surprised at the interrogation!
 
-They now call it project Bonaventure. It is at beta release and they need certification for the "unintended consequences". 
+They now call it project Bonaventure. It is at beta release - they need certification for the "unintended consequences". 
 
-What exactly are they doing - Mentor didn't expect him as forthcoming with his work details. Something must have gone wrong - he thought.
+What exactly are they doing? - Mentor didn't expect him as forthcoming with his work details. Something must have gone wrong - he thought.
 
 The experience is somewhat new. It could be spun into many shapes - for now they pivoted on a learning environment. They claim you can learn something in a day that had take you six months in a rigorous school.
 
 mm - How is the data ? Asked the Mentor.
 
-Well at Alpha stage - no human died - but 14 participants are in deep sleep. Their body functions are normal. 53 returned safe and fine. And rest have reported weird dreams. It was a hundred sample size. The reason I asked for six months because you need to learn mindLang - a new bio programming paradigm. And there are other conditioning requirements.
+Well at Alpha stage - no human died - but 14 participants went more than eight hours of sleep - longest being 14 hours. Their body functions are normal. 53 returned safe on time and are fine. And rest have reported weird dreams. It was a hundred sample size. I mean data is perfect.
 
-So you are basically turning yourself into a developer to test the world ! - Fairy interjected - why don't you sign off based on the data ! And that is exactly what Brother wanted. He had genuinely believed this new certification had run max a week. And he had hoped Angel would be as excited to get this to the controlled beta as he was. Holding up a project of this size for six months needed money. He was on hook for his funders won't sign off till the certificate. A beta software is as good as general availability from all safety standpoints.
+He looked at Fairy - The reason I asked for six months because you need to "condition" your mind.
 
-What if you go in without mindLang. - asked the Mentor - there must be a force eject!
+So you are basically turning yourself into a developer to test the world ! - Fairy interjected - why don't you sign off based on the data ? 
 
-Well technically you can learn it inside the experience to hack your way out but the chances of getting stuck inside are even odds - fifty fifty. Essentially the model is such that you will need to learn the language once inside the experience - it may take you a week or a month. Your body is well fed on "total life support". Going in without knowing is a matter of "luck", though the learning is accelerated. An hour inside is as much as a day outside. You can easily get a weeks learning in a day. That exactly is the sell pitch - learn faster by building inside the mind. You can choose a relevant AI model, you become an expert in a day. A ten day boot camp  is like six months project outside.
+And that is exactly what Brother wanted. He had genuinely believed this new certification had run max a week. And he had hoped Angel would be as excited to get this to the controlled beta as he was. Holding up a project of this size for six months needed money. He was on hook for his investors won't sign off till the certificate. A beta software is as good as general availability from all safety standpoints.
 
-Can't trained developers reach you inside - Fairy got curious.
+You must have talked to the participants - what do they say - what do they feel - Mentor was unable to understand the problem.
 
-They can - but if you took help then most of the sample reported weird dreams. And we don't know everything that changed in their lives. If you go in with mindLang certification, then you are sure to eject at any time. Then you know it was a game. You pay to learn the mindLang.
+Yes - they don't remember any thing - just like our normal sleep - replied the Mentor.
 
-Is that the only source of revenue? - Mentor was surprised.
+So then what is the problem - Mentor was at the brink!
 
-That is what I know but who knows what they have on mind till I see it myself! - replied Angel.
+Well - first I can't analyse the "unintended consequences" without even "second hand" information. And second  they all converted millions of Sats to a coin "Bona" - the currency of "Bonaventure". But "Bona" has no public ledger. There is no record of the transactions. It seems all the money got sunk into a dreamland. 
 
-I am sure you have access to the media inside the experience - Mentor handed over the next post to Fairy while speaking to the Angel - he meant to check Angel would still be productive on their media project.  Somehow Fairy thought the narrative has something to do with this project. Does it has the code to a backdoor. Or an emergency exit ! - shaped in a story.
+Oh - then it is clearly a drug influence the people into buying your coin - the Fairy interjected.
 
-Yes, you can access media but you can't take a reading list with you. You must discover it inside. You can look up anything but what you want to look up can't be in your memory. I mean then you can write your entire life and take it in with you. The biggest problem in learning is we need to unlearn a lot. The idea is go in as a blank slate. This complete detachment from the reality is the key selling point. You will feel as if you breathe and eat through your avatar. And they say you get very hungry very fast. Your intake is almost ten times your normal consumption - and that is another revenue steam - to hold your body and continuously feed it with calories. In fact people have reported wight gain.
+Well - there is no drugs -  no sensor injection - not even radiation - there is nothing illegal. I mean it is technically not a crime if consenting adults buy some coin. 
 
-It is like Sleep - exclaimed the Mentor - as the name suggested - you can't take this world's memories to your sleep and you can rarely bring something out of the sleep - may be few dreams that you forget with in days - right ?
+Are they using scents - asked the Mentor ? 
 
-Exactly - added the Mentor.
+Yes! - replied the Angel.
 
 Well, you can't really tell the "unintended consequences" without first hand  experience. I mean you understood on your last project because you were bitten by the bees. Isn't that why you got the patched gene active..
 
@@ -111,7 +109,8 @@ I am going in with him - she said.
 
 Oh sure - more the merrier. I am sure you two will do the justice to "unintended consequence"
 
-No one saw that a new idea cropped up in his mind - what if both of them were to be jailed there for ever - in that new verse. With both there keys inactive for 30 days , he could ask for a transfer of keys to his sons - both of whom key developers of this project - the most ardent Wizards on whom he was forced to invest.
+No one saw that a new idea cropped up in his mind - what if both of them were to be jailed there for ever - in `Bonaventure`. With both there keys inactive for twenty four hours , he could ask for a transfer of keys.
+
 
 # `Bhagya`
 

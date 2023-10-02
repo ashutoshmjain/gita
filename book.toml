@@ -14,6 +14,6 @@ edit-url-template = "https://github.com/ashutoshmjain/gita/edit/main/{path}"
 no-section-label = true
 
 [output.html.print]
-enable = false    # include support for printable output
+enable = true    # include support for printable output
 
 

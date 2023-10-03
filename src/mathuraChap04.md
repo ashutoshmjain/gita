@@ -115,3 +115,18 @@ And he saw the potent qualities in  `Matsyagandha`, as prospective surrogate mot
 [^fusion]: Sun is quite the opposite of our particle accelerators. In particle accelerators we break the particles to find more elementary particles while in sun the forces of nature combine the elementary particles to form the heavier atoms that lead to creation of elements of our periodic table. Sun, as a metaphor, represents all the stars in the universe. We must have trillions of stars to find one that could ultimately support complex intelligent life on one of it's planet. However, the rules of manifestation (at Sun) are no different. The quarks are formed with interplay of three forces. In Quantum Chromodynamics these forces are represented by three color charges - Red , Blue and Green (along with their anti-colors). These forces work in an eightfold way, represented by eight strong force particles called "Gluons". Gluons are the basis of "Quarks" that lead to formation of most of the mass - protons and neutrons. Just like the fundamental color charges (Red, blue and Green) all the mass-ful particles (quarks and protons and neutrons etc) must be born with their own anti-particles - their mirror image. These particles are said to have a spin 1/2 (Fermi Dirac statistic). Spin half signifies that the system (particle and it's anti particle) returns to original configuration after two full rotations (720 degrees) - one full rotation of the particle and one full rotation of the anti particle. As per the fundamental rules of QCD - mass can exist only in spin 1/2 particles. The spin 1 particles ( such as photons and gluons, may only carry force - they can't manifest. Thus parity symmetry is the fundamental principle of our observable universe. In essence "knowledge" manifest only to find it's mirror image - to answer the profound question - who am I? 
 
 
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

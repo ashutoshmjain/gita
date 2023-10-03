@@ -111,3 +111,18 @@ Even `Maharishi` was unaware that the eighth child of `Devki` was going to be th
 - Everyone gets a chance to see the other side but we fail to see it. For example the transition from youth to the old age is an opportunity to see our "tiny box" from an opposite side but we miss the chance because the actors around us (`Sanghdosh`) don't allow to see the new. Even in altered world we continue to retain our past - with our family and with our friends, we continue to hone our echo-chambers. At some point our echo-chambers get so irrelevant that the "death" remains the only way to clean up the system. An opportunity to really understand our `Swaroop` turns into our "demise". 
 - It is not uncommon that people who are normally born poor turn rich in the old age and vice-versa. Stronger people lose their vitality faster than the ones born weak. Same with looks, influence and popularity. A chance to see both the sides was always built in the design of the wave nature but we lose the opportunity because we don't approach it like an opportunity.
 - Effectively - instead of looking at the center from two different sides, we split the center around our `Ahamkara`. We see a rise with the youth and a demise as we grow old - two separate halves of reality centered around our ego - mirror images - one on the left and another on the right - a wave!
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

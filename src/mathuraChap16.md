@@ -10,3 +10,18 @@ Both the dogs ran to the door and pounced on him as soon as he opened the door. 
 # `Prem` - Love
 
 Most people thought the prophecy was ploy of `Kansa` to arrest `Vasudev`. Those who believed in such things thought it was something for the future - who knows whether `Devki` have eight children or not. And it was so far away in future - who cares. Even `Vasudev` and `Devki` didn't believe that `Kansa` meant what he said. `Vasudev` thought it was a way to remove him from the council meetings - to silence his voice. Away from the public life, he discovered love for `Devki` and what she truly brought to his life!
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

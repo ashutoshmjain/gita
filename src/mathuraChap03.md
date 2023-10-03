@@ -111,3 +111,18 @@ The main concern  of `Maharishi`,  his primary focus was to find the true righte
 ---
 
 [^shruti]: `Shruti` meant the spoken word when the humans used to sustain knowledge, only in the vocal format. Maybe because scribing was difficult. With the advent of writing tools, many `Shruties` were scribed. In essence the scriptures were born out of `Shruties`. The words that got written down, entered the collective memory of humanity.  Such written down early scriptures were called `Smrities`. For example `Manu Smriti` is among the oldest written down scripture, trans-encoded from `Shruti` to `Smriti`. The Sanskrit word `Shruti` got deformed into `Shutri` in Hindi with passage of time. It is important to bear in mind that every thing that we talk (chatter) is NOT `Shruti`. `Shruties` were consciously identified pieces of wisdom, preserved through formal recital to enable passage of knowledge from one generation to the next.
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

@@ -86,3 +86,18 @@ But he did take the question with him as he got off the boat and started walking
 
 [^sanskrit]: Hard it may appear, but Sanskrit is a poem friendly language because the order of words in a sentence is immaterial to the meaning. The intent stays unchanged whether you use an active or a passive style. This is one reason "Indian English authors" have a hard time in consistent use of active narration. Not only such broad reorder (active v/s passive), in Sanskrit you can start with a verb and end the sentence with a subject without impacting the meaning. For example, `ahm gachami` (I am going), and `gachmai ahm`, have same meaning, but in English "going am I" has no meaning. Since the rules to state a "word" are so clear (and well defined) that a sentence always carry the same meaning, irrespective of the order of words: this allows poets to easily create a much better rhyme despite stricter rules of rhyme. It appears as if the language was designed to speak poetry on the fly. In the "texting" world, the closest tool to scribe is stenography or "vi" editor. [vi](https://codedocs.org/what-is/vi) was purpose built to write thousands of files of BSD Unix. That makes it most powerful scribing tool despite hundreds of editors that showed in last thirty years of computing. The other cool feature of `Sanskrit` is sheer absence of helping verbs. If you notice the above example, English used three words for a simple sentence , "I am going" ; whereas Sanskrit used, only two `ahm gachami`. This not only makes it compact language but again helps in flexible order because there is no rule for helping verb must precede the verb (or else bring the helping verb forward to the beginning of a sentence to make a question) . However this means the conjugation scope for the "verb" must be exhaustive. Take a look at conjugation table of a simple Sanskrit verb [`gam`](https://sanskrit.inria.fr/cgi-bin/SKT/sktconjug.cgi?q=gam;c=1;font=roma) (go) , verses the same for [go](https://www.collinsdictionary.com/conjugation/english/go). Even if you ignore the "helping verbs", the available options to express "go" are order of magnitude less in English. Given the extensive repertoire of rules, `Sanskrit` has a steeper learning curve, but once you start thinking in `Sanskrit`, it is quite possible to speak in poems ! Just the way , once  you get used to `vim` style scribing , you can never go back to  normal 'mouse and click' editor. To sum up this note: `Vaidik sanskrit` was purpose built for speaking poetry, `vi` was purpose built for scribing code. And the amazing thing is, these techniques keep reinventing themselves in ever new interfaces. For example Sanskrit finds its expressions in hundreds of spoken languages , `vi` finds it key bindings in modern editors , browsers, terminals - everywhere you need to scribe.
 
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

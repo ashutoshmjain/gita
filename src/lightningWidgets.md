@@ -1,4 +1,3 @@
-# Work In Progress
 <lightning-widget 
   name="" 
   accent="#f9ce00" 

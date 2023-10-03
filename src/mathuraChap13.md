@@ -203,3 +203,18 @@ He was already late for his next meeting...
 [^stamp]: The written messages from kings were still uncommon. For one, it was hard to write long messages and second, kings thought it was hard to describe the emotional context of the message in written format. Only an authorized messenger could fully explain kings dictum along with the thoughtful context that led to the decree. In sensitive matters, king would often call the person(s) for a private conversation. General decrees were sent to city or village heads through messengers who were responsible for talking one on one with every single family in their area.
 
 
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

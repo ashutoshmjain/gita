@@ -1,6 +1,12 @@
 
 Mentor was shocked with Fairy's sudden call to go in with Angel. But we have six months to explain to her and may be she would reconsider - he thought. But tonight his plans suddenly changed. Instead of heading out to LA, he returned back - to his dogs.
 
+The sense of smell is the primary sense. Not only for dogs but for humans too. The difference is humans developed the vision lot more than other species though not as much as the birds. Benefits of vision are directly proportional to  how high may we place our two eyes. Taller you could stand or higher you could fly , more improved vision you would tend to develop as a species. For someone who crawls the earth, vision offers hardly any value - on the other side, smell is the strongest in the dirt. So most land dwellers developed sense of smell when they moved from water to earth. That was their key discovery verses the fish who stayed in the water with only one sense - that of touch. Senses collect data. The "Intelligence" is a biological neural network that in trained on sensory data. 
+
+The other advantage of our smelling apparatus is it works 24 by 7 - even in the normal sleep.  It is an advantage verses vision - we need to shutdown eyes in order to sleep. Both of his dogs were part of a study last year. They were trying to visualize that dogs create in their minds through the scents. The experiment was rather simple. A brain activity monitor was added to dog's collar to plot the blood flow changes with changing smells. Based on dogs' mental model , smells could be designed to keep them calm. All participants got the collars that emanated scents based on current mental makeup - to remove unnecessary distractions. Mentor saw the benefits first hand. As soon as he removed the collars - both the dogs behaved like dogs. With collars on - they stayed calm. No running to the door on the press of bell - no pouncing on the visitors.
+
+Both the dogs ran to the door and pounced on him as soon as he opened the door. There were no collars.
+
 # `Prem` - Love
 
 Most people thought the prophecy was ploy of `Kansa` to arrest `Vasudev`. Those who believed in such things thought it was something for the future - who knows whether `Devki` have eight children or not. And it was so far away in future - who cares. Even `Vasudev` and `Devki` didn't believe that `Kansa` meant what he said. `Vasudev` thought it was a way to remove him from the council meetings - to silence his voice. Away from the public life, he discovered love for `Devki` and what she truly brought to his life!

@@ -1,6 +1,6 @@
 # Summary
 - [Mathura](./mathuraLanding.md)
-  - [Book 1]()
+  - [Book 1](./mathuraBook1.md)
       - [Invocation](./prologue.md)
       - [Trigger](./mathuraChap01.md)
       - [Reboot](./mathuraChap02.md)

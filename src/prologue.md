@@ -40,7 +40,7 @@ This external storage leads to the notion of a "civilization". A civilization su
 
  The external store of knowledge drives human world. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the knowledge - text. Even in digital realm, most of the meaningful content is text. 
 
- The storage was first realized with the "spoken word". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Bramhrishi Vaśiṣṭha` - great grand father of `Dwaipayana`, understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital (`Shruti`[^shruti]), was the basis of first civilization.
+ > The storage was first realized with the "spoken word". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Bramhrishi Vaśiṣṭha` - great grand father of `Dwaipayana`, understood this innate ability of humans and channeled it to preserve knowledge. Thus precise spoken words - recital (`Shruti`[^shruti]), was the basis of first civilization.
 
  With "written word" storage capacity got a boost. It is estimated that there are over 130 million books in existence as of 2021. Library of Alexandria, built by Ptolemy in early days of the written word ( around 3rd century bc) had anywhere between seventy to seven hundred thousand "Papyrus" rolls. A conversion into a modern textbook size should end up to say a hundred thousand books - a lot, given they were all hand written and carefully transported to Alexandria for safe keeping and reference.
 
@@ -64,7 +64,7 @@ In addition to the poetic excellence,`Mahabharata` defined a new way of life - a
 
 The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-***The legend says,` Dwaipayana` invoked `Bramh`to seek scribing assistance***. `Bramha`, in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+***The legend says,` Dwaipayana` invoked `Bramh` (the entirety) to seek scribing assistance***. `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
 
 > "O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; 

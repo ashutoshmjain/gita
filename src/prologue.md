@@ -16,7 +16,7 @@ The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowl
 
 `Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then existing wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
 
-This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it for ever in every human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
+This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 
 As a complimentary gift, to ensure this knowledge stayed accessible to everyone, he ushered the humanity from "spoken word" to the "written text". The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
@@ -60,7 +60,7 @@ Vast external store of knowledge leads to creation of new universes. [^kalki] !
 
 Not only did `Dwaipayana` edit four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)- a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph.`Jaya` was later expanded into a mega-epic, [Mahabharata](https://mahabharata.shutri.com). With around 1.8 million words,`Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry is such that it inspired `Kalidasa` (the Shakespeare of Sanskrit).`Abhijnana Shakuntalam`, the marquee work of`Kalidasa`  is a rewrite of the plot first conceived by`Dwaipayana`.
 
-In addition to the poetic excellence,`Mahabharata` defined a new way of life - action orientation (`Karm Yoga`). The epic forms, the cultural basis of India - one of the oldest civilization. It holds within it, center-folded, the gist of four Vedas - `Bhagvat Gita` - the first written source of the idea of `Karma`.
+In addition to the poetic excellence,`Mahabharata` defined a new way of life - action orientation (`Karm Yoga`). The epic forms, the cultural basis of India - one of the oldest civilizations. It holds within it, center-folded, the gist of four Vedas - `Bhagvat Gita` - the first written source of the idea of `Karma`.
 
 The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
@@ -85,7 +85,7 @@ The question is, how did `Dwaipayana` manage to write such epics at a time when 
 >
 > - also the Adhyatma; 
 >
-> - the sciences called Nyaya, Orthoephy and Treatment of diseases; 
+> - the sciences called Nyaya (justice), Orthoephy and Treatment of diseases; 
 >
 > - charity and Pasupatadharma; 
 >

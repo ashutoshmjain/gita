@@ -78,15 +78,6 @@ let mapleader=","
 set spell                       " Turn spelling on
 colorscheme default
 
-" Using vim standard folding without any plugin
-set foldmethod =manual
-set foldcolumn =1
-highlight Folded ctermbg = NONE
-highlight FoldColumn ctermbg = NONE
-let g:markdown_folding = 1
-let g:markdown_enable_folding = 1
-
-
 " # Install Plugins
 call plug#begin('~/.vim/plugged')
 

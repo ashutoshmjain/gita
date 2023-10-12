@@ -1,7 +1,6 @@
 # Summary
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./mathuraBook1.md)
-      - [Invocation](./prologue.md)
+  - [Book 1](./prologue.md)
       - [Trigger](./mathuraChap01.md)
       - [Reboot](./mathuraChap02.md)
       - [Expression](./mathuraChap03.md)
@@ -9,8 +8,7 @@
       - [Island](./mathuraChap05.md)
       - [Naive](./mathuraChap06.md)
       - [Resolution](./mathuraChap07.md)
-  - [Book 2](./mathuraBook2.md)
-      - [Proposal](./mathuraChap08.md)
+  - [Book 2](./mathuraChap08.md)
       - [Birth](./mathuraChap09.md)
       - [Identity](./mathuraChap10.md)
       - [Eight-fold](./mathuraChap11.md)

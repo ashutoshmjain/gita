@@ -141,6 +141,24 @@ The place between the eyes, right above the nose is called `Aajna Chakra`. This 
 The fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
 
 Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution you that this story may change your mind and your life for ever ! 
+
+<div class="cover-medium">
+  <div class="centered">
+
+[Birth](./mathuraChap09.md) ...
+[Identity](./mathuraChap10.md) ... 
+[Eight-fold](./mathuraChap11.md) ...
+[Currency](./mathuraChap12.md) ...
+[Work](./mathuraChap13.md) ...
+[Night](./mathuraChap14.md) ...
+[Fate](./mathuraChap15.md) ...
+
+  </div>
+</div>
+
+
+
+
 <lightning-widget 
   name="" 
   accent="#f9ce00" 

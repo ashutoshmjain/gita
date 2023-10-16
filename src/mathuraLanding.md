@@ -28,11 +28,11 @@
 </div>
 
 
-`Mathura` was the geographic center of `Bharata` — old India. It was also the physical origin of first scriptures - `Vedas`. And the mass adoption of the `written-word`. `Mahabharta` was scribed here -  in eighteen `Parvas` (books). 
+`Mathura` was the geographic center of `Bharata` — old India. It was also the physical origin of first scriptures - `Vedas`. And the mass adoption of the `written-word`. `Mahabharta` was scribed here -  in a series of eighteen `Parvas` (books). The legend says that `Mahabharata` was too big to scribe by humans. Thus the writer - `Krishna Dwaipayana` summoned help from the `Ganesa` - the elephant God.
 
-‘Text’ was the new medium. It was somewhat similar to our migration from analog to digital. Not only did it demand new writing skills, it also meant the populations must learn reading, beyond a select class of teachers or sages. New tools such as Pen, Ink and Palm leaves were invented; just the way we needed mass adoption of computers in early nineties. Divine intelligence `Ganesa` was invoked to usher the humanity into this new era, just the way we are using "large language models" in current digital realm. 
+‘Text’ was the new medium. It was somewhat similar to our migration from analog to digital. Not only did it demand new "scribing" skills, it also meant the populations must learn to "read" -  beyond a select class of teachers or sages. New tools such as Pen, Ink and Palm leaves were invented; just the way we needed mass adoption of computers in early nineties. Divine intelligence `Ganesa` was invoked to usher the humanity into this new era, just the way we are using "large language models" in current digital realm. 
 
-The written word commanded as much attention back then  as the "code" in our times.  Which meant iterative rigor to precipitate the words into immaculate verses - such that the message stayed in the human cache. The upfront effort to organize scribing paraphernalia (palm leaves, ink etc) was an entry barrier. It justified that the text must be accurate, succinct and comprehensible without much commentary.
+The written word commanded as much attention back then  as the "code" in our times.  Which meant iterative rigor to precipitate the words into immaculate verses - such that the message stayed in the human cache. The upfront effort to organize scribing paraphernalia (palm leaves, ink etc) was an entry barrier. It justified that the text must be accurate, succinct and comprehensible to the highest standards.
 
 The legend says `Mahabharata` got to it's current state in over six hundred years. It was like the Wikipedia of that time except it was also poetry of extraordinary caliber. Every king, every invention of value, must find it's place in `Mahabharata`, but in a fashion that was both - readable and sonorous. The superfluous vastness of current (digital) knowledge store, on the other hand, necessitates that a new conscious form must replace humans. Or humans amalgamate with AI tools. Good or bad ? - only time shall tell!
 
@@ -42,7 +42,7 @@ In an estimate, a hundred page book, printed on human size frame back then, used
 
 What motivations led to this major step-up in our approach to preservation of knowledge? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth before putting into text? 
 
-Following pages are a filtered version of my research investigating that revolution. And not surprisingly, it makes a fascinating story! And also a reflection on why humans keep changing the medium in pursuit to climb the ladder of consciousness! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of a "paradigm shift" is more or less similar. There is a lot to learn!
+Following pages are a filtered version of my research investigating that revolution. And not surprisingly, it makes a fascinating story! And also a reflection on why humans keep changing the form in pursuit to climb the ladder of consciousness! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of a "paradigm shift" is more or less similar. There is a lot to learn!
 
 
 ### notes and stuff

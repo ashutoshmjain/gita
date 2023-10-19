@@ -1,4 +1,4 @@
-In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritualized act of instantiating superior powers within oneself through intense meditation and sacrifice. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
+In `Sanskrit`, `Aavahan` means "Invocation". It is a ritualized act - for instantiating superior powers within oneself -  through intense meditation and sacrifice. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
 
 Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This shift, among many other things, included ..
 - improvements in the language model (e.g. punctuation) to support scribing.
@@ -7,8 +7,7 @@ Scribing `Mahabharata` was one such uphill task. A narrative such detailed that 
 - triggering a self sustaining (and censor resistant) pay back model around scribing; 
 - and the patience to write (and read) long meaningful text.
 
-But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. The idea of "transcription on palm leaves" [^transcription] was to `Mahabharata`, the way a "keyboard & display" was to IBSYS - purpose built. [^c]
-
+But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. The idea of "transcription on palm leaves" [^transcription] was to `Mahabharata`, the way advancements in "keyboard & display" was to development of "Unix" operating system and "C" computer language [^c].
 
 The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
 
@@ -151,10 +150,18 @@ This was, thus, the tipping point, when humanity embraced a new medium for stori
 ![oldest palm manuscript](./oldestPalm.jpg)
 
 ---
+[^c]: With advent of telegraph, in early 1900s, the good old typewriter morphed into "teletypes" (ttys) - the visual mode to send text and codes through a wire. Even the news companies such as AP and Reuters used ttys to communicate the stories across the pond. Fast forward to early seventies, DEC (Digital Equipment Corporation) adapted the ttys to interact with computers on a commercial scale and an era of massive innovation was unleashed. The tapes and punch cards were still around and they had stay for long, but the buzz was **DEC's VT100 terminal**. The DEC VT 100  was compatible with their minicomputer **PDP eleven** shipped in 1978.  
+- PDP eleven was the first platform on which Ken Thompson and Dennis Ritchie ported "Unix" in newly minted "C" language. The development of Unix (and C) had started at Bell labs roughly around four years back on stable **PDP seven** minicomputer (around 1974). 
+- The **DEC VT52**, introduced in 1975, was an earlier video terminal that preceded the more advanced **VT100.** The VT52 had limited capabilities compared to the VT100, but it was still an important step in the development of computer terminals. The PDP-7, when initially used for Unix development, was connected to various types of terminals, including the VT52. This terminal setup provided an interactive and more user-friendly way to interact with the PDP-7 , making the development process more efficient and accessible. 
+- The availability of terminals like the VT52 played a role in shaping the early Unix environment and its user interface. It  had a 24x80 character display, which could show 24 rows and 80 columns of text characters. It featured a keyboard with a standard QWERTY layout. However, its keyboard layout and number of keys were basic compared to later models.  It supported the **ASCII** character set, like the VT100, allowing it to display text and control codes based on the ASCII standard. It could display simple graphics, though it was primarily designed for text-based applications.  Many VT52 terminals featured a parallel printer port for printing output. 
+- The availability of modern keyboards and terminals played a significant role in the development of Unix and the C programming language. Here's how these factors influenced the development:
+    - **Interactivity and User-Friendly Interfaces:** Unix was designed with the goal of creating an interactive and user-friendly operating system. The availability of terminals with full keyboards made it possible for users and developers to interact with Unix in a more intuitive and efficient way compared to earlier computer systems that relied on punch cards or teletype terminals. This interactivity facilitated the development process.
+    - **Portability:** The C programming language, developed alongside Unix, was designed to be highly portable and platform-independent. This was made possible, in part, by the availability of terminals with standardized ASCII keyboards, which allowed for consistent input methods across different computer systems. This contributed to the ease with which C programs could be written and compiled on different machines.
+    - **Text Processing and Editing**: Modern keyboards made text processing and code editing more efficient. Unix included powerful text processing tools like ed, ex, and eventually **vi** , which took advantage of the capabilities of modern terminals and keyboards for text manipulation. These tools became integral to the Unix development process.
+    - **Collaboration:** The availability of terminals and keyboards allowed for easier collaboration among Unix developers. Multiple people could work on Unix and C simultaneously, sharing and editing code on the same system, thanks to the interactive nature of the terminal interface.
+    - **Efficiency and Productivity:** Modern keyboards and terminals improved the efficiency and productivity of developers, which was critical in the rapid development of Unix and C. The ability to write, test, and modify code quickly on these systems was a significant advantage.
+- In summary, while modern keyboards and terminals weren't the sole factors behind the success of Unix and C, they certainly played a crucial role in enabling the interactivity, portability, and efficiency that are associated with these technologies. They were part of a broader technological ecosystem that allowed Unix and C to thrive and become foundational elements of modern computing.
 
-[^c]: Purpose Built ..
-- IBSYS, released around 1960, was one of the early operating systems that provided support for a keyboard and display system, allowing users to interact with the computer through a keyboard and view output on a display screen. While these early keyboard and display systems might not resemble the ones we are familiar with today, they laid the foundation for modern computer interfaces.
-- IBSYS was designed for the IBM 7090 and 7094 mainframe computers, which had limited memory and processing power by today's standards. The operating systems of that era were written in assembly language, which is relatively low-level and compact compared to modern high-level programming languages.
 ---
 
 [^8th]: `Poorna-avtaara` - The eighth incarnation

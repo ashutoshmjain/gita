@@ -2,6 +2,14 @@
 
 Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of changes here-below. If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". More than ten such changes go to the "major edits" category. If I shuffle couple of paras up or down, without changing the underying theme - it is minor update. If I pretty much restructure  a post or change the theme, it is a "major update". One can always see the entire change history at github repo.
 
+
+## Oct 20, 23
+
+Reorganized the text a little bit to carve out eight chapters per book and to avoid repetition of the text on cover pages.
+- [Mathura](./mathuraLanding.md) - New title text that aligns well and explains the name of the book.
+  - [Book 1](./prologue.md) - Major update . Moved the last section to the landing page. Lots of improvements in second section - the "information store"
+
+
 ## Sep 30, 23 
 
 - [Mathura](./mathuraLanding.md)  - Added a Satoshi donation box. Updated the links.

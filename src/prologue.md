@@ -1,6 +1,6 @@
-In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritual of intense meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are sending a "call to action" to everyone around you but internally you resolve to act yourself - alone. If came to that, you might put everything on this bet. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
+In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritual of intense meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are sending a "call to action" to everyone around you but internally you resolve to act yourself - alone. If came to that, you might bet everything on this cause. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This multi-generational shift, among many other things, included ..
+Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This multi-generational shift, among many other things included ..
 - improvements in the language model (e.g. punctuation) to support scribing.
 - extension of calligraphic symbols to capture the true essence of spoken sounds.
 - development of writing tools such as palm leaves, ink, and pen. 
@@ -9,15 +9,15 @@ Scribing `Mahabharata` was one such uphill task. A narrative such detailed that 
 
 But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. The idea of "transcription on palm leaves" [^transcription] was to `Mahabharata`, the way "terminals" were to "Unix" and "C" [^c].
 
-The legend says, `Dwaipayana` invoked `Bramha` - the embodiment of all pervading supreme knowledge, to accomplish this pursuit.
+As described in the very first book of `Mahabharata` (`Adi Parva`), the sage writer `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
 
 # `Aavahan`
 
-`Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, then existing wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
+`Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, the experiential wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 
-As a complimentary gift, to ensure this knowledge stayed accessible to everyone, he ushered the humanity from "spoken word" to the "written text". The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+As a complimentary gift, to ensure everyone had a fair access to this knowledge, he ushered the humanity from "spoken word " to the "written text ". The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
@@ -25,7 +25,7 @@ As a complimentary gift, to ensure this knowledge stayed accessible to everyone,
 - `Vrkayurveda` — Insights into Botany, and 
 - `Vishnu Purana`[^vishnu] — Stories of `Vishnu` - the universal manifestation potency.
 
-His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational charter to decipher and document knowledge.
+His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone panned a multi-generational charter to decipher and document knowledge.
 
 ## 0.1
  ----
@@ -34,7 +34,9 @@ The idea of "text" was profound, with far reaching implications. It was a quantu
 
 The primary difference between humans and other species is our ability to store "information" outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we may harness "knowledge" from our vast external store of "information".  
 
-> `Karma` is the action that converts information into knowledge[^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `ViKarma` are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `ViKarma`. Both are equally important - like two wheels of a cart. A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. Same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine tuned skills are used effectively, they become source of inspiration for the rest thus initiating a virtuous cycle of `Karma` and `ViKarma`.
+> `Karma` is the action that converts information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `ViKarma` are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `ViKarma`. Both are equally important - like two wheels of a cart. 
+>
+> A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. Same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine tuned skills are used effectively, they become source of inspiration for the rest thus initiating a virtuous cycle of `Karma` and `ViKarma`.
 
 You may argue other species too sustain information and they do turn it into knowledge. For example a dog may hide a bone and he knows how and when to retrieve it back. Bees make beehives to store honey. Elephants remember the river even after hundreds of years. The difference, however, is not only the size and scope, it is also in persistent nature of our storage. In case of humans the external store of information is vast, shared and is well documented. The last part is important - being documented makes it asynchronously available. It is as if a teacher is always with us - in our books. The recipes of success are available to us in written format.
 

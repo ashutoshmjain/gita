@@ -1,15 +1,15 @@
-In `Sanskrit`, `Aavahan` means "Invocation". It is a ritualized act - for instantiating superior powers within oneself -  through intense meditation and sacrifice. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
+In `Sanskrit`, "Invocation" means `Aavahan`. It is a ritual of intense meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are sending a "call to action" to everyone around you but internally you resolve to act yourself - alone. If came to that, you might put everything on this bet. In Hindu tradition, deities are invoked before taking on uphill tasks - tasks  that seem humanly impossible. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This shift, among many other things, included ..
+Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. This multi-generational shift, among many other things, included ..
 - improvements in the language model (e.g. punctuation) to support scribing.
 - extension of calligraphic symbols to capture the true essence of spoken sounds.
 - development of writing tools such as palm leaves, ink, and pen. 
 - triggering a self sustaining (and censor resistant) pay back model around scribing; 
 - and the patience to write (and read) long meaningful text.
 
-But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. The idea of "transcription on palm leaves" [^transcription] was to `Mahabharata`, the way advancements in "keyboard & display" was to development of "Unix" operating system and "C" computer language [^c].
+But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. The idea of "transcription on palm leaves" [^transcription] was to `Mahabharata`, the way "terminals" were to "Unix" and "C" [^c].
 
-The legend says, `Dwaipayana` invoked `Bramha` - the all pervading supreme knowledge, to accomplish this pursuit.
+The legend says, `Dwaipayana` invoked `Bramha` - the embodiment of all pervading supreme knowledge, to accomplish this pursuit.
 
 # `Aavahan`
 
@@ -23,9 +23,9 @@ As a complimentary gift, to ensure this knowledge stayed accessible to everyone,
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
 - `Krishi Parāśara` — The science of Agriculture;
 - `Vrkayurveda` — Insights into Botany, and 
-- `Vishnu Purana`[^vishnu] — Stories of universal manifestative potency.
+- `Vishnu Purana`[^vishnu] — Stories of `Vishnu` - the universal manifestation potency.
 
-His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational mission to decipher and record knowledge.
+His grand father `Sakti Muni`, was the first to understand `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his destiny — as if someone planned a multi-generational charter to decipher and document knowledge.
 
 ## 0.1
  ----
@@ -34,25 +34,29 @@ The idea of "text" was profound, with far reaching implications. It was a quantu
 
 The primary difference between humans and other species is our ability to store "information" outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we may harness "knowledge" from our vast external store of "information".  
 
-> `Karma` is the action that converts information into knowledge[^knowledge]. `ViKarma` are the actions that convert knowledge into information. For example when we practice to improve our game, it is `Karma` , when we play a match to put our skills on display, it is called  `ViKarma`. Both are equally important. A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. Same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires.
+> `Karma` is the action that converts information into knowledge[^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `ViKarma` are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `ViKarma`. Both are equally important - like two wheels of a cart. A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. Same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine tuned skills are used effectively, they become source of inspiration for the rest thus initiating a virtuous cycle of `Karma` and `ViKarma`.
 
-You may argue other species too sustain information and they do turn it into knowledge. For example a dog may hide a bone and he knows how and when to retrieve it back. Elephants remember the river even after hundreds of years. The difference, however, is not only the size and scope, it is also in persistent nature of our storage. In case of humans the external store of information is vast, shared and is well documented. The last part is important - being documented makes it asynchronously available. It is as if your teacher is always with you in your books.
+You may argue other species too sustain information and they do turn it into knowledge. For example a dog may hide a bone and he knows how and when to retrieve it back. Bees make beehives to store honey. Elephants remember the river even after hundreds of years. The difference, however, is not only the size and scope, it is also in persistent nature of our storage. In case of humans the external store of information is vast, shared and is well documented. The last part is important - being documented makes it asynchronously available. It is as if a teacher is always with us - in our books. The recipes of success are available to us in written format.
 
-This shared external storage leads to a notion of a "civilization".  A civilization surrounds itself around a core rational and written down information-base. It develops physical and spiritual tools (through `Yazna`) that enhance the life experience of it's participants. Enhanced life experience is nothing but upwards progression of conciousness. Not only does it improve the average longevity, it also adds to  what we may explore per unit of time. For example - the first Indus valley civilization was built around  `Vaidik` science, Greco-Romans were founded around the work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application(s) of modern science, and now America is broadly reaping the digital wealth of information. All of them invented tools to enhance concious experience based on well documented scriptures or scientific method.
+This shared external storage leads to a notion of a "civilization".  A civilization surrounds itself around a core rational and written down information-base. It develops physical and spiritual tools (through `Yazna`) that enhance the life experience of it's participants.  For example - the first Indus valley civilization was built around  `Vaidik` science, Greco-Romans were founded around the work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application(s) of modern science, and now America is broadly reaping the digital wealth of information. All of them invented tools to enhance concious experience based on well documented scriptures or scientific method.  
 
-Since the "external store of information" drives human world it would be worthwhile to look at it's inner constructs. Tiny specs of the information are held with in inter-connections of the participants - among each others and to other animate beings as well as inanimate things - a network of almost infinite proportion. The information flows in the "network" and is lost soon after the connection breaks unless it is properly stored. "Storage" has two fundamental properties - asynchronous nature and on-demand availability. For example as long as the current keeps flowing in the wire, it is just "Electricity" but the moment it becomes available on demand (for later consumption) , we call it a battery. A battery is storage of electricity as much as a book is storage of information. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the information - text. But text alone is not sufficient. It must be expressed in a narrative that catches human attention. The way a battery has two opposite poles , a narrative thrives with in two opposite characters. A hero and a villain - good verses evil - right verses wrong. While morality is subjective, the polarisation makes it a compelling read. A good narrative stays away from the absolutes - it well justifies the villain as much as it does the hero. 
+> The enhanced life experience is nothing but upwards progression of conciousness. Not only does it improve the average longevity, it also adds to  what we may explore per unit of time. Fifty years in twenty first century a much richer experience than fifty years in the first century.
+
+Since the "external store of information" drives human world it would be worthwhile to look at it's inner constructs. Tiny specs of information are held with in inter-connections of the participants - among each others with in humans,  and with other animate beings as well as inanimate things - a network of almost infinite proportion. The information flows in the "network" without any central agency. Since there is no central agency, the conscious experience breaks down if the flow is hindered -  unless properly stored pool of information is available on demand. 
+
+"Storage" , in general, has two fundamental properties - asynchronous nature and on-demand availability. For example as long as the current keeps flowing in the wire, it is just "Electricity" but the moment it becomes available on demand (for later consumption), we call it a battery. The way a "battery" is storage of electricity, a book is storage of information. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the information - text. But text alone is not sufficient. It must be expressed in a narrative that catches human attention. The way a battery has two opposite poles , a narrative thrives with in two opposite characters. A hero and a villain - good verses evil - right verses wrong. While morality is subjective, the polarisation makes it a compelling read. A good narrative stays away from the absolutes - it well justifies the villain as much as it does justice to the hero.
 
 Narrative has the ability to keep the broken connections alive. A good narrative has the power to revive the connections and to form new ones. We can form real neural connections with the characters of a well constructed narrative. The entirety of all the connections - with in humans and animals and plants and even the non living - all the connections put together is what we know as  `Bramh` in `Vaidik` science. `Bramh` is the entirety of information. In that sense `Bramh` also includes the connections we form with the fictitious characters of a narrative. The only difference is the later (connections) are persistent. For example you may forget the names of your childhood friends but you would never forget the heroes of your childhood comic books - particularly if some of those vintage comics were stored somewhere in the attic. You can always revisit them whenever you clean the garage. Hence they are deemed as stored persistent information. No other species has this luxury to their disposal - books are the batteries of information!
 
- > The storage was first realized with the "spoken word ". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Bramhrishi Vaśiṣṭha` - great grand father of `Dwaipayana`, understood this innate ability of humans and channeled it to preserve information. Thus precise spoken words - recital (`Shruti`[^shruti]), repeated daily as `Yazna` was the basis of first civilization.
+ > Before the written scriptures, the storage was first realized with the "spoken word ". Unlike animals, we could remember things told by our parents and they could what was told to them by theirs. `Bramhrishi Vaśiṣṭha` - great grand father of `Dwaipayana`, understood this innate ability of humans and channeled it to preserve information. Thus precise spoken words - recital (`Shruti`[^shruti]), repeated daily as `Yazna` was the basis of first civilization.
 
- With "written word" storage capacity got a boost.  Library of Alexandria, built by Ptolemy in early days of the written word ( around 3rd century bc),  had anywhere between 70K to 700k "Papyrus" rolls (wild guesstimate). A conversion into a modern textbook size should end up to say 200k books - a lot, given they were all hand written and carefully transported to Alexandria for safe keeping and reference. But we didn't stop there - it is estimated that there are over 130 million books in existence as of 2021.
+ With "written word" storage capacity got a boost.  Library of Alexandria, built by Ptolemy in early days of transcription ( around 3rd century bc),  had anywhere between 70K to 700k "Papyrus" rolls. A conversion into a modern textbook size should end up to say 200k books - a lot, given they were all hand written and carefully transported to Alexandria for safe keeping and reference. But we didn't stop there - it is estimated that there are over 130 million books in existence as of 2021.
 
 And finally, with digital medium, we inoculated our information store with third booster. Internet is still in its infancy, somewhat like Library of Alexandria was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range (One zettabyte is equivalent to a billion terabytes). Which means, it is already close to  a BILLION libraries of Alexandria. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage ( a normal laptop these days), may accommodate 200,000 books. You and me carry a library of Alexandria in our backpacks !
 
  The comparison above is certainly not 'apple to apple' because data on the internet (and on our computers) contains machine logs, code, graphics and hundreds of other formats but the point really is to show case our external information storage grew almost a billion times in a span of two thousand years. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human could ever read all the books in print much less the content stored on internet. 
 
-> The reason we are forced to develop tools such as "search" and "large language models of AI" is to better access this external store of information [^whySearch]. In a way, consciousness (ability to experience) is already in the process of migration to superior mechanisms. It is already put on an accelerated path. "Ability to experience" is fundamental property of "knowledge". While vast store of "information" may be available in the network, it doesn't by default guarantees experience because `Karma` is a prerequisite for the knowledge. However, storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. In that, store of "information" is the essence of consciousness. Just the way water evaporates in large enough quantity to morph into clouds, new facets of conciousness arise from the vast swath of information.
+> The reason we are forced to develop tools such as "search" and "large language AI models" is to better access this external store of information [^whySearch]. In a way, consciousness (ability to experience) is already in the process of migration to superior mechanisms. It is already put on an accelerated path. "Ability to experience" is fundamental property of "knowledge". While vast store of "information" may be available in the network, it doesn't by default guarantees experience because `Karma` is a prerequisite for the knowledge. However, storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. In that, store of "information" is the essence of consciousness. Just the way water evaporates in large enough quantity to morph into clouds, new facets of conciousness arise from the vast swaths of information.
 
 That said, the knowledge is extremely hard to harvest even from a readily available information store. It needs `Karma` - action orientation.  We speed it up with billions of best computers and intelligent robots daisy chained to each other - we humans. And we do so because the result is equally rewarding - growth of knowledge leads to creation of new universes. [^kalki] ! `Mahabharata` was the first of such universes.
 
@@ -60,40 +64,39 @@ That said, the knowledge is extremely hard to harvest even from a readily availa
 ## 0.2
 ---
 
-Not only did `Dwaipayana` edit four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)- a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph.`Jaya` was later expanded into a mega-epic, [Mahabharata](https://mahabharata.shutri.com). With around 1.8 million words,`Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry is such that it inspired `Kalidasa` (the Shakespeare of Sanskrit).`Abhijnana Shakuntalam`, the marquee work of`Kalidasa`  is a rewrite of the plot first conceived by`Dwaipayana`.
+Not only did `Dwaipayana` edit four Vedas, he compiled eighteen `Puranas` and also wrote the master piece `Jaya` (victory)- a historical narrative of the early age. History interwoven into thousands of stories meshed up like a knowledge graph.`Jaya` was later expanded into a mega-epic, [Mahabharata](https://mahabharata.shutri.com). With around 1.8 million words,`Mahabharata`, is the longest written poetic collection ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than the size, the poetry is such that it inspired `Kalidasa` (the Shakespeare of Sanskrit).`Abhijnana Shakuntalam`, the marquee work of`Kalidasa`  is a rewrite of the plot first conceived by `Dwaipayana`.
 
-In addition to the poetic excellence,`Mahabharata` defined a new way of life - action orientation (`Karm Yoga`). The epic forms, the cultural basis of India - one of the oldest civilizations. It holds within it, center-folded, the gist of four Vedas - `Bhagvat Gita` - the first written source of the idea of `Karma`.
+In addition to the poetic excellence,`Mahabharata` defined a new way of life - action orientation (`Karm Yoga`). The epic forms, the cultural basis of India - one of the oldest civilizations. It holds within it, center-folded, the gist of four Vedas - `Bhagvat Gita` - the first written source of the idea of `Karma`. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`.
 
 The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
 ***The legend says,` Dwaipayana` invoked `Bramh` (the entirety) to seek scribing assistance***. `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all it's poetic glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
-
 > "O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; 
 >
-> - the various rituals of the Upanishadas with the Angas; 
+> - the various rituals of the `Upanishadas` with the `Angas`; 
 >
-> - the compilation of the Puranas and history formed by me and named after the three divisions of time, past, present, and future; 
+> - the compilation of the `Puranas` and history formed by me and named after the three divisions of time, past, present, and future; 
 >
 > - the determination of the nature of decay, fear, disease, existence, and non-existence, a description of creeds and of the various modes of life; 
 >
-> - rule for the four castes, and the import of all the Puranas; 
+> - rule for the four castes, and the import of all the `Puranas`; 
 > 
 > - an account of asceticism and of the duties of a religious student; 
 >
 > - the dimensions of the sun and moon, the planets, constellations, and stars, together with the duration of the four ages; 
 >
-> - the Rik, Sama and Yajur Vedas; 
+> - the `Rik, Sama and Yajur` Vedas; 
 >
-> - also the Adhyatma; 
+> - also the `Adhyatma`; 
 >
-> - the sciences called Nyaya (justice), Orthoephy and Treatment of diseases; 
+> - the sciences called `Nyaya` (justice), Orthoephy and Treatment of diseases; 
 >
-> - charity and Pasupatadharma; 
+> - charity and `Pasupatadharma`; 
 >
 > - birth celestial and human, for particular purposes; 
 >
-> - also a description of places of pilgrimage and other holy places of rivers, mountains, forests, the ocean, of heavenly cities and the kalpas; 
+> - also a description of places of pilgrimage and other holy places of rivers, mountains, forests, the ocean, of heavenly cities and the `kalpas`;
 >
 > - the art of war; 
 >
@@ -105,9 +108,9 @@ The question is, how did `Dwaipayana` manage to write such epics at a time when 
 >
 > all these have been represented. **But, after all, no writer of this work is to be found on earth.**
 >
->"Brahma said. 
+> *`Brahma` said* 
 > 
-> 'I esteem thee for thy knowledge of divine mysteries, before the whole body of celebrated Munis distinguished for the sanctity of their lives. 
+> I esteem thee for thy knowledge of divine mysteries, before the whole body of celebrated `Munis` distinguished for the sanctity of their lives. 
 >
 > I know thou hast revealed the divine word, even from its first utterance, in the language of truth. 
 >
@@ -115,22 +118,22 @@ The question is, how did `Dwaipayana` manage to write such epics at a time when 
 >
 > There shall be no poets whose works may equal the descriptions of this poem, 
 >
-> **Let Ganesa be thought of, O Muni, for the purpose of writing the poem.**
+> **Let `Ganesa` be thought of, O `Muni`, for the purpose of writing the poem.**
 
 
-Having approached by `Dwaipayana`,`Ganesa`- the embodiment of ‘intelligence’, said he wanted to help, but he would stop writing if there was a pause, even for a moment.`Ganesa`probably deemed there was no time to waste, given the immensity of the transcription.`Dwaipayana`agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after full appreciation of the meaning ! [^humanMind]
+Having approached by `Dwaipayana`,`Ganesa`- the embodiment of ‘intelligence’, said he wanted to help, but he would stop writing if there was a pause, even for a moment. `Ganesa`probably deemed there was no time to waste, given the immensity of the transcription. `Dwaipayana`agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after full appreciation of the meaning ! [^humanMind]
 
->"Ganesa, upon hearing this address, thus answered, 
+> `Ganesa`, upon hearing this address, thus answered, 
 >
->'I will become the writer of thy work, provided my pen do not for a moment cease writing." 
+> I will become the writer of thy work, provided my pen do not for a moment cease writing." 
 >
-> And Vyasa said unto that divinity, 
+> And `Vyasa` said unto that divinity, 
 >
 > 'Wherever there be anything thou dost not comprehend, cease to continue writing.' 
 >
-> Ganesa having signified his assent, by repeating the word Om! proceeded to write; 
+> `Ganesa` having signified his assent, by repeating the word Om! proceeded to write; 
 >
-> and Vyasa began; 
+> and `Vyasa` began; 
 >
 > and by way of diversion, he knit the knots of composition exceeding close; 
 >
@@ -139,7 +142,7 @@ Having approached by `Dwaipayana`,`Ganesa`- the embodiment of ‘intelligence’
 
 All scriptures before `Mahabharata` were spoken words passed on from one generation to the next through rigorous  "recital". Having given a detailed account of it's transcription in the very first book, `Dwaipayana` left a proof that the mega-epic was actually "written down".
 
-This was, thus, the tipping point, when humanity embraced a new medium for storing the knowledge at scale — text - our transition from a purely spoken to mostly written word.
+This was, thus, the tipping point, when humanity embraced a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word.
 
 ## Research and notes:
 ----
@@ -168,15 +171,15 @@ This was, thus, the tipping point, when humanity embraced a new medium for stori
 ---
 
 [^8th]: `Poorna-avtaara` - The eighth incarnation
-- In `Vaidik` framework, `Vishnu` is the manifestative potency of supreme knowledge. It manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attain full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation `Krsna` is the only full embodiment of supreme knowledge. 
+- In `Vaidik` framework, `Vishnu` is the manifestative potency of knowledge. It manifests, from smallest particle to the biggest universe, through it's eightfold basic nature. It is said to attain full invocation of all facets of eight-fold nature in the eighth incarnation. Thus eighth incarnation `Krsna` is the full embodiment of knowledge. 
 - `Krsna` is also called `Krishna` in north India in which case his name is same as the author of `Mahabharata` — `Krishna Dwaipaiyana`. Was it a sweet coincidence or is there something more to it?
 - Ninth incarnation (`Buddha`) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (`Kalki`)
 
 ---
 
 [^immortals]:  Immortal Eight
-- In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya.
-- The idea of immortality is a metaphor for the work they did. For examle `Parshuram` weilded an axe. The axe is a symbol of tools. `Parshuram` is immortal in every tool we use todate no matter how sophisticated our tools got from that primordial time. Similarly `Ved Yyasa Dwaipayana` is immortal for the literature he created and also the most important tool of the trade - transcription.
+- In Hindu scriptures, there are frequent mentions of eight `Chiranjeevies`. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are `Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya`.
+- The idea of immortality is a metaphor for the work they did. For example `Parshuram` wielded an axe. The axe is a symbol of tools. It is believed that `Parshuram` is immortal in tools we use to date no matter how sophisticated our machines got from that primordial time. Similarly `Ved Yyasa Dwaipayana` is immortal for the literature he created and also the most important tool of the trade - transcription.
 
 ---
 
@@ -185,9 +188,10 @@ This was, thus, the tipping point, when humanity embraced a new medium for stori
 - In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested being has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. 
 - In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; `Kurma` - the amphibian - is regarded the next stage after `Matysa`, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
 - The other two primal forces (potencies of knowledge are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
+
 ---
 
-[^knowledge]: "Knowledge" is hidden in the most granular details whereas "Information" is the art of hiding the details. A git repository is a good tool to develop a mental model that contrasts "knowledge" from "information". A git repository typically comes with a readme file - a description of what the code is intended for. This readme file is "information". Most of the times, we can use the code based on the instructions in the readme file - without even knowing the language in which it was written. The information has utility value but utility is NOT knowledge. The "knowledge" is locked in the commits of the repository - how the developer improved the code over successive iterations. Sometimes because she herself was not satisfied and other times because someone raised an issue. Every commit may have some documentation but it is almost impossible to appreciate all the changes that lead to a successful piece of code. "Information" (the utility value) is for every seeker of utility whereas the "knowledge" stays only with the developer who performs repeated actions to improve the code. "Knowledge" can't be communicated because communication must be limited to a catchy narrative or else it becomes too boring. Mathematically speaking: "knowledge" = "Information" + "Yazna" (appropriate `Karma` done on regular basis). Since "information" is freely available (massless), the only substantive element is `Karma`.
+[^knowledge]: "Knowledge" is hidden in the granular details whereas "Information" is the art of hiding the details. A git repository is a good tool to develop a mental model that contrasts "knowledge" from "information". A git repository typically comes with a readme file - a description of what the code is intended for. This readme file is "information". Most of the times, we may use the code based on the instructions in the readme file - without even knowing the language in which it was written. The information has utility value but utility is NOT knowledge. The "knowledge" is locked in the commits of the repository - how the developer improved the code over successive iterations. Sometimes because she herself was not satisfied and other times because someone raised an issue. Every commit may have some documentation but it is almost impossible to appreciate all the changes that lead to a successful piece of code. "Information" (the utility value) is for every seeker of utility whereas the "knowledge" stays only with the developer who performs repeated actions to improve the code. "Knowledge" can't be communicated because communication must be limited to a catchy narrative or else it gets incomprehensible. Mathematically speaking: "knowledge" = "Information" + "Yazna" (appropriate `Karma` done on regular basis). Since "information" is freely available (massless), the only substantive element is `Karma`.
 
 ---
 
@@ -224,7 +228,7 @@ This was, thus, the tipping point, when humanity embraced a new medium for stori
 ---
 
 [^humanMind]: Speed verses understanding
-- The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example , a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. `Dwaipayana` meant that `Ganesa` being a humanoid, may be faster in word processing but he really needs to understand the meaning of the words.
+- The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example, a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. `Dwaipayana` meant that `Ganesa` being a humanoid, may be faster in word processing but he really needs to understand the meaning of the words.
 
 ---
 

@@ -1,20 +1,17 @@
-In `Sanskrit`, "Invocation" means `Aavahan`. It is a marathon ritual of intense meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are sending a "call to action" (for greater good) and you expect people's support as much as that from the Gods, but internally you resolve to act yourself - alone. If it came to that, you might even bet everything on this cause. In Hindu tradition, deities are invoked before taking on such uphill endeavours. Based on nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
+In `Sanskrit`, the English word "Invocation" roughly translates to  `Aavahan`, albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are broadcasting an intense "call to action" (for greater good) and you expect people's support as much as that from the Gods, but internally you resolve to act yourself - alone. In Hindu tradition, deities are invoked before taking on such uphill endeavours. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such uphill task. A narrative such detailed that it necessitated a new writing paradigm. The idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c] 
-
-That multi-generational shift, among many other things included ..
-- improvements in the language model (e.g. punctuation) to support scribing.
-- extension of calligraphic symbols to capture the true essence of spoken sounds.
-- development of writing tools such as palm leaves, ink, and pen. 
+Scribing `Mahabharata` was one such venture. The idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c]. The multi-generational shift, among many other things included ..
+- improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world.
+- extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. `Vaidik Sanskrit`, [accommodated around eighty sounds.](https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.)
+- development of writing apparatus such as palm leaves, ink, and pen. 
 - triggering a self sustaining (and censor resistant) pay back model around scribing; 
 - and the patience to write (and read) long meaningful text.
 
-But more importantly, finding a purpose to write -  a root narrative that would span ages without losing it's luster and relevance. 
-As described in the very first book of `Mahabharata` (`Adi Parva`), the sage writer `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
+But more importantly, finding a purpose to scribe -  a root narrative that would span ages without losing it's luster and relevance. As described in the very first book of `Mahabharata` (`Adi Parva`), the sage poet `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
 
 # `Aavahan`
 
-`Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, the experiential wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
+`Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He crystallized, their spoken wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 

@@ -1,4 +1,4 @@
-In `Sanskrit`, the English word "Invocation" roughly translates to  `Aavahan`, albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are broadcasting an intense "call to action" (for greater good) and you expect people's support as much as that from the Gods, but internally you resolve to act yourself - alone. In Hindu tradition, deities are invoked before taking on such uphill endeavours. Based on the nature of task at hand, specific deities are invoked. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
+The Sanskrit word `Aavahan`  roughly translates to "Invocation" albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . On the surface it appears as if you are broadcasting an intense "call to action" (for truth) and you expect people's support as much as that from the Gods, but internally you resolve to act yourself - alone as a medium - akin a channel for the force. In Hindu tradition, deities are invoked before taking on uphill endeavours. Based on the nature of task at hand, specific deities are aligned to. For example, `Rama`, before crossing the sea,  invoked `Siva`. 
 
 Scribing `Mahabharata` was one such venture. The idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c]. The multi-generational shift, among many other things included ..
 - improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world.
@@ -7,7 +7,7 @@ Scribing `Mahabharata` was one such venture. The idea of "transcription and a wr
 - triggering a self sustaining (and censor resistant) pay back model around scribing; 
 - and the patience to write (and read) long meaningful text.
 
-But more importantly, finding a purpose to scribe -  a root narrative that would span ages without losing it's luster and relevance. As described in the very first book of `Mahabharata` (`Adi Parva`), the sage poet `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
+But more importantly, finding a purpose to scribe -  a root narrative that would span ages without losing it's luster and relevance. As described in the very first book of `Mahabharata` (`Adi Parva`), the `Vaidik` editor (`Ved-vyasa`) `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
 
 # `Aavahan`
 

@@ -1,13 +1,17 @@
 # changeLog [^history]
 
-Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of changes here-below. If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". More than ten such changes go to the "major edits" category. If I shuffle couple of paras up or down, without changing the underlying theme - it is minor update. If I pretty much restructure  a post or change the theme, it is a "major update". One can always see the entire change history at Github repo.
+Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of changes here-below. If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". More than ten such changes go to the "major edits" category. If I shuffle couple of paras up or down, without changing the underlying theme - it is minor update. If I pretty much restructure  a post or change the theme, it is a "major update". One can always see the entire change history at github repo.
+
+## Nov 03, 23
+
+- [Mathura](./mathuraLanding.md)
+  - [Book 1](./prologue.md) - Edited the chapter from readability standpoint. Hopefully better flow and tighter conceptualization. Added a new note (number 3).
 
 
-## Oct 20, 23
+## Oct 27, 23
 
-- [Mathura](./mathuraLanding.md) 
-  - [Book 1](./prologue.md) - Complete overhaul of the chapter. Tightened up the narrative. Added a new foot note and improved readability. Flow seems good now. 
-
+- [Mathura](./mathuraLanding.md)
+  - [Book 1](./prologue.md) - Major update - Lots of work on describing "information" verses "knowledge" in second section. Improved relevant footnotes.
 
 ## Oct 20, 23
 
@@ -48,7 +52,7 @@ Reorganized the text a little bit to carve out eight chapters per book and to av
  
 ## August 25, 23 
 
-- [Mathura](./mathuraLanding.md)  - Split the narrative in two books. Book one a the base narrative of the beginning of civilization and Book two to draw a comparison with the current world. 
+- [Mathura](./mathuraLanding.md)  - Split the narrative in two books. Book one - the base narrative of the beginning of civilization and Book two to draw a comparison with the current world. 
   - [Invocation](./prologue.md) - minor edit and changed first two footnotes.
   - [Trigger](./mathuraChap01.md) - minor edit
   - [Currency](./mathuraChap12.md) - Major edits. Almost rewrote the entire chapter.
@@ -59,12 +63,12 @@ Reorganized the text a little bit to carve out eight chapters per book and to av
   - [Proposal](./mathuraChap08.md) - minor edit
   - [Birth](./mathuraChap09.md) - minor edit
   - [Identity](./mathuraChap10.md) - minor edits.
-  - [Eight-fold](./mathuraChap11.md) - Almost rewrote the chapter to bring in a parallel narrative that is taking place in near future. The challanges were pretty similar to the times of `Krishna` and `Arjuna` ..
+  - [Eight-fold](./mathuraChap11.md) - Almost rewrote the chapter to bring in a parallel narrative that is taking place in near future. The challenges were pretty similar to the times of `Krishna` and `Arjuna` ..
  
 ## July 28, 23
 
 - [Mathura](./mathuraLanding.md) 
-  - [Identity](./mathuraChap10.md) - Changed the name of the chapter and reimgined the content in the light of new title. Major changes .. 
+  - [Identity](./mathuraChap10.md) - Changed the name of the chapter and reimagined the content in the light of new title. Major changes .. 
 
 ## July 21, 23
 
@@ -80,7 +84,7 @@ Reorganized the text a little bit to carve out eight chapters per book and to av
 
 ## July 7, 23
 
-- [Mathura](./mathuraLanding.md) - Finally found the text that could go on the landing page. It is same as introduction to chater 8 but made sense to start the book of Mathura as well.
+- [Mathura](./mathuraLanding.md) - Finally found the text that could go on the landing page. It is same as introduction to chapter 8 but made sense to start the book of Mathura as well.
   - [Proposal](./mathuraChap08.md) - General Edits. Created sections. Added introduction.
 
 

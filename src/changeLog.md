@@ -1,6 +1,12 @@
 # changeLog [^history]
 
-Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of changes here-below. If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". More than ten such changes go to the "major edits" category. If I shuffle couple of paras up or down, without changing the underying theme - it is minor update. If I pretty much restructure  a post or change the theme, it is a "major update". One can always see the entire change history at github repo.
+Since this is a living book being written in the "open" [^open], a weekly update is released every Friday, with the list of changes here-below. If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". More than ten such changes go to the "major edits" category. If I shuffle couple of paras up or down, without changing the underlying theme - it is minor update. If I pretty much restructure  a post or change the theme, it is a "major update". One can always see the entire change history at Github repo.
+
+
+## Oct 20, 23
+
+- [Mathura](./mathuraLanding.md) 
+  - [Book 1](./prologue.md) - Complete overhaul of the chapter. Tightened up the narrative. Added a new foot note and improved readability. Flow seems good now. 
 
 
 ## Oct 20, 23

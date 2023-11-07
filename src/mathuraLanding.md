@@ -43,7 +43,7 @@ In an estimate, a hundred page book, printed on human size frame back then, used
 
 What motivations led to this major step-up in our approach to preservation of information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth before putting into text? 
 
-Following pages are a filtered version of my research investigating that revolution. And surprisingly, it made a fascinating story! They also answer one question that stayed longer on my mind — Why should any one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of a "paradigm shift" is more or less similar. There is a lot to learn!
+Following pages are a filtered version of my research investigating that revolution. And surprisingly, it made a fascinating story! They also answer one question that stayed longer on my mind — Why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turned out, our challenges and  moral dilemmas are not very different from that time! The essence of a "paradigm shift" is more or less similar. There is a lot to learn!
 
 
 ### notes and stuff

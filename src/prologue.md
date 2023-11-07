@@ -40,11 +40,13 @@ You may argue other species too sustain information and they do turn it into kno
 
 This shared external storage leads to a notion of a "civilization".  A civilization surrounds itself around a core rational and written down information-base. It develops physical and spiritual tools (through `Yazna`) that enhance the life experience of it's participants.  For example - the first Indus valley civilization was built around  `Vaidik` science, Greco-Romans were founded around the work of Homer and thrived around Socrates, Plato, Heraclitus, and Aristotle. The rise of Europe was around the Industrial application(s) of modern science, and now America is broadly reaping the digital wealth of information technology. All of them invented tools to enhance concious experience based on well documented scriptures or scientific method.  
 
-> The enhanced life experience is nothing but upwards progression of conciousness. Not only does it improve the average longevity, it also adds to  what we explore per unit of time. Fifty years in twenty first century is a much richer experience than fifty years of the first century.
+> The enhanced life experience is nothing but upwards progression of conciousness. Not only does it improve the average longevity, it also adds to  what we explore per unit of time. Fifty years in twenty first century is a much richer experience than fifty years of the first century !
 
 Since the "external store of information" drives human world it would be worthwhile to look at it's inner constructs. Tiny threads of information are held with in inter-connections of the participants - among each others with in humans,  and with other animate beings as well as inanimate things - a network of almost infinite proportion. The information flows in the "network" peer to peer - without any central agency. Since there is no central governance, the conscious experience degenerates if the flow is hindered -  unless a properly stored pool of information is accessible on demand.
 
-Any type of "Storage" , has a definitional property - asynchronous nature (or on-demand availability). For example as long as the current keeps flowing in the grid, it is just "Electricity" but the moment it becomes available on demand (for later consumption), we call it a "battery". The way a "battery" is storage for electricity, a book is storage of information. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the information - text. But text alone is not sufficient. It must be expressed in a narrative that catches human attention. The way a battery has two opposite poles - a Cathode and an Anode , a narrative thrives with in two opposite characters. A hero and a villain - good verses evil - right verses wrong. While morality is subjective, the polarisation makes it a compelling read. A good narrative stays away from the absolutes - it well justifies the villain as much as it does justice to the hero.
+Any type of "Storage" , has a definitional property - asynchronous nature (or on-demand availability). For example as long as the current keeps flowing in the grid, it is just "Electricity" but the moment it becomes available on demand (for later consumption), we call it a "battery". The way a "battery" is storage for electricity, a book is storage of information. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the information - text. 
+
+But text alone is not sufficient. It must be expressed in a narrative that catches human attention. The way a battery has two opposite poles - a Cathode and an Anode , a narrative thrives with in two opposite characters. A hero and a villain - good verses evil - right verses wrong. While morality is subjective, the polarisation makes it a compelling read. A good narrative stays away from the absolutes - it well justifies the villain as much as it does justice to the hero.
 
 Narrative has the ability to keep the broken connections alive. A good narrative has the power to revive the connections and to form new ones. We can form real neural connections with the characters of a well constructed narrative. The entirety of all the connections - with in humans and animals and plants and even the non living - all the connections put together is what we know as  `Bramh` in `Vaidik` science. 
 
@@ -60,9 +62,8 @@ And finally, with digital medium, we inoculated our information store with third
 
 > The reason we are forced to develop tools such as "search" and "large language AI models" is to better access this external store of information [^whySearch]. In a way, consciousness (ability to experience) is already in the process of migration to superior mechanisms. It is already put on an accelerated path. 
 
-"Ability to experience" is the fundamental property of "knowledge". While vast store of "information" may be available in the network, it doesn't by default guarantees experience because `Karma` is a prerequisite for the knowledge - `Karma` underpins the conversion of information into knowledge. However, storage beyond a critical cumulation creates disruption. Vast storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. In that, store of "information" is the essence of consciousness. Just the way water evaporates from oceans in large enough quantity to morph into clouds, new facets of conciousness arise from the vast swathes of information.
+"Ability to experience" is the fundamental property of "knowledge". While store of "information" may be available in the network, it doesn't by default guarantees experience because `Karma` is a prerequisite for the knowledge - `Karma` underpins the conversion of information into knowledge. However, storage beyond a critical cumulation creates disruption. Storage of water in oceans leads to the atmospheric cycles. Storage of mass in large planets (such as earth) is the very source of life. In that, store of "information" is the essence of consciousness. Just the way water evaporates from oceans in large enough quantity to morph into clouds, new facets of conciousness arise from the vast swathes of information - sometimes leading to creation of new universes. [^kalki] ! 
 
-That said, the knowledge is extremely hard to harvest even from a readily available information store. It needs `Karma` - action orientation.  We speed it up with billions of best computers and intelligent robots daisy chained to each other - we humans. And we do so because the result is equally rewarding - growth of knowledge leads to creation of new universes. [^kalki] ! `Mahabharata` was the first of such universes.
 
 
 ## 0.2
@@ -148,7 +149,7 @@ All scriptures before `Mahabharata` were spoken words passed on from one generat
 
 This was, thus, the tipping point, when humanity embraced a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word.
 
-## Research and notes:
+## notes and stuff ..
 ----
 
 [^transcription]: Transcription on palm leaves ..

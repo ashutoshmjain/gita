@@ -6,7 +6,7 @@ In a way, the "mishap" marks the beginning of the "transition". It is a gun shot
 
 # `Prarbdha`...
 
-Seven months before `Parāśara's` birth, `Bramhrishi Vaśiṣṭha` — his grand father — woke up to a grotesque morning. His sprawling congregation (`Ashrama`), on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni` was killed by a self-proclaimed tribal king. Some religious accounts say `Bramh-Rishi` had one hundred sons taken that fateful morning of mass-murder. They probably mean `Bramh-rishi` treated all his close followers, particularly the faculty members, as his true-born!
+Our story begins long before `Dwaipayana's` birth - even before birth of his father. Seven months before `Parāśara's` birth, `Bramhrishi Vaśiṣṭha` — his grand father — woke up to a grotesque morning. His sprawling congregation (`Ashrama`), on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni` was killed by a self-proclaimed tribal king. Some religious accounts say `Bramh-Rishi` had one hundred sons taken that fateful morning of mass-murder. They probably mean `Bramh-rishi` treated all his close followers, particularly the faculty members, as his true-born!
 
 The epitome of India's contemporary knowledge hubs, `Mathura`, was in free blood-bath. In today's parlance, it would be as if someone killed en-masse at Google campus. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
 
@@ -19,7 +19,8 @@ Saddened to the core, and unaware that the young widow was carrying, `Vaśiṣ�
 ## 1.1
 ---
 
-If we think of  modern civilization a premium car, then what `Vaśiṣṭha` had contemplated [^whoIsVas] was ‘literally’ the wheels - the rudimentary knowledge — agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of the five elements. Pieces of entire wisdom were sharded in the collective memory of the congregation. Only `Vaśiṣṭha` knew it all. His mind was the only ‘full back up’ of this budding 'external store of knowledge’. 
+If we think of  modern civilization a premium car, then what `Vaśiṣṭha` had contemplated [^whoIsVas] was ‘literally’ the wheels - the rudimentary knowledge — agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of the five elements. Pieces of entire wisdom were sharded in the collective memory of the congregation. Only `Vaśiṣṭha` had it all indexed in his mind -  more importantly he knew how to architect and kick start an auditory external store of information.
+
 
 If it took us say five thousand years from the wheel to a car, it had probably taken fifty thousand [^50k], to evolve the ‘wheels’, for knowledge is never a straight line. It is a curve that curls up exponentially with time. Had `Vaśiṣṭha` died, the nascent civilization could have receded into stone ages, and quite possibly perished into a dark future, for success against cruel forces of nature was a bleak chance — one in a trillion — may be even less. The trajectory of rise of consciousness is contingent upon the discoveries, and the inventors who built on each other's work. Think of it as a pyramid — upside down. At some point in the past, this inverse pyramid meets the primordial jungle — just a single hinge on which a vast civilization must balance. `Bramh-rishi Vaśiṣṭha` was that underpin.
 

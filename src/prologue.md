@@ -1,13 +1,13 @@
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense "call to action", but internally, you resolve to act yourself - alone as an active medium - akin a channel that invokes the force. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours that appear humanly impossible. For example `Rama`, before making a bridge over the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c]. Given the nature of such  "once in a ten thousand years"  [^10k] events, the tremors last for many centuries, and the aftershocks even longer. Just as computers disrupted industries and are now disrupting the very foundation of modern trade - currencies; same-ish way written word challenged then existing social and political fabric. That  multi-generational shift included ..
+Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c]. Given the nature of such  "once in a ten thousand years"  [^10k] events, the tremors last for many centuries, and the aftershocks even longer. Just as computers disrupted industries and are now disrupting the very foundation of modern trade - currencies; same-ish way written word challenged then existing social, fiscal and political fabric. That  multi-generational shift included ..
 - improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world.
 - extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. `Vaidik Sanskrit`, [accommodated around eighty sounds.](https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.)
 - development of writing apparatus such as palm leaves, ink, and pen. The apparatus must be easy to handle for mass adoption and the print must last longer than human life. The simple argument was - if a script didn't last longer than human life than what is the point of all the effort - the writer could very well speak the ideas when needed.
 - triggering a self sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic by many reciters who believed wisdom could never be locked in written symbols.
 - and the patience to write (and read) long meaningful text. But more importantly, finding a purpose to scribe -  a root narrative that would span ages without losing it's luster and relevance. 
 
-As described in the very first book of `Mahabharata` (`Adi Parva`), the `Vaidik` editor-in-chief (`Ved-vyasa`), sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
+As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
 
 # `Aavahan`
 
@@ -161,7 +161,7 @@ Having approached by `Dwaipayana`,`Ganesa`- the embodiment of ‘intelligence’
 > by doing which, he dictated this work according to his engagement.
 
 
-All scriptures before `Mahabharata` were spoken words passed on from one generation to the next through rigorous  "recital". Having given a detailed account of it's transcription in the very first book, `Dwaipayana` left a proof that the mega-epic was actually "written down".
+Most scriptures before `Mahabharata` were spoken words passed on from one generation to the next through rigorous  "recital". Those that were written down were more like random proofs of concept. Having given a detailed account of it's transcription in the very first book, `Dwaipayana` left a proof that the mega-epic was actually "written down".
 
 This was, thus, the tipping point, when humanity embraced a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word.
 

@@ -49,7 +49,7 @@ Following pages are a filtered version of my research investigating that revolut
 ### notes and stuff
 ----
 
-[^gold]: Monetary system
+[^gold]: Monetary system - no one knows for sure when gold mining begin. Our current estimates are [ around 4000 BC ](https://en.wikipedia.org/wiki/Gold_mining). That puts it around a thousand years before `Mahabharata`.
 - Barter system was widespread even for the smaller transactions. Commoners used fruits and grains to get what they needed. 
 - Rich people used copper as a store of value. A one time adult meal was normally considered one copper coin. So was a ride fare. You could hop on and hop off any boat or cart at any place along its route for one copper coin. Super rich used copper for utensils at their home. For them the valuable was silver. 
 - A silver coin was considered same as ten copper coins. One each for every single finger of two hands. Ultra rich ate their food in Silver utensils. For them store of value  was a Gold coin. 

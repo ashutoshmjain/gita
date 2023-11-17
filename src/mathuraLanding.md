@@ -28,7 +28,7 @@
 </div>
 
 
-`Mathura` was the geographic center of `Bharata` — old India. It was also the physical origin of first scriptures - `Vedas`. And the mass adoption of the `written-word`. `Mahabharta` was scribed here -  in a series of eighteen `Parvas` (books). The legend says that `Mahabharata` was too big to scribe by humans. Thus the writer - `Krishna Dwaipayana` summoned help from the `Ganesa` - the elephant God.
+`Mathura` was the geographic center of `Bharata` — the old India. It was also the physical origin of auspicious scriptures - `Vedas`. And the mass adoption of the written-word. `Mahabharta` was scribed here -  in a series of eighteen `Parvas` (books). The legend says that `Mahabharata` was too big to scribe for humans. Thus the writer - `Krishna Dwaipayana` summoned help from `Ganesa` - the elephant God [picture above]. Considered as embodiment of "intelligence" in Hindu belief system, `Ganesa` is also known as `vighn vighnesh` - the biggest problem solver - obviously on account of his super natural intelligence - almost like still elusive "artificial general intelligence".
 
 ‘Text’ was the new medium. It was somewhat similar to our migration from analog to digital. Not only did it demand new "scribing" skills, it also meant the populations must learn to "read" -  beyond a select class of teachers or sages. New tools such as Pen, Ink and Palm leaves were invented; just the way we needed mass adoption of computers in early nineties. Divine intelligence `Ganesa` was invoked to usher the humanity into this new era, just the way we are using "large language models" in current digital realm. 
 
@@ -49,15 +49,16 @@ Following pages are a filtered version of my research investigating that revolut
 ### notes and stuff
 ----
 
-[^gold]: Monetary system - no one knows for sure when gold mining begin. Our current estimates are [ around 4000 BC ](https://en.wikipedia.org/wiki/Gold_mining). That puts it around a thousand years before `Mahabharata`.
+[^gold]: Monetary system - no one knows for sure when gold mining begin. Our current estimates are [ around 4000 BC ](https://en.wikipedia.org/wiki/Gold_mining). That puts it around a thousand years before `Mahabharata`. 
+- In Mahabharata, there is a clear mention of gold coins being abundantly used. In fourth book - `Viarata Parva`, the prince `Uttara` offered `Arjuna` (disguised as a transgender named `Vrihnnala`) a hundred gold coins for saving him from `Kaurvas` -> [Ref](https://mahabharata.shutri.com/maha04.html?highlight=gol#virata-parva:~:text=%27Listen%2C%20O%20good,set%20me%20free.%27) . 
+- There is evidence of countable units of precious metal being used for exchange from the Vedic period onwards. A term `Nishka` appears in this sense in the `Rigveda`. A unit called `Śatamāna`, literally a 'hundred standard', representing 100 `krishnalas` is mentioned in `Satapatha Brahmana`. A later commentary on `Katyayana Srautasutra` explains that a `Śatamāna` could also be 100 `rattis` (almost equal to a `Tola` that is used for gold trade todate in India). All these units referred to gold currency in some form but they were later adopted to silver currency. -> [Ref](https://en.wikipedia.org/wiki/Coinage_of_India#:~:text=There%20is%20evidence,16%5D%5B17%5D)
 - Barter system was widespread even for the smaller transactions. Commoners used fruits and grains to get what they needed. 
 - Rich people used copper as a store of value. A one time adult meal was normally considered one copper coin. So was a ride fare. You could hop on and hop off any boat or cart at any place along its route for one copper coin. Super rich used copper for utensils at their home. For them the valuable was silver. 
-- A silver coin was considered same as ten copper coins. One each for every single finger of two hands. Ultra rich ate their food in Silver utensils. For them store of value  was a Gold coin. 
-- A Gold coin was equal to ten Silver's. One for every finger of both the hands. 
-- The valuation was based on rough order of magnitude in mining these metals. Silver was considered ten times harder than copper, and Gold being an order of magnitude harder than Silver. In a way "proof of work" was baked in universally acceptable currency. 
-- All states, no matter what their political equations, honoured this simple "proof of work" based storage of value. Privacy , self custody and universality were the underpin of trading system. Currency was owned by people NOT kingdoms! 
+- A silver coin was considered same as hundred copper coins.  Ultra rich ate their food in Silver utensils. For them store of value  was a Gold coin. 
+- A Gold coin was equal to hundred Silver's.  The valuation was based on rough order of magnitude in mining these metals. Silver was considered hundred times harder than copper, and Gold being similar orders of magnitude harder than Silver. In a way "proof of work" was baked in universally acceptable currency. 
+- All states, no matter what their political equations, honoured this simple "proof of work" based storage of value. Privacy , self custody and universality were the underpin of trading system. Currency was owned by people NOT kingdoms! It is a well established fact that after the great war of `Mahabharta`, sixteen main kingdoms (`mahapadas`) got formed over couple of centuries. Each one of them issued their own coins but they were all different shapes or stamps on gold coins. Quarter gold coins (`Svarna`) are excavated from `Gandhara`.
 - Currency was pegged to people's trust in "proof of work". Important point to note here, currency was not pegged to commodities such as iron or wheat. Gold, silver and copper were NOT treated as commodities. Gold's only purpose was ornaments , silver was used purely for minting, and copper was primarily used for making utensils for the rich. Copper was supposedly the best metal to store food and water. Eating in silver, though common for rich, was considered a show-off. 
-- This simple to understand and time tested system of power of ten, was later exploited by `Aryabhatta` to conceptualize zero and decimal system - the very basis of modern arithmetic.
+- This simple to understand and time tested system of powers of ten, was later exploited by `Aryabhatta` to conceptualize zero and decimal system - the very basis of modern arithmetic.
 
 
 -----

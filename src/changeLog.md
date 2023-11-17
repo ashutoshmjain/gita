@@ -4,6 +4,13 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 ## Nov 10, 23
 
+- [Mathura](./mathuraLanding.md) - major update - aligned the monetary system units and measures of `Vaidik` times.
+  - [Book 1](./prologue.md) - major edits.
+      - [Trigger](./mathuraChap01.md) - major update
+
+
+## Nov 10, 23
+
 - [Mathura](./mathuraLanding.md)
   - [Book 1](./prologue.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.

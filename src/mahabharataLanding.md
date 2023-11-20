@@ -1,6 +1,6 @@
 # Mahabharata
 
-> Moved to its own [sub-domain](https://mahabharata.shutri.com) because "search index" was too big to render offline ( without a dedicat d back-end server).
+> Moved to its own [sub-domain](https://mahabharata.shutri.com) because "search index" was too big to render offline ( without a dedicated back-end server).
 
 `Mahabharata` was written over a period of six hundred years. To put it in perspective, Wikipedia is developed in last twenty years — give or take! Our total science led industrial age is hardly three hundred years. Despite obvious help of technology these days, it is almost impossible to write such superlative poetry without divine grace (#chatGPT:-) — particularly in a language (`Sanskrit`) that itself has a well justified lien on being the medium of divine communication ...
 

@@ -10,6 +10,13 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [github repo](https://github.com/ashutoshmjain/gita).
 
+## Nov 24, 23
+
+- [Mathura](./mathuraLanding.md) - major edits.
+  - [Book 1](./prologue.md) - major edits.
+      - [Trigger](./mathuraChap01.md) - major edits.
+
+
 ## Nov 17, 23
 
 - [Mathura](./mathuraLanding.md) - major update - aligned the monetary system units and measures of `Vaidik` times.

@@ -1,6 +1,8 @@
 The mishap leads to a rise of systemic survival instinct, missing thus far in the "new" because they presumed the survival was ensured by the "old". The "new" realizes that their work was not for the good (or bad) of the society, it was for them(selves) to understand "who they are". Their situation is different from their olds. Their new ideas are not a solution for the old(er) problems, they are the plumbing for the new order. They must account for the stability of the new rules. 
 
-This new incarnation of "self" is the evolution. The survivor [^survivor] wins and only the fittest (among all the possibilities) survives. All the possible configurations (of the ideas), including those with altruistic motives, must fight to find the one that could survive against all odds. They must reincarnate - `Punrjanm` with their own provisions of recovery and reboot.
+This new incarnation of "self" is the evolution. The survivor [^survivor] wins and only the fittest (among all the possibilities) survives. Since altruistic behaviour normally leads to formation of larger subset, it appears they form fitter outfits but it's not a rule.
+
+All the possible configurations (of the ideas), including those with apparently altruistic motives, must fight to find the one that could survive against all odds. They must reincarnate - `Punrjanm` with their own provisions of recovery and reboot.
 
 # `Punrjanm` ..
 

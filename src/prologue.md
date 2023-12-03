@@ -1,6 +1,6 @@
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense "call to action", but internally, you resolve to act yourself - alone as an active medium - akin a channel that invokes the force. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours that appear humanly impossible. For example `Rama`, before making a bridge over the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c]. Given the nature of such  "once in a ten thousand years"  [^10k] events, the tremors last for many centuries, and the aftershocks even longer. Just as computers disrupted industries and are now disrupting the very foundation of modern trade - currencies; same-ish way the "written word" challenged then existing social, fiscal and political fabric. That  multi-generational shift included ..
+Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of "transcription and a writable language" [^transcription] was to `Mahabharata`, the way "terminals and coding " were to "Unix" [^c]. Given the nature of such  "once in a ten thousand years"  [^10k] events, the tremors last for many centuries, and the aftershocks even longer. Just as computers disrupted industries and are now disrupting the very foundation of modern trade - currencies; same-ish way the "written word" challenged then existing social, fiscal and political fabric. The ground work for that  multi-generational shift included ..
 - improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world.
 - extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. `Vaidik Sanskrit`, [accommodated around eighty sounds.](https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.)
 - development of writing apparatus such as palm leaves, ink, and pen. The apparatus must be easy to handle for mass adoption and the print must last longer than human life. The simple argument was - if a script didn't last longer than human life than what is the point of all the effort - the writer could very well speak the ideas when needed.
@@ -11,7 +11,7 @@ As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` e
 
 # `Aavahan`
 
-`Krishna Dwaipayana`was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He catalogued, their spoken wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
+`Krishna Dwaipayana` was destined to compile thousands of sacred insights from sages (`Rishies`) - old and new. He catalogued, their spoken wisdom into four foundational volumes — the `Vedas`. For this legendary work, he was conferred the most coveted title in literature — `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started! His purpose was to welcome `Poorna Avtaara` — the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 
@@ -74,7 +74,9 @@ The reason tools such as "search" and "large language AI models" came into being
 
 ---
 
-"Ability to experience" is the fundamental property of "knowledge". "Information" , by definition, is dualistic for it needs two opposites to exist. "Knowledge" on the other hand is always unique because the experience is always unique. 
+"Ability to experience" is the fundamental property of "knowledge". For example when your favourite rock star plucks the guitar strings - the experience belongs to her on account of her knowledge. The audiences only get information. We can enjoy the information but we can't "experience" without knowledge.
+
+"Information" , by definition, is dualistic for it needs two opposites to exist. "Knowledge" on the other hand is always unique because the experience is always unique. 
 
 While store of "information" may be available in the network, it doesn't by default guarantees experience because `Karma` is a prerequisite. We can't experience without actions. Knowledge is progressive improvement in experience with repetitive actions and it stays unique despite repetitions. No matter how many times we iterate the game, it has always something new on offer. `Karma`, thus underpins the conversion of information into knowledge. 
 

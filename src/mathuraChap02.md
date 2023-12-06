@@ -2,7 +2,7 @@ The mishap leads to a rise of systemic survival instinct, missing thus far in th
 
 This new incarnation of "self" is the evolution. The survivor [^survivor] wins and only the fittest (among all the possibilities) survives. Since altruistic behaviour normally leads to formation of larger subset(s), it appears they form "fitter" outfits, but it's not a rule. Fitness of organization normally depends on the leader.
 
-All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box , stock market or in currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" and must they reincarnate ( `Punrjanm` ) with their own provisions of recovery ( and reboot ).
+All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box , stock market or on the resilience of their  currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" and must they reincarnate ( `Punrjanm` ) with their own provisions of recovery ( and reboot ).
 
 # `Punrjanm` ..
 
@@ -69,10 +69,12 @@ More importantly, there was no commercial payback model associated with text, th
 
 He thought his grandson `Parāśara`, now reaching maturity, would take on this challenge. Little did he know that focus on texting the scriptures, would create a dual among his own followers. Ones who wanted to stay true the old - recital; and others who deemed "text" as a major improvement. Somewhat like the battle between Bitcoin Maximalists and the Ethereum community these days. Many possibilities of "new" must battle to establish control but more importantly to know what they stand for - who they are !
 
-## research and notes:
+## notes and stuff
 -----
+[^fight]: Fight is a misnomer because no one ever fights against someone else. The aim is always to find who is more dexterous at the skill in question. For example when two companies fight in the stock market , the question really is which company is better positioned to leverage upcoming economic opportunities. A company with a stronger balance sheet is better but that is not the only yardstick. Another company may have competitive advantage in technology or management or branding. The winner is a combination of host of such complex factors. In sports it comes down to much narrower set of skills. In sword fight, it comes down to just one thing - who is better with the sword. The outcomes could be different. For a company it could be matter of survival or success as much as in a sword fight it could be a matter of life and death. A key part of evolution is we fight on more complex set of skills rather than a simple pissing contest. Worthwhile to say here that evolution doesn't mean end of "fight" , it simply means more complex fight.
 
-[^survivor]: As per `Vaidik` science ( and later postulated by Darwin), in this death friendly world - also known as `Marn Dharma` in Sanskrit - one that is designed to die - survival is the only measure of success. Nature doesn't care to be altruistic but that doesn't mean altruistic strategies are NOT survival friendly. In fact, altruism is one of the best central theme for all the species that survived long. In fact - giving birth to pass on genes at the cost of one's own comfort is an altruistic strategy that has been universally adopted by all species. 
+
+[^survivor]: As per `Vaidik` science ( and later postulated by Darwin), in this death friendly world - also known as `Marn Dharma` in Sanskrit - one that is designed to die - survival is the final measure of success. Nature doesn't care to be altruistic but that doesn't mean altruistic strategies are NOT survival friendly. In fact, altruism is one of the best central theme for all the species that survived long. In fact - giving birth to pass on genes at the cost of one's own comfort is an altruistic strategy that has been universally adopted by all species. One of the key benefit of altruism and compassion is it allows us to form bigger groups with stronger internal ties. The bigger and stronger is better for survival against lone predators.
 
 ---
 

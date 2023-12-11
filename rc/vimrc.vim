@@ -85,11 +85,15 @@ Plug 'tpope/vim-fugitive'
 Plug 'junegunn/goyo.vim'
 Plug 'https://github.com/godlygeek/Tabular'  
 Plug 'https://github.com/tpope/vim-surround'  
+" autocompletion and linting - needs nodejs 14+. It turns vim
+" experience (even on a non gui terminal) like vscode . Install rust analyzer
+" as a coc extension :CocInstall coc-rust-analyzer
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'itchyny/lightline.vim' " from https://github.com/itchyny/lightline.vim
 Plug 'Raimondi/delimitmate'	" smart completion of delimiters
 Plug 'vitalk/vim-simple-todo'
 Plug 'vuciv/vim-bujo'
+Plug 'reedes/vim-litecorrect' " autocorrect - https://github.com/reedes/vim-litecorrect
 " Ravi Vivek to explore and add . Writing and Text-Objects plugins {{{
     " Plug 'kana/vim-textobj-user'
     " Plug 'vim-scripts/LanguageTool', {'for': ['text', 'markdown']}
@@ -101,8 +105,6 @@ Plug 'vuciv/vim-bujo'
     " Plug 'dbmrq/vim-ditto', {'for': ['text', 'markdown']}
     " " }}}
     "
-Plug 'reedes/vim-litecorrect' " autocorrect - https://github.com/reedes/vim-litecorrect
-
 
 " All of your Plugins must be added before the following line
 call plug#end()
@@ -137,37 +139,36 @@ syntax on
 syntax enable			" I have no idea what this actually does
 colorscheme industry
 
-" lightline with wordcount - https://github.com/itchyny/lightline.vim/issues/295
-let g:lightline = {
-      \ 'active': {
-      \   'right': [ [ 'lineinfo' ], [ 'percent', 'wordcount' ], [ 'fileformat', 'fileencoding', 'filetype' ] ]
-      \ },
-      \ 'component_function': {
-      \   'wordcount': 'WordCount',
-      \ },
-      \ }
-
-nnoremap <silent> <Space> @=(foldlevel('.')?'za':"\<Space>")<CR>
-vnoremap <Space> zf
+"new in vim 7.4.1042 get selected words count and words 'so far' with command
+"g ctrl g
+let g:word_count=wordcount().words
+function WordCount()
+    if has_key(wordcount(),'visual_words')
+        let g:word_count=wordcount().visual_words."/".wordcount().words " count selected words
+    else
+        let g:word_count=wordcount().cursor_words."/".wordcount().words " or shows words 'so far'
+    endif
+    return g:word_count
+endfunction
 
 " Needed for my chromebook crouton instance
 " map <C-A-w> <C-w>
 " map <C-e> <C-w>
 
-" Wordcount function from Pingouin (https://nanowrimo.org/participants/pingouin)
-function! WordCount()
-let s:old_status = v:statusmsg
-let position = getpos(".")
-  exe ":silent normal g\<C-g>"
-    let stat = v:statusmsg
-      let s:word_count = 0
-if stat != '--No lines in buffer--'
-     let s:word_count = str2nr(split(v:statusmsg)[11])
-         let v:statusmsg = s:old_status
-    end
-         call setpos('.', position)
-    return s:word_count 
-endfunction
+"" Wordcount function from Pingouin (https://nanowrimo.org/participants/pingouin)
+"function! WordCount()
+"let s:old_status = v:statusmsg
+"let position = getpos(".")
+"  exe ":silent normal g\<C-g>"
+"    let stat = v:statusmsg
+"      let s:word_count = 0
+"if stat != '--No lines in buffer--'
+"     let s:word_count = str2nr(split(v:statusmsg)[11])
+"         let v:statusmsg = s:old_status
+"    end
+"         call setpos('.', position)
+"    return s:word_count 
+"endfunction
 
 nmap <C-i> <Plug>BujoAddnormal
 imap <C-i> <Plug>BujoAddinsert
@@ -175,6 +176,7 @@ nmap <C-j> <Plug>BujoChecknormal
 imap <C-j> <Plug>BujoCheckinsert
 let g:bujo#todo_file_path = $HOME . "/github/gita/bujo"
 
+" Coc configuration
 
 " May need for Vim (not Neovim) since coc.nvim calculates byte offset by count
 " utf-8 byte sequence

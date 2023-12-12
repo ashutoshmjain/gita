@@ -1,12 +1,14 @@
-What exactly is the ¨present¨? Would you call yourself in conscious present when you are sleeping ?
+What exactly is the ¨present¨? Would you call yourself in present when you are sleeping ?
 
 Infinite impulses live in the past or the future (a better word is ¨continuum¨ - a sub conscious field). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought - a knot - to create a bond or to liberate from one. Something must be done even if it is not righteous. When our action organs engage, it is the ¨Present¨. 
 
-We can think in past (or in future) but we can´t act anywhere outside the present window. In fact ¨present¨ is when we act. No one can ever hold a moment - least without action in so called meditations. Even the sense of time is with actions, the pendulum swing of a watch. If all watches were to stay still - even those that tick in our body and mind (and in our computers), would we know the passage of time?  
+We think in past. We imagine in future. But we can´t act anywhere outside the present window. In fact ¨present¨ is when we act. No one can ever hold a moment without action - least in so called meditations because meditation, by definition is focusing on past ( or future ) while we are awake. It is impossible to hold your mind in "present" in a meditation. 
 
-> The continuity of the present is an illusion. We are good story tellers ....  to ourselves :-)
+Even the sense of time is with actions. Time is measured as a period of inaction (meditation) between two events (actions). The timely beeps of a watch - time is the period of inaction between two two beeps. If all watches were to stay still - in same state - even those that tick in our body and mind (and in our computers), would we know the passage of time?  Time is thus the duration of thought between two acts. Actions themselves are timeless. No wonder we lose sense of time when we are busy in work.
 
-In other words the meaning of the word ¨present¨ for the conscious beings is the active state. This is the reason, we can never be action less in the present. And there is no notion of present in our action less sleep. 
+> The continuity of the present is an illusion. We are good story tellers to ourselves. We weave infinite action events with a narrative. The events might occur in past or in future - our narrative gives them an order.
+
+In essence, the meaning of the word ¨present¨ ( for the conscious beings ) is the active state. In between we dwell in past or future. May be we move to past (or to future) to act but one thing is sure  we can never be action less in the present. And there is no notion of present in our action less sleep.  In sleep - we are acting in dream world, inaccessible to us in this.
 
 `Dwaipayana` wrote in third chapter of `Gita`
 
@@ -27,7 +29,7 @@ Walking back to his `Ashrama`, `Maharishi` reflected on the events of the last d
 
 ## 7.1
 ---
-Spending a night at the island always sharpened his thinking. The `Samadhi` at the cave, helped `Maharishi` conclude the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective, while they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animalistic behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vasishta` had envisaged for a civil society. Compassion was the very basis of new design and it was exact opposite to current notion of debate.
+Spending a night at the island always sharpened his thinking. The `Samadhi` at the cave, helped `Maharishi` conclude the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective, while they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was the very basis of new design and it was exact opposite to current notion of debate.
 
 Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it. 
 

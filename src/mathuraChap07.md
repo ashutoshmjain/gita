@@ -1,12 +1,12 @@
 What exactly is the ¨present¨? Would you call yourself in present when you are sleeping ?
 
-Infinite impulses live in the past or the future (a better word is ¨continuum¨ - a sub conscious field). After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought - a knot - to create a bond or to liberate from one. Something must be done even if it is not righteous. When our action organs engage, it is the ¨Present¨. 
+Infinite impulses live in the past or the future - a better word is ¨continuum¨ - a sub conscious field inaccessible to act in conscious state. After intense wait, they fructify into one actionable. An action must be taken irrespective of dualities of thought - a knot - to create a bond or to liberate from one. Something must be done even if it is not righteous. When our action organs engage, it is the ¨Present¨. 
 
-We think in past. We imagine in future. But we can´t act anywhere outside the present window. In fact ¨present¨ is when we act. No one can ever hold a moment without action - least in so called meditations because meditation, by definition is focusing on past ( or future ) while we are awake. It is impossible to hold your mind in "present" in a meditation. 
+We think in past. We imagine in future. But we can´t act anywhere outside the present window. In fact ¨present¨ is when we act. No one can ever hold a moment without action - least in so called meditations because meditation, by definition is focusing on past ( or future ) while we are awake. It is impossible to hold your mind in "present" in a meditation. You can be in present only through indulging in actions.
 
-Even the sense of time is with actions. Time is measured as a period of inaction (meditation) between two events (actions). The timely beeps of a watch - time is the period of inaction between two two beeps. If all watches were to stay still - in same state - even those that tick in our body and mind (and in our computers), would we know the passage of time?  Time is thus the duration of thought between two acts. Actions themselves are timeless. No wonder we lose sense of time when we are busy in work.
+Even the sense of time is with actions. Time is measured as a period of inaction (meditation) between two events (actions). The timely beeps of a watch - time is the period of inaction between two beeps. If all watches were to stay still - in same state - even those that tick in our body and mind (and in our computers), would we know the passage of time?  Time is thus the duration of thought between two acts. Actions themselves are timeless. No wonder we lose sense of time when we are busy in work.
 
-> The continuity of the present is an illusion. We are good story tellers to ourselves. We weave infinite action events with a narrative. The events might occur in past or in future - our narrative gives them an order.
+> The continuity of the present is an illusion. We are good story tellers to ourselves. We weave infinite action events into a narrative. The events might occur in past or in future - our narrative gives them an order.
 
 In essence, the meaning of the word ¨present¨ ( for the conscious beings ) is the active state. In between we dwell in past or future. May be we move to past (or to future) to act but one thing is sure  we can never be action less in the present. And there is no notion of present in our action less sleep.  In sleep - we are acting in dream world, inaccessible to us in this.
 
@@ -14,7 +14,7 @@ In essence, the meaning of the word ¨present¨ ( for the conscious beings ) is 
 
 > Nahi Kashchit Khshanam Api, Jatu tishthati Akaramkrit !
 >
-> No one may stay without actions even for a moment in this conscious world.
+> No one gets to stay without actions even for a moment .
 
 Most of the actions are driven by duality - bondage of a chiral knot. They are to test what is right and what is wrong. Like we slowly touch a finger on a cooker - to check if it is hot or not. After many many trials, we exactly know the right path. The actions done at this stage are an outcome of a resolve. A correct objective assessment of the situation at hand, and an experienced response is said to be out of a ¨resolve¨ - Like a surgeon's call to cut open a patient's heart. 
 

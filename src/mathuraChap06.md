@@ -69,7 +69,7 @@ But he did take the question with him as he got off the boat and started walking
 
 > If God is full of mercy, why is there misery in the world !
 
-## research and notes:
+## notes and stuff: 
 
 [^total]: `Swa-roop` 
 - The core postulate of `Bhagvad Gita` is that all beings have an `Atma` - a full copy of the knowledge. In essence, every conscious being is a full node of the network. We can't be sure of this premise directly but there is an indirect way to understand this deep insight.  Science is absolutely sure that the entire knowledge is baked in the universe. Information can't be lost, even in a black hole. Now Fermi and Dirac proved that all mass-ful objects must have an anti-particle - a mirror image. Since universe is a manifested thing , it must have a mirror image. Parity symmetry is a mandatory requirement. We can think of `Atma` as the mirror image of the universe with in our own conscious mind (or heart). Consequently the reverse is equally true. The universe is a mirror image of our conscious self. Thus the answer to the question - who am I , is to understand the entire universe. Unfortunately our sensory mechanisms are grossly inadequate to decrypt this entire knowledge base. Sensory mechanisms is geared towards survival to afford us a chance for self-discovery.

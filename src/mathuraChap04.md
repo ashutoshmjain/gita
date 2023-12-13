@@ -94,7 +94,7 @@ The oldest English translation of `Vishnu Purana` is available at internet archi
 
 `Maharishi Parāśara` witnessed `Bhakti Yoga` evolving first-hand. The popularity of this tradition had `Maharishi` reassess the integrity of `Naad Yoga`. He was convinced that extreme devotion did open the entry into the power structure and thus material success, but he was not sure if it was a legitimate path to eternal peace (as promised). 
 
-At the same time he would wonder if he, himself, was on right trajectory. He thought the intense dedication of `Bhakti Yoga` was good, if it motivated the followers to indulge in `Karma`, but mere chanting didn't appear to him a passage to the eternal solace. In modern times we have many schools of meditation. There are neumerous apps to help people meditate. All that is good as a relief to confused and tormented souls but they in themselves are not the solution. For the eternal peace is not in forgetting ourselves, it is in knowing who we are? The question was how?
+At the same time he would wonder if he, himself, was on right trajectory. He thought the intense dedication of `Bhakti Yoga` was good, if it motivated the followers to indulge in `Karma`, but mere chanting didn't appear to him a passage to the eternal solace. In modern times we have many schools of meditation. There are numerous apps to help people meditate. All that is good as a relief to confused and tormented souls but they in themselves are not the solution. For the eternal peace is not in forgetting ourselves, it is in knowing who we are? The question was how?
 
 There were many questions that still remained unanswered. Many mysteries unresolved! A `Nyaan Yogi` was caught in ‘duality’ — `Karm Yoga` or `Bhakti Yoga`. 
 
@@ -107,7 +107,7 @@ After years of careful study of motion of heavenly bodies and their co-relation 
 
 And he saw the potent qualities in  `Matsyagandha`, as prospective surrogate mother.  Despite her ordinary circumstances, she honed in her, the curiosity and poise and the imagination, to gift this world an immortal writer !
 
-## Research and Notes
+## Notes and stuff: 
 ----
 
 [^truth]: That is the reason reality is `Kshra` - mutable. The parity symmetry of this mutable reality is immutable `Akshra` - the supreme knowledge. 

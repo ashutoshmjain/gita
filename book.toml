@@ -10,8 +10,8 @@ description = "discovering Gita and Maha-bharata"
 theme = "src/theme"
 git-repository-url = "https://github.com/ashutoshmjain/gita"
 cname = "gita.shutri.com"
-edit-url-template = "https://github.com/ashutoshmjain/gita/edit/main/{path}"
 no-section-label = true
+curly-quotes = true
 
 [output.html.print]
 enable = true    # include support for printable output

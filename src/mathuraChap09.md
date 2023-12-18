@@ -2,15 +2,15 @@ Back in her tinsel town, the Fairy couldn't help share the experience of the for
 
 > Social conversations mostly route to the bottom where one either meets frustration or mockery. Damned if you did good and more if you did not!
 
-Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men.
+Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships.
 
 ---
 
-Luckily, that evening, at a social mixer, they got hold of Angel. The conversation began at a rather skeptic note. How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening! 
+Luckily, that evening, at a social mixer, they got hold of our Angel. The conversation began at a rather skeptic note. How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening! 
 
 Is there something more to be read between the lines ? - the Friend said out loud!
 
-Unaware that the story got leaked into the "social circles", Angel was taken aback. He wanted to cover up. He was genuinely concerned. If the incident reached the flight controllers, his flights might be suspended for a period if not for good. But few martinis later, he too jumped into the discussion. Particularly because the focus was not on the real incident -  it was on the story of `Matsya and Parāśara`.
+Unaware that the story got leaked into the "social circles", Angel was taken aback. He wanted to cover up. He was genuinely concerned. If the incident reached the flight controllers, his flights might get suspended for a period if not for good. But few martinis later, he too jumped into the discussion. Particularly because the focus was not on the real incident -  it was on the story of `Matsya and Parāśara`.
 
 What exactly is the birth ? - He asked both of them. And waited a bit for their response.
 
@@ -24,9 +24,9 @@ There are three basic colors - he said - Red, Blue and Green. They mix up to mak
 
 Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it.
 
-Each of these seven colors is a statement of separation. For example, a Green color is a signal that all the other colors left it alone - a separation occurred yet it survived. What color is that combination that we don't see when we observe the shining Green?  - He waited a bit for the Fairy and her Friend to respond. Finding them silent and keen, he added - white light minus Green is Magenta.
+Each of these seven colors is a statement of separation. For example, a Green color is a signal that all the other colors left it alone - a separation occurred yet it survived. For example, what color is that combination that we don't see when we observe the shining Green?  - He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - white light minus Green is Magenta.
 
-Looking at Magenta, we can never tell that it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is - looking at something you can never tell that it is an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
+Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is - looking at something you can never tell that it is an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
 
 Let it sink in for a bit :-) - said he, as he gulped the last ounce from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying complexity - a knot!
 
@@ -56,7 +56,7 @@ Okay - smiled the Friend - I am listening!
 
 ---
 
-Imagine the time - thousands of year back - long before  the periodic table - continued the Angel - the broad categories of the matter were - solids, liquids and gases. Every thing that may be observed must be one of these. And the eight colors were considered the means to observe the matter. The matter, be it solid or liquid must have a unique color, air being the transparent white light. So they concluded - All observable things, at max may have eleven transitions - eight colors (the state of information) and three states of matter - solids, liquids and gases. At any given point in time only two were observable - one state of matter and one color. The notion of "work" was to change either of these two - for example if you heat a metal, first it changes the colors and then it becomes liquid.
+Imagine the time - thousands of year back - long before  the periodic table - continued the Angel - the broad categories of the matter were - solids, liquids and gases. Every thing that may be observed must be one of these three. And the eight colors were considered the means to observe the matter. The matter, be it solid or liquid must have a unique color, air being the transparent white light. So they concluded - All observable things, at max may have eleven transitions - eight colors (the state of information) and three states of matter - solids, liquids and gases. At any given point in time only two were observable - one state of matter and one color. The notion of "work" was to change either of these two - for example if you heat a metal, first it changes the colors and then it becomes liquid.
 
 He paused a little to think the qualifying remarks - even today, with all the science, that basic design of "observability" stands good. Now, in modern science - we we have covered many miles on the observability (of matter) but what about the  "Observer"? What is the dichotomy of an "observer" ? Unfortunately we have never focused much on the "observer".
 
@@ -86,19 +86,17 @@ Well, I'll need another drink before my mind blows up - said the fairy as she po
 
 ----
 
-But we still didn't get to the "Birth" - said the friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day and it was well past her dinner time!
+But we still didn't get to the "Birth" - said the Friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day and it was well past her dinner time!
 
 Okay - let me reveal the big secret - In `Vaidik Science` the human body is the field. It has twenty three oddities as I said. They call it `Kshetra`. As a bio-scientist, I was intrigued by this idea because **we have exactly twenty three pairs of chromosomes!**  Ever-since I learnt it from my mentor, I am trying to link our genetic makeup with this ancient science. No wonder that the ancient hyperbole was ..
 
 > If someone understood this field of consciousness - these twenty three facets, conception may be triggered in any place that could keep the embryo safe for nine months. They say `Maharishi Parāśara` not only figured it out, he passed this science onto `Dwaipayana` (his son) in his mother's womb.
 
-The fairy and her friend looked at him in disbelief. They were not sure if they believed what they heard but the Angel was pretty sure of his theory - he added - such a birth is called a birth through `Yog Maya`. Instead of calling  it a normal birth - a throw of chromosomal dice - they call it a birth targeted for a specific orientation - `Utpatti`. 
+The fairy and her friend looked at him in disbelief. They were not sure if they believed what they heard but the Angel was pretty sure of his theory - he added - such a birth is called a birth through `Yog Maya`. Instead of calling  it a normal birth - a throw of chromosomal dice - they call it a birth targeted for a specific orientation - `Avtaran` (incarnation).
 
-`Mahabharata` has many stories of such targeted creations ..
+It is not that `Parāśara` was the only one with this ability `Mahabharata` has many stories of such targeted incarnation. For example `Arjuna` was incarnated by king of all deities - `Indra`, `Karna` was incarnated by Sun.
 
-
-
-# `Utpatti`
+# `Avtaran`
 
 She found herself in a bed made of flowers when she woke up. It was early morning. Light was slowly filling up the entrance of the cave. She quickly fixed her rags and hair, and stepped out of the cave. She saw `Maharishi` sitting in a `Samadhi` (sitting upright in a trance). There was holy fire burning in front of the `Yogi`. The place smelled of Sandal wood. Later she realized this part of the island was full of Sandal trees. She sat there, grasping the serenity of the space, trying to make a sense of it all. The events of last night played in her mind. She tried hard to sequence the things but there was no recollection after she lost herself on the boat. Entire evening felt hazy and distant as if a memory was pulled off her brain. Last thing she knew was a sprinkle of cold `Yamuna` water on her face.
 
@@ -130,9 +128,9 @@ She gazed and understood the motion of stars in the night sky. And she understoo
 
 Time moved fast. She was carrying the weight of a divine child. Her breasts swelled up as motherhood took over her. She wanted to be close to `Maharishi` but he knew better. He knew this joy was transient. Enormous pain (of bondage) was waiting for `Matsya` when she must let a part of her own body go — the curse of motherhood. If you create something complete, you must let it go to prove the "completeness". But her curse was bigger of all mothers. She must leave him behind and even break the bond of vicinity. For a mother, the biggest pleasure is to see her creation (child) grow.
 
-`Maharishi` knew, every ride of joy must follow with equal load of sorrow. He wanted to keep his distance. He knew it was a divine grace that `Matsya` was turning into most beautiful woman, but he had underestimated the desires that might take on his own mind. It took all his learning and then some, to keep his heart unflinching, and yet fully attached in every chore. Never letting `Matsya` (and yet to be born`Krishna`) feel the absence of his strength, but never crossing the line. He knew it was a test. A test he must pass to pave a new path for the rest. Every night and every morning, he burnt his desires in the holy fire and turned them into hideous smog. He knew he was only a father — not a lover. And he knew his sacrifice was a minion, for the biggest sacrifice was for a mother to leave her offspring behind,  with someone else:  even in the hands  of a trusted `Yogi`.
+`Maharishi` knew, every ride of joy must follow with equal load of sorrow. He wanted to keep his distance. He knew it was a divine grace that `Matsya` was turning into most beautiful woman, but he had underestimated the desires that might take on his own mind. It took all his learning and then some, to keep his heart unflinching, and yet fully attached in every chore. Never letting `Matsya` (and yet to be born `Krishna`) feel the absence of his strength, but never crossing the line. He knew it was a test. A test he must pass to pave a new path for the rest. Every night and every morning, he burnt his desires in the holy fire and turned them into hideous smog. He knew he was only a father — not a lover. And he knew his sacrifice was a minion, for the biggest sacrifice was for a mother to leave her offspring behind,  with someone else:  even in the hands  of a trusted `Yogi`.
 
-The question that haunted him was how `Matsya` would bear the pain that his plan must inflict upon her - separation from her child. He must give her the tools to understand the truth — see the dualistic reality as it was. And that he did. He named her `Satyawati` — bearer of Truth. He showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We only see one side of the coin. If we are lucky, we may be able to comprehend the other side. We can ascertain through logic that for "Yellow", there must exist an "anti-yellow" but this is just the beginning of the quest. The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in ...
+The question that haunted him was how `Matsya` would bear the pain that his plan must inflict upon her - separation from her child. He must give her the tools to understand the truth — see the dualistic reality as it was. And that he did. He named her `Satyawati` — bearer of Truth. He showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We only see one side of the coin. If we are lucky, we may be able to comprehend the other side. We can ascertain through logic that for a "Green" to exist, there must exist a "Magenta", but this is just the beginning of the quest. The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in ...
 
 In a slow subtle manner, he imparted to `Satyawati`, life learnings of his quest, to make her worthy of the name! And also to impart this "information" to `Krishna` - information about potential doors to initiate the true quest ..
 

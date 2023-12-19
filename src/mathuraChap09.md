@@ -10,7 +10,7 @@ Luckily, that evening, at a social mixer, they got hold of our Angel. The conver
 
 Is there something more to be read between the lines ? - the Friend said out loud!
 
-Unaware that the story got leaked into the "social circles", Angel was taken aback. He wanted to cover up. He was genuinely concerned. If the incident reached the flight controllers, his flights might get suspended for a period if not for good. But few martinis later, he too jumped into the discussion. Particularly because the focus was not on the real incident -  it was on the story of `Matsya and Parāśara`.
+Unaware that the story got leaked into the "social circles", Angel was taken aback for a second. He wanted to cover up. He was genuinely concerned - if the incident reached the flight controllers, his flights might get suspended for a period, if not for good. But few martinis later, he too jumped into the discussion. Particularly because the focus was not on the real incident -  it was on `Matsya and Parāśara`. But more because he couldn't take an epic narrative turned into a joke. He invoked "first principles" to make his contention.
 
 What exactly is the birth ? - He asked both of them. And waited a bit for their response.
 
@@ -18,37 +18,39 @@ Seeing their faces blank out - Let's go outside, it's too noisy in here. We need
 
 ---
 
-As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow had lit up the evening sky. All three of them, raising their big mugs, took a deep breath of the clean air that was restored with enormous efforts from the angel scientists and equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; and disclaiming the brevity, he started his monologue ..
+As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow had lit up the evening sky. All three of them, raising their big mugs, took a deep breath of the clean air that was restored with enormous efforts from the angel scientists and equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; and disclaiming the brevity, he started his monologue. He had decided to sacrifice the evening to a deeper conversation of science and mythology.
 
-There are three basic colors - he said - Red, Blue and Green. They mix up to make trillions of colors though our eye are limited to around ten million shades. Possibilities are endless but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are normally hidden in one "White" but they reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets (liquid), on tiny dust particles (solids) light up the washed air (gas). As if there is a choreography of all that could be observed. The cosmos shows up it's true nature and beautiful it is! Isn't it? - He paused to check if he made sense, and also to make sure he was not overtly poetical. 
+There are three basic colors - he said - Red, Blue and Green. They mix up to make trillions of colors though our eye are limited to around ten million shades. Possibilities are endless but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are normally hidden in one "White" but they reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets (liquid), on tiny dust particles (solids) light up the washed air (gas). As if there is a spectral choreography of all that could be observed. The cosmos shows up it's true nature and beautiful it is! Isn't it? - He paused to check if he made sense, and also to make sure he was not overtly poetical. 
 
 Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it.
 
-Each of these seven colors is a statement of separation. For example, a Green color is a signal that all the other colors left it alone - a separation occurred yet it survived. For example, what color is that combination that we don't see when we observe the shining Green?  - He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - white light minus Green is Magenta.
+Each of these seven colors is a statement of separation. For example, Green is a signal that all the other colors left it alone - a separation occurred yet it survived. For example, what color is that combination that we don't see when we observe the peaceful Green?  - He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - white light minus Green is Magenta.
 
 Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is - looking at something you can never tell that it is an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
 
-Let it sink in for a bit :-) - said he, as he gulped the last ounce from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying complexity - a knot!
+O - you mean what happened on the boat was a public view and the more complexity was hidden beneath - said Fairy - her tone borderline smug.
 
-It was time for the Fairy to reflect - conscious perception is in the separation. A magnet only personifies this idea - we can see the separation of dipoles in a magnet -  though the tenet is applicable to everything we observe or even feel.  Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence . Everything manifests in the separation.
+You are right but let it sink in for a bit :-) - said he, as he gulped the last ounce from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying complexity - a knot!
+
+No I am with you! - it was time for the Fairy to reflect - conscious perception is in the separation. A magnet only personifies this idea - we can see the separation of dipoles in a magnet -  though the tenet is applicable to everything we observe or even feel.  Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence . Everything manifests in the separation.
 
 Exactly! - said the wizard - Even the "observer" is able to to observe something because there is a separation between the observer and what is being observed. Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in" knowledge except that it appears Yellow, or Red or Green as the case may be. 
 
 ---
 
-He continued after making sure of the heightened curiosity of both his listeners - The thing (knowledge) that is locked-in is complete in itself but in this case the expression is a specific color - Just like in case of a rock the conscious expression is ..well ..that of a rock. In case of a lion, it is a man eating beast; in case of tree it is the fruits and the shade. Our conscious experience may interpret the locked knowledge in infinite different ways because the knowledge is always complete. A full copy is distributed in every animate and inanimate expression - from a super massive black-hole to a puny quark. 
+He continued after making sure of the heightened curiosity of both his listeners - The thing (knowledge) that is locked-in is complete in itself - in this case the expression is a specific color - Just like in case of a rock the conscious expression is ..well ..that of a rock. In case of a lion, it is a man eating beast; in case of tree it is the fruits and the shade. Our conscious experience may interpret the locked knowledge in infinite different ways because the knowledge is always complete. A full copy is distributed in every animate and inanimate expression - from a super massive black-hole to a puny quark. Everything is a full node in this network. 
 
-He paused only to restart immediately to drive home the point - The curious question then is what happens when Yellow meets anti-Yellow ? Does it maketh the White or does it make the Black? 
+He paused only to restart immediately to drive home the point - The curious question then is what happens when Green is mixed anti-Green (Magenta) ? Does it maketh the White or does it make the Black? 
 
 The Friend, who had recently learnt  "Abstract Algebra" jumped in now - group operation under addition dictates a color and it's anti-color put together must give us the "Identity" of the group - a "white" in this case.  Simply because anti-color is "white" minus the color we see. 
 
-There you go - said the Angel - this exactly is the anomaly. The general physics teaches us that a particle annihilates with it's anti-particle. Whereas the truth is, they are complimentary.  A color mixed with it's anti-color shade  gives us the white light. The "White" is thus the identity of the "group" of seven rainbow colors.  The reason physics concludes "annihilation" is simple - physics, being reductive tries to observe a single particle (and it's anti-particle), whereas the complementarity gets evident when we study the "group" as single system ... but we are digressing - Angel continued -  Let's get back to our group of seven colors and their singular identity in "White" - he took a pause to clear his throat - seven colors of the rainbow, along with the identity element "White" are what we say the manifestation engine of "information". Keep in mind we assumed seven colors to keep our model simple. The truth is there are infinite color and anti-color combinations. Thus expanse of information is infinite.
+There you go - said the Angel - this exactly is the anomaly. The general physics teaches us that a particle annihilates with it's anti-particle. Whereas the truth is, they are complimentary.  A color mixed with it's anti-color shade  gives us the white light. The "White" is thus the identity of the "group" of seven rainbow colors.  The reason physics concludes "annihilation" is simple - physics, being reductive tries to observe a single particle (and it's anti-particle), whereas the complementarity gets evident when we study the "group" as single system ... but we are digressing - Angel continued -  Let's get back to our group of seven colors and their singular identity in "White" - he took a pause to clear his throat - seven colors of the rainbow, along with the identity element "White" are what we say the manifestation engine of "information". Keep in mind we assumed seven colors to keep our model simple. The truth is there are infinite color and anti-color combinations. Thus expanse of information is infinite. In fact every piece of information has infinite possible shades of interpretation. All the possible shades are collectively submerged into one "identity" - the White light.
 
 This identity has it's own inverse - the utter darkness. In other words, the white light is born of seven underlying separations - Seven knots in `Vaidik` speak , and it separates itself from the darkness.  No matter how complex a manifestation, it always has it's inverse  - it must separate from something else.  
 
 Now here is a simple geometric fact - Angel added - On a two dimensional paper, the separation is a simple line that makes two visible halves. In a three dimensional world the separation appears as a "layer". In other words - white light is a layer that surrounds darkness in three dimensional world accessible to our senses ! Likewise - each separation of color and anti-color too is a layer. We obviously need a higher dimensional model to represent the separation of seven layers. The higher dimensional complexity of seven knots is held hidden within the separation of black and white. This complexity is known as knowledge. It has a partial observable expression in our three dimensions though the knowledge in itself is complete in infinitely many dimensions.
 
-Sure, I give you that - said the friend -  But how is this related to the birth of a child? She didn't make any attempt to hide her impatience.
+Sure, I give you that - said the Friend -  But how is this related to the birth of a child? She didn't make any attempt to hide her impatience.
 
 It is - smiled Angel - you must be patient if you want to understand the ancient `Vaidik Science`. 
 
@@ -60,7 +62,7 @@ Imagine the time - thousands of year back - long before  the periodic table - co
 
 He paused a little to think the qualifying remarks - even today, with all the science, that basic design of "observability" stands good. Now, in modern science - we we have covered many miles on the observability (of matter) but what about the  "Observer"? What is the dichotomy of an "observer" ? Unfortunately we have never focused much on the "observer".
 
-Well , technically speaking , an "observer" is also matter but we have five senses that are unique to us "observers" - said the Fairy.
+Well, technically speaking , an "observer" is also matter but we have five senses that are unique to us "observers" - said the Fairy.
 
 You are on the right track - Angel was happy to see his ideas getting registered - but there is little more than mere five senses. First, there is a notion of "space". If senses are incapable of observing the three states of matter and don't see any of the (eight) colors, we say it is dark "space". In addition, an observer has a natural impetus to observe things - we must continuously use our senses to observe - sometimes randomly . This propensity was termed "Fickle Mind" (`Mana`). 
 
@@ -74,27 +76,27 @@ The Angel continued - So eight colors and three states of matter - that is eleve
 
 > Just like three states of the observable  matter, the observer too has three states - in `Vaidik` speak these states are called `Gunas`. The three `Gunas` are - `Sattva`, `Rajsa` and `Tamsa`. The notion of "Work" (`Karma`), on the observer side, is to transition with in these three `Gunas`.
 
-To put it simply, the three states of matter drive "actions" in the matter - exchange from one state to other - for example solids convert into liquids - liquids into gases. The three `Gunas` do the same in the observer. An observer continuously moves from `Sattva` to `Rajasa` to `Tamsa` or vice-versa or some other order. Unfortunately there is no English word for these `Gunas`. Just think of them as three states of being. 
+To put it simply, the three states of matter drive "actions" in the matter - exchange from one state to other - for example solids convert into liquids - liquids into gases. The three `Gunas` do the same in the observer. An observer continuously moves from `Sattva` to `Rajasa` to `Tamsa` or vice-versa or some other order. Unfortunately there is no English word for these `Gunas`. Just think of them as three states of mood. For example when you play just to participate, it is `Sattva`, when you play to win - it is `Rajsa`, and when you rather sleep when it is time to play, it is `Tamsa`.
 
 > Effectively - three states of what is observed and three states of the observer!
 
-Thus eleven physical facets plus eleven perceptual facets create one observer. These twenty two knots combined create an identity. In `Vaidik` system the identity is called `Ahmkara` - a perceptible and conscious shape what we call "I". In `Vaidik Science`, all of these twenty three together, is what we know as the "field" of consciousness.
+Thus a concious observer inherits eleven physical facets of matter,  plus eleven perceptual facets of observation. These twenty two knots combined create an identity. In `Vaidik` system the identity is called `Ahmkara` - a perceptible and conscious shape what we call "I". In `Vaidik Science`, all of these twenty three together, is what we know as the "field" of consciousness.
 
 The more important question, however,  is - what is it that thing that  is held with in these twenty three knots? And the answer is - the way "darkness" is a separation from white light; the "identity" (`Ahmkara`) is separation from "knowledge" (`Atma`). 
 
-Well, I'll need another drink before my mind blows up - said the fairy as she pointed to her empty glass. Three of them walked inside and found  quiet corner with ample food on the table after filling up their fancy tumblers with sacred poisons of their respective choice.
+Well, I'll need another drink before my mind blows up - said Fairy as she pointed to her empty glass. Three of them walked inside and found  quiet corner with ample food on the table after filling up their fancy tumblers with sacred poisons of their respective choice.
 
 ----
 
-But we still didn't get to the "Birth" - said the Friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day and it was well past her dinner time!
+But we still didn't get to the "Birth" - said Friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day and it was well past her dinner time!
 
 Okay - let me reveal the big secret - In `Vaidik Science` the human body is the field. It has twenty three oddities as I said. They call it `Kshetra`. As a bio-scientist, I was intrigued by this idea because **we have exactly twenty three pairs of chromosomes!**  Ever-since I learnt it from my mentor, I am trying to link our genetic makeup with this ancient science. No wonder that the ancient hyperbole was ..
 
-> If someone understood this field of consciousness - these twenty three facets, conception may be triggered in any place that could keep the embryo safe for nine months. They say `Maharishi Parāśara` not only figured it out, he passed this science onto `Dwaipayana` (his son) in his mother's womb.
+> If someone understood this field of consciousness - these twenty three facets, conception may be triggered in any container that could keep the embryo safe for nine months. They say `Maharishi Parāśara` not only figured it out, he passed this science onto `Dwaipayana` (his son) in his mother's womb.
 
 The fairy and her friend looked at him in disbelief. They were not sure if they believed what they heard but the Angel was pretty sure of his theory - he added - such a birth is called a birth through `Yog Maya`. Instead of calling  it a normal birth - a throw of chromosomal dice - they call it a birth targeted for a specific orientation - `Avtaran` (incarnation).
 
-It is not that `Parāśara` was the only one with this ability `Mahabharata` has many stories of such targeted incarnation. For example `Arjuna` was incarnated by king of all deities - `Indra`, `Karna` was incarnated by Sun.
+It is not that `Parāśara` was the only one with this ability. `Mahabharata` has many stories of such targeted incarnation. For example `Arjuna` was incarnated by king of all deities - `Indra`, `Karna` was incarnated by Sun. One may argue if the science had reached such advance back then but one thing is quite certain, test tube babies are a common place today. One possibility is information has no past or future. It reaches every place where ever it is sought. Or we may say there is no past or future - it is simply a continuum.
 
 # `Avtaran`
 

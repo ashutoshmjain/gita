@@ -7,7 +7,9 @@ Scribing `Mahabharata` was one such venture. In terms of significance, it was pr
 - triggering a self sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic by many reciters who believed wisdom could never be locked in written symbols. Think about all the brouhaha we have around AI safety these days! Fears were not misplaced though; because they could see a new variant of humans on the horizon, that would leverage the written down store of information as a competitive advantage.
 - and the patience to write (and read) long meaningful text. But more importantly, finding a purpose to scribe -  a root reference narrative that would span ages without losing it's luster and relevance. 
 
-No one could fathom to what avail but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve the root narrative. As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish this pursuit.
+No one could fathom to what avail but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve the root narrative just as Unix morphed into Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. With them they all carried forward what is commonly known as Unix philosophy - somewhat like an embodiment of universal values that bind all of them into one single rendition.
+
+As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish pursuit of `Mahabharata`.
 
 # `Aavahan`
 

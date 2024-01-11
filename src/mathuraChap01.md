@@ -12,7 +12,7 @@ The epitome of India's contemporary knowledge hubs, `Mathura`, was in free blood
 
 Only `Bramhrishi` himself, and his daughter-in-law  (wife of Śakti Muni)- `Adrushyanti`, survived the massacre. She was carrying yet to be born `Parāśara` — maybe two months into her conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her massive wings across the main city and the adjoining villages. 
 
-A part of `Bramhrishi` saw himself as the root cause of such ill eruption. In addition to acute grief, he couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - those who lived off the jungle and followed it's rules, without any recollection of the past and none in foresight.
+A part of `Bramhrishi` saw himself as the root cause of such ill eruption. In addition to acute grief, he couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - not by age but by tradition -  those who lived off the jungle and followed it's rules, without any recollection of the past and none to worry in foresight.
 
 Saddened to the core, and unaware that the young widow was carrying, `Vaśiṣṭha` tried to end his life. He miraculously survived multiple attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` got a chance at life. 
 
@@ -21,7 +21,7 @@ Saddened to the core, and unaware that the young widow was carrying, `Vaśiṣ�
 ## 1.1
 ---
 
-If we think of  modern civilization a premium car, then what `Vaśiṣṭha` had set up [^whoIsVas] were ‘literally’ the wheels - collection of (hard to get) rudimentary knowledge of "Neolithic era"  — agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of the five elements. Pieces of entire wisdom were sharded in the collective memory of the congregation as "methods" to accomplish complex tasks. Particularly one hundred  skills that were deemed magical. For example it was hard for a forest dweller to believe, a metal as strong as iron, could be extracted by burning a special type of mud. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand. In essence these 100 skills were first "qualified" truths - as much as the Sun shows up everyday, and the moon grows to get full for fifteen nights.
+If we think of  modern civilization a premium car, then what `Vaśiṣṭha` had set up [^whoIsVas] were ‘literally’ the wheels - hard to coalesce and even harder to *decrypt* Neolithic knowledge — agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of the five elements. Pieces of entire wisdom were sharded in the collective memory of the congregation as "methods" to accomplish complex tasks. Particularly one hundred  skills that were deemed magical. For example it was hard for a forest dweller to believe, a metal as strong as iron, could be extracted by burning a special type of mud. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand. In essence these 100 skills were first "qualified" truths - as much as the Sun shows up everyday, and the moon grows to get full for fifteen nights. One of the reason people said "hundred sons were taken" that fateful morning was probably each had honed one skill.
 
 > The numeral 100 (One hundred)  is spoken as `śat` (`shut` - where "sh" is pronounced as in "shine" , u" as in "but" and "t" with tongue touching upper teeth) in `Sanskrit`. In this context, it was the 100 magical skills carefully identified by `Vaśiṣṭha`.
 >
@@ -57,7 +57,7 @@ He was probably aware he was tinkering with a core protocol [^protocol] of natur
 
 > He got the answer only when multiple suicide attempts were rejected. In a way "fate " itself paved his path. Over time, `Bramhrishi` put this attack behind him. A mishap - he thought- was the law of nature - `Prarbdha`. 
 
-He rebuilt the congregation ground up and brought his focus to newborn `Parasara`. He had only one "take-away" from the incident - there must be a fallback option in case such a disaster struck again. Writing the scriptures was one such option but how could someone scribe vast knowledge on temple walls and what if someone burnt the temples!
+He rebuilt the congregation ground up and brought his focus to newborn `Parāśara`. He had only one "take-away" from the incident - there must be a fallback option in case such a disaster struck again. Writing the scriptures was one such option but how could someone scribe vast knowledge on temple walls and what if someone burnt the temples!
 
 The pen and the ink were still couple generations in the future ..
 ## 1.3

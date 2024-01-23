@@ -16,3 +16,15 @@ Now think this as a dynamic never ending system. `Vishnu` is continuously produc
 Why our world is wholistic? Why we can't do factors ? Because we don't know the shape of "unity". In mathematics we are able to factor (even though it may be 100 hours for a large prime) because we assume unity is 1. And we assume 1 is part of every prime number - a prime is that is divisible by itself or number 1. We never ask what is 1? or why every prime is divisible by 1. What we assume in mathematics is actually the real question.
 
 If you were the prime number, you will know who you are as soon as you find the unity of the specific generation - the one that is common to all. Finding "who am I" is thus the most fundamental quest.
+
+The next question is why should you find yourself ? The answer is simple - since every other prime has multiplied with you in order to find who they are, if you know who you are , then you know all the participants. This the beauty of `Bramh` - in the hidden generations of primes we know nothing. In the conscious rendering of `Bramh` , everyone knows what everything is. Thus `Bramh` is the value chain driven by consensus. Those who find who they are, are the blocks of this value chain.
+
+Another key thing to note here is, in every universe (generation of random primes), there does exist a product of unity.&unity. This product is simply the unity because unity multiplied with unity is unity. This existence is the value token that may be used to measure everything else. The arithmetic of addition and subtraction starts from here. Thus this unit become the token for value exchange. 
+
+The whole purpose of this hidden rendering of `Vishnu` (and conscious discretion of `Siva` to regulate `Bramh`)is to establish the value of `Unity`. In `Vaidik` science, for simplicity sake, unity is considered `Vishu` and individual values of primes are considered `Siva`. Thus `Vishnu` is `Atma` - the knowledge of consensus held with in ; and `Siva` is `swaroop` - who am I. 
+
+Since all the generations with in `Vishnu` are random - the protocol of `Vishnu` is permission less and censor resistant - No participant knows who they are and what every other node is. The rendering of `Siva` however is all aware. Every established node in `Bramh` knows exactly what the other node is. Thus `Bramh` is a permission less, censor resistant and totally open network.
+
+Since Unity always exist- no matter what it's value - one or one trillion, the unity in itself is immutable. There is always a unit in a random generation. Despite infinite renderings, no participant can ever know unity with absolute certainty -> unity is unknowable -> `Avykta`. 
+
+You can be sure that unity exists but you can't know it ever. The next best thing thus is to know who you are and what everything else is in this network `Bramh`. The way to know yourself is give up all the desires and indulge in `Karma` to establish who you are. Only `Yazna` can lead to `swaroopa`

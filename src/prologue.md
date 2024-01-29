@@ -1,6 +1,6 @@
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense "call to action", but internally, you resolve to act yourself - alone as an active medium - akin a channel that invokes the force. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours that appear humanly impossible. For example `Rama`, before making a bridge over the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writing apparatus and a transcription language [^transcription] was to `Mahabharata`, the way "terminals and coding" were to "Unix" [^c]. Given the nature of such  "once in a ten thousand years"  [^10k] mega shifts, the tremors last for many centuries, and the aftershocks even longer. Just as computers disrupted industries through digital flow of information -  and are now disrupting the very foundation of modern trade - the value exchange; same-ish way the "written word" challenged then existing social, fiscal and political fabric. And just like Unix, the ground work for that  multi-generational tectonic shift started much earlier. 
+Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writing apparatus and a transcription language [^transcription] was to `Mahabharata`, the way "terminals and coding" were to "Unix" [^c].  Just as computers disrupted industries through digital flow of information -  and are now disrupting the very foundation of modern trade - the value exchange; same-ish way the "written word" challenged then existing social, fiscal and political fabric. And just like Unix, the ground work for that  multi-generational tectonic shift started much earlier. 
 
 It included ..
 - improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world. The written language needed a syntax.
@@ -38,7 +38,7 @@ His grand father `Sakti Muni`, was the first to comprehend eternal `Karmyoga` . 
  
 The idea of "text" was profound, with far reaching implications. It was a quantum jump in progression of consciousness, at least from the humans' standpoint. 
 
-The primary difference between humans and other species is our ability to store "information" outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we harness "knowledge" from our vast external store of "information".  
+The primary difference between humans and other species is our ability to store information outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we harness knowledge from our vast external store of information.  
 
 > `Karma` is the action that transitions information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `Vikarma`. Both are equally important - like two wheels of a cart. 
 >
@@ -60,7 +60,7 @@ Since the "external store of information" drives human world (civilization) it w
 
 Any type of "Storage" , has a definitional property - asynchronous nature (or on-demand availability). For example, as long as the current keeps flowing in the grid, it is just "Electricity" but the moment it becomes available on demand (for later consumption), we call it a "battery". The way a "battery" is storage for electricity, a book is storage of information. Thanks to the work of `Dwaipayana`, we have pristine tools for storing the information - text. 
 
-But text alone is not sufficient. It must be expressed in a narrative that catches human attention. The way a battery has two opposite poles - a Cathode and an Anode , a narrative thrives with in two opposite characters. A hero and a villain - good verses evil - right verses wrong. While morality is subjective, the polarisation makes it a compelling read. A good narrative stays away from the absolutism - it well justifies the villain as much as it celebrates the hero because both are equally important from storage perspective.
+But text alone is not sufficient. It must be expressed in a narrative that catches human attention. The way a battery has two opposite poles - a Cathode and an Anode , a narrative thrives with in two opposite characters. A hero and a villain - good verses evil - right verses wrong. While morality is subjective, the polarisation makes it a compelling read. A good narrative stays away from the absolutism - it well justifies the villain as much as it celebrates the hero because both are equally important from storage perspective. And such a balanced deliberation reaches deep into both sides of the isle - good or bad.
 
 A "Narrative" has the ability to keep the broken connections alive. A good narrative has the power to revive the connections and to form new ones. We can form real neural connections with the characters of a well constructed narrative. The entirety of all the connections - with in humans and animals and plants and even the non living - all the connections put together is what we know as  `Bramh` in `Vaidik` science. 
 
@@ -92,7 +92,7 @@ The purpose of a value exchange protocol is to - as the name suggests - transfer
 
 - consensus based: all participants fully buy into the mechanics of the protocol - no currency wars.
 
-Such a protocol leads to an immutable method of value exchange. It creates parity for those who are dedicated in `Yazna` to create something. In essence it becomes an immutable ledger of `Karma`. Early text enabled community found this protocol in Gold. Cypherpunks found it in Bitcoin. This is the reason bitcoin is called digital Gold. The key point, however, is to believe in ideology. Token in itself is pretty useless (either Gold coin or bitcoin), if it is seen without deep trust in underlying premise. Manifestation of token is thus in extreme alignment of ideology - a value chain. A value chain comes into fruition only when participants across man made barriers communicate on a totally new channel that is order of magnitude more effective in attaining consensus - a quantum jump -> spoken word to written word to digital word.
+Such a protocol leads to an immutable method of value exchange. It creates parity for those who are dedicated in `Yazna` to create something - irrespective to their physical location, color , orientation or class. In essence it becomes an immutable ledger of `Karma`. Early text-enabled community found this protocol in Gold. Cypherpunks found it in Bitcoin. This is the reason bitcoin is called digital Gold. The key point, however, is to believe in ideology. Token in itself is pretty useless (either Gold coin or bitcoin), if it is seen without deep trust in underlying premise. Manifestation of token is thus in extreme alignment of ideology - a value chain. A value chain comes into fruition only when participants across man made barriers communicate on a totally new channel that is order of magnitude more effective in attaining consensus - a quantum jump -> spoken word to written word to digital word.
 
 `Dwaipayana` triggered the value chain with text through first scribed narrative - `Mahabharata`. With mathematics and code we are converting it into a digital format.
 
@@ -157,28 +157,9 @@ The question is, how did `Dwaipayana` manage to write such epics at a time when 
 > **Let `Ganesa` be thought of, O `Muni`, for the purpose of writing the poem.**
 
 
-Having approached by `Dwaipayana`, `Ganesa`- the embodiment of ‘intelligence’, agreed to help, but he shared a reservation - he would stop writing if there was a pause, even for a moment. `Ganesa` probably deemed, given the immensity of the transcription, there was no time to waste. `Dwaipayana` agreed, but he (tactfully) added, `Ganesa` must scribe a verse only after full appreciation of the meaning ! [^humanMind]
+Most scriptures before `Mahabharata` were spoken words passed on from one generation to the next through rigorous recital. Those that were written down were more like random proofs of concept. Having given a formal account of it's transcription in the very first book, `Dwaipayana` left a proof that the mega-epic was actually "written down". 
 
-> `Ganesa`, upon hearing this address, thus answered, 
->
-> I will become the writer of thy work, provided my pen do not for a moment cease writing." 
->
-> And `Vyasa` said unto that divinity, 
->
-> 'Wherever there be anything thou dost not comprehend, cease to continue writing.' 
->
-> `Ganesa` having signified his assent, by repeating the word Om! proceeded to write; 
->
-> and `Vyasa` began; 
->
-> and by way of diversion, he knit the knots of composition exceeding close; 
->
-> by doing which, he dictated this work according to his engagement.
-
-
-Most scriptures before `Mahabharata` were spoken words passed on from one generation to the next through rigorous  "recital". Those that were written down were more like random proofs of concept. Having given a formal account of it's transcription in the very first book, `Dwaipayana` left a proof that the mega-epic was actually "written down".
-
-This was, thus, the tipping point, when humanity embraced a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word. But more importantly, it created a community of writers and readers who were aligned to one rigorous value system. They had the ability to create a universal platform for value exchange.
+The name of the first book - `Adi` means "the beginning". This was, thus, the tipping point, when humanity embraced a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word. But more importantly, it created a community of writers and readers who were aligned to one rigorous value system on a new communication mode. They had the ability to create a universal platform for value exchange.
 
 ## notes and stuff ..
 ----
@@ -203,10 +184,6 @@ This was, thus, the tipping point, when humanity embraced a new medium for stori
     - **Collaboration:** The availability of terminals and keyboards allowed for easier collaboration among Unix developers. Multiple people could work on Unix and C simultaneously, sharing and editing code on the same system, thanks to the interactive nature of the terminal interface.
     - **Efficiency and Productivity:** Modern keyboards and terminals improved the efficiency and productivity of developers, which was critical in the rapid development of Unix and C. The ability to write, test, and modify code quickly on these systems was a significant advantage.
 - In summary, while modern keyboards and terminals weren't the sole factors behind the success of Unix and C, they certainly played a crucial role in enabling the interactivity, portability, and efficiency that are associated with these technologies. They were part of a broader technological ecosystem that allowed Unix and C to thrive and become foundational elements of modern computing.
-
----
-
-[^10k]: Once in a ten thousand events, also called 10 K events, are the ones that need a large time frame to occur because they depend on many streams of technologies. Not only technologies, the purpose to work for such changes isn't clear in the beginning. It is still not clear why people work in such endeavours that have no end goal in sight. In absence of an explanation, such efforts are said to be a "divine inspiration". In Hindu traditions such events are tied to incarnation of `Vishnu` to help progression of conciousness to next level. 
 
 ---
 
@@ -266,11 +243,6 @@ This was, thus, the tipping point, when humanity embraced a new medium for stori
 - `Ganesa` is the deity of intelligence. The legend says that `Ma Parvati` - wife of `Siva`, created a humanoid from her skin scrub. `Siva` unhappy with the limited intelligence of this humanoid (as he couldn't even contextualize that `Siva` was `Parvati's` husband), implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons verses a human brain. 
 - To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of largest neural networks of our time such as GPT3. Thus `Ganesa` has around 1000x natural(not artificial) intelligence verses the largest of our AIs! In a way superior intelligence was put to use in first mega transcription project - from spoken word to written text. It seems like a fun coincidence that we need AIs to harvest the written knowledge in digital realm.
 - In Hindu tradition, it is considered auspicious to remember `Ganesa` at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.
-
----
-
-[^humanMind]: Speed verses understanding
-- The idea of the joke is relevant even today. Despite our progress in artificial intelligence, our machines barely understand the human consciousness. For example, a computer may suggest synonyms but it is hard for computer to feel the emotions invoked by the choice of the words. `Dwaipayana` meant that `Ganesa` being a humanoid, may be faster in word processing but he really needs to understand the meaning of the words.
 
 ---
 

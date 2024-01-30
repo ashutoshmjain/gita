@@ -157,9 +157,9 @@ The question is, how did `Dwaipayana` manage to write such epics at a time when 
 > **Let `Ganesa` be thought of, O `Muni`, for the purpose of writing the poem.**
 
 
-Most scriptures before `Mahabharata` were spoken words passed on from one generation to the next through rigorous recital. Those that were written down were more like random proofs of concept. Having given a formal account of it's transcription in the very first book, `Dwaipayana` left a proof that the mega-epic was actually "written down". 
+Most scriptures before `Mahabharata` were spoken words passed on from a generation to the next through rigorous recital. Those that were written down were more like random proofs of concept. Having given a formal account of it's end to end transcription in the genesis block, `Dwaipayana` left a proof that the mega-epic was actually "written down". 
 
-The name of the first book - `Adi` means "the beginning". This was, thus, the tipping point, when humanity embraced a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word. But more importantly, it created a community of writers and readers who were aligned to one rigorous value system on a new communication mode. They had the ability to create a universal platform for value exchange.
+The name of the first book `Adi` means "the beginning"; pointing to an exponential rise in concious experience with humanity embracing a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word. But more importantly, it created a community of writers and readers who were aligned to one rigorous value system on a new communication mode. In addition to creating a new metaverse of narratives; they had the needed alignment to evolve a universal platform for value exchange.
 
 ## notes and stuff ..
 ----

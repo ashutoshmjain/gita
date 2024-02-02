@@ -9,13 +9,20 @@ Since this is a living book being written in the "open" [^open], a weekly update
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
 One can always see the granular change history at [github repo](https://github.com/ashutoshmjain/gita).
-
+## Jan 26, 24
+- [Mathura](./mathuraLanding.md) - minor edits. 
+  - [Book 1](./prologue.md) - major edits.
+      - [Trigger](./mathuraChap01.md) - minor edits.
+      - [Reboot](./mathuraChap02.md) - minor edits.
+      - [Expression](./mathuraChap03.md) - major edits.
+      - [Righteous](./mathuraChap04.md) - major update.
+ 
 ## Jan 26, 24
 - [Mathura](./mathuraLanding.md)  
   - [Book 1](./prologue.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.
       - [Reboot](./mathuraChap02.md) - major edits.
-      - [Expression](./mathuraChap02.md) - major edits.
+      - [Expression](./mathuraChap03.md) - major edits.
  
 ## Jan 19, 24
 - [Mathura](./mathuraLanding.md) - major update

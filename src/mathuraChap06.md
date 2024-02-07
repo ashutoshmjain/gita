@@ -1,6 +1,6 @@
 `Abodh` means naive. A naive expression always gets a pardon even if it challenged authority of an axiom. For example, a child's opinion never warrants a rebuke - in fact it brings a smile to everyone. `Abodh Prashna` is a naive question. Such a question must be answered - particularly by those who claim a connection to the wisdom - `Bramh`.
 
-`Bramh` holds the entire [^total] information; yet it may only answer the questions - it can't frame the questions of it's own. One who knows it all has nothing to ask ! `Bramh` may not navigate the route, it does light up the path with signals. Only a trained eye may capture such clues. Such a trained eye is the "qualifying minimum" on complex path to perfecting Astrology. `Maharishi` knew well how to read those clues.
+`Bramh` holds the entire [^total] information; yet it may only answer the questions - it can't frame the questions of it's own. One who knows it all has nothing to ask ! `Bramh` navigates the route. It lights up the path with milestones. Still, only a trained eye may capture such clues. Such a trained eye is the "qualifying minimum" on complex path to perfecting Astrology. `Maharishi` knew well how to read those clues.
 
 `Bramh` may suggest cryptic answers too - as long as the question is real, and innocent - `Abodh Prashna`. One that comes from deep with in - from the guts of the soul - `Atma`. `Bramh` speaks with `Atma` for they are reflections of each other - mirror images. Such answers appear as gut feelings.  `Matsya` was naive but, after seeing `Maharishi` last night, she felt people were right about him. Her gut told her - he was no ordinary man ..
 
@@ -67,18 +67,25 @@ The gravity of his voice such that the words brought tears to `Matsya's` eyes â€
 
 ---
 
-As `Maharishi` disembarked, careful to keep his balance, holding the roses and palm leaf in one hand, he latched on to the hull for support. His eyes caught a small wooden piece with stamp from Kuru kingdom. He was surprised to see a king's stamp lying in a bucket carelessly tied to the hull. He guessed the bucket  was for dropping the fare but why someone dropped king's stamp in there. Curious he asked `Matsya`.
+`Maharishi` disembarked, careful to keep his balance - his limp didn't help. Holding the roses and palm leaf in one hand, he latched on to the hull for support. As his hand caught the hull, his eyes caught a small wooden piece with stamp of Kuru kingdom. He was surprised to see a king's stamp lying in the bucket. He guessed the bucket was for dropping fares but why someone dropped king's stamp! Curious he asked `Matsya`.
 
-But he did take the question with him as he got off the boat and started walking to the `Ashrama`...
+`Matsya` picked up the stamp - you may take it, it has no use to me. A commuter from the far side - she waived towards the Kuru Kingdom side of `Yamuna` - said I could  get a copper coin for it from the king's palace in `Hastinapur` - the capital. I guess I will never go there in this life!
+
+`Maharishi` was surprised. He took a closer look at the stamp. It was an original. Why would the king trade his seal for a copper! - none of my business - he thought to himself. Out loud he spoke - You should keep it because you earned it. And who knows you might end up in `Hastinapur`. Destiny !
+
+He handed the seal back, but he did take a question with him as he got off the boat and started walking to the `Ashrama`...
 
 > If God is full of mercy, why is there misery in the world !
 
 ## notes and stuff: 
 
-[^total]: `Swa-roop` 
-- The core postulate of `Bhagvad Gita` is that all beings have an `Atma` - a full copy of the knowledge. In essence, every conscious being is a full node of the network. We can't be sure of this premise directly but there is an indirect way to understand this deep insight.  Science is absolutely sure that the entire knowledge is baked in the universe. Information can't be lost, even in a black hole. Now Fermi and Dirac proved that all mass-ful objects must have an anti-particle - a mirror image. Since universe is a manifested thing , it must have a mirror image. Parity symmetry is a mandatory requirement. We can think of `Atma` as the mirror image of the universe with in our own conscious mind (or heart). Consequently the reverse is equally true. The universe is a mirror image of our conscious self. Thus the answer to the question - who am I , is to understand the entire universe. Unfortunately our sensory mechanisms are grossly inadequate to decrypt this entire knowledge base. Sensory mechanisms is geared towards survival to afford us a chance for self-discovery.
-- Understating yourself , being able to see oneself objectively is thus the primary goal of all beings. The very reason of manifestation. One who actually sees oneself is said to have attained `Swa-roopa` - self image.
-- Mere understanding or appreciation of `Vaidik Science` doesn't guarantee one of `Swa-roopa`, just like mere having a cell phone doesn't make one an expert programmer. The path to attain `Swa-roopa` is experiential. As per `Gita`, this path is `Karm Yoga`.
+[^total]: `Bramh` and `Atama` ..
+- Science is absolutely sure the entire knowledge is baked in the universe. Information can't be lost. `Bramh` represents the information aspect of universe. But there is an interesting `Vaidik` twist on this idea.
+- The core postulate of `Bhagvad Gita` is all beings have an `Atma` - a full copy of the information - it's like DNA in the cell. DNA is physical because cell is physical. `Atma` represents DNA of our metaphysical being - our emotions, thoughts, intelligence or persona. Since it is not physical, it's beyond the realm of our senses - just the way senses can't  measure thought.
+- In essence, every conscious being is a full node of the network of consciousness (`Bramh`). Since it is a full node, it represents the information of entire network. DNA being local to the body - may mutate - may take different shapes. But `Atma` being complete, is immutable. The rise of conciousness is gradually turning this information into knowledge. Information + Yazana (repeated Karma) = Knowledge.
+- This axiom further leads to ideas of reincarnation. In that `Gita` says that a concious being may take as many births as it takes to convert the information into knowledge. They may also choose different types of physical bodies (for example a lion or a snake) - whatever helps in accomplishment of `Yazna`; or mutate their own physical bodies under effects of desires.  
+- An `Atma` reincarnates till the mystery is solved - all information is turned into knowledge.
+- Thus `Karm Yoga` is the fastest path to realizing "who we are" -  the primary quest of knowledge.
 
 -----
 

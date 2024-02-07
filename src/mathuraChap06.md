@@ -6,7 +6,7 @@ It may suggest elaborate answers too - as long as the question is real, and inno
 
 # `Abodh Prashna` .. 
 
-As the boat steadied, `Matsya` welcomed `Maharishi` with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had ninety eight coppers in her tiny bag after spending "one" on the dinner last night, and she felt rich. She had the bag carefully tied to her waist. Every now and then, her left hand reached out to check the bag. Being rich is a habit - she thought! She had also thought of leaving the coins at home but decided to carry them on person. The door of her hut fell off in rains this season, and she never had enough to call on local carpenter. May be now she would get it done. Why people worked so hard for copper - she wondered! 
+As the boat steadied, `Matsya` welcomed `Maharishi` with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had ninety eight coppers in her tiny bag after spending "one" on the dinner last night, and she felt rich. She had the bag carefully tied to her waist. Every now and then, her left hand reached out to check the bag. Money is important and being rich is a habit - she thought! She had also thought of leaving the coins at home but decided to carry them on person. The door of her hut fell off in rains this season, and she never had enough to call on local carpenter. May be now she would get it done. Why people worked so hard for copper - she wondered! 
 
 She had debated herself on choice of flowers - there were marigolds, sunflowers and bunch more to choose from. She picked up roses because they were most expensive. She wanted to show her gratitude for the generous payout last evening. She also wanted to appease `Maharishi` into the question she had on her mind. Other reason that probably acted in sub-conscious - the fragrance of roses. Maybe she didn't want her smell roam around naked. The idea of her 'stink' had taken deeper roots. Right from her child, she had heard crazy stories that she wasn't born of a woman! She was repeatedly told that she was cut open off a large fish, and that her smell was a living proof of her being a fish-born. 
 
@@ -64,6 +64,10 @@ The gravity of his voice such that the words brought tears to `Matsya's` eyes �
 `Maharishi` blessed her with his right hand — Your life has a good reason `Matsya`. Gods have graced you with hardships to enable objectivity in you, for they want to have you serve as a host to something bigger. He paused for a moment to look deeper into her eyes for the words he was about to say, must be fulfilled  — I shall come back to you, to seek your help, at appropriate time. Stay put...
 
 `Matsyagandha` couldn't believe her ears! She forgot to notice that `Maharishi` didn't answer her questions. Instead, he offered her hope. Maybe he was sharing the high tide of his own resolve, strengthened at this unscheduled rendezvous. 
+
+---
+
+As `Maharishi` disembarked, careful to keep his balance, holding the roses and palm leaf in one hand, he latched on to the hull for support. His eyes caught a small wooden piece with stamp from Kuru kingdom. He was surprised to see a king's stamp lying in a bucket carelessly tied to the hull. He guessed the bucket  was for dropping the fare but why someone dropped king's stamp in there. Curious he asked `Matsya`.
 
 But he did take the question with him as he got off the boat and started walking to the `Ashrama`...
 

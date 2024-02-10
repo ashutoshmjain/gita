@@ -18,11 +18,9 @@ Angel stationed the flying chariot right above the hanging man.  - O man,  I off
 
 > In Hindi or Sanskrit, a proposal is called a `Prastaav`...
 
-The man probably thought he was hallucinating, or having understood it was divine nectar, he wanted all for himself. He was convinced the Gods had provisioned this gift solely for him and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal? - those questions are for later. For now let me grab all of it. 
+The man probably thought he was hallucinating, or having understood it was divine nectar, he wanted all for himself. He was convinced the Gods had provisioned this gift solely for him and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal? - those questions are for later. For now let me grab all of it. No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don´t they? - He thought to himself. Not this time - this time this nectar of immortal life is mine - all of it. 
 
-No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don´t they? - He thought to himself. Not this time - this time this nectar of immortal life is mine - all of it. 
-
-Out loud he spoke without courtesy or care, without even looking at the chariot or the smiling face of the kind fairy - No - he said -  Go your way angel and enjoy your flight! - Thanks but no thanks for I know your girl desperately wants my honey and its not gonna be cheap!
+Out loud he spoke without courtesy or care, without even making an eye contact - No - he said -  Go your way angel and enjoy your flight! - Thanks but no thanks for I know your girl desperately wants my honey and its not gonna be cheap!
 
 Angel looked at the fairy and gave the man another chance to think  - fair O'dead man , if you don´t want the deal then know that you will die off the poison of thousand bees, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another half an hour. Time is of the essence for your survival ! And even if you take the deal it would probably take the divine doc many days to remove all the stings you got from the deathly bees!
 
@@ -30,7 +28,7 @@ O ya! - said the greedy man. More the angel tried to convince, more he got sure 
 
 Whatever happened to the man is another story but surprised at  what unfolded, the fairy asked the angel - how stupid can a man be! Why wouldn't he take your proposal. 
 
-The angel smiled in relief - A proposal is always made by the one who needs something. And accepted (or rejected) by those who have the upper hand. Quite the opposite of ¨charity¨ where the rich offload their excesses ¨as is¨ and poor taketh whatever on offer. 
+> The angel smiled in relief - A proposal is always made by the one who needs something. And accepted (or rejected) by those who have the upper hand. Quite the opposite of ¨charity¨ where the rich offload their excesses ¨as is¨ and poor taketh whatever on offer. 
 
 O' my love - he said - If a proposal comes from the able, beneficiaries always question the motives. Only in a rare cases sanity prevails. Such cases are the grace of God! 
 
@@ -41,7 +39,7 @@ Angel thought for a while. He then told her the proposal that `Maharishi Parāś
 
 # `Prastaav` ..
 
-It was as if `Matsyagandha` found a reason to live. `Maharishi Parāśara` got off the boat but he left a boatload of hope for `Matsya`. Every night she waited at the docks. She had gotten a new set of questions. What did `Maharishi` mean? Why would he even talk to someone like her. At times, she thought she was an insipid laughter for the `Yogi` — maybe he just wanted to let her feel good, other times she wanted to look beautiful — she must get herself ready for the bigger purpose — but she knew no ways. She wanted to smell good, but she couldn't afford the Sandal wood — a wood used in making perfumes. The hope and despair played the cycles of pains and joy. She was caught into duality of the prospects, and unlike the waves in `Yamuna`, waves of duality were hard to navigate. 
+It was as if `Matsyagandha` found a reason to live. `Maharishi Parāśara` got off the boat but he left a boatload of hope for `Matsya`. Every night she waited at the docks. She had gotten a new set of questions. What did `Maharishi` mean? Why would he even talk to someone like her. At times, she thought she was an insipid laughter for the `Yogi` — maybe he just wanted to let her feel good, other times she wanted to look beautiful — she must get herself ready for the bigger purpose — but she knew no ways. She wanted to smell good though she couldn't afford the Sandal wood. The hope and despair played the cycles of pains and joy. She was caught into duality of the prospects, and unlike the waves in `Yamuna`, waves of duality were hard to navigate. 
 
 She must go through this fire to harden herself for a path unknown. 
 

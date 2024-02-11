@@ -91,6 +91,8 @@ Rivers `Ganga` and `Yamuna` run parallel through the fertile plains of North Ind
 
 ![](kuruKingdom.jpg)
 
+<sup>The [map](https://commons.wikimedia.org/wiki/File:EpicIndia.jpg) above (published under creative commons license at Wikimedia), shows the locations of Kingdoms mentioned in the Indian epics. Focus is on `Mahabharata`.  Due credits to the publisher as per license. Names in Yellow were the main kingdoms. The river names are shown in blue, the mountains in purple and forests in green. You may need to enlarge the map to appreciate the extensive spread of populations, and complexity of the political landscape.</sup>
+
 `Kuru's` grandson King `Shantanu` currently ruled the place. `Maharishi` could have approached the king for help with herbs but they grew beyond his borders deep into kingdom of `Magadha` with capital in `Patliputra`. 
 
 `Hastinapur` and `Patliputra` had ups and downs in the political relations. Thus, the (imaginary) trip had to be clandestine. Technically, `Rishies` were free to travel across state boundaries and `Maharishi` was not even a native of `Kuru-kingdom` because his `Ashrama` was on the western bank of `Yamuna` — a vast land infested with many `Rakshsa` lords. After his early days of warring with `Asuras` in this area, `Maharishi Parāśara` helped `Ugrasen` take the reins of a new small kingdom named `Sur Sena` (Good people's army).  Thanks to the "fire-traps" of `Maharishi`, most of the rebellions either left the place or were living a subdued life under cover.
@@ -99,15 +101,9 @@ Rivers `Ganga` and `Yamuna` run parallel through the fertile plains of North Ind
 
 The village where `Matsya` stayed, was run by an erstwhile `Asura` lord — `Dashraaj`. He was defeated by `Maharishi` but got his life back after he promised to a conformal lifestyle. That he did, but inside, he wanted to be important. His ambitions, still played young even though old age caught up on him. On the surface, he served the `Ashrama` and stayed in close with the ideology of `Maharishi`.
 
-
-	
->The [map](https://commons.wikimedia.org/wiki/File:EpicIndia.jpg) above (published under creative commons license at Wikimedia), shows the locations of Kingdoms mentioned in the Indian epics. Focus is on `Mahabharata`.  Due credits to the publisher as per license.
->
->Names in Yellow were the main kingdoms. The river names are shown in blue, the mountains in purple and forests in green. You may need to enlarge the map to appreciate the extensive spread of populations, and complexity of the political landscape.
-
 `Asuras` had their own kingdom run by `Vrishaparvan` — an `Asura` royal sage, though `Asuras` were spread beyond their indicated location. It is important to understand the difference between `Asuras` and `Rakshasas`. `Raskshsas` were the tribal population of "bigger built" who obviously wanted to continue with status quo because of advantage of their muscle power over animals and civilized humans. On the other hand `Asuras` were the educated humans who just didn't subscribe to `Vaidik` way of life. Many `Asura` lords naturally developed close ties with `Rakshas` as they had a common enemy in `Vaidik` way of life, but this is not to say that all `Asuras` or `Rakshsas` were inherently against scriptures (or the ones who believed in scriptures). In fact the palace of `Pandavas` - grand sons of `Dwaipayana` was built by a `Rakshsa` architect. In essence, the ideological boundaries weren't black and white.
 
-`Asuras` were neither against scientific discovery nor deities. They had their own weapon systems and they too worked hard to invoke celestial powers. They just didn't subscribe to the idea of one God and the tenets of `Vaidik Science`.
+`Asuras` were not against scientific discovery. They had their own weapon systems and they too worked hard to invoke celestial powers. They just didn't subscribe to the idea of worshipping deities and the tenets of `Vaidik Science`.
 
 > I have highlighted the `Kuru` territory and the location of `Maharishi Parāśara` abode (in `Sur-Sena`). The western boundary of `Kuru` kingdom was river `Yamuna` and eastern side was bound by river `Ganga`. Both major water ways for transport and source of irrigation in prosperous `Kuru` empire. 
 
@@ -122,7 +118,7 @@ Staying off the main-land (`Kuru Kingdom`) also ensured only real seekers had th
 
 `Matsyagandha` thought for a while and finally nodded her consent. Her eyes hollow. She was still not sure it was happening to her but the plan seemed workable. `Maharishi` looked at her and he figured she wanted something else. He stood up and asked — Do you want something else `Matsya`? — His voice full of gratitude.
 
-What will happen to me after ? I will need to feed the new born at least for a year!  But what after that? — asked `Matsyagandha`.
+What will happen to me after ? - It felt like she lost the words - I will need to feed the new born at least for a year!  But what after that? — asked `Matsyagandha`.
 
 `Maharishi Parāśara` thought for a while. He wanted to make sure he found the right words as much as he wanted to say the truth. He said — after two years, once child is ready to go with me, you may, if you wish, return to the village.
 

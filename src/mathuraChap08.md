@@ -89,9 +89,10 @@ And he had a plan — I know a nice cavern hidden in the island. We may stay the
 
 Rivers `Ganga` and `Yamuna` run parallel through the fertile plains of North India. They formed the boundaries of the powerful kingdom established (long back) by King `Kuru` . Shown as Kuru (West) and Kuru (East) in the map below.  He built a grand capital in `Hastinapur`on the banks of `Yamuna` — nowadays known as Delhi, the capital of India. `Hastinapur` was around hundred miles upstream from the abode of `Maharishi`. 
 
-![](kuruKingdom.jpg)
+![](kuruKingdom.jpg) 
 
-<sup>The [map](https://commons.wikimedia.org/wiki/File:EpicIndia.jpg) above (published under creative commons license at Wikimedia), shows the locations of Kingdoms mentioned in the Indian epics. Focus is on `Mahabharata`.  Due credits to the publisher as per license. Names in Yellow were the main kingdoms. The river names are shown in blue, the mountains in purple and forests in green. You may need to enlarge the map to appreciate the extensive spread of populations, and complexity of the political landscape.</sup>
+<sup> the map of `Vaidik` times. Please see the footnote for credits  and more .... [^fig]
+
 
 `Kuru's` grandson King `Shantanu` currently ruled the place. `Maharishi` could have approached the king for help with herbs but they grew beyond his borders deep into kingdom of `Magadha` with capital in `Patliputra`. 
 
@@ -139,6 +140,15 @@ The place between the eyes, right above the nose is called `Aajna Chakra`. This 
 The fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
 
 Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution you this story may change your mind and your life for ever ! 
+
+### notes and other stuff.. 
+
+---
+
+[^fig]: Geographic map of `Vaidik` times..
+- The [map](https://commons.wikimedia.org/wiki/File:EpicIndia.jpg) above (published under creative commons license at Wikimedia), shows the locations of Kingdoms mentioned in the Indian epics. Focus is on `Mahabharata`.  Due credits to the publisher as per license. Names in Yellow were the main kingdoms. The river names are shown in blue, the mountains in purple and forests in green. You may need to enlarge the map to appreciate the extensive spread of populations, and complexity of the political landscape.
+
+----
 
 <div class="cover-medium">
   <div class="centered">

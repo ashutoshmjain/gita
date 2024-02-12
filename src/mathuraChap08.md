@@ -1,28 +1,28 @@
 In the dense California redwoods,  a man got caught up in a massive forest fire. Not unusual for the Norcal summer . Luckily he was a climber. He selected a big Redwood and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in that endless scorch.
 
-Before he got a chance to curse the Gods, he saw a big beehive and also saw the honey dripping off - the rising smoke must have melted the nectar. The only problem : it was on a soft branch and of course he didn't want to wake up thousands of bees still closely guarding their life saving. He figured if he could move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He carefully did that, though in the process he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
+Before he got a chance to curse the Gods, he saw a big beehive and also saw the honey dripping off - the rising smoke must have melted the nectar. The only problem : it was on a soft branch and of course he didn't want to wake up thousands of bees still closely guarding their life saving. He figured if he could move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He carefully did that, though in the process, he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
 
-An Angel was flying past in his chariot. His fairer friend who was sitting besides saw the massive forest fire. She asked  him to take a swing down - to check if they could help someone. We can't go on with our gifted lives with no attention to those who actually need our skills? - she urged her Angel.
+An Angel was flying past in his chariot. His fairer friend, sitting besides, saw the massive forest fire. She asked  him to take a swing down - to check if they could help someone. We can't go on with our gifted lives with no attention to those who actually need our skills? - she urged her Angel. Probably guilty of her privileges.
 
 Angel cautioned her for they were expressly forbidden from causing glitches in the lower worlds -  but who may deny the fairy of charm her wishful musings. Even `Rama` couldn't convince `Siya` that a golden deer is nothing but a trap. The bridge between the left and right half is a "protocol of submission" - not "reason", for the very idea of "reason" is to choose one side of duality.
 
-He took a nose-dive and they both saw this intriguing scene. A strong able man in his mid thirties was hanging off a dead branch that may break any time. And right below him fire was still raging high.  From a distance, they couldn't see that the man was aptly catching the drops of honey falling off the great beehive directly into his open mouth. They also didn't see the bees, finding someone stealing even though it was a waste, were biting all over him. They were probably enraged by the forest fire debasing their earnest savings; and they wanted someone to pay the price. 
+He took a nose-dive and they both saw this intriguing scene. A strong able man in his mid thirties was sitting on a dead branch that may break any time. And right below him fire was still raging high.  From a distance, they couldn't see the man was aptly catching drops of honey directly into his open mouth. They also didn't see the bees were biting all over him. Finding someone stealing, even though it was a waste now, they were enraged for dilution of their earnest savings - and they wanted someone to pay the price. 
 
-His eyes, ears and lips swollen yet survival was paramount. It appeared from a distance that the man wanted to live no matter what the quality of his life, and the extent of his struggle. We must save this man - said the fairy. At the back of her mind the question that had always irked her - why do humans love their lives of endless misery? I mean I am a fairy and still it feels so boring! - She thought.
+His eyes, ears and lips swollen yet survival was paramount. It appeared from a distance that the man wanted to live no matter what the quality of his life, and the extent of his struggle. We must save this man - said the fairy. At the back of her mind the question that had always irked her - why do humans love their lives of endless misery? I mean I am a fairy, even then it feels so boring! - She thought.
 
-The angel still had reservations. He knew the rules. But his lips, culprit of his own desires, didn't abide by the rationale - As you say my lady luck ! - he said -  But we must make it look like a trade deal for we just can´t change the destiny for no good reason. The surveillance has gotten worse these days. They are keeping track of all of us who visit wilderness, particularly in the flying chariots.
+The angel still had reservations. He knew the rules. Yet out loud he submitted - as you say my lady luck ! Then he whispered into fairy's ear -  We must make it look like a fair deal. I can´t change the destiny without approval. The surveillance has gotten worse of late. They are keeping track of all off-route flights.
 
-Sure! You do the talking - said the smiling fairy. She was happy that her mate was willing to take on a potential ¨curse for life¨ for her love.
+Sure! You do the talking - whispered back smiling fairy. She was excited. Her mate was willing to take on a potential ¨curse for life¨ to make her happy.
 
-Angel stationed the flying chariot right above the hanging man.  - O man,  I offer you a seat in the chariot for the divine honey you have broken up in this blessed beehive. We both can share this Godly gift and save your life too. He made a ¨proposal¨.
+Angel stationed the chariot right above the man.  - O man,  I offer you a seat in the chariot for the divine honey you have broken up in this blessed beehive. If you share this Godly gift, you get a free ride back home. He made a ¨proposal¨.
 
 > In Hindi or Sanskrit, a proposal is called a `Prastaav`...
 
-The man probably thought he was hallucinating, or having understood it was divine nectar, he wanted all for himself. He was convinced the Gods had provisioned this gift solely for him and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal? - those questions are for later. For now let me grab all of it. No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don´t they? - He thought to himself. Not this time - this time this nectar of immortal life is mine - all of it. 
+The man probably thought he was hallucinating. Or having understood it was divine nectar, he wanted it all for himself. He was convinced the Gods had provisioned this gift solely for him and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal! Those questions are for later - he reasoned -  for now let me grab all of it. No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they? - He thought to himself. Not this time - this time this nectar of immortal life is mine - all of it. 
 
-Out loud he spoke without courtesy or care, without even making an eye contact - No - he said -  Go your way angel and enjoy your flight! - Thanks but no thanks for I know your girl desperately wants my honey and its not gonna be cheap!
+He countered the proposal without courtesy or care, without even making an eye contact - No - he said -  Go your way angel and enjoy your flight! Thanks but no thanks for I know your girl desperately wants this honey. Let her know it ain't for sale!
 
-Angel looked at the fairy and gave the man another chance to think  - fair O'dead man , if you don´t want the deal then know that you will die off the poison of thousand bees, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another half an hour. Time is of the essence for your survival ! And even if you take the deal it would probably take the divine doc many days to remove all the stings you got from the deathly bees!
+Angel looked at the fairy and gave the man another chance. His pitch louder - Listen O'dead man , if you don't want the deal then know you will die of the poison, and of course your sugar levels are already high not letting you think straight. You will probably burn in this fire in another half an hour. Time is of the essence for your survival ! And even if you take the deal it would take the divine doc many days to remove all the stings you got from the deathly bees!
 
 O ya! - said the greedy man. More the angel tried to convince, more he got sure that there was something very special in the honey. Tired and irritated for the heat was getting stronger by the minute, the angel flew away !
 
@@ -30,9 +30,9 @@ Whatever happened to the man is another story but surprised at  what unfolded, t
 
 > The angel smiled in relief - A proposal is always made by the one who needs something. And accepted (or rejected) by those who have the upper hand. Quite the opposite of ¨charity¨ where the rich offload their excesses ¨as is¨ and poor taketh whatever on offer. 
 
-O' my love - he said - If a proposal comes from the able, beneficiaries always question the motives. Only in a rare cases sanity prevails. Such cases are the grace of God! 
+O' my love - he said - If a proposal comes from the able, beneficiaries always question the motives. Only in a rare case sanity prevails. Such cases are the grace of God! 
 
-Do you know of such rare cases ? - impressed by the wisdom of angel, she asked - you not only kept my word but also saved yourself from the ultimate curse. Please tell me more. She pressed herself closer to the Angel. Her eyes proud and aroused gazing her love! She was anyways excited for this was her first outing in the wilderness.
+Do you know of such rare cases ? - impressed by the wisdom of angel, she asked - you not only kept my word but also saved yourself from altering the reality. Please tell me more. She pressed herself closer to the Angel. Her eyes proud and aroused gazing her love as she felt guilt free for her privileges. She was anyways excited for this was her first outing in the wilderness. She had never gone off the proven route.
 
 Angel thought for a while. He then told her the proposal that `Maharishi Parāśara` made to `Matsyagandha` at the dawn of the new age in an obscure place `Mathura` - on the banks of river `Yamuna` in the northern province of India. An impossibility by any stretch of imagination, yet it worked, and created a race of men that went on to become Angels; and  wizards! Those who have flying chariots. Those who save others from fires and floods. Those who could get as much divine nectar as they wanted from Amazon.com !
 
@@ -91,7 +91,7 @@ Rivers `Ganga` and `Yamuna` run parallel through the fertile plains of North Ind
 
 ![](kuruKingdom.jpg) 
 
-<sup> the map of `Vaidik` times. Please see the footnote for credits  and more .... [^fig]
+<sup> An indicative map of greater India in `Vaidik` times around 5000 BC. Credits [^fig]
 
 
 `Kuru's` grandson King `Shantanu` currently ruled the place. `Maharishi` could have approached the king for help with herbs but they grew beyond his borders deep into kingdom of `Magadha` with capital in `Patliputra`. 

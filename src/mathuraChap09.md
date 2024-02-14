@@ -1,4 +1,4 @@
-Back in her tinsel town, the Fairy couldn't help share the experience of the forest fire with her friends. And also the insights she got about the "efficacy of a proposal". Most of her friends had their own tales to tell - about the crazy things humans do. They downplayed her experience as naive because this was the first time she flirted the rules.  Some others took a tangent. They insisted she should not have given the option to the man - she knew he was going to burn alive. They probably wanted her down the guilt trap once again. They unknowingly meant - there is always an excuse for not doing enough - even if someone claimed to be an activist - like `Fairy` did.
+Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first hand account of forest fire was a big deal in her mind. Her intent though was to headline a new definition of "proposal" versus "charity". She probably wanted to rub her charitable friends in high places. Most of her friends had their own tales to tell - about the crazy things humans do! They downplayed her experience as naive because this was the first time she flirted the rules.  Some others took a tangent. They insisted she should not have given the option to the man - she knew he was going to burn alive. Not only they missed the point, they probably wanted her down the guilt trap once again. They unknowingly meant - there is always an excuse for not doing enough - even if someone claimed to be an activist - like `Fairy` did.
 
 > Social conversations mostly route to the bottom where one either meets frustration or mockery. Damned if you did good and more if you did not!
 
@@ -18,7 +18,7 @@ Seeing their faces blank out - Let's go outside, it's too noisy in here. We need
 
 ---
 
-As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow lit up the evening sky. All three of them, raising their big mugs, took a deep breath of the clean air that was restored with enormous efforts from the angel scientists and equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation.
+As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow lit up the evening sky. All three of them, raising their big mugs, took a deep breath of the clean air that was restored with enormous efforts from the angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation.
 
 There are three basic colors - he said - Red, Green and Blue [^RGB]. They mix up to make millions of colors though our eye are limited to around ten million shades. Possibilities are endless but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are normally hidden in one "White" but they reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets (liquid), on tiny dust particles (solids) light up the washed air (gas). As if there is a spectral choreography of all that could be observed. The cosmos shows up it's true nature and beautiful it is! Isn't it? - He paused to check if he made sense, and also to make sure he was not overtly poetical. 
 
@@ -28,11 +28,11 @@ The statement evoked a "head turn" from both the friends. A sign that he got the
 
 Each of these seven colors is a statement of separation. For example, Green is a signal that all the other colors left it alone - a separation occurred yet it survived. What color is it that we don't see when we our eyes see the peaceful Green?  
 
-He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - white light minus Green is Magenta.
+He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - white light minus Green is Magenta. Anything that appears green must absorb the Magenta out of white light.
 
 Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is - looking at something you can never tell it was an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
 
-O - you mean what happened on the boat was a public view and the more complexity was hidden beneath - said Fairy - her tone borderline smug.
+O - you mean what happened on the boat was a public view and more complexity was hidden beneath - said Fairy - her tone borderline smug. She was obviously frustrated with the social media responses to her post.
 
 We are getting there. Let it sink in for a bit - he said, as he gulped the last ounce from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying complexity - it is a knot! The color and it's anti color are tied to each other though only one appears observable at a time.
 

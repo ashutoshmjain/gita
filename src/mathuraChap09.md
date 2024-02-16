@@ -34,7 +34,7 @@ He waited a bit for the Fairy and her Friend to respond. Finding them silent but
 
 Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is -  the inverse is just another shade - we can never tell it is inverse of something. And even if we looked for, it is impossible to fathom the other side without experiments. In fact every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
 
-O - you mean what happened on the boat was a public view and more complexity was hidden beneath - said Fairy - her tone borderline smug. She was still pissed at the responses to her post last week.
+O - you mean what happened on the boat was a public view and more complexity was hidden beneath - said Fairy - her tone borderline diffident. She was still pissed at the responses to her post last week.
 
 We are getting there. Let it sink in for a bit - he said, as he gulped the last sip from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying parity - it is a knot! The color and it's anti color are tied to each other though only one appears observable.
 
@@ -48,7 +48,7 @@ He continued after making sure of the heightened curiosity of both his listeners
 
 He paused only to restart immediately to drive home the point - The curious question then is what happens when Green is mixed with anti-Green (Magenta) ? Does it maketh the White or does it make the Black? 
 
-The Friend, who had recently learnt  "Abstract Algebra" jumped in - group operation under addition dictates a color and it's anti-color put together must give us the "Identity" of the group - a "White" in this case.  Simply because anti-color is "White" minus the color we see. 
+The Friend, who had recently learnt  [Abstract Algebra](https://www.mathsisfun.com/sets/groups-introduction.html) jumped in - group operation under addition dictates a color and it's anti-color put together must give us the "Identity" of the group - a "White" in this case.  Simply because anti-color is "White" minus the color we see. 
 
 There you go - said the Angel - this exactly is the anomaly. The general physics teaches us a particle annihilates [^annihilation] with it's anti-particle. Whereas the truth is, they are complimentary.  A color mixed with it's anti-color shade  gives us the White light. The "White" is thus the identity of the "group" of seven rainbow colors. We also say "White" is a quantum jump for it assimilates in it all the colors. It represents the entire palette of colors. 
 
@@ -82,7 +82,7 @@ The Angel continued - So eight colors and three states of matter - that is eleve
 
 > Just like three states of the observable  matter, the observer too has three states - in `Vaidik` speak these states are called `Gunas`. The three `Gunas` are - `Sattva`, `Rajsa` and `Tamsa`. The notion of "Work" (`Karma`), on the observer side, is to transition with in these three `Gunas`.
 
-To put it simply, the three states of matter drive "actions" in the matter - exchange from one state to other - for example solids convert into liquids - liquids into gases. The three `Gunas` do the same in the observer. An observer continuously moves from `Sattva` to `Rajasa` to `Tamsa` or vice-versa or some other order. Unfortunately there is no English word to describe `Gunas`. Just think of them as three states of mood. For example when you play just to participate, it is `Sattva`, when you play to win - it is `Rajsa`, and when you rather sleep when it is time to play, it is `Tamsa`.
+To put it simply, the three states of matter drive "actions" in the matter - exchange from one state to other - for example solids convert into liquids - liquids into gases. The three `Gunas` do the same in the observer. An observer continuously moves from `Sattva` to `Rajasa` to `Tamsa` or vice-versa or some other order. Unfortunately there is no English word to describe `Gunas`. Just think of them as three states of mood. For example when you play just to participate, it is `Sattva`, when you play to win - it is `Rajsa`, and if you rather sleep when it is time to play, it is `Tamsa`.
 
 > Effectively - three states of what is observed and three states of the observer!
 
@@ -110,9 +110,9 @@ Okay, I am done with the science of spirituality - smiled Fairy - tell us the st
 
 She found herself in a bed made of flowers when she woke up. It was early morning. Light was slowly filling up the entrance of the cave. She quickly fixed her rags and hair, and stepped out of the cave. `Maharishi` was sitting in a `Samadhi` (sitting upright in a trance). There was holy fire burning in front of the `Yogi`. The place smelled of Sandal wood. Later she realized this part of the island was full of Sandal trees. She sat there, grasping the serenity of the space, trying to make a sense of it all. The events of last night played in her mind. She tried hard to sequence the things but there was no recollection after she lost herself on the boat. Entire evening felt hazy and distant as if a memory was pulled off her brain. Last thing she knew was a sprinkle of cold `Yamuna` water on her face.
 
-While she was thinking of the night that she missed, a thick fog surrounded the cave. It was as if the smoke from the holy fire froze into smog to make an invisible circle around. She felt comforted in the seclusion — free from her painful past. She also felt a strange feeling in her stomach. As if, a life had taken place in her.
+While she was thinking of the night that she missed, a thick fog surrounded the cave. It was as if the smoke from the holy fire froze into smog to make an invisibility cloak around. She felt comforted in the seclusion — free from her painful past. She also felt a strange feeling in her lower belly. As if, a life had taken place in her.
 
-Am I pregnant? — She didn't intend to disturb the `Samadhi` but the words just came of her mouth. `Parāśara` opened his eyes. He gazed at her with a welcome look — Yes — he said. Do you need anything? There is fresh milk and fruits, and he pointed to a grotto next to the entrance of the main cave. 
+Am I pregnant? — She didn't intend to disturb the `Samadhi` but the words just came off her mouth. `Parāśara` opened his eyes. He gazed at her with a welcome look — Yes — he said. Do you need anything? There is fresh milk and fruits, and he pointed to a grotto next to the entrance of the main cave. 
 
 The main cave led to a cavern that had sweet `Yamuna` water flowing at it's base. She also saw her boat moored there. Now she understood why `Maharishi` loved the island. It was a replica of heaven on earth. She also got an inkling that the place was given ghostly character to keep the tourists and wanderers away. For the first time, she felt as if she was part of something bigger. She felt excited and curious at the same time. What exactly is going on? She wanted to know. `Maharishi` could guesstimate what was playing on her mind.
 

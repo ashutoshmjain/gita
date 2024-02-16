@@ -4,7 +4,7 @@ Most her friends had their own tales to tell - about the crazy things humans do!
 
 > Social conversations mostly route to the bottom where one either meets frustration or mockery. Damned if you did good and more if you did not!
 
-Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships.
+Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships - less said better for the wizards!
 
 ---
 
@@ -12,7 +12,7 @@ Luckily, that evening, at a social mixer, they got hold of our Angel. The conver
 
 Is there something more to be read between the lines ? - the Friend said out loud!
 
-Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. He was genuinely concerned - if the incident reached the regulators, his project might get shelved for a period, if not for good. But few martinis later, he too jumped in the discussion. For one the focus was not on the fire incident -  it was on `Matsya and Parāśara`. And second he couldn't take an epic being turned into a joke. He invoked "first principles" to lay out his point. Being a scientist, his disposition was based in logic rather than getting into  "lion over the lamb" arguments - those of morality or righteousness.
+Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. He was genuinely concerned - if the incident reached the regulators, his project might get shelved for a period, if not for good. But few martinis later, he too jumped in the discussion. For one the focus was not on the fire incident -  it was on `Matsya and Parāśara`. And second he couldn't take an epic being distorted. He invoked "first principles" to lay out his point. Being a scientist, his disposition was based in logic rather than getting into  "lion over the lamb" arguments - those of morality or righteousness.
 
 What exactly is the birth ? - He asked both of them. And waited a bit for their response.
 
@@ -20,9 +20,9 @@ Seeing their faces blank out - Let's go outside, it's too noisy in here. We need
 
 ---
 
-As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath of the clean air that was restored with enormous efforts from angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation.
+As they stepped outside the crowded hall, the light drizzle had just stopped. And a thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation and he wanted to prepare his mind for details.
 
-There are three basic colors - he said - Red, Green and Blue [^RGB]. They mix up to make millions of colors though our eye are limited to around ten million shades. Possibilities are endless but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are normally hidden in one "White" but they reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles, light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up it's true nature and beautiful it is! Isn't it? - He paused to check if he made sense, and also to make sure he was not overtly poetical. 
+There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue [^RGB]. They mix up to make millions of colors. Our eye are limited to around ten million shades. Possibilities are endless but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are normally hidden in one "White" but they reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles, light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up it's true nature and beautiful it is! Isn't it? - He paused to check if he made sense, and also to make sure he was not overtly poetical. 
 
 Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it.
 
@@ -34,11 +34,11 @@ He waited a bit for the Fairy and her Friend to respond. Finding them silent but
 
 Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is - looking at something you can never tell it was an "inverse" of something else - the inverse is just another shade. The truth however is - every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another. 
 
-O - you mean what happened on the boat was a public view and more complexity was hidden beneath - said Fairy - her tone borderline smug. She was obviously pissed at the responses to her post.
+O - you mean what happened on the boat was a public view and more complexity was hidden beneath - said Fairy - her tone borderline smug. She was obviously still pissed at the responses to her post last week.
 
 We are getting there. Let it sink in for a bit - he said, as he gulped the last sip from his tumbler - what we observe is the public key but  the private key is always hidden. What appears trivial has certain underlying parity - it is a knot! The color and it's anti color are tied to each other though only one appears observable.
 
-No I am with you! - it was time for the Fairy to reflect - conscious perception is in the separation. A magnet personifies this idea - we can see the separation of dipoles on a magnet -  though the tenet is applicable to everything we observe or even feel. Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence. Everything manifests in the separation. Everything is a knot - an inseparable pair.
+Ya, I am with you! - it was time for the Fairy to reflect - conscious perception is in the separation. A magnet personifies this idea - we can see the separation of dipoles on a magnet -  though the tenet is applicable to everything we observe or even feel. Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence. Everything manifests in the separation. Everything is a knot - an inseparable pair.
 
 Exactly! - said the wizard - Even the "observer" is able to to observe something because there is a separation between the observer and what is being observed. Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in" knowledge except that it appears Yellow, or Red or Green as the case may be. 
 
@@ -50,7 +50,8 @@ He paused only to restart immediately to drive home the point - The curious ques
 
 The Friend, who had recently learnt  "Abstract Algebra" jumped in now - group operation under addition dictates a color and it's anti-color put together must give us the "Identity" of the group - a "White" in this case.  Simply because anti-color is "White" minus the color we see. 
 
-There you go - said the Angel - this exactly is the anomaly. The general physics teaches us that a particle annihilates with it's anti-particle. Whereas the truth is, they are complimentary.  A color mixed with it's anti-color shade  gives us the White light. The "White" is thus the identity of the "group" of seven rainbow colors. We also say "White" is a quantum jump for it assimilates in it all the colors. And it represents the palette of colors. The reason physics concludes "annihilation" is simple - physics, being reductive tries to observe a single particle (or it's anti-particle). They are by definition inseparable. The moment physicists separate them , they both disappear! - a false impression of annihilation.
+There you go - said the Angel - this exactly is the anomaly. The general physics teaches us a particle annihilates [^annihilation] with it's anti-particle. Whereas the truth is, they are complimentary.  A color mixed with it's anti-color shade  gives us the White light. The "White" is thus the identity of the "group" of seven rainbow colors. We also say "White" is a quantum jump for it assimilates in it all the colors. And it represents the entire palette of colors. 
+
 
 The complementarity gets evident when we study the "group" as a whole - a single system ... but we are digressing - Angel continued -  Let's get back to our group of seven colors and their singular identity in "White" - he took a pause to clear his throat - seven colors of the rainbow, along with the identity element "White" are what we say the expanse of "information". Keep in mind we assumed seven colors to keep our model simple. The truth is there are infinite color and anti-color combinations. Thus expanse of information is infinite. In fact every piece of information has infinite possible shades of interpretation. All the possible shades are collectively submerged into one "identity" - the White light.
 
@@ -173,12 +174,14 @@ Before `Vasudev` could take further action, `Kansa` limited his mobility too —
 
 ### notes and other stuff:
 ---
-[^RGB]: The RGB color model is an additive color model that is somewhat unintuitive for us humans. It's perfectly logical for a video display device (such as a monitor or television) that only knows how to display colors by mixing varying amounts of 3 pre-defined colors: red (255,0,0), green (0,255,0), and blue (0,0,255).
+[^RGB]: The RGB color model is an additive color model. Video display device (such as a monitor or television) only know how to display by mixing varying amounts of 3 pre-defined lights of colors: red (255,0,0), green (0,255,0), and blue (0,0,255). Our eyes on the other hand are designed to receive only said three colors - of course in varying degrees of mix proportions.
 - In RGB, the color white is represented as (255, 255, 255) - each component representing full Red, Blue and Green - which equates to "all on." The full value for each of the red, green, and blue color components is displayed, which creates such a high light intensity that we perceive the color as white. Conversely, the color black (0, 0, 0) is the "default" state of the display device. When no color light is displayed ("0"), the result is black, or the absence of color.
 - What we normally learn in school is known as a subtractive color model, versus the additive color model used by RGB. RGB color system, constructs all the colors from the combination of the Red, Green and Blue colors.  The red, green and blue use 8 bits each, which have integer values from 0 to 255. This makes 256x256x256= 16777216 possible colors.
 - Each pixel in the LED monitor displays colors this way, by combination of red, green and blue LEDs (light emitting diodes). When the red pixel is set to 0, the LED is turned off. When the red pixel is set to 255, the LED is turned fully on.  Any value between them sets the LED to partial light emission.
 
+---
 
+[^annihilation]: The reason physics concludes "annihilation" is simple - physics, being reductive tries to observe a single particle (or it's anti-particle). They are by definition inseparable. The moment physicists separate them , they both disappear! - a false impression of annihilation.
 
 ---
 

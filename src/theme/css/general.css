@@ -67,7 +67,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     overflow-x: hidden;
     background-image: url("../../yellowBackground.png");
 
@@ -118,8 +118,8 @@ img.responsive {
 }
 
 .cover-small {
-    margin-top: 4rem;
-    font-size: 2rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
     text-align: center;
 }
 

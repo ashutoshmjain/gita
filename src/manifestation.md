@@ -10,11 +10,11 @@ In the last sections we also talked about the idea that the skills lead to manif
 
 If you feel these ideas are kinda in flux in your mind , I highly request you to check out the previous chapters - starting from the README file. As you know , the goal of this part of the book "getting started" is to build a solid grip on the core ideas of Gita. It will help if we follow the flow.
 
-Concious removal of desires to engage us in consistent practice - ritual of actions `Yazna` is the fundamental aspect of `Karm Yoga`. Gita adds emphasis on consistency that is a hallmark of stable brain `Sahsra`. Such a consistent person who engages in ritual of actions by regulating the senses and engaging the work organs is called `Sthit Prazna` - One with stable mind. Krishna says 
+Conscious removal of desires to engage us in consistent practice - ritual of actions `Yazna` is the fundamental aspect of `Karm Yoga`. Gita adds emphasis on consistency that is a hallmark of stable brain `Sahsra`. Such a consistent person who engages in ritual of actions by regulating the senses and engaging the work organs is called `Sthit Prazna` - One with stable mind. Krishna says 
 
 > Prajhati [ gives up ] Yada [when] Kaman [desires] , Sarvan [all] Parth [ O Arjuna ] Manogatam [one who is beyond fickle mind];
 >
-> Atmani [ self ] Eva [ certainly / only ] Atmna [ concious of ] Tushta [ satisfied ] Sthit Prazna [ stable mind ] Tat [ s/he ] Uchyate [ is called or known as ]
+> Atmani [ self ] Eva [ certainly / only ] Atmna [ conscious of ] Tushta [ satisfied ] Sthit Prazna [ stable mind ] Tat [ s/he ] Uchyate [ is called or known as ]
 >
 > When a man gives up all the desires of sense gratification and chasing the random goals ; and when his mind thus purified , finds satisfaction in self alone, then s/he is said to be a stable mind. 
 
@@ -81,7 +81,7 @@ Goes without saying that we are only creating a mental construct here. We are of
 
 #### Intelligence
 
-So we got all the non living things - the five elements what Gita refers to as `Panch Bhoota` ;  that is solids , gases , liquids, space and energy . What about the manifestation of us - the concious agents?  Well we got a sense for each of the spatial elements. The next step is how does the concious agent remembers the interactions with these objects and other concious agents. We need the agents to remember about their immediate reality , to harvest it for survival . That is the reason we need to put in some memory. 
+So we got all the non living things - the five elements what Gita refers to as `Panch Bhoota` ;  that is solids , gases , liquids, space and energy . What about the manifestation of us - the conscious agents?  Well we got a sense for each of the spatial elements. The next step is how does the conscious agent remembers the interactions with these objects and other conscious agents. We need the agents to remember about their immediate reality , to harvest it for survival . That is the reason we need to put in some memory. 
 
 This memory is designed to be "real-time" to act spontaneously for obvious needs of survival. Agents can of-course use it for other needs when there is no threat . When it works in real-time , like a Unix daemon:-) , we call it "intelligence", what Gita refers to as `Buddhi`. It is not hard to imagine that we if we load it with desires, we lose our ability to act righteously because in this case, desires govern our actions and we know ever changing desires lead us a set of new actions every time we see a glittering thing. Gita addresses the process of effective memory management in what we call `Samttava Budhi Yoga` which is the foundation of all the meditative processes common these days. The purpose of this Yoga is to get to the stage of `Sthit Prazna` - the stable mind as we discussed above. We will talk about it in more details in the chapter on `Ritual of thinking` . 
 
@@ -89,7 +89,7 @@ As a side note, use of psychedelics is on the rise these days, partly because we
 
 #### Autonomy and Sleep
 
-Obviously we can't put too much of bulky storage in there because we need o optimize for for Survival. Which translates into optimize for mobility and spontaneity.  Why not give a small, real-time  fast memory (something like computers' RAM) and provision a mechanism to process the data with global compute when agents are inactive - let us call it "Sleep". So we build a localized brain and a mandatory sleep. All in the metaverse. In a way, the concious agents are free to roam around and explore in search of survival in the virtual reality we created;  but we get to know all they did when they fall asleep and sync the data up to the cloud. And that is where we can guide the agents as to what what is there next big move. We can assign them tasks. We want to keep the control to some extent but we do want to give the agents a sense of autonomy. 
+Obviously we can't put too much of bulky storage in there because we need o optimize for for Survival. Which translates into optimize for mobility and spontaneity.  Why not give a small, real-time  fast memory (something like computers' RAM) and provision a mechanism to process the data with global compute when agents are inactive - let us call it "Sleep". So we build a localized brain and a mandatory sleep. All in the metaverse. In a way, the conscious agents are free to roam around and explore in search of survival in the virtual reality we created;  but we get to know all they did when they fall asleep and sync the data up to the cloud. And that is where we can guide the agents as to what what is there next big move. We can assign them tasks. We want to keep the control to some extent but we do want to give the agents a sense of autonomy. 
 
 The design of sleep interface is probably the most complex part of the virtual world we are building. There are many sub-modules of this interface that act from ingesting the data , processing and optimizing and rebuilding the scenarios for the next set of actions. Of course, it is an opportunity for maintaining the physical body. In addition, we need to make sure that inhabitants are safe from predators during the sleep cycles.  You might think that sleep is just a way to rejuvenate our tired muscles but if we were to waste a third of our life in simply maintaining this body, that is an awful design of a machine. Given the complexity of our bodies , it is hard to imagine that the maker would commit such a design blunder. Those who have done an overnighter, they know we roam around like zombies the very next day:-) Totally disconnected from the things around us. No amount of rest can get us the connect that sleep brings. We can die much faster on account of sleep deprivation than going without food or water. So sleep is special. It is a special interface. We can change our attitude towards sleep if we think of it as our connection to divine internet. This is where all our bodily application are updated over the air :-) 
 
@@ -105,7 +105,7 @@ If that is the case, why can't we traverse the "time". We can go back and forth 
 
 Thus , in current design, time is a derived idea, it is not a fundamental aspect of material nature. It is a mechanism to keep our intelligence fresh. That is the reason we lose sense of time when we are sleeping. You know what I mean if you ever snoozed the alarm a winter morning :-) Eight hours pass in a jiffy. Of course, in modern society, where scheduling and calendaring is an important aspect of life, we have built hundreds of tools around it to keep reminding us that tax date is approaching fast :-) That daily scrum call , 8 am every morning ..sucks :-)
 
-So in addition to senses the concious agent now has a small local mind to navigate the survival through what we call `Buddhi` - intelligence. This is basically to receive data from the sensors and then we have the access to massive connected compute through a sleep interface what we refer to as `Chitta`. And we have time because we want our local memory to be efficient.  In a way time is a mechanism to purge the unnecessary and retain the relevant. 
+So in addition to senses the conscious agent now has a small local mind to navigate the survival through what we call `Buddhi` - intelligence. This is basically to receive data from the sensors and then we have the access to massive connected compute through a sleep interface what we refer to as `Chitta`. And we have time because we want our local memory to be efficient.  In a way time is a mechanism to purge the unnecessary and retain the relevant. 
 
 #### Fickle Mind - `Mana`. 
 
@@ -129,7 +129,7 @@ Purists called it a bug but this is what brought life to the metaverse. Others c
 
 The growth of identity across entire virtual world creates three more bugs - we already know about desires and Gita's main focus is to weed them out. The other three are fear, anger and jealousy . We will talk a lot about these three bugs in next section. Suffice to say here that these three collectively give rise to Matrix - what Gita refers to as `Maya`. 
 
-So we have a ready concious agent ; with senses to observe the elements and other manifestations, intelligence to gain information, deep mind to process the information with global compute , work organs to interact with the elements and manifest , curiosity to indulge and an identity that narrows our focus - as to who we are ? Looks like we have a good design :-)
+So we have a ready conscious agent ; with senses to observe the elements and other manifestations, intelligence to gain information, deep mind to process the information with global compute , work organs to interact with the elements and manifest , curiosity to indulge and an identity that narrows our focus - as to who we are ? Looks like we have a good design :-)
 
 #### Intelligent design v/s evolution
 

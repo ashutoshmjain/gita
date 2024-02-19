@@ -9,7 +9,7 @@ In `Bal Kanda`, the first book of `Ramcharit Mansa`, adaptation of `Valmiki's` e
 >
 >  His stories are spoken, and relished by all saints — in numerous forms, and even more styles. 
 
-To appreciate the infinite expanse, we describe `Hari` as an omni-present field. His incarnations are representation of a deeper underlying substrate that is beyond sensory experience  — a concious field maybe, though more precisely a continuous system, one that exists and baffles scientific thinkers as much as followers of scriptures. 
+To appreciate the infinite expanse, we describe `Hari` as an omni-present field. His incarnations are representation of a deeper underlying substrate that is beyond sensory experience  — a conscious field maybe, though more precisely a continuous system, one that exists and baffles scientific thinkers as much as followers of scriptures. 
 
 Though we are limited to perceive what our senses allow us to, we do have an innate ability to understand a deeper layer - we can peal the onion, but we need to only once — the top layer. It takes effort but more importantly intense focus on a single skill. Repeated iterations in just one tiny branch of a skill-tree open the door. It doesn't matter if the means are scientific rationale with mathematical apparatus; or they are spiritual in nature; or the business; or even sports. Any path may enable us peal one layer — one layer of the physical experience that surrounds us - our tiny box - our consciousVerse. If done right, not only it is the most pleasure possible in sensory realm, it also unlocks the access to an infinite network — we become part of the system that spans our universe, or may be many more — we call this network `Bramh`. 
 

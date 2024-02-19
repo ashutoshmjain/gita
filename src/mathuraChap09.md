@@ -86,7 +86,7 @@ To put it simply, the three states of matter drive "actions" in the matter - exc
 
 > Effectively - three states of what is observed and three states of the observer!
 
-Thus a concious observer inherits eleven physical facets of matter,  plus eleven perceptual facets of observation. These twenty two knots combined create an identity. In `Vaidik` system the identity is called `Ahmkara` - a perceptible and conscious shape what we call "I". In `Vaidik Science`, all of these twenty three together, is what we know as the "field" of consciousness.
+Thus a conscious observer inherits eleven physical facets of matter,  plus eleven perceptual facets of observation. These twenty two knots combined create an identity. In `Vaidik` system the identity is called `Ahmkara` - a perceptible and conscious shape what we call "I". In `Vaidik Science`, all of these twenty three together, is what we know as the "field" of consciousness.
 
 The more important question, however,  is - what is it that thing that  is held with in these twenty three knots? And the answer is - the way "darkness" is a separation from white light; the "identity - I" (`Ahmkara`) is separation from "knowledge" (`Atma`). 
 

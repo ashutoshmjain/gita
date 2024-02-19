@@ -18,9 +18,9 @@ Hmm  .. The question then is who am I ? And what do you mean by Identity ?
 
 Duality in itself is not bad. In fact it fuels the reason and makes us try different options to perfect our rituals. The question is how does it (along with fickle mind) turn into Matrix - `Maya`.
 
->Matrix is as old as the knowledge - means there is no end or no beginning of Maya. Matrix is so prevelent that  concious agents start confusing it with `Prakriti` - the intelligence. 
+>Matrix is as old as the knowledge - means there is no end or no beginning of Maya. Matrix is so prevelent that  conscious agents start confusing it with `Prakriti` - the intelligence. 
 
-In Hindi , `Maya` literally means money but it represents a large system of millions of concious constituents. Using example of a large is the most accessible way for me to highlight some of the constructs of Matrix. 
+In Hindi , `Maya` literally means money but it represents a large system of millions of conscious constituents. Using example of a large is the most accessible way for me to highlight some of the constructs of Matrix. 
 
 ### User Interface 
 
@@ -97,9 +97,9 @@ As your intelligence goes dormant, the knowledge in stays fully encrypted but yo
 
 Time is the key reason for the expectations because we need to prioritize the selection of manifestations. The limitation of time creates the change. The design is so self perpetuating. If we had unlimited time, we wont prioritize , that means there is no reason to improve the information , that means there is no change. The time is attached to the expectations. That is the reason the Karm Yoga is is the only way  to exit this nonesense. 
 
-# Concious Agent 
+# Conscious Agent 
 
-A concious agent is born in the matrix because the ID services of thousands if matrix applications finally shape up concious agent. In a way a concious agent is manifested because of relentless `Yajna` of Maya. Thus concious agent too has a fully encryted copy of knowledge as well as it inherits the five bugs. 
+A conscious agent is born in the matrix because the ID services of thousands if matrix applications finally shape up conscious agent. In a way a conscious agent is manifested because of relentless `Yajna` of Maya. Thus conscious agent too has a fully encryted copy of knowledge as well as it inherits the five bugs. 
 
 These bugs lead the conscious agent to take consume the matrix. Desire is a precursor for curiosity. Anger is a precursor to `Yajna`. 
 
@@ -111,7 +111,7 @@ Awakened conscious agents are like the light bulbs lighting up in the mesh of Ma
 
 ## A universe in itself .. 
 
-In a way a concious agent is complete embodiment of the universe  because it has all elements of Yajna (knowledge to decrypt and ability to act)  and all the bugs of the Matrix. It has tools to seek knowledge and at the same time tools (the bugs) to indulge in Matrix. It all depends where the concious agent is looking at - If she is looking at the matrix - as per Gita, she is sleeping. If it is looking at knowledge then it is awakened. 
+In a way a conscious agent is complete embodiment of the universe  because it has all elements of Yajna (knowledge to decrypt and ability to act)  and all the bugs of the Matrix. It has tools to seek knowledge and at the same time tools (the bugs) to indulge in Matrix. It all depends where the conscious agent is looking at - If she is looking at the matrix - as per Gita, she is sleeping. If it is looking at knowledge then it is awakened. 
 
 Krishna says - This human body itself is the true field - `Kshetra`. Knowing your Truth is knowing the entire meta-physical world. 
 
@@ -119,7 +119,7 @@ Krishna says - This human body itself is the true field - `Kshetra`. Knowing you
 
 Now imagine the this huge app - mother of all apps - the reality- The Matrix. Let us try to build a user interface for it .. 
 
->>>> Consciousness is simply the ability (of a concious agent) to interact with the Matrix. 
+>>>> Consciousness is simply the ability (of a conscious agent) to interact with the Matrix. 
 
 We know our users have curiosity `Mana` , they also have intelligence `Buddhi` and we just gave them an ID - Ability to "Reason" a Speculation v/s Truth . But what is the use of interface if they don't have means to interact with it. Apple had to create a mouse so that you can interact with the graphical interface. And later the touch interface . It seems now we are all now moving to the audio interface with Alexa. And long before all this was the text based interface that we call command line. 
 

@@ -47,7 +47,7 @@ I give you that - said the Boyfriend while eagerly looking for Fairy's response.
 
 ---
 
-As a scientist, our Angel had little to do with the payment systems. His training was to make sure artificial intelligence was judiciously used in bio research for the obvious risks - more so for the fear of "unknown". The general rule was to tread slow for conciousness was still a mystery. You could design a functioning super-man (in lab) but no one was sure if he would fight for the good!
+As a scientist, our Angel had little to do with the payment systems. His training was to make sure artificial intelligence was judiciously used in bio research for the obvious risks - more so for the fear of "unknown". The general rule was to tread slow for consciousness was still a mystery. You could design a functioning super-man (in lab) but no one was sure if he would fight for the good!
 
 The quest had led him to old scriptures - to understand the ancient knowledge of creation but no one really understood how and when the mind becomes self aware. This space, however, was more challenging because you couldn't ethically play with the living. The order of the wisdom was to go gentle - peel one layer at a time.
 

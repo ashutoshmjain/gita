@@ -62,7 +62,7 @@ Service! — `Matsya`, though wildly imaginative, had never thought such a ‘se
 
 He had a winner proposal for her if only she considered!
 
-> Both of them unaware that what `Maharishi` asked `Matsya` was the biggest sacrifice a human could do. Soliciting a new born of a first time mother — be it a human or even an animal, is the most audacious of the 'asks' imaginable. Every cell of a mother's body works nine months, non-stop, to manifest a baby. Not only does she make flesh and blood, she even drafts milk for the new born — to ease the child into inhospitable world. This selfless act is the natural incidence of `Karm Yoga`. Even for a pronounced `Karm Yogi` , giving up on such a manifestation - the feat of binding conciousness to a biological form, was too much to ask. But none of them had this physical experience before. Neither comprehended that the price of such a service was more than entire cosmos!
+> Both of them unaware that what `Maharishi` asked `Matsya` was the biggest sacrifice a human could do. Soliciting a new born of a first time mother — be it a human or even an animal, is the most audacious of the 'asks' imaginable. Every cell of a mother's body works nine months, non-stop, to manifest a baby. Not only does she make flesh and blood, she even drafts milk for the new born — to ease the child into inhospitable world. This selfless act is the natural incidence of `Karm Yoga`. Even for a pronounced `Karm Yogi` , giving up on such a manifestation - the feat of binding consciousness to a biological form, was too much to ask. But none of them had this physical experience before. Neither comprehended that the price of such a service was more than entire cosmos!
 
 ## 8.2
 ---

@@ -1,6 +1,6 @@
 Narrative has the power to capture people's imagination. Fairy and Friend were hooked. It felt though their indulgence in this story was  more than mere curiosity. It was as if something in them  craved  to know more - every single detail. How people reacted to see `Matsya` back in her village . Did they recognize her?  Did she see the same version of reality that she lived few years back;  or did she see a new angle - may be an "anti-version" of her previous world - her "tiny box".
 
-As if Angel read their minds -  you always see something new when you return to your home town - he said -  that is kinda true for any place where you made some memories, but "home" flows in your blood. You readily notice the diffs that you had otherwise ignored, for the change is unnoticeable to a boxed observer - like a frog in a boiling pot. A "return" spotlights the change. But that is NOT how you see "the" Magenta; or  the anti-Yellow - whatever shade is that!
+As if Angel read their minds -  you always see something new when you return to your home town - he said -  that is kinda true for any place where you made some memories, but "home" flows in your blood. You readily notice the diffs that you had otherwise ignored, for the change is unnoticeable to a boxed observer - like a frog in a boiling pot. A "return" spotlights the change. But that is NOT how you see "the" Magenta; or the anti-Green  - whatever shade is that!
 
 The Angel continued talking to a rather surprised Fairy and her friend - to be able to see the inverse of your reality - the other side -  you must change your persona inside-out. No one must recognize you in your own home - he said - No one even looking for your return. And you must be exact opposite of what you were - a beggar if you were a king, rich if you were poor, handsome if you didn't have the looks, a singer if you were a thinker, and fragrant if you smelled like a fish. Such an internal shift ain't easily accessible, that's the reason, we never see the other side [^otherSide]. `Buddha` did it when he returned back to `Kapilvastu`. Despite being on invitation from the king, he went out alone to get food for himself - as a beggar. He wandered in darkness the streets and squares that used to be lit up even on expectation of his visit. 
 
@@ -16,7 +16,7 @@ May be some other time - said the Angel,  but he quickly changed his mind - On t
 
 How ? - asked the Fairy - last I checked we still can't travel back in time - she smiled. 
 
-Yup, we can't "yet" travel back in time, but you can see it in your head sets - replied the Angel - How about you come with us - he pointed to the friend - I think I  had converted the next scene into a static VR. It should be in my library. 
+Yup, we can't "yet" travel back in time, but you can see it in your head sets - replied the Angel - How about you come with us - he pointed to the friend - I think I  had converted the next scene into a static [^staticVR] VR. It should be in my library. 
 
 Walking to Fairy's car he added the disclaimer - it is not your level of professional quality - he looked at the Friend - but I guess it would serve better than me telling the story. Both of you may enjoy the scene while I keep my hands on the wheel (and eyes on the road). He didn't miss the opportunity to curse the traffic controllers -  what is the point of self driving chariots if at least one must sit on the steering - he raised his hands in frustration :-)
 
@@ -26,7 +26,7 @@ Yes sure - said Friend - my car can follow yours. Empty vehicles didn't need a d
 
 A notification for the overdue bill showed up on Fairy's phone. After clearing the bills, she summoned her old Model X. The friend had the latest iteration - they call it Model ∑ - it could drive in three modes - on roads, water and air.  
 
-Angel hopped on to the driver seat. Two friends put on sleek headsets on the back - "Vision Pro 14" - the latest combined spatial platform from  Apple, Google and Meta. Almost a decade back the trio decided not to fight each other for the same cohorts of customers. They came up with single unified computing platform - Apple did hardware, Google did the operating system and payments; and Meta built the experiences. All computing was an interactive experience - education, work, entertainment, and most importantly building new experiences. It was the height of centralization but it worked, unlike the one from the "decentralized resistance" that had no sense of smell.  
+Angel hopped on to the driver seat. Two friends put on sleek headsets on the back - "Vision Pro 14" - the latest combined spatial computing platform from  Apple, Google and Meta. Almost a decade back the trio decided not to fight each other for the same customer cohorts. They came up with single unified computing platform - Apple did hardware; Google did the operating system ; and Meta built the experiences. Most of the consumer computing was an interactive experience - education, work, entertainment, and building new experiences. It was the height of centralization but it worked, unlike the one from the "decentralized resistance" that had no sense of smell.  
 
 Angel navigated them to a locale built at the dawn of the civilization - the sequence of separation. They could see `Matsya` riding her boat as she waved good bye to `Maharishi`, and her year old. She had tears in her eyes. And once again, she had no clue what to expect! What is it that `Maharishi` wanted her to experience and what actions she was supposed to take?  Would she get lucky or would she fail `Maharishi`? - and her son! She felt pressure of separation building as if it was a test destiny so carefully planned for her. Tears roll up when we don't understand what we are feeling!
 
@@ -120,7 +120,14 @@ Even `Maharishi` was unaware that the eighth child of `Devki` was going to be th
 [^otherSide]: The other side:
 - Everyone gets a chance to see the other side but we fail to see it. For example the transition from youth to the old age is an opportunity to see our "tiny box" from an opposite side but we miss the chance because the actors around us (`Sanghdosh`) don't allow to see the new. Even in altered world we continue to retain our past - with our family and with our friends, we continue to hone our echo-chambers. At some point our echo-chambers get so irrelevant that the "death" remains the only way to clean up the system. An opportunity to really understand our `Swaroop` turns into our "demise". 
 - It is not uncommon that people who are normally born poor turn rich in the old age and vice-versa. Stronger people lose their vitality faster than the ones born weak. Same with looks, influence and popularity. A chance to see both the sides was always built in the design of the wave nature but we lose the opportunity because we don't approach it like an opportunity.
-- Effectively - instead of looking at the center from two different sides, we split the center around our `Ahamkara`. We see a rise with the youth and a demise as we grow old - two separate halves of reality centered around our ego - mirror images - one on the left and another on the right - a wave!
+- Effectively, instead of looking at the center from two different sides, we split the center around our `Ahamkara`. We see a rise with the youth and a demise as we grow old - two separate halves of reality centered around our ego - mirror images - one on the left and another on the right - a wave!
+
+---
+
+[^staticVR]: Static VRs were the first generation of virtual reality environments built with AI. The idea was to convert books into a more immersive medium. The next generation were dynamic VRs where you could observe your own trained avatar interacting with the environment in a fully autonomous fashion. The first use cases of dynamic VR were to test individuals for specific skills particularly for job interviews or match making.
+
+---
+
 <lightning-widget 
   name="" 
   accent="#f9ce00" 

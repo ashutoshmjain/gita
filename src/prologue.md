@@ -15,7 +15,7 @@ It included ..
 
 No one could fathom to what avail but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve the root narrative just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. With them they all carried forward what is commonly known as Unix philosophy - somewhat like an embodiment of universal values that bind all of them into one single rendition.
 
-As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish the pursuit of `Mahabharata` - to capture universal values into a single narrative.
+As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish the pursuit of `Mahabharata` - to capture universal values into a single historical narrative.
 
 # `Aavahan`
 
@@ -23,7 +23,7 @@ As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` e
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the divine wisdom 'as is', and preserve it in human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 
-As a complimentary gift, to ensure everyone had a fair access to `Gita`, he ushered the humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hyper text internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+> As a complimentary gift, to ensure everyone had a fair access to `Gita`, he ushered the humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hyper text internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;
@@ -31,12 +31,20 @@ As a complimentary gift, to ensure everyone had a fair access to `Gita`, he ushe
 - `Vishnu Purana`[^vishnu] — Stories of `Vishnu` - the universal manifestation potency; 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
 
-His grand father `Sakti Muni`, was the first to comprehend eternal `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his goal - as if destiny panned a multi-generational charter.
+His grand father `Sakti Muni`, the first to comprehend eternal `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his goal - as if destiny panned a multi-generational charter.
 
 ## 0.1
  ----
  
-The idea of "text" was profound, with far reaching implications. It was a quantum jump in progression of consciousness, at least from the humans' standpoint. 
+With written word not only we got on-demand access to immutable information, the storage capacity too got a massive boost.  Library of Alexandria, built by Ptolemy in early days of transcription ( around 3rd century bc), presumably had between 70K to 700k "Papyrus" rolls. A conversion into a modern textbook size should end up to say 200k books - a lot, given they were all hand written and carefully transported to Alexandria. But we didn't stop there - it is estimated there are over 130 million books in existence as of 2021.
+
+And finally, with digital medium, we inoculated our information store with third booster. Internet is still in its infancy, somewhat like Library of Alexandria was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One zettabyte is equivalent to a billion Terabytes. Which means, it is already more than a BILLION libraries of Alexandria. 
+
+> Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage - a normal laptop these days - accommodates 200,000 books. You and me carry a library of Alexandria in our backpacks !
+
+The comparison above is certainly not 'apple to apple' because data on the internet (and on our computers) contains machine logs, code, graphics and hundreds of other formats but the point really is to show case our external memory heap grew almost a billion times in a span of five thousand years. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human could ever read all the books in print,  much less the content stored on internet -> Hence the tools such as search and chatbots.
+
+> The idea of "text" was profound, with far reaching implications. It was a quantum jump in progression of consciousness, at least from the humans' standpoint. 
 
 The primary difference between humans and other species is our ability to store information outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we harness knowledge from our vast external store of information.  
 

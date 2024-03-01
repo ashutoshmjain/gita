@@ -5,17 +5,19 @@ Scribing `Mahabharata` was one such venture. In terms of significance, it was pr
 It included ..
 - improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world. The written language needed a syntax.
 
-- extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. `Vaidik Sanskrit` was expanded to accommodate around [eighty sounds.](https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.) Abstraction is key to expanding the thought.
+- extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. `Vaidik Sanskrit` was expanded to accommodate around [eighty sounds.](https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.)  -> Abstraction is key to expanding the thought.
 
-- development of writing apparatus such as palm leaves, ink, and quills. The apparatus must be easy to handle for mass adoption; and the print must last longer than a life-span. The simple argument was - if a script didn't last longer than a human life than what is the point of all the effort - the writer could very well speak the ideas when needed. Persistence is a requirement of storage.
+- development of writing apparatus such as palm leaves, ink, and quills. The apparatus must be easy to handle for mass adoption; and the print must last longer than a life-span. The simple argument was - if a script didn't last longer than a human life than the effort was pointless - the writer could very well speak the ideas when needed ->  Persistence is a requirement of storage.
 
-- triggering a self sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic by many reciters who believed wisdom could never be locked in written symbols.  Fears were not misplaced though - they could see a new variant of humans on the horizon, that would leverage the written down store of information as a competitive advantage. Think about all the brouhaha we have around AI safety these days! [^aiSafety]  
+- triggering a self sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic ! Many reciters believed wisdom could never be locked in written symbols.  Fears were not misplaced though - they could see a new variant of humans on the horizon, that would leverage the written down store of information as a competitive advantage -> Think about all the brouhaha we have around AI safety these days ! [^aiSafety]  
 
 - and the patience to write (and read) long meaningful text. But more importantly, finding a purpose to scribe -  a root reference narrative that would span ages without losing it's luster and relevance. 
 
-No one could fathom to what avail but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve the root narrative just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. With them they all carried forward what is commonly known as Unix philosophy - somewhat like an embodiment of universal values that bind all of them into one single rendition.
+No one could fathom to what avail but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve the open root narrative just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. With them they all carried forward what is commonly known as Unix philosophy - somewhat like an embodiment of universal values that bind all of them into one single rendition.
 
-As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish the pursuit of `Mahabharata` - to capture universal values into a single historical narrative.
+As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all pervading information, to accomplish the pursuit of `Mahabharata` - to capture universal values into a single historical narrative. The abstracted **thought** would percolate beyond races, geographies and cultures to define a datum for humans. All ideologies (and subsequently religions) must have a scribed "book" as a founding stone - Gita , Bible or Quran - and hundreds of more of their variants.  
+
+`Mahabharata` was the birth of operating scripture !
 
 # `Aavahan`
 
@@ -23,26 +25,28 @@ As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` e
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the divine wisdom 'as is', and preserve it in human mind through one of the most potent narrative ever told - `Bhagvat Gita`. 
 
-> As a complimentary gift, to ensure everyone had a fair access to `Gita`, he ushered the humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hyper text internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+> As a complimentary gift, to ensure everyone had a fair access, he ushered the humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hyper text internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;
 - `Vrkayurveda` — Insights into Botany;
-- `Vishnu Purana`[^vishnu] — Stories of `Vishnu` - the universal manifestation potency; 
+- `Vishnu Purana`[^vishnu] — Stories of `Vishnu`; 
 - `Brihat Parāśara Hora` — foundational work on Astrology; 
 
-His grand father `Sakti Muni`, the first to comprehend eternal `Karmyoga` . And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` (The first guardian of eternal knowledge). `Dwaipayana's` lineage predetermined his goal - as if destiny panned a multi-generational charter.
+His grand father `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of conciousness (`Vishnu`). And his great grand father `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken word. 
+
+`Dwaipayana's` lineage predetermined the responsibilities of his investiture - as if destiny panned a multi-generational charter. And it wasn't an accident !
 
 ## 0.1
  ----
  
-With written word not only we got on-demand access to immutable information, the storage capacity too got a massive boost.  Library of Alexandria, built by Ptolemy in early days of transcription ( around 3rd century bc), presumably had between 70K to 700k "Papyrus" rolls. A conversion into a modern textbook size should end up to say 200k books - a lot, given they were all hand written and carefully transported to Alexandria. But we didn't stop there - it is estimated there are over 130 million books in existence as of 2021.
+With written word, not only we got on-demand access to immutable information, the storage capacity too got a massive boost.  Library of Alexandria, built by Ptolemy in early days of transcription (around 3rd century bc), presumably had between 70k to 700k "Papyrus" rolls. A conversion into a modern textbook size should end up to say 200k books - a lot, given they were all hand written and carefully transported to Alexandria. But we didn't stop there - it is estimated there are over 130 million books in existence as of 2021.
 
 And finally, with digital medium, we inoculated our information store with third booster. Internet is still in its infancy, somewhat like Library of Alexandria was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One zettabyte is equivalent to a billion Terabytes. Which means, it is already more than a BILLION libraries of Alexandria. 
 
-> Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage - a normal laptop these days - accommodates 200,000 books. You and me carry a library of Alexandria in our backpacks !
+> Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook takes ~5 Mb of disc space, a Terabyte of storage - a normal laptop these days - accommodates 200,000 books -> You and me carry a library of Alexandria in our backpacks. And a choice to sync any one of the billion of them from internet !
 
-The comparison above is certainly not 'apple to apple' because data on the internet (and on our computers) contains machine logs, code, graphics and hundreds of other formats but the point really is to show case our external memory heap grew almost a billion times in a span of five thousand years. And this pace is only increasing. As of now we are doubling the internet every two years. In nutshell, we are now at a point that no human could ever read all the books in print,  much less the content stored on internet -> Hence the tools such as search and chatbots.
+The comparison above is certainly not 'apple to apple' because data on the internet (and on our computers) contains machine logs, code, graphics and hundreds of other formats but the point really is to show case our external memory heap grew almost a billion times in a span of five thousand years. And this pace is only increasing. As of now we are doubling the internet as well as offline storage in our gizmos, every two years. In nutshell, we are now at a point that no human could ever read all the books in print,  much less the content stored on internet -> Hence the rise of the tools such as search engines or  large language models. In essence a new paradigm of digital conscious experience is around the corner - just the way written word led to an exponentially vast concious experience from the spoken sphere.
 
 > The idea of "text" was profound, with far reaching implications. It was a quantum jump in progression of consciousness, at least from the humans' standpoint. 
 
@@ -53,6 +57,8 @@ The primary difference between humans and other species is our ability to store 
 > A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. Same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine tuned skills are used effectively, they become source of inspiration for the rest thus initiating a virtuous cycle of `Karma` and `Vikarma`.
 
 You may argue other species too sustain information and they do turn it into knowledge. For example a dog may hide a bone and he knows how and when to retrieve it back. Bees make beehives to store honey. Elephants remember the river even after hundreds of years. The difference, however, is not only the "size and scope", it is also in persistent nature of our storage. In case of humans the external store of information is vast, shared and is well documented. The last part is important - being documented makes it asynchronously available. It is as if a teacher is always with us - in our books. The recipes of success are available to us in written format.
+
+This, however, was NOT the first quantum jump. The first was when we designed first spoken language and enabled barter based on authenticity of spoken word - but we are digressing! Let's get back to the story of written word. 
 
 ---
 

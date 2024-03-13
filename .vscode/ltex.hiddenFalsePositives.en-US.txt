@@ -1,0 +1,6 @@
+{"rule":"EN_A_VS_AN","sentence":"^\\QIn an estimate, a hundred-page scripture, painted on human size frames back then, used to cost a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q gold of gold (weight of a minted gold coin around 11 gm, commonly called a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q in Sanskrit and an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q in Arabic).\\E$"}
+{"rule":"ARTICLE_ADJECTIVE_OF","sentence":"^\\Q^agi: Artificial intelligence that we use in models such as GPT are designed to serve millions of clients on a narrowband of skills.\\E$"}
+{"rule":"SPURIOUS_APOSTROPHE","sentence":"^\\QA gold coin was equal to a hundred Silver's.\\E$"}
+{"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QBut more importantly, finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster and relevance.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIn hindsight, the idea of \"text\" was profound, with far reaching implications.\\E$"}
+{"rule":"BEING_BEGIN","sentence":"^\\QHis second incarnation was \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q a turtle depicting the ability of conscious beings to stay and live long on Earth.\\E$"}

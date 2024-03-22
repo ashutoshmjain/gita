@@ -10,6 +10,11 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [github repo](https://github.com/ashutoshmjain/gita).
 
+## March 22, 24
+- [Mathura](./mathuraLanding.md) - major edits - improved the opening para.
+  - [Book 1](./prologue.md) - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 
+      - [Trigger](./mathuraChap01.md) - major edits  - started spell and grammar check.
+ 
 ## March 15, 24
 - [Mathura](./mathuraLanding.md) - major edits - mostly spells and grammar.
   - [Book 1](./prologue.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little bit about knowledge verses information. Leading to Karma via dive in ..

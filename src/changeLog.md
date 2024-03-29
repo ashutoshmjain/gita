@@ -9,7 +9,10 @@ Since this is a living book being written in the "open" [^open], a weekly update
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
 One can always see the granular change history at [github repo](https://github.com/ashutoshmjain/gita).
-
+## March 29, 24
+- [Mathura](./mathuraLanding.md) - minor edits. 
+  - [Book 1](./prologue.md) - minor update.
+      - [Trigger](./mathuraChap01.md) - major edits  - spells and grammar. 
 ## March 22, 24
 - [Mathura](./mathuraLanding.md) - major edits - improved the opening para.
   - [Book 1](./prologue.md) - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 

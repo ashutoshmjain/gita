@@ -118,11 +118,12 @@ And there was a good reason for intense focus on recital. Memories couldn't be s
 
 ## notes and stuff:
 ----
-[^kaal]: Time has two meanings in general - one that we see passing through as in past and future (present being the focal point), and second a period - as in duration. The latter is referred to as `Kaal` in `Sanskrit`. It's a duration between two events of similar nature. For example the time between two clicks of watch is a period. 
-- On a sine wave we say the time of trough or a crest is a period ⚛ . It is typically denoted as wavelength.
+[^kaal]: Time, in general,  has two meanings. - one that we see passing through as in past and future (present being the focal point), and second a period - as in duration. The latter is referred to as `Kaal` in `Sanskrit`. It's a duration between two events of similar nature. For example the time between two clicks of watch is a period. From my birth to the birth of my child is a `Kaal`. 
+- The wavelength of a sine wave, λ, can be measured between any two points with the same phase, such as between crests (on top), or troughs (on bottom), or corresponding zero crossings as shown.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sine_wavelength.svg/220px-Sine_wavelength.svg.png)
 - When we see a sine wave drawn on a two-dimensional paper, it feels as if trough is half of rise and crest is the half of fall. However, such perception changes when we see a sine wave in three dimension.
 - A better way to perceive a sine wave in three dimensions is to think that a point inflates, and then it contracts - like a balloon. 
-- A cycle of expansion, followed by subsequent contraction is called a period - `Kaal`.
+- A cycle of expansion, followed by subsequent contraction is called a period - `Kaal`. It is typically half wavelength.
 - Continuous  cycles of expansion and contractions are called `kaal-chakra`.
 
 ---

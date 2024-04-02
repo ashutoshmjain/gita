@@ -50,10 +50,9 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 ## 0.1
  ----
  
-With written word, not only did we get on-demand access to immutable information, the storage capacity too got a massive boost.  Library of Alexandria, in early days of transcription (around 3rd century BC built by Ptolemy), presumably had 70,000 to 700,000 Papyrus rolls. A conversion into a modern textbook size should end up to say 200,000 books - a lot, given they were all handwritten and carefully transported to Alexandria, but from today's standpoint, it is only a terabyte of disc space. Something that might fit on a thumb size SD card !
+With written word, not only did we get on-demand access to immutable information, the storage capacity too got a massive boost.  Library of Alexandria, in early days of transcription (around 3rd century BC built by Ptolemy), presumably had 70,000 to 700,000 Papyrus rolls. A conversion into a modern textbook size should end up to say 200,000 books - a lot, given they were all handwritten and carefully transported to Alexandria. 
 
-
-With digital medium, we inoculated our information store with a third booster - spoken and written being the first two. It is estimated there are over 130 million books in digital form as of 2021. Internet is still in its infancy, somewhat like the Library of Alexandria was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One zettabyte is equivalent to a billion Terabytes. Which means, it is already more than a billion libraries of Alexandria. 
+With digital medium, we inoculated our information store with a third booster - spoken and written being the first two. The entire library of Alexandria may fit on a single thumb size SD card today. It is estimated there are over 130 million books in digital form as of 2021. Internet is still in its infancy, somewhat like the old library was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One zettabyte is equivalent to a billion Terabytes.
 
 > Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook is ~5 Mb of data, a Terabyte of storage - a normal laptop these days - may accommodate 200,000 books -> You and I carry a library of Alexandria in our backpacks 🤯
 

@@ -14,3 +14,4 @@
 {"rule":"EN_A_VS_AN","sentence":"^\\QIn an estimate, a hundred-page scripture, painted on human size frames back then, used to cost a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q ^gold of gold - weight of a minted gold coin around eleven grams -  commonly called a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q in Sanskrit, and an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q in Arabic.\\E$"}
 {"rule":"EN_COMPOUNDS","sentence":"^\\QWe know most nation states have issues with crypto-currencies because they have genuine vested interest in their \"Fiats\", but what could be the \"vested interest \" for those who were anyway living off the jungle?\\E$"}
 {"rule":"DOUBLE_PUNCTUATION","sentence":"^\\Q^50k: Wheel of time ..\\E$"}
+{"rule":"CONFUSION_OF_OUR_OUT","sentence":"^\\QOnce we figured out digital communication - practically free mode to copy and communicate - the value of information fell exponentially.\\E$"}

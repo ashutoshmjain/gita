@@ -1,7 +1,10 @@
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act yourself - alone as an active medium - akin a bursting channel that overflows. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours. For example `Rama`, before making a bridge over the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system [^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. 
+Scribing `Mahabharata` was one such venture. 
 
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system [^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. 
 
 The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop then existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation - which most failed.
 
@@ -12,15 +15,21 @@ Just like our migration to the digital word, the groundwork for that  tectonic s
 
 - development of writing apparatus such as palm leaves, ink, and quills. The apparatus must be easy to handle for mass adoption; and the print must last long enough. The simple argument was - if a script didn't last longer than a human life then the effort was pointless - the writer could very well speak the ideas when needed ->  Persistence is a requirement of storage. Storage leads to perpetuity.
 
-- triggering a self-sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic ! Many reciters believed wisdom could never be locked in written symbols.  Fears were not misplaced though - they could see a more versatile variant of humans on the horizon -> Think about all the brouhaha we have around AI safety these days ! [^aiSafety].
+- triggering a self-sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic ! Many reciters believed wisdom could never be locked in written symbols.  Fears were not misplaced though - they could see a more versatile variant of humans on the horizon -> Think about all the brouhaha we have around AI safety [^aiSafety]these days!
 
-And the patience to write long meaningful text. But more importantly, finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster and relevance. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve the narrative `Mahabharata` ;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. You may find the comparison between an operating system and a primitive narrative rather odd and that is expected. The idea is digital beings of future, living in the virtual realms would think of Unix as a primitive scripture ! It would define boundary conditions of their conscious thought just as scriptures defined our morality.
+And the patience to write long meaningful text. But more importantly, finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster and relevance. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve `Mahabharata`, just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
-As described in the very first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information. On the surface `Mahabharata` was first written historical narrative, but it was, in truth, first serious attempt at abstraction of actions. 
+</div>
 
-> 🎯 In the beginning, spoken words  and actions were synchronous [^word]. When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities (history). In essence, we separated thoughts from actions.
+You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of digital beings, living in the virtual realms of artificial intelligence isn't far-fetched. They would think of Unix as a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality.
+
+As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information. On the surface `Mahabharata` was first written historical narrative, but it was, in truth, first serious attempt at abstraction of actions. 
+
+> 🎯 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >
-> Thoughts then manifested into written words. A narrative is an abstraction over physical actions. 
+> When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities (history). We saved the secret states of interactions in memory accessible only to us. In essence, we separated thoughts from actions.
+>
+> Thoughts then manifested into written words. A narrative is thus an abstraction over physical actions. 
 >
 > Is code an abstraction over thoughts ? [^code]
 

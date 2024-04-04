@@ -1,6 +1,10 @@
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act yourself - alone as an active medium - akin a bursting channel that overflows to invoke the force. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours. For example `Rama`, before making a bridge over the sea,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture. In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system [^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. Imagine the effort and the journey of ascent of written word !
+Scribing `Mahabharata` was one such venture. 
+
+<span style="font-size:0.5em;"> size test for the text Text goes here </span>
+
+In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system [^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. Imagine the effort and the journey of ascent of written word !
 
 The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop then existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out a new method over hundreds of years of time tested rules of taxation - which most failed.
 

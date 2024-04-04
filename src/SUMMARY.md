@@ -1,6 +1,6 @@
 # Summary
 - [Mathura](./mathuraLanding.md)
-  - [Thought](./prologue.md)
+  - [Thought](./thought.md)
       - [Trigger](./mathuraChap01.md)
       - [Reboot](./mathuraChap02.md)
       - [Expression](./mathuraChap03.md)

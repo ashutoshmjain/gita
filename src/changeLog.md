@@ -5,10 +5,10 @@ Knowledge always accumulates in granular change. History is tracking changes [^h
 Since this is a living book being written in the "open" [^open], a weekly update is released here-below every Friday, with the list of changes. 
 - If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". 
 - More than ten such changes go to the "major edits" category. 
-- If I shuffle couple of paras up or down, without changing the underlying theme - it is minor update. 
+- If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
-One can always see the granular change history at [github repo](https://github.com/ashutoshmjain/gita).
+One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
 ## April 05, 24
 - [Mathura](./mathuraLanding.md) 
@@ -26,7 +26,7 @@ One can always see the granular change history at [github repo](https://github.c
  
 ## March 15, 24
 - [Mathura](./mathuraLanding.md) - major edits - mostly spells and grammar.
-  - [Book 1](./prologue.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little bit about knowledge verses information. Leading to Karma via dive in ..
+  - [Book 1](./prologue.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little about knowledge verses information. Leading to Karma via dive in ..
  
 ## March 08, 24
 - [Mathura]
@@ -161,7 +161,7 @@ One can always see the granular change history at [github repo](https://github.c
 
 ## Oct 20, 23
 
-Reorganized the text a little bit to carve out eight chapters per book and to avoid repetition of the text on cover pages.
+Reorganized the text a little to carve out eight chapters per book and to avoid repetition of the text on cover pages.
 - [Mathura](./mathuraLanding.md) - New title text that aligns well and explains the name of the book.
   - [Book 1](./prologue.md) - Major update . Moved the last section to the landing page. Lots of improvements in second section - the "information store"
 
@@ -243,16 +243,16 @@ Reorganized the text a little bit to carve out eight chapters per book and to av
 
 ## June 23, 23
 
-Restored the Mahabharata landing page. It seems the page was deleted with other Mahabharata files. Moved the development work to Android. Samsung Galaxy tab S7 FE. The terminal experience on Android has improved a lot with Termux though the sad part is Google has removed Termux from the app store. Needed to install F Droid to get the terminal going. Tried out installing Debian Andronix as well as with userLand but all I needed was old and time tested Termux with a Zook bluetooth Fingerpad.
+Restored the Mahabharata landing page. It seems the page was deleted with other Mahabharata files. Moved the development work to Android. Samsung Galaxy Tab S7 FE. The terminal experience on Android has improved a lot with Termux though the sad part is Google has removed Termux from the app store. Needed to install F Droid to get the terminal going. Tried out installing Debian Andronix as well as with userLand but all I needed was old and time tested Termux with a Zook bluetooth Fingerpad.
 - [Mathura](./mathuraLanding.md)
   - [Island](./mathuraChap05.md) - General Edits. Reshaped the introduction to meet with the content.
   - [Naive](./mathuraChap06.md) - General Edits. Reshaped introduction and added a footnote.
 
 ## June 16, 23
 
-Trying to get a hold of the narrative after a month long gap due to my daughter's wedding (which was fun and prolly lot more important than this:-)
+Trying to get a hold of the narrative after a month-long gap due to my daughter's wedding (which was fun and prolly lot more important than this:-)
 
-In addition to general edits, got a third person view of these chapters when I started reading them again after a gap. Some of the changes I made were only possible if I emptied out my cache memory. A writer must take a break and read his work again so as to see things purely from a reader's perspective. Hope these chapters would make better sense now !
+In addition to general edits, got a third person view of these chapters when I started reading them again after a gap. Some of the changes I made were only possible if I emptied out my cache memory. A writer must take a break and read his work again to see things purely from a reader's perspective. Hope these chapters would make better sense now !
 
 - [Mathura](./mathuraLanding.md)
   - [Invocation](./prologue.md) - General Edits
@@ -276,7 +276,7 @@ In addition to general edits, got a third person view of these chapters when I s
   - [changeLog](./changeLog.md) - General Edits. Added two footnotes.
 
 ## April 27, 23 - Friday
-- [Mathura](./mathuraLanding.md) - Working on kinda final Edit round for the first five chapter. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
+- [Mathura](./mathuraLanding.md) - Working on kinda final Edit round for the first five chapters. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
   - [Invocation](./prologue.md) - General Edits [^edits]
   - [Trigger](./mathuraChap01.md) - General Edits 
   - [Reboot](./mathuraChap02.md) - General Edits  
@@ -366,7 +366,7 @@ Bound first four chapters with the overarching idea that the conflict is not bet
   - Added excerpt of KMG's preface and from his Wikipedia page. 
   - Added a paragraph on Mahabharata.
 - [Theme](https://github.com/ashutoshmjain/maholvi)
-  - Added a yellow grains back ground image to give the main body a slightly rougher look
+  - Added a yellow grains background image to give the main body a slightly rougher look
 ## Dec 15, 22
 - [Mathura](./mathuraLanding.md) - Added licence to copyright mark. Added page links.
   - [How to read this book](./how.md) - Added sections on search , style and license.
@@ -379,14 +379,14 @@ Bound first four chapters with the overarching idea that the conflict is not bet
 - [Mahabharata](./mahabharataLanding.md) 
      - Added the move notice. 
      - Configured new subdomain at "Go Daddy" 
-     - configured github pages for the https://mahabharata.shutri.com
+     - configured GitHub pages for the https://mahabharata.shutri.com
      - Custom styling and published mdbook to new sub-doamin.
 - [changeLog](./changeLog.md) - Started maintaining a change log.
 
 ### notes and stuff
 ----
 
-[^history]: Knowledge is deep understanding of the history. Be it a project, a book or a product. The final copy (with a small training manual) is mere manifestation of the knowledge. The knowledge is encrypted with in that final shape as the history of all the changes - of the ideas, of the code or the people.  For example, what you are reading is just an online document, the history of this book is in the thousands of commits on the github. The knowledge is "encrypted" because there is no way to document the rationale of all the changes that go into creation of the final shape. Even if someone documented all the changes, it is almost impossible to read, understand and appreciate the sequential changes. The iterative rigor to reach a final shape is `Karma`. In essence knowledge gets encrypted through `Karma` or in other words `Karma` is what leads to manifestation -  hiding (or binding) the knowledge to a final shape. What we get from the "manifested" product is only "information". Information may inspire or distract but it is not knowledge. Thus even after reading a book or even after using a product, the consumer only gets the information. Knowledge needs close association or active participation in the process of creation. A well crafted "changelog" is thus the starting point for "knowledge" seekers.
+[^history]: Knowledge is deep understanding of the history. Be it a project, a book or a product. The final copy (with a small training manual) is mere manifestation of the knowledge. The knowledge is encrypted with in that final shape as the history of all the changes - of the ideas, of the code or the people.  For example, what you are reading is just an online document, the history of this book is in the thousands of commits on the GitHub. The knowledge is "encrypted" because there is no way to document the rationale of all the changes that go into creation of the final shape. Even if someone documented all the changes, it is almost impossible to read, understand and appreciate the sequential changes. The iterative rigor to reach a final shape is `Karma`. In essence knowledge gets encrypted through `Karma` or in other words `Karma` is what leads to manifestation -  hiding (or binding) the knowledge to a final shape. What we get from the "manifested" product is only "information". Information may inspire or distract, but it is not knowledge. Thus even after reading a book or even after using a product, the consumer only gets the information. Knowledge needs close association or active participation in the process of creation. A well crafted "changelog" is thus the starting point for "knowledge" seekers.
 
 ---
 

@@ -9,6 +9,12 @@ Since this is a living book being written in the "open" [^open], a weekly update
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
 One can always see the granular change history at [github repo](https://github.com/ashutoshmjain/gita).
+
+## April 05, 24
+- [Mathura](./mathuraLanding.md) 
+  - [Book 1](./thought.md) - major update - tied the whole chapter into a flow. Aligned the idea of a narrative as an experience and the value exchange as the cost of the cost of experience. 
+      - [Trigger](./mathuraChap01.md) - major edits - tightly aligned the chapter with the definitions of the core competencies.
+
 ## March 29, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
   - [Book 1](./prologue.md) - minor update.

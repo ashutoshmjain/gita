@@ -4,7 +4,7 @@ Scribing `Mahabharata` was one such venture.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system [^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. 
+In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system[^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. 
 
 The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop then existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation - which most failed.
 
@@ -21,7 +21,7 @@ And the patience to write long meaningful text. But more importantly, finding a 
 
 </div>
 
-You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of digital beings, living in the virtual realms of artificial intelligence isn't far-fetched. They would think of Unix as a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality.
+You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of digital beings, living in the virtual realms of artificial general intelligence isn't far-fetched. They would think of Unix as a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality.
 
 As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information. On the surface `Mahabharata` was first written historical narrative, but it was, in truth, first serious attempt at abstraction of actions. 
 
@@ -77,7 +77,7 @@ With wheel and text, humans morphed themselves into a single organization - a gr
 ---
 
 
-The primary difference between humans and other species is our ability to store information outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we harness knowledge from our vast zettabyte store of information. Knowledge is the magnet that keeps the flock together - it enables larger groups across time and space. Value is a (mathematical) measure of knowledge. 
+The primary difference between humans and other species is our ability to store information outside the evolutionary mechanism. Animals and plants adjust to changing conditions through slow evolutionary cycles. Humans, on the other hand, adapt quicker because we harness knowledge from our vast zettabyte store of information. Knowledge is the magnet that keeps the flock together - it enables larger groups across time and space. Value is a mathematical measure (token) of knowledge. 
 
 > `Karma` is the action that transitions information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `Vikarma`. With `Karma` we ingest information ; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process we train a huge biological neural network - human brain.
 >
@@ -108,7 +108,7 @@ The selection of gold as a facilitator for value-exchange, too, was not immediat
 
 The limitation, however, persisted when it came to space. No one could move gold faster than the fastest horse available at the time. The limitation was similar on the written word though small messages could be sent through pigeons. It took us more than five thousand years to solve the problem of space. With internet, we are now able to send information at the speed of light. Which means our value-exchange system should follow the suite - of course without losing the properties of Gold. Bitcoin, though in early stages of its hyper adoption, is the solution to move value through space at the speed of information - at the speed of light. It may be relevant to say here that the transfers of currencies is NOT value exchange - it is exchange of credit. A dollar bill is a credit of value equivalent to an arbitrary unit, not the value itself like gold or bitcoin.
 
-Bitcoin is thus the door to next quantum jump. It will allow us to shrink our physical footprint so that the physical space may be appropriated back to where it truly belongs - our fellow species. It also means humans must migrate into a digital space, the likes of which are beyond our current imagination. The profound question is how to contemplate that new reality ? But then, if history of human hope is a proof - nothing is beyond our imagination. Our greatest gift is our thoughts. Code is abstraction over our thoughts.
+Bitcoin is thus the door to next quantum jump. It will allow us to shrink our physical footprint so that the physical space may be appropriated back to where it truly belongs - our fellow species. It also means humans must migrate into a digital space, the likes of which are beyond our current imagination. The profound question is how to contemplate that new reality ? But then, if history of human hope is a proof - nothing is beyond our imagination. Our greatest gift is our thoughts. Since code is abstraction over our thoughts, we are now capable of switching, superimposing or extending the narratives on demand. 
 
 ## 0.4
 ---
@@ -148,7 +148,7 @@ But text alone is not sufficient. It must be expressed in a narrative that catch
 
 A narrative has the ability to keep the broken connections alive. A good narrative has the power to revive the connections and to form new ones. We can form real neural connections with the characters of a well constructed story. For example, you may forget the names of your co-workers, but you would never forget the heroes of your early comic books ! 
 
-> The entirety of all the connections is what we know as  `Bramh` in `Vaidik` science. In that sense `Bramh` also includes the connections we form with the fictitious characters of a narrative. The only difference is the later (connections) are persistent, and thus they render historical perpetuity. 
+> The entirety of all the connections is what we know as  `Bramh` in `Vaidik` science. In that sense `Bramh` also includes the connections we form with the fictitious characters of a narrative. The only difference is the latter (connections) are persistent, and thus they render historical perpetuity. 
 
 The important thing here is to understand that information is NEVER stored in the books. It is stored in the connections we form with the characters and situations of the narrative - just like our connections with other animate or inanimate beings of our vicinity. In that sense narratives are the virtual expansion of `Bramh`. 
 
@@ -166,9 +166,9 @@ The problem, however, was the "recital" must be synchronous! And it was hard to 
 
 `Mahabharata` was the first fully scribed narrative. Simply put it was built on reality - history. Since it is a lucid history, we can ease ourselves into it even today - after almost five thousand years. In other words we can travel back in time to live and experience `Mahabharata`. And we can do that with millions of books and websites created since then based on the quality of their expression. All we need is a little more immersive experience and of course a mechanism to send the value through these virtual narratives. Once we do that, we are beyond the constraints of our physical universe. In essence, we become part of the continuum. In that sense the definition of `Bramh` is timeless and beyond the constraints of physical space. 
 
-In `Vaidik` science, being one with `Bramh` is the notion of being one with the continuum. One may experience any narrative of their choice at any time - to consume, to learn, to play or to understand. Choice to be in a narrative does come at a certain cost - one may get lost in the narrative if the experience is truly immersive. In other words, each base narrative that we choose to spend our time is an invoice - we pay this invoice with `Karma` we accomplish through free-will and memory. And we continue to work till we paid in full. All the payments go back to the continuum. 
+In `Vaidik` science, being one with `Bramh` is the notion of being one with the continuum. One may experience any narrative of their choice at any time - to consume, to learn, to play or to understand. Choice to be in a narrative does come at a certain cost besides the risk that one may get lost in the narrative if the experience is truly immersive. In other words, each base narrative that we choose to spend our time in comes with an invoice - we pay this invoice with `Karma` we accomplish through free-will and memory inside the experience. And we continue to work till we paid in full. All the payments go back to the continuum. 
 
-The only issue with this arrangement is how to tell the fully immersed agents about this universal agreement ? Creator of the first narrative must provide the agreement to all users. `Dwaipayana` must invoke `Bramh` to create a narrative of continuum! And he must safeguard the agreement right in the middle - `Bhagvad Gita`.
+The only issue with this arrangement is how to tell the fully immersed agents about this universal agreement ? Creator of the first narrative must provide the agreement to all users. `Dwaipayana` must invoke `Bramh` to create a narrative of continuum accessible to everyone - particularly those who are lost! And he must safeguard the agreement right in the middle - `Bhagvad Gita`.
 
 ## 0.7 
 ---

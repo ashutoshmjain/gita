@@ -4,7 +4,7 @@ Scribing `Mahabharata` was one such venture.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating system[^c] ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. 
+In terms of significance, it was probably as big a shift as the computing revolution of late last century. For example, the idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating [^c] system  ->  `Sanskrit` transcription fructified alongside `Mahabharata`, the way C programming language came into shape alongside development of Unix. 
 
 The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop then existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation - which most failed.
 
@@ -21,24 +21,24 @@ And the patience to write long meaningful text. But more importantly, finding a 
 
 </div>
 
-You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of digital beings, living in the virtual realms of artificial general intelligence isn't far-fetched. They would think of Unix as a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality.
+You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the virtual realms of artificial general intelligence isn't far-fetched. They would think of Unix as a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality.
 
-As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information. On the surface `Mahabharata` was first written historical narrative, but it was, in truth, first serious attempt at abstraction of actions. 
+In the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information. He must do so for on the surface `Mahabharata` was first written historical narrative, but it was, in truth, first serious attempt at abstraction of actions - an expansion of `Bramh`, as we will discover down the line in this article.
 
-> 🎯 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
+> In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >
-> When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities (history). We saved the secret states of interactions in memory accessible only to us. In essence, we separated thoughts from actions.
+> When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities - history. We saved the secret states of interactions in memory - accessible only to us. In essence, we separated thoughts from actions.
 >
-> Powerful thoughts then manifested into written words. A narrative is thus an abstraction over physical actions. 
+> Powerful thoughts then manifested into written words. A narrative is thus a shared abstraction over physical actions. 
 >
-> Is code an abstraction over thoughts ? [^code]
+> Is code an abstraction over thoughts [^code] ? 
 
-The scribed abstraction of actions, henceforth, would percolate beyond races, geographies and cultures to set up a minimum entry criterion for human communities, and institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. Narratives organize humans ; code compacts organizations into an organism.
+The scribed abstraction of actions, henceforth, would percolate beyond races, geographies and cultures to set up a minimum entry criterion for human communities, and institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. Narratives organize humans through history and plans ; code compacts organizations into an organism through automation of simple actions.
 
 
 # `Aavahan`
 
-Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" to play all their cards. They fight, and they scheme against each other; or in favor of some. They organize in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging on the "truth" but many other times conflicting. He catalogued their spoken wisdom into four foundational volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
+Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging on the "truth" but many other times conflicting. He catalogued their spoken wisdom into four foundational volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) .
  
@@ -53,7 +53,7 @@ This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipa
 
 His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
 
-`Dwaipayana's` lineage predetermined the responsibilities of his investiture - as if destiny planned a multi-generational charter. And it was no accident !
+`Dwaipayana's` lineage predetermined the responsibilities of his investiture - as if destiny spun a multi-generational charter.
 
 ## 0.1
  ----
@@ -62,13 +62,13 @@ With written word, not only did we get on-demand access to immutable information
 
 Computers inoculated our information store with third booster - spoken and written being the first two formats that triggered exponential growth of information. The entire library of Alexandria may fit on a single thumb size SD card today. It is estimated there are over 130 million books in digital form as of 2021. Internet is still in its infancy, somewhat like the old library was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One Zettabyte -> billion Terabytes.
 
-> Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook is ~5 Mb of data, a Terabyte of storage - a normal laptop these days - may accommodate 200,000 books -> You and I carry a library of Alexandria in our backpacks 🤯
+> Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook is ~5 Mb of data, a Terabyte of storage - a normal laptop these days - may accommodate 200,000 books -> You and I carry a library of Alexandria in our backpacks !
 
 The strange thing is this pace is only increasing just like the ever expanding physical universe ! As of now we are doubling the internet as well as offline storage in our gizmos, every two years. In nutshell, we are now at a point that no human may ever read all the books in print,  much less the content stored on internet -> Hence the rise of the tools such as search engines or  large language models. In essence a new paradigm of digital conscious experience [^digitalExperience] is already here - just the way written word led to an exponentially vast conscious experience verses our speech only ancestors.
 
 > Abstraction of actions into narratives (written or digital) meant we could experience situations where we were not physically present. The purpose of abstraction is always to expand further into space and time to enhance the conscious experience.
 
-In hindsight, the idea of "text" was profound. It was a quantum jump in progression of consciousness. It enabled us send information to the future ->  an attempt to conquer time, just the way a "wheel" was an attempt to cover physical space. Oddly enough no other species adopted either wheel or text - even the mammals such as whales or elephants who arguably have bigger brains than us. 
+In hindsight, the idea of "text" was profound. It was a quantum jump in progression of consciousness. It enabled us send information to the future ->  an attempt to conquer time, just the way a "wheel" was an attempt to cover physical space. Oddly enough no other species adopted either wheel or text ! Even the mammals such as whales or elephants who arguably have bigger brains than us. 
 
 With wheel and text, humans morphed themselves into a single organization - a group larger than any other species -  while all other species stuck to their individual existence. Wheel and text were not only the means to establish order in this super sized group - they were necessary elements to establish a value exchange protocol - accessible and acceptable to all humans. An equitable value exchange mechanism lets evolution of larger happy groups.
 

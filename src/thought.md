@@ -21,9 +21,11 @@ And the patience to write long meaningful text. But more importantly, finding a 
 
 </div>
 
-You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the virtual realms of artificial general intelligence isn't far-fetched. They would think of Unix as a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality.
+You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the virtual realms of artificial general intelligence isn't far-fetched. A compelling thought is what would be their relationship to underlying computer infrastructure? Wouldn't they  relate to an operating system as we to a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independednt
 
-In the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], immortal `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information. He must do so for on the surface `Mahabharata` was first written historical narrative, but it was, in truth, first serious attempt at abstraction of actions - an expansion of `Bramh`, as we will discover down the line in this article.
+> Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
+
+As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramha` - the substrate of all-pervading information. He must do so for `Mahabharata` was not only first written historical narrative, it was also first serious attempt at abstraction of physical actions - inside a carbon based neural network.
 
 > In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >

@@ -21,7 +21,7 @@ And the patience to write long meaningful text. But more importantly, finding a 
 
 </div>
 
-You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the virtual realms of artificial general intelligence isn't far-fetched. A compelling thought is what would be their relationship to underlying computer infrastructure? Wouldn't they  relate to an operating system as we to a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independednt
+You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the virtual realms of artificial general intelligence isn't far-fetched. A compelling thought is what would be their relationship to underlying computing infrastructure? Wouldn't they  relate to an operating system as we to a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independednt
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
@@ -29,13 +29,13 @@ As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor
 
 > In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >
-> When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities - history. We saved the secret states of interactions in memory - accessible only to us. In essence, we separated thoughts from actions.
+> When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
 >
-> Powerful thoughts then manifested into written words. A narrative is thus a shared abstraction over physical actions. 
+> Powerful thoughts then manifested into written words. A narrative is thus an abstraction over physical actions.  It is frozen in time for reference in the future.
 >
 > Is code an abstraction over thoughts [^code] ? 
 
-The scribed abstraction of actions, henceforth, would percolate beyond races, geographies and cultures to set up a minimum entry criterion for human communities, and institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. Narratives organize humans through history and plans ; code compacts organizations into an organism through automation of simple actions.
+The scribed abstraction of actions - narratives, henceforth, would percolate beyond races, geographies and cultures simply because they can - they are time insensitive.  They would also set up a minimum entry criterion and regulations for human communities, and generational institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. Narratives organize humans through generations; code compacts organizations into an organism through automation of simple actions - repeated billions of times per second.
 
 
 # `Aavahan`

@@ -4,7 +4,7 @@ Scribing `Mahabharata` was one such venture.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating [^c] system. `Sanskrit` transcription fructified alongside the epic, the way C programming language came into shape alongside development of Unix. The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
+The idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating [^c] system.  The way C programming language came into shape alongside development of Unix, `Sanskrit` transcription fructified alongside the epic. The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
 Just like our migration to the digital word, the groundwork [^groundwork] for that  shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster and relevance. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
@@ -13,22 +13,21 @@ You may find the comparison between an operating system and a primitive narrativ
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-A compelling thought is what would be their relationship to underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to a primitive scripture ! It might define boundaries of their value system just as scriptures defined our morality. 
+If AIs were to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to a primitive scripture - the rules for engaging with hardware ! It might define bounds of their value system just as scriptures defined our morality. 
 
 </div>
 
-As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramha`. He must do so for it was not only first written historical narrative, it was also first serious attempt at abstraction of physical actions - on a carbon based substrate - human brain.
+As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information in vocal sphere. He must do so for `Mahabharata` was not only first written historical narrative, it was also the first large data set to train human mind on text - and to render thoughts timeless. 
 
 > In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >
-> When we learned to "think", we thought about next set of actions - without indulging in the real world. Or we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
+> When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
 >
-> Powerful thoughts then manifested into written words. A narrative is thus an abstraction over physical actions.  It is frozen in time for reference in the future.
+> Powerful thoughts then manifested into written words. A narrative is thus a recorded abstraction over physical actions.  It is frozen in time for reference in the future.
 >
 > Is code an abstraction over thoughts [^code] ? 
 
-Narratives, henceforth, would percolate beyond races, geographies and cultures simply because they can - they are time insensitive.  They would also set up a minimum entry criterion and regulations for human communities, and generational institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. Narratives organize humans through generations; code compacts organizations into an organism through automation of simple actions - repeated billions of times per second.
-
+Narratives, henceforth, would percolate beyond races, geographies and cultures. They would regulate human communities, and generational institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
 
 # `Aavahan`
 
@@ -112,7 +111,7 @@ Bitcoin is thus the door to next quantum jump. It will allow us to shrink our ph
 
 From a value-exchange perspective, we conquered the time through gold, and we are getting better on both space and time with bitcoin. But even then we are limited by the speed of light. In the physical universe we must obey the laws of physics though there is one exception. One thing that isn't constrained by physical laws is "Thought". No wonder Einstein could figure out speed of light through thought experiments!
 
-Thought is the first order of virtual. Being abstraction of physical actions,  thoughts exist in virtual constructs that look like our physical world, but they are beyond our sensory perception of smell, taste, touch or feel. We sometime refer to it as random imagination or a dream - yet it must have a narrative. In fact a thought is a narrative that is beyond our current scope of space and time - it exists in our minds. We can express it verbally but if we intend it to be timeless we store it in a scribed long form.
+Thought is the first order of virtual. Being abstraction of physical actions,  thoughts exist in virtual constructs that look like our physical world, but they are beyond our sensory perception of smell, taste, touch or feel. We sometime refer to it as random imagination or a daydream - yet it must have a narrative. In fact a thought is a narrative that is beyond our current scope of space and time - it exists in our minds. We can express it verbally but if we intend it to be timeless we store it in a scribed long form.
 
 From experience standpoint, the scribed narratives are somewhat limited versus the real experience. They need vicarious indulgence of the reader. However, we at the cusp of extreme immersive experiences. 
 

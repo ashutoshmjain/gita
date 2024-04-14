@@ -10,6 +10,10 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## April 12, 24
+- [Mathura](./mathuraLanding.md) - major edits. Improved the flow and introduced sections. I guess it is lot more readable now. 
+  - [Book 1](./thought.md) - major update - tied together all the sections again. It has gotten bigger than what I had planned for but it makes sense now. 
+
 ## April 05, 24
 - [Mathura](./mathuraLanding.md) 
   - [Book 1](./thought.md) - major update - tied the whole chapter into a flow. Aligned the idea of a narrative as an experience and the value exchange as the cost of the cost of experience. 

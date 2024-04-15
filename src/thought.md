@@ -297,7 +297,11 @@ The name of the first book `Adi` means "the beginning"; pointing to an exponenti
 
 ---
 
-[^code]: It took us a while to appreciate the idea that code is an abstraction over thoughts. A modern computer application is amalgamation of hundreds of code libraries built on diverse narratives, however,  it didn't become crystal clear till we got to artificial intelligence and when we did, suddenly everything started making sense. For example - in realm of artificial intelligence, [hallucinations](https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/) are a proof of conflicting thoughts besides the fact that AI is essentially a thought machine ! Its key purpose is to convince the user on accuracy of its narrative besides being accurate - sometimes ! It appears it places higher weight on the integrity of narrative than its truthiness 😄 - for no one truly knows how it actually works ! Only one thing is certain about AI - it always spins up a narrative often glossing over missing details - somewhat like our own brains.
+[^code]: Code is an abstraction over our thoughts:-
+- A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). 
+- An advanced program such as a video game may take the user into different narratives based on the variable choices.
+- Computers help us in the sense that the narrative gets fixed and scenarios are different angles of the same narrative. It solves a problem for us that our minds keep changing the narratives and scenarios simultaneously leading to phenomenon called emotions. Emotions take hold when we are unable to analyse all the possible scenarios of all the possible narratives for a given situation - may be because we run short on to compute or time. In the realm of AI , emotions are called hallucinations. 
+- [hallucinations](https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/) may be mitigated with reinforced learning just the way we can overcome emotional outbursts through practice. Very useful if you try public speaking - first time we hallucinate :-)
 
 ----
 

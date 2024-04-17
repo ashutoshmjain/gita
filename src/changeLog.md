@@ -10,9 +10,16 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## April 19, 24
+- [Mathura](./mathuraLanding.md) - 
+  - [Book 1](./thought.md) - Changed the footnote on "code as abstraction of thoughts" 
+    - [Trigger](./mathuraChap01.md)
+    - [Reboot](./mathuraChap02.md) - spell check and Grammar. 
+
+
 ## April 12, 24
 - [Mathura](./mathuraLanding.md) - major edits. Improved the flow and introduced sections. I guess it is lot more readable now. 
-  - [Book 1](./thought.md) - major update - tied together all the sections again. It has gotten bigger than what I had planned for but it makes sense now. 
+  - [Book 1](./thought.md) - major update - tied together all the sections again. It has gotten bigger than what I had planned for, but it makes sense now. 
 
 ## April 05, 24
 - [Mathura](./mathuraLanding.md) 
@@ -21,24 +28,24 @@ One can always see the granular change history at [GitHub repo](https://github.c
 
 ## March 29, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
-  - [Book 1](./prologue.md) - minor update.
+  - [Book 1](./thought.md) - minor update.
       - [Trigger](./mathuraChap01.md) - major edits  - spells and grammar. 
 ## March 22, 24
 - [Mathura](./mathuraLanding.md) - major edits - improved the opening para.
-  - [Book 1](./prologue.md) - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 
+  - [Book 1](./thought.md) - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 
       - [Trigger](./mathuraChap01.md) - major edits  - started spell and grammar check.
  
 ## March 15, 24
 - [Mathura](./mathuraLanding.md) - major edits - mostly spells and grammar.
-  - [Book 1](./prologue.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little about knowledge verses information. Leading to Karma via dive in ..
+  - [Book 1](./thought.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little about knowledge verses information. Leading to Karma via dive in ..
  
 ## March 08, 24
 - [Mathura]
-  - [Book 1](./prologue.md) - major updates - Finally pretty close to what I wanted to cover .. Few more cosmetics may follow !
+  - [Book 1](./thought.md) - major updates - Finally pretty close to what I wanted to cover .. Few more cosmetics may follow !
  
 ## March 01, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
-  - [Book 1](./prologue.md) - major updates. 
+  - [Book 1](./thought.md) - major updates. 
  
 ## Feb 25, 24
 - [Mathura](./mathuraLanding.md)
@@ -47,20 +54,20 @@ One can always see the granular change history at [GitHub repo](https://github.c
  
 ## Feb 16, 24
 - [Mathura](./mathuraLanding.md) - major edits
-  - [Book 1](./prologue.md) - major updates. 
+  - [Book 1](./thought.md) - major updates. 
   - [Book 2](./mathuraChap08.md) - major edits.
       - [Birth](./mathuraChap09.md) - major edits.
  
 ## Feb 09, 24
 - [Mathura](./mathuraLanding.md) 
-  - [Book 1](./prologue.md) 
+  - [Book 1](./thought.md) 
       - [Island](./mathuraChap05.md) - major edits.
       - [Naive](./mathuraChap06.md) - major  edits.
       - [Resolution](./mathuraChap07.md) - major edits.
  
 ## Feb 02, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - minor edits.
       - [Reboot](./mathuraChap02.md) - minor edits.
       - [Expression](./mathuraChap03.md) - major edits.
@@ -68,19 +75,19 @@ One can always see the granular change history at [GitHub repo](https://github.c
  
 ## Jan 26, 24
 - [Mathura](./mathuraLanding.md)  
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.
       - [Reboot](./mathuraChap02.md) - major edits.
       - [Expression](./mathuraChap03.md) - major edits.
  
 ## Jan 19, 24
 - [Mathura](./mathuraLanding.md) - major update
-  - [Book 1](./prologue.md) - major update.
+  - [Book 1](./thought.md) - major update.
       - [Trigger](./mathuraChap01.md) - minor edits.
  
 ## Jan 12, 24
 - [Mathura](./mathuraLanding.md) - major edits
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.
       - [Reboot](./mathuraChap02.md) - major edits.
  
@@ -102,7 +109,7 @@ One can always see the granular change history at [GitHub repo](https://github.c
 
 ## Dec 15, 23
 - [Mathura](./mathuraLanding.md) - minor edit.
-  - [Book 1](./prologue.md)
+  - [Book 1](./thought.md)
       - [Trigger](./mathuraChap01.md) - minor edits.
       - [Righteous](./mathuraChap04.md) - minor edits.
       - [Island](./mathuraChap05.md) - major edits.
@@ -113,7 +120,7 @@ One can always see the granular change history at [GitHub repo](https://github.c
 ## Dec 08, 23
 
 - [Mathura](./mathuraLanding.md) - major edits.
-  - [Book 1](./prologue.md) - minor edits.
+  - [Book 1](./thought.md) - minor edits.
       - [Trigger](./mathuraChap01.md) - major edits.
       - [Reboot](./mathuraChap02.md) - major edits.
       - [Expression](./mathuraChap03.md) - major edits.
@@ -124,7 +131,7 @@ One can always see the granular change history at [GitHub repo](https://github.c
 ## Dec 01, 23
 
 - [Mathura](./mathuraLanding.md) - major edits.
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.
       - [Reboot](./mathuraChap02.md) - major edits.
       - [Expression](./mathuraChap03.md) - major edits.
@@ -134,40 +141,40 @@ One can always see the granular change history at [GitHub repo](https://github.c
 ## Nov 24, 23
 
 - [Mathura](./mathuraLanding.md) - major edits.
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.
 
 
 ## Nov 17, 23
 
 - [Mathura](./mathuraLanding.md) - major update - aligned the monetary system units and measures of `Vaidik` times.
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major update
 
 
 ## Nov 10, 23
 
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./prologue.md) - major edits.
+  - [Book 1](./thought.md) - major edits.
       - [Trigger](./mathuraChap01.md) - major edits.
 
 
 ## Nov 03, 23
 
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./prologue.md) - Edited the chapter from readability standpoint. Hopefully better flow and tighter conceptualization. Added a new note (number 3).
+  - [Book 1](./thought.md) - Edited the chapter from readability standpoint. Hopefully better flow and tighter conceptualization. Added a new note (number 3).
 
 
 ## Oct 27, 23
 
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./prologue.md) - Major update - Lots of work on describing "information" verses "knowledge" in second section. Improved relevant footnotes.
+  - [Book 1](./thought.md) - Major update - Lots of work on describing "information" verses "knowledge" in second section. Improved relevant footnotes.
 
 ## Oct 20, 23
 
 Reorganized the text a little to carve out eight chapters per book and to avoid repetition of the text on cover pages.
 - [Mathura](./mathuraLanding.md) - New title text that aligns well and explains the name of the book.
-  - [Book 1](./prologue.md) - Major update . Moved the last section to the landing page. Lots of improvements in second section - the "information store"
+  - [Book 1](./thought.md) - Major update . Moved the last section to the landing page. Lots of improvements in second section - the "information store"
 
 
 ## Sep 30, 23 
@@ -203,7 +210,7 @@ Reorganized the text a little to carve out eight chapters per book and to avoid 
 ## August 25, 23 
 
 - [Mathura](./mathuraLanding.md)  - Split the narrative in two books. Book one - the base narrative of the beginning of civilization and Book two to draw a comparison with the current world. 
-  - [Invocation](./prologue.md) - minor edit and changed first two footnotes.
+  - [Invocation](./thought.md) - minor edit and changed first two footnotes.
   - [Trigger](./mathuraChap01.md) - minor edit
   - [Currency](./mathuraChap12.md) - Major edits. Almost rewrote the entire chapter.
  
@@ -259,7 +266,7 @@ Trying to get a hold of the narrative after a month-long gap due to my daughter'
 In addition to general edits, got a third person view of these chapters when I started reading them again after a gap. Some of the changes I made were only possible if I emptied out my cache memory. A writer must take a break and read his work again to see things purely from a reader's perspective. Hope these chapters would make better sense now !
 
 - [Mathura](./mathuraLanding.md)
-  - [Invocation](./prologue.md) - General Edits
+  - [Invocation](./thought.md) - General Edits
   - [Mishap](./mathuraChap01.md) - General Edits
   - [Reboot](./mathuraChap02.md) - General Edits
   - [Expression](./mathuraChap03.md) - General Edits
@@ -272,7 +279,7 @@ In addition to general edits, got a third person view of these chapters when I s
 ## May 12, 23 - Friday
 - [Mathura](./mathuraLanding.md)  
   - [readme](./how.md) - General Edits [^edits].
-  - [Invocation](./prologue.md) - General Edits [^edits]
+  - [Invocation](./thought.md) - General Edits [^edits]
 
 ## May 05, 23 - Friday
 - [Mathura](./mathuraLanding.md) - General stuff around the website. Fixed the whatsapp link. Changed the Favicon to a "Trefoil" knot.
@@ -281,14 +288,14 @@ In addition to general edits, got a third person view of these chapters when I s
 
 ## April 27, 23 - Friday
 - [Mathura](./mathuraLanding.md) - Working on kinda final Edit round for the first five chapters. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
-  - [Invocation](./prologue.md) - General Edits [^edits]
+  - [Invocation](./thought.md) - General Edits [^edits]
   - [Trigger](./mathuraChap01.md) - General Edits 
   - [Reboot](./mathuraChap02.md) - General Edits  
   - [Expression](./mathuraChap03.md) -  General Edits 
 ## April 21, 2023 - Friday 
 
 - [Mathura](./mathuraLanding.md)
-  - [Invocation](./prologue.md) - Improved the tone of title entry and general edits.
+  - [Invocation](./thought.md) - Improved the tone of title entry and general edits.
   - [Mishap](./mathuraChap01.md) - Changed title name to reflect better alignment with the chapter content. General Edits.
  
 ## April 14, 2023 - Friday 
@@ -308,19 +315,19 @@ Added title lines to following chapters and created sections to improve readabil
 Bound first four chapters with the overarching idea that the conflict is not between the old and the new. It is always amongst many possibilities of new.
 
 - [Mathura](./mathuraLanding.md)
-  - [Invocation](./prologue.md)
+  - [Invocation](./thought.md)
   - [Mishap](./mathuraChap01.md) 
   - [Reboot](./mathuraChap02.md) 
   - [Expression](./mathuraChap02.md) 
 
 ## March 24, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
-  - [Prologue](./prologue.md) - More changes to tightly align the ideas and improve readability.
+  - [Prologue](./thought.md) - More changes to tightly align the ideas and improve readability.
   - [The Mishap](./mathuraChap01.md) - More changes to tightly align the ideas and improve readability.
  
 ## March 10, 2023 - Friday
 - [Mathura](./mathuraLanding.md)
-  - [Prologue](./prologue.md) - Major update.
+  - [Prologue](./thought.md) - Major update.
   - [The Mishap](./mathuraChap01.md) - Major update
  
 ## Feb 3, 2023 - Friday
@@ -374,7 +381,7 @@ Bound first four chapters with the overarching idea that the conflict is not bet
 ## Dec 15, 22
 - [Mathura](./mathuraLanding.md) - Added licence to copyright mark. Added page links.
   - [How to read this book](./how.md) - Added sections on search , style and license.
-  - [Prologue](./prologue.md) - General Edits [^edits] and Footnotes title
+  - [Prologue](./thought.md) - General Edits [^edits] and Footnotes title
   - [The Mishap](./mathuraChap01.md) - General Edits and Footnotes title
   - [Reboot](./mathuraChap02.md)General Edits and Footnotes title
   - [Recital v/s Writing](./mathuraChap03.md) -  General Edits and Footnotes title

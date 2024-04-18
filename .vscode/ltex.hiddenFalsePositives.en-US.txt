@@ -18,3 +18,4 @@
 {"rule":"CONFUSION_OF_OUR_OUT","sentence":"^\\QOnce we figured out digital communication - practically free mode to copy and communicate at the speed of light - the value of information fell exponentially.\\E$"}
 {"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QThe most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster and relevance.\\E$"}
 {"rule":"OVER_COMPOUNDS","sentence":"^\\Q^code: Code is an abstraction over thought\\E$"}
+{"rule":"PROFANITY","sentence":"^\\QA key measure of evolution is we fight on more abstracted and complex set of skills as we evolve -  rather than a simple pissing contest.\\E$"}

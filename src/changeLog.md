@@ -14,7 +14,7 @@ One can always see the granular change history at [GitHub repo](https://github.c
 - [Mathura](./mathuraLanding.md) - 
   - [Book 1](./thought.md) - Changed the footnote on "code as abstraction of thoughts" 
     - [Trigger](./mathuraChap01.md)
-    - [Reboot](./mathuraChap02.md) - spell check and Grammar. 
+    - [Reboot](./mathuraChap02.md) - spell check and Grammar. Added two new foot notes.
 
 
 ## April 12, 24

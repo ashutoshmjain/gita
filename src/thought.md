@@ -4,20 +4,22 @@ Scribing `Mahabharata` was one such venture.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The idea of writable script [^transcription] was to `Mahabharata`, the way a programming language is to an operating [^c] system.  The way C programming language came into shape alongside development of Unix, `Sanskrit` transcription fructified alongside the epic. The after impacts also seem pretty similar. Just as digital information transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
+The idea of written language [^transcription] was to `Mahabharata`, the way a programming language is to an operating [^c] system.  The way "C" came into shape alongside development of Unix, `Sanskrit` transcription fructified alongside the epic. The after impacts also seem pretty similar. Just as software transformed every aspect of modern life - personal, social or business - and is now redefining  the very foundation of value exchange ; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (based on gold) emerged atop existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
 Just like our migration to the digital word, the groundwork [^groundwork] for that  shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster and relevance. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours just to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
 
-You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the virtual realms of artificial general intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independednt
+You may find the comparison between an operating system and a primitive narrative rather odd - an amusing flight of imagination! But the idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independent.
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs were to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to a primitive scripture - the rules for engaging with hardware ! It might define bounds of their value system just as scriptures defined our morality. 
+If AIs were to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures - the rules for engaging with hardware ! It might define bounds of their value system just as scriptures defined our morality. 
 
 </div>
 
-As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information in vocal sphere. He must do so for `Mahabharata` was not only first written historical narrative, it was also the first large data set to train human mind on text - and to render thoughts timeless. 
+As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor-in-chief (Ved-Vyasa), sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramha` - the embodiment of all-pervading information in vocal sphere. He must do so for `Mahabharata` was not only first written historical narrative, it was also the first large data set to train human mind on text - a new intelligence model in addition to existing paradigm of oratory skills.
+
+The obvious benefit was to render thoughts timeless. 
 
 > In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >
@@ -27,14 +29,14 @@ As described in the first book of `Mahabharata` (Adi Parva), the `Vaidik` editor
 >
 > Is code an abstraction over thoughts [^code] ? 
 
-Narratives, henceforth, would percolate beyond races, geographies and cultures. They would regulate human communities, and generational institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
+The idea that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would regulate human communities, and generational institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
+
 
 # `Aavahan`
 
 Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging on the "truth" but many other times conflicting. He catalogued their spoken wisdom into four foundational volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) .
- 
 
 > As a complimentary gift, to ensure everyone had fair access, he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 

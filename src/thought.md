@@ -116,14 +116,11 @@ From a value-exchange perspective, we conquered the time through gold, and we ar
 
 Thought is the first order of virtual. Being abstraction of physical actions,  thoughts exist in virtual constructs that look like our physical world. We can see or hear them, but they are beyond our sensory perception of touch. In essence, thought is a narrative that is beyond the scope of physical space and time - it exists in the artificial realm of our minds.
 
-> The three senses of vision, smell and hearing are known as consumption senses. They are conduits from real world to our brain. Before text, speech was the only way to express what we see, smell or hear. And the fifth sense touch is there to confirm the reality. 
+> The three senses of vision, smell and taste are known as consumption senses. They are conduits from real world to our brain. Before text, speech (and hearing) was the only way to communicate what we see, smell or taste. And the fifth sense touch is there to confirm the reality. 
 >
 > Imagine there are two worlds - physical and digital. We live in physical world and there are replicas of us in digital world. We are identical in every possible way except for the confirmation bias. For example, we can consume digital experiences (thoughts), but we can't touch them. Similarly, our replicas in the digital world may consume "real" experiences, but they can't touch the real. They can confirm the digital experiences the way we touch the real ones.
 
-
-We can express it verbally but if we intend it to be timeless we store it in a scribed long form.
-
-From experience standpoint, the scribed narratives are somewhat limited versus the real experience. They need vicarious indulgence of the reader. However, we at the cusp of extreme immersive experiences. 
+From experience standpoint, the spoken or scribed narratives are somewhat limited versus the real experience. They need vicarious indulgence of the reader. However, we at the cusp of extreme immersive experiences. 
 
 > Full Dive VR, sometimes referred to as “Matrix-like” VR, is the next level of immersion in virtual environments. It goes beyond just visual and auditory stimuli, aiming to engage all five senses – sight, sound, touch, taste, and smell. The idea is to completely immerse users within a virtual world, allowing them to experience it as though it were real ~ [robots.net](https://robots.net/tech/when-will-full-dive-virtual-reality-be-possible/) 
 
@@ -131,11 +128,21 @@ Full dive sits at the intersection of virtual reality and neuroscience. The idea
 
 > The simplest explanation for the existence of consciousness is that it is an experience being created, by our bodies, but not for us. We are qualia-generating machines. Like characters in Grand Theft Auto, we exist to create integrated audiovisual outputs. Also, as with characters in Grand Theft Auto, our product mostly likely is for the benefit of someone experiencing our lives through us. ~ [Scientific American](https://www.scientificamerican.com/article/confirmed-we-live-in-a-simulation/)
 
-As you may read in the cited article the chances of us being already in a full dive are fifty-fifty. If our so-called real experience is actually virtual, then we are already exchanging value at the speed of the thought. In essence, we are currently living the future that we are searching ! 
+As you may read in the cited article the chances are that we are the characters in a digital reality serving the whims of someone else plugged into a full dive. The theory makes sense but is there a way to prove it in this world ?
 
-How did that happen ? 
+One of the thought experiment is, we can prove the hypotheses to be true if we could build something like this ourselves. Can we have a character of our choice, act on demand, in a virtual reality?
 
-`Vaidik` science believes `Karma` is the way to transcend value beyond constraints imposed by physical laws. The consciousness pervades in billions of dimensions whereas our "real" user interface is only three-dimensional. We can transfer value through infinitely many more interfaces than what meet the eyes (and other senses). To understand this part we need to dive deeper into constructs of a narrative. The idea was documented by `Dwaipayana` in the first set of written words - `Bhagvad Gita` - A piece of divine information center folded into `Mahabharata` - that he wanted to make accessible to all humans.
+Intriguing it may sound - but the answer is yes. In fact, we may not even need to dive in. The idea of ["digital twins"](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-digital-twin-technology) is already in the works. At the risk of oversimplification, a digital twin of me is an AI that I train personally on all the skills I have. For example if I am an eye specialist, a digital version of me will consult on my behalf - in the real world as well as in the virtual world. In the real world, I will need to confirm the observations but in the virtual world, I will only receive the value for the work of my digital twin - she will confirm the digital reality herself when she consults the digital patients. This raises a further question - what exactly are the digital patients ?
+
+Digital patients are the entities like my digital twin. The point is if my digital twin is my exact replica, then it might need to have her car fixed. Such services are something that I can't confirm because I can't touch or feel the digital world the way my digital twin can't confirm the real world. How might we have twins that are our true replicas .. 
+
+> Imagine if we build a digital world in which the computing hardware is perceived like the land in our world. Water is the software that runs on the hardware. Air is the information that my digital twin breathes. Electricity is like the Sun - when world is plugged in and powered, my twin feels like a day. When it of off, the twin experiences night and thus decides to sleep. In essence all these are the resources. The operating system is the "rules of engagement". It defines the interfaces with the hardware and the three-dimensional graphical user interface. Different games or virtual worlds follow these core operating system level protocols, but they can design the experiences just like our cities. A city may be such that it is always on - sun never sets there like the cities near the poles. A low powered city may always be overcast with skies with intermittent drizzles. Cities may have malfunctions, they may fail to deliver good schools or good entertainment.
+
+The question is why would we build such cities. And the answer is in why do we have our own circular economy - we want value. The earnings that our digital twin makes go to our wallet. We can have as many digital twins as we want - of course we need to pay for them. We can put them in any narrative of our choice as long as it makes financial sense. 
+
+In such a scenario, the only measure of value is the actions my twins perform. The transfer of value is faster than light because one of my twins might be doing some useful task in a different digital galaxy and instantaneously delivering the value to my wallet - because ultimately, it is just one wallet.
+
+> `Vaidik` science believes `Karma` is the way to transcend value beyond constraints imposed by physical laws. The consciousness pervades in billions of dimensions whereas our "real" user interface is only three-dimensional. We can transfer value through infinitely many more interfaces than what meet the eyes (and other senses). To understand this part we need to dive deeper into constructs of a narrative. The idea was documented by `Dwaipayana` in the first set of written words - `Bhagvad Gita` - A piece of divine information center folded into `Mahabharata` - that he wanted to make accessible to all humans.
 
 ## 0.5
 ----

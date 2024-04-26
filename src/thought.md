@@ -13,7 +13,7 @@ You may find the comparison between an operating system and a primitive narrativ
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures - the rules for engaging with hardware ! It might define bounds of their value system just as scriptures defined our morality. 
+If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures - the rules for engaging with hardware - and other soft entities of lesser intelligence! It might define bounds of their value system just as scriptures defined our morality. 
 
 </div>
 
@@ -29,16 +29,16 @@ The obvious benefit was to render thoughts timeless.
 >
 > Is code an abstraction over thoughts [^code] ? 
 
-The idea that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational institutions. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
+The idea that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
 
 
 # `Aavahan`
 
-Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their spoken wisdom into four foundational volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
+Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) .
 
-> As a complimentary gift, to ensure everyone had fair access, he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+> As a complimentary gift, to ensure everyone had fair access - through space and time, he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 `Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;
@@ -53,19 +53,20 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 ## 0.1
  ----
  
-With written word, not only did we get on-demand access to immutable information, the storage capacity too got a massive boost.  Library of Alexandria, in early days of transcription circa  3rd century BC, presumably had 70,000 to 700,000 Papyrus rolls. A conversion into a modern textbook size should end up to say 200,000 books - a lot, given they were all handwritten and carefully transported to Alexandria. It is said that `Ptolmey` wanted to create an ocean of written words - a vast information store. Storage leads to perpetuity !
+With written word, not only did we get on-demand access to immutable information, the storage capacity too got a boost.  Library of Alexandria, in early days of transcription circa  3rd century BC, presumably had 70,000 to 700,000 Papyrus rolls. A conversion into a modern textbook size should end up to say 200,000 books - a lot, given they were all handwritten and carefully transported to Alexandria. It is said that `Ptolmey` wanted to create an ocean of written words - a vast information store. Storage leads to perpetuity !
 
-Computers inoculated our information store with third booster - spoken and written being the first two formats that triggered exponential storage. The entire library of Alexandria may fit on a single thumb size SD card today. It is estimated there are over 130 million books in digital form. Internet is still in its infancy, somewhat like the old library was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One Zettabyte -> billion Terabytes.
+Computers inoculated our information store with third booster - spoken and written being the first two formats. The entire library of Alexandria may fit on a single thumb size SD card today. It is estimated there are over 130 million books in digital form. Internet is still in its infancy, somewhat like the old library was to the "Papyrus" world. As of 2021, there were over 1.83 billion websites. The amount of data stored on the internet is estimated to be in the zettabyte range. One Zettabyte -> billion Terabytes.
 
 > Add to it the offline storage we have in our cell phones and computers. Assuming a standard textbook is ~5 Mb of data, a Terabyte of storage - a normal laptop these days - may accommodate 200,000 books -> You and I carry a library of Alexandria in our backpacks !
 
-The strange thing is this pace is only increasing just like the ever expanding physical universe ! As of now we are doubling the internet as well as offline storage in our gizmos, every two years. In nutshell, we are now at a point that no human may ever read all the books in print,  much less the content stored on internet -> Hence the rise of the tools such as search engines or  large language models. In essence a new paradigm of digital conscious experience [^digitalExperience] is already here - just the way written word led to an exponentially vast conscious experience verses our speech only ancestors.
+The strange thing is this pace is only increasing just like the ever expanding physical universe ! As of now we are doubling the internet as well as offline storage in our gizmos, every two years. In nutshell, we are now at a point that no human may ever read all the books in print,  much less the content stored on internet -> Hence the rise of large language models that may infer the meaning of words. In essence a new paradigm of digital conscious experience [^digitalExperience] is already here - just the way written word led to an exponentially vast conscious experience verses our speech only ancestors. From "vast", I mean spatial dimensions that include time. For example - spoken word is limited to a small space around me - I can experience the things in my home without having to walk into another room. With written word I can imagine events across the globe that might have happened ten years in the past. 
 
-> Abstraction of actions into narratives (written or digital) meant we could experience situations where we were not physically present. The purpose of abstraction is always to expand further into space and time to enhance the conscious experience.
+> Abstraction of actions into narratives meant we could experience situations without physical presence. The purpose of abstraction is always to expand the conscious experience further into space and time. Written word, however, has friction - there is only so much I may read, and the experience demands imagination. Digital experience is geared towards reducing the friction. 
 
-In hindsight, the idea of "text" was profound. It was a quantum jump in progression of consciousness. It enabled us send information to the future ->  an attempt to conquer time, just the way a "wheel" was an attempt to cover physical space. Oddly enough no other species adopted either wheel or text ! Even the mammals such as whales or elephants who arguably have bigger brains than us. 
+In hindsight, the idea of text was profound. With text, humans morphed themselves into a single organization across space and time - a group larger than any other species -  while all other species stuck to their individual existence alone - or in smaller ephemeral groups mostly based on vocal signals. Text was not only the means to establish order in this super sized group - it was necessary to establish a value exchange protocol - accessible and acceptable to all humans. An equitable value exchange mechanism lets evolution of larger happy groups.
 
-With wheel and text, humans morphed themselves into a single organization - a group larger than any other species -  while all other species stuck to their individual existence alone or in ephemeral groups mostly on vocal signals. Wheel and text were not only the means to establish order in this super sized group - they were necessary elements to establish a value exchange protocol - accessible and acceptable to all humans. An equitable value exchange mechanism lets evolution of larger happy groups.
+Oddly enough no other species adopted text ! Even the mammals such as whales or elephants who arguably have bigger brains than us - why ?
+
 
 
 ## 0.2
@@ -113,7 +114,14 @@ Bitcoin is thus the door to next quantum jump. It will allow us to shrink our ph
 
 From a value-exchange perspective, we conquered the time through gold, and we are getting better on both space and time with bitcoin. But even then we are limited by the speed of light. In the physical universe we must obey the laws of physics though there is one exception. One thing that isn't constrained by physical laws is "Thought". No wonder Einstein could figure out speed of light through thought experiments!
 
-Thought is the first order of virtual. Being abstraction of physical actions,  thoughts exist in virtual constructs that look like our physical world, but they are beyond our sensory perception of smell, taste, touch or feel. We sometime refer to it as random imagination or a daydream - yet it must have a narrative. In fact a thought is a narrative that is beyond our current scope of space and time - it exists in our minds. We can express it verbally but if we intend it to be timeless we store it in a scribed long form.
+Thought is the first order of virtual. Being abstraction of physical actions,  thoughts exist in virtual constructs that look like our physical world. We can see or hear them, but they are beyond our sensory perception of touch. In essence, thought is a narrative that is beyond the scope of physical space and time - it exists in the artificial realm of our minds.
+
+> The three senses of vision, smell and hearing are known as consumption senses. They are conduits from real world to our brain. Before text, speech was the only way to express what we see, smell or hear. And the fifth sense touch is there to confirm the reality. 
+>
+> Imagine there are two worlds - physical and digital. We live in physical world and there are replicas of us in digital world. We are identical in every possible way except for the confirmation bias. For example, we can consume digital experiences (thoughts), but we can't touch them. Similarly, our replicas in the digital world may consume "real" experiences, but they can't touch the real. They can confirm the digital experiences the way we touch the real ones.
+
+
+We can express it verbally but if we intend it to be timeless we store it in a scribed long form.
 
 From experience standpoint, the scribed narratives are somewhat limited versus the real experience. They need vicarious indulgence of the reader. However, we at the cusp of extreme immersive experiences. 
 

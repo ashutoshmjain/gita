@@ -10,6 +10,10 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## April 26, 24
+- [Mathura](./mathuraLanding.md) - Minor Edits.
+  - [Book 1](./thought.md) - Pruned the chapter to 5000 words. From Readability standpoint, 5000 words seem appropriate for a web page. It was turning into a book itself at ten thousand words. 
+ 
 ## April 19, 24
 - [Mathura](./mathuraLanding.md) - 
   - [Book 1](./thought.md) - Changed the footnote on "code as abstraction of thoughts" 

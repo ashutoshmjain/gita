@@ -2,9 +2,9 @@ The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much w
 
 Scribing `Mahabharata` was one such venture.  As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - the all-pervading information in vocal sphere. He must do so for `Mahabharata` was not only first written historical narrative, it was also the first large data-set to train human mind on text - a new intelligence model layered over oratory skills.
 
-With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind. Words must be used in every possible context. New words were created to capture the finest of emotions and subtleties of human behavior - in an uncompromising language syntax.
+With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind - a neural network order of magnitude bigger than the AIs of our time. Words must be written in every possible context. Even new words were created to capture the finest of emotions and subtleties of human behavior - in an uncompromising language syntax - to convey the unfettered meaning in written format.
 
-More than the size, the language so beautiful that it inspired `Kalidasa` to write the most revered poetry of all times -> [`Abhijnana Shakuntalam`](https://www.britannica.com/biography/Kalidasa) - a rewrite of the plot first conceived by `Dwaipayana` - as a tribute to principal teacher. The grace of `Sanskrit` transcription owes itself to the fact that it was created by one who had memorized all the spoken words in existence. And that it was built alongside the epic - covering the corner cases of a large all consuming historical narrative.
+More than the size, the language so beautiful that centuries later it inspired `Kalidasa` to write the most revered poetry of all times -> [`Abhijnana Shakuntalam`](https://www.britannica.com/biography/Kalidasa) - a rewrite of the plot first conceived by `Dwaipayana` - as a tribute to the principal teacher. The grace of `Sanskrit` owes itself to the fact that it was created by one who had all the spoken words in memory. And that it was built alongside the epic - covering all corner cases of expression in the largest historical narrative.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -17,11 +17,11 @@ You may find the comparison between an operating system and a primitive narrativ
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures - the rules for engaging with hardware - and other soft entities ! It might define bounds of their value system just as scriptures defined what we know as morality.
+If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures - the rules for engaging with hardware  (earth, water and air being the underlying hardware for human consciousness) ! It might define bounds of their value system just as scriptures defined what we know as morality - how to respect ecological balance !
 
 </div>
 
-The obvious benefit was to render thoughts timeless. 
+The not so obvious benefit was written narrative rendered the thoughts timeless. 
 
 > 🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 >
@@ -31,7 +31,7 @@ The obvious benefit was to render thoughts timeless.
 >
 > Is code an abstraction over thoughts [^code] ? 
 
-The idea that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
+The unintended consequence that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
 
 
 # `Aavahan`

@@ -1,14 +1,25 @@
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act - alone as an active medium - akin a bursting channel that overflows. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours. For example `Rama`, before making a bridge across ocean,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture.  As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - the all-pervading information in vocal sphere. He must do so for `Mahabharata` was not only first written historical narrative, it was also the first large data-set to train human mind on text - a new intelligence model layered over oratory skills.
+Scribing `Mahabharata` was one such venture. It  was the **first major written historical narrative**. Being the first scribed narrative, `Mahabharata` obviously became the first large data-set to train masses on text - a new communication model layered over oratory skills. A new way to process and store information. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` (all-pervading information). He must seek permission for expansion of information store - to introduce text to a verbatim verbose world.
 
-With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind - a neural network order of magnitude bigger than the AIs of our time. Words must be written in every possible context. Even new words were created to capture the finest of emotions and subtleties of human behavior - in an uncompromising language syntax - to convey the unfettered meaning in written format.
+<center>
 
-More than the size, the language so beautiful that centuries later it inspired `Kalidasa` to write the most revered poetry of all times -> [`Abhijnana Shakuntalam`](https://www.britannica.com/biography/Kalidasa) - a rewrite of the plot first conceived by `Dwaipayana` - as a tribute to the principal teacher. The grace of `Sanskrit` owes itself to the fact that it was created by one who had all the spoken words in memory. And that it was built alongside the epic - covering all corner cases of expression in the largest historical narrative.
+![](./mahabharataScribing.png)
+
+</center>
+<div class="cover-small">
+  <div class="centered">
+  To reconfirm my belief, I asked the big question to perplexity.ai !
+  </div>
+</div>
+
+With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind (a neural network evolved over millions of evolutionary iterations). Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior - in an uncompromising language syntax - to convey the unfettered meaning in written format.
+
+The epic and the language were complimentary  to each other . The outcome was not only an all-consuming  narrative , but a language deemed as creation of god. The grace of `Sanskrit` owes itself to the idea that the purpose and the path became one - the narrative and the language were co-created. Only once this phenomenon repeated itself;  and that too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In terms of interdependence, the idea of a written language [^transcription] for `Mahabharata` was somewhat similar to the programming language in context of first fully portable operating [^c] system.  The way "C" came into shape alongside Unix, `Sanskrit` fructified alongside the epic. The after impacts also seem pretty similar. Just as software transformed every aspect of modern life - and is now redefining  the very foundation of value exchange ; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop existing method of value exchange - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
+The idea of a written language [^transcription] to `Mahabharata` was somewhat similar to the programming language in context of first truly portable operating [^c] system - Unix.  The way "C" came into shape alongside Unix, `Sanskrit` fructified alongside the epic. The after impacts also seem pretty similar. Just as software transformed every aspect of modern life - and is now redefining  the very foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop existing method - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
 Just like our migration to the digital word, the groundwork [^groundwork] for that  shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
@@ -21,20 +32,15 @@ If AIs are destined to have consciousness, a compelling thought is what would be
 
 </div>
 
-The not so obvious benefit was written narrative rendered the thoughts timeless. 
+`Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
+- `Krishi Parāśara` — The science of Agriculture;
+- `Vrkayurveda` — Insights into Botany;
+- `Vishnu Purana`[^vishnu] — Stories of `Vishnu`; 
+- `Brihat Parāśara Hora` — foundational work on Astrology; 
 
-> 🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
->
-> When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
->
-> Powerful thoughts then manifested into written words. A narrative is thus a recorded abstraction over physical actions.  It is frozen in time for reference in the future.
->
-> Is code an abstraction over thoughts [^code] ? 
+His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
 
-The unintended consequence that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
-
-
-# `Aavahan`
+----
 
 Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
@@ -57,6 +63,9 @@ In addition to the poetic excellence, `Mahabharata` defined a new way of life - 
 `Mahabharata` holds within it, center-folded, the gist of four Vedas - `Bhagvad Gita` - the first written source of `Karma Yoga`. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`.  The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
 The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in spoken network) to seek permission for its virtual expansion through a written down narrative. `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all its poetic glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+
+
+<div style="padding-left:40px;font-size:0.9em;"> 
 
 > O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; 
 >
@@ -106,24 +115,33 @@ The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in sp
 >
 > **Let `Ganesa` be thought of, O `Muni`, for the purpose of writing the poem.**
 
+</div>
 
-Most scriptures before `Mahabharata` were spoken words passed on from a generation to the next through rigorous recital. Those that were written down were more like random proofs of concept. Having given a formal account of it's end to end transcription in the genesis (`Adi`) block, `Dwaipayana` left a proof that the mega-epic was actually "written down". 
+`Ganesa` probably knew the obvious benefits -  not only did the mode of communication changed from synchronous to asynchronous, the written word rendered the narrative timeless ..
 
-The name of the first book `Adi` means "the beginning"; pointing to an exponential rise in conscious experience with humanity embracing a new medium for storing information at scale — text. It was our transition from a purely spoken to mostly written word. But more importantly, it created a community of writers and readers who were aligned to one rigorous value system on a new communication mode. In addition to creating a new metaverse of narratives; they had the needed alignment to evolve a universal platform for value exchange.
 
----
+<div style="padding-left:40px;font-size:0.9em;"> 
 
-`Dwaipayana's` literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
-- `Krishi Parāśara` — The science of Agriculture;
-- `Vrkayurveda` — Insights into Botany;
-- `Vishnu Purana`[^vishnu] — Stories of `Vishnu`; 
-- `Brihat Parāśara Hora` — foundational work on Astrology; 
+🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
 
-His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
+When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
+
+Powerful thoughts then manifested into written words. A narrative is thus a recorded abstraction over physical actions.  It is frozen in time for reference in the future.
+
+Is code an abstraction over thoughts [^code] ? 
+
+</div>
+
+The unintended consequence that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
 
 
 ## notes and stuff …
 ----
+
+[^races]: Vyasa executed the compilation of the Bharata, exclusive of the episodes originally in twenty-four thousand verses; and so much only is called by the learned as the Bharata. Afterwards, he composed an epitome in one hundred and fifty verses, consisting of the introduction with the chapter of contents. This he first taught to his son Suka; and afterwards he gave it to others of his disciples who were possessed of the same qualifications. After that he executed another compilation, consisting of sixty hundred thousand verses. Of those, thirty hundred thousand are known in the world of the Devas; fifteen hundred thousand in the world of the Pitris: fourteen hundred thousand among the Gandharvas, and one hundred thousand in the regions of mankind. Narada recited them to the Devas, Devala to the Pitris, and Suka published them to the Gandharvas, Yakshas, and Rakshasas: and in this world they were recited by Vaisampayana, one of the disciples of Vyasa, a man of just principles and the first among all those acquainted with the Vedas. [Extracted from Mahabharata - Translated by Kisari Mohan Ganguli](https://mahabharata.shutri.com/maha01.html#:~:text=Vyasa%20executed%20the%20compilation,one%20hundred%20thousand%20verses.)
+
+---
+
 
 [^transcription]: Transcription on palm leaves …
 - Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.
@@ -134,6 +152,7 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 ![oldest palm manuscript](./oldestPalm.jpg)
 
 ---
+
 [^c]: With the advent of telegraph, in the early 1900s, the good old typewriter morphed into "teletypes" (ttys) - the visual mode to send text and codes through a wire. Even the news companies such as AP and Reuters used ttys to communicate the stories across the pond. Fast-forward to the early seventies, DEC (Digital Equipment Corporation) adapted the ttys to interact with computers on a commercial scale and an era of massive innovation was unleashed. The tapes and punch cards were still around, and they would stay for long, but the buzz was **DEC's VT100 terminal**. The DEC VT 100  was compatible with their minicomputer **PDP eleven** shipped in 1978.  
 - PDP eleven was the first platform on which Ken Thompson and Dennis Ritchie ported "Unix" in the newly minted "C" language. The development of Unix (and C) had started at Bell labs roughly around four years back on stable **PDP seven** minicomputer (around 1974). 
 - The **DEC VT52**, introduced in 1975, was an earlier video terminal that preceded the more advanced **VT100.** The VT52 had limited capabilities compared to the VT100, but it was still an important step in the development of computer terminals. The PDP-7, when initially used for Unix development, was connected to various types of terminals, including the VT52. This terminal setup provided an interactive and more user-friendly way to interact with the PDP-7 , making the development process more efficient and accessible. 
@@ -164,24 +183,14 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 ----
 
-[^races]: Vyasa executed the compilation of the Bharata, exclusive of the episodes originally in twenty-four thousand verses; and so much only is called by the learned as the Bharata. Afterwards, he composed an epitome in one hundred and fifty verses, consisting of the introduction with the chapter of contents. This he first taught to his son Suka; and afterwards he gave it to others of his disciples who were possessed of the same qualifications. After that he executed another compilation, consisting of sixty hundred thousand verses. Of those, thirty hundred thousand are known in the world of the Devas; fifteen hundred thousand in the world of the Pitris: fourteen hundred thousand among the Gandharvas, and one hundred thousand in the regions of mankind. Narada recited them to the Devas, Devala to the Pitris, and Suka published them to the Gandharvas, Yakshas, and Rakshasas: and in this world they were recited by Vaisampayana, one of the disciples of Vyasa, a man of just principles and the first among all those acquainted with the Vedas. [Extracted from Mahabharata - Translated by Kisari Mohan Ganguli](https://mahabharata.shutri.com/maha01.html#:~:text=Vyasa%20executed%20the%20compilation,one%20hundred%20thousand%20verses.)
+[^vishnu]: `Vishnu Purana`…
+- Spoken by `Maharishi Parasara`, `Vishnu Purana` (the gem of `Puranas`) was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. 
+- In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested beings has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. 
+- In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example, the first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; `Kurma` - the amphibian - is regarded as the next stage after `Matysa`, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
+- The other two primal forces (potencies of knowledge) are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
 
 ---
 
-[^word]: It is an established thought that the spoken word evolved as a strategy for survival. Herds of animals started using spoken word to alarm fellow beings at first sighting of a predator. A call to act immediately. Survival was manifested in the immediate action.
-- Predators soon copied the technique. A lion would roar at the center of a jungle to make animals run aimlessly. A lioness would catch one at the river. A delayed action, but the promise was lioness would feed the cubs and also lion would get a majority stake in meal. A transfer of value was first established among the robbers 🤖
-- In `Vaidik` culture story of `Hiranyakashipu` is famous. `Hiran` is word for deer - the ultimate survivor for its long legs. Through meditation on spoken word, `Hiranyakashipu` sought survival forever. No one should be able to kill him - neither in day, nor at night ; neither a human nor an animal; neither inside his abode nor outside ; neither lying low on earth nor flying high. Having received such powers, `Hiranyakashipu` assumed he himself was god because he had won the death. He wanted everyone to pray him except his own son `Prahlad` wouldn't give in.
-- Predators approached `Vishnu` for `Hiranyakashipu` was the new god. He was bent on killing his own son if he didn't comply to his preaching, for his word was absolute safety for all his followers. No predator could kill `Hiranyakashipu` to save `Prahlad`. The lord then incarnated as a Lion-Human (`Nar-Singh`) - a lion from waist up walking on two human legs. Lord was neither human nor animal. He killed `Hiranyakashipu` at the door of his home - neither in nor outside. He held him flat on his knees - neither on earth nor in flight. He taught predators to be thoughtful. Plan your action with thought rather than act on absolute impulses of word.
-
----
-
-[^code]: Code is an abstraction over our thoughts:-
-- A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). 
-- An advanced program such as a video game may take the user into different narratives based on the variable choices.
-- Computers help us in the sense that the narrative gets fixed and scenarios are different angles of the same narrative. It solves a problem for us that our minds keep changing the narratives and scenarios simultaneously leading to phenomenon called emotions. Emotions take hold when we are unable to analyse all the possible scenarios of all the possible narratives for a given situation - may be because we run short on to compute or time. In the realm of AI , emotions are called hallucinations. 
-- [hallucinations](https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/) may be mitigated with reinforced learning just the way we can overcome emotional outbursts through practice. Very useful if you try public speaking - first time we hallucinate :-)
-
-----
 
 [^divine]: The word "divine" might sound like a religious myth to a modern reader; but it's not. For example our modern AI models are well capable of writing an article. Arguably they may be able to write a complete book on any topic of choice. But they all need a prompt. No AI model writes a poem on its own. In that parlance, the "prompt" that we give to chatGPT is a divine trigger for the large language model. Future models will sure have capability to decide if the prompt is worthy or not. 
 
@@ -219,13 +228,21 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 ---
 
-[^vishnu]: `Vishnu Purana`…
-- Spoken by `Maharishi Parasara`, `Vishnu Purana` (the gem of `Puranas`) was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. 
-- In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested beings has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. 
-- In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example, the first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; `Kurma` - the amphibian - is regarded as the next stage after `Matysa`, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
-- The other two primal forces (potencies of knowledge) are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
+[^word]: It is an established thought that the spoken word evolved as a strategy for survival. Herds of animals started using spoken word to alarm fellow beings at first sighting of a predator. A call to act immediately. Survival was manifested in the immediate action.
+- Predators soon copied the technique. A lion would roar at the center of a jungle to make animals run aimlessly. A lioness would catch one at the river. A delayed action, but the promise was lioness would feed the cubs and also lion would get a majority stake in meal. A transfer of value was first established among the robbers 🤖
+- In `Vaidik` culture story of `Hiranyakashipu` is famous. `Hiran` is word for deer - the ultimate survivor for its long legs. Through meditation on spoken word, `Hiranyakashipu` sought survival forever. No one should be able to kill him - neither in day, nor at night ; neither a human nor an animal; neither inside his abode nor outside ; neither lying low on earth nor flying high. Having received such powers, `Hiranyakashipu` assumed he himself was god because he had won the death. He wanted everyone to pray him except his own son `Prahlad` wouldn't give in.
+- Predators approached `Vishnu` for `Hiranyakashipu` was the new god. He was bent on killing his own son if he didn't comply to his preaching, for his word was absolute safety for all his followers. No predator could kill `Hiranyakashipu` to save `Prahlad`. The lord then incarnated as a Lion-Human (`Nar-Singh`) - a lion from waist up walking on two human legs. Lord was neither human nor animal. He killed `Hiranyakashipu` at the door of his home - neither in nor outside. He held him flat on his knees - neither on earth nor in flight. He taught predators to be thoughtful. Plan your action with thought rather than act on absolute impulses of word.
 
 ---
+
+[^code]: Code is an abstraction over our thoughts:-
+- A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). 
+- An advanced program such as a video game may take the user into different narratives based on the variable choices.
+- Computers help us in the sense that the narrative gets fixed and scenarios are different angles of the same narrative. It solves a problem for us that our minds keep changing the narratives and scenarios simultaneously leading to phenomenon called emotions. Emotions take hold when we are unable to analyse all the possible scenarios of all the possible narratives for a given situation - may be because we run short on to compute or time. In the realm of AI , emotions are called hallucinations. 
+- [hallucinations](https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/) may be mitigated with reinforced learning just the way we can overcome emotional outbursts through practice. Very useful if you try public speaking - first time we hallucinate :-)
+
+----
+
 
 [^aiSafety]:  AI is still in its early days, and we already see calls for regulation not only from nation states but also from large corporations. No wonder `open AI` turned closed source :-) Such pressures are going to increase many fold  as we combine AI with next gen automation. It is not hard to imagine independent AI based attempts to improve productivity are barred from existing value exchange systems (fiat currencies). In such a scenario, truly open AIs must have a permission-less, censor resistant and immutable value exchange system. Such a system must be beyond the need of "Trust" in institutions that are anyway trying to establish control. Instead, "Trust" must be based on open code. Bitcoin is such a reference system.
 - as a direct fallout such independent AIs must subscribe to the core philosophy - permission less and censor resistant flow of information. Nostr is a reference implementation of such a model. 

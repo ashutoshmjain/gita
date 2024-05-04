@@ -28,7 +28,7 @@ You may find the comparison between an operating system and a primitive narrativ
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying computing infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures - the rules for engaging with hardware  (earth, water and air being the underlying hardware for human consciousness) ! It might define bounds of their value system just as scriptures defined what we know as morality - how to respect ecological balance !
+If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures ?  The operating system establishes the rules for engaging with hardware for digital beings just as a scripture defines our morality - the rules for engaging with earth, water and air - our underlying hardware ! It might define bounds of their value system just as scriptures defined ours - how to respect ecological balance !
 
 </div>
 
@@ -62,7 +62,7 @@ In addition to the poetic excellence, `Mahabharata` defined a new way of life - 
 
 `Mahabharata` holds within it, center-folded, the gist of four Vedas - `Bhagvad Gita` - the first written source of `Karma Yoga`. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`.  The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in spoken network) to seek permission for its virtual expansion through a written down narrative. `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story in all its poetic glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in continuum) to seek permission for its virtual expansion through a written down narrative. `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story indicating extensive set of contexts covered in the epic. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -117,7 +117,7 @@ The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in sp
 
 </div>
 
-`Ganesa` probably knew the obvious benefits -  not only did the mode of communication changed from synchronous to asynchronous, the written word rendered the narrative timeless ..
+`Ganesa` was probably the first to comprehend  this irreversible addition.  He knew the obvious benefits of scribing  -  not only did the mode of communication change from synchronous to asynchronous, the written word rendered the narrative timeless. It enabled humans send the information to the future. He also knew humans would eventually change synchronous barter to a system that would enable them send value across time and space - gold . Because value-exchange always follows the properties of communication!
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -132,7 +132,17 @@ Is code an abstraction over thoughts [^code] ?
 
 </div>
 
-The unintended consequence that information could be preserved for eternity, would percolate beyond races, geographies and cultures. Written word would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more. 
+The unintended consequence - the idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narrative would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human sub-species - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse, we know as our real world - underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. Surprisingly the model was well defined in `Dwaipayana's` white paper - `Bhagvad Gita`
+
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+`Karma` is the action that transitions information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `Vikarma`. With `Karma` we ingest information ; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process we train a huge biological neural network - human brain.
+
+A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration for the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma`.
+
+</div>
+
 
 
 ## notes and stuff …
@@ -243,6 +253,9 @@ The unintended consequence that information could be preserved for eternity, wou
 
 ----
 
+[^knowledge]: "Knowledge" is hidden in the granular details whereas "Information" is the art of hiding the details. A git repository is a good tool to develop a mental model that contrasts "knowledge" from "information". A git repository typically comes with a readme file - a description of what the code is intended for. This readme file is "information". Most of the time, we may use the code based on the instructions in the readme file - without even knowing the language in which it was written. The information has utility value though utility is NOT knowledge. The "knowledge" is locked in the commits of the repository - how the developer improved the code over successive iterations. Sometimes because she herself was not satisfied and other times because someone raised an issue. Every commit may have some documentation though it is almost impossible to appreciate all the changes that lead to a successful piece of code. "Information" (the utility value) is for every seeker of utility whereas the "knowledge" stays only with the developer who performs repeated actions to improve the code. "Knowledge" can't be communicated because communication must be limited to a catchy narrative or else it gets incomprehensible. Mathematically speaking: "knowledge" = "Information" + "Yazna" (appropriate `Karma` done on regular basis). Since "information" is freely available (massless), the only substantive element is `Karma`.
+
+---
 
 [^aiSafety]:  AI is still in its early days, and we already see calls for regulation not only from nation states but also from large corporations. No wonder `open AI` turned closed source :-) Such pressures are going to increase many fold  as we combine AI with next gen automation. It is not hard to imagine independent AI based attempts to improve productivity are barred from existing value exchange systems (fiat currencies). In such a scenario, truly open AIs must have a permission-less, censor resistant and immutable value exchange system. Such a system must be beyond the need of "Trust" in institutions that are anyway trying to establish control. Instead, "Trust" must be based on open code. Bitcoin is such a reference system.
 - as a direct fallout such independent AIs must subscribe to the core philosophy - permission less and censor resistant flow of information. Nostr is a reference implementation of such a model. 

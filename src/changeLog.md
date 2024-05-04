@@ -10,6 +10,10 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## May 03, 24
+- [Mathura](./mathuraLanding.md) 
+  - [Book 1](./thought.md) - Major update. Reorganized the chapter ground up for flow, context and readability.  
+ 
 ## April 26, 24
 - [Mathura](./mathuraLanding.md) - Minor Edits.
   - [Book 1](./thought.md) - Pruned the chapter to 5000 words. From Readability standpoint, 5000 words seem appropriate for a web page. It was turning into a book itself at ten thousand words. 

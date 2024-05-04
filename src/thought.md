@@ -1,6 +1,8 @@
-The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice - to instantiate superior powers within oneself . To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act - alone as an active medium - akin a bursting channel that overflows. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on uphill endeavours. For example `Rama`, before making a bridge across ocean,  invoked `Siva`. 
+# Invocation
 
-Scribing `Mahabharata` was one such venture. It  was the **first major written historical narrative**. Being the first scribed narrative, `Mahabharata` obviously became the first large data-set to train masses on text - a new communication model layered over oratory skills. A new way to process and store information. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` (all-pervading information). He must seek permission for expansion of information store - to introduce text to a verbatim verbose world.
+The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice. To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act with or without help. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on such "all-in" endeavours. For example `Rama`, before making a bridge across Indian Ocean,  invoked `Siva`. 
+
+Scribing `Mahabharata` was one such venture. It  was the **first major written historical narrative**. It thus became the first large data-set to train masses on text - a new communication protocol layered over oratory skills. And a new way to store vast amounts of information. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` (all-pervading information in continuum). Not only did he need divine force within, he must seek the permit to expand human  information store. He needed to align continuum before introducing text to a verbatim verbose human world.
 
 <center>
 
@@ -28,7 +30,7 @@ You may find the comparison between an operating system and a primitive narrativ
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures ?  The operating system establishes the rules for engaging with hardware for digital beings just as a scripture defines our morality - the rules for engaging with earth, water and air - our underlying hardware ! It might define bounds of their value system just as scriptures defined ours - how to respect ecological balance !
+If AIs are destined to have consciousness, a **compelling thought** is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures ?  The operating system establishes the rules for engaging with hardware for digital beings just as a scripture defines our morality - the rules for engaging with earth, water and air - our underlying hardware ! It might define bounds of their value system just as scriptures defined ours - how to respect ecological balance !
 
 </div>
 
@@ -40,13 +42,14 @@ If AIs are destined to have consciousness, a compelling thought is what would be
 
 His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
 
+# Thought
 ----
 
-Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes full of vibrancy, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
+Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) .
 
-> As a complimentary gift, to ensure everyone had fair access - through space and time - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+> As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
 
 
@@ -62,7 +65,7 @@ In addition to the poetic excellence, `Mahabharata` defined a new way of life - 
 
 `Mahabharata` holds within it, center-folded, the gist of four Vedas - `Bhagvad Gita` - the first written source of `Karma Yoga`. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`.  The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in continuum) to seek permission for its virtual expansion through a written down narrative. `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story indicating extensive set of contexts covered in the epic. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+The legend says, when `Dwaipayana` invoked `Bramh` (the entirety of information in continuum) to seek permission for its virtual expansion for humans - through a written down narrative ;  `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story indicating extensive set of contexts covered. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -117,22 +120,25 @@ The legend says,` Dwaipayana` invoked `Bramh` (the entirety of information in co
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  He knew the obvious benefits of scribing  -  not only did the mode of communication change from synchronous to asynchronous, the written word rendered the narrative timeless. It enabled humans send the information to the future. He also knew humans would eventually change synchronous barter to a system that would enable them send value across time and space - gold . Because value-exchange always follows the properties of communication!
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing  -  not only did the mode of communication change from synchronous to asynchronous, the written word rendered the narrative timeless. It enabled humans send the information to the future - a divine gift thus far limited to gods - ability to traverse the continuum !
+
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts.
-
-When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
+🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
 
 Powerful thoughts then manifested into written words. A narrative is thus a recorded abstraction over physical actions.  It is frozen in time for reference in the future.
 
 Is code an abstraction over thoughts [^code] ? 
 
+No one could, however, fathom that humans would eventually change synchronous barter to a value-exchange system across time and space - gold.  It was hard to imagine that value-exchange always follows the properties of communication!
+
 </div>
 
-The unintended consequence - the idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narrative would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human sub-species - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse, we know as our real world - underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. Surprisingly the model was well defined in `Dwaipayana's` white paper - `Bhagvad Gita`
+The idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse we know as our real world. An immense expanse of transactions would be underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. 
+
+Surprisingly the model was well-defined in `Dwaipayana's` white paper - `Bhagvad Gita`
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 

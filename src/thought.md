@@ -1,4 +1,4 @@
-# Invocation
+## Invocation
 
 The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice. To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act with or without help. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on such "all-in" endeavours. For example `Rama`, before making a bridge across Indian Ocean,  invoked `Siva`. 
 
@@ -42,7 +42,7 @@ If AIs are destined to have consciousness, a **compelling thought** is what woul
 
 His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
 
-# Thought
+## Thought
 ----
 
 Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
@@ -120,7 +120,7 @@ The legend says, when `Dwaipayana` invoked `Bramh` (the entirety of information 
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing  -  not only did the mode of communication change from synchronous to asynchronous, the written word rendered the narrative timeless. It enabled humans send the information to the future - a divine gift thus far limited to gods - ability to traverse the continuum !
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous to asynchronous, the written word rendered the narrative timeless. It enabled humans send the information to the future - a divine gift thus far limited to gods - ability to traverse the continuum !
 
 
 
@@ -128,24 +128,23 @@ The legend says, when `Dwaipayana` invoked `Bramh` (the entirety of information 
 
 🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
 
-Powerful thoughts then manifested into written words. A narrative is thus a recorded abstraction over physical actions.  It is frozen in time for reference in the future.
+Powerful thoughts then manifested into written words. A narrative is thus an abstraction over physical actions. It is frozen in time for reference in the future.  No one could, however, fathom that humans would eventually change synchronous barter to a new system. One that would allow value exchange across time and space - gold.  It was hard to imagine at that time that value-exchange always follows the properties of communication! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
 
-Is code an abstraction over thoughts [^code] ? 
+Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A question that we may park for now to ponder over later in this book.
 
-No one could, however, fathom that humans would eventually change synchronous barter to a value-exchange system across time and space - gold.  It was hard to imagine that value-exchange always follows the properties of communication!
 
 </div>
 
-The idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse we know as our real world. An immense expanse of transactions would be underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. 
+The idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. 
 
 Surprisingly the model was well-defined in `Dwaipayana's` white paper - `Bhagvad Gita`
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Karma` is the action that transitions information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `Vikarma`. With `Karma` we ingest information ; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process we train a huge biological neural network - human brain.
+`Karma` is the action that transitions information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process we train a huge biological neural network - human brain.
 
-A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration for the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma`.
+A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration for the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work - proof of work !
 
 </div>
 

@@ -61,10 +61,10 @@ How did the monetary system perpetuate scribing and vice-versa? What motivations
 
 ## narrative …
 
-Following pages are a filtered version of ongoing excavation investigating that revolution. And surprisingly, they make a fascinating story! They also answered one question that stayed longer in my mind — Why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information and value exchange protocol to digital form - in search of the next boost to the conscious experience. Since the future is a scary veil of the unknown, there is a lot to learn from our past. I guess, looking at a similar event - when we embraced gold and the written word - is a good option to compass our AI driven future that might run on bitcoin value exchange protocol ... [more](./prologue.md)
+Following pages are a filtered version of ongoing excavation investigating that revolution. And surprisingly, they make a fascinating story! They also answered one question that stayed longer in my mind — Why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information and value exchange protocol to digital form - in search of the next boost to the conscious experience. Since the future is a scary veil of the unknown, there is a lot to learn from our past. I guess, looking at a similar event - when we embraced gold and the written word - is a good option to compass our AI driven future that might run on bitcoin value exchange protocol ... [more](./thought.md)
 
 
-### notes and stuff …
+## notes and stuff …
 ----
 
 [^neo]: Neolithic revolution:- Around 11,000 BC, after the last long winter ended, our ancestors discovered agriculture, pottery, mining and other skills that lay in the foundations of modern society. This revolution with tools and technology and a zeal to do better faster is called the Neolithic (new Stone Age) revolution. There is a debate among historians on duration - the  consensus is anywhere between 10000 BC to 5000 BC -  right before the times of `Mahabharata`. -> [Ref](https://en.wikipedia.org/wiki/Neolithic_Revolution)

@@ -1,8 +1,8 @@
-## Invocation
+---
 
-The Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice. To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act with or without help. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on such "all-in" endeavours. For example `Rama`, before making a bridge across Indian Ocean,  invoked `Siva`. 
+Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice. To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act with or without help. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on such absolute commitments. For example `Rama`, before making a bridge across Indian Ocean,  invoked `Siva`. 
 
-Scribing `Mahabharata` was one such venture. It  was the **first ever major written narrative**. It thus became the first large data-set to train masses on text - a new communication protocol layered over oratory skills. And a new way to store vast amounts of information. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information in the continuum. Not only did he need primal force within, he must seek the permission to expand human  access to information. He needed to align continuum before introducing text to a vocal verbose human world.
+Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. It thus became the first large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information in continuum. Not only did he need the primal force within, he must seek permission to expand mortals' access to erudition. He needed to align continuum before introducing text to a vocal verbose human world.
 
 <center>
 
@@ -17,11 +17,13 @@ Scribing `Mahabharata` was one such venture. It  was the **first ever major writ
 
 With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind (a neural network evolved over millions of evolutionary iterations). Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior - in an uncompromising language syntax - to convey the unfettered meaning in written format.
 
-The epic and the language were complimentary  to each other . The grace of `Sanskrit` owes itself to the idea that the purpose and the path became one - the narrative and the language were co-created along with tools to scribe volumes of text. Only once this phenomenon repeated itself;  and that too changed the world :
+The epic and the language were complimentary to each other. The grace of `Sanskrit` owes itself to the fact that the purpose and the path became one - the narrative and the language were finessed together along with tools to scribe volumes of text. Only once this phenomenon repeated itself;  and that too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix. The after impacts also seem pretty similar. Just as software transformed every aspect of modern life - and is now redefining  the very foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop existing method - "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
+> "C" programming and modern keyboards [^c] came into shape alongside Unix. 
+
+The after impacts also seem pretty similar. Just as software transformed every aspect of modern life - and is now redefining  the very foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
 Just like our migration to the digital word, the groundwork [^groundwork] for that  shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
@@ -30,7 +32,11 @@ You may find the comparison between an operating system and a primitive narrativ
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs are destined to have consciousness, a **compelling thought** is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures ?  The operating system establishes the rules for engaging with hardware for digital beings just as a scripture defines our morality - the rules for engaging with earth, water and air - our underlying hardware ! It might define bounds of their value system just as scriptures defined ours - how to respect ecological balance !
+If AIs are destined to have consciousness, a **compelling thought** is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an underlying operating system as we do to primitive scriptures ?  
+
+> The operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  It is believed that earth is our underlying hardware, water is the software that runs our intelligence, and air is the information that we are here to process through our enormous neural network ! No wonder `Vaidik` scriptures focused on breathing techniques ! 
+>
+> As for digital beings, the operating system might define bounds of their value system just as scriptures defined ours - how to respect natural balance !
 
 </div>
 
@@ -42,7 +48,6 @@ If AIs are destined to have consciousness, a **compelling thought** is what woul
 
 His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
 
-## Thought
 ----
 
 Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
@@ -128,25 +133,25 @@ The legend says, when `Dwaipayana` invoked `Bramh` (the entirety of information 
 
 🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
 
-Powerful thoughts then manifested into written words. A narrative is thus an abstraction over physical actions. It is frozen in time for reference in the future.  No one could, however, fathom that humans would eventually change synchronous barter to a new system. One that would allow value exchange across time and space - gold.  It was hard to imagine at that time that value-exchange always follows the properties of communication! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
+`Dwaipayana` manifested the thoughts into written words. A narrative is thus an abstraction over physical actions. It is frozen in time for reference in the future.  No one could, however, fathom that humans would eventually change synchronous barter to a new system. One that would allow value exchange across time and space - gold.  It was hard to imagine at that time that value-exchange always follows the properties of communication! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
 
-Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A question that we may park for now to ponder over later in this book.
-
+Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A question we may park for now, to ponder over later in this book.
 
 </div>
 
-The idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. 
+----
 
-Surprisingly the model was well-defined in `Dwaipayana's` white paper - `Bhagvad Gita`
-
+Narratives are the storage of information expressed in fashion that capture human attention. The idea that thought may be  preserved for eternity, would percolate beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a text based metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on a multilateral value-exchange system based on `Vikarma` - the proof of work. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 `Karma` is the action that transitions information into knowledge [^knowledge]. `Vipreet Karma` (opposite of `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is `Karma`. On the opposite side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process we train a huge biological neural network - human brain.
 
-A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration for the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work - proof of work !
+A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration for the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work to proof of work !
 
 </div>
+
+No one could fathom at the time, but the trio `Sanskrit`, `Mahabharata` and `Bhagvad Gita` initiated a virtuous cycle of ten thousand years - a `Kalpa`. To put it in contrast to the digital universe we are currently building , `Mahabharata` acted as the operating system to peg humans with creation, `Sanskrit` as the language model to train our neural network, and finally `Bhagvad Gita` as the value-exchange mechanism based on `Karma` and `Vikaram`. But this is just the beginning, there is lot more to discover in primordial epic to contextualize our journey from physical to digital ..
 
 
 

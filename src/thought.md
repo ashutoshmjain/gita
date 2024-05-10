@@ -153,7 +153,9 @@ A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` l
 
 </div>
 
-`Sanskrit`, `Mahabharata` and `Bhagvad Gita` initiated a virtuous cycle of ten thousand years - a `Kalpa`. To put it in contrast to the digital universe we are currently building, `Mahabharata` acted as the operating system to peg text-aware humans with creation while `Sanskrit` as the language model to train our neural network on text - to help us realize the skills of a narrative they subscribed. And finally `Bhagvad Gita` as the white-paper for value-exchange mechanism - based on `Karmayoga`. But this is just the beginning, there is lot more to discover in the primordial epic to contextualize our journey from physical to analog .. and ultimately to the digital ..
+`Sanskrit`, `Mahabharata` and `Bhagvad Gita` initiated a virtuous cycle of ten thousand years - a `Kalpa`. To put it in contrast to the digital universe we are currently building, `Mahabharata` acted as the operating system to peg text-aware humans with creation while `Sanskrit` as the language model to train our neural network on text. Together they helped us realize the skills of a narrative we subscribe to - a teacher , a miner , a builder or a trader. And finally `Bhagvad Gita` described a value-exchange mechanism - based on `Karmayoga`. But this is just the beginning, there is lot more to discover in the primordial epic to contextualize our journey from physical to analog .. and from analog to digital .. 
+
+More importantly, to understand where is the exit !
 
 
 

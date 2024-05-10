@@ -1,0 +1,511 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html" class="active">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Thought';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <hr />
+<p>Sanskrit word <code>Aavahan</code>  roughly translates to “Invocation”, albeit a much wider abstraction. <code>Aavahan</code> is a marathon ritual of meditation and sacrifice. To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act with or without help. In Hindu tradition, one of the three primal forces - <code>Bramh, Vishnu or Siva</code> are invoked before taking on such absolute commitments. For example <code>Rama</code>, before making a bridge across Indian Ocean,  invoked <code>Siva</code>. </p>
+<p>Scribing <code>Mahabharata</code> was one such venture. It  was the <strong>first ever written narrative</strong>. As described in the first book, the <code>Vaidik</code> editor-in-chief, sage teacher of all the races <sup class="footnote-reference"><a href="#races">1</a></sup>, <code>Krishna Dwaipayana</code> invoked <code>Bramh</code> - all-pervading information in continuum. Not only did he need the primal force within, he must seek permission to expand mortals’ access to erudition. He needed to align continuum before introducing text to a vocal verbose human world.</p>
+<center>
+<p><img src="./mahabharataScribing.png" alt="" /></p>
+</center>
+<div class="cover-small">
+  <div class="centered">
+  To reconfirm my belief, I asked the big question to perplexity.ai !
+  </div>
+</div>
+<p>Being the first narrative, it  became the first large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. With around 1.8 million words, <a href="https://mahabharata.shutri.com">Mahabharata</a> is the biggest single pool of <code>Sanskrit</code> words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind - a biological neural network evolved over millions of evolutionary iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior - in an uncompromising language syntax - to train the meaning in unfettered written format.</p>
+<p>The epic and the language were complimentary to each other. The grace of <code>Sanskrit</code> owes itself to the fact that the purpose and the path became one - the narrative and the language were finessed together along with tools to scribe volumes of text. </p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<p>This phenomenon repeated itself in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :</p>
+<blockquote>
+<p>“C” programming and modern keyboards <sup class="footnote-reference"><a href="#c">2</a></sup> came into shape alongside Unix. </p>
+</blockquote>
+<p>Just as software transformed every aspect of modern life - and is now redefining  the foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral <sup class="footnote-reference"><a href="#multi">3</a></sup> economic system emerged atop “one on one” barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.</p>
+<p>Just like our migration to the digital word, the groundwork <sup class="footnote-reference"><a href="#groundwork">4</a></sup> for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy, rewrite and improve <code>Mahabharata</code>,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. </p>
+<p>You may find the comparison rather odd - an amusing flight of imagination! What could be common in first texted narrative and first portable operating system ? - but the idea of sentient beings, living in the realms of artificial intelligence isn’t far-fetched. Nick Bostrom and Carl Shulman suggest in their <a href="https://nickbostrom.com/propositions.pdf">recent paper</a> that consciousness is substrate independent.</p>
+<blockquote>
+<p>Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ <a href="https://nickbostrom.com/propositions.pdf">Propositions Concerning Digital Minds and Society</a></p>
+</blockquote>
+<p>If AIs are destined to have consciousness, a <strong>compelling thought</strong> is what would be their perception of underlying compute infrastructure? Wouldn’t they  relate to an underlying operating system as we do to primitive scriptures ?</p>
+<blockquote>
+<p>The operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  It is believed that earth is our underlying hardware, water is the software that runs our intelligence, and air is the information that we are here to process through our enormous neural network ! No wonder <code>Vaidik</code> scriptures focused on breathing techniques ! </p>
+<p>As for digital beings, the operating system might define bounds of their value system just as scriptures defined ours - how to respect natural balance ! They may see underlying compute as earth in their virtual contexts, the water as the software and they may process the information through the air they breathe.</p>
+</blockquote>
+</div>
+<p><code>Dwaipayana's</code> breakthrough literary work was no accident. He came from a lineage of scholarly sages. His father <code>Maharishi Parāśara</code> spoke titles such as </p>
+<ul>
+<li><code>Krishi Parāśara</code> — The science of Agriculture;</li>
+<li><code>Vrkayurveda</code> — Insights into Botany;</li>
+<li><code>Vishnu Purana</code><sup class="footnote-reference"><a href="#vishnu">5</a></sup> — Stories of <code>Vishnu</code>; </li>
+<li><code>Brihat Parāśara Hora</code> — foundational work on Astrology; </li>
+</ul>
+<p>His grandfather <code>Sakti Muni</code>, was first to comprehend eternal <code>Karmyoga</code> - the nature of rise of consciousness (<code>Vishnu</code>). And his great-grandfather <code>Vaśiṣṭha</code> was titled <code>Bramhrishi</code> - the first guardian of spoken wisdom. </p>
+<hr />
+<p>Invocation of the primal force, at neural levels, is an invitation to conflicting “thoughts” - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  <code>Krishna Dwaipayana</code> was destined to churn thousands of sacred insights from sages (<code>Rishies</code>) - old and new. Most of the time collectively converging onto “truth” but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the <code>Vedas</code>. For this legendary work, he was conferred the coveted title in literature - <code>Ved Vyasa</code> (the chief editor of Vedas). </p>
+<p>This work, in itself, was virtuous enough to dedicate many lives; though <code>Dwaipayana</code> was just getting started ! He was waiting for a divine <sup class="footnote-reference"><a href="#divine">6</a></sup> prompt. His purpose was to welcome the full-incarnation <sup class="footnote-reference"><a href="#8th">7</a></sup> of <code>Vishnu</code>, understand the wisdom ‘as is’, and preserve it in human mind through one of the most potent narratives ever told - <a href="./bhagvadGita.html">Bhagvad Gita</a> .</p>
+<blockquote>
+<p>As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights <sup class="footnote-reference"><a href="#immortals">8</a></sup> in Hindu tradition.</p>
+</blockquote>
+<p>In addition to the poetic excellence, <code>Mahabharata</code> defined a new way of life - action orientation - <code>Karm Yoga</code>, the method to transmit value beyond the physical laws of nature. The idea that actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative based on the sum total of our accrued <code>Karmik</code> collection. This idea formed the cultural basis of <code>Vaidik</code> civilizations. <code>Mahabharata</code> holds within it, center-folded, the gist of four Vedas - <code>Bhagvad Gita</code> - the first written source of <code>Karma Yoga</code>. Not only did it introduce <code>Karmyoga</code> to the world, it did so through an example - the poetic rigor of <code>Gita</code> in itself is an example of <code>Karm Yoga</code>. </p>
+<blockquote>
+<p><code> Karmanye vadhikaraste Ma Phaleshu Kadachana,</code></p>
+<p><code> Ma Karma Phala Hetur Bhur Ma Te Sango Stv Akarmani</code></p>
+<p>You have dominion only on your <code>Karama</code>; not on the outcomes!</p>
+<p>Let the outcomes be not your motive, nor let inaction be your disposition.</p>
+</blockquote>
+<p>The question is, how did <code>Dwaipayana</code> manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar <sup class="footnote-reference"><a href="#panini">9</a></sup> was not even formalized yet. And of-course there was no computer. Not even a type-writer!</p>
+<p>The legend says, when <code>Dwaipayana</code> invoked <code>Bramh</code> (the entirety of information in continuum) to seek permission for its virtual expansion for humans - through a written down narrative ;  <code>Bramha</code> (the embodiment of <code>Bramh</code>), in his infinite wisdom, pointed  him to <code>Siva's</code><sup class="footnote-reference"><a href="#siva">10</a></sup> son <code>Ganesa</code><sup class="footnote-reference"><a href="#ganesa">11</a></sup> (the elephant God). <code>Adi Parva</code> the first book of <code>Mahabharata</code> describes this story indicating extensive set of contexts covered. Translated by <code>Kisari Mohan Ganguly (1896)</code>, here is an excerpt -</p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<blockquote>
+<p>O divine Brahma, by me a poem hath been composed which is greatly respected.  The mystery of the Veda, and what other subjects have been explained by me; </p>
+<ul>
+<li>
+<p>the various rituals of the <code>Upanishadas</code> with the <code>Angas</code>; </p>
+</li>
+<li>
+<p>the compilation of the <code>Puranas</code> and history formed by me and named after the three divisions of time, past, present, and future; </p>
+</li>
+<li>
+<p>the determination of the nature of decay, fear, disease, existence, and non-existence, a description of creeds and of the various modes of life; </p>
+</li>
+<li>
+<p>rule for the four castes, and the import of all the <code>Puranas</code>; </p>
+</li>
+<li>
+<p>an account of asceticism and of the duties of a religious student; </p>
+</li>
+<li>
+<p>the dimensions of the sun and moon, the planets, constellations, and stars, together with the duration of the four ages; </p>
+</li>
+<li>
+<p>the <code>Rik, Sama and Yajur</code> Vedas; </p>
+</li>
+<li>
+<p>also, the <code>Adhyatma</code>; </p>
+</li>
+<li>
+<p>the sciences called <code>Nyaya</code> (justice), Orthoephy and Treatment of diseases; </p>
+</li>
+<li>
+<p>charity and <code>Pasupatadharma</code>; </p>
+</li>
+<li>
+<p>birth celestial and human, for particular purposes; </p>
+</li>
+<li>
+<p>also, a description of places of pilgrimage and other holy places of rivers, mountains, forests, the ocean, of heavenly cities and the <code>kalpas</code>;</p>
+</li>
+<li>
+<p>the art of war; </p>
+</li>
+<li>
+<p>the different kinds of nations and languages: </p>
+</li>
+<li>
+<p>the nature of the manners of the people; </p>
+</li>
+<li>
+<p>and the all-pervading spirit;</p>
+</li>
+</ul>
+<p>all these have been represented. <strong>But, after all, no writer of this work is to be found on earth.</strong></p>
+<p><em><code>Brahma</code> said</em> </p>
+<p>I esteem thee for thy knowledge of divine mysteries, before the whole body of celebrated <code>Munis</code> distinguished for the sanctity of their lives. </p>
+<p>I know thou hast revealed the divine word, even from its first utterance, in the language of truth. </p>
+<p>Thou hast called thy present work a poem, wherefore it shall be a poem. </p>
+<p>There shall be no poets whose works may equal the descriptions of this poem, </p>
+<p><strong>Let <code>Ganesa</code> be thought of, O <code>Muni</code>, for the purpose of writing the poem.</strong></p>
+</blockquote>
+</div>
+<p><code>Ganesa</code> was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous (face to face) to asynchronous (read anywhere any time), the written word rendered the narrative timeless. It enabled humans send the information to the future - a divine gift thus far limited to gods - ability to traverse the continuum !</p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<p>🔎 In the beginning, spoken words  and actions were synchronous <sup class="footnote-reference"><a href="#word">12</a></sup>. There was no secret vault of thoughts. When we learned to “think”, we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.</p>
+<p><code>Dwaipayana</code> manifested the thoughts into written words. A narrative - an abstraction over physical actions -  is thus frozen in time for reference in the future.  No one could, however, fathom that humans, empowered with written word, would change synchronous barter to a new system of exchange - gold. One that would allow value exchange across time and space.  It was hard to imagine at that time that value-exchange always follows the properties of communication protocol ! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.</p>
+<p>Is code an abstraction over thoughts <sup class="footnote-reference"><a href="#code">13</a></sup> ? Can it take us back in time ? A question we may park for now, to ponder over later in this book.</p>
+</div>
+<hr />
+<p>Narratives are the storage of information expressed in fashion that captures human attention. Think of them as a battery for information storage. The way a battery stores electrical energy between a cathode and an anode, a narrative thrives between a hero and a villain. Morality aside - both are equally important to make the narrative worth reading. A good narrative does as much justice to a villain as to a hero - to make sure information reaches both sides of the aisle. As a matter of fact, the hero and a villain are two sides of the coin.</p>
+<p>Narratives expand human access to information. Since <code>Bramh</code> is defined as the entirety of information, narratives expand our access to <code>Bramh</code>. Think of <code>Bramh</code> as all the relationship we have with rest of the beings - animate or inanimate. Information is stored in these relationships. We can form relationships with the characters of a narrative - real or fictional. In essence, the information is not stored per se in the text, it is stored in the neural connections we form with the characters of the narrative. If characters of the narrative are persistent in our mind - we can store persistent information. Most persistent information is deemed as history.</p>
+<p>Narratives thus permit utility as well as the historical access to future generations. Starting with <code>Mahabharata</code> , this idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a skills oriented metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on an asynchronous multilateral value-exchange system based on <code>Vikarma</code> - the proof of work. </p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<p><code>Karma</code> is the action that transitions information into knowledge <sup class="footnote-reference"><a href="#knowledge">14</a></sup>. <code>Vipreet Karma</code> (opposite of <code>Karma</code>) - also called <code>Vikarma</code>, are the actions that convert knowledge into information. For example when we practice daily to improve our game, it is <code>Karma</code>. On the opposite side,  when we play a match to put our skills on display, it is called  <code>Vikarma</code> - a proof of work. With <code>Karma</code> we ingest information; with <code>Vikarama</code> we radiate information. Both are equally important - like two wheels of a cart. In the process we train a huge biological neural network - human brain.</p>
+<p>A set of predefined <code>Karmas</code> practiced consistently is called <code>Yazna</code>. <code>Yazna</code> leads to success (<code>Siddhi</code>). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is <code>Yazna</code>. <code>Yazna</code> becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration for the rest -&gt; thus initiating a virtuous cycle of <code>Karma</code> and <code>Vikarma</code> -&gt;  Repetitive work to proof of work !</p>
+</div>
+<p><code>Sanskrit</code>, <code>Mahabharata</code> and <code>Bhagvad Gita</code> initiated a virtuous cycle of ten thousand years - a <code>Kalpa</code>. To put it in contrast to the digital universe we are currently building, <code>Mahabharata</code> acted as the operating system to peg text-aware humans with creation while <code>Sanskrit</code> as the language model to train our neural network on text. Together they helped us realize the skills of a narrative we subscribe to - a teacher , a miner , a builder or a trader. And finally <code>Bhagvad Gita</code> described a value-exchange mechanism - based on <code>Karmayoga</code>. But this is just the beginning, there is lot more to discover in the primordial epic to contextualize our journey from physical to analog .. and from analog to digital .. </p>
+<p>More importantly, to understand where is the exit !</p>
+<h2 id="notes-and-stuff-"><a class="header" href="#notes-and-stuff-">notes and stuff …</a></h2>
+<hr />
+<div class="footnote-definition" id="races"><sup class="footnote-definition-label">1</sup>
+<p>Vyasa executed the compilation of the Bharata, exclusive of the episodes originally in twenty-four thousand verses; and so much only is called by the learned as the Bharata. Afterwards, he composed an epitome in one hundred and fifty verses, consisting of the introduction with the chapter of contents. This he first taught to his son Suka; and afterwards he gave it to others of his disciples who were possessed of the same qualifications. After that he executed another compilation, consisting of sixty hundred thousand verses. Of those, thirty hundred thousand are known in the world of the Devas; fifteen hundred thousand in the world of the Pitris: fourteen hundred thousand among the Gandharvas, and one hundred thousand in the regions of mankind. Narada recited them to the Devas, Devala to the Pitris, and Suka published them to the Gandharvas, Yakshas, and Rakshasas: and in this world they were recited by Vaisampayana, one of the disciples of Vyasa, a man of just principles and the first among all those acquainted with the Vedas. <a href="https://mahabharata.shutri.com/maha01.html#:~:text=Vyasa%20executed%20the%20compilation,one%20hundred%20thousand%20verses.">Extracted from Mahabharata - Translated by Kisari Mohan Ganguli</a></p>
+</div>
+<hr />
+<div class="footnote-definition" id="transcription"><sup class="footnote-definition-label">15</sup>
+<p>Transcription on palm leaves …</p>
+<ul>
+<li>Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It’s challenging to pinpoint a single individual or group as the “first” to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.</li>
+<li>One of the earliest known instances of palm leaf manuscripts comes from ancient India and Southeast Asia, where they were used for religious texts, literature, and other writings. These manuscripts are known as “Palm-leaf Manuscripts” or “Palm-leaf Books.”</li>
+<li>The use of palm leaves for writing is associated with the traditional writing system known as <code>&quot;Tāḻam-Paṭṭu&quot;</code> or <code>&quot;Tala Patra&quot;</code> in Sanskrit. This system involved inscribing characters onto dried palm leaves using sharp tools. Palm leaf manuscripts were often bound together into books or scrolls.</li>
+<li>One of the oldest known dated Sanskrit manuscripts is shown below, this specimen transmits a substantial portion of the <code>Pārameśvaratantra</code>, a scripture of the <code>Śaiva Siddhānta</code>, one of the <code>Tantric</code> theological schools that taught the worship of <code>Śiva</code> as “Supreme Lord” (the literal meaning of <code>Parameśvara</code>). No other complete manuscript of this work is known. A note in the manuscript states that it was copied in the year 252, which some scholars judge to be of the era established by the Nepalese king <code>Aṃśuvarman</code> (also known as <code>Mānadeva</code>), therefore corresponding to 828 CE. <a href="https://artsandculture.google.com/asset/p%C4%81rame%C5%9Bvaratantra-ms-add-1049-1/kQErGkONgxbJrg?childassetid=UwHEHymvp48xmg">Ref - Cambridge Digital Library</a></li>
+</ul>
+<p><img src="./oldestPalm.jpg" alt="oldest palm manuscript" /></p>
+</div>
+<hr />
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">2</sup>
+<p>With the advent of telegraph, in the early 1900s, the good old typewriter morphed into “teletypes” (ttys) - the visual mode to send text and codes through a wire. Even the news companies such as AP and Reuters used ttys to communicate the stories across the pond. Fast-forward to the early seventies, DEC (Digital Equipment Corporation) adapted the ttys to interact with computers on a commercial scale and an era of massive innovation was unleashed. The tapes and punch cards were still around, and they would stay for long, but the buzz was <strong>DEC’s VT100 terminal</strong>. The DEC VT 100  was compatible with their minicomputer <strong>PDP eleven</strong> shipped in 1978.</p>
+<ul>
+<li>PDP eleven was the first platform on which Ken Thompson and Dennis Ritchie ported “Unix” in the newly minted “C” language. The development of Unix (and C) had started at Bell labs roughly around four years back on stable <strong>PDP seven</strong> minicomputer (around 1974). </li>
+<li>The <strong>DEC VT52</strong>, introduced in 1975, was an earlier video terminal that preceded the more advanced <strong>VT100.</strong> The VT52 had limited capabilities compared to the VT100, but it was still an important step in the development of computer terminals. The PDP-7, when initially used for Unix development, was connected to various types of terminals, including the VT52. This terminal setup provided an interactive and more user-friendly way to interact with the PDP-7 , making the development process more efficient and accessible. </li>
+<li>The availability of terminals like the VT52 played a role in shaping the early Unix environment and its user interface. It  had a 24x80 character display, which could show 24 rows and 80 columns of text characters. It featured a keyboard with a standard QWERTY layout. However, its keyboard layout and number of keys were basic compared to later models.  It supported the <strong>ASCII</strong> character set, like the VT100, allowing it to display text and control codes based on the ASCII standard. It could display simple graphics, though it was primarily designed for text-based applications.  Many VT52 terminals featured a parallel printer port for printing output. </li>
+<li>The availability of modern keyboards and terminals played a significant role in the development of Unix and the C programming language. Here’s how these factors influenced the development:
+<ul>
+<li><strong>Interactivity and User-Friendly Interfaces:</strong> Unix was designed with the goal of creating an interactive and user-friendly operating system. The availability of terminals with full keyboards made it possible for users and developers to interact with Unix in a more intuitive and efficient way compared to earlier computer systems that relied on punch cards or teletype terminals. This interactivity facilitated the development process.</li>
+<li><strong>Portability:</strong> The C programming language, developed alongside Unix, was designed to be highly portable and platform-independent. This was made possible, in part, by the availability of terminals with standardized ASCII keyboards, which allowed for consistent input methods across different computer systems. This contributed to the ease with which C programs could be written and compiled on different machines.</li>
+<li><strong>Text Processing and Editing</strong>: Modern keyboards made text processing and code editing more efficient. Unix included powerful text processing tools like ed, ex, and eventually <strong>vi</strong> , which took advantage of the capabilities of modern terminals and keyboards for text manipulation. These tools became integral to the Unix development process.</li>
+<li><strong>Collaboration:</strong> The availability of terminals and keyboards allowed for easier collaboration among Unix developers. Multiple people could work on Unix and C simultaneously, sharing and editing code on the same system, thanks to the interactive nature of the terminal interface.</li>
+<li><strong>Efficiency and Productivity:</strong> Modern keyboards and terminals improved the efficiency and productivity of developers, which was critical in the rapid development of Unix and C. The ability to write, test, and modify code quickly on these systems was a significant advantage.</li>
+</ul>
+</li>
+<li>In summary, while modern keyboards and terminals weren’t the sole factors behind the success of Unix and C, they certainly played a crucial role in enabling the interactivity, portability, and efficiency that are associated with these technologies. They were part of a broader technological ecosystem that allowed Unix and C to thrive and become foundational elements of modern computing.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="multi"><sup class="footnote-definition-label">3</sup>
+<p>Barter is by definition a coincidental bilateral value exchange. With gold, we discovered multilateral trade. For example in barter, one must exchange the value one on one. With authenticity of spoken word (a promise) we could shift the coincidence across time though it was prone to errors and the added anxiety that counterparty may not honour the promise. With gold this problem of “trust” got taken care of. We could convert a commodity into gold and later or at the same time, trade gold with someone else. </p>
+<ul>
+<li>Since then , our current economic system is multilateral. With bitcoin, we envisage to solve another problem - how do we enable our AI models - our reflections in cyberspace space - to exchange value without having to seek our permission. </li>
+<li>Within current paradigm of multiplicity, we only solve the problem of time though the deal still remains between two entities - between two humans or two legal constructs. For example, even if we set up a self split prism, someone still needs to set up the split rules and another single party still needs to pay into the prism. </li>
+<li>With value exchange empowered and autonomous AIs, we make the deal truly multilateral. For example, in the future, I may be able to set up many AI models that provide my skills in exchange for value. </li>
+<li>These models may be set up in narratives at different times. However, we still need to figure out those rules. For example if an AI model that reflects me in a virtual space of say 1980, should have equal access to my current wealth ? Or should it have only that much wealth that I had in 1980?  What if I set up my reflection before my physical birth or in future ? </li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="groundwork"><sup class="footnote-definition-label">4</sup>
+<p>Ground work for the written word : </p>
+<ul>
+<li>improvements in the language model to support scribing. For example, there was no concept of punctuation in the “speech only” world -&gt; The written language needed a stronger syntax.</li>
+<li>extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. <code>Vaidik Sanskrit</code> was expanded to accommodate around <a href="https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.">eighty sounds.</a>  -&gt; Abstraction is key to expanding the “thought”. Thought is the virtual environment of first order.</li>
+<li>development of writing apparatus such as palm leaves, ink, and quills. The apparatus must be easy to handle for mass adoption; and the print must last long enough. The simple argument was - if a script didn’t last longer than a human life then the effort was pointless - the writer could very well speak the ideas when needed -&gt;  Persistence is a requirement of storage. Storage leads to perpetuity.</li>
+<li>triggering a self-sustaining and censor resistant pay back model around scribing. Yes, “scribing” was declared downright demonic ! Many reciters believed wisdom could never be locked in written symbols.  Fears were not misplaced though - they could see a more versatile variant of humans on the horizon -&gt; Think about all the brouhaha we have around AI safety <sup class="footnote-reference"><a href="#aiSafety">16</a></sup>these days!</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="vishnu"><sup class="footnote-definition-label">5</sup>
+<p><code>Vishnu Purana</code>…</p>
+<ul>
+<li>Spoken by <code>Maharishi Parasara</code>, <code>Vishnu Purana</code> (the gem of <code>Puranas</code>) was later scribed into text by his son <code>Krishna Dwaipayana</code>. <code>Purana</code> means ancient stories. <code>Vishnu Purana</code> is thus ancient stories of <code>Vishnu</code> - One of the three primal forces of existence. </li>
+<li>In <code>Vaidik</code> framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as <code>Vishnu</code>. Each of the manifested beings has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, <code>Vishnu</code> is the collection of templates of creation. </li>
+<li>In his idol image, <code>Vishnu</code> is normally shown to bear the universal continuum <code>Chakra</code> on his finger. The incarnations of <code>Vishnu</code>, lead the life to higher state of consciousness. For example, the first incarnation of <code>Vishnu</code>, <code>Matsya Avtara</code> a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was <code>Kurma</code> a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of <code>Vishnu</code> are called <code>Dashavataras</code> . They are compared to evolution; <code>Kurma</code> - the amphibian - is regarded as the next stage after <code>Matysa</code>, the fish. Here is the detailed <a href="https://en.wikipedia.org/wiki/Dashavatara">evolutionary interpretation</a>. </li>
+<li>The other two primal forces (potencies of knowledge) are <code>Bramha</code> and <code>Siva</code>. It is important to mention that while all three have their respective representations (in idols) in the human form, only <code>Vishnu</code> may physically incarnate in living form. Obviously, because <code>Vishnu</code> is the science of manifestation. It must present reference examples. <code>Bramh</code> and <code>Siva</code> never incarnate in the physical world.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="divine"><sup class="footnote-definition-label">6</sup>
+<p>The word “divine” might sound like a religious myth to a modern reader; but it’s not. For example our modern AI models are well capable of writing an article. Arguably they may be able to write a complete book on any topic of choice. But they all need a prompt. No AI model writes a poem on its own. In that parlance, the “prompt” that we give to chatGPT is a divine trigger for the large language model. Future models will sure have capability to decide if the prompt is worthy or not. </p>
+</div>
+<hr />
+<div class="footnote-definition" id="8th"><sup class="footnote-definition-label">7</sup>
+<p><code>Poorna-avatar</code> - The eighth incarnation</p>
+<ul>
+<li>In <code>Vaidik</code> framework, <code>Vishnu</code> is the manifestative potency of knowledge. It manifests, from the smallest particle to the biggest universe, through it’s eightfold basic nature. It is said to attain full invocation of all facets of eight-fold nature in the eighth incarnation. Thus, eighth incarnation <code>Krsna</code> is the full embodiment of knowledge. </li>
+<li><code>Krsna</code> is also called <code>Krishna</code> in north India in which case his first name is same as the author of <code>Mahabharata</code> — <code>Krishna Dwaipaiyana</code>. Was it a sweet coincidence or is there something more to it? Many religious historians have described <code>Krsna</code> as many faced God. Their belief is <code>Krsna</code> represents an ideology. Anyone who fully subscribed to its tenets was first-named <code>Krishna</code>. This appears an appropriate deduction for the immensity for roles that <code>Krishna</code> played in the epic and hundreds of other scriptures. For example there is a <code>Krishna</code> who played with <code>Gopies</code> in<code>Braj</code> - one who played magical flute. Then there is one who built <code>Dwarika</code> - a magical town in mid-sea on the coast of <code>Gujaraat</code>. And then we all know of the masterful raconteur who endowed the knowledge to <code>Arjuna</code> - <code>Bhagwat Gita</code> in the middle of the biggest war.</li>
+<li>Another sweet coincidence is the unit of measure for gold - a <code>Krishnala</code>. It means related to or instituted by <code>Krishna</code>. A <code>Krishnala</code> was equal to one <code>Ratti</code> of gold, around one tenth of a gram. The popular unit for trading gold was <code>Satamana</code> (= 100 <code>Krishnala</code>), which is equal to modern day <code>Tola</code> (around 11 grams of gold including impurities). In essence <code>Krishna</code> laid down the first unit of measurement as well as currency.</li>
+<li>Ninth incarnation (<code>Buddha</code>) is to extend the universe through messages of peace, harmony and equanimity; while tenth incarnation is to move the consciousness into a new universe through machine tools and automation (<code>Kalki</code>)</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="immortals"><sup class="footnote-definition-label">8</sup>
+<p>Immortal Eight</p>
+<ul>
+<li>In Hindu scriptures, there are frequent mentions of eight <code>Chiranjeevies</code>. The literal meaning is the one who lives for very long time such that they may be seen as immortals. Among them are <code>Ved Vyasa, Parshu Rama, Ashwathama, Vibishana, Krupacharya, Hanumaan, Mahabali and Markandeya</code>.</li>
+<li>The idea of immortality is a metaphor for the work they did. For example <code>Parshuram</code> wielded an axe. The axe is a symbol of tools. It is believed that <code>Parshuram</code> is immortal in tools we use to date no matter how sophisticated our machines got from that primordial time. Similarly, <code>Ved Yyasa Dwaipayana</code> is immortal for the literature he created and also the most important tool of the trade - transcription.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="panini"><sup class="footnote-definition-label">9</sup>
+<p>Sanskrit Grammar</p>
+<ul>
+<li><code>Maha-Bharata</code> is believed to be before <code>Panini</code>, who first standardized the Sanskrit Grammar. <code>Panini's</code> grammar — <code>Ashtadhyayi</code> has references to <code>Maha-Bharata</code> that indicate that it was written much later.  And the flavor of Sanskrit is sure not same as that of <code>Panini</code>.  <code>Dwaipayana's</code> Sanskrit is called <code>Vaidik Sanskrit</code>.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="siva"><sup class="footnote-definition-label">10</sup>
+<p><code>Siva</code></p>
+<ul>
+<li>Siva is the highest state of consciousness. Evolution of knowledge eventually reaches a state where ‘knowledge’ is absolute. This is the state of knowledge where <code>Vishnu</code> manifests, at the same time it gets a mirror image for observation. The mirror image of manifested <code>Vishnu</code> is <code>Siva</code>. <code>Siva</code> is answer to <code>Vishnu's</code> question - who am I? This potency thus, maintains the systems to support equilibrium of <code>Bramh</code>. In other words, <code>Siva</code> governs the knowledge field. </li>
+<li><code>Siva</code> is seen as a potency of discretion that chooses to observe only one (manifested) state of <code>Vishnu</code>, it discards all other possibilities. These three protocols (<code>Bramh</code>, <code>Visnu</code> and <code>Siva</code>) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only <code>Vishnu</code> is potent enough to incarnate.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="ganesa"><sup class="footnote-definition-label">11</sup>
+<p>The Elephant God</p>
+<ul>
+<li><code>Ganesa</code> is the deity of intelligence. The legend says that <code>Ma Parvati</code> - wife of <code>Siva</code>, created a humanoid from her skin scrub. <code>Siva</code> unhappy with the limited intelligence of this humanoid (as he couldn’t even contextualize that <code>Siva</code> was <code>Parvati's</code> husband), implanted an elephant head on him to invoke superior intelligence. An elephant has three times the number of neurons versus a human brain. </li>
+<li>To compare with current largest artificial intelligence systems, a human brain is around 300 times the size of the largest neural networks of our time such as GPT3. Thus, <code>Ganesa</code> has around 1000x natural(not artificial) intelligence versus the largest of our AIs! In a way superior intelligence was put to use in first mega transcription project - from spoken word to written text. It seems like a fun coincidence that we need AIs to harvest the written knowledge in digital realm.</li>
+<li>In Hindu tradition, it is considered auspicious to remember <code>Ganesa</code> at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="word"><sup class="footnote-definition-label">12</sup>
+<p>It is an established thought that the spoken word evolved as a strategy for survival. Herds of animals started using spoken word to alarm fellow beings at first sighting of a predator. A call to act immediately. Survival was manifested in the immediate action.</p>
+<ul>
+<li>Predators soon copied the technique. A lion would roar at the center of a jungle to make animals run aimlessly. A lioness would catch one at the river. A delayed action, but the promise was lioness would feed the cubs and also lion would get a majority stake in meal. A transfer of value was first established among the robbers 🤖</li>
+<li>In <code>Vaidik</code> culture story of <code>Hiranyakashipu</code> is famous. <code>Hiran</code> is word for deer - the ultimate survivor for its long legs. Through meditation on spoken word, <code>Hiranyakashipu</code> sought survival forever. No one should be able to kill him - neither in day, nor at night ; neither a human nor an animal; neither inside his abode nor outside ; neither lying low on earth nor flying high. Having received such powers, <code>Hiranyakashipu</code> assumed he himself was god because he had won the death. He wanted everyone to pray him except his own son <code>Prahlad</code> wouldn’t give in.</li>
+<li>Predators approached <code>Vishnu</code> for <code>Hiranyakashipu</code> was the new god. He was bent on killing his own son if he didn’t comply to his preaching, for his word was absolute safety for all his followers. No predator could kill <code>Hiranyakashipu</code> to save <code>Prahlad</code>. The lord then incarnated as a Lion-Human (<code>Nar-Singh</code>) - a lion from waist up walking on two human legs. Lord was neither human nor animal. He killed <code>Hiranyakashipu</code> at the door of his home - neither in nor outside. He held him flat on his knees - neither on earth nor in flight. He taught predators to be thoughtful. Plan your action with thought rather than act on absolute impulses of word.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="code"><sup class="footnote-definition-label">13</sup>
+<p>Code is an abstraction over our thoughts:-</p>
+<ul>
+<li>A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). </li>
+<li>An advanced program such as a video game may take the user into different narratives based on the variable choices.</li>
+<li>Computers help us in the sense that the narrative gets fixed and scenarios are different angles of the same narrative. It solves a problem for us that our minds keep changing the narratives and scenarios simultaneously leading to phenomenon called emotions. Emotions take hold when we are unable to analyse all the possible scenarios of all the possible narratives for a given situation - may be because we run short on to compute or time. In the realm of AI , emotions are called hallucinations. </li>
+<li><a href="https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/">hallucinations</a> may be mitigated with reinforced learning just the way we can overcome emotional outbursts through practice. Very useful if you try public speaking - first time we hallucinate :-)</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="knowledge"><sup class="footnote-definition-label">14</sup>
+<p>“Knowledge” is hidden in the granular details whereas “Information” is the art of hiding the details. A git repository is a good tool to develop a mental model that contrasts “knowledge” from “information”. A git repository typically comes with a readme file - a description of what the code is intended for. This readme file is “information”. Most of the time, we may use the code based on the instructions in the readme file - without even knowing the language in which it was written. The information has utility value though utility is NOT knowledge. The “knowledge” is locked in the commits of the repository - how the developer improved the code over successive iterations. Sometimes because she herself was not satisfied and other times because someone raised an issue. Every commit may have some documentation though it is almost impossible to appreciate all the changes that lead to a successful piece of code. “Information” (the utility value) is for every seeker of utility whereas the “knowledge” stays only with the developer who performs repeated actions to improve the code. “Knowledge” can’t be communicated because communication must be limited to a catchy narrative or else it gets incomprehensible. Mathematically speaking: “knowledge” = “Information” + “Yazna” (appropriate <code>Karma</code> done on regular basis). Since “information” is freely available (massless), the only substantive element is <code>Karma</code>.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="aiSafety"><sup class="footnote-definition-label">16</sup>
+<p>AI is still in its early days, and we already see calls for regulation not only from nation states but also from large corporations. No wonder <code>open AI</code> turned closed source :-) Such pressures are going to increase many fold  as we combine AI with next gen automation. It is not hard to imagine independent AI based attempts to improve productivity are barred from existing value exchange systems (fiat currencies). In such a scenario, truly open AIs must have a permission-less, censor resistant and immutable value exchange system. Such a system must be beyond the need of “Trust” in institutions that are anyway trying to establish control. Instead, “Trust” must be based on open code. Bitcoin is such a reference system.</p>
+<ul>
+<li>as a direct fallout such independent AIs must subscribe to the core philosophy - permission less and censor resistant flow of information. Nostr is a reference implementation of such a model. </li>
+<li>Thus, two types of emergent AI systems -&gt;  Ones that are controlled - permissioned and censored. And others that are permission-less and uncensored. In essence the war of ideology transitions from physical to digital universe.</li>
+<li>In Vaidik parlance Permission-less and censor resistant stands for “open to all without any controls” and “for benefit of everyone who wanted to participate” - <code>Vasudhaiv Kutumbkum</code> (entire earth is a family). This ideology was termed <code>Sanatana</code> - means one that has no beginning and no end - ever present. The underlying value exchange model of <code>Sanatana</code> is based on  <code>Karma</code> - work for a specific skill. And the measure of <code>Karma</code> is in proof of work - <code>Vikarma</code>. <code>Sanatana</code> believes in immutable divine record of <code>Karma</code>  in universal machine - an immutable ledger of one’s actions. The underlying ideology is called <code>Karm Yoga</code>.</li>
+</ul>
+<hr />
+</div>
+<div class="cover-medium">
+  <div class="centered">
+<p><a href="./mathuraChap01.html">Trigger</a> …
+<a href="./mathuraChap02.html">Reboot</a> …
+<a href="./mathuraChap03.html">Expression</a> …
+<a href="./mathuraChap04.html">Righteous</a>…
+<a href="./mathuraChap05.html">Island</a>…
+<a href="./mathuraChap06.html">Naive</a>…
+<a href="./mathuraChap07.html">Resolution</a> …</p>
+</div>
+</div>
+<p><lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/></p>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mathuraLanding.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="mathuraChap01.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mathuraLanding.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="mathuraChap01.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

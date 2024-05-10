@@ -1,0 +1,279 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html" class="active">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Hypothesis';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="hypothesis-"><a class="header" href="#hypothesis-">Hypothesis ..</a></h1>
+<p>Just like any scientific theory, be it Newton’s laws of motion or Maxwell’s description of electromagnetism, Gita’s biggest insights are built into its assumptions. For example, Maxwell made an assumption that the observable universe has something called an electromagnetic<sup class="footnote-reference"><a href="#1">1</a></sup> field at every point in space. This field enables the motion of energy through space in the shape of electro-magnetic waves. This is a great assumption because it allows to explain the wave particle nature of photons - the tiny packets of energy that move through space-time. The only problem however is we can’t perceive the electromagnetic field. We can only experience it through the passage of photons. A well thought through assumption helps us explain things we observe. It becomes the underlying basis for the mathematics that leads to theories and subsequently proved through experiments. If the experimental results match the theoretical predictions, we acknowledge the underlying assumptions as “true” - else the assumptions are revised. </p>
+<p>At a time, say five-ish thousand years ago, when humans didn’t have the mathematical tool box or the appliances of science and compute; Krishna introduced the humanity one of the deepest and most empowering idea. At a time when humans had no recourse other than settling or submitting to a strange, unknown external force - say God; Krishna theorized that the God actually lives in all of us in the shape of complete and unaltered knowledge what he named - <code>Atma</code> - which basically means “me”.  Our own copy of the God- embedded or seeded deep into us. The obvious questions were - how does it look ? Can I see it ? Will it die with my physical death ? Difficult questions and hard to prove !</p>
+<p>This was obviously something beyond imagination of that time. And probably even now !  But now we have a distinct advantage . We have many scientific discoveries that defy our imagination. For example the postulates of quantum mechanics are beyond our day to day reality, yet we accept them for their testable predictions . Many of them are beyond debate. No one agrees to Schrodinger’s wave equation at the face value unless we delve deep into the probabilistic nature of our universe and see how well the model predicts our “spooky” reality. For that matter even Einstein’s relativistic approach is beyond us unless we see the experimental truth that gravity does warps the space and thus we live in a four dimensional space-time. In essence, we have gotten used to the idea that our senses have limitations when it comes to perceiving the nature of our our reality. This is a big advantage because with this firm belief, that there is more to it than what meets the eyes , now,  we may expand our horizons to more than what we normally perceive. In a way math and science have proved to us that our sensory reality is a tiny box. Very useful tiny box though !</p>
+<p>Gita says that the keys to our true nature, true reality -  lie in this tiny box. This is what is our field of actions - what Gita refers to as  <code>Kurukhseta</code>.  But to gain the best experience we need to see beyond our senses - because there is more to what meets the eyes. In fact , Krishna was the first who implored us to give up our over reliance on senses and look beyond the visible. He said five thousand years ago  in chapter 3 of Gita - a chapter dedicated to the idea of <code>Karm Yoga</code> - Action orientation</p>
+<blockquote>
+<p>Yah [one who] Tu [but] Indriyani [the senses] Mansa [ by the mind] Niyamya [regulating] Arabhte [initiates] Arjuna [Arjuna];</p>
+<p>Karm-Indriyaih [with the active work organs] Karm Yogam [ritual of action] Asaktah [without attachment, someone beyond sensory consumption] Sah [s/he] Vishishyate [excels]</p>
+<p>One who initiates by regulating the senses with mind ; engaged in <code>Karm Yoga -ritual of actions</code> with active work organs and detached to sensory consumption; such a person is a special one.</p>
+</blockquote>
+<p>The ideas that Krishna discovered are experiential and testable as the postulates of science but the problem is these ideas are spread all across the text. That is because Gita is delivered in a conversational format. A format that was (and probably is) best suited to communicate the message to those who believe. This is however a problem for the ones like me, who seek a testable basis to satisfy our never satiated thirst for logic :-) So, here I a trying to organize the core principles of Gita in the format that looks kinda like a thesis that we could test, if we wish to. Obviously, these principles are not substantiated with mathematical equations because math was not even discovered back then. In a way, it is an advantage because you don’t need background in science or math to test these ideas. Anyone with a quest for truth and willingness to invest time, can run these experiments in their own life; in their tiny box. As shown by Godel in incompleteness theorem, a formal mathematical system can not prove that the system itself is consistent. Thus absence of hard math may  not be viewed as a disadvantage. The goal really is to prove the truth to ourselves.</p>
+<p>With this long introduction - let us look at the Hypothesis ..</p>
+<h2 id="the-hypothesis"><a class="header" href="#the-hypothesis">The Hypothesis</a></h2>
+<p>Gita  proposes a distributed model of protected, immutable, and encrypted knowledge. Distributed computing is fairly common these days thanks to  “Block Chains” and crypto currencies! Gita says a full copy of  protected, immutable but encrypted knowledge <code>Atma</code> is pre-built into all of us. We being the conscious agents <code>Jeeva</code> .</p>
+<h3 id="protected"><a class="header" href="#protected">Protected</a></h3>
+<p>Because, this “knowledge” can not be destroyed by “worldly” means. Metaphorically - Fire can’t burn it. It can’t be drowned in water. Krishna says ..</p>
+<blockquote>
+<p>Na [not] Enam [this] Chindanti [cut through, make a hole –&gt; destroy] Shastrani [weaponry] ; Na [not] Dahati [burns] Pavkah [fire].</p>
+<p>Na [not] Cha [ and] Enam [ this] Kladyanti [moistens] Aapah [water] ; Na [not] Shoshyati [dries] Marutah [ fast air] .</p>
+<p>Weapons can’t cut through or make a hole in it. Fire can’t burn it. Water can’t moisten it and air can’t dry it. Which basically means it is not in the realm of manifested.</p>
+</blockquote>
+<h3 id="immutable"><a class="header" href="#immutable">Immutable</a></h3>
+<p>Because this knowledge doesn’t change. He says this knowledge is <code>Akshara</code> . In Hindi or Sanskrit <code>Kshra</code> means something that changes and <code>Akshara</code> is the opposite that means something that can never be changed. For example In Hindi <code>Akshara</code> also means written or spoken words to symbolize a word once spoken can never be changed. And once it is written down, it is kinda set in the stone. And in a way words represent knowledge.</p>
+<h3 id="encrypted"><a class="header" href="#encrypted">Encrypted</a></h3>
+<p>Because this knowledge is not easily perceived by our externally focused senses or mind. Our senses and mind are designed to ensure survival to lend us a window to explore this physical reality. Their purpose is to focus on external things thus the truth appears encrypted <code>Avykta</code> to our senses. In essence , the encryption is meant for the senses because nature wants us to first indulge in the physical and the physical reality around us holds the key to our inner knowledge.  You may ask why so ? Why such arrangement. Why create such an experience and then focus us to unlock it ? Why this game? The simplest answer is because it is beautiful. Our physical reality is the most meticulous and advanced experience ever created , order of magnitude superior to iOS :-)  or Facebook Quest:-)  But as the experience becomes more immersive, it also gets addictive. Exits become opaque. And the users are lost in the experience. It is okay  to live here in this experience as long as we want but it does have a cost attached to it. That cost is cycles of happiness and pain. It is like a roller-coaster ; a never ending roller-coaster !</p>
+<p>Since everyone has a different set of circumstances , it is not hard to imagine that as an observer we have a  very different world view. In essence we have a very different set of cryptographic keys, thus the test of the hypothesis or the method to decrypt the underlying truth is individualistic. BTW it is important to state the meaning of “encrypted”. Encrypted doesn’t mean “impossible”. It only means that it is hard to decrypt unless we devise a better algorithm. Better ways and means to understand the problem. Or we have the public private key combination. Once we have the keys, the entire knowledge base becomes self evident.</p>
+<p>Again, this is not a call for the blind faith. Just as in any scientific inquiry, we start with a hypothesis and then test the validity through experiments , we will see down the line in this book as to why this knowledge is encrypted and how to perceive it without using the survival oriented senses. Or learn to focus our senses back onto  <code>Atma</code> - our internal knowledge.</p>
+<p>So we all get a copy of protected, immutable and encrypted knowledge. That is good but the question is why should I care ?</p>
+<h3 id="worth-knowing-and-knowable-"><a class="header" href="#worth-knowing-and-knowable-">Worth knowing and Knowable .</a></h3>
+<p>Gita says, this inner knowledge is all we need to know or decrypt.</p>
+<p>Worth knowing because the answers to all the questions that we are seeking outside, are already embedded with in us. In a way the biggest question is who we are ?  That is what we are searching when we climb the <code>Himalayas</code> or sink to the depths of ocean or venture into deep and dark space. Our quest is to find who we are ? Or is there something else, someone like us ?</p>
+<p>Knowable because it is  built into us, it is called <code>Atma</code> which literally means “Me”. In essence, this knowledge is what we are ; our physical body (and mind) are tools to enable the “Actions”. Our actions are driven by this inner knowledge. A new born baby knows where to find the milk. In essence this knowledge drives even our survival.  Krishna further says that the physical body is fungible but if we let lose this beautiful apparatus without decrypting the knowledge,  that is a wasted opportunity.</p>
+<p>Just as a Black hole, though beyond our sensory observatories, because information can’t travel back from them , we can affirm their existence and other properties such as mass, rotation and entropy , through what they do -  their effects. The best way to approach this inner knowledge is to observe the “Actions” it drives. The process of getting attached to (or focusing back on) the “Actions” is called <code>Karm Yoga</code>.</p>
+<p>So we all should try to decrypt our internal knowledge . Is there a way we could collaborate ? After all we are all trying to accomplish the same goal from different angles ?</p>
+<h3 id="the-knowledge-network"><a class="header" href="#the-knowledge-network">The knowledge Network</a></h3>
+<p>The decrypted knowledge manifests into all that we perceive with our senses. Our individual decryption leads to us acquiring skills that can manifest things. The collective decrypted knowledge is what Gita refers to as <code>Bramha</code>. In essence, knowledge is borne by an infinite network of connections among conscious beings, busy in pursuit of decrypting the knowledge. This immense network, manifests our perceivable universe. In <code>Vaidik</code> traditions, the manifestative potency of this vast knowledge network is known as <code>Vishnu</code>. The manifestative potency, takes the conscious beings gradually to the higher state of consciousness through actions <code>Karma</code>. And the highest state of consciousness is called <code>Siva</code>. The network, in itself is termed as <code>Bramh</code>.</p>
+<p><code>Bramha</code> is the entirety of our system. System that spans this universe and may be many more if we think we are living in a multiverse . We need to be connected with the this primordial cloud because this is what provisions all that we need to conduct our experiments but <code>Bramha</code> in itself is not the entire knowledge. It can only support us, indulge us or inspire us.</p>
+<p>In addition, it also gives us the problem sets that we need to decrypt based on our location , our capabilities , our access , our circumstances. In essence this collective decrypted knowledge is what gives us our purpose. In chapter 3 , verse 15 ; Krishna says that <code>Karma</code> - righteous actions are created from <code>Bramha</code> and <code>Bramha</code> is created from <code>Akshra</code> - the unchangeable i.e.  knowledge. He says ..</p>
+<blockquote>
+<p>Karm Bramha Udbhavam Viddhi, Bramha Akshara Samudbhavam ;</p>
+<p>Tasmat Sarv Gatam Bramha, Nityam Yazne Pratisthitam</p>
+</blockquote>
+<p>As we said above , <code>Bramha</code> means the entirety. Everything that is out there. In Hindi (or Sanskrit) , we call this universe as <code>Bramhand</code> - which means a slice , an instance of <code>Bramha</code>. In a way, we can imagine <code>Bramha</code> as the entire overarching system - the multiverse. Not the “human only” system. This is the system that through evolution or by design is  what creates the individual specific righteous actions. Means system designed duties. Every being in the universe has a purpose. There is nothing here that has no good reason to be here. In addition,  the system  <code>Bramha</code> provisions a superior garbage collection system. Anything that is not serving a purpose is quickly ‘garbage collected’ . Even the garbage collection process has a deeper purpose. It turns such collection into food for the ones who are striving or serving  a purpose. It may sound harsh but such is the reality of this manifestation..</p>
+<p>Krishna further says , therefore, for all pervading <code>Bramha</code> , always situate yourself into your <code>Yazna</code>, the prescribed and pre-decided ritual of actions.</p>
+<p>To recap all that we discussed , here is a kind numbered list ….</p>
+<ol>
+<li>All conscious agents get a protected immutable copy of entire knowledge base - Something like a git clone.</li>
+<li>The knowledge appears encrypted to our externally focused senses and mind but it is knowable with proper rigor and algorithms. Gita suggests <code>Karm Yoga</code> for this end.</li>
+<li>We manifest ourselves and the things around us based on the knowledge we decrypt.</li>
+<li>The collective decrypted knowledge is called <code>Bramha</code> - The pan universal manifested knowledge cloud.</li>
+<li>Bramha provisions all that we need to conduct our experiments and it also tells us what we need to do. In addition, it implements a superior garbage collection system.</li>
+<li>When we decrypt the entire knowledge base we are free from the cyclic nature of our reality because now we are one with the immutable knowledge. In that Gita says that we can take infinite births across multiple species as we choose to.</li>
+<li>Our externally focused senses and mind are there to provision this opportunity for us. Opportunity to decrypt the knowledge. They do so by ensuring our survival through longevity or passage of genes.  In essence we have ability to mutate faster to access the immutable. Thus human life is a blessing among all other species. Obviously because we are bestowed with bigger brains that enabled us create the tools and skills. At the same time it also means more opportunities for distractions. Thus we need to regulate our senses with mind and indulge them in <code>Karm Yoga</code>.</li>
+<li>The cycle of knowledge to manifestation and vice versa is end less. We will talk more about this in next section because this in itself is a chapter! It is a circle or spherical. Not a linear timeline.</li>
+</ol>
+<p>For the better part of last hundred years, physicists are trying hard to unify the theory of relativity with that of quantum mechanics ; also called the unification of theory of large spatial bodies led by gravity with the theory that regulates physical systems at the micro sub atomic scale. Such attempts are sometimes dubbed as <code>Theory of Everything</code> But literally speaking , theory of everything, can’t just be a scientific theory pertaining  to motion of physical systems. It must take in to account the other aspects of human life such as consciousness, memory , intelligence. On the other hand many new(er) scientific approaches hit the extreme opposite ends. Some of them claim that the universe is a mere your desktop and things appear as icons in it . They feel that the world gets created as soon as we open our eyes. If that is the case then it is really a solo and sad world we live in alone. Many of such theories and religious factions have taken the meaning of consciousness or <code>Atma</code> to the very extreme state such that they appear to look down upon our sensory reality. Gita says that we must have deepest of appreciation of our physical sensory reality because this physical reality is what <code>Bramha</code> creates for us and this is what holds the keys to our inner knowledge. It says that a human can’t get to state of bliss or beyond labor of actions, without hard work. And even those who have given up everything , don’t attract any distinct success. In a way Gita establishes a balance between the physical and metaphysical. It says</p>
+<blockquote>
+<p>Na [not] Karmnaam [of righteous action] Anarambhan [the ones that are never initiated] Naishkarmyam [a stage where one is beyond actions- bliss ] Ashnute [one who achieved said stage];</p>
+<p>Na [nor] Cha [also] Sannyasnat [one who has renounced everything, towards them] eva [ also] Siddhim [distinguishable success] Samadhigacchti [easily goes towards].</p>
+<p>No one gets to a state of “beyond actions” - bliss, a state of everlasting peace or oneness with the awareness ; without ever starting the actions. Even those who have renounced everything, don’t attract any distinguishable success. In essence we must act to resolve the problems of our physical reality.</p>
+</blockquote>
+<p>Gita Framework resolves many of such burning questions, or at least attempts to set priorities for our strife. The later is more important because we have a grand theory for the large spatial bodies and yet another for the tiniest subatomic particles but what about us ? Where is the theory that helps me live my life better ? Puts me on the righteous path and thus helps me to attain peace. On the other hand most of the religiously oriented philosophies paint a dark lonely picture of my world. It feels as if we are here to give up everything ; then why in the world we are here at first place ?</p>
+<p>In a way Gita, gives necessary structure and skeleton to our quest - scientific and spiritual. And it gets more relevant in these asking times, when on one side imminent  opportunities (think artificial intelligence, robotics , space and biotech) are hitting exponential trajectory, and on the other more than half the humanity struggles for elemental air and water. There was never a bigger demand on humans to choose right from wrong and then stay focused on path.</p>
+<p>Let us start the journey ..</p>
+<hr />
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>The idea that fields are fundamental stayed a “one off” theory for many decades after Maxwell’s proposal. Take a look at this <a href="https://clerkmaxwellfoundation.org/DysonFreemanArticle.pdf">paper</a> from Prof. Freeman J Dyson, Institute of Advanaced Studies, Princeton USA. - Quote - “The ultimate importance of the Maxwell theory is far greater than its immediate achievement in explaining and unifying the phenomena of electricity and magnetism. Its ultimate importance is to be the prototype for all the great triumphs of twentieth-century physics. It is the prototype for Einstein’s theories of relativity, for quantum mechanics, for the Yang-Mills theory of generalised gauge invariance, and for the unified theory of fields and particles that is known as the Standard Model of particle physics. All these theories are based on the concept of dynamical fields, introduced by Maxwell in 1865. All of them have the same two-layer structure, separating the world of simple dynamical equations from the world of human observation. All of them embody the same quality of mathematical abstraction that made Maxwell’s theory difficult for his contemporaries to grasp.”</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="0.0_about.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="continuum.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="0.0_about.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="continuum.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

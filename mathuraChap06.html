@@ -1,0 +1,308 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html" class="active">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Naive';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><code>Abodh</code> means naive. A naive expression always gets a pardon even if it challenged authority of an axiom. For example, a child’s opinion never warrants a rebuke - in fact it brings a smile to everyone. <code>Abodh Prashna</code> is a naive question. Such a question must be answered - particularly by those who claim a connection to the wisdom - <code>Bramh</code>.</p>
+<p><code>Bramh</code> holds the entire <sup class="footnote-reference"><a href="#total">1</a></sup> information; yet it may only answer the questions - it can’t frame the questions of it’s own. One who knows it all has nothing to ask ! <code>Bramh</code> navigates the route. It lights up the path with milestones. Still, only a trained eye may capture such clues. Such a trained eye is the “qualifying minimum” on complex path to perfecting Astrology. <code>Maharishi</code> knew well how to read those clues.</p>
+<p><code>Bramh</code> may suggest cryptic answers too - as long as the question is real, and innocent - <code>Abodh Prashna</code>. One that comes from deep with in - from the guts of the soul - <code>Atma</code>. <code>Bramh</code> speaks with <code>Atma</code> for they are reflections of each other - mirror images. Such answers appear as gut feelings.  <code>Matsya</code> was naive but, after seeing <code>Maharishi</code> last night, she felt people were right about him. Her gut told her - he was no ordinary man ..</p>
+<h1 id="abodh-prashna-"><a class="header" href="#abodh-prashna-"><code>Abodh Prashna</code> ..</a></h1>
+<p>As the boat steadied, <code>Matsya</code> welcomed <code>Maharishi</code> with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had ninety eight coppers in her tiny bag after spending “one” on the dinner last night, and she felt rich. She had the bag carefully tied to her waist. Every now and then, her left hand reached out to check the bag. Money is important and being rich is a habit - she thought! She had also thought of leaving the coins at home but decided to carry them on person. The door of her hut fell off in rains this season, and she never had enough to call on local carpenter. May be now she would get it done. Why people worked so hard for copper - she wondered! </p>
+<p>She had debated herself on choice of flowers - there were marigolds, sunflowers and bunch more to choose from. She picked up roses because they were most expensive. She wanted to show her gratitude for the generous payout last evening. She also wanted to appease <code>Maharishi</code> into the question she had on her mind. Other reason that probably acted in sub-conscious - the fragrance of roses. Maybe she didn’t want her smell roam around naked. The idea of her ‘stink’ had taken deeper roots. Right from her child, she had heard crazy stories that she wasn’t born of a woman! She was repeatedly told she was cut open off a large fish, and that her smell was a living proof of her being a fish-born. </p>
+<p>She sure was as comfortable in waters  as a fish, and the story had many legs that made it quite convincing. Olds of the village said a male child was born too - with her as her twin.  He was adopted by king <code>Uparichara</code> who believed they both were born off his sperm, swallowed by a fish <sup class="footnote-reference"><a href="#fish">2</a></sup>. How could this be true — she thought — for her brother never showed up for help. Nor did the king ever sent any gifts. The parable went far enough to claim that having been appointed the general of <code>Uparichara's</code> army, her brother ruled the vast state of <code>Matsya</code>, adjoining <code>Sur Sena</code>. She was obviously not convinced for she knew people could conjure up anything these days. But still - why not clarify with <code>Maharishi</code> who had ability to see the past ! Not only past, she was hoping <code>Maharishi</code> might get kind enough to shed some light on her future — at least how to get out of the hole she was currently dug into!</p>
+<h2 id="61"><a class="header" href="#61">6.1</a></h2>
+<hr />
+<p><code>Yamuna</code> was unusually calm that morning — reflecting the stillness of churn in <code>Maharishi's</code> mind. Almost fifteen minutes into the ride, she stole a glance to find him looking at a dry palm leaf. As if there were a treasure map hidden on the leaf. He was also smelling roses she gave him, firmly held in his other hand.</p>
+<p>He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. <code>Maharishi</code> gladly agreed to listen to her. It was a while he had spoken to a commoner in an ‘unmoderated’ setting. </p>
+<p>She started her story, and went on and on, not knowing where to stop. As if, in years, for the first time, she got someone to look at her tiny-box. Getting true attention of another human in itself is a boon, and in this case she got the calm focus of a <code>Maharishi</code>. She didn’t even know the words that came off her mouth. Her perspective, shaded in the pain of utter rejection, was evocative. </p>
+<p>All this time, <code>Maharishi</code> quietly listening to her and smelling the roses — rather surprised at the choice and effortless delivery of words. Her description of the vast state her ‘supposed’ father and brother inherited. And her description of the large fish, she was born of. <code>Maharishi</code> realized it wasn’t just the announcement she made last evening, that sounded like a <code>Naad Yogi</code>: she had probably recited her own story to herself countless times. Her local accent, as worthy as the Sanskrit <sup class="footnote-reference"><a href="#sanskrit">3</a></sup> rendering of a professional reciter. More importantly, she believed in what she said - like a child. After a long circular narrative, she boiled down to contesting the <strong>existence of ‘One God’, for the God couldn’t be so merciless.</strong> Why did he put all the miseries in her lap while her father and brother were enjoying royalty.</p>
+<p>Her naive question rubbed <code>Maharishi</code> at painful memories of his own past. He recalled his time when he lost the way in narratives of his childhood. Growing up in his grand father’s <code>Ashrama</code>, though he had access to the most pragmatic vantage, yet he wasn’t immune to hate. To him, his grand father appeared calm though he lost hundred sons that unruly morning, but anger had bottled up in his youth. Partly because of the chatter around him, but also because the killers of his father still stayed beyond justice, and still enjoyed same old misdeeds. He realized later that he subconsciously shifted the blame from one bad actor to an entire race of <code>Rakshsas</code>. He ‘now’ understood the power of stories on a child’s mind! - <code>Sanskaras</code>.</p>
+<h2 id="62"><a class="header" href="#62">6.2</a></h2>
+<hr />
+<p>While <code>Matsya</code> was talking, <code>Maharishi</code> continued to drift into his past … In the early days, the hate overpowered him. So much so that he left the <code>Ashrama</code> to seek justice for the “still unsettled” case. Primary heart burn being <code>Kalmaspada</code> was still at large. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn’t believe in <code>Vaidik</code> way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge. </p>
+<blockquote>
+<p>The hyperbole is, he didn’t even pick up a weapon. It says he lit up a holy fire of <code>Yazna</code> and made the monsters fly into it. As if he invoked a fire-trap - a manifestation of his sacrifices. <code>Rakshsas</code> with in a certain distance of the “just” fire, burnt one by one as the crowds saw them turning into ashes — unaware that with every immolation, <code>Maharishi</code> burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated!</p>
+</blockquote>
+<p>Such descriptions apart, most probably he joined forces with the local leaders to seek his revenge. He obviously used his “clue hunting” to trap the enemies. After banishing most of the <code>Rakshsas</code> from the adjoining areas, he along with leader of this movement — <code>Ugrasen</code> — named the area <code>Sur Sena</code> — a neighborhood watch of good people. <code>Maharishi</code> helped <code>Ugrasen</code> get the title of the king of this new formed state. <code>Ugrasen</code> was a rational king. He made <code>Mathura</code> his capital and brought peace to the long civil unrest that kick started that fateful morning. The first cold war between those who believed in a systemic change versus those who wanted to continue with status quo — the ancient rules of the jungle. </p>
+<p>Finally people felt safe again and order was restored. <code>Mathura</code> became a happening town and <code>Maharishi's</code> abode right at the center, by the river <code>Yamuna</code>, retained back its past glory. But not for long! <code>Rakshsas</code> (along with <code>Asuras</code>) kept plodding for no one is truly defeated in the physical wars. Their hopes  were on <code>Kansa</code> - the son and heir of <code>Ugrasen</code> who didn’t cheer his father’s austerity. He wanted to indulge for he believed you live only once. He was a perfect foothold for <code>Asuras</code>. We will get to his story in a bit.</p>
+<p>As <code>Maharishi</code> grew older, he realized the evil was not race specific. There were good and bad actors on both sides of the aisle. And evil, in itself, was just a different vantage point. He was able to see both sides of the coin now. Both seemed right at the same time. </p>
+<blockquote>
+<p>The compelling argument on the side of <code>Rakshsas</code> was simple — they asked if “One God” was full of love, why is there death and misery in the world? God can’t be merciless. Why doesn’t God let everyone live like him — always healthy and beautiful. <code>Matsya's</code> naive question opened the door of empathy in <code>Maharishi's</code> heart. He found her struggling the similar state that he himself resolved after much loss and violence.</p>
+</blockquote>
+<p><code>Maharishi</code> also thought what if the <code>Rakshsas</code> he banished had gotten similar bad deal at the hands of fate. That couldn’t be construed as their mistake for breeding contempt of God. If a young girl , felt this way, why wouldn’t a mature <code>Asura</code> who had probably seen more hardships? But no one had ever put forth such unpretentious argument with a child like naivety. Her unintentional deduction forced the <code>Yogi</code> to engage in a conversation — those who claim a connection with <code>Bramh</code> must answer the naive question ! <code>Maharishi</code> was himself surprised finding himself engaging with a woman half his age -  an anomaly because he rarely spoke. Even the kings had to wait to hear his sermons. He rarely blessed anyone. He never performed rites for money or favors. Nor did he indulge in religious debates — he was a silent seeker lost in himself.</p>
+<h2 id="63"><a class="header" href="#63">6.3</a></h2>
+<hr />
+<p>Her innocent question and the pain in her eyes forced <code>Maharishi</code> to look at her, understand her life, and gaze into her future. Being a <code>Trikal Darshi</code> astrologer — someone who could see the past, present and future, he saw the purpose of her being. She was the one who could mother <code>Dwaipayana</code>. Purified by the pain of her sufferings, her intelligence was pious. <code>Maharishi</code> looked at the morning sky and saw a glitter of hope in the rays of rising sun. He marveled at the ways of nature for having brought him in contact with <code>Matsya</code> . He wondered how his zeal to scribe — his deep desire that he inherited from his grandfather, coexisted with the means to accomplish , right by his home ! Was it a sign ? — a nudge of destiny ! And then he looked at the palm leaf in his hand — he could now see a treasure map on the leaf, thus far hidden to a common eye.</p>
+<p>When he was sure <code>Matsya</code> had no more to say, he shared his empathy with a cautious smile — And how did <code>Uparichara's</code> sperm reached a fish? — he somehow controlled his laughter!</p>
+<p><code>Matsya</code> knew such a question would be obvious if she shared her story. And she understood <code>Maharishi</code> didn’t believe any of it. Yet to complete the point, she added - well they say, <code>Uparichara</code> was newly wed, and he loved his wife <code>(Girika)</code>, head over his heels. On the eve of their much waited wedding, a saint asked him for meat of a deer as part of wedding celebrations. And that the deer must be hunted by the host himself. King, didn’t want to dishonor the saint on his wedding night. So he took on to near by jungle. While on the hunt, he couldn’t stop thinking about his new wife, waiting for him. Thinking about her, his seed fell, while a curious hawk watched him go through intense struggle — to hold up. The hawk graciously offered the king that he could carry the semen to his wife. And king thankfully agreed. </p>
+<p>As the hawk flew, with king’s semen in it’s beak, another one attacked him assuming he had a piece of meat in his mouth. When it comes to kings, friends and foes are always around ! In their fight, the precious seed fell in the river below, where a fish swallowed it, as if she was already waiting for the prize! Even the fish was a cursed angel ..</p>
+<p>Before she went further, with her amazing elucidation, <code>Maharishi</code> couldn’t hold his laughter. His eyes almost watered. Once he got his composure back, he pulled one rose from the bouquet. Handing it back to her, he asked - <code>Matsya</code> do you see the thrones below this beautiful flower? Seeing her nod affirmatively, he continued — think what could have happened to a lone girl in this place full of hungry hawks!  Your smell is your protector just like these thrones are to the flower. And your beauty is your intelligence. Don’t ever waste your intelligence in what people talk. People remember only sensational stories. Those stories do go in the history because they are easier said and easier remembered, but every one has their own truth to seek! Even truth seekers must know their version of truth is not universal.</p>
+<p>He thought for a while, watching <code>Matsya</code> react to his laughter. She was unsure if <code>Mahrishi</code> actually found it funny. <code>Maharishi</code> realized he should not have laughed. He added a new perspective to ease the situation but one that came from the depth of his wisdom  — If you think about it, O’ fish-born, people are not entirely wrong. In a way what people are telling you is true because your smell is protecting you like a mother. Just like a mother, it surrounds you always. And as far as your father is concerned, you are sure born off a noble man of highest order — your intelligence is a living proof. And people know that even if they don’t readily express it to you. </p>
+<p>He paused for a moment to let <code>Matsya</code> grasp what he said. And then he added — But the real question is: would you want me to dwell on your past or look into your future? </p>
+<p>The gravity of his voice such that the words brought tears to <code>Matsya's</code> eyes — why can’t I be like others O’ <code>Maharishi</code>? Beautiful and fragrant? What worth this protected intelligence of, if I must live alone all my life? <code>Maharishi</code> heard the voice of truth, pain, and of the deepest of desires, as she bowed and touched <code>Maharishi's</code> feet. No argument could bring peace to <code>Matsya</code>. She must live to be beautiful and fragrant, and she must enjoy all the pleasures thus far devoid off her.</p>
+<p><code>Maharishi</code> blessed her with his right hand — Your life has a good reason <code>Matsya</code>. Gods have graced you with hardships to enable objectivity in you, for they want to have you serve as a host to something bigger. He paused for a moment to look deeper into her eyes for the words he was about to say, must be fulfilled  — I shall come back to you, to seek your help, at appropriate time. Stay put…</p>
+<p><code>Matsyagandha</code> couldn’t believe her ears! She forgot to notice that <code>Maharishi</code> didn’t answer her questions. Instead, he offered her hope. Maybe he was sharing the high tide of his own resolve, strengthened at this unscheduled rendezvous. </p>
+<hr />
+<p><code>Maharishi</code> disembarked, careful to keep his balance - his limp didn’t help. Holding the roses and palm leaf in one hand, he latched on to the hull for support. As his hand caught the hull, his eyes caught a small wooden piece with stamp of Kuru kingdom. He was surprised to see a king’s stamp lying in the bucket. He guessed the bucket was for dropping fares but why someone dropped king’s stamp! Curious he asked <code>Matsya</code>.</p>
+<p><code>Matsya</code> picked up the stamp - you may take it, it has no use to me. A commuter from the far side - she waived towards the Kuru Kingdom side of <code>Yamuna</code> - said I could  get a copper coin for it from the king’s palace in <code>Hastinapur</code> - the capital. I guess I will never go there in this life!</p>
+<p><code>Maharishi</code> was surprised. He took a closer look at the stamp. It was an original. Why would the king trade his seal for a copper! - none of my business - he thought to himself. Out loud he spoke - You should keep it because you earned it. And who knows you might end up in <code>Hastinapur</code>. Destiny !</p>
+<p>He handed the seal back, but he did take a question with him as he got off the boat and started walking to the <code>Ashrama</code>…</p>
+<blockquote>
+<p>If God is full of mercy, why is there misery in the world !</p>
+</blockquote>
+<h2 id="notes-and-stuff"><a class="header" href="#notes-and-stuff">notes and stuff:</a></h2>
+<div class="footnote-definition" id="total"><sup class="footnote-definition-label">1</sup>
+<p><code>Bramh</code> and <code>Atama</code> ..</p>
+<ul>
+<li>Science is absolutely sure the entire knowledge is baked in the universe. Information can’t be lost. <code>Bramh</code> represents the information aspect of universe. But there is an interesting <code>Vaidik</code> twist on this idea.</li>
+<li>The core postulate of <code>Bhagvad Gita</code> is all beings have an <code>Atma</code> - a full copy of the information - it’s like DNA in the cell. DNA is physical because cell is physical. <code>Atma</code> represents DNA of our metaphysical being - our emotions, thoughts, intelligence or persona. Since it is not physical, it’s beyond the realm of our senses - just the way senses can’t  measure thought.</li>
+<li>In essence, every conscious being is a full node of the network of consciousness (<code>Bramh</code>). Since it is a full node, it represents the information of entire network. DNA being local to the body - may mutate - may take different shapes. But <code>Atma</code> being complete, is immutable. The rise of consciousness is gradually turning this information into knowledge. Information + Yazana (repeated Karma) = Knowledge.</li>
+<li>This axiom further leads to ideas of reincarnation. In that <code>Gita</code> says that a conscious being may take as many births as it takes to convert the information into knowledge. They may also choose different types of physical bodies (for example a lion or a snake) - whatever helps in accomplishment of <code>Yazna</code>; or mutate their own physical bodies under effects of desires.</li>
+<li>An <code>Atma</code> reincarnates till the mystery is solved - all information is turned into knowledge.</li>
+<li>Thus <code>Karm Yoga</code> is the fastest path to realizing “who we are” -  the primary quest of knowledge.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="fish"><sup class="footnote-definition-label">2</sup>
+<p>The story of <code>Uparichara</code> is featured in <a href="https://mahabharata.shutri.com/maha01.html">section 63</a> of <code>Adi Parva</code>, the first book of <code>Mahabharata</code>. The question is why <code>Dvaipayana</code> had such a “flight of fancy” in describing these stories. </p>
+<ul>
+<li>In a world, when only way to pass the wisdom was through “word of mouth”, the most potent way was to use the same narratives that were already prevalent in public imagination for these narratives had stood the test of time. </li>
+<li>You may say, <code>Dvaipayan</code> being a <code>Maharishi</code>, could have spoken the underlying truth. That is exactly what he did when he edited the <code>Vedas</code>. But he realized there were very few who could understand them. Thus in <code>Mahabharata</code> he used the public parables. He wove them in such a fashion that a keen observer may find the truth.</li>
+<li>But then the question is what exactly is the truth (in mass media)? Every consumer (of information) has their own point of view. Even today, the truth of mass media is challenged at every step. People claim <code>Wikipedia</code> has inbuilt biases towards a “woke and cancel” culture. Fox news presents a story in quite an opposite fashion as compared to MSNBC. Let’s not even talk about the “misinformation” on Facebook or the conspiracy theories on youTube. </li>
+<li>And above all, what good a narrative is if it didn’t capture the public imagination? A narrative must pull the reader into it. Lock a place in her mind for good. In that, narratives of Tolkein, with it’s Orcs and Elves, are much better remembered than a run down of history of “middle earth” at Wikipedia. </li>
+<li>The true journalism is in presenting what people (on the ground) describe of a situation — in their own language. And the fact remains, every consumer of media (written or spoken) draw their own inferences from the presented tales or facts. </li>
+<li>This, however, doesn’t mean, “disinformation” isn’t a  problem. In fact argument can be made that only way to fight disinformation is to objectively state the truth of people - their narratives.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="sanskrit"><sup class="footnote-definition-label">3</sup>
+<p>Sanskrit:</p>
+<ul>
+<li>Hard it may appear, but Sanskrit is a poem friendly language because the order of words in a sentence is immaterial to the meaning. The intent stays unchanged whether you use an active or a passive style. This is one reason “Indian English authors” have a hard time in consistent use of active narration. </li>
+<li>Not only such broad reorder (active v/s passive), in Sanskrit you can start with a verb and end the sentence with a subject without impacting the meaning. For example, <code>ahm gachami</code> (I am going), and <code>gachmai ahm</code>, have same meaning, but in English “going am I” has no meaning. Since the rules to use a “word” are so clear (and well defined) that a sentence always carry the same meaning, irrespective of the order of words: this allows poets to easily create a much better rhyme despite stricter rules of rhyme. </li>
+<li>It appears as if the language was designed to speak poetry on the fly. Just the way <code>Sanskrit</code> was a language to speak the poetry; in the “texting” world, the best tool to scribe is stenography or “vi” editor. <a href="https://codedocs.org/what-is/vi">vi</a> was purpose built to write thousands of files of BSD Unix. That makes it most powerful scribing tool despite hundreds of editors that showed up in last thirty years of computing. </li>
+<li>The other cool feature of <code>Sanskrit</code> is sheer absence of helping verbs. If you notice the above example, English used three words for a simple sentence , “I am going” ; whereas Sanskrit used, only two <code>ahm gachami</code>. This not only makes it compact language but again helps in flexible order because there is no rule for helping verb must precede the verb (or else bring the helping verb forward to the beginning of a sentence to make a question) . </li>
+<li>However this means the conjugation scope for the “verb” must be exhaustive. Take a look at conjugation table of a simple Sanskrit verb <a href="https://sanskrit.inria.fr/cgi-bin/SKT/sktconjug.cgi?q=gam;c=1;font=roma"><code>gam</code></a> (go) , versus the same for <a href="https://www.collinsdictionary.com/conjugation/english/go">go</a>. Even if you ignore the “helping verbs”, the available options to express “go” are order of magnitude less in English. </li>
+<li>Given the extensive repertoire of rules, <code>Sanskrit</code> has a steeper learning curve, but once you start thinking in <code>Sanskrit</code>, it is quite possible to speak in poems ! Just the way , once  you get used to <code>vim</code> style scribing , you can never go back to  normal ‘mouse and click’ editor. To sum up this note: <code>Vaidik sanskrit</code> was purpose built for speaking poetry, <code>vi</code> was purpose built for scribing code. And the amazing thing is, these techniques keep reinventing themselves in ever new interfaces. For example Sanskrit finds its expressions in hundreds of spoken languages , <code>vi</code> finds it key bindings in modern editors , browsers, terminals - everywhere you need to scribe.</li>
+</ul>
+<p><lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/></p>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+</div>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mathuraChap05.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="mathuraChap07.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mathuraChap05.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="mathuraChap07.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

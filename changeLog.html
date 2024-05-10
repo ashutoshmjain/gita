@@ -1,0 +1,914 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html" class="active">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'changeLog';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="changelog"><a class="header" href="#changelog">changeLog</a></h1>
+<p>Knowledge always accumulates in granular change. History is tracking changes <sup class="footnote-reference"><a href="#history">1</a></sup> over a time duration for a closed (but living) system. In essence changeLog is history.</p>
+<p>Since this is a living book being written in the “open” <sup class="footnote-reference"><a href="#open">2</a></sup>, a weekly update is released here-below every Friday, with the list of changes. </p>
+<ul>
+<li>If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a “minor edits”. </li>
+<li>More than ten such changes go to the “major edits” category. </li>
+<li>If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. </li>
+<li>If I pretty much restructure  a post or change the theme, it is a “major update”. </li>
+</ul>
+<p>One can always see the granular change history at <a href="https://github.com/ashutoshmjain/gita">GitHub repo</a>.</p>
+<h2 id="may-03-24"><a class="header" href="#may-03-24">May 03, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> 
+<ul>
+<li><a href="./thought.html">Book 1</a> - Major update. Reorganized the chapter ground up for flow, context and readability.</li>
+</ul>
+</li>
+</ul>
+<h2 id="april-26-24"><a class="header" href="#april-26-24">April 26, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - Minor Edits.
+<ul>
+<li><a href="./thought.html">Book 1</a> - Pruned the chapter to 5000 words. From Readability standpoint, 5000 words seem appropriate for a web page. It was turning into a book itself at ten thousand words. </li>
+</ul>
+</li>
+</ul>
+<h2 id="april-19-24"><a class="header" href="#april-19-24">April 19, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - 
+<ul>
+<li><a href="./thought.html">Book 1</a> - Changed the footnote on “code as abstraction of thoughts” 
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a></li>
+<li><a href="./mathuraChap02.html">Reboot</a> - spell check and Grammar. Added two new foot notes.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="april-12-24"><a class="header" href="#april-12-24">April 12, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits. Improved the flow and introduced sections. I guess it is lot more readable now. 
+<ul>
+<li><a href="./thought.html">Book 1</a> - major update - tied together all the sections again. It has gotten bigger than what I had planned for, but it makes sense now. </li>
+</ul>
+</li>
+</ul>
+<h2 id="april-05-24"><a class="header" href="#april-05-24">April 05, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> 
+<ul>
+<li><a href="./thought.html">Book 1</a> - major update - tied the whole chapter into a flow. Aligned the idea of a narrative as an experience and the value exchange as the cost of the cost of experience. 
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits - tightly aligned the chapter with the definitions of the core competencies.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-29-24"><a class="header" href="#march-29-24">March 29, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - minor edits. 
+<ul>
+<li><a href="./thought.html">Book 1</a> - minor update.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits  - spells and grammar. </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-22-24"><a class="header" href="#march-22-24">March 22, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits - improved the opening para.
+<ul>
+<li><a href="./thought.html">Book 1</a> - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits  - started spell and grammar check.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-15-24"><a class="header" href="#march-15-24">March 15, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits - mostly spells and grammar.
+<ul>
+<li><a href="./thought.html">Book 1</a> - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little about knowledge verses information. Leading to Karma via dive in ..</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-08-24"><a class="header" href="#march-08-24">March 08, 24</a></h2>
+<ul>
+<li>[Mathura]
+<ul>
+<li><a href="./thought.html">Book 1</a> - major updates - Finally pretty close to what I wanted to cover .. Few more cosmetics may follow !</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-01-24"><a class="header" href="#march-01-24">March 01, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - minor edits.
+<ul>
+<li><a href="./thought.html">Book 1</a> - major updates. </li>
+</ul>
+</li>
+</ul>
+<h2 id="feb-25-24"><a class="header" href="#feb-25-24">Feb 25, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap08.html">Book 2</a> 
+<ul>
+<li><a href="./mathuraChap10.html">Identity</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="feb-16-24"><a class="header" href="#feb-16-24">Feb 16, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits
+<ul>
+<li><a href="./thought.html">Book 1</a> - major updates. </li>
+<li><a href="./mathuraChap08.html">Book 2</a> - major edits.
+<ul>
+<li><a href="./mathuraChap09.html">Birth</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="feb-09-24"><a class="header" href="#feb-09-24">Feb 09, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> 
+<ul>
+<li><a href="./thought.html">Book 1</a> 
+<ul>
+<li><a href="./mathuraChap05.html">Island</a> - major edits.</li>
+<li><a href="./mathuraChap06.html">Naive</a> - major  edits.</li>
+<li><a href="./mathuraChap07.html">Resolution</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="feb-02-24"><a class="header" href="#feb-02-24">Feb 02, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - minor edits. 
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - minor edits.</li>
+<li><a href="./mathuraChap02.html">Reboot</a> - minor edits.</li>
+<li><a href="./mathuraChap03.html">Expression</a> - major edits.</li>
+<li><a href="./mathuraChap04.html">Righteous</a> - major update.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-26-24"><a class="header" href="#jan-26-24">Jan 26, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits.</li>
+<li><a href="./mathuraChap02.html">Reboot</a> - major edits.</li>
+<li><a href="./mathuraChap03.html">Expression</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-19-24"><a class="header" href="#jan-19-24">Jan 19, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major update
+<ul>
+<li><a href="./thought.html">Book 1</a> - major update.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - minor edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-12-24"><a class="header" href="#jan-12-24">Jan 12, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits.</li>
+<li><a href="./mathuraChap02.html">Reboot</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-05-24"><a class="header" href="#jan-05-24">Jan 05, 24</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits.
+<ul>
+<li><a href="./mathuraChap08.html">Book 2</a>  - major update.</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-29-23"><a class="header" href="#dec-29-23">Dec 29, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - minor edits.
+<ul>
+<li><a href="./mathuraChap08.html">Book 2</a> 
+<ul>
+<li><a href="./mathuraChap11.html">Eight-fold</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-22-23"><a class="header" href="#dec-22-23">Dec 22, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap08.html">Book 2</a> 
+<ul>
+<li><a href="./mathuraChap09.html">Birth</a> - major edits.</li>
+<li><a href="./mathuraChap10.html">Identity</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-15-23"><a class="header" href="#dec-15-23">Dec 15, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - minor edit.
+<ul>
+<li><a href="./thought.html">Book 1</a>
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - minor edits.</li>
+<li><a href="./mathuraChap04.html">Righteous</a> - minor edits.</li>
+<li><a href="./mathuraChap05.html">Island</a> - major edits.</li>
+<li><a href="./mathuraChap06.html">Naive</a> - major edits.</li>
+<li><a href="./mathuraChap07.html">Resolution</a> - major edits.</li>
+</ul>
+</li>
+<li><a href="./mathuraChap08.html">Book 2</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-08-23"><a class="header" href="#dec-08-23">Dec 08, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits.
+<ul>
+<li><a href="./thought.html">Book 1</a> - minor edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits.</li>
+<li><a href="./mathuraChap02.html">Reboot</a> - major edits.</li>
+<li><a href="./mathuraChap03.html">Expression</a> - major edits.</li>
+<li><a href="./mathuraChap04.html">Righteous</a> - major edits.</li>
+<li><a href="./mathuraChap05.html">Island</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-01-23"><a class="header" href="#dec-01-23">Dec 01, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits.
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits.</li>
+<li><a href="./mathuraChap02.html">Reboot</a> - major edits.</li>
+<li><a href="./mathuraChap03.html">Expression</a> - major edits.</li>
+<li><a href="./mathuraChap04.html">Righteous</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="nov-24-23"><a class="header" href="#nov-24-23">Nov 24, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major edits.
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="nov-17-23"><a class="header" href="#nov-17-23">Nov 17, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - major update - aligned the monetary system units and measures of <code>Vaidik</code> times.
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major update</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="nov-10-23"><a class="header" href="#nov-10-23">Nov 10, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Book 1</a> - major edits.
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="nov-03-23"><a class="header" href="#nov-03-23">Nov 03, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Book 1</a> - Edited the chapter from readability standpoint. Hopefully better flow and tighter conceptualization. Added a new note (number 3).</li>
+</ul>
+</li>
+</ul>
+<h2 id="oct-27-23"><a class="header" href="#oct-27-23">Oct 27, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Book 1</a> - Major update - Lots of work on describing “information” verses “knowledge” in second section. Improved relevant footnotes.</li>
+</ul>
+</li>
+</ul>
+<h2 id="oct-20-23"><a class="header" href="#oct-20-23">Oct 20, 23</a></h2>
+<p>Reorganized the text a little to carve out eight chapters per book and to avoid repetition of the text on cover pages.</p>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - New title text that aligns well and explains the name of the book.
+<ul>
+<li><a href="./thought.html">Book 1</a> - Major update . Moved the last section to the landing page. Lots of improvements in second section - the “information store”</li>
+</ul>
+</li>
+</ul>
+<h2 id="sep-30-23"><a class="header" href="#sep-30-23">Sep 30, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>  - Added a Satoshi donation box. Updated the links.
+<ul>
+<li><a href="./mathuraChap13.html">Work</a> -  Minor Edits.</li>
+<li><a href="./mathuraChap14.html">Fate</a> -  Major update.</li>
+<li><a href="./how.html">Readme</a> -  Minor update - added a section on “donations and Tips”. Integrated <a href="https://twentyuno.net">lightning</a> tips to test new payment rails.</li>
+</ul>
+</li>
+</ul>
+<h2 id="sep-22-23"><a class="header" href="#sep-22-23">Sep 22, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap13.html">Work</a> - Major edits.</li>
+<li><a href="./mathuraChap14.html">Night</a> - Major update.</li>
+</ul>
+</li>
+</ul>
+<h2 id="sep-15-23"><a class="header" href="#sep-15-23">Sep 15, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap08.html">Proposal</a> - Minor edits</li>
+<li><a href="./mathuraChap09.html">Birth</a> - Minor edits.</li>
+<li><a href="./mathuraChap10.html">Identity</a> - Major edits.</li>
+<li><a href="./mathuraChap11.html">Eight-fold</a> - Almost rewrote the chapter.</li>
+<li><a href="./mathuraChap12.html">Currency</a> - Almost rewrote the chapter.</li>
+<li><a href="./mathuraChap13.html">Work</a> - Almost rewrote the chapter. Still pending full review.</li>
+<li><a href="./mathuraChap14.html">Night</a> - Almost rewrote the chapter. Still WIP.</li>
+</ul>
+</li>
+</ul>
+<h2 id="sep-01-23"><a class="header" href="#sep-01-23">Sep 01, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap13.html">Work</a> - Major edits. Added the introduction. </li>
+<li><a href="./bhagvadGita.html">Bhagavad Gita</a> - Formatted chapter 9 and 10.</li>
+</ul>
+</li>
+</ul>
+<h2 id="august-25-23"><a class="header" href="#august-25-23">August 25, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>  - Split the narrative in two books. Book one - the base narrative of the beginning of civilization and Book two to draw a comparison with the current world. 
+<ul>
+<li><a href="./thought.html">Invocation</a> - minor edit and changed first two footnotes.</li>
+<li><a href="./mathuraChap01.html">Trigger</a> - minor edit</li>
+<li><a href="./mathuraChap12.html">Currency</a> - Major edits. Almost rewrote the entire chapter.</li>
+</ul>
+</li>
+</ul>
+<h2 id="august-17-23"><a class="header" href="#august-17-23">August 17, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>  - Painted white on Ganesha pic with yellow background showing up in the background.
+<ul>
+<li><a href="./mathuraChap08.html">Proposal</a> - minor edit</li>
+<li><a href="./mathuraChap09.html">Birth</a> - minor edit</li>
+<li><a href="./mathuraChap10.html">Identity</a> - minor edits.</li>
+<li><a href="./mathuraChap11.html">Eight-fold</a> - Almost rewrote the chapter to bring in a parallel narrative that is taking place in near future. The challenges were pretty similar to the times of <code>Krishna</code> and <code>Arjuna</code> ..</li>
+</ul>
+</li>
+</ul>
+<h2 id="july-28-23"><a class="header" href="#july-28-23">July 28, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> 
+<ul>
+<li><a href="./mathuraChap10.html">Identity</a> - Changed the name of the chapter and reimagined the content in the light of new title. Major changes .. </li>
+</ul>
+</li>
+</ul>
+<h2 id="july-21-23"><a class="header" href="#july-21-23">July 21, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> 
+<ul>
+<li><a href="./mathuraChap09.html">Birth</a> - Turned the chapter introduction into a story - continuation from the last chapter. Experimenting with mixing two narratives - An observer and another being observed. </li>
+</ul>
+</li>
+</ul>
+<h2 id="july-13-23"><a class="header" href="#july-13-23">July 13, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> 
+<ul>
+<li><a href="./mathuraChap09.html">Birth</a> - General Edits. Created sections. Added introduction.</li>
+</ul>
+</li>
+</ul>
+<h2 id="july-7-23"><a class="header" href="#july-7-23">July 7, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - Finally found the text that could go on the landing page. It is same as introduction to chapter 8 but made sense to start the book of Mathura as well.
+<ul>
+<li><a href="./mathuraChap08.html">Proposal</a> - General Edits. Created sections. Added introduction.</li>
+</ul>
+</li>
+</ul>
+<h2 id="july-1-23"><a class="header" href="#july-1-23">July 1, 23</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap06.html">Naive</a> - General Edits. Created sections. </li>
+<li><a href="./mathuraChap07.html">Resolution</a> - Added the introduction paras. General edits and sections </li>
+</ul>
+</li>
+</ul>
+<h2 id="june-23-23"><a class="header" href="#june-23-23">June 23, 23</a></h2>
+<p>Restored the Mahabharata landing page. It seems the page was deleted with other Mahabharata files. Moved the development work to Android. Samsung Galaxy Tab S7 FE. The terminal experience on Android has improved a lot with Termux though the sad part is Google has removed Termux from the app store. Needed to install F Droid to get the terminal going. Tried out installing Debian Andronix as well as with userLand but all I needed was old and time tested Termux with a Zook bluetooth Fingerpad.</p>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap05.html">Island</a> - General Edits. Reshaped the introduction to meet with the content.</li>
+<li><a href="./mathuraChap06.html">Naive</a> - General Edits. Reshaped introduction and added a footnote.</li>
+</ul>
+</li>
+</ul>
+<h2 id="june-16-23"><a class="header" href="#june-16-23">June 16, 23</a></h2>
+<p>Trying to get a hold of the narrative after a month-long gap due to my daughter’s wedding (which was fun and prolly lot more important than this:-)</p>
+<p>In addition to general edits, got a third person view of these chapters when I started reading them again after a gap. Some of the changes I made were only possible if I emptied out my cache memory. A writer must take a break and read his work again to see things purely from a reader’s perspective. Hope these chapters would make better sense now !</p>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Invocation</a> - General Edits</li>
+<li><a href="./mathuraChap01.html">Mishap</a> - General Edits</li>
+<li><a href="./mathuraChap02.html">Reboot</a> - General Edits</li>
+<li><a href="./mathuraChap03.html">Expression</a> - General Edits</li>
+<li><a href="./mathuraChap04.html">Righteous</a> - General Edits</li>
+</ul>
+</li>
+</ul>
+<h2 id="may-19-23---friday"><a class="header" href="#may-19-23---friday">May 19, 23 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap01.html">Trigger</a> - General Edits </li>
+</ul>
+</li>
+</ul>
+<h2 id="may-12-23---friday"><a class="header" href="#may-12-23---friday">May 12, 23 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./how.html">readme</a> - General Edits <sup class="footnote-reference"><a href="#edits">3</a></sup>.</li>
+<li><a href="./thought.html">Invocation</a> - General Edits <sup class="footnote-reference"><a href="#edits">3</a></sup></li>
+</ul>
+</li>
+</ul>
+<h2 id="may-05-23---friday"><a class="header" href="#may-05-23---friday">May 05, 23 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - General stuff around the website. Fixed the whatsapp link. Changed the Favicon to a “Trefoil” knot.
+<ul>
+<li><a href="./how.html">readme</a> - General Edits. Added a footnote on the mission. </li>
+<li><a href="./changeLog.html">changeLog</a> - General Edits. Added two footnotes.</li>
+</ul>
+</li>
+</ul>
+<h2 id="april-27-23---friday"><a class="header" href="#april-27-23---friday">April 27, 23 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - Working on kinda final Edit round for the first five chapters. Could get through first four. Lots of clarity in ideas. Tweaks in the intro texts. And connections through the page so that it brings in a flow.
+<ul>
+<li><a href="./thought.html">Invocation</a> - General Edits <sup class="footnote-reference"><a href="#edits">3</a></sup></li>
+<li><a href="./mathuraChap01.html">Trigger</a> - General Edits </li>
+<li><a href="./mathuraChap02.html">Reboot</a> - General Edits</li>
+<li><a href="./mathuraChap03.html">Expression</a> -  General Edits </li>
+</ul>
+</li>
+</ul>
+<h2 id="april-21-2023---friday"><a class="header" href="#april-21-2023---friday">April 21, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Invocation</a> - Improved the tone of title entry and general edits.</li>
+<li><a href="./mathuraChap01.html">Mishap</a> - Changed title name to reflect better alignment with the chapter content. General Edits.</li>
+</ul>
+</li>
+</ul>
+<h2 id="april-14-2023---friday"><a class="header" href="#april-14-2023---friday">April 14, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap05.html">Island</a> - major edits.</li>
+</ul>
+</li>
+</ul>
+<h2 id="april-07-2023---friday"><a class="header" href="#april-07-2023---friday">April 07, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap04.html">Righteous</a> - Almost rewrote the chapter keeping the story line intact.</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-29-2023---friday"><a class="header" href="#march-29-2023---friday">March 29, 2023 - Friday</a></h2>
+<p>Added title lines to following chapters and created sections to improve readability, clear conception of ideas and to help improve in application search features. </p>
+<p>Bound first four chapters with the overarching idea that the conflict is not between the old and the new. It is always amongst many possibilities of new.</p>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Invocation</a></li>
+<li><a href="./mathuraChap01.html">Mishap</a> </li>
+<li><a href="./mathuraChap02.html">Reboot</a> </li>
+<li><a href="./mathuraChap02.html">Expression</a> </li>
+</ul>
+</li>
+</ul>
+<h2 id="march-24-2023---friday"><a class="header" href="#march-24-2023---friday">March 24, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Prologue</a> - More changes to tightly align the ideas and improve readability.</li>
+<li><a href="./mathuraChap01.html">The Mishap</a> - More changes to tightly align the ideas and improve readability.</li>
+</ul>
+</li>
+</ul>
+<h2 id="march-10-2023---friday"><a class="header" href="#march-10-2023---friday">March 10, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./thought.html">Prologue</a> - Major update.</li>
+<li><a href="./mathuraChap01.html">The Mishap</a> - Major update</li>
+</ul>
+</li>
+</ul>
+<h2 id="feb-3-2023---friday"><a class="header" href="#feb-3-2023---friday">Feb 3, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap16.html">Pledge</a> - Edits and updates.</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-27-23---friday"><a class="header" href="#jan-27-23---friday">Jan 27, 23 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap16.html">Pledge</a> - New chapter</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-20-23---friday"><a class="header" href="#jan-20-23---friday">Jan 20, 23 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap03.html">Expression</a> - changed the title and added a summary para on top.</li>
+<li><a href="./mathuraChap06.html">Naive</a> -  changed the title and added a summary para on top.</li>
+<li><a href="./mathuraChap15.html">Fate</a> - new chapter</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-13-23---friday-"><a class="header" href="#jan-13-23---friday-">Jan 13, 23 - Friday ..</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - Added short-link  to whatsApp business account.
+<ul>
+<li><a href="./how.html">Readme</a>- Added contact </li>
+<li><a href="./mathuraChap10.html">Return</a>- General edits to fix the flow and timeline</li>
+<li><a href="./mathuraChap13.html">Meeting</a> - New Chapter.</li>
+<li><a href="./mathuraChap14.html">Truth</a> - New chapter</li>
+</ul>
+</li>
+</ul>
+<h2 id="jan-06-2023---friday"><a class="header" href="#jan-06-2023---friday">Jan 06, 2023 - Friday</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap11.html">Rivers</a>- General edits.</li>
+<li><a href="./mathuraChap12.html">Desire</a> - Carved out a new chapter from the WIP content.</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-29-2022"><a class="header" href="#dec-29-2022">Dec 29, 2022</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./mathuraChap09.html">Birth</a> 
+<ul>
+<li>Review and general edits. </li>
+<li>Initiated story of <code>Kansa</code> as a new section. Introduced <code>Vasudev and Devki</code>.</li>
+</ul>
+</li>
+<li><a href="./mathuraChap10.html">Return</a>
+<ul>
+<li>Review and general edits. </li>
+<li>Added a new section - divine announcement</li>
+</ul>
+</li>
+<li><a href="./mathuraChap11.html">Rivers</a> - Carved out this new chapter from the “WIP”. </li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-22"><a class="header" href="#dec-22">Dec 22.</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a>
+<ul>
+<li><a href="./how.html">How to read this book</a>
+<ul>
+<li>Substituted “footnotes” with “research and notes” as the later title seems more appropriate.</li>
+<li>Added a new screenshot for search to align the graphic with above idea.</li>
+</ul>
+</li>
+<li><a href="./mathuraChap06.html">The Naive Question</a> 
+<ul>
+<li>General edits.</li>
+<li>Added a note on “narratives and stories” and why did <code>Dvaipayana</code> chose to include descriptions that were prevalent in public discourse rather than scribing underlying truth.</li>
+<li>Added the note on <code>Sanskrit</code>.</li>
+</ul>
+</li>
+<li><a href="./mathuraChap07.html">The Resolution</a>
+<ul>
+<li>General edits.</li>
+</ul>
+</li>
+<li><a href="./mathuraChap08.html">Proposal and the Plan</a>
+<ul>
+<li>General edits.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="./mahabharataLanding.html">Mahabharata</a>
+<ul>
+<li>Added excerpt of KMG’s preface and from his Wikipedia page. </li>
+<li>Added a paragraph on Mahabharata.</li>
+</ul>
+</li>
+<li><a href="https://github.com/ashutoshmjain/maholvi">Theme</a>
+<ul>
+<li>Added a yellow grains background image to give the main body a slightly rougher look</li>
+</ul>
+</li>
+</ul>
+<h2 id="dec-15-22"><a class="header" href="#dec-15-22">Dec 15, 22</a></h2>
+<ul>
+<li><a href="./mathuraLanding.html">Mathura</a> - Added licence to copyright mark. Added page links.
+<ul>
+<li><a href="./how.html">How to read this book</a> - Added sections on search , style and license.</li>
+<li><a href="./thought.html">Prologue</a> - General Edits <sup class="footnote-reference"><a href="#edits">3</a></sup> and Footnotes title</li>
+<li><a href="./mathuraChap01.html">The Mishap</a> - General Edits and Footnotes title</li>
+<li><a href="./mathuraChap02.html">Reboot</a>General Edits and Footnotes title</li>
+<li><a href="./mathuraChap03.html">Recital v/s Writing</a> -  General Edits and Footnotes title</li>
+<li><a href="./mathuraChap04.html">The Question</a> - General Edits</li>
+<li><a href="./mathuraChap05.html">The Island</a>- General edits.</li>
+</ul>
+</li>
+<li><a href="./mahabharataLanding.html">Mahabharata</a> 
+<ul>
+<li>Added the move notice. </li>
+<li>Configured new subdomain at “Go Daddy” </li>
+<li>configured GitHub pages for the https://mahabharata.shutri.com</li>
+<li>Custom styling and published mdbook to new sub-doamin.</li>
+</ul>
+</li>
+<li><a href="./changeLog.html">changeLog</a> - Started maintaining a change log.</li>
+</ul>
+<h3 id="notes-and-stuff"><a class="header" href="#notes-and-stuff">notes and stuff</a></h3>
+<hr />
+<div class="footnote-definition" id="history"><sup class="footnote-definition-label">1</sup>
+<p>Knowledge is deep understanding of the history. Be it a project, a book or a product. The final copy (with a small training manual) is mere manifestation of the knowledge. The knowledge is encrypted with in that final shape as the history of all the changes - of the ideas, of the code or the people.  For example, what you are reading is just an online document, the history of this book is in the thousands of commits on the GitHub. The knowledge is “encrypted” because there is no way to document the rationale of all the changes that go into creation of the final shape. Even if someone documented all the changes, it is almost impossible to read, understand and appreciate the sequential changes. The iterative rigor to reach a final shape is <code>Karma</code>. In essence knowledge gets encrypted through <code>Karma</code> or in other words <code>Karma</code> is what leads to manifestation -  hiding (or binding) the knowledge to a final shape. What we get from the “manifested” product is only “information”. Information may inspire or distract, but it is not knowledge. Thus even after reading a book or even after using a product, the consumer only gets the information. Knowledge needs close association or active participation in the process of creation. A well crafted “changelog” is thus the starting point for “knowledge” seekers.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="open"><sup class="footnote-definition-label">2</sup>
+<p>“Open” is kinda misnomer because best way to hide something is to keep it in the open :-) In any case humans are incapable of noticing granular changes. While the final document is meant for humans to read and enjoy the knowledge (changeLog) is meant to guide train the AI.</p>
+</div>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mahabharataLanding.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="how.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mahabharataLanding.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="how.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

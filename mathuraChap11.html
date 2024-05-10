@@ -1,0 +1,415 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html" class="active">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Eight-fold';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>It was late morning when Fairy woke up. Angel was still sleeping though he was expected to be at work by noon. She came down to make coffee to find her friend grinding the beans. Waking up to the smell of ground coffee always brought unique pleasure to her.</p>
+<p>When did you wake up? - asked Fairy. She had insisted her friend to stay back last night. It was well past midnight when they reached home and thereafter both of them kept talking about <code>Matsya</code>. Angel had almost passed out on the steering wheel, but for  the constant reminders to keep his eyes open - that included mist spray on the face. And as soon as the car announced the arrival, he quietly slipped into his bedroom. The Friend could have gone back to her place. It was only a ten minutes flight for her new flying machine, but commute was on hold from one am to four am - some random offline air traffic update.</p>
+<p>Before the friend could respond they heard Angel stepping in  - Good morning everyone - hope you two slept well!</p>
+<p>Fairy responded “huh” with a smile - I was dreaming about <code>Matsya</code>! Can’t wait to find what was her mission!</p>
+<p>If we had the link, we had watched the next episode last night itself - laughed the Friend pouring over black coffee in three mugs - we were anyway chatting about our heroine till two am !</p>
+<p>Um - we don’t have the next episode up yet - said the Angel - and before you figure out next of <code>Matsya</code>, you need to check out the story of <code>Ganga</code> and <code>Shantnu</code>. He waited for a bit looking for a facial response - and I know only outline - half the story - the “Wikipedia” stuff!</p>
+<p>That is such a bummer - complained the Friend. There must be a way to get hold of the complete narrative - with story as it happened, and the context. </p>
+<p>To really understand the context, you will need to see my Mentor - Angel said with an apology in his eyes and smile on his lips - he is trying to create these visuals  - and that too without using any graphics AI! That’s how I ended up creating the one you saw - to help him out!</p>
+<p>Wow, who renders graphics without AI these days! - asked the Friend - can we Zoom in with him? Is he an old times artist?</p>
+<p>No - Angel had one answer for both the questions - in Summer, he is normally off the grid. It is only 20 mins flight though - I can schedule you guys if you wanna go see him at Lake Tahoe - and he was into cryptography before he quit to travel East.</p>
+<p>Will you join us? - Fairy interjected.</p>
+<p>I wish, but I am gone for a week - he paused - not hiding he hated his job! The worst part - he was not allowed to share his work with his partner - much less with her friends. In a way, it was good - he thought - how could he tell he was the lead on “harvest-honey” program!  The “engineered” bees did produce 5x but in third generative cycle they turned 10x poisonous - an unintended consequence! The nature demanded - if you have more, you must equip yourself even more to protect it. If the woke media got a hint, his career was on the line, but he was more worrisome of the loathing he was sure to get from his own circle - “Fairy”, in particular. </p>
+<p>To be fair to the corporate - they did have a good cause - to support the growing demand of honey! And of course make some money in the process. Is that a bad thing? - he wondered?  Cane sugars were proven death for diabetics - a glycemic index touching 80. Compare that to honey at 50. Science was clear that honey in moderation was fine for diabetes pandemic that affected almost seventy percent of the population. And they did have strict controls to hive only in deep forests - where no man had ever gone -  at least in last ten years - zero human footprint. One of the reason he was allowed to fly long into the woods without filing his tracks.</p>
+<p>To his good luck, the last episode didn’t get much attention even though Fairy, unaware of the situation, posted about it. How could he save the man? The rescue attempt, he was sure, had the Fairy killed at a single sting. She didn’t have the patched genes active - a protection against the poison. Even though he knew, a program that killed a single human, was likely to be shut down - pursue only till “one human death” was the rule - yet he let a human die to save Fairy. </p>
+<p>The lost life was attributed to the forest fire. The identification was impossible for the there was hardly anything left in over-burnt ashes - even the bees had died. The first thing he did after the incident was to remove the spot location from department database. Fortunately there was no entry on the public ledger - he thought - an anomaly but a regular practice in cutting edge biotech. The argument was to save the life altering technology from the bad actors. Somewhat like the conundrum that <code>Parāśara</code> faced - to share the wisdom with <code>Asuras</code> or not. The Angel understood the argument on both the sides but what is the right way - he still didn’t know !</p>
+<p>At the end, he was happy he prioritized love over work - and probably that was the good <code>Karma</code> helping him out. The narrative came in handy - he thought - not only at the time of the incident when he could convince Fairy for an exit, but even her best friend was keen on the story. He wished she never asked questions about the real incident. Lying was not his strong suite! And he did try to rescue the man - at least gave him an offer that the man disrespectfully declined. He wasn’t sure if the argument absolved him from the sin but it afforded him comfort to live with himself.</p>
+<p>If you can’t find half a day open for a week, we had rather go today ? - his train of thoughts was interrupted by Fairy - It’s been a while I went to the lake - she said after mulling over her calendar, and also looking at her Friend if she was fine to fly at no notice! And she saw a “yes” in her eyes - I am pretty open today till an evening dinner - the Friend said peeking over her watch and I don’t need to file a request if I am flying away from San Francisco. She never missed sharing unnecessary details when it came to the flying cars!</p>
+<p>Sure, let me check and I will drop a note from my commute. Do check with him his theory on Prime Numbers. He is a <code>Guru</code> on public key cryptography. I too want to understand that piece - Angel was gone with a mug of coffee in his hand and toast in his mouth - busy life of the affluent!</p>
+<hr />
+<p>The flight to the lake was pleasant. There was still some snow on the peaks but otherwise the green sheet of trees circling white water looked pretty from five thousand feet. They got the first feel of cold air when they stepped out of the chariot. 63 degrees felt like 53. They had landed in front of a small house and they found an old man open the door as they were about to knock. </p>
+<p>He must have seen the notification of an unknown car landing on his porch - they assumed, though the old man had no security cams. Angel had called him on his landline. He wanted to make sure the Mentor wasn’t asleep because the old man loved to have long after meal nap from before the times Angel met him -  almost twenty years back. Some people don’t change - he smiled - as he waited for for the Mentor to pick up the chorded land line - who uses the chord these days of star linked communication! - he wondered not knowing that the resistance had secured a chorded peer to peer network beyond the “watch” of central intelligence in lieu of acceding to unspoken agreement -  “till one human death”. The angel was not sure if the Mentor was active member of the “Resistance” but he was aware that he had spread on both sides of the fence. He had friends in the “dark” and the “white” and many times he had brokered high value agreements.</p>
+<hr />
+<p>Would you like some tea - Mentor asked - pointing them to the chairs in front of his table in rather large study room just by the entrance.</p>
+<p>The room had a big table almost eight feet wide -  fully covered with at least two layers of books. There was an old desktop station touching the wall behind his chair. And his chair seemed like a century old. There was smell of old books oozing from the side shelves that went as high as the high ceiling.</p>
+<p>Angel said you two want to create a scene from <code>Ganga's</code> story in the new machines - he looked at his old desktop that was probably a 32 bit computer from late nineties incapable of running the slightest of modern graphics. The dark terminal was reminiscent of Fortran era.</p>
+<p>The Friend was surprised. She did have the creative skills but she didn’t know she was being recruited. She looked at the Fairy. The look on Fairy’s face told her she didn’t read the full note from Angel. Apparently, she just noted the location (and time) to pass on the coordinates to the flying machine.</p>
+<p>The Fairy looked at her phone again as the Mentor disappeared to a small kitchenette in the living room - to get them the tea. And she handed over the phone to the Friend. The message clearly read that the Mentor was willing to see them if they were okay doing a small animated sequence. To Angel’s mind, it was a win win. </p>
+<p>Talk about communication! - the Friend spoke with a whim on her face, as she handed the phone back to the Fairy - Okay but I don’t know how long would it take. And I have never done a historical narrative before! </p>
+<p>Yes - they both said as they found the Mentor carrying back a kettle of tea with freshly baked cookies. The aroma of cookies mixed with the smell of old books just felt right for a “yes”. And of course the view of the snow covered peaks from the large window at their back - btw Angel said to start from your theory on the Prime Numbers if that is relevant to the narrative .. </p>
+<p>Oh sure - it is actually not a theory - some people try to give undue credit - humility reflected in his voice -  and it is not that hard either - said the mentor as he poured them tea and settled in his old chair, but I do need to know how much you two know about the “Primes” - He was courteous and his intent was to not waste their time in the basics.</p>
+<p>The prime numbers, as you know are something that can’t be divided by anything other than themselves - and of course by the number “1” - said the Fairy - and that is all I know about them except that they keep on finding new primes almost every day. And btw she read all about asymmetric cryptography while I was looking at the beautiful snow covered peaks - she looked at her friend with a cunning smile!</p>
+<p>There are billions of them already known and they say there exist infinite Primes - added the Friend - their biggest use is in crypto - to hide the things or to make them truly public - and I am nowhere close to being even a novice in this area. She knew she was thrown under the bus - first by Angel and now by Fairy but she also knew they both loved her.</p>
+<p>Mentor was pleased that he was spared from the definitions - Don’t worry. We are not talking crypto here. And that was long time back when I wrote few libraries - he paused to clear up the crypto smoke - So what is “1”, is it a Prime ?  He asked to get the conversation started.</p>
+<p>Well technically yes - replied the Friend - though it is not counted as one because of some theorem I forgot the name - She was already getting comfortable in this conversation.</p>
+<p>You are right. The good reason for “1” not being considered prime is the fundamental theorem of arithmetic, which states that every number can be written as a product of primes in exactly one way. If “1” were prime, we would lose that uniqueness. We could write 2 as 1×2, or 1×1×2, or 1^594827×2. Excluding “1” from the primes smooths that out. If you want to know more I will have you read this <a href="https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/">article</a>. May I have your email Ids - He asked turning back to his terminal to send the link to both of them and took a break for dogs’ treat-time. </p>
+<p>He had two big white huskies that looked like wolves but behaved like cats. They hadn’t even moved from their sofa in the living room since they both arrived - so unlike dogs - the Friend told Fairy. But she was more surprised that people still sent emails from the command line - she always thought terminal was just a nerdy way to install packages!</p>
+<p>Walking back in about ten minutes later - The strangest thing about “1” is it looks exactly what we want it to be - for example - “1” book is a book , “1” meter is a meter , “1” home is a home but we can never know what “1” is ! We can never understand the “1” without association to a worldly thing - an “Identity”. As for “2”, we can at least say it is twice the “1” - “ 1 + 1 = 2“ - He smiled. </p>
+<blockquote>
+<p>Other thing that we all know about “1” - it free from multiplier effect. No matter how many times you multiply “1” with itself, it still remains “1”; but same is not true for addition. “1” gets added to the things and it increases the count. Only “0” is free from material additive property. </p>
+<p>Since “Unity” is free from multiplier effect you can have infinite instances of “1” without altering the universe even a tiny bit. It however dictates one rule - no addition is allowed - a universe with singular operation - of multiplication. It also means if you must have addition then all things made with additions must add together to “zero” - they must cancel each other out to zero because “zero” is free from the additive property.</p>
+<p>In a multiplicative universe of “one” infinite instances exist - in an additive world there must be a mirror image - an anti particle to balance it out to just “zero”. The multiplicative world is beyond perception simply because it is infinite - the additive world is perceivable only if mirror images are separated or else there is simply “nothing” - a zero sum game!</p>
+</blockquote>
+<p>The mentor got his flow - Now that we are comfortable with the idea of “zero” and “one”, let’s talk about the primes. The way I like to think about prime numbers is they are the only numbers that exist independently - rest every number is their product. In essence, primes are like scaffoldings that carry “unity” to every other number - including themselves because they are also divisible by “one”. </p>
+<p>Both Fairy and the Friend were trying to wrap their minds around what just passed through their ears. They were getting the sense of it - that Mentor was leading them to a better appreciation of “unity” - but how! </p>
+<p>As if Mentor read their expression - Let me explain it with a simple example. Let’s take a small composite number - say “8”. He thought for a bit - let me draw it for you … </p>
+<p>He said while looking for a pen and paper - the number “8” has prime factors 2 x 2 x 2. We can display it as say the boats docked on a wharf. </p>
+<p><img src="./8.svg" alt="8" /></p>
+<p>Mathematically, you may say that the prime factors of eight are only 2 x 2 x 2 - as such it has nothing to do with number five or number seven - but in order for every single boat to be bear an independent identity on this dock, we used all the primes less than 8.  If you consider each prime as a unique prop, the number “8” has all the pre-existing scaffolds - for lack of a better word! - smiled the Mentor.</p>
+<p>Very interesting - said the Fairy - I never thought it in this light but it makes sense!</p>
+<p>In my field, I had say that it is a multilayered “one way function” - responded the Mentor - if “unity” was a text message , every one of those eight boats encrypt that message in a unique way. In that every leaf on a tree is uniquely identifiable but it hold with in it the same one knowledge.</p>
+<p>Wow, that was quite a punch line - thought the Friend but out loud she spoke - But then how this number theory related to the story of <code>Ganga</code> and <code>Shantanu</code>?</p>
+<p>Good that you didn’t ask me how to decrypt this natural “trapdoor <sup class="footnote-reference"><a href="#trap">1</a></sup> “ - for no one knows that - the Mentor smiled -  as for <code>Ganga</code>, I think she  understood the significance of Eight. Though she probably didn’t think it in terms of numbers. She learnt it through real experience of rivers.  She noticed four rivers tied up eight frozen lakes (glaciers) - he paused for a second - it will be easy if you see this map. He removed many layers of books from the table to spread a big old map of <code>Gangotri region</code> - the birth place of Ganges.</p>
+<p><img src="./ganga.svg" alt="Ganga" /></p>
+<p>In a way, the identity of Ganges was the entire glacial region that she could access as eight frozen water falls (glaciers) and the purpose of Ganges - she thought -  was to unite the knowledge of their existence into one. Ganges brought mountains (her home) to the plains through a primal scheme and to <code>Ganga</code> that schema was auspicious. Later, modern geologists marvel at this scheme in the sense such a vast glacier system ultimately manifests into just “one” perennial mega-river. Just like the locals, they too see the magic of God’s gift. </p>
+<p>Keep in mind the glacier is retreating almost two miles per century. I spent quite some time in this place - the locals told me every few years a new stream is formed and others vanish because of glacial motion. That is the reason you see many more tributaries now spread around the main rivers in 100 to 150 miles range.</p>
+<p>The lunch was a light chit chat. During the discussion, he fired a print command - old dot matrix printer sitting by the desktop started whirring. He grabbed two copies of printed pages. Handing over one to each, he  said - here, I wrote down the story of <code>Ganga and Shantanu</code> thinking you will need some sort of document to build your scenes. </p>
+<p>They both quickly glanced at the sheets, chewing their Pizzas. </p>
+<p>You can read it on your flight back. For now I suggest you two go around the lake for this beautiful day is not to be wasted listening to an old-man. I have given quite a bit of geography to let you better visualize the locale.  Rest is your creativity - he smiled.</p>
+<h1 id="ashtdha---eight-fold-"><a class="header" href="#ashtdha---eight-fold-"><code>Ashtdha</code> - Eight Fold ..</a></h1>
+<p>The other side of the river <code>Yamuna</code> belonged to the empire. <code>Shantanu</code> — A king known for his justice, wealth and valor in the lineage of even bigger names. His empire was primarily spread between rivers <code>Yamuna</code>, <code>Sarswati</code> and <code>Ganges</code>. On the north it reached the peaks of <code>Himalayas</code> that protected it’s border like a wall of snow, and also a perennial source of fresh water to all the rivers and hundreds of tributaries that joined them to form a complex mesh of <code>Ganges-Yamuna</code> river system.</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png" alt="kuruRivers" /></p>
+<p>In the absence of freeways, most big cities shaped up along the rivers, including <code>Hastinapur</code> — the capital city of <code>Shantanu</code>. In addition to pure water, the river system served as the primary transport layer. Wood, Weapons, and Produce, moved through the rivers. In other words, the river system was the lifeline of this empire. King had built large wooden floaters that were used to carry rice and wheat downstream, and were taken over for moving military supplies during the war-times. It was easy to move the things down-stream but upstream traffic was still a mystery. Many times they used elephants to move the cargo upstream but in deeper stretches it was hard. Nevertheless, the elephants and their owners were important part of lumber and grain movement.</p>
+<p>And there was another problem. Rampant floods made living near the rivers a major risk. There was a need to make sure water stayed in the rivers. While there were many rituals designed to appease the Gods of rain, people were figuring out means to deepen the rivers, particularly in stretches where the depth was shallow and thus rivers used to spread in miles. Though most of their efforts lacked the top down planning and also innovation of tools. No one had made it a mission of their lives.</p>
+<p>As the king circled right of the middle age, he got interested in music, religion and philosophy. Expansion of his kingdom dropped off the priority. He wanted his people safe, well-fed and well taken care.  Luckily, his son, <code>Devvrata</code> was even more prudent in managing the vast province. In addition to being a warrior par excellence, he brought primal understanding of the water ways. He developed the signalling system with pigeon points located along the river banks — to serve as early warning system for the floods. He had his large teams of soldiers and craftsmen build the wooden bridges, transport jetties, docks, dams and water locks. </p>
+<p>This deep knowledge of the rivers made him popular. People started calling him <code>Ganga-putra</code> — the son of Ganges! The ancient <code>Vaidik</code> system was a matriarchy where able offspring bore the name of their mothers though in this case it was quite appropriate. His work brought prosperity and security to the kingdom never seen before. People said that the skills that <code>Devvrata</code> had, were natural to him because he was son of <code>Ganga</code> (Hindi name for the river Ganges). That was true because name of his ‘human’ mother was <code>Ganga</code> too; though the hyperbole is <code>Ganga</code> (the mother) was a true incarnation of the river itself - literally. </p>
+<p>Even the scripture noted that river <code>Ganges</code> manifested into a beautiful woman called <code>Ganga</code> to bear <code>Devvrata</code> and seven other <code>Vasus</code> - the elemental deities. In <code>Mahabharata</code>, <code>Vasus</code> are considered as eight identities of the manifestation ..</p>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Vasu</th><th style="text-align: left">Meaning</th></tr></thead><tbody>
+<tr><td style="text-align: left">Dhara</td><td style="text-align: left">Earth</td></tr>
+<tr><td style="text-align: left">Aapa</td><td style="text-align: left">Water</td></tr>
+<tr><td style="text-align: left">Anala</td><td style="text-align: left">Fire</td></tr>
+<tr><td style="text-align: left">Anila</td><td style="text-align: left">Wind</td></tr>
+<tr><td style="text-align: left">Pratyusha</td><td style="text-align: left">Sun</td></tr>
+<tr><td style="text-align: left">Prabhasa</td><td style="text-align: left">Sky</td></tr>
+<tr><td style="text-align: left">Dhruva</td><td style="text-align: left">North Star</td></tr>
+</tbody></table>
+</div>
+<blockquote>
+<p>It was believed that the <code>Vasus</code>, long before <code>Kalmashpada</code>, wanted to steal <code>Kaamdhenu</code> - the knowledge of <code>Vasishtha's</code> congregation and were thus cursed to be born as humans.</p>
+</blockquote>
+<h2 id="111"><a class="header" href="#111">11.1</a></h2>
+<hr />
+<p>Just like the pious river, <code>Dev's</code> real mother was born on the peaks of Himalayas — near the birth place of river <code>Ganges</code> — a place called <code>Gangotri</code>. She grew up navigating the rivers in her small kayak — playing and moving fast through the dangerous rapids of Ganges in tall mountains of it’s decent. Her fascination for the water and that for river Ganges,  was such that she used to spend all her time on the river. The local villagers started calling her <code>Ganga</code> — after the name of the river in local dialect. People forgot her real name — not that it mattered anymore, for she was a true embodiment of Ganges — through her actions (<code>Karma</code>)</p>
+<p>As she got into her teens, she and her friends would go on longer voyages in Ganges. Many times for days and weeks. They designed two person Kayaks. They would kayak downstream through rapids and falls, and then carry them back on their shoulders — two persons supporting one Kayak. Climbing the mountains with Kayaks on their backs, used to be painfully long, and arduous — sometimes through the thick uncharted forests. Her dream was to design a boat that could sail upstream. Or something that could sail the boats up without depending on elephants. She didn’t know yet that she was imagining “water-locks” in her teen mind. </p>
+<blockquote>
+<p>Even more cherished dream was to find out how and where ‘Ganges’ ended? She had heard (from travelers) that the mighty river finally met into a vast ocean that could retain water of a thousand rivers! <code>Ganga</code> used to wonder why couldn’t they make an ocean right here in <code>Himalayas</code>, to store the water for irrigation and boating. Little did the young girl know that stopping the water is like stopping the circle of life. And she learnt it as she entered her early youth.  In a way Ganges was a definition of time for her. Her childhood in <code>Gangotri</code> — the origin of the river ; her teens in the upper rapids ; her youth in the flat stretch where the mighty river walked like a gorgeous woman of reason, action, and pride. And she wanted to see  the endless sea to mark the completion of her time! </p>
+</blockquote>
+<p>Longer voyages, and turn to adulthood, made it clear to <code>Ganga</code> that the floods were the biggest problems for common people downstream. In one of her trips, she saw the devastation firsthand, when she and her crew, narrowly escaped the swelling river. The legend says that the real <code>Ganga</code> was born out of that massive swell. They probably meant that the resolve, and the dedication to a singular focus in her life, incarnated out of that flood. Without saying out loud, she started a mission to deepen Ganges wherever it was flattish. She wanted to bound the river with in two banks. Bondage is a prerequisite to manifest - she must have thought.</p>
+<p>Good deeds gain support from the masses. Her crew grew in size and skills. Starting from the very top near the origins, she and her team finally reached the plains — working through one gorge to the next. It was as if she (and her team) shaped a new Ganges. They were welcomed by the local people as they brought skills to deepen a running river. They had designed tools to form a constellation of Kayaks tied to each other with ropes, and then lower a heavy metal harvester to scour the bottom. Many times they recovered valuables, but the business was not risk free. Many died in these pursuits. True to her name, <code>Ganga</code> committed her life to this cause that turned into a long series of semi-engineering projects. The work, however, was not conflict free. Deeper river meant that elephants had even harder time moving the floaters upstream. </p>
+<p>Her work, along with the negative politics of rich cargo movers, got her so popular that the news reached the king <code>Shantanu</code>. He was happy to see people taking on the public works in their hands rather than depending solely on the high priests or the king, but the elephant owners were important for the movement of goods, and they were a major revenue stream for the kingdom. He wanted to settle the disputes himself. In addition, he wanted to see if the tools and boats her team designed could be used to anchor his army, mid-stream, in a fast running river. A definite advantage in war-times.</p>
+<p>He also wanted to lend the official support to the project(s) for the public opinion was with her, NOT the cargo movers. But most importantly he wanted to see <code>Ganga</code> — the woman every one talked about for her courage, charisma and dedication.</p>
+<h2 id="112"><a class="header" href="#112">11.2</a></h2>
+<hr />
+<p>It was love at first sight.</p>
+<p>Being of the age when passion knows no bounds, the King admired <code>Ganga</code> for her altruism and engineering prowess, and she admired the king for his zest to make people’s life better. They talked for hours. She was never tired of detailing her expeditions and he was never tired of listening to her. One fine evening, <code>Shantanu</code> proposed to <code>Ganga</code>. He offered her the first (and the only) queen of the vast empire. </p>
+<p>She had her heart out for the king, but she was dedicated to the cause. Being a queen meant to be stationed at the capital with thousands of chores that come with the crown. Like the river, her flow was unstoppable. She was free, and she wanted to stay that way. </p>
+<p>I don’t want to give up my mission that brought you to me in the first place — she told <code>Shanatnu</code> with love in her eyes and passion in her words —  we may meet here as long as you are willing to see me at <code>Ganges</code> !</p>
+<p>But I can’t stay here for ever. I must attend to my people — said <code>Shantanu</code>, bit confused with <code>Ganga's</code> proposal.</p>
+<p>You may leave as you need to. Your duties as a king, to your people are ever more than our obligations to each other — said <code>Ganga</code> — and come back when you crave for me. </p>
+<blockquote>
+<p>Such an arrangement was not new — there was even a name for it  — <code>Gandhrva Vivah</code> — A marriage among equals with no strings attached.</p>
+</blockquote>
+<p>The counter proposal seemed fair to <code>Shantanu</code> for he was hardly stationed at his capital. And most of the times he was anyway sailing through <code>Ganges</code> or <code>Yamuna</code> - I do need an heir for this vast empire. Someone who has your passion and love for my people - he told <code>Ganga</code> holding both her hands.</p>
+<p><code>Ganga</code> thought for a while - I will give you one and it will be the eighth of our union. An “Identity” for our love. Like the seven colors of the rainbow, the first seven will combine their skills into the youngest. One that would make you proud. And also have a life long commitment to our people. But we will need to go to <code>Bramh-rishi Vasishtha</code> to forge this union. He can ordain a wedding for us such that our bond not only manifest what we want but also sets us free from previous bondages. </p>
+<h2 id="113"><a class="header" href="#113">11.3</a></h2>
+<hr />
+<p><code>Bramh-rishi</code> welcomed both <code>Ganga and Shantanu</code> with his grand son <code>Parasara</code>. He had rebuilt his congregation after attack on <code>kaam-dhenu</code> that took his son <code>Sakti Muni</code> though this was not the first attempt to steal the wealth of people. He recalled eight <code>Vasus</code> (Deities of the fist order) had tried to steal from the congregation whom he had cursed a life of mediocrity. On their pleading guilty and humble appeal for repentance, he blessed them an exit from the curse. They would still take birth like men but their life would be for a purpose bigger than what they could do as Wizards. An attempt to steal knowledge, must be repaid with a lifetime of service to the common man - to whom “knowledge” truly belonged. <code>Bramh-rishi</code> saw <code>Shantanu</code> and <code>Ganga</code> as the best couple to parent the cursed Wizards - to offer them a superior chance at the public service.</p>
+<p><code>Bramh-rishi</code> if I have permission to speak - asked <code>Ganga</code>. Seeing the bearer of primordial knowledge nod, she submitted - we want one of our children to truly represent our bond. And one of them such who could serve the people as much as the King does, and I care. “Able progeny” is the biggest gift a couple could ask - in this case the ask was for the greater good.</p>
+<p><code>Vasishtha</code> was pleased at the good will of the young girl - seven verses to bless your bond into an identity that you seek <code>Ganga</code>. Seven verses - each to serve as a primal joint for this union. Seven of your sons will shine as as seven colors of the rainbow. Together they would blossom into eighth who would be oriented from the very first breath as you seek. One who would make both of you proud. His name shall be the centerpiece of the history <sup class="footnote-reference"><a href="#history">2</a></sup></p>
+<p><code>Bramh-rishi</code> asked <code>Parasara</code> to light up a <code>Vaidik</code> fire. All the <code>Yogies</code> and their families stood around the holy fire as <code>Ganga</code> and <code>Shantnu</code> took seven circles of the fire. One with each verse:</p>
+<h3 id="first-verse"><a class="header" href="#first-verse">First verse</a></h3>
+<p>The ceremony started with a <code>Swastivachan</code> - a good wish from all the present - all the witnesses of the union.</p>
+<blockquote>
+<p>Ihemavindra Samnudam Chakravakev Dampati;</p>
+<p>Prajyouno Swastikou Viswamayurvya Ashnutaam.</p>
+</blockquote>
+<p>O Lord, may you bring this couple together, like a pair of <code>Charavaka</code> ducks. They may bear auspicious children. Their union is for such progeny that set an example for entire world to follow!</p>
+<h3 id="second-verse"><a class="header" href="#second-verse">second verse</a></h3>
+<p><code>Bramh-rishi</code> pointed towards <code>Ganga</code> to invoke this second verse in herself ..</p>
+<blockquote>
+<p>Dhairham Prithvitvam;</p>
+<p>Raitoham, raitobritvam;</p>
+<p>Manohamsmi Vaaktvam;</p>
+<p>Saamhasmi Rikarvam;</p>
+<p>Sa Mam, Anuvrata bhav.</p>
+</blockquote>
+<p>I am the sky, you are the earth;</p>
+<p>I radiate energy and you hold it to manifest things in this physical world;</p>
+<p>I am the thought (<code>Mana</code>) and you are the words. </p>
+<p>I am <code>Saama</code> the music, and you are <code>Rika</code> the song</p>
+<p>I and you follow each other. </p>
+<h3 id="third-verse"><a class="header" href="#third-verse">Third verse</a></h3>
+<p>This is bride’s expression of Trust in this union - said <code>Bramh-rishi</code> as he recited one of his own verse ..</p>
+<blockquote>
+<p>Tat Chakshuh Devhitam, Shukram Uccharta;</p>
+<p>Pashyema Shardah Shatam, Jeevema Shardah Shatam.</p>
+</blockquote>
+<p>Your foresight favours the work of Deities. Your auspicious vision is bright and rising. It may pan out for next hundred years. May we live to see it taking shape.</p>
+<h3 id="fourth-verse"><a class="header" href="#fourth-verse">Fourth Verse</a></h3>
+<p>Having moved with <code>Ganga's</code> expression of Trust, <code>Shantanu</code> made worldly commitments. In the fourth verse he said ..</p>
+<blockquote>
+<p>Dharmecha Arthecha Kaamecha, Imam Naticharami;</p>
+<p>Dharmecha Arthecha Kaamecha, Imum Naticharami.</p>
+</blockquote>
+<p>In my Duties (<code>Dharmecha</code>), In my financial responsibilities (<code>Arthecha</code>) and in my physical needs (<code>Kaamecha</code>), I will always consult you. I will actively seek and act per consensus.</p>
+<h3 id="fifth-verse"><a class="header" href="#fifth-verse">Fifth verse</a></h3>
+<p>And also moved with bride’s expression of spiritual love, <code>Shantanu</code> thanked the Gods for this good fortune. He praised the deities for bringing <code>Ganga</code> to his life. He said ..</p>
+<blockquote>
+<p>Gribhnami te Soubhagstvay, Hastam Maya Patya Jardishtirysthasa;</p>
+<p>Bhago Aryama Savita Purandhir Mayama Tva Durgahptyay Devah.</p>
+</blockquote>
+<p>I thank the deities of enjoyment (Bhaga) , deity of wisdom (Aryama) and the deity of the creative force (Savitaru) for bringing you in my life. Not only these deities , I thank the entire universe <code>Purandhir</code> a name of <code>Bramha</code> , for the good fortune of being together. </p>
+<h3 id="sixth-verse"><a class="header" href="#sixth-verse">Sixth verse</a></h3>
+<p>The sixth verse was the celebration of companionship. They wished not to lose this friendship even if they lose everything else. </p>
+<blockquote>
+<p>Sakha Saptpada Bhav;</p>
+<p>Sakhayou Saptpada Babhoove;</p>
+<p>Sakhyam Te Gameyam</p>
+<p>Sakyat te Mayosham</p>
+<p>Sakhyanme Mayoshthah</p>
+</blockquote>
+<p>O friend we are taking seven steps together.</p>
+<p>Having gotten the taste of your company, I am enchanted with the magic of your companionship.</p>
+<p>It’s you who I always talk about. Your conversations are always on my lips.</p>
+<h3 id="seventh-verse"><a class="header" href="#seventh-verse">Seventh verse</a></h3>
+<blockquote>
+<p>Saha Naav[au]-Avatu | Saha Nau Bhunaktu | Saha Veeryam Karava Vahai |</p>
+<p>Tejasvi Naav[au]-Adhiitam-Astu Maa Vidvissaavahai |</p>
+</blockquote>
+<p>May we two Move Together,</p>
+<p>May we two Relish  Together ;</p>
+<p>May we indulge in our objectives with Vigor , </p>
+<p>May we never doubt or be jealous of each other. </p>
+<h2 id="114"><a class="header" href="#114">11.4</a></h2>
+<hr />
+<p><code>Dev</code> was a divine gift from river <code>Ganga</code>. At an early age he understood the intricacies of motion of water. The last of eight brothers, all of whom dedicated their lives to improve peoples’ lives. Two of them were sent to the North by <code>Ganga</code> to create a map of Ganges and source glaciers. Other two went South East where Ganges meets the ocean. They too had the similar goal — charter Ganges path to the ocean. <code>Ganga</code> wanted complete picture of the Ganges — from the mountains of her birth to the ocean of it’s salvage. Brothers coordinated their work through pigeons to draw one comprehensive map of river system that makes the most fertile plains of North India. </p>
+<blockquote>
+<p>The hyperbole is that <code>Ganga</code> threw her first seven kids back into the Ganges, which is not entirely wrong because they did serve their lives to the cause of the mighty river.</p>
+</blockquote>
+<p>Fifth brother worked on setting up bridges on Ganges. Sixth worked on techniques to move the boats and tree logs upstream through a system of water locks. Seventh on making levies for low-lying villages where floods caused havoc in rainy seasons. </p>
+<p>Having learnt from all his brothers, who had dedicated their lives to Ganges, the youngest <code>Dev</code> pulled the biggest of all engineering feats at a young age. He built a dam and changed the direction of Ganges such that more people could get help from the waters. During rainy seasons, the dam could be opened to let the water flow in two streams. People thought he was the water bender. They named him <code>Ganga-putra</code> —  Son of <code>Ganges</code> — the river. <code>Dev's</code> life mission was to stay true to the kingdom and it’s people. A vow that he carried till his last breath.</p>
+<p>Good times go fast. <code>Ganga</code> had to move South East, towards the point where <code>Yamuna</code> met <code>Ganges</code>. King and Dev were left behind. Busy in serving the river and people, she wanted to continue to follow her dream. She wanted to see the grand unified river merge into the vast ocean. And she thought meeting the ocean was her final destination, just like it was for the river.</p>
+<h2 id="research-and-notes"><a class="header" href="#research-and-notes">Research and notes:</a></h2>
+<hr />
+<div class="footnote-definition" id="trap"><sup class="footnote-definition-label">1</sup>
+<p>in Mathematics, a trapdoor function is one that we may compute very easily in one direction but finding the inverse is almost impossible. More here on <a href="https://en.wikipedia.org/wiki/Trapdoor_function">wikipedia</a>. In mathematical terms, if f is a trapdoor function, then there exists some secret information t, such that given f(x) and t, it is easy to compute x. Consider a padlock and its key. It is trivial to change the padlock from open to closed without using the key, by pushing the shackle into the lock mechanism. Opening the padlock easily, however, requires the key to be used. Here the key t is the trapdoor and the padlock is the trapdoor function. Philosophically speaking, our observable universe is a padlock and we are searching for the keys - the trapdoor to unlock the mysterious that upholds this experience.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="history"><sup class="footnote-definition-label">2</sup>
+<p>The eighth son of <code>Ganga and Shantanu</code> was <code>Devvrata</code>, commonly known as <code>Bheeshma</code>. The biggest and central chapter of <code>Mahabharata</code> is called <code>Bheeshma Parv</code>. As the name suggests the entire chapter is centered around <code>Bheeshma</code>. <code>Srimadbhagvad Gita</code> the most potent piece of knowledge in human history is at the center of <code>Bheeshma Parva</code>. </p>
+</div>
+<p><lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/></p>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mathuraChap10.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="mathuraChap12.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mathuraChap10.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="mathuraChap12.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

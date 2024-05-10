@@ -1,0 +1,320 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html" class="active">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Expression';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><code>Abhivaykti</code> (noun) means expression. While inner (evolutionary) knowledge is inexpressible (<code>Avykta</code>), because it can’t be vocalized or written down, knowledge acquired through external store of information could be expressed (<code>Vykta</code>) with varying degree of success. A distinction must be made here - most of the communications we receive in the physical world are only “information”. For example when we buy a product, all we are getting is “how to use the gadget” - that is information. In order to convey “knowledge” both sender as well as the receiver must be willing to put in enormous repetitive efforts. In other words , both sender and receiver need to be part of a sub-network. For example when you buy a Go-Pro, you are buying a cool camera but when you join the Go-Pro community you become part of a sub-network called community. You move towards the center of the community as you spend more time in this subnet and acquire the ethos - and may be become a developer or an investor or an evangelist. These ethos of the community are a “narrative” - they may not be a as clear as a work of fiction by a popular writer but every community does has a theme - a cool inspiring  story to tell!</p>
+<p>Thus communication of externally acquired “knowledge” is possible but with “varying degree of success”! A communication network where information is sent to all the nodes and kept in perfect order based on consensus is called a value chain. Thus knowledge may travel through value chain but other than such a rigorous chain, the communication is mostly “information”. A value chain too represents a “narrative”. As the value chain become stronger and all accessible, it takes a quantum jump - it becomes the identity of the all the communities. In essence the ethos of the value chain get embedded into all the other narratives - just the way a white light represents the seven colors of a rainbow. At this stage the value chain becomes a means of value exchange!</p>
+<p>Humans and animals, alike, do convey random glimpses of inner knowledge through reflex muscular postures (<code>Mudra</code>)  — primarily facial in humans. Animals express through various bodily postures, for example a dog stretches as a signal that she is ready to run. A tiger pauses before the chase. Even trees and plants express by shedding their leaves or folding the flowers - though such expressions lack standardisation and are thus hard to interpret.</p>
+<p>Humans developed exceptional sophistication in vocal expression. Every vocal art form, seeks to enhance this sophistication to the next level. In West, vocal expression probably reaches its zenith in “opera”. On the Eastern side, it achieves perfection through <code>Vaidik</code> recital — a format so distinguished that the most exquisite language <code>Sanskrit</code>, finds it’s roots in <code>Vaidik</code> recital. The rigor of these expression is what makes them an “art-form”. The audience is pulled into the recital for repeated listening,  thanks to the repetitive efforts baked in the expression. We do feel as if “knowledge” is on display! We feel connected with the reciter. Such expressions that connect us with the source are called state of “<code>Yoga</code>” which literally means connected.</p>
+<p>Vocals, however, have  a limitation — they are not the best storage medium. Reciters always tend to add their own distortion(s) no matter how hard they iterated on their skills. And they may forget if they missed few days of practice. The bigger problem of recital ( in the olden days ) was portability, and that it wasn’t asynchronous - It needed physical presence in same space and time.  Written word had to be invented to circumvent this limitation. </p>
+<p>Humans’ expression (<code>Abhivakti</code>) , once attained perfection through rigorous practice, thus has three broad categories ..</p>
+<ul>
+<li>muscular (<code>Mudra Yoga</code>) - dance forms (or acting) to express evolutionary impulses - internal knowledge.</li>
+<li>recital (<code>Naad Yoga</code>) - to disseminate knowledge; </li>
+<li>and written word (<code>Nyaan Yoga</code>) - primarily as a store of knowledge. </li>
+</ul>
+<p>It  is quite obvious from the definitions above, that <code>Mudra</code> Yoga needs a touch point with our internal knowledge to give it an expression.  <code>Mudra</code> was further refined into <code>Hath Yoga</code> - the complex postures to stretch and unlock internal energies - the common perception of <code>Yoga</code> in the west.</p>
+<p>Effectively only two contenders emerged as potential carrier of knowledge - recital (from one generation to the next) and the transcription.  It took a while to appreciate they were complimentary for both of them, at a deeper level, needed intimate connection with our own “self” ..   and the journey was full of conflicts ..</p>
+<h1 id="abhivakti"><a class="header" href="#abhivakti"><code>Abhivakti</code></a></h1>
+<p>The craft of reciting <code>mantras</code> with an ascetic lifestyle purposed for a singular focus on diction, was called <code>Naad Yoga</code>. This <code>yoga</code>, like many others, must be practiced with a strict daily routine (<code>Bramhacharya</code>). The idea was to tune human body perfectly into understanding, memorizing and chanting, by removing all the material distractions. On the other hand, the devotion to exploration and research (in chosen faculties) was called <code>Nyaan Yoga</code>. </p>
+<p>The meaning of <code>Yoga</code> is to connect with, and to tap into our internal knowledge. A <code>Nyaan Yogi</code> would harness the inner knowledge to go deeper in the pursuit of “hundred skills”. A <code>Naad Yogi</code> would do the same for the purpose of undistorted rendition. Both were complimentary to each other. There was no point in cumulating knowledge if it couldn’t be preserved over generations. Similarly, there was nothing to recite if it didn’t carry specific knowledge. Thus, <code>Naad Yogies</code> worked in close interaction with <code>Nyaan Yogies</code>.  The role of <code>Vyasa</code> was of utmost importance in holding these two streams of <code>Yoga</code> together. It was like a bridge between knowledge and expression. Hence, a very sought after title and one that needed dexterity in both. <code>Vyasas</code> controlled the flow of information — somewhat like the editors of main stream media these days. They decided what must go to the public consumption, what could be left to obscurity. </p>
+<p>This arrangement for cultivation and consumption of knowledge through rigorous focus ( and gratitude ) is called <code>Snatana Dharma</code> - the first and oldest religion and the one that never decays; though it is a misnomer because it was long before organized religion came into being. <code>Sanatana</code> was the way of life for at least ten generations of <code>Vaśiṣṭhas</code> - starting well before <code>Rama</code> and going up to the days of <code>Krishna</code>. During this period, it gathered enormous social and political respect and thus substantive clout on the direction of mankind. </p>
+<p>With great power comes the conflict. Some <code>Rishies</code> wanted to make their work imperishable by committing it to a text format themselves. But such attempts were doomed, for the written language was not standardized. And writing tools were still in their infancy.</p>
+<h2 id="31"><a class="header" href="#31">3.1</a></h2>
+<hr />
+<p>An ascetic lifestyle was important for <code>Naad Yogies</code>. Not only was it necessary for extreme focus on recital, a rich host would select a trusted ‘rites administrator’ because s/he knew the ritual maker didn’t want any of the material gains — an assurance that all the blessings would come directly to the host (without any cut). In a way, rites were the market place between humans and their deities where a <code>Naad Yogi</code> acted like a catalytic intermediary. Humans invested their allegiance, time and money while deities provisioned things they wanted in the return. No one knew for sure if the market place actually worked, but it was a matter of belief, and it worked for those who believed. More than the apparent divine exchange, the arrangement funded the entire ‘knowledge ecosystem’. At the same time, rituals normally followed with charity in kind and food to the poor. This reinforced the status of the powerful. To the world it appeared as if <code>Naad Yogies</code> endorsed the rich; giving legitimacy to their endeavours. Generational cycles of this model led to a highly federated power structure. Every rich house had the rights to bear arms to protect their agro-bovine wealth with a line of command direct to the king.</p>
+<p>The rich hosts and the powerful, as patrons, provided enough alms and homage to allow <code>Yogies</code> invest their time in spiritual as well as in material research. This primary research led to ground breaking insights that centuries later influenced at least four major religions — Hinduism, Buddhism, Jainism and Sikhism; along with hundreds of factions that thrive in South Asia and beyond. Not only religion, it also formed the primitive basis of science that includes linguistics, mathematics, cosmology, medicine, surgery, and lot more. It was like the “open source” movement of our time. <code>Yogies</code> shared their knowledge free of charge and lived on donations hence collected. That said, the ritual hosts did get early access to the new insights simply because they were close to the <code>Naad Yogies</code>. These insights led to them excelling in their work; and hence more wealth. Such success was seen as the blessings of the deities. In a circular way, <code>Dravya Yazna</code> did lead to divine felicity.</p>
+<p>The formalization of rituals ensured the knowledge stayed immutable over the course of passage from one generation to the next. Imagine a world without written word — no books, no libraries and of course no internet. In that world, <code>Naad Yogies</code> would recite for days to a gathering of entire city, without missing a single beat or breath (<code>Prana</code>). They were the vessels of knowledge that held water from different relevant streams of <code>Nyaan Yoga</code>. They individually represented at least one of the hundred (<code>shut</code> - where “sh” is pronounced as in “shine”,  “u” is pronounced as in “but”, and “t” with tongue touching the teeth) skills.  For example a skill such as a doctor (<code>Vaidya</code>) may need knowledge of botany (<code>Vrakayurveda</code>) - types and effects of herbs; anatomy and body functions (<code>Ayurveda</code>) - effects of herbs on different conditions; and horticulture (<code>Krushi</code>)- how to grow the herbs. Collectively <code>Naad Yogies</code> were called <code>shutosha</code>. The syllable “osha” abstracts a vast collection - big treasury is called <code>Kosha</code> in <code>Sanskrit</code> ;  <code>Santosha</code> means satisfaction available only to saints.</p>
+<h2 id="32"><a class="header" href="#32">3.2</a></h2>
+<hr />
+<p>The literal meaning of word <code>Naad</code> is a dense voluminous sound produced from the bottom of lungs. <code>Aacharyas and Shastries</code> were essentially <code>Naad Yogies</code>. Through years of practice and sacrifice, they had learnt to focus internal knowledge in upper <code>Chakras</code><sup class="footnote-reference"><a href="#chakra">1</a></sup> -  in heart <code>Chakra</code> (<code>Anahata</code>) for compassion, and in throat <code>Chakra</code> (<code>Vishudhi</code>) for vocal expression. </p>
+<p>It was deemed a proof of being distinct from rest of the species. Other species held the life energies in two lower <code>Chakras</code> namely — <code>Swadhishthana</code> — the <code>Chakra</code> of sexuality ; and <code>Manipuraka</code> — the <code>Chakra</code> of consumption.  By moving the energy upwards, sometimes also referred to as raising the <code>Kundalini</code>, <code>Naad Yogies</code> separated humanity from animal kingdom - first quantum jump that made humans a representative identity of all mammals. Being a representative, they held supreme the benefit of all species on earth - <code>Sarv Eva Bhavantu Sukhinah</code> - peace and prosperity for all. They believed it was <code>Naad Yoga</code> that made humans bipedal in the world of quadrupedal mammals. Not only that taller you stand, farther you could see and speak ; the vertical spinal column allowed the <code>Kundalini</code> to rise, thereby opening access to upper <code>Chakras</code>. </p>
+<p>The <code>Chakra</code> system was believed to be closely linked to the five senses and each sense represented an element - as shown in the graphic below. The way a sense was to an external element, a <code>Chakra</code> was considered the nerve center of internal traits - <code>Vritties</code> <sup class="footnote-reference"><a href="#traits">2</a></sup>.</p>
+<p><img src="./au-Svabhava.jpg" alt="" /></p>
+<p>By bringing life force to throat, <code>Naad Yogies</code> perfected the repeatable public recital, making it an ‘art of vocal expressions’. If your interest is peaked in what kind of renditions were these, I recommend listening to this one-minute clip of <code>Shanti Mantra</code> from <code>Brahmin</code> priest Santosh Mudgal <a href="https://www.siddhayoga.org/shanti-mantras/om-dyauh-shanti">here</a>. Notice the stresses on the syllables and over-all elocution. <code>Vaidik</code> elocution is a complete genre of rendition practiced standing tall or sitting in upright position. Speech is restricted lying down or any other posture (<code>Asana</code> or <code>Yougic Mudra</code>) that curls the spinal column. A curled up spinal column was believed to obstruct the rise of energy from lower to upper <code>Chakras</code>. In a way speech was an improvement over <code>Mudra</code>. It was believed humans had perfected facial and body gestures that gave them a quantum jump over animals. Speech took over by restricting <code>Mudra</code> to standing still or sitting upright. Barter system was based on immutability of “spoken word”.</p>
+<h2 id="33"><a class="header" href="#33">3.3</a></h2>
+<hr />
+<p>There was no “generally” cherished art of ‘writing’. The primary use of written word was to send telegrams through pigeons. Short, cryptic and perishable. There were attempts to write messages on the cave walls or on the interiors of temples. Small chisels and hammers were adapted (from sculpting) for this purpose  but the process remained utterly time consuming as well as painstaking.</p>
+<p>Some researchers of knowledge — <code>Nyaan Yogies</code>, did consider the idea of converting the <code>Mantras</code> into text format — even before <code>Parāśara</code>, for obvious advantages of durability and portability.  What if all the <code>Vyasas</code> died? What if human race met its demise though epidemic, or other extinction level event. The ancient wisdom must be preserved beyond human shelf life. Those questions existed, but without the comfort of a Mac, “writing” was a herculean task! Jokes apart, “writing” was considered a solo training of mind - an attempt to train our neural network - <code>Sahsrara Chakra</code>. And reading was akin to getting lost in one’s own brain. The idea of a book was similar to visiting a virtual reality in the eighties - an impossible craving that appeared to have no chance of success.</p>
+<p>There were some bold attempts. But they were mostly experimental in nature — half-baked, grammatically obsolete and contextually incoherent. The focus was not on the content. It was on the ‘writing apparatus’ or to test the claims of “writing” aficionados. The advocacy on the pro-text side was the obvious notion of asynchronous freedom. Some of them believed in the crazy stuff - they claimed if text could be passed from one generation to the next, the reverse should also be possible - written word , being time insensitive, might flow from future to the past. They called such a flow “Divine information” . And the promise that the divine information could be made accessible to all. The idea had a sound logic - if someone read a book say ten generations from now, they would be able to build today’s world in their minds. And given the rate of progress, what if they could correct the mistakes in our current thinking ! Wouldn’t that change our own world? Books, they thought, were the bridges of continuum.</p>
+<p>Such grand claims aside, there were immediate benefits. It allowed the <code>Nyaan Yogies</code> engaged in life long pursuits to remember intermediate discoveries - something like taking notes and reminders! In absence of a version management system, in the end they could inform how it worked but they themselves lost the knowledge that accumulated one step at a time with each iteration. In essence they knew how but very few could tell why! The “why” was acquitted to deities.</p>
+<p>Majority of the <code>Vyasas and Naad Yogies</code> didn’t believe written word could ever replace the rigor and authenticity of recital. Some beneficiaries of spoken layer, even announced that efforts to ‘jail’ the wisdom into written symbols was downright demonic. Somewhat like main stream media’s nervousness towards internet aggregators these days! Though writing meant lot more content could be scribed, and passed on to far-flung places; but the act of writing (and reading) wouldn’t invoke elemental powers — they thought! Their arguments, sometimes, sounding sheer absurdities -  how would you send the homage ,  the butter (<code>ghee</code>), fruits and milk to the deities without proper ritual? Other times the arguments were even more vicious - they thought that the written words were sent by the demons of future for they always invoked concepts and ideas that were unthinkable in the past. As if spoken word was “here and now” truth, written word a far fetched fantasy !</p>
+<h2 id="34"><a class="header" href="#34">3.4</a></h2>
+<hr />
+<p>The “recital-model” had seen eighteen generations of <code>Vaśiṣṭhas</code> - it was fully saturated by the time of <code>Parāśara's</code> birth. One of the reason it warranted a lash-back was - somehow, the ritual had gotten more important than the content. While writing had no payback, chanting meant they could perform the rites for the kings and the rich, in lieu of ‘necessities and niceties’. Rich were mandated to perform rites at least sixteen times through their life span — birth, marriage and death being the major milestone rituals. In addition, every year, they must perform a rite for the peace of their dead — <code>Shradha</code>. Kings had even more rituals at their hands. In all, it was a flourishing economy of rituals and ritual makers.  Priests were more important than a family physician ! Kings didn’t even take on a simple journey without consulting their spiritual <code>guru</code>. The organised religion was still a thing of future but the clout many leading reciters enjoyed was a beginning of faith intermingling with politics. The nexus of politics and faith is a vicious cycle for they feed on each other. Reciters were turning into the gate keepers of power.</p>
+<p>Writing, on the other hand, had no such incentive. There was no kindle book store, no way to barter the text. It did have a promise to democratize the information and that did appeal to some, but such people were few and far. Most felt a commoner had no reason to access <code>Vaidik</code> knowledge without a qualified gate keeper. And most thought the job of a <code>Vyasa</code> was eternal — fully protected till the end of humanity - immortal. Those who didn’t believe in rituals and thus by extension defied the <code>Vaidik</code> wisdom were named <code>Asuras</code> — a class of outspoken people just short of being a monster (<code>Rakshsa</code>).</p>
+<p>New rituals were being added left right and center. A new ritual if you want to enter a new home. Another if you bought a horse and a cart. Yet another to start the harvest.  Sages developing distinct artifacts of knowledge <code>Rishies</code>, somewhat like PhDs of our times, weren’t entirely happy in current arrangement. They were not sure if adding more rituals was the right path forward. People who had attained demonstrable mastery in a specific field or indigenously developed a new area of research <code>Maharishies</code>, often got most of the attention from <code>Vyasas</code> — the editors. But new <code>Rishies</code> often had problems in getting their work ritualized. It was hard to get attention from the chanting community. As such, they had no way to preserve their work other than scribing it themselves.</p>
+<h2 id="35"><a class="header" href="#35">3.5</a></h2>
+<hr />
+<p><code>Parāśara</code> understood and appreciated this growing concern among budding <code>Rishies</code>. He also noticed the hardships of writing first-hand, when he scribed his own work <code>Krishi Parāśara</code> - the first book on agriculture. His lineage and the work on agriculture won  him a title of <code>Maharishi</code> though it cost him better part of his prime. He wanted to invest more time on improving the ‘writing experience’. </p>
+<p>He had one more reason for this desire — his first love — Astrology (<code>Jyotish</code>). Astrology was something beyond the spoken means — it needed charting various planets and stars that were hard to capture for any purely spoken language. </p>
+<blockquote>
+<p>Astrology (<code>Jyotish</code>) is the long old ancestor of modern day cosmology. Most people think astrology’s secret sauce is somehow foretelling the future through broad predictions that had apply to almost anyone. In truth, it is a deep understanding of space and time. Effect of motion of massive celestial bodies in space-time, on our physical reality — our tiny box. Clues of effect of celestial motion on earthlings were apparent in changing weathers, and it had already found applications in agriculture - the subject of <code>Parāśara's</code> early investigation, but he found seasons impacted the moods. There was something in the extra terrestrial that connected deep with the spirit of not only humans but animals too.</p>
+</blockquote>
+<p>Astrology was considered the ultimate science for it warranted knowledge of all the “hundred skills”. One could predict only if s/he knew everything that was there to know. Not only the hundred skills, it needed deep understanding of three potencies of knowledge - particularly <code>Vishnu</code> the very source of manifestation. Armed with this ultimate spiritual science, he figured out how to predict expression of a specific traits in a new born — with high degree of accuracy. Even today, in India, a priest (<code>Pandit</code>) would pictorially draw the state of heavenly bodies at the time of child birth, called <code>Janmpatri</code> — a cosmic birth-chart. This document, normally kept as a scroll, details the exact positions of seven main <code>grahas</code> (the sun, moon and five main planets), and twenty seven stars <code>Nakshtras</code> at the time of birth. It also details the effect of the motion of this system on the subject child’s future. It is an important consideration (in many Hindu families) to determine the suitable marital match. </p>
+<blockquote>
+<p>Charting the stars and planets was impossible in spoken word. A proper framework of scribing was a necessity!</p>
+</blockquote>
+<p>An accurate practice of this skill was like controlling the “chromosomal dice”. If someone could predict child’s future owing to the effect of cosmic alignment at the time of birth — <code>Janmpatri</code>; then s/he could reverse engineer the logic to ascertain the best time to conceive a child for a specific target future -  though such a strategy, also meant long wait for the appropriate planetary alignment — sometimes, many generations in the future. <strong><code>Krishna Dwaipayana</code> was one such awaited child</strong>. His birth was predicated by <code>Maharishi Parāśara</code> — the astrologer extraordinaire, and very rightly known as the ‘father of Astrology’. His epic book <code>Brihat Parāśara Hora Shastra</code> is considered the starting point of Astrology.</p>
+<p>An English translation of this epic work is embedded here below for reference …</p>
+<center>
+<iframe src="https://archive.org/embed/BPHSEnglish" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+</center>
+<h2 id="36"><a class="header" href="#36">3.6</a></h2>
+<hr />
+<p><code>Maharishi Parāśara</code> was excited at the prospect of organizing the entire wisdom and he believed written text was the only way to pull off such a miraculous thing. At the same time the issue was about freedom of expression. <code>Siva</code> invented dance (<code>Mudra</code>) for everyone and everyone was free to enjoy this art-form as much as they desired, but the spoken word was gradually getting corrupted. Greed had made in-roads into once ascetic <code>Naad Yogies</code>. As such, not only they preached the things favorable to their powerful patrons, they also supported suppression of ideas that were not in line with the vested interests. In the guise of keeping the society in checks and balances, the balance of expression was tilted in favor of rich. Thus more focus on rituals that glorified the kings instead of helping researchers get their word out to the world. While absolute freedom of expression was still a long way, there must be a legit path available to keep important research from getting lost. </p>
+<p>He, however, had no illusions. He knew scribing technology, might take more than a lifetime to reach maturity where it was accessible enough to write and read. There was another reason for this wait. Every new generation appeared to get a new version of the ‘core kernel’. Something that made acceptance of newer convictions lot easier. He, himself, was working hard on many inscription strategies that were promising, but still not ready for the prime time, particularly for his generation subsumed in the magic of spoken words. He thought, it would take a generational shift to gain acceptance for these tools. That was probably the trigger for craving to have a child who could further his work into next generation.</p>
+<blockquote>
+<p>Even today, we are not beyond “generational shift”. For example, Baby Boomers were comfortable with their land lines and emails. It took a generation for the internet to take firm hold particularly with smartphones. Boomers were happy with their cable TVs. Our generation takes streaming video, as a commodity. We assume smartphones and streaming is for ever, while the Gen Z and Gen Alpha may wonder how could people block their hands — the most important organs of human body, with smartphones. Why would someone watch stuff on a tiny five inch screen when VR allows them to jump right into the experience? The next generations will have implants to let them talk, walk and work simultaneously.  Their reality may seem like a virtual reality to us, just the way our way of life is living in a VR for people three generations back. With every generation, new tools become effortless and universally acceptable simply because new tools become part of the <code>Sanskara</code> - the first steps of learning.</p>
+</blockquote>
+<p>And it wasn’t just the tools — the pen and the paper; he must find ways to wrap a payback method around ‘writing’ to make it a self sustaining model like <code>Dravya Yazna</code>. And he must steer this ship safe from the ones with vested interests in then existing paradigm of spoken rites, because labeling someone <code>Asura</code> was easy for the power-brokers — even for a slightest clue of non-compliance. Even today, changing the existing power-structure isn’t free from risk. Music labels killed Napster. China banned free internet. Central banks hate Cryptos. The play of vested interest is to sustain the past through “suppression of information”;  while progress demands “fearless expression” for rapid innovations. </p>
+<p>It was an ambitious and tall order that might bear fruits in next generation — <code>Maharishi</code> thought — he must perpetuate his life’s learnings, and those from his ancestors to a worthy heir. He believed fate blessed him the Astrology, to ensure he found one. </p>
+<h2 id="notes-and-stuff"><a class="header" href="#notes-and-stuff">notes and stuff:</a></h2>
+<div class="footnote-definition" id="chakra"><sup class="footnote-definition-label">1</sup>
+<p>Chakra System and Hathyoga</p>
+<ul>
+<li>In <code>Hath Yoga</code>, human energy system is said to have seven interference points called <code>Chakras</code>. The bottom most <code>Chakra</code> is called <code>Mool-adhara</code> - the <code>Chakra</code> of <code>Sanskara</code>. Rising from the bottom are <code>Swadhishthana</code>, <code>Manipuraka</code>,<code>Anahata</code>, <code>Vishudhi</code>, <code>Ajna</code>, and <code>Sahsrara</code>. </li>
+<li>At the time of birth, the energy is situated at the bottom most <code>Chakra</code>. During the course of life, just like animals, energy rises to second <code>Chakra</code> for procreation and to the third for consumption. Humans have the capabilities to raise energy to fourth and fifth points that enable them to have compassion and communication. These two qualities formulate the knowledge graph and are relevant for <code>Naad</code> and <code>Nyaan Yogies</code>. </li>
+<li>Rise of energy beyond this point is possible only through intervention by spiritual <code>Guru</code> who uses sixth point <code>Ajna</code> to invoke her energy into disciples. A relevant point for the <code>Bhakti Yogies</code>. </li>
+<li>The last point <code>Sahsrara</code> is the final destination for <code>Hath Yogies</code>. This is where <code>Karm Yoga</code> is said to invoke itself. <code>Sahsrara</code> means one thousand. Humans are said to have fifty traits - <code>Vritties</code> , each with it’s own mirror image. Every <code>Vritti</code> expresses itself through ten senses. Thus each <code>Vritti</code> has twenty expressions. Mind <code>Chakra</code> thus controls one thousand expressions. One who has full control on all the thousand expressions is said to be a <code>Karm Yogi</code>. However, accessing <code>Karm Yoga</code> through this approach is like walking on the water. Managing one thousand variables on 24 by 7 basis is almost impossible. There must be a better way! </li>
+</ul>
+<hr />
+<div class="footnote-definition" id="traits"><sup class="footnote-definition-label">2</sup>
+<p>A SENSE explores variations in one unique <code>Tattva</code> - the Element and it is the primary mechanism to invoke a perception for the associated <code>Vrittis</code> - traits related to the specific sense. The elements represent <code>Prakriti</code> the “Intelligence”. There are five innate elements - <code>Panch Bhoota</code>.  Let us not confuse these ELEMENTS with the chemical elements such as Oxygen or Carbon. The chemical elements are based on number of electrons they have to understand their electro-chemicals properties. The ELEMENTS <code>Bhootas</code> described in Gita is a different way to categorize. Just as we can categorize the population by gender or orientation or by ethnicity or by countries.</p>
+<ul>
+<li>Skin (Touch - <code>Sparsha</code>) - Earth - Touch explores variations in the texture of SURFACE. SURFACE is represented by solids  and thus by EARTH <code>Prithvi</code> . Earth is the element linked to <code>Mooldhara</code>. Beyond obvious perception of touch , it contols four <code>Vrittis </code>- Extreme joy  , natural pleasure ,  delight in controlling passion , blissfulness in concentration. You have probably seen animals rolling in the mud to express the natural pleausre. On the opposite side of specturm, look at the absolute concentration hunter animals sport before they attack to take their pray down. </li>
+<li>Toungue (Taste - <code>Rasa</code>) - Water - Tougue is the only part of the body that can tell the difference in taste. The “taste” is enabled by the liquids <code>Rasa</code> and thus WATER <code>Jala</code> represents its eleement. The water is linked to the second <code>Chakra</code> - known as <code>Swadhisthana</code>.  The six petals of this <code>Chakra</code> represent the following modes of consciousness:  affection , pitilessness , feeling of all-destructiveness , delusion , disdain , suspicion. <code>Swadhisthana</code> is often associated with pleasure, sense of oneself, relationships, sensuality and procreation. It is blocked by Guilt. Svadhishthana is also associated with the unconscious and with emotion. It is closely related to the <code>Mooldhara</code> in that <code>Mooldhara</code> is where the different <code>Samskaras</code> lie dormant, and <code>Swadhisthana</code> is where these <code>Samskaras</code> find expression. <code>Swadhisthana</code> contains unconscious desires, especially sexual desire. Thus, in addition to sense of taste (the tongue) it is linked with reproduction (the genitals).</li>
+<li>Eyes (Vision - <code>Drishti) - Fire - Eyes explore variations or different shades of LIGHT. Nature produces the medium of light through element -FIRE </code>Agni<code>. In traditional </code>Hathyoga<code>the Chakra for fire is</code>Manipura<code>that comes with the Vrittis : spiritual ignorance , thirst , jealousy , treachery , shame , fear , disgust , delusion , foolishness ,  sadness. </code>Manipurka Chakra<code>is considered the center of dynamism, energy, will power and achievement, which radiates</code>Prana<code>throughout the entire human body. It is associated with the power of fire and digestion, as well as with the sense of sight and the action of movement. Through meditating on</code>Manipurka`, one is said to attain the power to save, change or destroy the earth (living soil).  Being related to the sense of sight, it is associated with the eyes, and being associated with movement, it is associated with the feet.</li>
+<li>NOSE (Smell - <code>Ghrana</code>) - Air : The variations in SMELL <code>ghrana</code> are enabled by the AIR. If there is no AIR there is no smell.  The <code>Chakra</code> related to air is <code>Anahta</code>. The <code>vrittis</code> of this Chakra are  asha: wish, desire, hope , chinta: thoughtfulness, anxiety , chesta: effort , mamta: possessiveness, fondness , dhamba: arrogance, vanity , viveka: discrimination , vikalata: languor , ahamkara: conceit, egoism, pride , lolata: covetousness, avarice , kapatata: duplicity, hypocrisy , vitarka: indecision, argumentativeness , anutapa: regret, burning misery</li>
+<li>Ears (Hearing - <code>Shravan</code>) - Space: Like two dish antennas, ears are always open to observe the variations in the sound of SPACE. SPACE is the fifth element called <code>Aakasha</code>. The Chakra for space is <code>Vishudha</code> .  This chakra is known as the purification center. In its most abstract form, it is associated with higher discrimination and is associated with creativity and self-expression. When <code>Vishuddha</code> is closed, a person undergoes decay and death. Just like ears , when it is open, negative experiences are transformed into wisdom and learning. The success and failure in one’s life are said to depend upon the state of this chakra, whether it is polluted or clean. In addition to the  element Akasha, or Ether, and the sense of hearing, this <code>Chakra</code> is related to the action of speaking.</li>
+</ul>
+<blockquote>
+<p>So five SENSES of conscious agents to measure variations of the MEDIUMS of five Elements. In other words - five Sensors to calibrate five Fields. The collection of these five fields is CONSCIOUSNESS FIELD. We can’t observe anything that’s not described by sight , touch , taste, smell or space. This, however, doesn’t mean there is nothing beyond our senses. There is whole lot more beyond our sense observable universe.</p>
+</blockquote>
+</div>
+</div>
+<hr />
+<div class="footnote-definition" id="shruti"><sup class="footnote-definition-label">3</sup>
+<p><code>Shruti</code> meant the spoken word when the humans used to sustain knowledge, only in the vocal format. Maybe because scribing was difficult. With the advent of writing tools, many <code>Shruties</code> were scribed. In essence the scriptures were born out of <code>Shruties</code>. The words that got written down, entered the collective memory of humanity.  Such written down early scriptures were called <code>Smrities</code>. For example <code>Manu Smriti</code> is among the oldest written down scripture, trans-encoded from <code>Shruti</code> to <code>Smriti</code>. The Sanskrit word <code>Shruti</code> got deformed into <code>Shutri</code> in Hindi with passage of time. It is important to bear in mind that every thing that we talk (chatter) is NOT <code>Shruti</code>. <code>Shruties</code> were consciously identified pieces of wisdom, preserved through formal recital to enable passage of knowledge from one generation to the next.
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/></p>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+</div>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mathuraChap02.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="mathuraChap04.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mathuraChap02.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="mathuraChap04.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

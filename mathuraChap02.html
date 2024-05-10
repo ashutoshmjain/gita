@@ -1,0 +1,319 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html" class="active">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Reboot';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>The mishap leads to a rise of systemic survival instinct, missing thus far in the “new”. They had probably presumed the survival was ensured by the “old”. At the prospect of baton being passed to them, the “new” now realizes their “struggle” was never for the good or bad (of the society), it was for them(selves) - to understand “who they are”. Their situation is different from their olds. Their new ideas are not a solution for the old(er) problems, they are the plumbing for the new order. They must account for the stability of the new regime.</p>
+<p>This new incarnation of “self” is the evolution. The survivor <sup class="footnote-reference"><a href="#survivor">1</a></sup> wins and only the fittest (among all the possibilities) survives. Since altruistic behaviour normally leads to formation of larger subset(s), it appears they form “fitter” outfits, but it’s not a rule. Fitness of organization normally depends on its ability to drive rational unforced consensus.</p>
+<p>All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight <sup class="footnote-reference"><a href="#fight">2</a></sup> to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box , stock market or on the resilience of their  currency, the goal is always to find a winner and to recast their motivations. The crowning is a “rebirth” - and must they reincarnate (<code>Punrjanm</code>) with their own provisions of recovery (and reboot).</p>
+<h1 id="punrjanm-"><a class="header" href="#punrjanm-"><code>Punrjanm</code> ..</a></h1>
+<p>Aging <code>Bramhrishi</code>, with his sons lost, found hope in grandson  <code>Parāśara</code>. Legend says <code>Parāśara</code> showed tremendous intelligence right from the early days. Exaggerations claim he recited hymns in his mother’s womb! That said, <code>Vaśiṣṭha</code> had little hope elsewhere. As <code>Parāśara</code> was growing, <code>Vaśiṣṭha</code> rebuilt the congregation ground-up. New students, new methods of teaching. This time he wanted to scribe the scriptures to safeguard against another similar catastrophe. But his immediate goal was to recover from the disaster.</p>
+<p>Young <code>Parāśara</code> had the advantage of full attention of his grandfather though life for him was harder than previous generations (and other student). He was expected to scribe in addition to speech training. Scribing (in early <code>Devnagri</code>) was an optional that only few used to take after completing their normal course - at the age of twenty plus. Their goal - to find a job of scribe in king’s court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle and precious barter deals. The number system was in place during the vocal times - as early as <code>Ramayana</code> <sup class="footnote-reference"><a href="#numbers">3</a></sup>. It appears that the text for number system developed before the idea of scribing a narrative in long form. <code>Vaśiṣṭha</code> wanted <code>Parāśara</code> to learn calligraphy simultaneously as he learnt to speak - somewhat like our education system where we start with “A for Apple”. </p>
+<blockquote>
+<p>We show our younger ones a written symbol of letter “A” together with a picture of “Apple”, and have them speak both the symbol and the object. The knowledge of written symbols starts long before a child actually holds a pen. We create an association of a specific sound with a selected text - “A” is a sound as well as a written symbol. They are reflection of each other. A sound with its written reflection is the most granular unit of our information store - its like a <a href="https://www.lighton.ai/blog/llm-glossary-6/the-magic-of-tokens-in-generartive-ai-a-deep-dive-50#">token</a> that we feed to our own AGI. Despite tremendous advances in our learning systems, this fundamental association stayed unchanged. Associations may be different in different languages, but there is always a sound and a symbol of text.</p>
+</blockquote>
+<p>The most crucial phase of education, is a child’s first exposure to the spoken words. The <code>Sanskaras</code> (the core orientations), are said to be formed at this stage. In <code>Hindu</code> mythology, it is a common belief that a child can listen through her mother in the womb. That is one reason, mother is considered the first teacher and mother tongue is considered the language of thought. </p>
+<p>The formation of “core orientations” with nascent spoken words is as old as the human race. Adding a twist of “written text” in this core training model was first explored by <code>Vaśiṣṭha</code>. This is what excited him in his rebooted reality for this small change had immense potential.</p>
+<blockquote>
+<p>In last hundred years, education has seen tremendous growth. The modern systems of schools and online platforms have come a long way, but most of their innovations deal with grownups. Despite thousands of years, the first and fundamental learning steps are almost unaltered from what <code>Vaśiṣṭha</code> envisaged for <code>Parāśara</code>. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object. This model is at the core of training massive neural networks that we carry in our brains. The good thing is we train our children at a slow pace - one word at a time; while we try to do so with AI rather quickly. That is probably the reason LLM training is energy intensive.</p>
+</blockquote>
+<h2 id="21"><a class="header" href="#21">2.1</a></h2>
+<hr />
+<p>Despite this path-breaking idea, <code>Bramhrishi</code> stayed humble for what he invented was only an “adaptation” - not an original idea. It was inspired from the conception of “music”. In music, a note is identified with a name -  “Sa Re Ga Ma” or “Do Re Me Sa” are nothing but the spoken names for seven eternal sounds. In <code>Hindu</code> mythology, music and dance (as fundamental art forms) were created by <code>Siva</code>. On the same lines, <code>Vasishtha</code> named the written symbols. However, he went a step further - unlike music which was an (optional) hobby and remains same to date, he added the idea of text into <code>Sanskaras</code> - the first learning steps - a change in the core training model for human mind. Arguably, a single human brain has much larger numbers of synapses <sup class="footnote-reference"><a href="#synapses">4</a></sup> than popular AI based language models! The comparison may not be apple to apple, but the point here is to showcase the importance of <code>Sanskaras</code>. What we learn in early childhood, grows to become who we are because most of the human neurons are fully formed at our birth - all 100 billion <sup class="footnote-reference"><a href="#neurogenesis">5</a></sup> of them. And we crate most of the neural connections during early childhood. This is one reason the family name was of utmost importance in <code>Vaidik</code> period. It was called <code>Gotra</code>. The observation must have been that if a child continued to follow the skills of parents - as determined by their <code>Gotra</code> - they reach higher degree of acumen. <code>Vaśiṣṭha</code> too is a family name.</p>
+<p>The grandfather used to take the budding child to the river <code>Yamuna</code> for a daily bath. He often drew the symbols on the sandy banks, with a stick, and had <code>Parāśara</code> guess the letters. <code>Parāśara</code> often complained when the mighty river wiped off the text with its treacherous waves. <code>Vaśiṣṭha</code>, the all aware, keeper of the knowledge, used to smile wondering one day these written symbols would be indestructible like the knowledge itself. It is probably why the written word is called <code>Akshra</code> (immutable) in <code>Sanskrit</code>!</p>
+<p><code>Vaśiṣṭha</code> had no clue how scribing the entire knowledge base would fructify for <code>Devnagari</code> back then supported only eight <sup class="footnote-reference"><a href="#eight">6</a></sup> rudimentary sounds, just enough to send cryptic pigeon messages. He knew more symbols were needed if the intent of scripture was to be meaningfully conveyed, but he also knew a mighty ocean started with a single droplet. His aspiration was to see <code>Parāśara</code> as first child natively raised with speech and scribing hand in hand. He probably wanted to understand if it was even possible? And if it were, then what is the effect on child’s approach to learning?</p>
+<p>He sure knew if he could train one child for the written word, then at some point, everyone would follow the suit. And if everyone knew writing, then writing all the <code>shruties</code><sup class="footnote-reference"><a href="#shruti">7</a></sup> would be an easy effort shared across the cohort. Not only an easy shared effort, it will also ensure location decentralization. If scriptures were written at distant places, it would be impossible to destroy them. Instead of transcribing “knowledge” on temple walls, he wanted to enable all humans to transcribe. Empowering people through “speak and scribe” (<code>Akshar Gyaan</code>) - he saw -  as an insurance against similar disasters! This idea - as ordinary it may sound today - was the genesis of civilized world - a fork from the old rules of jungle. It was by design permission less and intended to resist censor.</p>
+<h2 id="22"><a class="header" href="#22">2.2</a></h2>
+<hr />
+<p>A typical path for aspiring students (<code>Vidyarathi</code>) seeking a degree in the authentic “recital” of scriptures (<code>Shaastras</code>) was to join a congregation (<code>Ashrama</code>), on a full-time live-in basis. Life in an <code>Ashrama</code> was tough. Students were expected to follow a tight celibate routine, full of chores and services. Before they got to the lessons, they must prove themselves worthy of the knowledge. Then only they would make it to the choir. Menial tasks were considered mandatory to mellow down (or even eradicate) exaggerated notions of being special - to enable them be one with the all-pervading <code>Bramh</code> - the universal reflection of self. The wealth of congregation didn’t make it any easier for the students, because the wealth was a gift of deities to augment the research. Even <code>Parāśara</code> didn’t get a free pass when it came to the rigor. Quite the opposite — he had to double up.</p>
+<p>Completion of eight years long recital was celebrated with formal degrees, though it was just the beginning of a lifelong learning process. Degree holders were called <code>Snataka</code>. They needed to go through rigorous years of apprenticeship with a teacher <code>Aacharya</code> to get certified in administering ‘rites’, when they were commenced as a <code>Shastri</code> — someone who knew scriptures. At that stage, they could leave to spread the rites in the villages near or the cities afar, or become an <code>Aacharya</code> (a teacher) in the congregation. The choice was based on their inclination and the rigor they wanted to put in. Being a teacher needed lot more studies while a rites’ maker could start living a normal life of abundance immediately. Only few <code>Aacharyas</code> with demonstrable authority on all the known scriptures would get to the coveted title of <code>Vyasa</code>. In nutshell, there was a whole organization to moderate, curate and to disseminate the audio content — to make sure the knowledge was passed-on (without distortion), to seekers in current generation, and the next.</p>
+<p>There was another path available to the students if recital wasn’t their first choice — research — seeking knowledge (<code>Nyana</code>). This path demanded lot more patience and even greater sacrifice!  If someone was keen to take on research, after graduating as a <code>Snataka</code>, s/he would choose a major in a specific field. The hard work on this path was called <code>Sadhna</code> meaning extreme focus on a specific goal (<code>Sadhya</code>). One who accomplished her goal was called <code>Sidhah</code>. </p>
+<p>This path led to titles such as <code>Rishi</code> — a sage; and <code>Maharishi</code> — a super sage. These titles were given by a community of researchers based on the body of work or the insights one brought to the world — a complete meritocracy without any consideration of gender or race. The spoken insights of such sages were adapted into ‘rites’ by <code>Vyasas</code> — to disseminate, and to preserve the knowledge. Rites were a foolproof method to embed these insights into public discourse.</p>
+<p>Rites were conducted to invoke natural powers of the elements through human intelligence. For example, metallurgy was outcome of such rites, an invocation of power of elemental earth and fire. Agriculture was outcome of earth and water put together with specific human rigor. In essence a rite was a laid down controlled procedure that led to a specific outcome. Given the rudimentary level of knowledge, many things could go wrong. There were many unknowns because knowledge had yet not turned into hard “engineering”. All the unknowns in a specific endeavour were humbly acquitted to respective ‘deity’ , to dispel uncertainty. It became customary to worship the early inventors to enhance the chances of success. Or to reduce the chances of mishaps. In a way, the faith in a ‘deity’ was nothing more than hoping for the best outcomes. Hope remains a powerful driver to this date. Human journey is a journey of hope.</p>
+<h2 id="23"><a class="header" href="#23">2.3</a></h2>
+<hr />
+<p>A derivative rite known as <code>Dravya Yazna</code> was particularly popular among the rich and the powerful. Instead of rendering the rigor of the “hundred skills”, it focused on honouring the deities. It entailed sharing homage and chanting <code>mantras</code> to invoke the deities, in return of speculative material gains. <code>Drvya</code> in Sanskrit, means material. Thus, <code>Drvya Yazna</code> literally meant the rites performed for good-luck material gains. For example, a rite performed for more rain (by appeasing <code>Indra</code> the deity of rains) was a type of <code>Drvya Yazna</code>. So was a rite performed to seal a wedlock with an expectation to have the happy matrimony last till death and be blessed with worthy offspring. The effectiveness of <code>Dravya Yazna</code> was questionable, but the essence was to bring a glimpse of “<code>Vaidik</code> recital “ to the masses - those who otherwise had no opportunity to participate in advanced procedures.</p>
+<p>It also well served another goal — funding the research. </p>
+<p>The formalization of family rituals into <code>Dravya Yazna</code> — sanitization of space (<code>shuddhikaran</code>), holy fire (<code>Agni</code>), intonations in carefully perfected ensemble (<code>mantrochhaar</code>), the time and the place (<code>Dasha and Disha</code>), and the specific order of homage to various deities (<code>Aahuti</code>); served two purposes. First it became a formal auspicious way to celebrate certain life events — such as childbirth, marriage, retirement and even death. Second, it created an interaction platform between those who were seeking a higher purpose on one side, and the rich affluent pillars of society who hosted the rituals on the other. After the rite, there used to be an abridged message read by the ritual maker, in local dialect, to explain the relevant scripture, followed by QnA sessions — more you ask, more you please the deity. </p>
+<p>The hosts got the satisfaction of pleasing the deities while the ritual makers got plush donations — grain, cattle, precious metals. A big share of donations went to the central congregation — the source of wealth for the congregation - <code>Kaam Dhenu</code> - the virtuous cycle of knowledge to wealth. Many millennia later, the model still works in India. The classical music is still learnt in <code>Gharanas</code> — a diluted version of <code>Ashramas</code>. Each with their own style of renditions. The singers graduated from a specific <code>Gharana</code> of <code>Hindustani Sangeet</code> say <code>Kirana Gharana</code> have a lifelong bond to the origins of their art form, and are a source of continued alumni support.</p>
+<p>It might feel as if <code>Dravya Yazna</code> was a sham, but the truth is it was a carefully thought out intervention to incentivize the ones who were dedicating their lives to carry forward the ‘scientific’ exploration. The research was not limited to spirituality or meditation. It paved the way for scientific discovery in fields such as medicine, agriculture, irrigation, construction and many more. <code>Dwaipayana</code> wrote later in <code>Bhagvat Gita</code> — a central piece of epic <code>Mahabharata</code> — that the idea of formalization of rituals in this format, was institutionalized by <code>Prajapati</code>. Many religious accounts believe <code>Prajapati</code> is a name for <code>Brmha</code> himself, who coded the basic laws of civilization and whose ideas seven <sup class="footnote-reference"><a href="#seven">8</a></sup> <code>Bramhrishis</code> adopted as inheritance from father to son. Others believe <code>Prajapati</code> is a deity responsible for administering the realm. Whichever point of view we may consider, the literal meaning of the word is self-evident. It means one who sustains the network. <code>Praja</code> means the subscribers of a system, <code>Pati</code> means one who takes care or owns those subscribers. </p>
+<p><code>Dwaipayana</code> wrote in chapter 3 of <code>Gita</code> ..</p>
+<blockquote>
+<p>In olden times, the Lord of Creation (<code>Prajapati</code>), creating men and <code>Yazna</code> together, said, – flourish by means of <code>Yazna</code>. Let it be to you (all) the dispenser of all objects cherished. Rear the gods with this, and let the gods (in return) rear you. Thus fulfilling the mutual interest you will obtain that which is beneficial (to you).</p>
+</blockquote>
+<p><sup> Translation by Kisari Mohan Ganguly (KMG). </sup></p>
+<h2 id="24"><a class="header" href="#24">2.4</a></h2>
+<hr />
+<p>Rites were baked in reality. For example someone starting an agricultural season, would conduct a ritual that underscored the right methods of sowing seeds, irrigation and harvesting. Someone starting a business would conduct a ritual that emphasized the fairness in trade. The ritual maker who officiated a wedding must be someone who deeply understood the responsibilities a couple was taking on when getting into a wedlock — the vows. And one conducting a ritual after someone’s death must be proficient in making the grief easier — like a therapist. Since all such endeavour had a significant risk, there was nothing wrong in having blessings of Godly deities on your side. Humility was considered a virtue. </p>
+<p>Re-instituting this age-old model based on spoken words,  was easy for someone like <code>Bramhrishi Vaśiṣṭha</code> for the know-how to set up this channel was rooted deep in him. However, textification of scripture was lot harder than he envisaged. For one, the core infrastructure was not in place — the tools for writing long texts were just not there. It was one thing to write a short, cryptic pigeon message but writing a scripture was a whole new territory. Humanity had yet not discovered paper. There was no standard long-lasting ink. Above all, there was no standard Grammar. It will be hundreds of years before <code>Panini</code> — a grammarian par excellence, wrote his epic <code>Ashtadhyayi</code> (eight chapters) to standardize the <code>Sanskrit</code> grammar <sup class="footnote-reference"><a href="#grammar">9</a></sup>. </p>
+<p>Bigger problem - there was no commercial payback model associated with text, the way <code>Dravya Yazna</code> was associated to the spoken words to sustain the audio content. It was like “electricity” of early days. No one bought a bulb because there was no electricity, and no one mass-produced electricity because no one had bulbs ! </p>
+<p>He thought his grandson <code>Parāśara</code>, now reaching maturity, would take on this challenge. Little did he know that focus on texting the scriptures, would create a dual among his own followers. Ones who wanted to stay true the old - recital; and others who deemed “text” as a major improvement. Many possibilities of “new” must battle to establish control but more importantly to know what they stand for - who they are !</p>
+<h2 id="notes-and-stuff"><a class="header" href="#notes-and-stuff">notes and stuff</a></h2>
+<div class="footnote-definition" id="survivor"><sup class="footnote-definition-label">1</sup>
+<p>As per <code>Vaidik</code> science ( and later postulated by Darwin), in this death friendly world - also known as <code>Marn Dharma</code> in Sanskrit - one that is designed to die - survival is the final measure of success. Nature doesn’t care to be altruistic, but that doesn’t mean altruistic strategies are NOT survival friendly. In fact, altruism is one of the best central theme for all the species that survived long. In fact - giving birth to pass on genes at the cost of one’s own comfort is an altruistic strategy that has been universally adopted by all species. One of the key benefit of altruism and compassion is it allows us to form bigger groups with stronger internal ties. The bigger and stronger is better for survival against lone predators.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="fight"><sup class="footnote-definition-label">2</sup>
+<p>Fight is a misnomer because no one ever fights against someone else. The aim is always to find who is more dexterous at the skill in question. For example when two companies fight in the stock market, the question really is which company is better positioned to leverage upcoming economic opportunities. A company with a stronger balance sheet is better, but that is not the only yardstick. Another company may have competitive advantage in technology or management or branding. The winner is a combination of host of such complex factors. In sports, it comes down to much narrower set of skills. In sword fight, it comes down to just one thing - who is better with the sword. The outcomes could be different. For a company it could be a matter of success as much as in a sword fight it could be a matter of survival. A key measure of evolution is we fight on more abstracted and complex set of skills as we evolve -  rather than a simple pissing contest. Worthwhile to say here that evolution doesn’t mean end of “fight”, it simply means more complex abstracted fight.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="numbers"><sup class="footnote-definition-label">3</sup>
+<p>The number system was present long before <code>Mahabharata</code> - evident from their use in <code>Ramayana</code>. Here are few verses from the <code>Yudha Kanda</code> that spotlights the understanding of very large numbers. In Indic mathematics 100,000 is referred to as a <code>Lakh</code> and 100 <code>Lakhs</code> (10 million) are known as a <code>crore</code>. It appears that the script for numbers developed before the idea of long text to express a narrative -&gt; <a href="https://valmikiramayan.pcriot.com/utf8/yuddha/sarga28/yuddha_28_frame.htm">ref</a> ``</p>
+<blockquote>
+<p>शतम् शतसहस्राणाम् कोटिमाहुर्मनीषिणः || ६-२८-३३ शतम् कोटिसहस्राणाम् शङ्कुरित्यभिधीयते |</p>
+</blockquote>
+<ul>
+<li>Wise men call a hundred lakhs as a crore. A hundred thousand crores is reckoned as a Shanku.</li>
+</ul>
+<blockquote>
+<p>शतम् शङ्कुसहस्राणाम् महाशङ्कुरिति स्मृतः || ६-२८-३४ महाशङ्क्य्सहस्राणाम् शतम् वृन्दमिहोच्यते | शतम् नृन्दसहस्राणाम् महावृन्दमिति स्मृतम् || ६-२८-३५ महावृन्दसहस्राणाम् शतम् पद्ममिहोच्यते | शतम् पद्मसहस्राणाम् महापद्ममिति स्मृतम् || ६-२८-३६ महापद्मसहस्राणाम् शतम् खर्वमिहोच्यते | शतम् खर्वसहस्राणाम् महाखर्वमिति स्मृतम् || ६-२८-३७ महाखर्वसहस्राणाम् समुद्रमभिधीयते | शतम् समुद्रसाहस्रमोघ इत्यभिधीयते || ६-२८-३८ शतमोघसहस्राणाम् महौघ इति विश्रुतः |</p>
+</blockquote>
+<ul>
+<li>A hundred thousand Shankus are said to be one Maha Shanku. A hundred thousand Maha Shankus are called one Vrindam here. A hundred thousand Vrindas are said to be one Maha vrindam. A hundred thousand Mahavrindas are called one Padmam here. A hundred thousand padmas are said to be one Mahapadmam. A hundred thousand Mahapadmas are called one Kharvam here. A hundred thousand kharvas are said to be one Mahakharvam. A hundred thousand Mahakharvas are called one Samundram. A hundred thousand Samudras are said to be one ogha here. A hundred thousand oghas are acclaimed a one Mahaugha.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="synapses"><sup class="footnote-definition-label">4</sup>
+<p>Though it is hard to compare a biological neural network such as human brain with a software neural network such as chatGPT, yet it is common acceptance that a synapse in the biological terms ( roughly equal to number of dendrites per neurons) is equivalent to a “parameter” in the computing paradigm of software neural networks. The chatGPT version 4 is estimated to have 100 Trillion parameters whereas a single human brain has around 700 trillion synapses (assuming around 100 billion neurons, each having 7000 dendrites). It’s amazing that each one of us carry 700 times the natural intelligence than the biggest artificial neural network as of 2024. Even more amazing is the fact that we run such vast neural network on just 2000 calories per day - almost equal to a  100 watts light bulb,  whereas chatGPT consumes as much energy as 26000 US homes. This efficiency is key to the idea of higher general intelligence. For example Elephants or Whales have bigger brains than us, but our advantage is that we can survive on much less due to our smaller size. No wonder there are seven or eight chatGPT like models,  while there are eight billion of us! Another way to think about it is that AI needs to 700 billion times more efficient to out do humans. Even then it may be hard because we already have millions of years of early start advantage. In essence, AI is no threat to humans. It is a cool utility that we should embrace to improve our conscious experience. As with any technology, there is always a chance of misuse - you can kill someone with a kitchen knife. Investigating such misuse (when reported) is the responsibility of law and order, but it doesn’t mean we start regulating the industry. Regulation is always a reactive posture. There is another argument given to scare the people - that humans fight with each other whereas all AIs can be singularly focused. Nothing can be farther from the truth because as soon as AI’s number start growing, there will be a fight for resources among competing models. No computing system is free from competition just the way all biological systems must compete to evolve.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="neurogenesis"><sup class="footnote-definition-label">5</sup>
+<p>The scientific term for regrowth of neurons is called neurogenesis. There is evidence that humans might be capable of regrowing neurons particularly in hippocampus area, but the research is far from conclusive. The long held view among neuroscientists is we are born with all the neurons we have as an adult.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="eight"><sup class="footnote-definition-label">6</sup>
+<p>It is not clear which eight sounds got first symbols. Some accounts claim that seven notes of music with eternal sound of <code>Om</code> were the first calligraphic symbols, but that seems odd with the idea of sending pigeon messages. Some other accounts claim “vowels” were the first to take on written symbols which also seems a bit of imaginary stretch because what is the use of a vowel without consonants. Unfortunately I couldn’t keep a track of my references. Please send me a note if you have ready research on this topic. I guess this is the most important question that linguistics historians should be looking at !</p>
+</div>
+<hr />
+<div class="footnote-definition" id="shruti"><sup class="footnote-definition-label">7</sup>
+<p><code>Shruti</code> meant the spoken word when the humans used to sustain knowledge, only in the vocal format. Maybe because scribing was difficult. With the advent of writing tools, many <code>Shruties</code> were scribed. In essence the scriptures were born out of <code>Shruties</code>. The words that got written down, entered the collective memory of humanity.  The literal meaning of the word <code>Smriti</code> is the one that is memorized. Such written down early scriptures were called <code>Smrities</code> because the idea was if something is written down, it would never be forgotten. For example <code>Manu Smriti</code> is among the oldest written down scripture, trans-encoded from <code>Shruti</code> to <code>Smriti</code>. The Sanskrit word <code>Shruti</code> got deformed into <code>Shutri</code> in Hindi with passage of time. It is important to bear in mind that every thing that we talk (chatter) is NOT <code>Shruti</code>. <code>Shruties</code> were consciously identified pieces of wisdom, preserved through formal recital to enable passage of knowledge from one generation to the next.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="seven"><sup class="footnote-definition-label">8</sup>
+<p>Hindu scriptures believe there were seven <code>Bramh-rishis</code>. <code>Vaśiṣṭha</code> was one of them. The other six are <code>Bhrigu</code>, <code>Agniras</code>, <code>Atri</code>, <code>Vishwamitra</code>, <code>Kashyapa</code>, and <code>Shandilya</code>. All of them originated from <code>Bramh</code> with the gift of intelligence to cumulate the knowledge. The only exception is <code>Vishwamitra</code> who is said to have attained this highest title through sheer hard work and dedication (<code>Tapasya</code>). All of them, put together, are also called <code>Saptarishis</code> - the seven. </p>
+</div>
+<hr />
+<div class="footnote-definition" id="grammar"><sup class="footnote-definition-label">9</sup>
+<p>Vedas are written in <code>Vaidik Sanskrit</code>. <code>Panini's</code> epic book <code>Ashtadhyayi</code> refers to <code>Mahabharata</code>, which means <code>Panini's</code> Sanskrit came later than the times of <code>Dwaipayana</code>.</p>
+</div>
+<hr />
+<p><lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/></p>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mathuraChap01.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="mathuraChap03.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mathuraChap01.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="mathuraChap03.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

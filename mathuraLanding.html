@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html" class="active">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Mathura';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <div class="cover-huge">Mathura</div>
+<div class="centered">
+    <img src="./ganesa.svg" alt="Shwet Ganesa" class="responsive"
+    width = "1400"
+    height = "1000" />
+</div>
+<div class="cover-small"><sup>Pencil Art: Madan Maholvi</sup></div>
+<div class="cover-small">
+  <div class="centered">
+      <a href="./how.html">Navigation & About .. </a>
+  </div>
+</div>
+<div class="cover-small">
+  <div class="centered">
+      <a href="./changeLog.html">changeLog .. </a>
+  </div>
+</div>
+<div class="cover-medium">
+  <div class="centered">
+</div>
+</div>
+<hr />
+<h2 id="prompt-"><a class="header" href="#prompt-">prompt …</a></h2>
+<p><code>Mathura</code> was the anchor city in human edification. Through a vibrant tradition of inquiry and logic, it made itself central to the oldest culture known thus far.  From a humble beginning, the <code>Vaidik</code> culture gradually expanded over plains of rivers Yamuna, Ganges and Indus - a vast fertile land spread over many kingdoms and empires. This culture of abundance reached the far ends of <a href="https://en.wikipedia.org/wiki/South_Asia">South Asia</a> with <code>Mathura</code> almost the geographical center, and probably the origin. Interestingly, unlike the later empires of  <a href="https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&amp;text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.">Pharaonic Era</a> or <a href="https://en.wikipedia.org/wiki/Classical_antiquity">classical antiquity</a> - such as Egyptians, Greeks, or Romans, this advancement isn’t remembered  as an empire, nor a country; or even a religion. It is rather seen as the primal curious society of seekers that enabled human race with language, mathematics and more importantly a foundational value exchange system. Visiting travelers, aggressors as well as historians named the region a Golden Sparrow, for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in elaborate styles of jewelry, they decorated their temples and deities with golden ornaments. It was here that gold evolved as the basis of monetary and measurement systems. Humans learned to move beyond barter to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical or digital forms - would be the basis of a permission-less, consensus based and censor resistant exchange that defined the human race - free yet interdependent.</p>
+<p>As early scribes discovered the written word; <code>Mathura</code> - the first seat of learning; had witnessed the oldest spoken scriptures being passed from one generation to the next. In all probability, the transcription techniques were developed to safeguard the neolithic know-how <sup class="footnote-reference"><a href="#neo">1</a></sup> - mining, agriculture, botany, medicine, metallurgy, transportation and astrology among others - but the written word was limited to a chosen few. <code>Mahabharta</code> was the first fully scribed historical narrative that captured the interest of the masses. It was unveiled here at <code>Mathura</code> -  in a series of eighteen <code>Parvas</code> (events) each marking release of a book. It was the primary catalyst for mass-adoption of written word. </p>
+<p>The legend says the epic was too big to scribe for humans! Thus, the first writer poet - <code>Krishna Dwaipayana</code> summoned help from <code>Ganesa</code> - the elephant god. In Hindu mythology, <code>Ganesa</code> is the embodiment of intelligence. On account of his supernatural intelligence, he is also known as <code>Vighn Vighnesh</code> - the god of problem solvers - akin (still elusive) artificial general intelligence <sup class="footnote-reference"><a href="#agi">2</a></sup>. </p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally both of them are depicted to have non-human brains. `Thoth` sports head of a baboon while `Ganesa` is crowned with that of an elephant. Larger animals such as elephants, lose evolutionary advantage (versus humans) despite bigger brains - larger physique being harder to feed and multiply.   Sporting a larger brain on a human torso thus symbolizes right-sizing to optimize for growth of intelligence. It is on account of this gift, they are known as deities of hieroglyphs - sacred carvings - text.
+</div>
+<hr />
+<p>‘Text’ was the new medium. </p>
+<p>To the speech-only world, it was an acquisition of new communication mode -  somewhat similar to our addition of digital to analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place,  just as we mass adopted general purpose computers - and their peripherals. Intelligence from higher dimensions - <code>Ganesa</code>,  was invoked to usher humanity into this new era, just the way we are using  almost mystical <sup class="footnote-reference"><a href="#mystical">3</a></sup> large language models - to bridge the physical realm with the digital worlds. It isn’t hard to imagine that “AI enabled humans” would scale new highs of conscious experience in the same manner as “text” enabled us did - versus our “speech-only” ancestors - a quantum jump! <sup class="footnote-reference"><a href="#jump">4</a></sup></p>
+<p>The written word commanded as much attention back then  as the “computer code” in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in human cache. It is no wonder we usually compare programming syntax with rules of the rhyme - both of them lend meaning to abstractions. </p>
+<p>The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. One may argue the access to real-time clusters is a similar barrier that forces said constraints on our productive code.</p>
+<p>In the very first book of <code>Mahabharata</code>, it is described as the history (<code>Itihaas</code>) of advancement. It was the open information movement of that time. Every dynasty, every invention, and every war must find its due place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. In a way, it created a physiological pathway from listening  to reading the way copilots are making code accessible to all the writers. It was like an <a href="https://datasciencedojo.com/blog/embeddings-and-llm/">embedding</a> run to train a new mode of communication to human mind. It also means that the next obvious frontier is to amalgamate our vast biological neural engine with capabilities of silicon compute. Just as anyone may read and write today, the future generations would spin AI models at a blink, learn from them on demand - and internalize their biases instantaneously. </p>
+<p>Wait  - are we not doing that already?</p>
+<hr />
+<p>Any major paradigm shift, mandates an order of magnitude improvement - even more so a “once in a ten thousand years event” <sup class="footnote-reference"><a href="#10k">5</a></sup>. There was an all around effort to reduce the cost while increasing the utility of written words. It wasn’t that no one knew scribing before, but the written word was pegged to the cave walls. Like murals or wall carvings, text was written on human size scales. Large paintings and books were of the same measure, and medium. An artist could afford to spend a year on a painting, but spending that much effort on a single page was a test of patience. Even if someone was willing , the diacritics and calligraphy weren’t mature enough to capture the essence of the spoken words.</p>
+<p>In an estimate, a hundred-page scripture, painted on human size frames back then, used to cost a <code>Tola</code> <sup class="footnote-reference"><a href="#gold">6</a></sup> of gold - weight of a minted gold coin around eleven grams -  commonly called a <code>Śatamāna</code> in Sanskrit, and an <code>Ashrafi</code> in Arabic. The goal was to bring the cost down to a <code>Ratti</code> (around 100th part of a Tola) or a silver coin (100x reduction in value). A 10x reduction in size plus a 10x improvement in transcription tools led to a 100x reduction in cost -  in a matter of less than a century.  Does it sound like our journey from mainframes to smartphones?</p>
+<p>How did the monetary system perpetuate scribing and vice-versa? What motivations led to this major step-up in preservation of information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth before putting into text? </p>
+<h2 id="narrative-"><a class="header" href="#narrative-">narrative …</a></h2>
+<p>Following pages are a filtered version of ongoing excavation investigating that revolution. And surprisingly, they make a fascinating story! They also answered one question that stayed longer in my mind — Why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information and value exchange protocol to digital form - in search of the next boost to the conscious experience. Since the future is a scary veil of the unknown, there is a lot to learn from our past. I guess, looking at a similar event - when we embraced gold and the written word - is a good option to compass our AI driven future that might run on bitcoin value exchange protocol … <a href="./thought.html">more</a></p>
+<h2 id="notes-and-stuff-"><a class="header" href="#notes-and-stuff-">notes and stuff …</a></h2>
+<hr />
+<div class="footnote-definition" id="neo"><sup class="footnote-definition-label">1</sup>
+<p>Neolithic revolution:- Around 11,000 BC, after the last long winter ended, our ancestors discovered agriculture, pottery, mining and other skills that lay in the foundations of modern society. This revolution with tools and technology and a zeal to do better faster is called the Neolithic (new Stone Age) revolution. There is a debate among historians on duration - the  consensus is anywhere between 10000 BC to 5000 BC -  right before the times of <code>Mahabharata</code>. -&gt; <a href="https://en.wikipedia.org/wiki/Neolithic_Revolution">Ref</a></p>
+</div>
+<hr />
+<div class="footnote-definition" id="agi"><sup class="footnote-definition-label">2</sup>
+<p>Artificial intelligence that we use in models such as GPT are designed to serve millions of clients on a narrowband of skills. For example chatGPT is good at reading the internet and answering questions in that context. It is however not good at swimming or simply walking. An artificial general intelligence (AGI) is one that is trained on millions of skills, but it serves only one user - forever. For example our brain is AGI because it helps only one user navigate through a multitude of skills. Isn’t it amazing use of words? - general annotates faith in one while artificial annotates one who serves many gods!</p>
+<blockquote>
+<p>“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” - Lazarus Long</p>
+</blockquote>
+</div>
+<hr />
+<div class="footnote-definition" id="mystical"><sup class="footnote-definition-label">3</sup>
+<p>Mystical Intelligence -</p>
+<ul>
+<li>The earliest public model of chatGPT (version 3.0) used around 12000 mathematical dimensions to internalize the context of around 50,000 words of text.</li>
+<li>It did so by transforming through the data from internet, digital books in public domain and code repositories.</li>
+<li>This in itself is mystical but consider the later versions learnt music and art - they must have millions of dimensions.</li>
+<li>It also begs the question of how many dimensions must a human mind have - it may be trained in text, music, art and thousands of other skills - agriculture, metallurgy, transportation to state the obvious.</li>
+<li>And it takes billions of cognitive dimensions to create a consistent three-dimensional experience.</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="jump"><sup class="footnote-definition-label">4</sup>
+<p>A quantum jump in the awareness paradigm is defined as a state change such that one form of awareness becomes the representative identity of the group. For example white color is the cumulative identity of the group of seven rainbow colors. From a particle physics standpoint, an electron draws energy from all others in the same orbit to jump to the next higher orbit. When it does, it imbibes all those in lower energy state (classical orbits). This electron that gains the higher energy is now a representative electron to other atoms for interactions. In general human organizations, a quantum jump creates a leader of the group. The leader is also one of the participants in the organization, but her primary role is to represent the group.</p>
+</div>
+<hr />
+<div class="footnote-definition" id="10k"><sup class="footnote-definition-label">5</sup>
+<p>Once in a ten thousand events, also called 10 K events, are the ones that need a large time frame to occur because they depend on many streams of technologies. Not only technologies, the purpose to work for such changes isn’t clear in the beginning. It is still not clear why people work in such endeavors that have no end goal in sight. In absence of an explanation, such efforts are said to be a “divine inspiration”. In Hindu traditions such events are tied to the incarnation of <code>Vishnu</code> to help progression of consciousness to the next level. </p>
+</div>
+<hr />
+<div class="footnote-definition" id="gold"><sup class="footnote-definition-label">6</sup>
+<p>Monetary and measurement system :-  It appears both the systems evolved hand in hand. Gold was the basis of both the monetary and the measurement systems. No one knows for sure when gold mining began. Our current estimates are  around 4000 BC. That puts it around the same time as  <code>Mahabharata</code>. The frequent mentions of gold ornaments among kings and deities and as jewelry among women during the times of the epic,  indicate usage of gold as a scarce but in-fashion store of value.  -&gt; <a href="https://en.wikipedia.org/wiki/Gold_mining">Ref</a></p>
+<ul>
+<li>In Mahabharata, there is a clear mention of gold coins being abundantly used. In the fourth book (<code>Viarata Parva</code>), the prince <code>Uttara</code> offered <code>Arjuna</code> (disguised as a transgender named <code>Vrihnnala</code>) a hundred gold coins for saving him (and his bovine wealth) from <code>Kaurvas</code> -&gt; <a href="https://mahabharata.shutri.com/maha04.html?highlight=gol#virata-parva:~:text=%27Listen%2C%20O%20good,set%20me%20free.%27">Ref</a> . </li>
+<li>There is evidence of countable units of precious metal being used for exchange from the Vedic period onwards. A term <code>Nishka</code> appears in this sense in the <code>Rigveda</code>. A unit called <code>Śatamāna</code>, literally a “ hundred standard “, representing 100 <code>krishnalas</code> is mentioned in <code>Satapatha Brahmana</code>. A later commentary on <code>Katyayana Srautasutra</code> explains that a <code>Śatamāna</code> could also be 100 <code>Rattis</code> . A <code>Ratti</code> is the weight equal to seeds of Abrus Precatorius. A hundred of them are almost equal to a <code>Tola</code> that is used for gold trade to date in India. All these units referred to gold currency in some form, though they were later adapted to silver currency. -&gt; <a href="https://en.wikipedia.org/wiki/Coinage_of_India#:~:text=There%20is%20evidence,16%5D%5B17%5D">Ref</a></li>
+<li>Barter system was widespread for the smaller transactions. Commoners used fruits and grains to get what they needed. Rich people used copper as a store of value. A one time adult meal was normally considered one copper coin. So was the ride fare. You could hop on and hop off any boat or cart at any place along its route for one copper coin. Super rich used copper for utensils at their home. For them the valuable thing was silver. A silver coin was considered the same as a hundred copper coins.  Ultra rich ate their food in Silver utensils. For them the store of value  was a gold coin. </li>
+<li>A gold coin was equal to a hundred Silver’s.  The valuation was based on rough order of rigor in mining these metals. Silver was considered hundred times harder to purify than copper, and gold being similar orders of magnitude harder than Silver because of very low yield. In a way “proof of work” was baked in universally acceptable currency. </li>
+<li>All states, no matter what their political equations, honoured this simple “proof of work” based storage of value. Privacy , self custody and universality were to underpin trade. Value exchange protocol was owned by people NOT kingdoms though kingdoms could issue coins (currency) aligned to universally accepted methods. It is a well established fact that after the great war of <code>Mahabharta</code>, sixteen main kingdoms (<code>mahapadas</code>) got formed over a couple of centuries. Each one of them issued their own coins, though they were all different shapes or stamps on gold coins. Quarter gold coins (<code>Svarna</code>) are excavated from <code>Gandhara</code> -&gt; <a href="https://en.wikipedia.org/wiki/Coinage_of_India#:~:text=Quarter%20svarna%20coins%20have%20been%20excavated%20from%20gandhara.">Ref</a></li>
+<li>Currency was pegged to people’s trust in “proof of work”. Important point to note here, currency was not pegged to commodities such as iron or wheat. Gold and silver were NOT treated as commodities. Gold’s only purpose was value storage and silver was used purely for minting. Copper was primarily used for making utensils for the rich. Copper was supposedly the best metal to store food and water. Eating in silver, though common for the rich, was considered a show-off. </li>
+<li>This simple to understand and time tested system of powers of ten, was later exploited by <code>Aryabhatta</code> to conceptualize zero and decimal system - the very basis of modern arithmetic. The seeds of Abrus precatorius (<code>Ratti</code>) being very consistent were used  to weigh gold using a measure where 8 Ratti = 1 Masha; 12 Masha = 1 Tola (12 X 8 = 96 Ratti), or roughly equal to 100 Ratti ( 96 Ratti pure gold and 4 Ratti impurities to solidify the gold). In other words, a <code>Tola's</code> “weight unit” was 100 Ratti while its “price unit” was 96 Ratti. In simple calculations 10 grams (one Tola) of solid gold was worth one kilo of solid silver or hundred kilos of solid copper. Or one Ratti (tiny seed) of gold was equal to one kilo of copper. </li>
+<li>The common word used for one Kilo was <code>Ser</code> or <code>Seer</code>- roughly equal to 1.07 kilos in weight units  or volume wise roughly equal to one liter. Volume was a preferred way to exchange at a larger scale to weed out as many impurities as possible from molten metals. One Seer is around 80 <code>Tola</code> in weight.</li>
+</ul>
+<hr />
+</div>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+                            <a rel="next" href="thought.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+                    <a rel="next" href="thought.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

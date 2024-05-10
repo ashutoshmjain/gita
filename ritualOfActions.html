@@ -1,0 +1,325 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html" class="active">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Ritual of Actions';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <center>
+<h1 id="karm-yoga"><a class="header" href="#karm-yoga">`Karm Yoga`</a></h1>
+</center>
+<p>Gita is a conversation between two <code>Yogies</code> at a most improbable place, in the middle of a war and a strange topic of conversation <code>Karm Yoga</code>. Both,  Krishna and Arjuna , were the best in their own fields  -  Arjuna , the biggest warrior , and trained by the very best;  likes of Guru Dronacharya and overseen by Bheeshma ;  Krishna - the mystic , the magical , the biggest strategist and <code>Karma Yogi</code> by any means, by any standards.  In a way the entire epic of Mahabharata is to cradle this conversation;  a conversation between two <code>Yogies</code>. </p>
+<p>Third chapter of Gita, the <code>Karma Yoga</code> is dedicated to this topic and that is what I want to focus on in this section and sub sections such as “Skills” and “Manifestation”. Before we get into <code>Karm Yoga</code>, let me walk you through the context as quickly as possible, say in five-ish minutes or so. It is kinda important to go through this context to understand what Krishna meant from <code>Karma</code> and <code>Karm Yoga</code> because the words have gained many meanings and many of them are perfectly valid in different contexts. </p>
+<p>In the first chapter the writer, the poet- Ved Vyasa,  described the battlefield <code>Dharm Kshetre, Kuru Kshetre</code> - the holy land and the land of actions ; horses, elephants and the young men and the women, eager  to test their ideas, eager to take on each other. The leaders on the both sides pronounced the war with a roar of divine conch-  <code>Shankh Dhvani</code> and  Arjuna requested Krishna to take the chariot centre stage. He wanted to see who were these people - who were willing to put their lives and blood in this war, knowing very well none had a chance to compete with Krishna and Arjuna together - together on one side.  Then why were these people so eager to get into this dual?  But he didn’t see enemies out there. What he saw were the faces of his cousins, his teachers and mostly his friends.  “Am I  committing a mistake?” - he thought to himself.  The duality struck. And immediately,  without any thought, he told Krishna- “O  Krishna, are we on the right path? Or are we committing a mistake?” In fact, he thought even Krishna was making a mistake by enduring this war. </p>
+<p>Krishna was obviously surprised with this sudden change in In the mood, and the sudden rise of weakness in Arjuna. As a friend, Krishna thought  for a moment about what Arjuna said and he allowed him to make up his mind. Even in the middle of the war, there was no rush. Krishna took it as an opportunity for Arjuna to really understand who he was, what he felt,  and he waited for him to say what exactly he  wanted to say. </p>
+<p>Arjuna went on to describe his point of view. He obviously deemed his family, his friends and his teachers as the most precious assets of his life.  If he took on this war, he would be someone who destroyed the family - <code>Varna Sankar</code>. He had many ideas based on his upbringing - <code>Samskaras</code>,  that he had learnt from the very best.  Confused and lamenting , he walked back to the rear side of the chariot and sat there lifeless, as if the blood drained off his veins. Having seen the armies, the truth finally dawned upon him that war was imminent.  Bewildered, that there was no going back now, he finally surrendered to the driver of chariot and the driver of his soul. And he said the words in the seventh verse of second chapter. He said ..</p>
+<blockquote>
+<p>Karpanya [by miserly] Doshah [weakness] Aphata [inflicted] Swabhavah [nature] , Prichami [I am asking] Tvam [unto you] Dharma [religion - righteous path] Sammoodh [baffled] Chetah [in heart];</p>
+<p>Yat [what] Shreyah [honourable] Nishchitam [after deciding with conviction] Bruhi [tell ] Tat [that] Me [unto me], Shishya [disciple] Te [your] Ahem [I]  Shadhi [instruct] Mam [me] Tvam [unto you] Prappanam [surrendered].</p>
+<p>I am inflicted by miserly weakness ( Miserly because he was seeing the prospect of losing his most precious assets - his family). I am asking you for my heart is baffled in the context of religion (what is the right path for me ). I am asking you to decide and  tell me the honorable path. I am your disciple and I surrender unto you. </p>
+</blockquote>
+<p>In a way, Arjuna was urging Krishna to review the situation once again -  “Maybe,  everything is not lost yet. Maybe, we can save ourselves from making a grave mistake” . Of course , Arjuna thought,  what else Krishna had say?  “No one in their right mind can support the war as it is. And in this particular case, it’s not even a war against enemies”. It was a war within the family, against the very teachers who taught the art of war and all the friends.  “There’s no one here who’s unrecognisable”. </p>
+<p>Krishna took a pause. Now that he was formally appointed as a teacher, by no less than the biggest archer, the biggest warrior , Arjuna himself was surrendered unto him . He weighed that the situation demanded a quick response but he was talking to Arjuna .  He must be detailed enough to convince a Yogi - <code>Nidrajayi Arjuna</code> -someone who had won the sleep itself.  Arjuna was an example of dedication, control and focus himself. So Krishna took his time &amp; explained everything in second chapter of Gita. </p>
+<p>Now,  many people say second Chapter itself is the completion of Gita,  which is kinda true because Krishna covers everything, that he needed to say,  that Arjuna  needed to hear. At the same time, he knew it was  a lot ! So, in the beginning of chapter three, Arjuna raised couple more questions. He said ..</p>
+<blockquote>
+<p>Jyasasi [better] Chet [if] Karmanh [from action] Te Mata [per your opinion] Buddhih [intelligence] Janardna [O Krishna];</p>
+<p>Tat Kim [then why] Karmani Ghore [ghastly actions] Mam [me] Niyojayasi [ you are engaging] Kesava [O Krishna] .</p>
+<p>After hearing Krishna in chapter two, Arjuna concluded that whatever Krishna said, it meant intelligence is better than actions. Thus, he argued -  “If intelligence is better than actions in your opinion, O Krishna, then why are you engaging me in these acts of war. These undoable unthinkable actions! </p>
+</blockquote>
+<p>Confused with information overload and bogged down with the situation at hand, he went on to further add .. </p>
+<blockquote>
+<p>Vya [your] Mishrena Eva [ Kinda mixed] Vakyen [sentences -&gt; words] Buddhim [intelligence] Mohayasi Eva [conflicted] Me [me];</p>
+<p>Tat [therefore] Ekm [one thing] Vad [tell]  Nishchitya [after deciding] Yena [by which] Shreya [honor] Ahm [I] Aapnuyam [I get].</p>
+</blockquote>
+<p>As I said, this is a conversation between two Yogies,  a fascinating conversation. This conversation is what <code>Karma Yoga</code> is all about. As we know there are many types of <code>Yogas</code>. In the Scripture, we start with <code>Hath Yoga</code>, <code>Nyaan Yoga</code>, <code>Bhakti Yoga</code>, and <code>Naad Yoga</code>. And they say <code>Karma Yoga</code> is the epitome of <code>Yogik</code> practice.  Krishna himself advocated <code>Karma Yoga</code> and in the context of <code>Karm Yoga</code>, Arjuna said - “Your mixed messages are kinda confusing me. Therefore, decide one thing and tell me clearly that brings me honour.”</p>
+<p>Krishna did realize that he probably said too much in too little time. And he appreciated it may be hard on Arjuna to comprehend all this . The reason  I’m saying this is if Arjuna himself, a Yogi, was unable to understand Krishna (speaking face to face) , what  chance do we have to comprehend Gita from second chapter? Many people say chapter two is pretty much everything that Gita has to say. The problem is there is just so much that even Arjuna had to dive deeper. Thus in chapter three, they focused the topic of <code>Karma Yoga</code> and Krishna took a step back, and he understood he needed to explain a little better. So here he said .. </p>
+<blockquote>
+<p>Loke [in the world] Asmin [this] Dwi-Vidha [two kinds of] Nishtha [faith] Pura [previously] Prokta [said] Maya [by me] Anagha [O sinless Arjun];</p>
+<p>Jnana Yogena [with ritual of knowledge] Sankhyanam [by philosophers] Karm Yogen [with ritual of actions] Yoginam [by Yogies].</p>
+</blockquote>
+<p>So Krishna, having understood the confusion that still prevailed in the mind of biggest warrior and his friend and he talks back to him with love and respect, he says - O sinless Arjuna . There are two types of faith in this world as told by me previously <code>Nyana Yoga</code> for the philosophers, and the scientists, and the mathematicians. And <code>Karma Yoga</code> for the <code>Yogies</code> . The <code>Yogies</code>,  who are connected to me. </p>
+<h2 id="what-is-karm-yoga---the-ritual-of-actions"><a class="header" href="#what-is-karm-yoga---the-ritual-of-actions">What is <code>Karm Yoga</code> - The ritual of actions.</a></h2>
+<p>In Chapter two verse 47, Krishna mentioned one of the most far reaching insight. He said .. </p>
+<blockquote>
+<p>Karmani [in <code>Karma</code>] Eva [certainly] Adhikarah [right] Te [yours] , Ma [never] Faleshu [in the outcomes (fruits)] Kadachana [at any time] ;</p>
+<p>Ma [never] Karma-Phala [results of <code>Karma</code>] Hetu [cause] Bhuh [become], Ma [never] Te [yours] Sangah [attachment] Astu [ there should be] Akarmani [ Inaction - not doing your <code>Karma</code>] |</p>
+<p>You only have rights to the <code>Karma</code>, never on the outcomes. In addition , neither consider yourself as the cause of your <code>Karma</code> , nor do attach yourself to not doing your <code>Karma</code>. </p>
+</blockquote>
+<p>The question is what is <code>Karma</code>? Here in chapter three he goes on to define <code>Karma</code>. <code>Karma</code> is something that we do for the sake of <code>Yazna</code>- He says in verse 15  - <code>Yazna arthat karmanah anyatra lokoyam karmbandhana</code> - things that we do for <code>Yazna</code> are <code>Karama</code> , rest everything is a bondage to our virtual box. We discussed this verse in our previous section “Continuum” and also saw that <code>Yazna</code> is a skill building pursuit without desires; without the influence of association;  and without any preconceived biases - <code>Muktsangah Samachara</code>. </p>
+<p>Thus primary aspect of <code>Karm Yoga</code> is building a skill without worldly expectations in a dispassionate manner. The question than is how do we undertake such a pursuit. In our normal experience we act because of the desires. In fact , passion is the drive that makes us work hard. The good news is Krishna provides a simple roadmap. This path has four stages - kinda four categories ..</p>
+<ul>
+<li>Service Orientation</li>
+<li>Skill Capture</li>
+<li>Righteous Application of the Skills</li>
+<li>Riding the Wave.</li>
+</ul>
+<p>He Says ..</p>
+<blockquote>
+<p>Chatur [four] Varnyam [categories] Maya [by me] Srashtam [created by] Guna [qualities] Karam [righteous actions] Vibhagshah [in terms of division];</p>
+<p>Four categories of humans are created by me based on the qualities of the people and their righteous actions. Their prescribed righteous actions. </p>
+</blockquote>
+<p>Let us take a quick look at these four categories .. </p>
+<h3 id="service-orientation"><a class="header" href="#service-orientation">Service orientation</a></h3>
+<p>If you are someone (like me) for whom, desire is a prerequisite for the actions, “Service Orientation” is the starting point. Good news is , it is the easiest stage. The idea is super simple. Look around for all the things you can do to pass your time and always prioritize those things that involve physically serving someone . Of course without any expectation of the payback. In fact there are lot of things that we can do to service our own family , our own  home.  We really don’t need to sign up a volunteering mission in Africa if our own family is not getting enough of your attention . I mean if you volunteer , that’s great but keep in mind, your actions need to be in your action field. Your own physical reality. This phase as something where we start seeking pleasure in chores. </p>
+<p>It seems hard to start one of these actions. Try cleaning up your garage, but once we do, the actions themselves pull us in. We feel a strange peace when we successfully finish fixing our wardrobe. </p>
+<p>The key to success in this phase is to notice this peace . Hold and enjoy it. And see how small chores adds up in untangling our life. In Hindu tradition, this phase is called <code>Shoodra</code> . And there was a time when people started looking down upon this phase as someone who is doing menial tasks just because they are not super qualified to take on so called  bigger responsibilities, however, this is an essential phase because this is where we get the first exposure to “acting without desires” . If you are a procrastinator like me, I am sure you always want to put off your chores. There is no energy because energy in our system comes from the desires. In a way, this phases gives us the freedom from the idea that actions must be driven by the desires. </p>
+<p>Not only does this phase gives us the taste of “actions without desires”, it also tunes us up to doing things alone; without the curse of association. I doubt there is any friend who had rather be with you doing your chores. You realize that the drudgery of life is something that you need to carry alone on your shoulders. In a way it is a very humbling experience. </p>
+<p>Goes without saying, this is not a water tight phase. It is not that we are blocked into this phase for a duration. Doing it consciously say for couple hours daily is all we need for few months. The idea is to establish a truth to ourselves that actions need not be driven by desires and to feel the satisfaction that comes from acting without desires. Thus even if you could afford to have someone run our errands, it is important to do them ourselves every now and then. </p>
+<h3 id="skill-capture"><a class="header" href="#skill-capture">Skill Capture</a></h3>
+<p>The best way to focus on actions is to develop a skill. Building a skill enhances divine wealth what Gita calls <code>Daivy Sampad</code>. We will talk great deal on this topic in next chapter; suffice to say here that skills must be developed in isolation. It not only gives you more time on skill building aspect,  at the same time it helps you not build expectations on yourself. </p>
+<p>As we start developing the skills, and get some initial success , you will notice desires again start creeping back in. Now they are aligned to the skills that you are building. If you are working to be say a coder , you will start dreaming about becoming the next google; if you are working on music, you will end up hosting concerts in your dreams. All good. The key is to know and tackle these desires on their merit. Again the skills that you will choose to build must be grounded in your physical reality or else they might end up pipe dreams. Other thing that you will notice is the deep satisfaction when you are in the “act” of skill building and you see some success. This is the most important aspect of this phase. We need to learn to harness this satisfaction. </p>
+<p>In fact , the idea of <code>Yazna</code> is nothing but the skill building pursuit. Krishna says … </p>
+<blockquote>
+<p>Saha [along with] Yajnah [ritual of actions] Prajah [community of followers] Srishtva [having created] , Pura [previously anciently] Uvacha [explained] Praja-patih [ a demigod in Hindu scriptures ];</p>
+<p>Anena [this way] Prasvisydhvam [ having attained more prosperity] Esah [ through this] Vah [they ] Astu [stayed as] Ishta [ desired things] Kama-dhuk  [ owner who enjoys his rein].</p>
+<p>Previously, in the ancient times <code>Prajapati</code> - a demi God, created the idea of <code>Yazna</code> - ritual of actions and explained it to a community of followers. The meaning of the word ``Praja Patih` is actually community leader- one who is taking care of the community. Practicing this as a framework to build new skills - miners , agriculture etc;  they all got their necessities and niceties and stayed satiated.</p>
+</blockquote>
+<p>In Hindu traditions, this stage is also known as a trader <code>Vaishy</code>. In a way we are taking all that we need from <code>Bramha</code> - the system and building the skills that will manifest back into the system. </p>
+<h3 id="application-of-skills"><a class="header" href="#application-of-skills">Application of skills</a></h3>
+<p>Just acquisition of skills is not the end of <code>Karm Yoga</code> ; we need to be able to deploy such skills righteously. As a matter of fact, the core conversation of Gita is about this aspect of <code>Karm Yoga</code>. Arjuna is the most skilled archer of his time and now he is at cross roads as to if or not apply his skills for a righteous cause. We very well know what Krishna advised him to do. </p>
+<p>In a way, holder of the skills has a solemn responsibility to apply the skills in a judicious and righteous manner. That is the reason lawyers and doctors are under oath to apply their knowledge for the right cause with impartiality. Journalists have a similar obligation. One of the reason we have so much trouble with the software and Artificial Intelligence is that coders yet don’t have such obligation. They are never given a lesson on ethics. Thus we see profit motivation taking a precedence over people’s privacy and well being in social media. We see the drive towards an interface design that is often over immersive and click hungry - unnecessarily. </p>
+<p>As we saw in the last section , <code>Bramha</code> - the system, can assign us duties only if we have the skills.  The idea is to render those duties in an ethical manner. In the Hindu tradition, this stage is also called <code>Kshtriya</code>. By convention of old times, the word became synonymous with a warrior because that was the most sought after skill of those times but in truth, the meaning is NOT limited to the war or warriors. Anyone who is called upon by the system for application of their skills and who does that in ethical manner is a <code>Kshtriya</code></p>
+<p>The key aspect of righteous application of the skills is the idea that such choices , amidst conflicts of our tiny box - the reality as we perceive, expose us to the underlying truth. Once we see pass through the conflicts and really feel the true nature of reality, we get a lasting handle on desires. In a way every skilled human is a warrior because the situation always demands fighting our own desires . Our own desires for a payback, fame and favors. Those of well being of our offspring. The good thing is <code>Krishna</code> assures to hold your hands if you ask for it. Every step of the way . He will guide you to choose the right path though the choice remains with you and the battle is not easy. </p>
+<p>Taking a righteous stance in a conflict (internal and external) is the set of keys that unlocks the door. </p>
+<h3 id="riding-the-wave"><a class="header" href="#riding-the-wave">Riding the wave</a></h3>
+<p>The last stage is when we understand the true underlying reality , having gone through the skill building and their righteous application. In this stage the <code>Karm Yoga</code> becomes a lifestyle ; beyond a specific situation. We become the embodiment of <code>Bramha</code> and that is the reason this state is called <code>Bramhana</code>. Righteous actions are part of our life and style. Gita says, at this stage you are in position to decide wrong from right and impart that knowledge to the rest of the community. Actions , now , are no more a mandatory requirement for you but you still indulge in them to set up an example for the rest of the humans. The knowledge is self evident to you. You stay in everlasting peace. At this stage you are not even a <code>Karm Yogi</code> - you are simply a <code>Yogi</code> - means connected. </p>
+<h2 id="a-deeper-dive-into-actions-vs--outcomes"><a class="header" href="#a-deeper-dive-into-actions-vs--outcomes">A deeper dive into Actions vs  Outcomes</a></h2>
+<p>While we are on the topic, let us take a deeper look at the actions v/s expected outcomes. The idea is, not only focus on actions is liberating, chasing the outcomes on the other hand is futile. </p>
+<h3 id="separation-of-actions-from-outcomes"><a class="header" href="#separation-of-actions-from-outcomes">Separation of Actions from Outcomes</a></h3>
+<p>The key to understanding <code>Karm Yoga</code> is that actions and outcomes are two separate entities. Actions are always a in physical system but the expected outcomes are always in the context of a metaphysical system. For example think of a roulette table. Action is to put your money on a number. Expected outcome is you hit a jackpot. Both of them appear to be in the same, single  and one physical system - the casino, but the question is why do we want to win a jackpot ? Why not any other number ? Because hitting the jackpot means truck load of money - money that we can use to enhance our ownerships or influence in other metaphysical systems - say our family or the workplace . </p>
+<p>Once we attach such desires to the actions, we lose the cause-effect relationship of actions to the outcomes. In a way, we separate expected outcomes from the actions. Higher this degree of separation , the probability of expected outcomes reduces exponentially. </p>
+<p>Our senses chase certain outcomes. Outcomes that our mind deems better for the survival (or growth) of physical body in metaphysical systems. Based on the outcomes, we keep adjusting our actions hoping to hit  the jackpot. Continuing with our example - adjusting the action means we change the slot or the number that we put our money on - still hoping for the jackpot.  Our sensory focus always stays tied to the outcomes. And thus we miss all the action. </p>
+<blockquote>
+<p>Test - in any gambling session, All you remember are the major wins - your lucky number, but you never remember all the numbers you put your money on and lost.  You don’t remember the sequence that led to the win.  Try to remember next time you sit for a poker game - entire history.  Your focus will shift from winning the game to “how” the game is played , how the game works ?</p>
+</blockquote>
+<p>Let us take another example from the stock market. We invest in say Apple hoping the stock will go up after the new product launch- the new iPad, the new iPhone. Our investment has no relationship at all as to what Apple is planning or how the overall market is going to react to the news. Our hope  (in this case) is as good as hoping for the jackpot . You may say that yes, you can predict what new products are likely. Yes you can, to some extent but reaction of stock market is like the spinning wheel.  If the stock goes up, we feel happy and claim a win. If it goes down, we take another action to sell the stock to stop losses. In a way, we have put the cart in front of the horse. Random outcomes govern most of our actions. We live in expectation of one outcome to another. We forget the action - means we still “act” ; but our focus is on “outcomes” - not “Actions”</p>
+<blockquote>
+<p><code>Karm Yoga</code> is shifting our focus from “outcomes” to the “Action”. </p>
+</blockquote>
+<h3 id="another-look-at-the-hypothesis"><a class="header" href="#another-look-at-the-hypothesis">Another look at the Hypothesis.</a></h3>
+<p>As per the hypothesis - the actions <code>Karma</code> are driven by the internal knowledge - the righteous actions. Just the way we can infer the existence of Black Holes by interpreting their effects, observing our own actions can give us an indication on the nature of our own black-box. As you know , Balck Holes  are invisible to our senses or the tools that extend our senses because no information comes back from them, but we know their existence. And we can tell let us say their mass, their angular momentum or even their entropy by observing their effects or the actions. </p>
+<p>The knowledge is hidden to our senses because senses are externally focussed on outcomes. Which is not a bad thing because the primary purpose of senses is survival - not the “exit”, but more we focus on worldly outcomes, more we are bonded to our sensory “reality”. Which also means with outcome based strategies, it is impossible to access internal hidden knowledge. </p>
+<p>In essence we must seek actions “Karma” NOT the “Outcomes”. Outcomes will be there but they are to be seen as by-products. The primary goal is to know yourself. As we get steadfast on this path , we realize , even the nature of work is unimportant , what matters is we are constantly observing our “Actions” and are always eager to perform them. The best example is kids eagerly waiting for the play time. They don’t care of the out comes. They don’t even care what game. All they want do is to indulge in action - video games included :-) </p>
+<h3 id="why-righteous-actions-"><a class="header" href="#why-righteous-actions-">Why righteous actions ?</a></h3>
+<p>Any action (without desires)  is good if the goal is to only access our hidden self. Doing “righteous” actions is a smarter choice because the people around you will facilitate such acts.  On the other hand, if your actions are random, “outcomes focussed” people will hinder your ritual. As a <code>Karm Yogi</code> , you don’t care about the outcomes, but people around you do. So , do the right thing unless you are living a solitary life in a Himalayan cave :-) . In fact, It is easier to do the right thing except when you are in a testing situation like Arjuna, that demands to take a point at your friends and relatives ; and teachers. Such events are rare and think of them as an extreme portrayal to hold the interest in a narrative.  As a matter of fact, if our focus is what you are doing , it is very hard to do anything wrong. We normally get into immoral conduct when we are driven by desires. </p>
+<p>Thus Krishna gave a three pronged strategy to Arjuna ..</p>
+<blockquote>
+<blockquote>
+<p>If you win (in realizing yourself  you will exit from the miseries of the cyclic nature - real victory. Even if it doesn’t work out and you win the physical war, you will still have the wealth of this world to rejoice. And if you died (in the event you lost the war), this body is anyways fungible in this circular underlying reality. </p>
+</blockquote>
+</blockquote>
+<h3 id="isnt-it-impossible-"><a class="header" href="#isnt-it-impossible-">Isn’t it impossible ?</a></h3>
+<p>Yes it is. Detaching the actions from outcomes is as “impossible” as picking up a violin and becoming a musician the very first day. We need to think <code>Karm Yoga</code> as a skill. The ultimate skill that enables us to learn anything we want and finally know ourselves. Thus it is a journey. </p>
+<h3 id="you-may-already-be-a-karm-yogi"><a class="header" href="#you-may-already-be-a-karm-yogi">You may already be a `Karm Yogi“</a></h3>
+<p>If learning new skills comes easy to you; you may already be a <code>Karm Yogi</code>. You just didn’t know it. And the training could be a bit misplaced. For example, the modern way to accomplish something is to set your eyes on a higher outcome. May be you want to become a Youtuber. What you are told to do is say chase a million followers. Once you hit that you are craving for ten million. Or you want to excel in sports. The coaching is to give you a bigger dopamine for more dollars, more recognition. So that you could let go immediate sensory pleasures in expectations for the ever moving line. . You work hard to accomplish your goals.</p>
+<p>Krishna says - If you practice <code>Karm Yoga</code> for a worldly goal, you will easily get that but all such gains vanish in due course. And you again start to accomplish something else - may be even bigger. You are already a <code>Karm Yogi</code> because you know how to control your senses and focus on actions. You are just striving for the lesser goals. In a way you are short selling yourself. Why not learn the “process of learning” itself. And access entire knowledge base that is already hidden in you. In fact, such short selling is the cause of all cycles. It creates a race among humans to do more of the less- to chase more and more of the lesser goals. It makes us seek higher and higher sensory pleasures. Bigger the rise, deeper the fall .. </p>
+<p>Same skill of learning, with a better coaching, can lead to eternal peace and fulfilling knowledge. </p>
+<p>The model proposed by Gita is beautiful in the sense it uniquely empowers every individual to overcome the miseries of life and at the same time, it sets up the stage for a successful career as a residue. Our individual success leads to a world worth striving for.</p>
+<hr />
+<center>
+<h2>3.0<h2>
+</center>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="continuum.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="practiceAndSkills.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="continuum.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="practiceAndSkills.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

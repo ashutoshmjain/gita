@@ -1,0 +1,310 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Bold.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Regular.ttf" crossorigin>
+        <link rel="preload" as="font" type="font/ttf" href="../fonts/Kalam-Light.ttf" crossorigin>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjunUvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html" class="active">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjunUvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjunUvaach';
+                        var chapterTitle = 'Identity';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ashutoshmjain/gita" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>Narrative has the power to capture people’s imagination. Fairy and Friend were hooked. It did feel like their  indulgence was  more than mere curiosity. It was as if something in them  craved  to know more - every single detail. How people reacted to see <code>Matsya</code> back in her village . Did they recognize her?  Did she see the same version of reality that she lived few years back;  or did she see a new angle - may be an “anti-version” of her previous world - her “tiny box”.</p>
+<p>As if Angel read their minds -  you always see something new when you return to your home town - he said -  that is kinda true for any place where you made some memories, but “home” flows in your blood. You readily notice the diffs that you had otherwise ignored, for the change is unnoticeable to a boxed observer - like a frog in a boiling pot. A “return” spotlights the gradual mutations. But that is NOT how you see “the” Magenta; or the anti-Green  - whatever shade is that!</p>
+<p>The Angel continued talking to a rather surprised Fairy and her friend - to be able to see the inverse of your reality - the other side -  you must change your persona inside-out. No one must recognize you in your own home - he said - No one even looking for your return. And you must be exact opposite of what you were - a beggar if you were a king, rich if you were poor, handsome if you didn’t have the looks, a singer if you were a thinker, and fragrant if you smelled like a fish. Such an internal shift ain’t easily accessible, that’s the reason, we never see the other side <sup class="footnote-reference"><a href="#otherSide">1</a></sup>. <code>Buddha</code> did it when he returned back to <code>Kapilvastu</code>. Despite being on invitation from the king, he went out alone to get food for himself - as a beggar. He wandered in darkness the streets that used to be lit up on  his visit as a king - an exact opposite!</p>
+<p><code>Buddha</code> being enlightened knew it didn’t matter if the new vantage was good or bad - the purpose was to see the “other side”. As you become observant of both sides of your reality -  of the color and the anti-color, you have a chance to approach the  “knowledge” held within - and only a “chance” it is - there is no guarantee you had spin towards “white”. An opposite spin to “dark” is as much probable - it is a coin toss -  unless you have the tools to keep you steadfast on your course - to find who you are!</p>
+<p>Angel thought for a while he spoke again. He didn’t expect this conversation to go this long - returning to your home with anonymity, and  with exactly opposite persona is a powerful experience. It’s like going to your office after many years of retirement - as “a nobody” where you served as a Deputy or a Boss.  You feel as if the walls and the chairs were mocking you for you never cared to notice them. You thought office was made of the “people” and now the realization; that the people were the most fungible in that confine -  all your peers gone long back; and all your subs probably transferred. Same thing when you go back to your school after say twenty years of graduation - it’s so known yet so different!</p>
+<p>It kinda proves the “knowledge” held “with-in” is always complete. What changes is how we look at. It appears the way you view it. Beauty, in fact, lies in the eyes of the beholder and so is misery - the Angel thought this was a good point to stop!</p>
+<p>Tell us more of her return O, good Angel - insisted the Friend fully hyped at the way <code>Matsya</code> blossomed as a character - so different from the narratives of this age. Now that you have kindled the interest you can’t hold the story back. As she said it, the mid night bell rang. The club was about to close. </p>
+<p>May be some other time - said the Angel,  but he quickly changed his mind - On the second thought, how about you see it yourself ?</p>
+<p>How ? - asked Fairy - last I checked we still can’t travel back in time - she smiled. </p>
+<p>Yup, we can’t “yet” travel back in time, but you can see it in your head sets - replied Angel - How about you come with us - he pointed to the friend - I think I  had converted the next scene into a static <sup class="footnote-reference"><a href="#staticVR">2</a></sup> VR. It should be in my library. </p>
+<p>Walking to Fairy’s car he added the disclaimer - it is not your level of professional quality - he looked at the Friend - but I guess it would serve better than me telling the story. Both of you may enjoy the scene while I keep my hands on the wheel (and eyes on the road). He didn’t miss the opportunity to curse centralized traffic control -  what is the point of self driving chariots if at least one must sit on the steering - he raised his hands in frustration !</p>
+<p>Yes sure - said Friend - my car can follow yours. Empty vehicles didn’t need a driver - strange rules (of the new world) - she laughed. A chariot may drive itself thousands of miles, but if there is even a dog inside, someone must be on the wheel - they even track the eye balls to make sure driver stayed awake!</p>
+<hr />
+<p>A notification for the overdue bill showed up on Fairy’s phone. After clearing the bills, she summoned her old Model X. The friend had the latest iteration - they call it Model ∑ - it could drive in three modes - on roads, water and air.</p>
+<p>Angel hopped on to the driver seat. Two friends put on sleek headsets on the back - “Vision Pro 14” - the latest combined spatial computing platform from  Apple, Google and Meta. Almost a decade back the trio decided not to fight each other for the same customer cohorts. They came up with single unified computing platform - Apple did hardware; Google did the operating system ; and Meta built the experiences. Most of consumer facing computing was an interactive experience - education, work and entertainment. Building new experiences was the most sought after job that needed design skills more than coding or systems experience. Regulated AI models from big tech did the technical underwork without much human intervention. It was the height of centralization but their gadgets worked - unlike those from the “decentralized resistance” that had no sense of smell besides being bulky. The one from trio was a translucent sheet of glass pulled over nose and eyes. In many areas, air quality was still bad; forcing common people to breathe through headsets.</p>
+<p>Angel navigated them to a locale built at the dawn of the civilization - the sequence of separation. They could see <code>Matsya</code> riding her boat as she waved good bye to <code>Maharishi</code>, and her year old. She had tears in her eyes. And once again, she had no clue what to expect! What is it that <code>Maharishi</code> wanted her to experience and what actions she was supposed to take?  Would she get lucky or would she fail <code>Maharishi</code>? - and her son! She felt pressure of separation building as if it was a test destiny so carefully planned for her. Tears roll up when we don’t understand what we are feeling!</p>
+<p><code>Maharishi's</code> eyes moistened too. He wished her luck for the reality is fickle and the present always indeterminate. Things may go insanely wrong at the flutter of a butterfly. The business of prediction is risky - he thought - and Identity definition is a matter of absolute chance. Despite all the wisdom that he had at his disposal, it had taken him better part of his early life to really figure out what he himself stood for.</p>
+<p>In <code>Sanskrit</code>, Identity is called <code>Swaroopa</code> - the shape of self .. And it is a mirror image of the “Knowledge”. It is also the beginning of <code>Karma</code>. Till we find “who we are”, most activities are literally “beating around the bush”.</p>
+<h1 id="swaroopa-"><a class="header" href="#swaroopa-"><code>Swaroopa</code> ..</a></h1>
+<p>The village was in a state of shock when <code>Satyawati</code> made it to the docks. <code>Maharishi</code> had fixed her boat that it looked like a new built. <code>Matsya</code> was long lost from the memory of that space. She docked her boat and turned to a group of fishermen who were looking at her in disbelief — Is there a place to stay in this village and also who is the village head here? I wanted to seek permission to moor my boat on this dock — she acted as if she didn’t know the docks she grew up on! She had practiced this opening line of her new act many times. In real though, it felt different, and she felt a tinge of excitement!</p>
+<p>The fishermen were speechless. They had never seen a more beautiful woman and her fragrance was driving them crazy. One of them offered her his seat standing up. Other offered her food that his wife had packed. Yet another offered to take her to the village head. </p>
+<p>The village head — <code>Dashraaj</code> in mid seventies, had his share of ambitions in his youth. His ideas were forcefully changed by <code>Maharishi</code> but though he thought he still had a role to play. He had seen the life long enough to be enchanted with anything glittering. Or at least that was what he thought. His week eyes wouldn’t see <code>Satyawati</code> well enough, but he couldn’t resist the smell. It was as if a goddess stepped into his home. He too stood up to offer a seat and water . When she sought his permission to dock the boat, he didn’t think twice. <code>Satyawati</code> saw the power of fragrance first-hand. She was happy. She kept on — Is there a place I could rent to stay. I have some gold. </p>
+<p>The word “gold” rang a pleasant bell in <code>Dashraaj's</code> ears — you are responsibility of this village. You don’t need to spend a penny here. You are like a daughter to me, why don’t you stay with us?  <code>Matsya</code> could see the greed painted on his face, yet his words sounded pleasant. On the other hand, <code>Satyawati</code> was getting used to privileges of the rich and the beautiful! </p>
+<p>He continued - I have three daughters who could help you on the boat. She nodded her acceptance and said thanks in <code>Sanskrit</code> to make sure she was considered not only beautiful (and rich) but educated too. She had her moves fully planned!</p>
+<h2 id="101"><a class="header" href="#101">10.1</a></h2>
+<hr />
+<p>The news - arrival of a beautiful ‘noblewoman’ - spread in the village like a wild fire. Men and women stopped whatever they were doing and flocked to village head’s home. Men were eager to help a “single” beautiful woman. Some applauded her for navigating rough <code>Yamuna</code> alone. <code>Matsya</code> was stunned at the double standards but then she smiled at the duality. Yet she reasoned - how could same set of people ignore poor <code>Matsyagandha</code>? It felt like <code>Matsya</code> actually died. Something in her told she needed more power. Power to rule the entire world. She will never be as exposed and as needy as <code>Matsya</code> was. She must build on her gifts. She however, was not sure if the desires were taking over her. What is the right thing to do - she questioned herself - let go the opportunity at hand or to capitalize this lucky break? May be <code>Krishna</code> would answer that one day! — she thought. For now, her focus must be as clear as the brightness of that summer day.</p>
+<p>After few days of rest and cooked meals served on demand, <code>Satyawati</code> returned to her boat. Along with her, three <code>Dashraaj</code> girls. The older one slightly older than her and youngest slightly younger. Middle one was her age. She was back in the business as she saw a line of commuters growing to board her boat. She smiled and a song came to her lips - life is gracious to the rich and beautiful. The thought was soon replaced by the memory of <code>Krishna</code>. Every success must be paid in some form, some pain. She reminded herself that <code>Krishna</code> was with <code>Maharishi</code>. He couldn’t have asked for a better guardian.</p>
+<blockquote>
+<p>Time took the wings again. Every evening she reminded herself what <code>Maharishi</code> told her - don’t get lost in your new reality for the only way to see the truth is to find who you are. You must try to actively engage in self discovery. The ability to see your tiny box from both sides is just a tool, it is not a guarantee. And when you start getting lucky on this path - you must embrace light - not darkness! Self realization is NOT about giving up. It is about doing the righteous!</p>
+</blockquote>
+<p>The insights that <code>Maharishi</code> gave to <code>Satyawati</code> helped her bear the truth. The truth that the perceived reality that we are willing to die for is fickle - an image in the mirror that appears different from different angles. Exposed to this fact, a normal mind would completely lose faith - life would appear meaningless. Think of it as a trap, for the road from “lost faith” to “Identity” (<code>Swaroopa</code>) was painfully long. </p>
+<p><code>Satyawati</code> was determined to put on the battle because <code>Maharishi</code> had told her next assignment was hidden in her Identity. She would know her actions when she found who she was! He also said no one could show that door. It happens when it happens and the inspiration may come from an unknown trigger - all of a sudden.</p>
+<p>Her boat got popular — like a tourist attraction.  People started pouring over just to see her and to listen to her sing.  And of course the fragrance. She got rich but she was still waiting for the next season of <code>Maharishi's</code> prediction. <code>Dashraaj</code> officially declared her as his daughter. There were many suitors who would happily surrender their lives’ worth for <code>Satyawati</code>, but none of them could make her “rule the world” - as prophesied. More importantly, she was curious of the bigger cause that <code>Maharishi</code> said she was a part of. For now, she was okay with the ephemeral welcome that she knew not existed. And she kept on sharpening her skills — music, singing, looking good and of course smelling good.</p>
+<h2 id="102"><a class="header" href="#102">10.2</a></h2>
+<hr />
+<p>The village accepted <code>Satyawati</code>, though it was still hard for her to accept her new version. Sometimes she would wake up early to walk past her old home. She even went inside. The door was totally gone. The holes in the roof had widened. She wondered if she should get it fixed but then the dilemma - what if her cover got compromised. Sometimes she would take her boat to <code>Yamuna</code> in the middle of the night, and spend hours on the haunted island. Sometimes she would lock herself up in her room without water and food. On one hand there were aspirations - she could get whatever she wanted, on the other hand there were doubts and fears - what if she lost her fragrance - what if someone recognized her. The mind like a pendulum and the heart like a wave. Sometimes she wanted time to skip the years of wait, other times she wanted the time to stop. It was as if she had the answer stuck in her mind but unable to verbalize it. What exactly is the life and why is this game being played? </p>
+<p>One fine morning it happened - it just dawned upon her! As she let her boat into the waves of <code>Yamuna</code>,  she noticed the water flowing  right under her boat. It was always there and she always cursed it. Why can’t the river get a little slow - at least to let her start rowing? Is it too much to ask off the river whom everyone thought as mother? </p>
+<ul>
+<li>
+<p>The question, however, stuck this time. What exactly is the river ? - she asked herself. If she wanted to slow the river down, she must understand what the river is? Is it the two banks or is it the water that flows with in? An obvious answer was “both” - the banks as well as the water - that is a rational description of the river !</p>
+</li>
+<li>
+<p>But she reasoned further - what if there is no water, would it still be a river? Would she be able to sail through a waterless river? And if there was water, it would somehow find the banks. It might spread into a flood but sooner or later, it would cut through the soil to make the banks. Banks are made by the flow, not the other way around. </p>
+</li>
+<li>
+<p>And all her life she kept chasing the banks - from one side to another. She thought the flow was the cause of her pains for she had to row harder in the rainy days when <code>Yamuna</code> peaked. And turned out it was the flow - the source of her livelihood and life. </p>
+</li>
+</ul>
+<p>She recalled <code>Maharishi</code> said the reality is a <code>Yantra</code> - a configurable machine. But now she understood what he meant. Just the way water in the river shapes the banks, the thing that flows in us shapes us - our reality. That thing is important. That thing is “knowledge”!</p>
+<p>Freedom from the fears and the desires is normally simultaneous - no different for her but she didn’t have time to even notice. Her vision was now fixated on the ever flowing self. That one that is bound with in the two banks of her being - beautiful her and ugly her - poor her and rich her - fragrant and the one who smelled like a fish. She realized the taste of her <code>Atma</code> - her knowledge - herself. </p>
+<p>It was like entering a new home that you built with utmost care. When you get to sit in there first time, you just wanna feel that moment. As if her body was the home and her inner-self wanted to rejoice just being in the safety of her body. Calm and peace. There was no hurry to do things. No actions urgent but not doing them either was no fun. She recalled again the words of <code>Maharishi</code> - when you see it, you will know you have seen it. There was no other way to explain the experience. </p>
+<p>Not only herself, she also realized the name that <code>Maharishi</code> gave her. <code>Satyawati</code> means who bears this truth ..</p>
+<h2 id="103"><a class="header" href="#103">10.3</a></h2>
+<hr />
+<p>Things were not as good on the other side - barely a mile from <code>Satyawati's</code> village. Back to his <code>Ashrama</code>, there was a welcome celebration for <code>Maharishi</code> and <code>Krishna</code>. No one asked about the mother for they were all busy checking out the toddler who could already speak broken <code>Sanskrit</code>. He had the <code>Gaytri Mantra</code> by heart. </p>
+<p>The apparent joy in <code>Ashrama</code> appeared a bit subdued to <code>Maharishi</code>. At the very first chance, he asked <code>Maitreya</code> if things were fine. When he found <code>Maitreya</code> quiet, <code>Maharishi</code> dug deeper. </p>
+<p>The momentary waves of anger arose in <code>Maharishi</code> as he heard about house arrests of his friends — <code>Ugrasen and Vasudev</code>. No one could ever imagine that a political thug of yesterday would have the audacity to chain the very hands he grew up in. And to tax eternal congregation of <code>Vaśiṣṭha</code> - it was both ridiculous and crazy. <code>Maharishi</code> wondered how did <code>Kansa</code> even got such ideas - who is driving him to this utter destruction of the work that he so painfully accomplished with his father. A part of him tempted to repeat the magic of his youth - trap him in his own fire and let him burn alive, but then, other part demanded compassion. After-all, what difference between him and <code>Kansa</code> if he too acted like a monster !</p>
+<p>The news of <code>Maharishi's</code> return did alarm <code>Kansa</code>, but the evil minds have their own way to thinking. He thought <code>Ugrasen</code> and <code>Vasudeva</code> need to be further secured to keep them as a bait in case <code>Maharishi</code> resorted to his fire traps. On the other side, <code>Maharishi</code> had discovered compassion. He tried many routes to show <code>Kansa</code> his righteous path. His every move was deemed a sign of weakness . Assuming no threat from <code>Maharishi</code>, Kansa’s ambitions went past his own imagination. His misdemeanours turned into felonies, and finally into sheer acts of cruelty. He forced <code>Acharayas</code> not to share donations with congregation till the <code>Ashrama</code> agreed to settle due taxes. Short of attacking the congregation directly, he adopted all the tactics to choke life out of the research work. Worst part was, he seemed to enjoy it all. </p>
+<p>After almost five years of struggle, <code>Maharishi</code> finally gave up. He thought Gods himself would deal <code>Kansa</code> a lesson, for the time must bring it’s own twists. Only thing that kept <code>Maharishi</code> going was <code>Krishna</code>. His skills - speech and scribing -  were shaping up more than anyone’s expectations. At a tender age, he was already been through most of scriptures. And blessed was he with rare memory — once heard, he never forgot a verse — even those complex ones that took normal students months to internalize.</p>
+<h2 id="104"><a class="header" href="#104">10.4</a></h2>
+<hr />
+<p><code>Kansa</code> delivered final nail to the <code>Ashrama</code> when he officially declared <code>Maharishi</code> and his allies “enemies of the state”. He demanded them to vacate the lands on this side of <code>Yamuna</code> with in a month. Time was of the essence. <code>Maharishi</code> called a general meeting of all the <code>Yogies</code> later that evening — to announce that the <code>Ashram</code> needs to be moved to the island. He claimed the island could be rendered curse-free with proper rituals. And since it was out of <code>Sur Sena</code> boundary, <code>Kansa</code> had no jurisdiction. But moving a thousand strong congregation was not easy. Housing needs to be built ; jetty was a must, and there were ton of other requirements to migrate the place. </p>
+<p><code>Maharishi</code> sent a pigeon out to <code>Shantanu</code> to summon his help. He was hopeful <code>Shantanu</code> would respond to his request.</p>
+<p>Later that evening, <code>Maitreya</code> informed <code>Maharishi</code> about new developments. His assessment was <code>Kansa</code> might have <code>Vasudeva</code> killed sooner because he was the only valid stake to the crown. <code>Maitreaya's</code> friend in <code>Kansa's</code> council had let out a note - a cryptic message. The note meant <code>Vasudev's</code> days were numbered. The plan was to show as if he was trying to escape and back-stab him. <code>Maitreya</code> knew his so called friend played on both sides though he didn’t blame him for keeping this balance - he must give something to <code>Kansa</code> just to stay relevant in the power structure. Effectively all his messages must be verified but this one appeared to make sense. <code>Kansa</code> was convinced that <code>Maharishi</code> was no more a threat and in any case he had <code>Ugrasen</code> as the ultimate bait. Keeping <code>Vasudev</code> alive had no purpose to him. Moreover it was a threat to his claim.  An atack on <code>Vasudeva's</code> life was inevitable. The immediate  question was how to delay the inevitable.</p>
+<p>Having discussed it together for an hour, they came up with a scheme. Given that it was impossible to get <code>Vasudev and Devki</code> out of <code>Kansa's</code> clutches, they must plot a good reason for <code>Kansa</code> to keep <code>Vasudev and Devki</code> alive. Their lives were precious even if they were living behind the bars. </p>
+<p>Being an astrologer extraordinaire, people believed in <code>Maharishi's</code> predictions. Most of the times, he didn’t want his name attached to his prophesies but this time it was different. This time it was a bluff. <code>Maitreya</code> sent a pigeon addressed to his accomplice that he had obviously take to <code>Kansa</code>. It noted <code>Maharishi's</code> big prediction. It said, once <code>Kansa</code> killed <code>Vasudev</code>, <code>Devki</code> too would die of grief with in a week. They would reincarnate such that no one, even with magical powers, could trace their location. And in their next birth, their eighth offspring would kill <code>Kansa</code> in revenge. </p>
+<p>The object of the message was to abstain <code>Kansa</code> from killing <code>Vasudev</code>.  But reality is always with some nuances. <code>Kansa</code> focused on the word ‘eighth’. The message caused panic in his mind. To him, it meant that both <code>Vasudev</code> and <code>Devki</code> must be kept alive till they have eight off-springs. And he must kill the eighth. </p>
+<p>His evil mind saw it as an advantage to declare it as a divine announcement from the skies. The distorted announcement that went out for public consumption was that eighth child of <code>Devki and Vasudev</code> would kill <code>Kansa</code>. It legitimized <code>Kansa's</code> claim that <code>Vasudev</code> had plotted treason - not only with other kings but with the divine forces too. He must be kept imprisoned but <code>Kansa</code> would still grant the couple best of life to live and procreate. He assumed people would see it as an act of kindness on his part - here you have proof that your eighth nephew would kill you, yet you wanna grant your sister a chance to live a normal married life - with babies. Could she ask for a better brother!</p>
+<p>Even <code>Maharishi</code> was unaware that the eighth child of <code>Devki</code> was going to be the chosen one .. <code>Vishnu's</code> seventh incarnation — to deliver the lead role of <code>Krishna Dwaipayana's</code> epic .. but we are getting ahead of ourselves!</p>
+<h2 id="notes-and-stuff"><a class="header" href="#notes-and-stuff">notes and stuff</a></h2>
+<hr />
+<div class="footnote-definition" id="otherSide"><sup class="footnote-definition-label">1</sup>
+<p>The other side:</p>
+<ul>
+<li>Everyone gets a chance to see the other side but we fail to see it. For example the transition from youth to the old age is an opportunity to see our “tiny box” from an opposite side but we miss the chance because the actors around us (<code>Sanghdosh</code>) don’t allow to see the new. Even in altered world we continue to retain our past - with our family and with our friends, we continue to hone our echo-chambers. At some point our echo-chambers get so irrelevant that the “death” remains the only way to clean up the system. An opportunity to really understand our <code>Swaroop</code> turns into our “demise”. </li>
+<li>It is not uncommon that people who are normally born poor turn rich in the old age and vice-versa. Stronger people lose their vitality faster than the ones born weak. Same with looks, influence and popularity. A chance to see both the sides was always built in the design of the wave nature but we lose the opportunity because we don’t approach it like an opportunity.</li>
+<li>Effectively, instead of looking at the center from two different sides, we split the center around our <code>Ahamkara</code>. We see a rise with the youth and a demise as we grow old - two separate halves of reality centered around our ego - mirror images - one on the left and another on the right - a wave!</li>
+</ul>
+<hr />
+</div>
+<div class="footnote-definition" id="staticVR"><sup class="footnote-definition-label">2</sup>
+<p>Static VRs were the first generation of virtual reality environments built with AI. The idea was to convert books into a more immersive medium. The next generation were dynamic VRs where you could observe your own trained avatar interacting with the environment in a fully autonomous fashion. The first use cases of dynamic VR were to test individuals for specific skills particularly for job interviews or match making.</p>
+</div>
+<hr />
+<p><lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/></p>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+<script
+src="https://nostri.chat/public/bundle.js"
+data-chat-type="DM"
+data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="mathuraChap09.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="mathuraChap11.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="mathuraChap09.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="mathuraChap11.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

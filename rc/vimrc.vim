@@ -91,7 +91,7 @@ Plug 'https://github.com/tpope/vim-surround'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'itchyny/lightline.vim' " from https://github.com/itchyny/lightline.vim
 Plug 'Raimondi/delimitmate'	" smart completion of delimiters
-Plug 'vitalk/vim-simple-todo'
+" Plug 'vitalk/vim-simple-todo'
 Plug 'vuciv/vim-bujo'
 Plug 'reedes/vim-litecorrect' " autocorrect - https://github.com/reedes/vim-litecorrect
 " Ravi Vivek to explore and add . Writing and Text-Objects plugins {{{
@@ -170,12 +170,14 @@ endfunction
 "    return s:word_count 
 "endfunction
 
-nmap <C-i> <Plug>BujoAddnormal
-imap <C-i> <Plug>BujoAddinsert
-nmap <C-j> <Plug>BujoChecknormal
-imap <C-j> <Plug>BujoCheckinsert
+" nmap <C-i> <Plug>BujoAddnormal
+" imap <C-i> <Plug>BujoAddinsert
+" nmap <C-j> <Plug>BujoChecknormal
+" imap <C-j> <Plug>BujoCheckinsert
 let g:bujo#todo_file_path = $HOME . "/github/gita/bujo"
 
+" clipboard setting
+set clipboard=unnamed
 " Coc configuration
 
 " May need for Vim (not Neovim) since coc.nvim calculates byte offset by count
@@ -203,7 +205,7 @@ inoremap <silent><expr> <TAB>
       \ CheckBackspace() ? "\<Tab>" :
       \ coc#refresh()
 inoremap <expr><S-TAB> coc#pum#visible() ? coc#pum#prev(1) : "\<C-h>"
-
+ 
 " Make <CR> to accept selected completion item or notify coc.nvim to format
 " <C-g>u breaks current undo, please make your own choice
 inoremap <silent><expr> <CR> coc#pum#visible() ? coc#pum#confirm()
@@ -267,7 +269,7 @@ xmap <leader>a  <Plug>(coc-codeaction-selected)
 nmap <leader>a  <Plug>(coc-codeaction-selected)
 
 " Remap keys for applying code actions at the cursor position
-nmap <leader>ac  <Plug>(coc-codeaction-cursor)
+nmap <leader>m  <Plug>(coc-codeaction-cursor)
 " Remap keys for apply code actions affect whole buffer
 nmap <leader>as  <Plug>(coc-codeaction-source)
 " Apply the most preferred quickfix action to fix diagnostic on the current line

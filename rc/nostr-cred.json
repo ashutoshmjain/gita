@@ -1,0 +1,25 @@
+{
+  "secret_key_bech32": "nsec1fjlk0hg928f8hucnejwsvd83m6n09gdwsgv70u36559z2g8lupls63vapj",
+  "public_key_bech32": "npub1xs798l5ujmp9642cvpm03a6yhl2y96mwr4dz0skqrswra556rxgsvjl673",
+  "relays": [
+    {
+      "url": "wss://relay.damus.io/",
+      "proxy": null
+    },
+    {
+      "url": "wss://nos.lol/",
+      "proxy": null
+    }
+  ],
+  "metadata": {
+    "name": "Don Joe",
+    "display_name": "Donni",
+    "about": "Testing nostr-commander"
+  },
+  "contacts": [],
+  "subscribed_pubkeys": [
+    "5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
+  ],
+  "subscribed_authors": [],
+  "subscribed_channels": []
+}

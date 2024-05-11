@@ -34,7 +34,7 @@ As early scribes discovered the written word; `Mathura` - the first seat of lear
 The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` summoned help from `Ganesa` - the elephant god. In Hindu mythology, `Ganesa` is the embodiment of intelligence. On account of his supernatural intelligence, he is also known as `Vighn Vighnesh` - the god of problem solvers - akin (still elusive) artificial general intelligence [^agi]. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
-Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally both of them are depicted to have non-human brains. `Thoth` sports head of a baboon while `Ganesa` is crowned with that of an elephant. Larger animals such as elephants, lose evolutionary advantage (versus humans) despite bigger brains - larger physique being harder to feed and multiply.   Sporting a larger brain on a human torso thus symbolizes right-sizing to optimize for growth of intelligence. It is on account of this gift, they are known as deities of hieroglyphs - sacred carvings - text.
+Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally both of them are depicted to have non-human brains. `Thoth` sports head of a baboon while `Ganesa` is crowned with that of an elephant. Larger animals such as elephants, lose evolutionary advantage (versus humans) despite bigger brains - larger physique being harder to feed and multiply.   Sporting a larger brain on a human torso thus symbolizes right-sizing to optimize for greater replication of intelligence. It is on account of this gift, they are known as deities of hieroglyphs - sacred carvings - text.
 </div>
 
 ---
@@ -106,6 +106,8 @@ Following pages are a filtered version of ongoing excavation investigating that 
 
 -----
 
+<div style="padding-left:40px;font-size:0.9em;"> 
+
 <script
 src="https://nostri.chat/public/bundle.js"
 data-chat-type="DM"
@@ -113,3 +115,5 @@ data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56
 data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
 ></script>
 <link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
+
+</div>

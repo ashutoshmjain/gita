@@ -89,12 +89,6 @@ All the content in this website is under creatives common v1.0. Which means ever
 - It is not a didactic religious document ! The goal is not to impart `Gita`. And for a good reason — no one might ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek that information that writer withheld at that time to avoid "stating the obvious". Having lost the context after thousands of years, we now crave for that information. In fact, the name `arjunUvaach` means "Arjuna speaks". And most of the time in `Gita`, Arjuna speaks to seek knowledge. `Gita` is answers to Arjuna's questions.
 - Footnotes are used to avoid verbosity in the body of article, but they do carry useful information. For paucity of time, if you happen to "skip-over", or for keeping the flow of reading, I suggest running by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in footnotes :-)
 
-## Contact
-
-You can reach [me at nostr](https://nosta.me/5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4) for any questions or suggestions. Since I don't use cookies or trackers, only way for me to know you are reading this text, is if you drop me a text ..hopefully of appreciation :-)
-
-You can also send me messages through `nostri.chat` - a little chat application you will find at the right-hand bottom of main page. If you send an anonymous message through `nostri.chat`, I may not respond back because I don't know who to reach back to -> please create a free [nostr account](https://nostr.how/en/get-started)
-
 ## Tips and Donations:
 
 Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You will see at the bottom of each page a donation box as shown below ..

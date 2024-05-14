@@ -2,15 +2,17 @@
 
 Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of his father `Maharishi  Parāśara` ...
 
-Seven months before `Parāśara's` nativity, `Bramhrishi Vaśiṣṭha` — his grandfather — woke up to a grotesque morning. His sprawling congregation (`Ashrama`), on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni` was killed by a tribal lord who titled himself a king. What bigger pain a man might have than his son sacrificed in his own backyard ! 
+Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, in his late twenties, was killed by a tribal lord who titled himself a king. What bigger pain a man might have than his son, at the peak of his teeming life, sacrificed in his own backyard ! It appeared, even `Yamuna` - the dark river - cried that morning of mass-murder ! `Mathura` - a budding city around the congregation, probably saw her first crime. 
 
-> Religious accounts proclaim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born! The epitome of India's contemporary knowledge hubs, `Mathura`, was in free bloodbath. In today's parlance, it would be as if someone killed en-masse at Google campus. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
+> Religious accounts proclaim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! The epitome of India's contemporary knowledge hubs, `Mathura`, was in free bloodbath. In today's parlance, it would be as if someone killed en-masse at Google campus. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
 
 Only `Bramhrishi` himself, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` (wife of `Śakti Muni`) was carrying yet to be born `Parāśara` - couple of months into her conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her massive wings across the main city and the adjoining villages. 
 
-Despite his constant contact with continuum - the interconnected play of the past, present and the future beyond mere causality - `Bramhrishi` wasn't immune to pain. The pain of losing one's offspring is known to be the biggest of them all -  even animals feel it - they cry. Remorseful `Bramhrishi` however didn't cry -  As if tears froze in his mind. He wondered about the curse and if the dark night would ever resolve itself into light. The problem being he saw himself at the root of this darkness.
+Despite his constant contact with continuum - the interconnected play of the past, present and the future beyond mere causality - `Bramhrishi` wasn't immune to pain. The pain of losing one's offspring is known to be the biggest of them all -  even animals feel it - they cry. Remorseful `Bramhrishi` however didn't cry -  as if tears froze in his mind. He wondered about the curse and if the dark night would ever resolve itself into light. The problem being he saw himself at the root of this imprecation.
 
-He couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - not by age but by tradition -  those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were actions for them. They didn't know how to think deep in the past or plan the future. They believed in old stories - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. Why would they turn against him ?
+He couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - not by age but by tradition -  those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were actions for them. They didn't know how to think deep in the past or plan the future. They believed in old stories - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. 
+
+Why would they turn against him ! - `Bramhrishi` thought.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 On the surface, it appears the contest is between the "old" and the "new". 
@@ -25,16 +27,18 @@ They occur for the consciousness must evolve to understand the nature of unity [
 
 </div>
 
-Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi Vaśiṣṭha` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
+Saddened to the core, and unaware that the young widow was carrying `Parāśara`, `Bramhrishi Vaśiṣṭha` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
 
 **And more importantly, to save humanity from the loss of the 'knowledge' that was locked in `Bramhrishi's` mind, for there was no written text.**
 
 ## 1.1
 ---
 
-If we think of  modern civilization as a  long train , then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the wheel-assembly. Hard to coalesce and even harder to decrypt Neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation as "methods" to accomplish complex tasks. Particularly one hundred  skills that were deemed magical. 
+If we think of  modern civilization as a  long train , then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the wheel-assembly. Hard to coalesce and even harder to decrypt Neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation (`Ashrama`), as "methods" to accomplish complex tasks. Particularly one hundred  skills that were deemed magical. 
 
-For example, it was hard for a forest dweller to fathom a metal as strong as iron, could be extracted burning a special type of mud in big fire (furnace). Those who didn't believe in such a miracle could visit the congregation to see the proof first hand. In essence these 100 skills were the first set of "qualified" truths. Their authenticity as much as the Sun shows up every day in pretty much same size while the Moon grows to get full for fifteen nights  - and then it diminishes. One of the reason people said "hundred sons" were taken that fateful morning was - each of them owned one skill stream. The owner of a skill stream was called `Aacharya`.
+> For example, it was hard for a forest dweller to fathom a metal as strong as iron, could be extracted burning a special type of mud in big fire (furnace) - a gift of Sun - most prominent of all deities. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand - the magic of Sun god. 
+
+In essence these 100 skills were the first set of "qualified" truths. Their authenticity as much as the Sun shows up every day in pretty much same size while the Moon grows to get full for fifteen nights  - and then it diminishes. One of the reason people said "hundred sons" were taken that fateful morning was - each of them owned one skill stream. The owner of a skill stream was called `Aacharya`.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -44,7 +48,10 @@ The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in 
 
 These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` leads to truth -> consistent practice of carefully designed set of actions leads to deterministic outcomes. In other words, the definition of "Truth" was something magical but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Goes without saying, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent logic (and experiment). 
 
-> It was also important to showcase the extensive work that goes into realizing aforesaid skills. It established a barter value for the products of knowledge -> 100 kilos of wheat for say a kilo of iron. And also a consistent source of wealth for the congregation. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also suggested the barter value. `Vaśiṣṭha` was said to have a cow called `Kaamdhenu` that provisioned any object of desire. In essence these skills were that magical cow.
+> It was also important to showcase the extensive work that went into realizing aforesaid skills. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also suggested the barter value -> 100 kilos of wheat for say a kilo of iron. Rich and wealthy conducted `Yaznas` to realize these skills and shared a part of their revenue with congregation -  a consistent source of wealth for the congregation. 
+>
+> Legend says `Vaśiṣṭha` had a magical cow called `Kaamdhenu` that provisioned any object of desire. In essence these skills were that magical cow.
+
 </div>
 
 The information was stored in accurate recital, but one must recite the method only after practicing the skills extensively. Information must be rooted in deep experiential knowledge such that it represented "Truth". In `Vaidik` belief system - Truth is what one experiences through actions and is realized though intense practice. A "lie" is the one that is told without personally engaging in the activity. No one was a "liar" by choice or for fun. People lied because they were either lazy to indulge in actions or they wanted someone else to experiment first rather than putting themselves in harms-way. 
@@ -227,10 +234,3 @@ And there was a good reason for intense focus on recital. Memories couldn't be s
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
 
-<script
-src="https://nostri.chat/public/bundle.js"
-data-chat-type="DM"
-data-website-owner-pubkey="5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4"
-data-relays="wss://relay.f7z.io,wss://nos.lol,wss://relay.nostr.band"
-></script>
-<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">

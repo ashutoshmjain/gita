@@ -6,9 +6,9 @@ Aging `Bramhrishi`, with his sons lost, found hope in grandson  `Parāśara`. Le
 
 The mishap leads to a systemic survival instinct, missing thus far in the new. They had probably presumed the survival was ensured by the old. At the prospect of baton being passed to them, the new realizes their struggle was never for the good or bad, it was for themselves - to understand "who they are". Their situation is different from their olds. Their new ideas are not a solution for the old(er) problems, they are the plumbing for the new order. They must account for the stability of the new regime.
 
-> This new incarnation of self is the evolution. The survivor [^survivor] wins and only the fittest (among all the possibilities) survives. Since altruistic behaviour leads to formation of larger subset(s), it appears they form "fitter" outfits, but it's not a rule. Fitness of organization normally depends on its ability to drive rational unforced consensus.
+> This new incarnation of self is the evolution. The survivor [^survivor] wins and only the fittest (among all the possibilities) survives. Since altruistic behaviour leads to formation of larger subset(s), it appears they form "fitter" outfits, but it's not a rule. Fitness of organization normally depends on its ability to drive rational unforced consensus. Thus simple and consistent succeeds.
 
-All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of their currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate (`Punrjanm`) with their own provisions of recovery (and reboot).
+All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of their currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
 
 </div>
 
@@ -20,7 +20,7 @@ The most crucial phase of education, is a child's first exposure to the spoken w
 
 The formation of "core orientations" with nascent spoken words is as old as the human race. Adding a twist of "written text" in this core training model was first explored by `Vaśiṣṭha`. This is what excited him in his rebooted reality for this small change had immense potential.
 
-> In last hundred years, education has seen tremendous growth. The modern systems of schools and online platforms have come a long way, but most of their innovations deal with grownups. Despite thousands of years, the first and fundamental learning steps are almost unaltered from what `Vaśiṣṭha` envisaged for `Parāśara`. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object. This model is at the core of training massive neural networks that we carry in our brains. The good thing is we train our children at a slow pace - one word at a time; while we try to do so with AI rather quickly. That is probably the reason LLM training is energy intensive.
+> In last hundred years, education has seen tremendous growth. The modern systems of schools and online platforms have come a long way, but most of the innovations deal with grownups. Despite thousands of years, the first and fundamental learning steps are almost unaltered from what `Vaśiṣṭha` envisaged for `Parāśara`. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object. This model is at the core of training massive neural networks that we carry in our brains. 
 
 ## 2.1
 ---

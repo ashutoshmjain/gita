@@ -1,6 +1,8 @@
 ---
 
-Aging `Bramhrishi`, with his sons lost, found hope in grandson  `Parāśara`. Legend says `Parāśara` showed tremendous intelligence right from the early days. Exaggerations claim he recited hymns in the womb! That said, `Vaśiṣṭha` had little hope elsewhere. As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation ground-up. New students, new methods of teaching. This time he wanted to scribe the recitals to safeguard against another similar catastrophe.
+Aging `Bramhrishi`, with his sons lost, found hope in grandson  `Parāśara`. 
+
+Legend says `Parāśara` showed tremendous intelligence right from the early days. Exaggerations claim he recited hymns in the womb! That said, `Vaśiṣṭha` had little hope elsewhere. As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation ground-up. New students, new methods of teaching. This time he wanted to scribe the recitals to safeguard against another similar catastrophe.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -12,7 +14,9 @@ All the possible configurations (of the ideas, behaviours and leadership styles)
 
 </div>
 
-Young `Parāśara` had the advantage of full attention of his grandfather though life for him was harder. He was expected to scribe in addition to speech training. Scribing (in early `Devnagri`) was an optional that only few used to take after completing their normal course - at the age of twenty plus. Their goal - to find a job of official scribe in king's court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle. The number system was in place during the vocal times - as early as `Ramayana` [^numbers]. It appears the text for number system developed before the idea of scribing a narrative in long form. `Vaśiṣṭha` wanted `Parāśara` to learn calligraphy simultaneously as he learnt to speak - somewhat like our education system where we start with "A for Apple". 
+Scribing (in early `Devnagri`) was an optional that only few used to take after completing their normal course - at the age of twenty plus. Their goal - to find a job of official scribe in king's court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle. The number system was in place during the vocal times - as early as `Ramayana` [^numbers]. It appears the text for number system developed before the idea of scribing a narrative in long form. 
+
+Young `Parāśara` had the advantage of full attention of his grandfather though life for him was harder. He was expected to scribe in addition to speech training. `Vaśiṣṭha` wanted `Parāśara` to learn calligraphy simultaneously as he learnt to speak - somewhat like our education system where we start with "A for Apple". 
 
 > We show our younger ones a written symbol of letter "A" together with a picture of "Apple", and have them speak both the symbol and the object. The knowledge of written symbols starts long before a child actually holds a pen. We create an association of a specific sound with a selected text - "A" is a sound as well as a written symbol. They are reflection of each other. A sound with its written reflection is the most granular unit of our information store - its like a [token](https://www.lighton.ai/blog/llm-glossary-6/the-magic-of-tokens-in-generartive-ai-a-deep-dive-50#) that we feed to our own AGI. Despite tremendous advances in our learning systems, this fundamental association stayed unchanged. Associations may be different in different languages, but there is always a sound and a symbol of text.  
 

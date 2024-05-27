@@ -27,7 +27,7 @@
 
 ## prompt …
 
-`Mathura` was the anchor city in human edification. Through a vibrant tradition of inquiry and logic, it made itself central to the `Vaidik culture` - the oldest culture of human race known thus far. 
+`Mathura` was the anchor city in human edification. Through a vibrant tradition of inquiry and logic, it made itself central to the `Vaidik culture` - the oldest of human race known thus far. 
 
 The `Vaidik` way of life  spanned across plains of rivers Yamuna, Ganges and Indus - a vast land spread over many kingdoms and empires. This culture of abundance reached the far ends of [South Asia](https://en.wikipedia.org/wiki/South_Asia) with `Mathura` almost the geographical center, and probably the origin. Interestingly, unlike the later empires of  [Pharaonic Era](https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.) or [classical antiquity](https://en.wikipedia.org/wiki/Classical_antiquity) - such as Egyptians, Greeks, or Romans, this advancement isn't remembered  as an empire, nor a country; or even a religion. It is rather seen as the primal curious society of seekers that enabled human race with language, mathematics and more importantly a foundational value exchange system. 
 

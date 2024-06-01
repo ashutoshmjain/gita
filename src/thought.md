@@ -1,27 +1,19 @@
 ---
 
-Sanskrit word `Aavahan`  roughly translates to "Invocation", albeit a much wider abstraction. `Aavahan` is a marathon ritual of meditation and sacrifice. To a follower, it appears as if you are broadcasting an intense call to action, but internally, you resolve to act with or without help. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before taking on such absolute commitments. For example `Rama`, before making a bridge across Indian Ocean,  invoked `Siva`. 
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help, but internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked internally before pledging absolute commitment. For example `Rama`, before making a bridge across ocean,  invoked `Siva` - the zenith of conscious intelligence.
 
-Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information in continuum. Not only did he need the primal force within, he must seek permission to expand mortals' access to erudition. He needed to align continuum before introducing text to a vocal verbose human world.
+Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information. Not only did he need the primal force within, he must seek permission to expand us mortals' access to an ever continuous flow. He needed to align continuum before introducing text to a vocal and verbose world.
 
-<center>
+Being the first mega narrative, it became the first ever large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. 
 
-![](./mahabharataScribing.png)
+> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
-</center>
-<div class="cover-small">
-  <div class="centered">
-  To reconfirm my belief, I asked the big question to perplexity.ai !
-  </div>
-</div>
+Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good without advantage of facial expressions and bodily gestures.
 
-Being the first narrative, it  became the first large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words. It is the longest poem ever, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Size was important to pass the minimum threshold for training a human mind - a biological neural network evolved over millions of evolutionary iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior - in an uncompromising language syntax - to train the meaning in unfettered written format.
-
-The epic and the language were complimentary to each other. The grace of `Sanskrit` owes itself to the fact that the purpose and the path became one - the narrative and the language were finessed together along with tools to scribe volumes of text. 
+The epic, the language and the tools to scribe augmented each other - a three way complementarity. This phenomenon repeated itself in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-This phenomenon repeated itself in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
 
 > "C" programming and modern keyboards [^c] came into shape alongside Unix. 
 

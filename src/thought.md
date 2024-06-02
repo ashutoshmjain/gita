@@ -1,14 +1,16 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help, but internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked internally before pledging absolute commitment. For example `Rama`, before making a bridge across ocean,  invoked `Siva` - the zenith of conscious intelligence.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help, but internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked internally before pledging such absolute commitment to a cause. For example `Rama`, before making a bridge across ocean,  invoked `Siva` - the zenith of conscious intelligence.
 
-Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information. Not only did he need the primal force within, he must seek permission to expand us mortals' access to an ever continuous flow. He needed to align continuum before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information. Not only did he need the primal force within, he must seek permission to expand us mortals' access to the continuous flow. He needed to align continuum before introducing text to a vocal and verbose world.
 
 Being the first mega narrative, it became the first ever large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. 
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
 Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good without advantage of facial expressions and bodily gestures.
+
+---
 
 The epic, the language and the tools to scribe augmented each other - a three way complementarity. This phenomenon repeated itself in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
 

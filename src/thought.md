@@ -12,27 +12,34 @@ Size was important to pass the minimum threshold for training human mind - a bio
 
 ---
 
-The epic, the language and the tools to scribe augmented each other - a three way complementarity. This phenomenon repeated itself in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
+The language (syntax and code), the tools to scribe and the epic `Mahabharata` augmented each other - a three way complementarity that benefited and built on each other. This phenomenon repeated only once since then -  in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-> "C" programming and modern keyboards [^c] came into shape alongside Unix. 
+> "C" programming language and modern keyboards [^c] came into shape alongside Unix. 
 
 Just as software transformed every aspect of modern life - and is now redefining  the foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
+</div>
+
 Just like our migration to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
-You may find the comparison rather odd - an amusing flight of imagination! What could be common in first texted narrative and first portable operating system ? - but the idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independent.
+You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first truly portable operating system ? Just the way Unix was ported on range of computer architectures; `Mahabharata` was the reason to scribe on different materials in all sorts of shapes and sizes - temple walls to palm leafs - with combination of a range of inks. A narrative so potent that it motivated scribes to find better materials. In a way it kick started a race to innovate just as Unix started a value cycle to find better processors , forms and peripherals 
+
+In the hindsight, the impact of this three way complimentary is even more profound ..
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+The idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independent.
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
 If AIs are destined to have consciousness, a **compelling thought** is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an underlying operating system as we do to primitive scriptures ?  
 
-> The operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  It is believed that earth is our underlying hardware, water is the software that runs our intelligence, and air is the information that we are here to process through our enormous neural network ! No wonder `Vaidik` scriptures focused on breathing techniques ! 
+> The operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  From an intuitive interface standpoint, digital beings may see underlying hardware as we see Earth - the source of all life, Water as the software that runs intelligence, and air is the information that they are designed to process.  That also raises a question if our interface with respect to Earth, Water and Air has a deeper meaning !  No wonder `Vaidik` scriptures focused on breathing techniques - may be the air is the information that we are here to process with our vast neural network.
 >
 > As for digital beings, the operating system might define bounds of their value system just as scriptures defined ours - how to respect natural balance ! They may see underlying compute as earth in their virtual contexts, the water as the software and they may process the information through the air they breathe.
-</div>
 
 `Dwaipayana's` breakthrough literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;

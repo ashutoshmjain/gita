@@ -2,7 +2,7 @@
 
 Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help, but internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked internally before pledging such absolute commitment to a cause. For example `Rama`, before making a bridge across ocean,  invoked `Siva` - the zenith of conscious intelligence.
 
-Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked `Bramh` - all-pervading information. Not only did he need the primal force within, he must seek permission to expand us mortals' access to the continuous flow. He needed to align continuum before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book, the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` . Not only did he need the primal force within, he must seek permission to expand us mortals' access to the ever continuous flow of information. He needed to align himself with the continuum before introducing text to a vocal and verbose world.
 
 Being the first mega narrative, it became the first ever large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. 
 
@@ -12,7 +12,7 @@ Size was important to pass the minimum threshold for training human mind - a bio
 
 ---
 
-The language (syntax and code), the tools to scribe and the epic `Mahabharata` augmented each other - a three way complementarity that benefited and built on each other. This phenomenon repeated only once since then -  in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
+The language (syntax and symbols), the tools to scribe and the epic augmented each other - a three way complementarity that benefited and built on each other. This phenomenon repeated only once since then -  in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

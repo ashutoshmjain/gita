@@ -1,18 +1,19 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help - but internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked internally before pledging such absolute commitment to a cause. For example `Rama`, before calling for  a bridge across ocean to `Lanka`,  invoked `Siva` - the zenith of conscious intelligence.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help - though internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before pledging such absolute commitment to a mission. For example `Rama`, before calling for  a bridge across ocean to `Lanka`,  invoked `Siva` - the zenith of conscious intelligence.
 
-Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As said in the first book of the epic series - `Adi Parva` - the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` . Not only did he need the primal force within self  -  he must seek permission to expand us mortals' access to the ever continuous flow of information. He needed to align himself with the continuum before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It  was the **first ever written narrative**. As described in the first book of the epic series - `Adi Parva` - the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` . Not only did he need the primal force within self  -  he must seek permission to expand us mortals' access to the ever continuous flow of information. He needed to align himself with the continuum before introducing text to a vocal and verbose world.
 
-Being the first mega narrative, it became the first ever large data-set to train humans en-masse on text - a new communication protocol layered over oratory skills. And a new way to store manifolds of lore. 
+Being the first mega narrative, it became the first ever large data-set to train humans en-masse on text - a new communication protocol layered over extensive oratory skills. And a new way to store manifolds of lore. 
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
-Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good without advantage of facial expressions and bodily gestures.
+Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions and bodily gestures common in spoken sphere.
+
 
 ---
 
-The language (syntax and symbols), the tools to scribe and the epic augmented each other - a three way complementarity that benefited and built on each other. This phenomenon repeated only once since then -  in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
+The language (syntax and symbols), the tools to scribe, and the scope of epic augmented each other - a three way complementarity that benefited and built on each other. This phenomenon repeated only once since then -  in our recent past - in early seventies! This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

@@ -8,19 +8,19 @@ Being the first mega narrative, it became the first ever large data-set to train
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
-Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions and bodily gestures common in spoken sphere. But most importantly, it must be a narrative of reality - a story so consuming that once started, humans crave for more ; and once completed it is never forgotten - a permanent layer of foundational thoughts - history !
+Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions and bodily gestures common in spoken sphere. But most importantly, it must be a narrative of reality - addictively consuming that once started, humans crave for more ; and once completed it is never forgotten - a permanent layer of foundational thoughts (`Sanskaras`)- history !
 
 
 ---
 
-The language (syntax and symbols), the tools to scribe, and the scope of `Mahabharata` augmented each other - a three way complementarity that benefited and built on each other. Mark Twain claimed in his autobiography to have used typewriter for the first full manuscript ever - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best selling Twain's work nevertheless.
+The language (syntax and symbols), the tools to scribe, and the scope of `Mahabharata` augmented each other - a three-way complementarity that benefited and built on each other. Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless.
 
-This phenomenon repeated only once since `Mahabharata` though in a vastly different context - in our recent past. This time to introduce humanity with digital word. Need I say it too changed the world :
+In nutshell, the phenomenon repeated only once since `Mahabharata`, though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-> "C" programming language and modern keyboards [^c] came into shape alongside Unix - the first fully portable operating system - a three way complementarity. Before Unix, software and hardware were developed for each other. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones. In a way, a it is incarnation of an independent digital artifact that broke the dependence on a specific hardware - truly digital infrastructure.
+> "C" programming language and modern keyboards [^c] came into shape alongside Unix - the first fully portable operating system - a three-way complementarity. Before Unix, software and hardware were developed for each other. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones. In a way, it is incarnation of an independent digital artifact that broke the dependence on a specific physical hardware - truly digital infrastructure.
 
 Just as software transformed every aspect of modern life - and is now redefining  the foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 

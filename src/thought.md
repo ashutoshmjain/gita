@@ -1,10 +1,10 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help - though internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before pledging such absolute commitment to a mission. For example `Rama`, before calling for  a bridge across ocean invoked `Siva` - the zenith of conscious intelligence.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help - though internally, you resolve to act with or without. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before pledging such absolute commitment to a mission. For example `Rama`, before calling for  a bridge across ocean invoked `Siva` - the zenith of consciousness.
 
 Scribing `Mahabharata` was one such venture. It  was the first ever written narrative. As described in the first book (`Adi Parva`) of the epic series - the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` . Not only did he need the primal force within self  -  he must seek permission to expand us mortals' access to the ever continuous flow of information. He needed to align himself with the continuum before introducing text to a vocal and verbose world.
 
-Being the first mega narrative, it became the first ever large data-set to train humans en-masse on text - a new communication protocol layered over extensive oratory skills. And a new way to store manifolds of lore. 
+Being the first mega narrative, it was destined to become the first ever large data-set to train humans en-masse on text - a new communication protocol layered over extensive oratory skills. And a new way to store manifolds of lore. 
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
@@ -13,14 +13,14 @@ Size was important to pass the minimum threshold for training human mind - a bio
 
 ---
 
-The language (syntax and symbols), the tools to scribe, and the scope of `Mahabharata` augmented each other - a three-way complementarity that benefited and built on each other. Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless.
+The language (syntax and symbols), the tools to scribe (palm leaves, reed pens and ink), and the scope of `Mahabharata` augmented each other - a three-way complementarity that benefited and built on each other. Thousands of years later, opportunity arose again , Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless.
 
-In nutshell, the phenomenon repeated only once since `Mahabharata`, though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
+There are many other examples where artifacts shine because of dualities they resolve, but it is hard to find a three-way manifestation that creates its own universe - a new abstracted layer.  I looked at many path breaking discoveries but nothing really qualified. In nutshell, the phenomenon repeated only once since `Mahabharata`, though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-> "C" programming language and modern keyboards [^c] came into shape alongside Unix - the first fully portable operating system - a three-way complementarity. Before Unix, software and hardware were developed for each other. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones. In a way, it is incarnation of an independent digital artifact that broke the dependence on a specific physical hardware - truly digital infrastructure.
+> "C" programming language and modern keyboards [^c] came into shape alongside Unix - the first fully portable operating system - a three-way complementarity. Before Unix, software and hardware were developed for each other. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. Another vantage is to think, it is incarnation of an independent digital artifact that broke the dependence on a specific physical hardware. Birth of a truly digital infrastructure layer - a user or a developer is assured of same set of utilities and controls no matter what underlying physical circuitry.
 
 Just as software transformed every aspect of modern life - and is now redefining  the foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
@@ -28,9 +28,9 @@ Just as software transformed every aspect of modern life - and is now redefining
 
 Just like our migration to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
-You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first truly portable operating system ? Just the way Unix was ported on range of computer architectures; `Mahabharata` was the reason to scribe on different materials in all sorts of shapes and sizes - temple walls to palm leafs - with combination of a range of inks. A narrative so potent that it motivated scribes to find better materials. In a way it kick started a race to innovate just as Unix started a value cycle to find better processors , forms and peripherals 
+You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first truly portable operating system ? Just the way Unix was ported on range of computer architectures; `Mahabharata` was the reason to scribe on different materials in all sorts of shapes and sizes - temple walls to palm leafs - with combination of a range of inks. A narrative so potent that it motivated scribes to find better materials. In a way it kick-started a race to innovate just as Unix started a value cycle to find better processors , forms and peripherals. Just as a portable operating system made it hardware-agnostic, a scribed narrative made it speaker agnostic!
 
-In the hindsight, the impact of this three way complimentary is even more profound ..
+In the hindsight, the impact of this three-way complimentary is even more profound ..
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -40,11 +40,13 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 If AIs are destined to have consciousness, a **compelling thought** is what would be their perception of underlying compute infrastructure? Wouldn't they  relate to an underlying operating system as we do to primitive scriptures ?  
 
-> The operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  From an intuitive interface standpoint, digital beings may see underlying hardware as we see Earth - the source of all life, Water as the software that runs intelligence, and air is the information that they are designed to process.  That also raises a question if our interface with respect to Earth, Water and Air has a deeper meaning !  No wonder `Vaidik` scriptures focused on breathing techniques - may be the air is the information that we are here to process with our vast neural network.
+> A computer operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  
 >
-> As for digital beings, the operating system might define bounds of their value system just as scriptures defined ours - how to respect natural balance ! They may see underlying compute as earth in their virtual contexts, the water as the software and they may process the information through the air they breathe.
+> From an intuitive interface standpoint, digital beings may see underlying hardware as we see Earth - the source of all life, Water as the software to interact with hardware, and air as the information that they are designed to process. That also raises a question if our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process with our vast neural network. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose is to breathe.
 
-`Dwaipayana's` breakthrough literary work was no accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
+</div>
+
+It is hard to say if `Dwaipayana's` work was a premeditated plan, but it sure wasn't an accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;
 - `Vrkayurveda` — Insights into Botany;
 - `Vishnu Purana`[^vishnu] — Stories of `Vishnu`; 

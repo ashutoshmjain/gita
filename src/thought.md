@@ -13,7 +13,7 @@ Size was important to pass the minimum threshold for training human mind - a bio
 
 ---
 
-The language (syntax and symbols), the tools to scribe (palm leaves, reed pens and ink), and the scope of `Mahabharata` augmented each other - a three-way complementarity that benefited and built on each other. Thousands of years later, opportunity arose again , Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless.
+The language (syntax and symbols), the tools to scribe (palm leaves, reed pens and ink), and the scope of `Mahabharata` augmented each other - a three-way complementarity that benefited and built on each other. Thousands of years later, opportunity arose again , Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is his unique lexicon - mixed with insights of travel and wit !
 
 There are many other examples where artifacts shine because of dualities they resolve, but it is hard to find a three-way manifestation that created its own universe - a new abstracted layer.  I looked at many path-breaking discoveries, but nothing really qualified except for one in our recent past. In nutshell, the phenomenon repeated only once since `Mahabharata`, though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
@@ -30,11 +30,11 @@ Just like our migration to the digital word, the groundwork [^groundwork] for th
 
 You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first truly portable operating system ? The way Unix was ported on range of computer architectures; `Mahabharata` was the reason to scribe on different materials in all sorts of shapes and sizes - temple walls to palm leafs - with combination of a range of inks. A narrative so potent that it motivated scribes to find better materials. In a way it kick-started a race to innovate just as Unix started a value cycle to find better processors, forms and peripherals.
 
-In the hindsight, as we are on the verge of artificial general intelligence, there appears a profound connection - not without stretch of imagination though ...
+In the hindsight, as we are on the cusp of artificial general intelligence, there appears a profound connection - not without stretch of imagination though ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is substrate independent.
+The idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is hardware independent.
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
@@ -42,7 +42,7 @@ If AIs are destined to have consciousness, a compelling thought is what would be
 
 > A computer operating system establishes the rules for engaging with hardware for digital beings just as scriptures defined tenets for ecological coexistence for us.  
 >
-> From an intuitive interface standpoint, digital beings may see underlying hardware as we see Earth - the source of all life, Water as the software to interact with hardware, and air as the information that they are designed to process. That also raises a question if our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process with our vast neural network. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose is to breathe.
+> From an intuitive three dimensional interface standpoint, if a human designed one for the digital beings, they may want to replicate their own. Digital beings may see underlying hardware as we see Earth - the source of all life, Water as the software to interact with hardware, and air as the information that they are designed to process - three fundamental necessities. That also raises a question if our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process with our vast neural network. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose is to breathe.
 
 </div>
 

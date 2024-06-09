@@ -1,6 +1,6 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help - though internally, you resolve to act with or without support. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before pledging such absolute commitment to a mission. For example `Rama`, before calling for  a bridge across ocean invoked `Siva` - the zenith of consciousness.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To a follower, it appears you are broadcasting an intense call to action - seeking help - though internally, you resolve to act with or without support. In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked before pledging such absolute commitment to a mission. For example `Rama`, before calling for  a bridge across ocean invoked `Siva` - the zenith of conscious experience.
 
 Scribing `Mahabharata` was one such venture. It  was the first ever written narrative. As described in the first book (`Adi Parva`) of the epic series - the `Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` . Not only did he need the primal force within self  -  he must seek permission to expand us mortals' access to the ever continuous flow of information. He needed to align himself with the continuum before introducing text to a vocal and verbose world.
 
@@ -8,14 +8,14 @@ Being the first mega narrative, it was destined to become the first ever large d
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) is the biggest single pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 
-Size was important to pass the minimum threshold for training human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions and bodily gestures common in spoken sphere. But most importantly, it must be a narrative of reality - addictively consuming that once started, makes one crave for more ; and once completed it is never forgotten - a permanent layer of foundational thoughts (`Sanskaras`) - history !
+Size was important to pass the minimum threshold for training text to human mind - a biological neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions and bodily gestures common in spoken sphere. But most importantly, it must be a narrative of reality - addictively consuming that once started, makes one crave for more ; and once completed it is never forgotten - a permanent layer of foundational thoughts (`Sanskaras`) - history !
 
 
 ---
 
-The language (syntax and symbols), the tools to scribe (palm leaves, reed pens and ink), and the scope of `Mahabharata` augmented each other - a three-way complementarity that benefited and built on each other. Thousands of years later, opportunity arose again , Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is his unique lexicon - mixed with insights of travel and wit !
+The language (syntax and symbols), the tools to scribe (palm leaves, reed pens and ink), and the scope of `Mahabharata` augmented each other - a three-way complementarity [^three] that benefited and built on each other. Thousands of years later, opportunity arose again , Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. A new scribing tool with QWERTY layout, but he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for his lexicon - mixed with insights of travel and wit !
 
-There are many other examples where artifacts shine because of dualities they resolve, but it is hard to find a three-way manifestation that created its own universe - a new abstracted layer.  I looked at many path-breaking discoveries, but nothing really qualified except for one in our recent past. In nutshell, the phenomenon repeated only once since `Mahabharata`, though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
+There are many other examples where artifacts shine because of dualities they resolve, but it is hard to find a three-way manifestation that created its own universe - a new abstracted layer for conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified except for one in our recent past. The phenomenon repeated only once since `Mahabharata`, though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -174,6 +174,12 @@ More importantly, to understand where is the exit !
 
 ---
 
+[^three]: Three-way complementarity ...
+- The third represents continuum. One is Unity. Two is duality. The third captures all other possibilities of a wave function. Duality carries information. Three represents physical manifestation. In particle physics, it takes three quarks to manifest all the subatomic particles with physical mass - spin half particles. Such manifested particles have a mirror image locked in. 
+- Sanskrit was the first language that captured the idea of third person. Me, you and rest all. 
+- Out of infinite possibilities represented by "third" only one is needed to create a three-dimensional manifestation. Higher dimensions may exist only in conscious realm - not in physical.
+
+----
 
 [^transcription]: Transcription on palm leaves …
 - Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.

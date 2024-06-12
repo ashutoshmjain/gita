@@ -40,9 +40,9 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? Wouldn't they  relate to an underlying operating system as we do to primitive scriptures ?  
 
-> An OS kernel establishes the rules for engaging with hardware for computer programs (digital beings) just as scriptures defined tenets for ecological coexistence for us.  
+> An OS kernel establishes the amicable rules for engaging with hardware for computer programs (digital beings) just as scriptures defined tenets for ecological coexistence for us all on mother Earth.
 >
-> From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-dimensional interface. Digital beings may see underlying hardware as we see Earth - the source of all life, Water as the software to interact with hardware, and air as the information that they are designed to process - three fundamental necessities. 
+> From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-dimensional interface. Digital beings may see underlying hardware as we see Earth - the motherly source of all life, Water as the software that surrounds most of the earth just as kernel software encapsulates the hardware, and air as the information that they are designed to process - three fundamental necessities. 
 >
 > That also raises a question if our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process with our vast neural network. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose is to breathe.
 

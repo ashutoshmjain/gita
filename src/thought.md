@@ -40,7 +40,7 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? Wouldn't they  relate to an underlying operating system as we do to primitive scriptures ?  
 
-> An OS kernel establishes the amicable rules for engaging with hardware for computer programs (digital beings) just as scriptures defined tenets for ecological coexistence for us all on mother Earth.
+> An OS kernel establishes amicable rules to engage hardware resources for computer programs (digital beings) just as scriptures defined tenets for ecological coexistence for us all on mother Earth.
 >
 > From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-dimensional interface. Digital beings may see underlying hardware as we see Earth - the motherly source of all life, Water as the software that surrounds most of the earth just as kernel software encapsulates the hardware, and air as the information that they are designed to process - three fundamental necessities. 
 >

@@ -10,8 +10,7 @@ Text was a new way to store manifolds of lore. It had two obvious aspects - writ
 
 Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions common in spoken circles. But more importantly, it must be a narrative as addictively consuming as the reality itself - that once started, makes one crave for more ; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - history !
 
-And as if technical challenges were trivial - the bigger quest was to determine "what to train ?" . As many conflicting views as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized.
-
+And as if technical challenges were trivial - the bigger quest was to determine the righteous ! As many conflicting views as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry the information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, random, decentralized and permission-less creation ! 
 
 ---
 
@@ -22,7 +21,7 @@ There are many other examples where artifacts shine because of the dualities the
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - again being coincidental in time, a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix jailbroke the hardware. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry !
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - again being coincidental in time, a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix jailbroke the hardware and the hardware companies trying to centralize the gains. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry !
 
 </div>
 

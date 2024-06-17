@@ -10,7 +10,19 @@ Text was a new way to store manifolds of lore. It had two obvious aspects - writ
 
 Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions common in spoken circles. But more importantly, it must be a narrative as addictively consuming as the reality itself - that once started, makes one crave for more ; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - history !
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, random, decentralized and permission-less creation ! 
+And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, random, decentralized, complete and permission-less creation ! `Dwaipayan` provided an idiomatic definition of full copy replication in `Shukla Yazurveda` ...
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+> Poornam-adah Poornam-idam; Poornaat Poornam-Udachyate.
+>
+> Poornasya Poornam-Aadaaya ; Poornam-Eva-Avashishyate.
+>
+> That is complete, this is complete ;  From complete replicates complete.
+>
+> When complete is replicated from complete; remainder still is complete !
+
+</div>
 
 ---
 

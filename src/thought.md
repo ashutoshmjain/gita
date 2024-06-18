@@ -1,16 +1,18 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help - though internally, you resolve to act with or without material support. You probably instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked to bear and sustain unwavering commitment. For example `Rama`, before calling for  a bridge across the ocean, invoked `Siva` - the zenith of conscious experience.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help - though internally, you resolve to act with or without material support. You probably instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked to bear and sustain unwavering commitment. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva` - the zenith of conscious experience.
 
 Scribing `Mahabharata` was one such venture. It  was the beginning of written narratives. As described in `Adi Parva` - the first episode - `the Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` (the continuum). Not only did he need the primal force within self  -  he must seek permission to open us mortals' access to timeless knowledge. And he needed to align himself with the continuum before introducing text to a vocal and verbose world.
 
-Text was a new way to store manifolds of lore. It had two obvious aspects - writing and reading. `Mahabharata` being the conception of long-form history, was destined to become a large collection of written words. And hence a key driver in attracting masses to read - a natural pull rather than coercion. Writing would still continue to be a specialised task for long ...
+Text was the new way - to store manifolds of lore. It had two obvious aspects - writing and reading just like speech and listening in the vocal world. `Mahabharata` being long-form history, was destined to become a large collection of written words. And hence a key driver in attracting masses to read - a natural pull rather than coercion. Mount Everest always attracts climbers - a natural pull! 
 
-> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the largest pool of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than size, the proof of work is in the readership. `Bhagvad Gita` - a part of sixth episode (`Bhishama Parva`) - is in the founding ideologies of Hinduism , Jainism, Buddhism, Sikhism and countless more - and is the first written source of idea of `Karmyoga`.
+Writing would still continue to be a specialised task ... for long ...
+
+> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the mount Everest of `Sanskrit` words to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than size, the proof of work is in the readership. `Bhagvad Gita` - a part of sixth episode (`Bhishama Parva`) - is in the founding ideologies of Hinduism , Jainism, Buddhism, Sikhism and countless more - and is the first written source of idea of `Karmyoga`.
 
 Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions common in spoken circles. But more importantly, it must be a narrative as addictively consuming as the reality itself - that once started, makes one crave for more ; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - history !
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, random, decentralized, complete and permission-less creation ! `Dwaipayan` provided an idiomatic definition of full copy replication in `Shukla Yazurveda` ...
+And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, decentralized, complete and permission-less truth ! `Dwaipayana` provided an idiomatic definition of full copy replication in `Shukla Yazurveda` ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -18,9 +20,11 @@ And as if technical challenges were trivial - the quest was to determine the rig
 >
 > Poornasya Poornam-Aadaaya ; Poornam-Eva-Avashishyate.
 >
-> That is complete, this is complete ;  From complete replicates complete.
+> ----
 >
-> When complete is replicated from complete; remainder still is complete !
+> That is complete, this is complete ;  From complete rises complete.
+>
+> Replicate complete from complete; remainder still is complete !
 
 </div>
 

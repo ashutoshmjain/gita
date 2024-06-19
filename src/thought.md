@@ -41,7 +41,7 @@ There are many other examples where artifacts shine because of the dualities the
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - again being coincidental in time, a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix is the only operating system that has been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix jailbroke the hardware and the hardware companies trying to centralize the gains. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry !
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - being coincidental, a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix-like operating systems have been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix fragmented to jailbreak the hardware and the hardware companies trying to centralize the gains. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry !
 
 </div>
 

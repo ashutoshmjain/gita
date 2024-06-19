@@ -1,26 +1,28 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help - though internally, you resolve to act with or without material support. You probably instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked to bear and sustain unwavering commitment. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva` - the zenith of conscious experience.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help - though internally, you resolve to act with or without material support. You probably instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` are invoked to bear and sustain unwavering commitment. For example `Rama`, before calling for  a bridge to Lanka - the first over the ocean, invoked `Siva` - the zenith of conscious experience.
 
-Scribing `Mahabharata` was one such venture. It  was the beginning of written narratives. As described in `Adi Parva` - the first episode - `the Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` (the continuum). Not only did he need the primal force within self  -  he must seek permission to open us mortals' access to timeless knowledge. And he needed to align himself with the continuum before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It  was the beginning of written narratives. As described in `Adi Parva` - the first episode - `the Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` (the continuum). Not only did he need the primal force within self  -  he must seek permission to open us mortals' access to timeless knowledge. He needed to align himself to the continuum before introducing text to a vocal and verbose world.
 
-Text was the new way - to store manifolds of lore. It had two obvious aspects - writing and reading just like speech and listening in the vocal world. `Mahabharata` being long-form history, became a large collection of written words. And hence, a key driver in attracting masses to read - a natural pull rather than coercion. Mount Everest always attracts climbers ! 
+Text was the new way - to store manifolds of lore. It had two obvious aspects - writing and reading, just like two distinct natural capabilities in the vocal world -  speech and listening. `Mahabharata` being long-form history, became a large collection of written words. And hence, a key driver in attracting masses to read - a natural pull rather than coercion. Mount Everest always attracts climbers ! 
 
 Writing would still continue to be a specialised task ... for long ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the Everest to the readers - to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. More than size, the proof of work is in the readership. `Bhagvad Gita` - a part of sixth episode (`Bhishama Parva`) - is in the founding ideologies of Hinduism , Jainism, Buddhism, Sikhism and countless more - and is the first written source of idea of `Karmyoga`.
+> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the Everest to the readers - to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Even today, it is common to learn `Sanskrit` to enjoy the original text, as intended.  There are translations in almost every language for those less keen. And then there are all sorts of media covering `Mahabharata` - from comics strips to mega movies. 
+>
+> More than size, the proof of work is in the readership. `Bhagvad Gita` - a part of sixth episode (`Bhishama Parva`) - is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of idea of `Karmyoga`.
 
 </div>
 
-Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions common in spoken circles. But more importantly, it must be a narrative as addictively consuming as the reality itself - that once started, makes one crave for more ; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - history !
+Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, makes one crave for more; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - personal history !
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, decentralized, complete and permission-less truth ! `Dwaipayana` provided an idiomatic definition of full copy replication in `Shukla Yazurveda` ...
+And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - the very source of open, decentralized, complete and permission-less truth - the creation (`Srishti`). `Dwaipayana` compiled an idiomatic definition of full copy replication in `Shukla Yazurveda` - as it happens from a seed to a tree et alia.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-> Poornam-adah Poornam-idam; Poornaat Poornam-Udachyate.
+> Poornam-adah, Poornam-idam; Poornaat Poornam-Udachyate.
 >
 > Poornasya Poornam-Aadaaya ; Poornam-Eva-Avashishyate.
 >
@@ -34,14 +36,14 @@ And as if technical challenges were trivial - the quest was to determine the rig
 
 ---
 
-`Devnagri` script, scribing techniques, and the scope of mega narrative fed on each other - a three-way complementarity [^three]. Thousands of years later, the opportunity arose again, Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. A new scribing machine he used - Typewriter with QWERTY layout - but he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for his lexicon - mixed with insights of his travels and wit !
+`Devnagri` script, scribing techniques, and the intent of mega narrative - being coincidental, fed on each other - a three-way complementarity [^three]. Thousands of years later, the opportunity arose again, Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. A new scribing machine he used - Typewriter with QWERTY layout - but he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for his lexicon - mixed with insights of his travels and wit !
 
 There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified except for one in our recent past - though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - being coincidental, a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix-like operating systems have been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix fragmented to jailbreak the hardware and the hardware companies trying to centralize the gains. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry !
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - being coincidental, a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix-like systems have been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix fragmented to jailbreak the hardware and the hardware companies trying to centralize the gains. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry !
 
 </div>
 
@@ -66,9 +68,9 @@ If AIs are destined to have consciousness, a compelling thought is what would be
 > From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-dimensional interface. 
 > - Digital beings may see underlying hardware as we see Earth - the motherly source of all life, 
 > - Water as the software that surrounds most of the earth just as kernel software encapsulates the hardware, 
-> - and Air as the data that they are designed to process. 
+> - and Air as the information that they are designed to process. 
 >
-> That also raises a question - does our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process with our biological neural network. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose is to breathe.
+> That also raises a question - does our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
 
 </div>
 

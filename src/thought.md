@@ -10,7 +10,7 @@ Writing would still continue to be a specialised task ... for long ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the Everest to the readers - to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Even today, it is common to learn `Sanskrit` to enjoy the original text, as intended.  There are translations in almost every language for those less keen. And then there are all sorts of media covering `Mahabharata` - from comics strips to mega movies. 
+> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the Everest to the readers - to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Even today, it is not uncommon to learn `Sanskrit` to enjoy the original text, as intended.  There are translations in almost every language for those less keen. And then there are all sorts of media - from comics strips to television series.
 >
 > More than size, the proof of work is in the readership. `Bhagvad Gita` - a part of sixth episode (`Bhishama Parva`) - is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of idea of `Karmyoga`.
 
@@ -86,13 +86,11 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
-This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) .
+This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) - centerpiece of `Mahabharata`.
 
 > As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
-
-
-In addition to the poetic excellence, `Mahabharata` defined a new way of life - action orientation - `Karm Yoga`, the method to transmit value beyond the physical laws of nature. The idea that actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative based on the sum total of our accrued `Karmik` collection. This idea formed the cultural basis of `Vaidik` civilizations. `Mahabharata` holds within it, center-folded, the gist of four Vedas - `Bhagvad Gita` - the first written source of `Karma Yoga`. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`. 
+In addition to the poetic excellence, `Gita` defined a new way of life - action orientation - `Karm Yoga`, the method to transmit value beyond the physical laws of nature. The idea that actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative based on the sum total of our accrued `Karmik` collection. This idea formed the cultural basis of `Vaidik` civilization. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`. 
 
 > ` Karmanye vadhikaraste Ma Phaleshu Kadachana,`
 >
@@ -104,7 +102,7 @@ In addition to the poetic excellence, `Mahabharata` defined a new way of life - 
 
  The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-The legend says, when `Dwaipayana` invoked `Bramh` (the entirety of information in continuum) to seek permission for its virtual expansion for humans - through a written down narrative ;  `Bramha` (the embodiment of `Bramh`), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` the first book of `Mahabharata` describes this story indicating extensive set of contexts covered. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+The legend says, `Bramha` (the embodiment of `Bramh` in human form), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -159,7 +157,7 @@ The legend says, when `Dwaipayana` invoked `Bramh` (the entirety of information 
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous (face to face) to asynchronous (read anywhere any time), the written word rendered the narrative timeless. It enabled humans send the information to the future - a divine gift thus far limited to gods - ability to traverse the continuum !
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous (face to face) to asynchronous (read anywhere any time), the written word rendered the narrative timeless. It enabled humans send the information to the future - ability to traverse the continuum !
 
 
 

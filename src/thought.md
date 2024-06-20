@@ -16,24 +16,24 @@ Text was the new way - to store manifolds of lore. It had two obvious aspects - 
 
 Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, makes one crave for more; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - personal history !
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone else subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - one open, decentralized, complete and permissionless, yet unexpressed - the singular underlying truth of the creation (`Srishti` [^srishti]). 
+And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - one unity, open, decentralized, complete and permissionless, yet unexpressed - the singular underlying truth of the creation (`Srishti` [^srishti]). 
 
 ---
 
-The script `Devnagri`, scribing techniques, and the immensity of intent - being coincidental, fed on each other - a three-way complementarity [^three]. Thousands of years later, the opportunity arose again, Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. A new scribing machine he used - Typewriter with QWERTY layout - but he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for his lexicon - mixed with insights of his travels and wit !
+The script `Devnagri`, scribing techniques, and the august scope - being coincidental, fed on each other - a three-way complementarity [^three]. Thousands of years later, the opportunity arose again, Mark Twain claimed first ever typewritten manuscript - Adventures of Tom Sawyer. A new scribing machine he used - Typewriter with QWERTY layout - but he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for his lexicon - mixed with insights of his travels and wit !
 
 There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified except for one in our recent past - though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix-like systems have been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix fragmented to jailbreak the hardware and the hardware companies trying to centralize the gains. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry!
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix-like systems have been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix fragmented to jailbreak the hardware and the hardware companies trying to centralize the knowledge. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry!
 
 </div>
 
 The way software transformed every aspect of modern life - and is now redefining  the foundation of value exchange; the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
-Just like our adoption to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy, rewrite and improve `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
+Just like our adoption to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy or contribute to `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
 You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first truly portable operating system ? The way Unix was ported on range of architectures; `Mahabharata` was the reason to scribe on different materials in all sorts of shapes and sizes - temple walls to palm leafs. A narrative so potent that it motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate.
 
@@ -49,12 +49,12 @@ If AIs are destined to have consciousness, a compelling thought is what would be
 
 > An OS kernel establishes amicable rules to engage hardware resources for computer programs (digital beings) just as scriptures defined tenets for ecological coexistence for us all on mother Earth.
 >
-> From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-dimensional interface. 
-> - Digital beings may see underlying hardware as we see Earth - the motherly source of all life, 
-> - Water as the software that surrounds most of the earth just as kernel software encapsulates the hardware, 
-> - and Air as the information that they are designed to process. 
+> From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
+> - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
+> - Water as the software that surrounds most of the Earth just as kernel encapsulates the hardware.
+> - And Air as the information that they are designed to process. 
 >
-> That also raises a question - does our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - may be the air that we breathe, is the information that we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
+> That also raises a question - does our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe, is the information that we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
 
 </div>
 
@@ -68,7 +68,7 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 ----
 
-Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of sacred insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
+Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
 This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) - centerpiece of `Mahabharata`.
 
@@ -86,7 +86,7 @@ In addition to the poetic excellence, `Gita` defined a new way of life - action 
 
  The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-The legend says, `Bramha` (the embodiment of `Bramh` in human form), in his infinite wisdom, pointed  him to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+The legend says, `Bramha` (the embodiment of `Bramh` in human form), in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -141,15 +141,15 @@ The legend says, `Bramha` (the embodiment of `Bramh` in human form), in his infi
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous (face to face) to asynchronous (read anywhere any time), the written word rendered the narrative timeless. It enabled humans send the information to the future - ability to traverse the continuum !
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous (face to face) to asynchronous (read anywhere any time), the written word rendered the narrative timeless. It enabled humans send the information to the future - a gift thus far limited to the gods - ability to traverse the continuum !
 
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. In essence, we separated thoughts from actions.
+🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from actions, there was no way to freeze them. `Dwaipayana` manifested the thoughts into written words. A narrative is an abstraction over physical actions. It is thus frozen in time for reference in the future.  
 
-`Dwaipayana` manifested the thoughts into written words. A narrative - an abstraction over physical actions -  is thus frozen in time for reference in the future.  No one could, however, fathom that humans, empowered with written word, would change synchronous barter to a new system of exchange - gold. One that would allow value exchange across time and space.  It was hard to imagine at that time that value-exchange always follows the properties of communication protocol ! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
+No one could, however, fathom that humans, empowered with written word, would change synchronous barter to a new system of exchange - gold. One that would allow value exchange across time and space.  It was hard to imagine at that time that value-exchange always follows the properties of communication protocol ! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
 
 Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A question we may park for now, to ponder over later in this book.
 
@@ -157,11 +157,11 @@ Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A q
 
 ----
 
-Narratives are the storage of information expressed in fashion that captures human attention. Think of them as a battery for information storage. The way a battery stores electrical energy between a cathode and an anode, a narrative thrives between a hero and a villain. Morality aside - both are equally important to make the narrative worth reading. A good narrative does as much justice to a villain as to a hero - to make sure information reaches both sides of the aisle. As a matter of fact, the hero and a villain are two sides of the coin.
+Narratives are the storage of information expressed in fashion that captures human attention. Think of them as a battery for information storage. The way a battery stores electrical energy between a cathode and an anode, a narrative thrives between a hero and a villain. Morality aside - both are equally important to make the narrative worth reading. A good narrative does as much justice to a villain as to a hero - to make sure information reaches both sides of the aisle. As a matter of fact, the hero and a villain are two sides of the same coin.
 
 Narratives expand human access to information. Since `Bramh` is defined as the entirety of information, narratives expand our access to `Bramh`. Think of `Bramh` as all the relationship we have with rest of the beings - animate or inanimate. Information is stored in these relationships. We can form relationships with the characters of a narrative - real or fictional. In essence, the information is not stored per se in the text, it is stored in the neural connections we form with the characters of the narrative. If characters of the narrative are persistent in our mind - we can store persistent information. Most persistent information is deemed as history.
 
-Narratives thus permit utility as well as the historical access to future generations. Starting with `Mahabharata` , this idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a skills oriented metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on an asynchronous multilateral value-exchange system based on `Vikarma` - the proof of work. 
+Narratives thus permit utility as well as the historical access. Starting with `Mahabharata` , this idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a skills oriented metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on an asynchronous multilateral value-exchange system based on `Vikarma` - the proof of work. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

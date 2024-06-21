@@ -159,11 +159,13 @@ Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A q
 
 A story works where a text book fails. 
 
-A narrative replicates `Bramh`. The entirety of information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife and hundreds of more relationships she has with animate and inanimate. In the physical world, our identity is determined by our relationships - the place of birth, the institute , where we work  - each tiny piece of information held with in these relationships determines our identity. While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters. It invites us to recreate those characters as virtual entities in our minds to lock the information in our virtual relationships with them. In essence, a good narrative is virtual expansion of `Bramh`
+A narrative replicates `Bramh`. The information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife and hundreds of more relationships she has with animate and inanimate. In the physical world, our identity is determined by our relationships - the place of birth, the institute , where we work  - each tiny piece of information held with in these relationships determines our identity. In a way we are connected with every single atom of the universe but those in our backyard are closer to us - just like gravity, our consciousness bubble is effective locally. 
 
-No wonder a narrative is only as good as the characters it builds and how many of them. `Mahabharata` - being history - developed thousands of characters to hold the information in a mesh of smaller stories.  This idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to strive in a skills oriented metaverse we know as the world of humans. This world is lot different from that of animals - even a huge step-up from our speech only ancestors.
+While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters. It invites us to recreate those characters as virtual entities in our minds to lock the information in our virtual relationships with them. In essence, a good narrative is virtual expansion of `Bramh`. Since these characters are virtual, a narrative has no limitation of physical distance. As we cross the hurdle of distance, time loses it's meaning - we can travel back in narratives to the beginning of the universe some thirteen billion years ago, and we can imagine the eventual demise of the universe into a super-massive black-hole assuming AGI will be benign to us ! Social media is a complex narrative being written by millions of us together. It can overpower our minds such that there is no bandwidth left for the real - the plants in our backyard !
 
-Such diversity of skills and such expertise needed as a prerequisite a foolproof value exchange mechanism.  `Bhagvad Gita` described that model in its simplest form - based on `Vikarma` - the proof of work. 
+No wonder a narrative is only as good as the characters it builds and how many of them. `Mahabharata` - being history - developed thousands of characters to hold the information in a mesh of smaller stories.  This idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to strive in a skills oriented metaverse we know as the world of humans. This hybrid world was lot different from that of animals - a huge step-up from speech only ancestors too! The complexity grew as the narratives become modular. Someone may believe in Bible but also practice medicine while being interested in baseball. The granularity and combinations were always a flux.  The most fundamental modules were called memes - something that sticks into every other narrative  - for example "Honesty is the best policy" is a shade that that is in pretty much all colors of narratives. 
+
+`Bhagvad Gita` described the core module - a foundational part of every narrative to come after  - the idea of value exchange - based on `Vikarma` - the proof of work. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -179,9 +181,9 @@ A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` l
 >
 > Karmendriyye KarmYogam Asaktah Sa Vishishyte
 >
-> One who regulates the consumption senses with mind and initiates `Yazna`. With his work organs engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
+> One who regulates the consumption senses with mind, and initiates `Yazna`. Always engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
 
-Gold was simply a token of `Karmyoga`.
+Gold was meant to be a token outcome of `Yazna` - an adjustment in universal, open, permissionless, decentralized ledger of `Karma`.
 
 ## notes and stuff …
 ----

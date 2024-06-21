@@ -159,13 +159,11 @@ Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A q
 
 A story works where a text book fails. 
 
-The reason is a narrative replicates `Bramh`. The entirety of information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife and hundreds of more relationships she has with animate and inanimate. While a text book condenses the ideas, a narrative spreads the information amongst its characters. It invites us to recreate those characters as virtual entities in our minds to lock the information in our virtual relationships with them. In essence, a good narrative is virtual expansion of `Bramh`
+A narrative replicates `Bramh`. The entirety of information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife and hundreds of more relationships she has with animate and inanimate. In the physical world, our identity is determined by our relationships - the place of birth, the institute , where we work  - each tiny piece of information held with in these relationships determines our identity. While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters. It invites us to recreate those characters as virtual entities in our minds to lock the information in our virtual relationships with them. In essence, a good narrative is virtual expansion of `Bramh`
 
-And no wonder a narrative is only as good as the characters it builds and how many of them. `Mahabharata` - being history - developed thousands of characters to hold the information in a mesh of smaller stories. 
+No wonder a narrative is only as good as the characters it builds and how many of them. `Mahabharata` - being history - developed thousands of characters to hold the information in a mesh of smaller stories.  This idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to strive in a skills oriented metaverse we know as the world of humans. This world is lot different from that of animals - even a huge step-up from our speech only ancestors.
 
-This idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a skills oriented metaverse we know as the world of humans. 
-
-There is one narrative that is common across all the skills - that of value exchange. `Bhagvad Gita` described that model in its simplest form - based on `Vikarma` - the proof of work. 
+Such diversity of skills and such expertise needed as a prerequisite a foolproof value exchange mechanism.  `Bhagvad Gita` described that model in its simplest form - based on `Vikarma` - the proof of work. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -175,8 +173,15 @@ A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` l
 
 </div>
 
+`Dwaipayana` wrote in chapter three of `Gita`
 
+> Indriyani Mansa Niyamya , arabhate Arjuna.
+>
+> Karmendriyye KarmYogam Asaktah Sa Vishishyte
+>
+> One who regulates the consumption senses with mind and initiates `Yazna`. With his work organs engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
 
+Gold was simply a token of `Karmyoga`.
 
 ## notes and stuff …
 ----

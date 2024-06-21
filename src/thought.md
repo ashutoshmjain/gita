@@ -157,11 +157,15 @@ Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A q
 
 ----
 
-Narratives are the storage of information expressed in fashion that captures human attention. Think of them as a battery for information storage. The way a battery stores electrical energy between a cathode and an anode, a narrative thrives between a hero and a villain. Morality aside - both are equally important to make the narrative worth reading. A good narrative does as much justice to a villain as to a hero - to make sure information reaches both sides of the aisle. As a matter of fact, the hero and a villain are two sides of the same coin.
+A story works where a text book fails. 
 
-Narratives expand human access to information. Since `Bramh` is defined as the entirety of information, narratives expand our access to `Bramh`. Think of `Bramh` as all the relationship we have with rest of the beings - animate or inanimate. Information is stored in these relationships. We can form relationships with the characters of a narrative - real or fictional. In essence, the information is not stored per se in the text, it is stored in the neural connections we form with the characters of the narrative. If characters of the narrative are persistent in our mind - we can store persistent information. Most persistent information is deemed as history.
+The reason is a narrative replicates `Bramh`. The entirety of information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife and hundreds of more relationships she has with animate and inanimate. While a text book condenses the ideas, a narrative spreads the information amongst its characters. It invites us to recreate those characters as virtual entities in our minds to lock the information in our virtual relationships with them. In essence, a good narrative is virtual expansion of `Bramh`
 
-Narratives thus permit utility as well as the historical access. Starting with `Mahabharata` , this idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a skills oriented metaverse we know as our real world. An immense expanse of transactions amongst them  would be underpinned on an asynchronous multilateral value-exchange system based on `Vikarma` - the proof of work. 
+And no wonder a narrative is only as good as the characters it builds and how many of them. `Mahabharata` - being history - developed thousands of characters to hold the information in a mesh of smaller stories. 
+
+This idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and multi-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Gita , Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Narratives would lead to human subspecies - monks, doctors, engineers , builders, metallurgists and thousands of more - to thrive and strive in a skills oriented metaverse we know as the world of humans. 
+
+There is one narrative that is common across all the skills - that of value exchange. `Bhagvad Gita` described that model in its simplest form - based on `Vikarma` - the proof of work. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -171,9 +175,6 @@ A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` l
 
 </div>
 
-`Sanskrit`, `Mahabharata` and `Bhagvad Gita` initiated a virtuous cycle of ten thousand years - a `Kalpa`. To put it in contrast to the digital universe we are currently building, `Mahabharata` acted as the operating system to peg text-aware humans with creation while `Sanskrit` as the language model to train our neural network on text. Together they helped us realize the skills of a narrative we subscribe to - a teacher , a miner , a builder or a trader. And finally `Bhagvad Gita` described a value-exchange mechanism - based on `Karmayoga`. But this is just the beginning, there is lot more to discover in the primordial epic to contextualize our journey from physical to analog .. and from analog to digital .. 
-
-More importantly, to understand where is the exit !
 
 
 

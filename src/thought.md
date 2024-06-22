@@ -4,17 +4,17 @@ Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. 
 
 Scribing `Mahabharata` was one such venture. It  was the beginning of written narratives. As described in `Adi Parva`, the first episode - `the Vaidik` editor-in-chief, sage teacher of all the races [^races], `Krishna Dwaipayana` invoked all-pervading information - `Bramh` (the continuum). Not only did he need the primal force within self  -  he must seek permission to open us mortals' access to timeless knowledge. He needed to align himself to the continuum before introducing text to a vocal and verbose world.
 
-Text was the new way - to store manifolds of lore. As `Mahabharata`grew into a massive collection of written words, it attracted readers - a natural pull rather than coercion - and also a good reason to learn the written word. Challenges invite seekers - Mount Everest always attracts climbers ! While reading quickly became common, writing would continue to be a specialised task. One may argue if we had ample writing skills even today ? If we did, why chatGPT got so popular - so quickly !
+Text was the new way - to store manifolds of lore. As `Mahabharata`grew into encyclopedia scale, it attracted readers - a natural pull rather than coercion. Challenges invite seekers - Mount Everest always attracts climbers ! While reading quickly became common, writing would continue to be a specialised task. One may argue if we had ample writing skills even today. If we did, why chatGPT got so popular - so quickly ! Maybe writing always needed another dimension of intelligence ! I think they understood early that writing must have a soul to hold the readers. That soul is unexplained even today - it can be felt but can't be described in words ! In essence, reading and writing were two sides of the same coin glued together through an unexplained force ! The idea of `Awahan` was to invoke that force ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the Everest to the readers - to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Even today, it is not uncommon to learn `Sanskrit` to enjoy the original text, as intended.  There are translations in almost every language for those less keen. And then there are all sorts of media - from comics strips to television series.
+> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the Everest to the readers - to date. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. Even today, it is not uncommon to learn `Sanskrit` to enjoy the original text, as intended.  There are translations in almost every language for those less keen. And then there is all sorts of media - from comics strips to television series.
 >
 > More than size, the proof of work is in the readership. `Bhagvad Gita` - a part of sixth episode (`Bhishama Parva`) - is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of idea of `Karmyoga`.
 
 </div>
 
-Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, makes one crave for more; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - personal history !
+Unintended maybe, but size was important to pass the minimum threshold for training text to human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious unexplained beyond mortal cognition. The language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, made one crave for more; and never forgotten if completed - a permanent layer of foundational web of thoughts (`Sanskaras`) - a full copy of history !
 
 And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only provide the vessel to carry such information - the knowledge must be impregnated by `Vishnu` himself - one unity, open, decentralized, complete and permissionless, yet unexpressed - the singular underlying truth of the creation (`Srishti` [^srishti]). 
 
@@ -27,7 +27,7 @@ There are many other examples where artifacts shine because of the dualities the
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - the first portable operating system - a three-way complementarity. Before Unix, software and hardware were tied at the hip. Unix-like systems have been ported to almost every hardware architecture - from mainframes to smartphones - hardware-agnostic. The input method shifted to software rather than being hardware specific. Another way to think - Unix fragmented to jailbreak the hardware and the hardware companies trying to centralize the knowledge. Birth of a digital infrastructure layer - a user is assured of same set of utilities no matter what underlying physical circuitry!
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. Before Unix, software and hardware were tied at the hip. Despite industry-wide attempts to centralize, Unix-like systems got ported to almost every hardware architecture - from mainframes to smartphones - first and only portable operating system. Another way to think - Unix fragmented to jailbreak the hardware. Birth of truly digital infrastructure layer - a user is assured of same-ish set of utilities no matter what underlying physical circuitry so long as it is posix compliant. Posix literally stands for portable operating system interface.
 
 </div>
 
@@ -35,7 +35,7 @@ The way software transformed every aspect of modern life - and is now redefining
 
 Just like our adoption to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to copy or contribute to `Mahabharata`,  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux and Android and many more including countless variants of each. 
 
-You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first truly portable operating system ? The way Unix was ported on range of architectures; `Mahabharata` was the reason to scribe on different materials in all sorts of shapes and sizes - temple walls to palm leafs. A narrative so potent that it motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate.
+You may find the comparison rather odd - an amusing flight of imagination! What could be common in first scribed narrative and first portable operating system ? The way Unix triggered a porting culture in search of ever more efficient hardware architectures ; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate. If you ever wondered why Bitcoin is copied into hundreds of crypto coins , then the short answer is - when `Vishnu` (the soul) ingresses, the replication and decentralization is a natural cycle of manifestation.
 
 In the hindsight, as we are on the cusp of artificial general intelligence, there appears even more intriguing connection - not without stretch of imagination though ...
 
@@ -45,16 +45,16 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? Wouldn't they  relate to an underlying operating system as we do to primitive scriptures ?  
+If AIs are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? Wouldn't they  relate to the operating system as we do to primitive scriptures ?  
 
-> An OS kernel establishes amicable rules to engage hardware resources for computer programs (digital beings) just as scriptures defined tenets for ecological coexistence for us all on mother Earth.
+> An operating system establishes efficient rules for computer programs (digital beings) to engage hardware resources; just as scriptures defined amicable rules for us physical beings - rules for coexistence, respect for the elements and gratitude.
 >
 > From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
 > - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
-> - Water as the software that surrounds most of the Earth just as kernel encapsulates the hardware.
-> - And Air as the information that they are designed to process. 
+> - Water as the software that surrounds most of the Earth just as operating system encapsulates the hardware.
+> - And Air as the input output of information that they are designed to process. 
 >
-> That also raises a question - does our interface with respect to Earth, Water and Air has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe, is the information that we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
+> That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is the information that we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
 
 </div>
 
@@ -74,17 +74,9 @@ This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipa
 
 > As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
-In addition to the poetic excellence, `Gita` defined a new way of life - action orientation - `Karm Yoga`, the method to transmit value beyond the physical laws of nature. The idea that actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative based on the sum total of our accrued `Karmik` collection. This idea formed the cultural basis of `Vaidik` civilization. Not only did it introduce `Karmyoga` to the world, it did so through an example - the poetic rigor of `Gita` in itself is an example of `Karm Yoga`. 
+In addition to the poetic excellence, `Gita` defined a new way of life - action orientation - `Karm Yoga`, the method to transmit value beyond the physical laws of nature. The idea that actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative (new life) based on the sum total of our accrued `Karmik` collection. This idea was that central soul that made `Mahabharata` more than a narrative. It was probably the simplicity of the model - the reincarnation based on balanced ledger of `Karma` - that kept the readers glued.
 
-> ` Karmanye vadhikaraste Ma Phaleshu Kadachana,`
->
-> ` Ma Karma Phala Hetur Bhur Ma Te Sango Stv Akarmani`
->
-> You have dominion only on your `Karama`; not on the outcomes!
->
-> Let the outcomes be not your motive, nor let inaction be your disposition.
-
- The question is, how did `Dwaipayana` manage to write such epics at a time when scribing , in itself, was a major challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
+The intriguing question is, how did `Dwaipayana` manage to write such epic(s) at a time when scribing, in itself, was a challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
 The legend says, `Bramha` (the embodiment of `Bramh` in human form), in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
 

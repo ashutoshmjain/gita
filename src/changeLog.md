@@ -12,6 +12,10 @@ One can always see the granular change history at [GitHub repo](https://github.c
 
 ## June 14, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
+  - [Book 1](./thought.md) - minor update - improved last section and general edits.
+ 
+## June 14, 24
+- [Mathura](./mathuraLanding.md) - minor edits. 
   - [Book 1](./thought.md) - major edits.
  
 ## June 07, 24

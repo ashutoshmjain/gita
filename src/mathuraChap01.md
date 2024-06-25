@@ -2,7 +2,7 @@
 
 Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of his father `Maharishi  Parāśara` ...
 
-Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni` in his late thirties, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son, at the peak of his teeming youth, sacrificed in his own backyard ! It appeared, even the waves of `Yamuna` - the dark river - felt somber that morning of mass-murder.
+Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in his own backyard ! It appeared, even the waves of `Yamuna` - the dark river - felt somber that morning of mass-murder.
 
 
 > Religious accounts proclaim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
@@ -13,7 +13,7 @@ Only `Bramhrishi` himself, and his daughter-in-law `Adrushyanti` survived the gh
 
 Despite his constant contact with continuum - the interconnected play of the past, present and the future beyond mere causality - `Bramhrishi` wasn't immune to pain. The pain of losing one's child is known to be the biggest of them all -  even animals feel it - they cry. Remorseful `Bramhrishi`, however, didn't cry -  as if tears froze in his mind. Again and again, he wondered about the curse and if the dark night would ever resolve itself into light. More he thought, more he saw himself at the root of this imprecation.
 
-He couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - not by age but by tradition -  those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They didn't know how to withhold actions to think deep in the past, or plan the future. They believed in old stories as is - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. 
+He couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - not by age - by lifestyle -  those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They didn't know how to withhold actions to think deep in the past, or plan the future. They believed in old stories as is - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. 
 
 Why would they turn against him ! - `Bramhrishi` thought.
 

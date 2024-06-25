@@ -2,46 +2,46 @@
 
 Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of his father `Maharishi  Parāśara` ...
 
-Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in his own backyard ! It appeared, even the waves of `Yamuna` - the dark river - felt somber that morning of mass-murder.
+Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in his own backyard ! Even the waves of `Yamuna` - the dark river - felt somber that morning of mass-murder.
 
 
-> Religious accounts proclaim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
+> Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
 
-`Mathura` - the budding city around the congregation (`Ashrama`), probably saw her first mishap. The epitome of India's contemporary knowledge hubs was in free bloodbath. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
+`Mathura` - the budding city, saw her first mishap. The epitome of contemporary knowledge hubs was in free bloodbath. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
 
-Only `Bramhrishi` himself, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` - grieving wife of slain `Śakti Muni` -  was carrying yet to be born `Parāśara` - couple of months into her conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her massive wings across the main city and the adjoining villages. 
+Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` - grieving wife of slain `Śakti Muni` -  was carrying yet to be born `Parāśara` - couple of months into her conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her massive wings across the main city and the adjoining villages. 
 
-Despite his constant contact with continuum - the interconnected play of the past, present and the future beyond mere causality - `Bramhrishi` wasn't immune to pain. The pain of losing one's child is known to be the biggest of them all -  even animals feel it - they cry. Remorseful `Bramhrishi`, however, didn't cry -  as if tears froze in his mind. Again and again, he wondered about the curse and if the dark night would ever resolve itself into light. More he thought, more he saw himself at the root of this imprecation.
+Despite his constant contact with continuum - the interconnected play of the past, present and the future beyond mere causality - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Again and again, he wondered about the curse. More he thought, more he saw himself at the root of this conflict.
 
-He couldn't help self-loathing that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his "old" - not by age - by lifestyle -  those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They didn't know how to withhold actions to think deep in the past, or plan the future. They believed in old stories as is - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. 
+He couldn't help self-loathe that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his old - not by age - by lifestyle. Those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They didn't know how to withhold actions to think deep in the past, or plan the future. They believed in old stories as is - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. 
 
 Why would they turn against him ! - `Bramhrishi` thought.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 On the surface, it appears the contest is between the "old" and the "new". 
 
-Old seeking to maintain a status quo while the new aspiring for the better. But the truth is old love the new like we see our own future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
+Old seeking to maintain a status quo while the new aspiring for the better. But the truth is the old love the new, like we see our own future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
-In a way, the mishap marks the beginning of the transition - beginning of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of the "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples [^history] in our recent past though a keen observer may see them in her own backyard, in their own families. 
+In a way, the mishap marks the beginning of the transition - beginning of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of the "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples [^history] in our recent past though a keen observer may see them in her own backyard.
 
 They occur for the consciousness must evolve to understand the nature of unity [^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 
-> `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future. In that sense it also means "fate", because the fate had commenced before the material event physically occurred, and condensed into a mishap...
+> `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future. In that sense it also means "fate", because the fate had commenced before the material event physically occurred.
 
 </div>
 
-Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi Vaśiṣṭha` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
+Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
 
 **And more importantly, to save humanity from the loss of the 'knowledge' that was locked in `Bramhrishi's` mind, for there was no written text.**
 
 ## 1.1
 ---
 
-If we think of  modern civilization as a  bullet train , then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the wheel-base. Hard to coalesce and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation  as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**. 
+If we think of  modern civilization as a  bullet train, then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the rails. Hard to coalesce and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation  as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**. 
 
-> For example, it was hard for a forest dweller to fathom a metal as strong as iron, could be extracted burning a special type of mud in big fire (furnace) - a gift of Sun - most prominent of all deities. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand - the magic of Sun god. 
+For example, a forest dweller couldn't fathom a metal as strong as iron is extracted burning the dark grey stones in big fire (furnace) - a gift of Sun - most prominent of all deities. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand - the magic of Sun god. 
 
-These hundred skills were the first set of "qualified" truths. Their authenticity as much as the Sun shows up every day in pretty much same size while the Moon grows to get full for fifteen nights  - and then it diminishes. One of the reason people said "hundred sons" were taken that fateful morning was - each of them owned one skill. The owner of a skill stream was called `Aacharya`.
+These hundred skills were the first set of "qualified" truths. Their authenticity as much as the Sun shows up every day in pretty much same size. One of the reason people said "hundred sons" were taken that fateful morning was - each of them owned one skill. The owner of a skill stream was called `Aacharya`.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -51,9 +51,9 @@ The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in 
 
 These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` leads to truth -> consistent practice of carefully designed set of actions leads to deterministic outcomes. In other words, the definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent logic (and experiment). 
 
-> It was also important to showcase the extensive work that went into realizing aforesaid skills. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also suggested the barter value -> 100 kilos of wheat for say a kilo of iron. Rich and wealthy conducted `Yaznas` to realize these skills and shared a part of their bounty with congregation -  a consistent source of wealth for the congregation. 
+> It was also important to showcase the extensive work that went into realizing aforesaid skills. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also suggested the barter value -> 100 kilos of wheat for say a kilo of iron. Rich and wealthy conducted `Yaznas` to realize these skills and shared a part of their inflows with congregation -  a consistent source of wealth for the congregation. 
 >
-> Legend says `Vaśiṣṭha` had a magical cow called `Kaamdhenu`. It provisioned any object of desire. In essence these skills and hence accrued wealth was that magical cow.
+> Legend says `Vaśiṣṭha` had a magical cow called `Kaamdhenu`. It provisioned any object of desire. The accrued wealth was probably the magical cow.
 
 </div>
 

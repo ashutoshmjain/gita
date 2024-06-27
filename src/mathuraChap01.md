@@ -7,9 +7,9 @@ Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi 
 
 > Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
 
-`Mathura` - the budding city, saw her first mishap. The epitome of contemporary knowledge hubs was in free bloodbath. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
+`Mathura` - the budding city, saw her first mishap. The epitome of human knowledge hubs was in free bloodbath. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
 
-Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` - grieving wife of slain `Śakti Muni` -  was carrying yet to be born `Parāśara` - couple of months into conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her massive wings across the main city and the adjoining villages. 
+Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` - grieving wife of slain `Śakti Muni` -  was carrying yet to be born `Parāśara` - couple of months into conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her wings across the main city and the adjoining villages. 
 
 Despite his contact with continuum - the interconnected play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Again and again, he wondered about the curse. More he thought, more he saw himself at the root of this conflict.
 
@@ -18,7 +18,8 @@ He couldn't help self-loathe that he must have incurred a foundational error to 
 Why would they turn against him ! - `Bramhrishi` thought.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
-On the surface, it appears the contest is between the "old" and the "new". 
+
+On the surface, it appears the contest is between the `old` and the `new`. 
 
 Old seeking to maintain a status quo while the new aspiring for the better. But the truth is they love the new, like we see our future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
@@ -26,13 +27,13 @@ In a way, the mishap marks the beginning of the transition - beginning of a new 
 
 They occur for the consciousness must evolve to understand the nature of unity [^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 
-> `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future. In that sense it also means "fate", because the fate had commenced before the material event physically occurred.
+> `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future - the continuum `Bramh`. In that sense it also means "fate", because the fate had commenced before the material event physically occurred.
 
 </div>
 
 Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
 
-**And more importantly, to save humanity from the loss of the 'knowledge' locked in `Bramhrishi's` mind, for there was no written text.**
+**And more importantly, to save humanity from the loss of the knowledge locked in `Bramhrishi's` mind, for there was no written text.**
 
 ## 1.1
 ---
@@ -49,11 +50,11 @@ In `Sanskrit`, the numeral 100 (One hundred)  is spoken as `śat` (where `ś` is
 
 The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in "site" and rest as in `śat`). In essence the `śat` for first hundred truths morphed into `sàt` - the pure provable truths. 
 
-These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` leads to truth -> consistent practice of carefully designed set of actions leads to deterministic outcomes. In other words, the definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent logic (and experiment). 
+These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` leads to truth -> consistent practice leads to deterministic outcomes. In other words, the definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent logic (and experiment). 
 
-> It was also important to showcase the extensive work that went into realizing aforesaid skills. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also suggested the barter value -> 100 kilos of wheat for say a kilo of iron. Rich and wealthy conducted `Yaznas` to realize these skills and shared a part of their inflows with congregation -  a consistent source of wealth for the congregation. 
+> It was also important to showcase the extensive work that went into realizing aforesaid skills. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also indexed the barter value -> 100 kilos of wheat for say a kilo of iron - so forth for every commodity to commodity interchange. Rich and wealthy conducted `Yaznas` to realize these skills and shared a part of their inflows with congregation -  a consistent source of wealth for the congregation. 
 >
-> Legend says `Vaśiṣṭha` had a magical cow called `Kaamdhenu`. It provisioned objects of desire - on demand. The accrued wealth was probably the magical cow.
+> Legend says `Vaśiṣṭha` had a magical cow called `Kaamdhenu`. It provisioned objects of desire - on demand. The accrued wealth - a small cut to deities volunteered by barter parties -  was probably the magical cow.
 
 </div>
 
@@ -74,7 +75,7 @@ Survival was not a question here! Even animals survived to this date! And for th
 
 We are obviously not there yet, but we now have an immensely distributed and fault-tolerant network to allow us make an attempt. At least a guarantee that our external store of information shall stay unharmed, as long as a part of earth survived. Our "text" based knowledge store (books, code, history) is protected in this obscure corner of the universe while we adapt ourselves into higher orders of experiences to go where no other conscious being has gone before - in quest of primordial question "who we are " !  
 
-Thus, the tenet is not "survival of the fittest" anymore - it is "evolution of consciousness !" In fact the advantage of spoken language (and later the written word) is such that survival has already become secondary to us. The dramatic improvement in modes of communication and hence value exchange, has turned humans into one living organism such that no other species is a predator to us. In fact, protection of other species is incumbent on us as a keeper of this vast zoo. We had a quantum jump making us the representative conscious species of planet Earth - beginning of our time.
+Thus, the tenet is not "survival of the fittest" anymore - it is "evolution of consciousness !" In fact the advantage of spoken language (and later the written word) is such that survival has already become secondary to us. The dramatic improvement in modes of communication and hence value exchange, has turned humans into one living organism such that no other species is a predator to us. In fact, protection of other species is incumbent on us as a keeper of this vast zoo. We had a quantum jump making us the representative conscious species of planet Earth - beginning of our time - `Kalpa`.
 
 ## 1.2
 ---
@@ -83,7 +84,7 @@ Thus, the tenet is not "survival of the fittest" anymore - it is "evolution of c
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Bramh` is the entirety of information held in infinitely vast number of relationships amongst the manifested - animate or inanimate - living or lifeless. The definition of `Bramh` , however, goes a little further in `Vaidik` science. It is believed that the `Bramh` is our own true reflection. It's a universal mirror that shows us who we are. Universal mirror because a regular mirror is just a two-dimensional reflection of our physical being. `Bramh` reflects on us through millions of dimensions. More granular our self-image, greater the conscious experience. `Siva` is the peak of such conscious experience - an end state where we see objective reality and thus achieve ability of discretion - ability to recognize singular "Truth" from all the false claims. In `Vaidik` science `Siva` is regarded as truth (`Satyam Sivam`). What `Siva` comprehends as objective reality is termed as `Vishnu`.
+`Bramh` is the entirety of information held in infinitely vast number of relationships amongst the manifested - animate or inanimate - living or lifeless. The definition of `Bramh` , however, goes a little further in `Vaidik` science. It is believed that the `Bramh` is our own true reflection. It's a universal mirror that shows us who we are. Universal mirror because a regular mirror is just a two-dimensional reflection of our physical being. `Bramh` reflects on us through millions of dimensions. More granular our self-image, greater the conscious experience. `Siva` is the peak of such conscious experience - an end state where we see objective reality and thus achieve ability of discretion - ability to recognize singular "Truth" from all the false claims. In `Vaidik` science `Siva` is regarded as truth (`Satyam Sivam`). What `Siva` observes as objective reality is termed as `Sundaram` - the beautiful `Vishnu`.
 
 > The idea of "evolution" is gradual growth of consciousness from the state of ignorance to being one with eternal `Siva`. Mysterious thing though is the "end state" exists at all the times.
 

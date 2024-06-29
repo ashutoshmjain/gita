@@ -1,8 +1,8 @@
 ---
 
-Aging `Bramhrishi`, with his sons lost, found hope in grandson  `Parāśara`. Quite the opposite to attackers' expectation, he didn't quit on practice of knowledge. In fact, his resolve to safeguard information grew only  stronger.
+Aging `Bramhrishi`, with his sons lost, found hope in grandson  `Parāśara`. He didn't quit the practice. In fact, his resolve grew stronger.
 
-Legend says `Parāśara` showed tremendous intelligence right from the early days. Exaggerations claim he recited hymns in mother's womb! That said, `Vaśiṣṭha` had little of his own left elsewhere. As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation ground-up. New students joined despite fears of second retribution. The pursuit of selfless knowledge always attracts the new and fresh talent. It was also an opportunity to try out new methods of teaching. This time he wanted to scribe the recitals (`Shruties`) to safeguard against another similar catastrophe.
+Legend says `Parāśara` showed tremendous intelligence right from the early days. Exaggerations claim he recited hymns in mother's womb! As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation ground-up. New students joined despite fears of repeat attack. The pursuit of selfless knowledge always attracts fresh talent! It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) to safeguard against another catastrophe.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

@@ -1,4 +1,4 @@
-</div>
+
 The craft of reciting `mantras` with an ascetic lifestyle purposed for a singular focus on diction, was called `Naad Yoga`. This `yoga`, like many others, must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - removing all the material distractions - an expression of intelligence, so profound that it became an art form. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -110,6 +110,7 @@ He, however, had no illusions. He knew scribing technology, might take more than
 And it wasn't just the tools — the pen and the paper; he must find ways to wrap a payback method around ‘writing’ to make it a self sustaining model like `Dravya Yazna`. And he must steer this ship safe from the ones with vested interests in then existing paradigm of spoken rites, because labeling someone `Asura` was easy for the power-brokers — even for a slightest clue of non-compliance. Even today, changing the existing power-structure isn't free from risk. Music labels killed Napster. China banned free internet. Central banks hate Cryptos. The play of vested interest is to sustain the past through "suppression of information";  while progress demands "fearless expression" for rapid innovations. 
 
 It was an ambitious and tall order that might bear fruits in next generation — `Maharishi` thought — he must perpetuate his life's learnings, and those from his ancestors to a worthy heir. He believed fate blessed him the Astrology, to ensure he found one. 
+
 
 ## notes and stuff:
 

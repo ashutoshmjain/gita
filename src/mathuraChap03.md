@@ -1,17 +1,21 @@
-The craft of reciting `mantras` with an ascetic lifestyle purposed for a singular focus on diction, was called `Naad Yoga`. This `yoga`, like many others, must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - removing all the material distractions - an expression so profound that it became and art form. On the other hand, the devotion to exploration and research in chosen faculties was called `Nyaan Yoga`. 
+</div>
+The craft of reciting `mantras` with an ascetic lifestyle purposed for a singular focus on diction, was called `Naad Yoga`. This `yoga`, like many others, must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - removing all the material distractions - an expression of intelligence, so profound that it became an art form. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Abhivaykti` means expression. While inner (evolutionary) knowledge is inexpressible (`Avykta`), knowledge acquired through external means could be expressed (`Vykta`) - with varying degree of success. A distinction must be made here - most of the communications we receive in the physical world are only "information". For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you to build one. In order to convey "knowledge" - the ability to manifest - both sender and the receiver must be willing to put in enormous repetitive efforts. 
+`Abhivaykti`, in `Sanskrit`, means expression - albeit a wider meaning. There are three types of primary expressions in `Vaidik` science - `Naad , Mudra` and `Nyana`. While inner (evolutionary) knowledge is inexpressible (`Avykta`), knowledge acquired through external means could be expressed (`Vykta`) - with varying degree of success. 
 
-> When many senders and receivers communicate to learn a specific aspect of knowledge, the group is called a value-chain. Members with better expression, grow with in the value-chain - they shape a narrative. The rest quickly catch up such that the knowledge - on the value chain is fully replicated. To external world, the group appears like a cult but internally, members deem it faith.  
+A distinction must be made here - most of the communications we receive in the physical world are "information". For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you to build one. Information doesn't have the manifestative potency - knowledge has.  In order to convey knowledge - the ability to manifest - both sender and the receiver must be willing to put in enormous repetitive efforts. 
+On the other hand, the devotion to exploration and research in chosen faculties was called `Nyaan Yoga`. 
 
-Humans and animals, do convey random glimpses of inner knowledge through reflex muscular postures (`Mudra`)  — primarily facial in humans. Animals express through various bodily postures, for example a dog stretches as a signal that he is ready to run. A tiger pauses before the chase. Even trees and plants express by shedding their leaves or folding the flowers - though such expressions lack standardisation and are thus hard to interpret.
+`Naad` was an expression of external knowledge - language. Since internal knowledge is already manifested in our bodies, presentation of human body in various forms was deemed as an attempt at expression of internal knowledge - though inexpressible. This was called `Mudra`. With passage of many millennia , `Naad` is  now morphed into music, and `Mudra` is seen as origin of dance, sculpting and painting.
+
+</div>
 
 Humans developed exceptional sophistication in vocal expression. In West, vocal expression reached its zenith in "opera". On the Eastern side, it achieves perfection through `Vaidik` recital — a format so distinguished that the most exquisite language `Sanskrit`, finds it's roots in `Vaidik` recital.  Vocals, however, have  a limitation - they are not the best storage medium. Reciters always tend to add their own distortions. They may forget if they missed few days of practice. The bigger problem, however, was that of portability - it needed physical presence in same space and time.  Written word had to be invented to circumvent this limitation. 
 
 Humans' expression (`Abhivakti`) , once attained perfection through rigorous practice, thus has three broad categories ..
-- muscular (`Mudra Yoga`) - dance forms (or acting) to express evolutionary impulses - internal knowledge.
+- muscular (`Mudra Yoga`) - dance forms (or acting) to express evolutionary impulses - internal knowledge. The idea of `Mudra` is to showcase the manifestation of internal knowledge - the body.
 - recital (`Naad Yoga`) - to disseminate knowledge; 
 - and written word (`Nyaan Yoga`) - primarily as a store of knowledge. 
 
@@ -19,7 +23,6 @@ Humans' expression (`Abhivakti`) , once attained perfection through rigorous pra
 
 Effectively only two contenders emerged as potential carrier of knowledge - recital and the transcription.  It took a while to appreciate they were complimentary ..   and the journey was full of conflicts ..
 
-</div>
 
 
 The meaning of `Yoga` is to connect with, and to tap into our internal knowledge. A `Nyaan Yogi` would harness the inner knowledge to go deeper in the pursuit of "hundred skills". A `Naad Yogi` would do the same for the purpose of undistorted rendition. Both were complimentary to each other. There was no point in cumulating knowledge if it couldn't be preserved over generations. Similarly, there was nothing to recite if it didn't carry specific knowledge. Thus, `Naad Yogies` worked in close interaction with `Nyaan Yogies`.  The role of `Vyasa` was of utmost importance in holding these two streams of `Yoga` together. It was like a bridge between knowledge and expression. Hence, a very sought after title and one that needed dexterity in both. `Vyasas` controlled the flow of information — somewhat like the editors of main stream media these days. They decided what must go to the public consumption, what could be left to obscurity. 

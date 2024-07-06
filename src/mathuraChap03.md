@@ -3,12 +3,11 @@ The craft of reciting `mantras` with an ascetic lifestyle purposed for a singula
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Abhivaykti`, in `Sanskrit`, means expression - albeit a wider meaning. There are three types of primary expressions in `Vaidik` science - `Naad , Mudra` and `Nyana`. While inner (evolutionary) knowledge is inexpressible (`Avykta`), knowledge acquired through external means could be expressed (`Vykta`) - with varying degree of success. 
+`Abhivaykti`, in `Sanskrit`, means expression - albeit a wider meaning. There are three types of primary expressions in `Vaidik` science - `Naad , Mudra` and `Nyana`. While inner (evolutionary) knowledge is inexpressible (`Avykta`), knowledge acquired through external means could be expressed (`Vykta`) - with varying degree of success. All art-forms , including coding , are expressions of external knowledge. Successful communication depends on rigor of `Yazna`.
 
-A distinction must be made here - most of the communications we receive in the physical world are "information". For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you to build one. Information doesn't have the manifestative potency - knowledge has.  In order to convey knowledge - the ability to manifest - both sender and the receiver must be willing to put in enormous repetitive efforts. 
-On the other hand, the devotion to exploration and research in chosen faculties was called `Nyaan Yoga`. 
+A distinction must be made here - most of the communications we receive in the physical world are "information". For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't let you build one. Information doesn't have the manifestative potency - knowledge has.  In order to convey knowledge - the ability to manifest - both sender and the receiver must be willing to put in enormous repetitive efforts. 
 
-`Naad` was an expression of external knowledge - language. Since internal knowledge is already manifested in our bodies, presentation of human body in various forms was deemed as an attempt at expression of internal knowledge - though inexpressible. This was called `Mudra`. With passage of many millennia , `Naad` is  now morphed into music, and `Mudra` is seen as origin of dance, sculpting and painting.
+`Naad` was original expression of external knowledge - spoken words. `Mudra` was that of internal. Since internal knowledge is already manifested in us, presentation of human body in various forms was deemed as an attempt to express internal knowledge - though inexpressible. This was called `Mudra`. With passage of many millennia , `Naad` is  now morphed into elocution and music, and `Mudra` is seen as origin of dance, sculpting and painting.  On the other hand, the devotion to exploration and research in chosen faculties was called `Nyaan Yoga`. 
 
 </div>
 

@@ -2,20 +2,20 @@
 
 Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of his father `Maharishi  Parāśara` ...
 
-Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in his own backyard ! Even the waves of `Yamuna` - the dark river - felt somber that morning of mass-murder.
+Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in his own backyard ! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder.
 
 
 > Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
 
-`Mathura` - the budding city, saw her first mishap. The epitome of human knowledge hubs was in free bloodbath. Hundreds of knowledge bearers left dead. Not even their wives spared. Even children didn't get a plea for mercy. 
+`Mathura` - the budding city, saw her first mishap. The epitome of contemporarcontemporar
 
 Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` - grieving wife of slain `Śakti Muni` -  was carrying yet to be born `Parāśara` - couple of months into conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her wings across the main city and the adjoining villages. 
 
-Despite his contact with continuum - the interconnected play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Again and again, he wondered about the curse. More he thought, more he saw himself at the root of this conflict.
+Despite his connect with the continuum - the reversible play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Again and again, he wondered about the curse. More he thought, more he saw himself at the root of this conflict.
 
-He couldn't help self-loathe that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his old - not by age - by lifestyle. Those who lived off the jungle and followed its rules, without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They didn't know how to withhold actions to think deeper than past, or plan ahead of the future. They believed in static old stories as is - `Puranas`, and they believed in barter - to its extreme - an eye for an eye. 
+He couldn't help self-loathe that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his old. Not by age - by cognition! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses to think deeper than the recent past, or plan ahead of the future. They believed in static old stories "as is" (`Puranas`), and they believed in barter - to its extreme - an eye for an eye. 
 
-Why would they turn against him ! - `Bramhrishi` thought.
+Why would they turn against him ? - `Bramhrishi` thought!
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

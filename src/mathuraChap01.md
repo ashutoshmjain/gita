@@ -38,7 +38,7 @@ Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi
 ## 1.1
 ---
 
-If we think of  modern civilization as a  bullet train, then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the rails. Hard to coalesce and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few — down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation  as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**. 
+If modern civilization was a bullet train, then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the rails. Hard to coalesce, and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few - down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation - as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**. 
 
 For example, a forest dweller couldn't fathom a metal as strong as iron is extracted burning the dark grey stones in big fire (furnace) - a gift of Sun - most prominent of all deities. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand - the magic of Sun god. 
 

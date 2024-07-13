@@ -7,11 +7,11 @@ Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi 
 
 > Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
 
-`Mathura` - the budding city, saw her first mishap. The epitome of contemporary knowledge hubs was in full bloodbath.  Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti` - grieving wife of slain `Śakti Muni` -  was carrying yet to be born `Parāśara` - couple of months into conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her wings across the main city and the adjoining villages. 
+`Mathura` - the budding city, saw her first mishap. The epitome of contemporary knowledge hubs was in full bloodbath.  Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti`, grieving wife of slain `Śakti Muni`,  was carrying yet to be born `Parāśara` - couple of months into conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her wings across the main city and the adjoining villages. 
 
-Despite his connect with the continuum - the reversible play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse. 
+Despite his connect with the continuum - the cyclic play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse. 
 
-More he thought, more he saw himself at the root of this conflict. He couldn't help self-loathe that he must have incurred a foundational error to warrant such a backlash, from the very people he was trying to salvage - his old. Not by age - by cognition! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses to think deeper than the recent past, or plan ahead of the future. They believed in static old stories "as is" (`Puranas`), and they believed in barter - to its extreme - an eye for an eye. 
+More he thought, more he saw himself at the root of this conflict - that he must have incurred an error to warrant a backlash - from the very people he was trying to salvage - his old. Not by age - by cognition! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses to think deeper than the recent past, or plan ahead of the future. They believed in static old stories "as is" (`Puranas`), and they believed in barter - to its extreme - an eye for an eye. 
 
 Why would they turn against him ? - `Bramhrishi` thought!
 
@@ -32,6 +32,8 @@ They occur for the consciousness must evolve to understand the nature of unity [
 Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
 
 **And more importantly, to save humanity from the loss of the knowledge locked in `Bramhrishi's` mind, for there was no written text.**
+
+`Prarbdha` - the fate had thrown him a new challenge - expand humans window of history !
 
 ## 1.1
 ---

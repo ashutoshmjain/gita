@@ -2,7 +2,7 @@
 
 Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of his father `Maharishi  Parāśara` ...
 
-Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in his own backyard! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder.
+Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in own backyard! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder.
 
 
 > Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 

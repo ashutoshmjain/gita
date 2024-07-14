@@ -33,16 +33,16 @@ Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi
 
 **And more importantly, to save humanity from the loss of the knowledge locked in `Bramhrishi's` mind, for there was no written text.**
 
-`Prarbdha` - the fate had thrown him a new challenge - expand humans window of history !
+The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' window of history !
 
 ## 1.1
 ---
 
 If modern civilization was a bullet train, then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the rails. Hard to coalesce, and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few - down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation - as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**. 
 
-For example, a forest dweller couldn't fathom a metal as strong as iron is extracted burning the dark grey stones in big fire (furnace) - a gift of Sun - most prominent of all deities. Those who didn't believe in such a miracle could visit the congregation to see the proof first hand - the magic of Sun god. 
+For example, a forest dweller couldn't fathom a metal as strong as iron was extracted from grey stones - melted in big fire (furnace). Those who didn't believe in such a miracle were welcome to see the proof first hand. They called it - the magic of Sun - the god of fire. 
 
-These hundred skills were the first set of "qualified" truths. Their authenticity as much as the Sun shows up every day in pretty much same size. One of the reason people said "hundred sons" were taken that fateful morning was - each of them owned one skill. The owner of a skill stream was called `Aacharya`.
+These hundred skills were the first set of "qualified" truths. Their authenticity proved through repeatable experiments. One of the reason people said "hundred sons" were taken that fateful morning - each of them owned one skill. The owner of a skill stream was called `Aacharya`.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -50,11 +50,13 @@ In `Sanskrit`, the numeral 100 (One hundred)  is spoken as `śat` (where `ś` is
 
 The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in "site" and rest as in `śat`). In essence the `śat` for first hundred truths morphed into `sàt` - the pure provable truths. 
 
-These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` leads to truth -> consistent practice leads to deterministic outcomes. In other words, the definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent logic (and experiment). 
+These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` led to truth -> consistent practice led to deterministic outcomes. The definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigor. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent science. 
 
-> It was also important to showcase the extensive work that went into realizing aforesaid skills. Kings from near and far used to send the very best to learn and adapt. Congregation not only imparted the know-how, they also indexed the barter value -> 100 kilos of wheat for say a kilo of iron - so forth for every commodity to commodity interchange. Rich and wealthy conducted `Yaznas` to realize these skills and shared a part of their inflows with congregation -  a consistent source of wealth for the congregation. 
+> Rich patrons from near (and far) used to send the very best to realize `śat` - the true and open source techniques. They conducted `Yaznas` to benefit from the outcomes, and shared a part of their inflows with congregation -  a consistent source of wealth to congregation. 
 >
-> Legend says `Vaśiṣṭha` had a magical cow called `Kaamdhenu`. It provisioned objects of desire - on demand. The accrued wealth - a small cut to deities volunteered by barter parties -  was probably the magical cow.
+> Congregation not only imparted the know-how, they also indexed the barter value -> 100 kilos of wheat for say a kilo of iron - commodity to commodity fair exchange - based on labor and bill of materials. 
+>
+> Legend says `Vaśiṣṭhas` had a magical cow - `Kaamdhenu`. It provisioned objects of desire - on demand. The truth, however, is the knowledge was the magical cow.
 
 </div>
 

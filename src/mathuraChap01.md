@@ -5,13 +5,13 @@ Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of h
 Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. What bigger pain a man might have than his son sacrificed in own backyard! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder.
 
 
-> Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born like `Śakti`! 
+> Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly the `Aacharyas` (faculty members), as his true-born ! 
 
 `Mathura` - the budding city, saw her first mishap. The epitome of contemporary knowledge hubs was in full bloodbath.  Only `Bramhrishi`, and his daughter-in-law `Adrushyanti` survived the ghastly massacre. `Adrushyanti`, grieving wife of slain `Śakti Muni`,  was carrying yet to be born `Parāśara` - couple of months into conception. The young widow couldn't even announce her motherhood before the curse gripped the congregation. A dark night swept her wings across the main city and the adjoining villages. 
 
 Despite his connect with the continuum - the cyclic play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse. 
 
-More he thought, more he saw himself at the root of this conflict - that he must have incurred an error to warrant a backlash - from the very people he was trying to salvage - his old. Not by age - by cognition! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses to think deeper than the recent past, or plan ahead of the future. They believed in static old stories "as is" (`Puranas`), and they believed in barter - to its extreme - an eye for an eye. 
+More he thought, more he saw himself at the root of this conflict. That he must have incurred an error to warrant a backlash - from the very people he was trying to salvage - his old.  Not by age - by cognition! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses to think deeper than the recent past, or plan ahead of the future. They believed in static old stories "as is" (`Puranas`), and they believed in barter - to its extreme - an eye for an eye. 
 
 Why would they turn against him ? - `Bramhrishi` thought!
 
@@ -25,7 +25,7 @@ In a way, the mishap marks the beginning of the transition - beginning of a new 
 
 They occur for the consciousness must evolve to understand the nature of unity [^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 
-> `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future - the continuum `Bramh`. In that sense it also means "fate", because the fate had commenced before the material event physically occurred.
+> `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future - the continuum `Bramh`. In that it also means "fate", because the fate had commenced before the material event physically occurred.
 
 </div>
 
@@ -54,7 +54,7 @@ These truths could be realized through a set of pre-defined actions (`Yazna`). T
 
 > Rich patrons from near (and far) used to send the very best to realize `śat` - the true and open source techniques. They conducted `Yaznas` to benefit from the outcomes, and shared a part of their inflows with congregation -  a consistent source of wealth to congregation. 
 >
-> Congregation not only imparted the know-how, they also indexed the barter value -> 100 kilos of wheat for say a kilo of iron - commodity to commodity fair exchange - based on labor and bill of materials. 
+> Congregation not only imparted the know-how, they also indexed the barter value -> a hundred kilos of wheat for say a kilo of iron - commodity to commodity fair exchange - based on labor and bill of materials. 
 >
 > Legend says `Vaśiṣṭhas` had a magical cow - `Kaamdhenu`. It provisioned objects of desire - on demand. The truth, however, is the knowledge was the magical cow.
 

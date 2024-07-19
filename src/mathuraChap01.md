@@ -137,7 +137,7 @@ We don't know the exact date, but we know for sure that the piece of eternal cod
 
 The other and probably more important reason seems to be embedded in the culture. 
 
-Self discovery  - `Adhyatma` was the keyword. The culture sought internal peace rather than external prosperity. The primary quest was to know thyself. The work on this path was deemed work of the God. . This culture, was based on a symbiotic framework of incorruptible belief system on one side, and an endless curiosity on the other. A belief based model that explained manifestation, expanse and evolution - the divine playground ; and celebrated human accomplishments as the top playoffs. 
+Self discovery  - `Adhyatma` was the keyword. The culture sought internal peace rather than external prosperity. The primary quest was to know thyself. The work on this path was deemed work of the God. . This culture was based on a strange combination - a symbiotic framework of incorruptible belief system on one side, and an endless curiosity on the other. The belief based substrate explained manifestation, expanse and evolution - the divine quantum field. And human ingenuity as a conscious creative artifact that bloomed in this eternal field. 
 
 The accuracy of belief system isn't as important as the fact that it was easy to comprehend and widely subscribed. Unlike the religions of our time, faith wasn't a prerequisite - it was the end state of realization. Amazing thing is, as we are getting to the deeper layers with modern science, `Vaidik` belief system seems to tread close [^vaidikScience] with particle physics and Darwin's evolution. Maybe all paths lead to a singular truth!
 

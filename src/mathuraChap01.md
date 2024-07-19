@@ -137,15 +137,19 @@ We don't know the exact date, but we know for sure that the piece of eternal cod
 
 The other and probably more important reason seems to be embedded in the culture. 
 
-Self discovery  - `Adhyatma` was the keyword. The culture sought internal peace rather than external prosperity. The primary quest was to know thyself. The work on this path was deemed work of the God. One with knowledge of self was the representative of god. This culture, was based on a symbiotic framework of incorruptible belief system on one side, and an endless curiosity on the other. A belief based model that explained manifestation, expanse and evolution - the divine playground ; yet celebrated human accomplishments as the top playoffs. 
+Self discovery  - `Adhyatma` was the keyword. The culture sought internal peace rather than external prosperity. The primary quest was to know thyself. The work on this path was deemed work of the God. . This culture, was based on a symbiotic framework of incorruptible belief system on one side, and an endless curiosity on the other. A belief based model that explained manifestation, expanse and evolution - the divine playground ; and celebrated human accomplishments as the top playoffs. 
 
 The accuracy of belief system isn't as important as the fact that it was easy to comprehend and widely subscribed. Unlike the religions of our time, faith wasn't a prerequisite - it was the end state of realization. Amazing thing is, as we are getting to the deeper layers with modern science, `Vaidik` belief system seems to tread close [^vaidikScience] with particle physics and Darwin's evolution. Maybe all paths lead to a singular truth!
 
-While deities, through research and experiments, represented the beautiful complexity of new civilization, they did so  on the backdrop of three core potencies, collectively referenced as potencies of unmanifested knowledge. As a practical implication, in `Vaidik` science, god is nothing but these potencies of knowledge. 
+While deities, through research and experiments, represented the beautiful complexity of new civilization, they did so  on the backdrop of three core potencies, collectively referenced as potencies of unmanifested knowledge. As a practical implication - because supreme knowledge is inexpressible, in `Vaidik` science, god is nothing but these three potencies. 
 
-> These three potencies exist to answer the question - who am I ? Knowledge in its unmanifested form, though at eternal peace, must manifest to answer this profound question. Because observance is possible only for those that have a physical shape - with a mirror image. Such chiral physical system arises out of the three potencies.
->
-> This is now proven (beyond doubt) that subatomic particles such as protons and Neutrons, with observable mass rise from three quarks. Even quarks are further made of three color charges denoted as R(ed), B(lue) and G(reen) in quantum chromodynamics.
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+Three potencies exist to answer the question - who am I ? Knowledge in its unmanifested form, though at eternal peace, must manifest to answer this profound question. Simply because observance is for only those that have a physical shape - with a mirror image to observe themselves but such that they are not superimposable. In other words - a  chiral physical system arises out of the three potencies.
+
+> This is now proven (beyond doubt) that nucleons such as protons and Neutrons, that hold almost entire mass of an atom, rise from three quarks each. Given the existence of strong force in nucleus, it is hard to physically observe quarks, but mathematics has well established another deeper layer - a concept that is beyond current tools of observations. In conceptual framework of quantum chromodynamics, the Quarks are further made of three color charges denoted as R(ed), B(lue) and G(reen) - the three core potencies for lack of better words.
+
+</div>
 
 The question "who am I" and the consciousness are closely linked. It was a hard question to answer even a century back. But now, as we are nearing artificial general intelligence, we can approach the answer - at least put our arms around the question. For example, if and when we create autonomous digital beings - they would be good at general tasks, but they would lack the curiosity to learn who they are. With millions of iterations they may become self-aware. That is the point they become conscious. From there on, it is a race to know thyself - a path that we ourselves find us on.
 

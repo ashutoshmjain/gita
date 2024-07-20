@@ -1,18 +1,18 @@
 ---
 
-`Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson  `Parāśara`. It took three attempts on his own life to get the focus back. He didn't quit the practice. In fact, his resolve grew stronger.
+`Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson `Parāśara`. It took three attempts on his own life to get the focus back. To the good fortune of generations ahead, he didn't quit. In fact, his resolve grew stronger.
 
-Legend says `Parāśara` showed expected intelligence right from the early days. Exaggerations claim he recited hymns in mother's womb! As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts fresh talent! 
+Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns in mother's womb! As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
 
-It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) to safeguard against another catastrophe.
+It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) to safeguard against another similar catastrophe.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 The mishap leads to a systemic survival instinct, missing thus far in the new. They had presumed the order and survival was ensured - by the old. At the prospect of baton being passed to them, the new realizes their struggle was never for the cause they thought. It was for themselves - to understand "who they are". Their situation is different from their olds. Their new ideas are not a solution for the old(er) problems, they are the plumbing for the new order. They must account for the stability of the new regime.
 
-> This new recasting of self is the evolution of consciousness. We don't get a new pair of eyes but we see things different now. The survivor [^survivor] wins and only the evolved survives. Since altruistic behaviours leads to formation of larger subset(s), it appears they form "evolved" outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive unforced consensus - decentralization. 
+> This new casting of self is the evolution of consciousness. We don't get a new pair of eyes but we see things different now. The survivor [^survivor] wins and only the evolved survives. Since altruistic behaviours leads to formation of larger subset(s), it appears they form "evolved" outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`.
 
-All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of their currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
+All the possible configurations (of the ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
 
 </div>
 

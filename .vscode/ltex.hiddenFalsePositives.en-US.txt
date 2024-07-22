@@ -21,3 +21,4 @@
 {"rule":"PROFANITY","sentence":"^\\QA key measure of evolution is we fight on more abstracted and complex set of skills as we evolve -  rather than a simple pissing contest.\\E$"}
 {"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QThe most important piece, however, was finding a purpose to scribe -  a root reference narrative that would span ages without losing its luster.\\E$"}
 {"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QThe most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster.\\E$"}
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnd if everyone knew writing, then writing all the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q^shruti would be an easy shared effort.\\E$"}

@@ -1,4 +1,7 @@
 <div class="cover-huge">Mathura</div>
+
+----
+
 <div class="centered">
     <img src="./ganesa.svg" alt="Shwet Ganesa" class="responsive"
     width = "1400"

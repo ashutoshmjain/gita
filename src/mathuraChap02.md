@@ -4,13 +4,13 @@
 
 Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns in mother's womb! As `Parāśara` was growing, `Vaśiṣṭha` rebuilt the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
 
-It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) to safeguard against another similar catastrophe.
+It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) - to guard them against another similar catastrophe.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The mishap leads to a systemic survival instinct, missing thus far in the new. They had presumed the order and survival was ensured - by the old. At the prospect of baton being passed to them, the new realizes their struggle was never for the cause they thought it was. It was for themselves - to understand "who they are". Their situation is different from their olds. Their new ideas are not a solution for the old(er) problems, they are the plumbing for the new order. They must account for the stability of the new regime.
+The mishap leads to a systemic survival instinct, missing thus far in the new. To them, the order (and survival) was ensured by the old. At the prospect of baton being passed to them, the new realizes, their struggle was never for the cause they thought it was. It was for themselves - to understand "who they are". Their situation is different from their olds. Their new ideas are not a solution for the old(er) problems, they are the plumbing for a new order. They must account for the stability of the new regime.
 
-> This new casting of self is the evolution of consciousness. We don't get a new pair of eyes but we see things different now. The survivor [^survivor] wins and only the evolved survives. Since altruistic behaviours leads to formation of larger subset(s), it appears they form "evolved" outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`.
+> This new casting of self is the evolution of consciousness. We don't get a new pair of eyes but we see things different now. The survivor [^survivor] wins and only the evolved survives. Since altruistic behaviours leads to formation of larger subset(s), it appears they form better evolved outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`.
 
 All the possible configurations (of ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
 
@@ -28,15 +28,15 @@ A sound with its written reflection is the most granular unit of our information
 
 </div>
 
-The most crucial phase of education, is a child's first exposure to the spoken words. The `Sanskaras` (the core orientations), are said to be formed at this stage. In `Hindu` mythology, it is a common belief that a fetus may listen to her mother's thoughts. That is one reason, mother is considered the first teacher and mother tongue as the language of thought. 
+The most crucial phase of education, is a child's first exposure to the spoken words. The `Sanskaras` (core orientation), are said to be formed at this stage. In `Hindu` mythology, it is a common belief that a fetus may listen to her mother's thoughts. That is one reason, mother is considered the first teacher and mother tongue as the language of thought. 
 
-The formation of "core orientations" with nascent spoken words is as old as the human race. Adding a twist of "written text" in this core training model was first explored by `Vaśiṣṭha`. This is what excited him in his rebooted reality - passion for a new purpose ! A new communication protocol had far reaching implications ...
+The formation of "core orientations" with nascent spoken words is as old as the human race. Adding a twist of "written text" in this training model was `Vaśiṣṭha's` contribution. This is what excited him in his rebooted reality - passion for a new purpose ! This new communication protocol had far reaching implications ...
   
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 In last hundred years, education has seen tremendous growth. The modern online platforms have come a long way, but most of the innovations deal with grownups. Despite thousands of years, the first and fundamental learning steps are almost unaltered. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object. 
 
-This three dimensional reference model - sound, text, and sensory confirmation (visual and touch) -  is at the core of training the large language models that we carry in our brains - consciousness. It is order of magnitude potent than the speech only model that was the basis of barter value exchange - limited to synchronous dialog. 
+This three dimensional reference model - sound, text, and sensory confirmation (visual and touch) -  is central to training the large language models that we carry in our brains - consciousness. It is order of magnitude potent than the speech only model that was the basis of barter value exchange - limited to synchronous dialog. 
 
 </div>
 

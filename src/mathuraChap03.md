@@ -1,4 +1,4 @@
-The craft of reciting `mantras` with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `yoga` must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - by removing all the material distractions. An expression of intelligence, so profound that it became the first art form. Art (`Kala`) was described as something more than mere survival - something done for the appeasement of self. 
+The craft of reciting `mantras` with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `yoga` must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - by removing all material distractions. An expression of intelligence, so profound that it became the first art form. Art (`Kala`) was described as something more than mere survival - something done for the appeasement of self. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -6,9 +6,9 @@ The craft of reciting `mantras` with an ascetic lifestyle purposed to a singular
 
 > A distinction must be made here - most of the communications we receive in the physical world are "information". For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't let you build one. Information doesn't have the manifestative potency - knowledge has.  In order to convey knowledge - the ability to manifest - both sender and the receiver must be willing to put in enormous repetitive efforts - `Yazna`.
 
-`Naad` was original expression of external knowledge - spoken words with manifestative potency - `mantras`. In contrast, `Mudra` was that of internal. Since internal knowledge is already manifested in us , presentation of human body in various forms was deemed as an "attempt" to inform the existence of internal knowledge - though inexpressible. 
+`Naad` was original expression of external knowledge - spoken words with manifestative potency - `mantras`. In contrast, `Mudra` was that of internal. Since internal knowledge is already manifested in us, presentation of human body in various forms was deemed as an "attempt" to inform the existence - though inexpressible. 
 
-With passage of many millennia , `Naad` is  now morphed into elocution and music, and `Mudra` is seen as origin of dance, sculpting and painting.  
+With passage of many millennia , `Naad` is  now morphed into elocution and music, and `Mudra` is seen as origin of dance, sculpting and painting. `Siva` is believed to have created both art forms to please his soulmate `Adi Shakti` . `Siva` is also known as `Adi Yogi` - the first `Yogi`
 
 </div>
 

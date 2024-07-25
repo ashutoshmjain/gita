@@ -1,4 +1,4 @@
-The craft of reciting `mantras` with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `yoga` must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - by removing all material distractions. An expression of intelligence, so profound that it became the first art form. 
+The craft of reciting `mantras` with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `yoga` must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into memorizing, understanding, and chanting - by removing all material distractions - an expression of intelligence, so profound that it became the first art form. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

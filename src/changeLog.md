@@ -10,11 +10,19 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## July 26, 24
+- [Mathura](./mathuraLanding.md)
+  - [Book 1](./thought.md)
+    - [Trigger](./mathuraChap01.md)
+    - [Reboot](./mathuraChap02.md) - minor edits.
+    - [Expression](./mathuraChap03.md) - major edits.
+    
+
 ## July 19, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
   - [Book 1](./thought.md)- minor edits. 
     - [Trigger](./mathuraChap01.md)- major edits.
- 
+
 ## July 12, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
   - [Book 1](./thought.md)- minor edits. 
@@ -55,11 +63,11 @@ One can always see the granular change history at [GitHub repo](https://github.c
 ## May 17, 24
 - [Mathura](./mathuraLanding.md) - 
   - [Book 1](./thought.md) 
-    - [Trigger](./mathuraChap01.md) - Major update. Flow and readability. Fine tuned ideas around the core competencies of knowledge.
+    - [Trigger](./mathuraChap01.md) - Major update. Flow and readability. Fine-tuned ideas around the core competencies of knowledge.
  
 ## May 10, 24
 - [Mathura](./mathuraLanding.md) 
-  - [Book 1](./thought.md) - Major update. Lots of work in further refining the readability . Changed the flow a little bit and added some more to the closing part. 
+  - [Book 1](./thought.md) - Major update. Lots of work in further refining the readability . Changed the flow a little and added some more to the closing part. 
  
 ## May 03, 24
 - [Mathura](./mathuraLanding.md) 
@@ -73,7 +81,7 @@ One can always see the granular change history at [GitHub repo](https://github.c
 - [Mathura](./mathuraLanding.md) - 
   - [Book 1](./thought.md) - Changed the footnote on "code as abstraction of thoughts" 
     - [Trigger](./mathuraChap01.md)
-    - [Reboot](./mathuraChap02.md) - spell check and Grammar. Added two new foot notes.
+    - [Reboot](./mathuraChap02.md) - spell check and Grammar. Added two new footnotes.
 
 
 ## April 12, 24

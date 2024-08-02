@@ -10,6 +10,11 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## Aug 02, 24
+- [Mathura](./mathuraLanding.md)
+  - [Book 1](./thought.md)
+    - [Expression](./mathuraChap03.md) - major edits. 
+ 
 ## July 26, 24
 - [Mathura](./mathuraLanding.md)
   - [Book 1](./thought.md)
@@ -464,7 +469,7 @@ Bound first four chapters with the overarching idea that the conflict is not bet
 ### notes and stuff
 ----
 
-[^history]: Knowledge is deep understanding of the history. Be it a project, a book or a product. The final copy (with a small training manual) is mere manifestation of the knowledge. The knowledge is encrypted with in that final shape as the history of all the changes - of the ideas, of the code or the people.  For example, what you are reading is just an online document, the history of this book is in the thousands of commits on the GitHub. The knowledge is "encrypted" because there is no way to document the rationale of all the changes that go into creation of the final shape. Even if someone documented all the changes, it is almost impossible to read, understand and appreciate the sequential changes. The iterative rigor to reach a final shape is `Karma`. In essence knowledge gets encrypted through `Karma` or in other words `Karma` is what leads to manifestation -  hiding (or binding) the knowledge to a final shape. What we get from the "manifested" product is only "information". Information may inspire or distract, but it is not knowledge. Thus even after reading a book or even after using a product, the consumer only gets the information. Knowledge needs close association or active participation in the process of creation. A well crafted "changelog" is thus the starting point for "knowledge" seekers.
+[^history]: Knowledge is deep understanding of history. Be it a project, a book or a product. The final copy is manifestation of the knowledge. The user manual or a Readme file is the information (not knowledge) that the final copy radiates. The knowledge is encrypted with in that final shape as the history of all the changes - of the ideas, of the code or the people and their motivations.  From encryption, I don't mean a cryptographic hash function - it is simply something hard to comprehend at first look -  though quite possible to crack given enough effort. For example, what you are reading is just an online document, the history of this book is in the thousands of commits on the GitHub. The knowledge is "encrypted" because there is no way to document the rationale of all the changes that go into creation of the final shape. Even if someone documented all the changes, it is hard to read, understand and appreciate the sequential changes. The iterative rigor to reach a final shape is `Yazna`. In essence knowledge gets encrypted through `Yazna` or in other words "proof of work" is what leads to manifestation -  hiding (or binding) the knowledge to a physical shape. Information may inspire (or distract), but it is not knowledge. Knowledge needs close association or active participation in the process of creation. A well crafted "changelog" is thus the starting point for "knowledge" seekers.
 
 ---
 

@@ -16,7 +16,13 @@ All the possible configurations (of ideas, behaviours and leadership styles), in
 
 </div>
 
-Scribing (in early `Devnagri` - `Bramhi Lipi`) was an optional that only few took after completing their normal speech courses - at the age of twenty plus or so. Their goal - to find an official scribe position in king's court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle. The number system was in place during the vocal times - as early as `Ramayana` [^numbers]. The text for number system developed before the idea of scribing a narrative in long form. 
+Scribing (in early `Devnagri` - `Bramhi Lipi`) was an optional that only few took after completing their normal speech courses - at the age of twenty plus or so. Their goal - to find an official scribe position in king's court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle. The number system was in place during the vocal times - as early as `Ramayana` [^numbers]. The text for number system developed before the idea of scribing a narrative in long form. The other and probably more important piece of job description was to design the official stamps, and to register exchange notes for barter of goods. While value was stored in the goods being exchanged, the transactions needed a guarantee. For example if someone agreed to provide 100 kilos of wheat in exchange of a cow - how to make sure exchange happened without any dispute. Such arrangements - particularly in case of high value exchange - were ensured by the king's stamp. King would charge a minor fee for provisioning the security and amicable disposal of spoken agreement. 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+In modern times, such an arrangement is known as an escrow. Escrow is the most important financial instrument in global trade to enable unknown parties honour a high value transaction. The reason escrow services exist is there is always a time lag between delivery of goods and subsequent payment. A period that needs some sort of insurance from a common trusted third party - normally holding a position of power (sovereign government) or immense wealth (large bank). As we adopted gold as a store of value, the written (promissory) note became the basis of escrow. With bitcoin the escrow functions can be handled through smart contracts that depend on trusted oracle services for confirmation of delivery.
+
+</div>
 
 Young `Parāśara` had the advantage of full attention of his grandfather, though life for him was harder. He was expected to scribe in addition to speech training. `Vaśiṣṭha` wanted `Parāśara` to learn calligraphy simultaneously as he learnt to speak - somewhat like our education system where we start with "A for Apple". 
 

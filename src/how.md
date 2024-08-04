@@ -1,4 +1,4 @@
-# Icons and navigation ..
+# icons and navigation ..
 
 As far as the features go, you can:
 
@@ -8,43 +8,45 @@ As far as the features go, you can:
 - You can also navigate by using your keyboard's left and right arrows. 
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
-# `arjunUvaach` ..
-This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. It aspires to be  the base material for people who want to research on the topics related to `Gita`. They may create stories, narratives, essays, comic strips, movies or podcasts based on this material. Or may even take it to the virtual reality in some shape or form, or may even feed it to the AI models.
+# `arjun uvaach` -> Arjuna said ..
 
-It is published using open source tools and freely available themes. The content is (being) written with open source tools as well. Part of the mission [^mission] of this publication is (also) to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
+This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. `Arjuna` was a life-long student of `Krishna`. `Arjun Uvaach`, thus stands for all the questions he had - and also an expression of his understanding. As such, this work aspires to be a gradual decryption of knowledge locked in `Gita` - from its history to an appreciation of deeper message. 
 
-Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. I use a command-line tool called `mdBook` to shape this into a book-like reading experience.
+It is published using open source tools and freely available themes. The content is (being) written with open source tools. Part of the mission [^mission] is to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
+
+Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. I use a command-line tool mdBook to shape this into a book-like reading experience.
 
 
-## mdBook
+## [mdBook](https://github.com/rust-lang/mdBook)
 
-This website was generated using a program called [mdBook](https://github.com/rust-lang/mdBook). It turns the written text [^text] into a website! That's a big deal for independent writers, because with this little tool,  public domain work(s) may reach any device that could run a browser [^browser]. 
+Rust mdbook turns the ordinary text [^text] into a website! That's a big deal for independent writers, because with this little tool,  public domain work(s) may reach any device that could run a browser [^browser]. 
 
 The “web app” , thus created,  has several goodies baked in. For example 
-- It handles the layout and responsive design, so my focus stays on the content instead of the architecture of the site. 
-- At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser. It even supports the foot [^foot]notes :-) . This experience is different from that of "wikis" or "writing platforms". I find it easier to read and write in this format.
-- One of the best (and probably least appreciated) feature of this app is "search" . The search, in here provides a three level view 
+- It handles layout and responsive design, so my focus stays on the content instead of the architecture of the site. 
+- It keeps the essential book experience intact - even on a tablet or smartphone.
+- Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices.
+- The app comes with three tier search indexes - probably the least appreciated feature !  
 
 ![Search mdBook](./search.png)
 
 For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
 
-## Theme
+## theme
 The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (reader's) experience standpoint (before publishing), I have restricted other mdBook standard themes [^themes], such as `ayu` , `navy` etc.
 
-## Favicon
+## favicon
 The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
-Trefoil knot is also "Chiral" - means the mirror image of Trefoil exists (Unlike a "circle" where mirror image has no meaning). In that sense, it is the first three-dimensional structure that passes the [parity symmetry](https://en.wikipedia.org/wiki/Parity_(physics)). In `Vaidik` science, chirality is considered the basis of manifestation. A self-contained mirror image allows the manifestation(s) to ask - who am I? - the very reason eternal knowledge binds itself into actions.
+Trefoil knot is also "Chiral" - means an incongruent mirror image of Trefoil exists - unlike a "circle" where mirror image has no meaning. In that sense, it is the first three-dimensional structure that passes the [parity symmetry](https://en.wikipedia.org/wiki/Parity_(physics)). In `Vaidik` science, chirality is considered the basis of manifestation. A self-contained mirror image allows the manifestation(s) to ask - who am I? - the very reason eternal knowledge binds itself into actions.
 
-## Cover Photo
+## cover photo
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" deity. In that, `Ganesa` (being the mind child of `Siva`) represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to determine the answer to the profound question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
+In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" deity. In that, `Ganesa` (being the mind child of `Siva`) represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer to the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
 
-## Privacy
+## privacy
 
 The mdBook application is highly customizable. One can infest it with any number of trackers - sometimes unknowingly. It is for the writer to make sure they don't use any "plug and play" code such as "Google Analytics" that adds  "cookies or trackers". The publisher must go an extra mile to make sure the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice because it makes pages faster to load.
 
@@ -60,7 +62,7 @@ A better compromise is to use "duckduck go" privacy extension. It stops trackers
 
 > As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. You will never notice any advertisements on these pages.
 
-## About the content ..
+## content ..
 
 As you will see when you toggle the chapters, this web app has three main sections :
 

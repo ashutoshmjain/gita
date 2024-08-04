@@ -3,7 +3,7 @@ authors = ["ashutosh jain"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Arjun Uvaach"
+title = "arjun uvaach"
 description = "discovering Gita and Maha-bharata"
 
 [output.html]

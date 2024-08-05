@@ -23,3 +23,4 @@
 {"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QThe most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster.\\E$"}
 {"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnd if everyone knew writing, then writing all the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q^shruti would be an easy shared effort.\\E$"}
 {"rule":"IN_A_X_MANNER","sentence":"^\\QIn a circular way, \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q did lead to divine felicity.\\E$"}
+{"rule":"TO_TOO","sentence":"^\\QA half cooked meal might appeal to few hungry but it wouldn't make you a chef.\\E$"}

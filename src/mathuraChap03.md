@@ -1,3 +1,5 @@
+----
+
 The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `yoga` must be practiced with a strict daily routine (`Bramhacharya`). The idea was to tune human body into understanding, memorizing, and chanting - switching all material distractions off - an expression, so profound that it became an art form.
 
 <div style="padding-left:40px;font-size:0.9em;"> 

@@ -1,13 +1,11 @@
 
 ----
 
-The all important question — if (or not), there exists one unique righteous path? — what is the true definition of `Dharma` - was a matter of regular discussion that ran deep in the family. `Vaśiṣṭha`, thought there were many paths for one to realize her worth. He believed in power to the people. He felt a farmer was as important as a priest and so was a cobbler. And one may change the path of her choosing based on the situation. As a pragmatist, `Vaśiṣṭha` wished peace to everyone no matter what choice they made. The reason `Vaśiṣṭha` had much influence among the seven `Bramhrishies` was his unique blend of knowledge with humility. He defined `Dharma` as a vigil appreciation of existing reality; and timely adaptation to the change. That said, he never changed his own course ! 
+The all important question — if (or not), there exists one unique righteous path? — what is the true definition of `Dharma`? - was a matter of regular discussion that ran deep in the family. `Vaśiṣṭha`, thought there were many paths for one to realize her worth. He believed in power to the people. He felt a farmer was as important as a priest and so was a cobbler. And one may change the path of her choosing based on the situation. As a pragmatist, `Vaśiṣṭha` wished peace to everyone no matter what choices they made. The reason he had much influence among the seven `Bramhrishies` was his unique blend of knowledge with humility. He defined `Dharma` as a vigil appreciation of existing reality; and timely adaptation to the change. That said, he never changed his own course ! 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-It is important to understand `Dharma` as opposed to popular translation - religion. Dharma` is rendering one's duties - without desires. Desire, by definition is an expectation to alter the reality. If you were happy in current situation, why would you want to change!
-
-Religion, on the other hand, is fixated blindly either to the preservation of "old", or a painful persuasion of the "new" - towards a desired outcome. 
+It is important to understand `Dharma` as opposed to popular translation - religion. Dharma` is rendering one's duties - without desires. Desire, being an impetus to alter the reality. If you were happy in current situation, why would you want to change! Religion, on the other hand, is fixated (blindly) either to the preservation of old values, or a painful persuasion of the new - towards a desired outcome. 
 
 Righteous is simply rendering one's duties as expected by the current reality, and be curiously welcome the ensuing change. For example, trees don't resist the weather. They shed their leaves or grow the new ones to adapt. Such objective surrender to the reality, with equal enthusiasm for change, removing self from the picture, is `Dharma`. 
 

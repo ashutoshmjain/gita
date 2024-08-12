@@ -10,7 +10,7 @@ As far as the features go, you can:
 
 # `arjun uvaach` -> Arjuna said ..
 
-This website is a collection of books and  essays around `Bhagvat Gita`. It is meant to be a working place for the ideas and artifacts surrounding the epic. `Arjuna` was a life-long student of `Krishna`. `Arjun Uvaach`, thus stands for all the questions he had - and also an expression of his understanding. As such, this work aspires to be a gradual decryption of knowledge locked in `Gita` - from its history to an appreciation of deeper message. 
+This publication is meant to be a working place for the ideas and artifacts surrounding the epic `Bhagvad Gita`. `Arjuna` was a life-long student of `Krishna`. `Arjun Uvaach`, thus stands for all the questions he had - and also an expression of his understanding. As such, this work aspires to be a gradual decryption of knowledge locked in `Gita` - from its history to an appreciation of its timelessness. 
 
 It is published using open source tools and freely available themes. The content is (being) written with open source tools. Part of the mission [^mission] is to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
 

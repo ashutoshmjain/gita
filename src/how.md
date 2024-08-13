@@ -2,13 +2,15 @@
 
 `arjun uvaach`, the name of this web app, means `Arjuna` said ..
 
-`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation amidst the battlefield is the most potent discussion ever penned down - `Bhagvad Gita` - song of the god. At the end of this conversation, he said 
+`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation amidst the battlefield is the most potent thread ever penned down - `Bhagvad Gita`. It literally means sung by god! 
+
+At the end of this conversation, `Arjuna` said 
 
 > Nashto Moha , Smritir Labdha
 >
 > Having attained the wisdom, I am now devoid of all illusions.
 
-This publication aspires to be a gradual decryption of knowledge locked in that conversation - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
+This publication aspires to decrypt `Gita` wisdom - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
 
 
 ## icons and navigation ..
@@ -22,7 +24,7 @@ As far as the basic features go, you can:
 - You can also navigate by using your keyboard's left and right arrow.
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
-## Freedom tech
+## freedom tech
 
 Part of the mission [^mission] is to promote freedom of internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
 
@@ -81,10 +83,17 @@ In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Gane
 
 As you will see when you toggle the chapters, this web app has three main sections :
 
-- The first section — `Mathura` is a historical narrative that discovers the "writing revolution" when humans adopted “written word” as primary medium for preserving knowledge. I believe this revolution took place around seven thousand years ago when `Krishna Dwaipayana` scribed `Maha-Bharata`. Study of this first major shift in human cognition — from spoken to written word — makes a fascinating quest narrative. And at the same time, it might resolve the dilemmas we face as we are moving from analog to increasingly digital realm. 
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+- The first section — `Mathura` is a historical narrative.  It discovers a period five to seven thousand years back -  when we adopted written word as primary medium of communication. With text, we learnt to send information to distant places - and to future generations. As we moved from speech to text, we upgraded our value exchange method from barter to gold - value exchange always follows the communication model. Barter was synchronous like the spoken word - gold allowed us to preserve value the way written word preserved the information. This also implies that as we are now moving from written word to digital information - our value exchange methods must follow the suite - from gold to bitcoin.
+
+- The second section is original translation of `Bhagvad Gita` - the very source of idea of `Karm Yoga` - proof of work.  While `Karm Yoga` is proven means to exit sufferings of this world, it also has profound implications the way we approach fairness in value exchange. It laid the spiritual foundation for `Yazna` and `Karma` to enable society adopt Gold. Gold derives its value from physical proof of work.
+
 - I also believe that the knowledge that `Dwaipayana` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus, the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering core concepts of Gita. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
 - The third section `Maha-Bharata` is the original translation of the entire epic, done by `Kisari Mohan Ganguly`, at the beginning of last century. I highly recommend reading his [preface](http://mahabharata.shutri.com/) to review the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
-    
+
+</div>
+
 The collective name of this entire work, is `arjunUvaach`! You may call it the name of this web-app, rendered to you at https:/gita.shutri.com . 
 
 ## Licence stuff

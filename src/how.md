@@ -1,71 +1,77 @@
+`arjun uvaach` means `Arjuna` said ..
+
+`Arjuna` was a friend and life-long student of `Kṛṣṇa`. His voice stands for all the questions we mortals have - and the magical discernment after `Kṛṣṇa` unveiled the knowledge. Their conversation amidst the battlefield is the most potent discussion ever penned down - `Bhagvad Gita` - song of the god.
+
+This publication aspires to be a gradual decryption of knowledge locked in that conversation - from its history to its timelessness.  It is meant to be a working place for the ideas and artifacts surrounding `Bhagvad Gita`. 
+
+
 ## icons and navigation ..
 
 As far as the basic features go, you can:
 
-- toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i>. In addition , on mobile devices, you may swap right to open the chapters index. 
+- cheeseburger menu on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' menu.
+- on mobile devices, you may swap right to open the chapters index. 
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
 - You can also navigate by using your keyboard's left and right arrow.
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
-##  `arjun uvaach` -> Arjuna said ..
+## privacy
 
-`Arjuna` was a friend and life-long student of `Krsna`. His voice stands for all the questions he had for supreme knowledge - and also an expression of his understanding - a limit for us mortals. Their conversation amidst the battlefield is the most potent discussion ever penned down - `Bhagvad Gita` - song of the god.
+Part of the mission [^mission] is to promote freedom  internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
 
-This publication aspires to be a gradual decryption of knowledge locked in that conversation - from its history to an appreciation of its timelessness.  It is meant to be a working place for the ideas and artifacts surrounding `Bhagvad Gita`. 
+<div style="padding-left:40px;font-size:0.9em;"> 
 
-It is published using open source tools. Part of the mission [^mission] is to promote "free" internet. "Free" in this context means - Cookies free , Trackers free, Advertising free and of course free as in free beers!
+A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice - it makes pages load faster. I was surprised that reputed sites such as cnn.com use as many as 21 trackers !
+
+![cnnTrackers](./cnnTrackers.png)
 
 
-## [mdBook](https://github.com/rust-lang/mdBook)
+As a reader, you can configure browsers to block all the cookies. For example, in Safari press  "command + Comma" for privacy settings.
 
-Since web-browser is a general purpose application, fine-tuning it for "readability" is somewhat a necessity. I use a command-line tool mdBook to shape this into a book-like reading experience.
+![privacy](./privacy.png)
 
-Rust mdbook turns the ordinary text [^text] into a book website! That's a big deal for independent writers, because with this little tool,  public domain work(s) may reach any device that could run a browser [^browser]. 
+However, if you did that , you won't be able to load most of the websites (e.g. facebook or Instagram). A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling you, but it allows those that are needed for the functionality of the website. Not an ideal case but still the best among available options. 
 
-The “web app” , thus created,  has several goodies baked in. For example 
+> As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. 
+
+</div>
+
+## open source tools
+
+
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience.
+
+Rust [mdBook](https://github.com/rust-lang/mdBook) is designed for technical documentation. It turns Markdown text [^text] into a book website! 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+The “web app” , thus created,  has several goodies baked in. For example... 
 - It handles layout and responsive design, so my focus stays on the content instead of the architecture of the site. 
 - It keeps the essential book experience intact - even on a tablet or smartphone.
 - Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices.
-- The app comes with three tier search indexes - probably the least appreciated feature !  
+- The app comes with three tier search - probably the least appreciated feature !  For example - if I search for `Siva`,  it gives me the name of the book, chapter, and section heading. When I click on the search result , it highlights the 'search term' in blue color. 
 
 ![Search mdBook](./search.png)
 
-For example - if I search for `Siva`, as shown in the graphic above, it gives me the name of the book (`Mathura` in this case, the name of the chapter (Prologue),  and finally it shows me the name of the heading with in the sections. When you click on the search result , not only does it take to the appropriate section, it highlights the 'search term' in blue color for easy attention. 
+</div>
 
 ## theme
 
-The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A yellow background with black care-free `Kalam` fonts form "Indian Fonts Foundry". Since this is the only theme I test-review from (reader's) experience standpoint (before publishing), I have restricted other mdBook standard themes [^themes], such as `ayu` , `navy` etc.
+The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as ayu and navy because this custom theme is the one I test.
 
 ## favicon
 
-The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - means it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, Trefoil is considered as the most fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, trefoil is considered as the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
-Trefoil knot is also "Chiral" - means an incongruent mirror image of Trefoil exists - unlike a "circle" where mirror image has no meaning. In that sense, it is the first three-dimensional structure that passes the [parity symmetry](https://en.wikipedia.org/wiki/Parity_(physics)). In `Vaidik` science, chirality is considered the basis of manifestation. A self-contained mirror image allows the manifestation(s) to ask - who am I? - the very reason eternal knowledge binds itself into actions.
 
 ## cover photo
 
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-In `Hindu` mythology, `Ganesa` is considered as the embodiment of superior intelligence. On account of his intelligence, he is the first  "problem solver" deity. In that, `Ganesa` (being the mind child of `Siva`) represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer to the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
+In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer to the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
-
-## privacy
-
-The mdBook application is highly customizable. One can infest it with any number of trackers - sometimes unknowingly. It is for the writer to make sure they don't use "plug and play" code such as "Google Analytics" that adds  "cookies or trackers". The publisher must go an extra mile to make sure the readers are saved from random profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice because it makes pages faster to load.
-
-You can configure `Safari` (on a Mac) to block all the cookies. Press  "command + Comma"  in Safari to block the cookies, as shown below on the `Privacy` tab 
-
-![privacy](./privacy.png)
-
-.. btw , if you did that , you won't be able to load most of the websites (e.g. facebook or Instagram)  because ..well you know why :-)
-
-A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there on the page for the sole purpose of profiling you, but it allows those that are needed for the functionality of the website. Not an ideal case but still the best among available options. Not only it will save you from being profiled by hundreds of unknown data aggregators, it will help your pages load much faster.  And save you from those small videos clips at the bottom right of your screen that make the reading experience a living hell. I was surprised that reputed sites such as cnn.com use as many as 21 trackers, screenshot below
-
-![cnnTrackers](./cnnTrackers.png)
-
-> As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. You will never notice any advertisements on these pages.
 
 ## content ..
 

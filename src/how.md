@@ -1,8 +1,14 @@
-`arjun uvaach` means `Arjuna` said ..
+----
 
-`Arjuna` was a friend and life-long student of `Kṛṣṇa`. His voice stands for all the questions we mortals have - and the magical discernment after `Kṛṣṇa` unveiled the knowledge. Their conversation amidst the battlefield is the most potent discussion ever penned down - `Bhagvad Gita` - song of the god.
+`arjun uvaach`, the name of this web app, means `Arjuna` said ..
 
-This publication aspires to be a gradual decryption of knowledge locked in that conversation - from its history to its timelessness.  It is meant to be a working place for the ideas and artifacts surrounding `Bhagvad Gita`. 
+`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation amidst the battlefield is the most potent discussion ever penned down - `Bhagvad Gita` - song of the god. At the end of this conversation, he said 
+
+> Nashto Moha , Smritir Labdha
+>
+> Having attained the wisdom, I am now devoid of all illusions.
+
+This publication aspires to be a gradual decryption of knowledge locked in that conversation - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
 
 
 ## icons and navigation ..
@@ -16,22 +22,21 @@ As far as the basic features go, you can:
 - You can also navigate by using your keyboard's left and right arrow.
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
-## privacy
+## Freedom tech
 
-Part of the mission [^mission] is to promote freedom  internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
+Part of the mission [^mission] is to promote freedom of internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Privacy is not only a readers' right, it is also a good design choice - it makes pages load faster. I was surprised that reputed sites such as cnn.com use as many as 21 trackers !
+A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Freedom is not only a readers' right, it is also a good design choice - it makes pages load faster. I wasn't surprised cnn.com uses as many as 21 trackers !
 
 ![cnnTrackers](./cnnTrackers.png)
 
-
-As a reader, you can configure browsers to block all the cookies. For example, in Safari press  "command + Comma" for privacy settings.
+As a reader, you can configure browsers to block cookies. For example, in Safari press  "command + Comma" for privacy settings.
 
 ![privacy](./privacy.png)
 
-However, if you did that , you won't be able to load most of the websites (e.g. facebook or Instagram). A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling you, but it allows those that are needed for the functionality of the website. Not an ideal case but still the best among available options. 
+However, if you did that, you won't be able to load most of the websites (Facebook or Instagram). A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
 
 > As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. 
 
@@ -39,26 +44,25 @@ However, if you did that , you won't be able to load most of the websites (e.g. 
 
 ## open source tools
 
-
-Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience.
-
-Rust [mdBook](https://github.com/rust-lang/mdBook) is designed for technical documentation. It turns Markdown text [^text] into a book website! 
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience. Rust [mdBook](https://github.com/rust-lang/mdBook) is designed for technical documentation. It turns Markdown text [^text] into an online book.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 The “web app” , thus created,  has several goodies baked in. For example... 
-- It handles layout and responsive design, so my focus stays on the content instead of the architecture of the site. 
+- It handles layout and responsive design, so my mind stays on the content instead of technology. 
 - It keeps the essential book experience intact - even on a tablet or smartphone.
-- Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices.
-- The app comes with three tier search - probably the least appreciated feature !  For example - if I search for `Siva`,  it gives me the name of the book, chapter, and section heading. When I click on the search result , it highlights the 'search term' in blue color. 
+- Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices for offline reading.
+- The app comes with three tier search - probably the least appreciated feature !  For example - if I search for `Siva`, it gives me the name of the book, chapter, and section heading. When I click on the search result , it highlights the 'search term' in blue color. 
 
 ![Search mdBook](./search.png)
 
 </div>
 
+Content is written on vim and Debian - both fully open and time tested.
+
 ## theme
 
-The theme is based on [maholvi](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as ayu and navy because this custom theme is the one I test.
+The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as ayu and navy because this custom theme is the one I test.
 
 ## favicon
 

@@ -1,6 +1,6 @@
 ----
 
-`arjun uvaach`, the name of this web app, means `Arjuna` said ..
+`arjun uvaach` means `Arjuna` said ..
 
 `Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation amidst the battlefield is the most potent thread ever penned down - `Bhagvad Gita`. It literally means sung by god! 
 
@@ -11,7 +11,6 @@ At the end of this conversation, `Arjuna` said
 > Having attained the wisdom, I am now devoid of all illusions.
 
 This publication aspires to decrypt `Gita` wisdom - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
-
 
 ## icons and navigation ..
 

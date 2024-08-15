@@ -14,14 +14,46 @@ This publication aspires to decrypt `Gita` wisdom - from its history to its time
 
 ## icons and navigation ..
 
-As far as the basic features go, you can:
-
 - cheeseburger menu on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' menu.
 - on mobile devices, you may swap right to open the chapters index. 
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
 - You can also navigate by using your keyboard's left and right arrow.
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
+
+## content ..
+
+As you will see when you toggle the chapters, this web app has three main sections :
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+## mathura (work in progress)
+
+The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of communication. 
+
+With text, we learnt to send information to distant places in space-time. `Gita` is the first immutable message preserved for the future generations. It underscores `Karm yoga` as a path to gradually accumulate divine value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible.
+
+`Mathura` was the hotspot of the new paradigm - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened in nearby city `Dwarka`  - gold as a store of value in place of barter-ready goods.  From barter to bitcoin - value storage always follows the properties of information. 
+
+- Barter was synchronous like the spoken word 
+- gold allowed us to preserve value the way written word preserved the information 
+- bitcoin is digital form of gold as written word morphed into digital.
+
+## gita
+
+The second section is original translation of `Bhagvad Gita` in English (`Kiasri Mohan Ganguly` - 1896). 
+
+`Gita` is the very source of idea of `Karm Yoga` - work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also has profound implications the way we approach the value exchange for work. It laid the spiritual foundation for `Nishkaam Yazna` to enable contemporary society adopt work ethics - foremost being `Arjuna` who wanted to shun away his responsibility as a warrior.
+
+The translation is followed by my essays discovering core concepts of Gita. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
+
+## mahabharata
+
+The third section is the original translation of the entire epic. I highly recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) to appreciate the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
+
+As per Swami Angnananda, a foremost `Gita` scholar, the information that `Dwaipayana` (writer of `Gita`) wanted to communicate was by design, kept center-folded in a highly immersive narrative - `Mahabharata`. So immersive that even after seven thousand years, the epic is as interesting a read as the day it was written. 
+
+</div>
 
 ## freedom tech
 
@@ -77,23 +109,6 @@ The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poem
 In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer to the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
-
-## content ..
-
-As you will see when you toggle the chapters, this web app has three main sections :
-
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-- The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura` -  when we adopted written word as primary medium of communication. With text, we learnt to send information to distant places. The messages were preserved for the future generations. As we moved from speech to text - as a store of information - we upgraded our store of value from barter to gold.  From barter to bitcoin - value storage always follows the properties of information. Barter was synchronous like the spoken word - gold allowed us to preserve value the way written word preserved the information - bitcoin is digital form of gold as written word morphed into digital.
-
-- The second section is original translation of `Bhagvad Gita` - the very source of idea of `Karm Yoga` - proof of work.  While `Karm Yoga` is proven means to exit sufferings of this world, it also has profound implications the way we approach fairness in value exchange. It laid the spiritual foundation for `Yazna` and `Karma` to enable society adopt Gold. Gold derives its value from physical proof of work.
-
-- I also believe that the knowledge that `Dwaipayana` (also known as `Ved Vyasa`) wanted to communicate was summarized in `Bhagvad Gita`. He carefully, by design, kept it center-folded in a highly immersive narrative. So immersive that even after seven thousand years, the `Maha-bharata` is still as interesting a read as the day it was written. Thus, the **second section** of this online resource provides original translation of `Bhagvad Gita`, followed by my essays discovering core concepts of Gita. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
-- The third section `Maha-Bharata` is the original translation of the entire epic, done by `Kisari Mohan Ganguly`, at the beginning of last century. I highly recommend reading his [preface](http://mahabharata.shutri.com/) to review the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
-
-</div>
-
-The collective name of this entire work, is `arjunUvaach`! You may call it the name of this web-app, rendered to you at https:/gita.shutri.com . 
 
 ## Licence stuff
 

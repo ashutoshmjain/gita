@@ -2,7 +2,7 @@
 
 `arjun uvaach` -> `Arjuna` spoke ..
 
-`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation, amidst the battlefield, is the most potent thread ever penned down - `Bhagvad Gita`. It literally means sung by god! 
+`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita`. It literally means sung by god! 
 
 At the end of this conversation, `Arjuna` said (`uvaach`) 
 

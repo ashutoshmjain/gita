@@ -2,13 +2,19 @@
 
 `arjun uvaach` -> `Arjuna` spoke ..
 
-`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge to him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita`. It literally means sung by god! 
+`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! 
 
 At the end of this conversation, `Arjuna` said (`uvaach`) 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
 
 > Nashto Moha , Smritir Labdha
 >
 > Having attained the wisdom, I am now devoid of all illusions.
+
+It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - loss, fear or rejection - normally lead to depression because they leave us in a lowly vacuum. `Gita` on the other hand, spotlights truth through wisdom grounded in rational logic (`Smriti`). Instead of seeking exit (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. `Gita` is for everyone - it is not religion, race or place specific.
+
+</div>
 
 This publication aspires to decrypt `Gita` wisdom - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
 
@@ -33,23 +39,25 @@ The first section is a historical narrative.  It discovers a period five to seve
 
 With text, we learnt to send information to distant places in space-time. `Gita` is the first immutable message preserved for the future generations. It underscores `Karm yoga` as a path to gradually accumulate divine value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible.
 
-`Mathura` was the hotspot of the new paradigm - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened in nearby city `Dwarka`  - gold as a store of value in place of barter-ready goods.  From barter to bitcoin - value storage always follows the properties of information. 
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened in nearby city of `Dwarka`  - discovery of gold as a store of value.  
 
-- Barter was synchronous like the spoken word 
+From barter to bitcoin - value storage always follows the properties of information. 
+
+- barter was synchronous like the spoken word 
 - gold allowed us to preserve value the way written word preserved the information 
-- bitcoin is digital form of gold as written word morphed into digital.
+- bitcoin is gold of internet as written word morphed into digital.
 
 ## gita
 
 The second section is original translation of `Bhagvad Gita` in English (`Kiasri Mohan Ganguly` - 1896). 
 
-`Gita` is the very source of idea of `Karm Yoga` - work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also has profound implications the way we approach the value exchange for work. It laid the spiritual foundation for `Nishkaam Yazna` to enable contemporary society adopt work ethics - foremost being `Arjuna` who wanted to shun away his responsibility as a warrior.
+`Gita` is the source of `Karm Yoga` - work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also has profound implications the way we approach value exchange. It laid the spiritual foundation for `Nishkaam Yazna` to enable contemporary society adopt work ethics - foremost example being `Arjuna` who wanted to shun his responsibility as a warrior. Finding peace and prosperity in proof of work is relevant even today - it is a timeless idea.
 
 The translation is followed by my essays discovering core concepts of Gita. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
 
 ## mahabharata
 
-The third section is the original translation of the entire epic. I highly recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) to appreciate the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
+The third section is the original translation (1896) of the entire epic. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) to appreciate the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
 
 As per Swami Angnananda, a foremost `Gita` scholar, the information that `Dwaipayana` (writer of `Gita`) wanted to communicate was by design, kept center-folded in a highly immersive narrative - `Mahabharata`. So immersive that even after seven thousand years, the epic is as interesting a read as the day it was written. 
 

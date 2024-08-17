@@ -8,11 +8,11 @@ At the end of this conversation, `Arjuna` said (`uvaach`)
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-> Nashto Moha , Smritir Labdha
->
-> Having attained the wisdom, I am now devoid of all illusions.
+> Nashto Moha , Smritir Labdha !
 
-It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - loss, fear or rejection - normally lead to depression because they leave us in a lowly vacuum. `Gita` on the other hand, spotlights truth through wisdom grounded in rational logic (`Smriti`). Instead of seeking exit (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. `Gita` is for everyone - it is not religion, race or place specific.
+I am devoid of illusions, I attained the wisdom !
+
+It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - loss, fear or rejection - normally lead to depression because they leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom grounded in intelligence (`Smriti`). Instead of exclusion (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. `Gita` is for everyone - it is not religion, race or place specific.
 
 </div>
 

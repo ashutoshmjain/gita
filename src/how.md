@@ -10,20 +10,19 @@ At the end of this conversation, `Arjuna` said (`uvaach`)
 
 > Nashto Moha , Smritir Labdha !
 
-I am devoid of illusions, I attained the wisdom !
+[I am] devoid of illusions, [I am] found by wisdom !
 
 It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in human intelligence (`Smriti`). Instead of exclusion (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
-`Gita` is for everyone - it is not religion, race or place specific.
+`Gita` is for everyone - it is not religion, race, profession or place specific.
 
 </div>
 
-This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
+This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the ultimate epic. 
 
 ## icons and navigation ..
 
-- cheeseburger menu on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' menu.
-- on mobile devices, you may swap right to open the chapters index. 
+- cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right (or left). 
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
@@ -31,37 +30,40 @@ This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from
 
 ## content ..
 
-As you will see when you toggle the chapters, this web app has three main sections :
+You will see when you toggle the sidebar (on left), this web app has three main sections :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 ## mathura (work in progress)
 
-The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of communication. 
+The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-With text, we learnt to send information to distant places in space-time. `Gita` is the first written message preserved for the future generations. It underscores `Karm yoga` as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge.
+Text was a profound discovery. With it, we learnt to send information to distant places in space and time. `Gita` is the first written message preserved for the future generations. The larger carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - no one can improve the truth -  the original composition of `Krishna Dwaipayana`.
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened in nearby city of `Dwarka`  - discovery of gold as a store of value.  
+`Gita` underscores `Karm yoga` (work protocol) as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to understand, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-From barter to bitcoin - value storage always follows the properties of information. 
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas (proof of work) of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
 
-- barter was synchronous like the spoken word 
+From barter to bitcoin - value store always follows the properties of information store.
+
+- barter was synchronous spot deal - like the spoken word 
 - gold allowed us to preserve value the way written word preserved the information 
 - bitcoin is gold of internet as written word morphed into digital.
 
 ## gita
 
-The second section is original translation of `Bhagvad Gita` in English (`Kiasri Mohan Ganguly` - 1896). 
+The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source of `Karm Yoga` - work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also has profound implications the way we approach value exchange. It laid the spiritual foundation for `Nishkaam Yazna` to enable contemporary society adopt work ethics - foremost example being `Arjuna` who wanted to shun his responsibility as a warrior. Finding peace and prosperity in proof of work is relevant even today - it is a timeless idea.
+`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal path to approach value exchange. It establishes the spiritual foundation for selfless focus (`Nishkaam Yazna`) to enable society adopt work ethics - foremost example being `Arjuna`, who wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in work without desires is relevant even today - it is a timeless idea.
 
-The translation is followed by my essays discovering core concepts of Gita. This ‘point of view’ may be useful to "tech-savvy" readers who desire to see `Gita` in prevailing rationale of popular science.
+The translation is followed by my essays discovering core concepts of Gita. This point of view may be useful to readers who desire to see `Gita` in prevailing rationale of popular science.
 
 ## mahabharata
 
-The third section is the original translation (1896) of the entire epic. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) to appreciate the guiding motivations of translation work — an immense task without the luxury of modern computing tools. 
+As per Swami Angnananda, a foremost `Gita` scholar, `Dwaipayana` by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. So immersive that even after thousands of years, the epic is as interesting a read as the day it was written. 
 
-As per Swami Angnananda, a foremost `Gita` scholar, the information that `Dwaipayana` (writer of `Gita`) wanted to communicate was by design, kept center-folded in a highly immersive narrative - `Mahabharata`. So immersive that even after seven thousand years, the epic is as interesting a read as the day it was written. 
+The third section is the original translation  of the entire `Mahabharata` - the longest poem, ever written in any language. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) before you take a plunge - to appreciate the guiding motivations of translation work.
+
 
 </div>
 
@@ -74,7 +76,7 @@ A publisher can infest webpages with any number of trackers - sometimes unknowin
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is used to marginalise reading experience. But If you thought they are the only culprits, you would be surprised that cnn.com uses as many as 21 trackers !
+The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed to marginalise reading experience and to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
 
 ![cnnTrackers](./cnnTrackers.png)
 
@@ -90,7 +92,7 @@ As a rule, and design imperative, I don't use any trackers or cookies whatsoever
 
 ## open source tools
 
-Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience. Rust [mdBook](https://github.com/rust-lang/mdBook) is designed for technical documentation. It turns Markdown text [^text] into an online book.
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience. [Rust mdBook](https://github.com/rust-lang/mdBook) is designed to render documentation in web format (HTML and CSS). It turns Markdown text [^text] into an online book.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -104,15 +106,15 @@ The “web app” , thus created,  has several goodies baked in. For example...
 
 </div>
 
-Content is written on vim and Debian - both fully open and time tested.
+Content is written in vim on Debian - both fully open and time tested.
 
 ## theme
 
-The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as ayu and navy because this custom theme is the one I test.
+The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as ayu and navy because this custom theme is the one I test from readability standpoint.
 
 ## favicon
 
-The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be further simplified into an "unknot" (a circle). In `Vaidik` scriptures, trefoil is considered as the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be further simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 
 ## cover photo
@@ -125,12 +127,14 @@ In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Gane
 
 ## Licence stuff
 
-All the content in this website is under creatives common v1.0. Which means everything is under public domain. The net of this license is as below
+The publication is under creatives common v1.0. Which means everything is under public domain. `Mahabharata` and it's translation by `Kisari Mohan Ganguli` is also in public domain 
+
+The net of this license is as below
+
  ![license](./license.png)
 
- For more details please refer to details of [license](https://github.com/ashutoshmjain/gita/blob/main/LICENSE) at GitHub repository for this work.
+For details refer to [license](https://github.com/ashutoshmjain/gita/blob/main/LICENSE) at GitHub repo.
 
- Since `Mahabharata's` and it's translation by `Kisari Mohan Ganguli` is also in public domain , thus using any of this work should technically follow the same rules. 
 
 ## Style 
 

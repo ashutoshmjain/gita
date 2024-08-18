@@ -12,11 +12,13 @@ At the end of this conversation, `Arjuna` said (`uvaach`)
 
 I am devoid of illusions, I attained the wisdom !
 
-It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - loss, fear or rejection - normally lead to depression because they leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom grounded in intelligence (`Smriti`). Instead of exclusion (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. `Gita` is for everyone - it is not religion, race or place specific.
+It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in human intelligence (`Smriti`). Instead of exclusion (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+
+`Gita` is for everyone - it is not religion, race or place specific.
 
 </div>
 
-This publication aspires to decrypt `Gita` wisdom - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
+This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the epic. 
 
 ## icons and navigation ..
 
@@ -24,7 +26,7 @@ This publication aspires to decrypt `Gita` wisdom - from its history to its time
 - on mobile devices, you may swap right to open the chapters index. 
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
-- You can also navigate by using your keyboard's left and right arrow.
+- you can also navigate with left and right arrows on keyboard.
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
 ## content ..
@@ -37,7 +39,7 @@ As you will see when you toggle the chapters, this web app has three main sectio
 
 The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of communication. 
 
-With text, we learnt to send information to distant places in space-time. `Gita` is the first immutable message preserved for the future generations. It underscores `Karm yoga` as a path to gradually accumulate divine value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible.
+With text, we learnt to send information to distant places in space-time. `Gita` is the first written message preserved for the future generations. It underscores `Karm yoga` as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge.
 
 `Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened in nearby city of `Dwarka`  - discovery of gold as a store of value.  
 
@@ -65,11 +67,14 @@ As per Swami Angnananda, a foremost `Gita` scholar, the information that `Dwaipa
 
 ## freedom tech
 
-Part of the mission [^mission] is to promote freedom of internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
+Part of the mission [^mission] is to contribute my bit in freedom of internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
+
+A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Freedom is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Freedom is not only a readers' right, it is also a good design choice - it makes pages load faster. I wasn't surprised cnn.com uses as many as 21 trackers !
+
+The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is used to marginalise reading experience. But If you thought they are the only culprits, you would be surprised that cnn.com uses as many as 21 trackers !
 
 ![cnnTrackers](./cnnTrackers.png)
 
@@ -79,9 +84,9 @@ As a reader, you can configure browsers to block cookies. For example, in Safari
 
 However, if you did that, you won't be able to load most of the websites (Facebook or Instagram). A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
 
-> As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. 
-
 </div>
+
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is to do my part as a digital being who scavenges most of the information from internet.
 
 ## open source tools
 
@@ -188,6 +193,17 @@ Browsers are particularly suitable for the long text ..
 
 ---
 
+[^themes]: Theme
+- Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. 
+- Though choice is a good thing, it is almost impossible to review the text though all the possible combinations. Thus, a lone writer-editor must choose one to preview the write-ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
+
+---
+
+[^favi]: Favicon
+- The little picture right in front of your browser's url bar (where you type the address of the website such as https://gita.shutri.com) is called a favicon. 
+
+---
+
 [^browser]: Because of limited resources, I only use ‘Firefox’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or links that don't support JavaScript natively.
 
 ---
@@ -201,13 +217,4 @@ Browsers are particularly suitable for the long text ..
 - When you click on the footnote marker in the main text, it brings you down to the relevant note at the bottom. Think of it as a hyperlink with in the page.
 - You can always press the browser back arrow on computer (or on tablet) to get back to where you were reading - back to the footnote mark in the main text. Isn't that lot better than reading a paper book!
 
----
 
-[^themes]: Theme
-- Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. 
-- Though choice is a good thing, it is almost impossible to review the text though all the possible combinations. Thus, a lone writer-editor must choose one to preview the write-ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
-
----
-
-[^favi]: Favicon
-- The little picture right in front of your browser's url bar (where you type the address of the website such as https://gita.shutri.com) is called a favicon. 

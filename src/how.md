@@ -2,7 +2,7 @@
 
 `arjun uvaach` -> `Arjuna` spoke ..
 
-`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment after `Krishna` unveiled the knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! 
+`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! 
 
 At the end of this conversation, `Arjuna` said (`uvaach`) 
 
@@ -12,7 +12,7 @@ At the end of this conversation, `Arjuna` said (`uvaach`)
 
 [I am] devoid of illusions, [I am] found by wisdom !
 
-It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of exclusion (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of exit (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 `Gita` is for everyone - it is not religion, race, profession or place specific.
 
@@ -30,7 +30,7 @@ This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from
 
 ## content ..
 
-You will see when you toggle the sidebar (on left), this web app has three main sections :
+If you toggle the sidebar, this web app has three main sections :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -38,23 +38,23 @@ You will see when you toggle the sidebar (on left), this web app has three main 
 
 The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places in space and time. `Gita` is the first written message preserved for the future generations. The larger carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - no one can improve the truth -  the original composition of `Krishna Dwaipayana`.
+Text was a profound discovery. With it, we learnt to send information to distant places in space and time. `Gita` is the first written message preserved for the future generations. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - the truth is immutable. 
 
-`Gita` underscores `Karm yoga` (work protocol) as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to understand, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+`Gita` underscores `Karm yoga` (work protocol) as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to decipher, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas (proof of work) of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
 
-From barter to bitcoin - value store always follows the properties of information store.
+The founding idea was - store of value must follow the properties of information store.
 
 - barter was synchronous spot deal - like the spoken word 
 - gold allowed us to preserve value the way written word preserved the information 
-- bitcoin is gold of internet as written word morphed into digital.
+- bitcoin is gold of internet as information morphed into digital format(s).
 
 ## gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal path to approach value exchange. It establishes the spiritual foundation for selfless focus (`Nishkaam Yazna`) to enable society adopt work ethics - foremost example being `Arjuna`, who wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in work without desires is relevant even today - it is a timeless idea.
+`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal path to approach value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`, who wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
 
 The translation is followed by my essays discovering core concepts of Gita. This point of view may be useful to readers who desire to see `Gita` in prevailing rationale of popular science.
 
@@ -76,7 +76,7 @@ A publisher can infest webpages with any number of trackers - sometimes unknowin
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed to marginalise reading experience and to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
+The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
 
 ![cnnTrackers](./cnnTrackers.png)
 
@@ -97,7 +97,7 @@ Since web-browser is a general purpose application, fine-tuning it for readabili
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 The “web app” , thus created,  has several goodies baked in. For example... 
-- It handles layout and responsive design, so my mind stays on the content instead of technology. 
+- It handles layout and responsive design, so my mind stays on the content - instead of technology. 
 - It keeps the essential book experience intact - even on a tablet or smartphone.
 - Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices for offline reading.
 - The app comes with three tier search - probably the least appreciated feature !  For example - if I search for `Siva`, it gives me the name of the book, chapter, and section heading. When I click on the search result , it highlights the 'search term' in blue color. 
@@ -114,7 +114,7 @@ The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A gold
 
 ## favicon
 
-The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be further simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 
 ## cover photo
@@ -172,7 +172,7 @@ Please feel free to leave a message with your tips. I would definitely respond b
 - Omnipresent - Browsers are available for every platform.  For popular graphical platforms such as Mac, Windows, iOS or Android, the choices are practically limitless.  Even for pure terminal users there are many choices - w3m, lynx, elink to name a few. 
 - For writers, advantages are many. Prime among them is shaking off intermediary publishers and content aggregators. In addition, simple HTML allows infinite customizability. For tech-savvy writers, markdown offers easy scribing. And the best is that publishing direct to the web is 100% free. 
 - The content published directly to the web is future-proof in the sense no matter the evolution of devices from desktops to smartphones to AR/VR headsets, the open internet content will always be available. The content locked in platforms such as Wikipedia or Facebook will always be subject to the policies of aggregators. It may go behind a paywall at a short notice, as happened in case of Medium.
-- Universally accessible - Nation states may ban big platforms such as Twitter in China and TikTok in the USA, it is almost impossible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Web 3.0 is all about censorship resistant perpetual content!
+- Universally accessible - Nation states may ban big platforms such as Twitter in China and TikTok in the USA, it is almost impossible to censor individual websites published directly to the internet. Even if that happens, changing the url isn't complicated. Nostr protocol is all about censorship resistant perpetual content!
 
 Browsers are particularly suitable for the long text ..
 - Easily reach the embedded links for references and jump back in at your reading point. You may laugh off this point as "obvious", but if you are reading on apps or devices such as a  "kindle", this feature may not be as easily accessible. You will need to anyway fire up a browser.

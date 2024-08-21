@@ -38,7 +38,7 @@ If you toggle the sidebar, this web app has three main sections :
 
 The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places in space and time. `Gita` is the first written message preserved for the future generations. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - the truth is immutable. 
+Text was a profound discovery. With it, we learnt to send information to distant places - in both space and time. `Gita` is the first written message preserved for the future generations. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
 `Gita` underscores `Karm yoga` (work protocol) as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to decipher, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 

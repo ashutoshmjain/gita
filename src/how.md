@@ -1,18 +1,16 @@
 ----
 
-`arjun uvaach` -> `Arjuna` spoke ..
+`Arjun uvaach` -> `Arjuna` spoke ..
 
-`Arjuna` was a friend and life-long student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! 
-
-At the end of this conversation, `Arjuna` said (`uvaach`) 
+`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have - when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, he said :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-> Nashto Moha , Smritir Labdha !
+> `Nashto Moha , Smritir Labdha !`
+>
+> [I am] devoid of illusions, [I am] found by wisdom !
 
-[I am] devoid of illusions, [I am] found by wisdom !
-
-It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of exit (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 `Gita` is for everyone - it is not religion, race, profession or place specific.
 
@@ -44,17 +42,13 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
 
-The founding idea was - store of value must follow the properties of information store.
-
-- barter was synchronous spot deal - like the spoken word 
-- gold allowed us to preserve value the way written word preserved the information 
-- bitcoin is gold of internet as information morphed into digital format(s).
+The founding idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended in digital realm. Bitcoin is gold of internet as information morphed into digital format(s).
 
 ## gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal path to approach value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`, who wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
+`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal approach to value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`, who wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
 
 The translation is followed by my essays discovering core concepts of Gita. This point of view may be useful to readers who desire to see `Gita` in prevailing rationale of popular science.
 

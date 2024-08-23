@@ -2,7 +2,7 @@
 
 `Arjun uvaach` -> `Arjuna` spoke ..
 
-`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have - when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, he said :
+`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have - when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him - and by extension, to all of us. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -10,7 +10,7 @@
 >
 > [I am] devoid of illusions, [I am] found by wisdom !
 
-It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), it welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 `Gita` is for everyone - it is not religion, race, profession or place specific.
 
@@ -18,7 +18,7 @@ It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). 
 
 This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the ultimate epic. 
 
-## icons and navigation ..
+## Navigation and icons:
 
 - cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right (or left). 
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
@@ -26,13 +26,13 @@ This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from
 - you can also navigate with left and right arrows on keyboard.
 - On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
-## content ..
+## Content:
 
 If you toggle the sidebar, this web app has three main sections :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-## mathura (work in progress)
+## Mathura (work in progress)
 
 The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
@@ -44,7 +44,7 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 The founding idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended in digital realm. Bitcoin is gold of internet as information morphed into digital format(s).
 
-## gita
+## Gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
@@ -52,7 +52,7 @@ The second section is original translation of `Bhagvad Gita` (in English) by `Ki
 
 The translation is followed by my essays discovering core concepts of Gita. This point of view may be useful to readers who desire to see `Gita` in prevailing rationale of popular science.
 
-## mahabharata
+## Mahabharata
 
 As per Swami Angnananda, a foremost `Gita` scholar, `Dwaipayana` by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. So immersive that even after thousands of years, the epic is as interesting a read as the day it was written. 
 
@@ -61,14 +61,13 @@ The third section is the original translation  of the entire `Mahabharata` - the
 
 </div>
 
-## freedom tech
+## Freedom tech
 
 Part of the mission [^mission] is to contribute my bit in freedom of internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
 
 A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Freedom is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
-
 
 The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
 
@@ -84,7 +83,7 @@ However, if you did that, you won't be able to load most of the websites (Facebo
 
 As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is to do my part as a digital being who scavenges most of the information from internet.
 
-## open source tools
+## Open source tools
 
 Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience. [Rust mdBook](https://github.com/rust-lang/mdBook) is designed to render documentation in web format (HTML and CSS). It turns Markdown text [^text] into an online book.
 
@@ -102,16 +101,16 @@ The “web app” , thus created,  has several goodies baked in. For example...
 
 Content is written in vim on Debian - both fully open and time tested.
 
-## theme
+## Theme
 
 The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as ayu and navy because this custom theme is the one I test from readability standpoint.
 
-## favicon
+## Favicon
 
 The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 
-## cover photo
+## Cover photo
 
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
@@ -119,7 +118,7 @@ In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Gane
 
 > One who has all the answers doesn't know of any question!
 
-## Licence stuff
+## Licence
 
 The publication is under creatives common v1.0. Which means everything is under public domain. `Mahabharata` and it's translation by `Kisari Mohan Ganguli` is also in public domain 
 

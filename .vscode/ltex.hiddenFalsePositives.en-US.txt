@@ -24,3 +24,4 @@
 {"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnd if everyone knew writing, then writing all the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q^shruti would be an easy shared effort.\\E$"}
 {"rule":"IN_A_X_MANNER","sentence":"^\\QIn a circular way, \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q did lead to divine felicity.\\E$"}
 {"rule":"TO_TOO","sentence":"^\\QA half cooked meal might appeal to few hungry but it wouldn't make you a chef.\\E$"}
+{"rule":"CD_NN","sentence":"^\\QAug 23, 24\nReadme - major updates.\\E$"}

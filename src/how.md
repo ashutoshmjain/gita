@@ -1,8 +1,8 @@
 ----
 
-`Arjun uvaach` -> `Arjuna` spoke ..
+`Arjun uvaach` -> `Arjuna` said ..
 
-`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have - when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him - and by extension, to all of us. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
+`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have - when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him - thus by extension, to all the seekers. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -24,7 +24,7 @@ This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
-- On the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
+- on the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
 ## Content:
 
@@ -34,27 +34,29 @@ If you toggle the sidebar, this web app has three main sections :
 
 ## Mathura (work in progress)
 
-The first section is a historical narrative.  It discovers a period five to seven thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
+The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places - in both space and time. `Gita` is the first written message preserved for the future generations. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
+Text was a profound discovery. With it, we learnt to send information to distant places - and future. `Gita` was the first written message preserved for the future. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
-`Gita` underscores `Karm yoga` (work protocol) as a path to gradually accumulate value ( `Daivvy Sampad`) and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to decipher, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+`Gita` defined `Karm yoga` (work protocol) as a path to gradually accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to decipher, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. It laid the founding ideas of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was the first mega epic written down and unveiled in series of eighteen books here. It laid the foundational idea of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
 
-The founding idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended in digital realm. Bitcoin is gold of internet as information morphed into digital format(s).
+The founding idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
+
+The change, however, is never conflict free ... 
 
 ## Gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal approach to value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`, who wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
+`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal approach to value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna` -  he wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
 
-The translation is followed by my essays discovering core concepts of Gita. This point of view may be useful to readers who desire to see `Gita` in prevailing rationale of popular science.
+The translation is followed by my essays discovering core concepts of Gita. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
 ## Mahabharata
 
-As per Swami Angnananda, a foremost `Gita` scholar, `Dwaipayana` by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. So immersive that even after thousands of years, the epic is as interesting a read as the day it was written. 
+The divine author `Krishna Dwaipayana`, by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. Even after thousands of years, the epic is as interesting a read as the day it was written. 
 
 The third section is the original translation  of the entire `Mahabharata` - the longest poem, ever written in any language. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) before you take a plunge - to appreciate the guiding motivations of translation work.
 

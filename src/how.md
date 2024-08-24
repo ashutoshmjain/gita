@@ -36,13 +36,13 @@ If you toggle the sidebar, this web app has three main sections :
 
 The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places - and future. `Gita` was the first written message preserved for the future. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
+Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
 `Gita` defined `Karm yoga` (work protocol) as a path to gradually accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to decipher, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was the first mega epic written down and unveiled in series of eighteen books here. It laid the foundational idea of even bigger shift that happened around the same time in nearby city of `Dwarka`  - discovery of gold as a store of value.  
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled in series of eighteen books here at `Mathura`. The written word laid the foundations for even bigger shift - discovery of gold as a store of value.  
 
-The founding idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
+The idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
 
 The change, however, is never conflict free ... 
 

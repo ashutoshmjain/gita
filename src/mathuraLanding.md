@@ -49,11 +49,13 @@ The legend says the epic was too big to scribe for humans! Thus, the first write
 
 Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally both of them are depicted to have non-human heads. `Ganesa` is definitely symbolic of higher intelligence for he is crowned with an elephant's head. 
 
-> Sporting a bigger head on a human torso is indicative of right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. The scripture has an interesting story to bring the idea to masses. It says `Ma Parvati`  created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect its mother. When `Siva` came to see his wife - `Ma Paravati`, `Ganesa` wouldn't let him step into the cave. `Siva` - the epitome of conscious experience - had to forcibly plant intelligence in `Ganesa`. He planted an Elephant head on young `Ganesa`. Exaggerations of a catchy narrative aside, `Mother Parvati` gave `Ganesa` a superior body while father `Siva` provisioned higher neural density for him. 
+Planting a bigger head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural density to humans was not a natural evolution - it was act of God. The scripture has an interesting story to cascade this intervention - such that it is always remembered. 
+
+> It says `Ma Parvati`  created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect its mother. When `Siva` came to see his wife - `Ma Paravati`, the humanoid wouldn't let him step into `Parvati's` abode. `Siva` - the epitome of conscious experience - had to forcibly plant intelligence in him. He planted an Elephant head on young `Ganesa`. Exaggerations of a catchy narrative aside, `Mother Parvati` gave `Ganesa` a superior body while father `Siva` provisioned a bigger brain. 
 
 </div>
 
-Superior intelligence is represented in writing long texts. No wonder they are known as deities of hieroglyphs - sacred carvings.
+Superior intelligence is represented in text awareness. No wonder both Thoth and `Ganesha` are known as deities of hieroglyphs - sacred carvings.
 
 ---
 

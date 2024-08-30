@@ -24,7 +24,6 @@ This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from
 - search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
-- on the top right of the page, you can visit its GitHub <i class="fa fa-fw fa-github"></i> repository, where the content of this publication lives.
 
 ## Content:
 
@@ -63,15 +62,15 @@ The third section is the original translation  of the entire `Mahabharata` - the
 
 </div>
 
-## Freedom tech
+## Clean internet 
 
-Part of the mission [^mission] is to contribute my bit in freedom of internet. Freedom in this context means a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
+Part of the mission [^mission] is to contribute my bit to clean up the internet. Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. As a perversion, many of such tools have turned the internet into a surveillance apparatus. An immune response to this perversion is the rise of so-called freedom tech - basically a set of privacy tools.  My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free !
 
-A publisher can infest webpages with any number of trackers - sometimes unknowingly. It is for them to make sure they don't use "plug and play" code such as Google Analytics. It saves the readers from hidden profiling and pesky advertisements. Freedom is not only a readers' right, it is also a good design choice - it makes pages load faster. 
+A publisher may infest webpages - sometimes unknowingly - because the "plug and play" code such as Google Analytics are easy to install. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The sad part is - in order to keep the internet perceivably free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
+The sad part is - in order to keep the internet (perceivably) free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
 
 ![cnnTrackers](./cnnTrackers.png)
 
@@ -83,15 +82,14 @@ However, if you did that, you won't be able to load most of the websites (Facebo
 
 </div>
 
-As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is to do my part as a digital being who scavenges most of the information from internet.
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is to do my part as a digital native. 
 
 ## Open source tools
 
-Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool mdBook to shape this into a book-like reading experience. [Rust mdBook](https://github.com/rust-lang/mdBook) is designed to render documentation in web format (HTML and CSS). It turns Markdown text [^text] into an online book.
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool [mdBook](https://github.com/rust-lang/mdBook) to shape this into a book-like reading experience. The web-app thus created has many features :  
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The “web app” , thus created,  has several goodies baked in. For example... 
 - It handles layout and responsive design, so my mind stays on the content - instead of technology. 
 - It keeps the essential book experience intact - even on a tablet or smartphone.
 - Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices for offline reading.

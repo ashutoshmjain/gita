@@ -10,6 +10,11 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## Aug 30, 24
+- [Readme](./how.md) - minor edits.
+- [Mathura](./mathuraLanding.md) - minor edits.
+  - [Book 1](./thought.md) - minor edits.
+ 
 ## Aug 23, 24
 - [Readme](./how.md) - major edits.
 

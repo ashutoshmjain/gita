@@ -39,17 +39,15 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Gita` defined `Karm yoga` (work protocol) as a path to gradually accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite thousands of elaborate attempts to decipher, it stays a mystery as to how someone could comprehend a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled in series of eighteen books here at `Mathura`. The written word laid the foundations for even bigger shift - discovery of gold as a store of value.  
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. The written word laid the foundations for even bigger shift - discovery of gold as a store of value - value must follow the properties of information. In truth, value is nothing but immutable information - something that never changes. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
 
-The idea was - store of value must follow the properties of information store. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
-
-The change, however, is never conflict free ... 
+`Mathura` is thus the place where the idea of storage or information ( and value) took roots - that led to modern way of life. 
 
 ## Gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source code of `Karm Yoga` - the work protocol.   While `Karm Yoga` is proven means to exit sufferings of this world, it also elaborates the ideal approach to value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna` -  he wanted to shun his responsibility as a warrior. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
+`Gita` is the source code of `Karm Yoga` - the work protocol. While `Karm Yoga` is proven means to exit sufferings of this world, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`. He wanted to shun his responsibility as a warrior. `Krishna` advised him to not give up his duties. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
 
 The translation is followed by my essays discovering core concepts of Gita. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 

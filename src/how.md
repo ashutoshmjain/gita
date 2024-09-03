@@ -35,19 +35,19 @@ If you toggle the sidebar, this web app has three main sections :
 
 The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
+Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future - encapsulated in a large carrier narrative. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
-`Gita` defined `Karm yoga` (work protocol) as a path to gradually accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could narrate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+`Gita` defined `Karm yoga` (work protocol) as a path to gradually accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
 `Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. The written word laid the foundations for even bigger shift - discovery of gold as a store of value - value must follow the properties of information. In truth, value is nothing but immutable information - something that never changes. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
 
-`Mathura` is thus the place where the idea of storage or information ( and value) took roots - that led to modern way of life. 
+`Mathura` is thus the place where the idea of storage of information (and value) took roots - humans moved from barter to gold as they embraced written word as a store of information - as opposed to rigorous recital. 
 
 ## Gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source code of `Karm Yoga` - the work protocol. While `Karm Yoga` is proven means to exit sufferings of this world, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless (free) and open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`. He wanted to shun his responsibility as a warrior. `Krishna` advised him to not give up his duties. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
+`Gita` is the source code of `Karm Yoga` - the work protocol. While `Karm Yoga` is proven means to exit sufferings of this world, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`. He wanted to shun his responsibility as a warrior. `Krishna` advised him to not give up his duties. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
 
 The translation is followed by my essays discovering core concepts of Gita. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
@@ -80,7 +80,7 @@ However, if you did that, you won't be able to load most of the websites (Facebo
 
 </div>
 
-As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is to do my part as a digital native. 
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is only to do my part as a digital native. 
 
 ## Open source tools
 

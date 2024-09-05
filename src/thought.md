@@ -2,11 +2,13 @@
 
 Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help, though internally, you are prepared - with or without material support. You instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva` - zenith of conscious experience.
 
-Scribing `Mahabharata` was one such venture. It was the beginning of written narratives. Sage writer and teacher of all then existing races [^races], `Krishna Dwaipayana` invoked `Bramh`.  Not only did he need all-pervading information within -  he must seek permission to open us mortals' access to the past - and to the future. He must align himself to the continuum before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It was the beginning of written narratives. Sage writer and teacher of all then existing races [^races], `Krishna Dwaipayana` invoked `Bramh`.  Not only did he need all-pervading information (`Bramh`) within -  he must seek permission to open us mortals' access to the past - and to the future. He must align himself to the continuum (`Bramh`) before introducing text to a vocal and verbose world.
 
-Text was the new way - to store manifolds of lore. As `Mahabharata`grew into encyclopedia scale, it attracted readers - a natural pull rather than coercion. Challenges are invitations to seekers - Mount Everest always attracts climbers ! 
+Text was the new way - to store manifolds of lore. As `Mahabharata` scaled, it attracted readers - a natural pull rather than coercion. Challenges are invitations to seekers - Mount Everest always attracts climbers ! 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
+
+![](./mahabharata-book.png)
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 >
@@ -17,20 +19,22 @@ Text was the new way - to store manifolds of lore. As `Mahabharata`grew into enc
 
 </div>
 
-Size was important to pass the minimum threshold for embedding text in human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, made one crave for more - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history. It was released in eighteen successive epics at `Mathura` - each marking an event - `Parva`.
+Size was important to pass the minimum threshold for embedding text in human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, made one crave for more - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. It was released in eighteen successive epics at `Mathura` - each marking an event - `Parva`.
 
 And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti` [^srishti]). 
 
 ---
 
-First scripting language `Bramhi Lipi`, scribing techniques, and innovative scope - being coincidental, built on each other - a three-way complementarity [^three]. Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for its lexicon - mixed with insights of his travels and wit !
+The idea to "write" and to write a lot - "history" - led to first well engineered scripting language -`Bramhi Lipi`. Being coincidental, they built on each other - a three-way complementarity [^three] - new language , new tools and new scope. Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for its lexicon - mixed with insights of his travels and wit !
 
 There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. Before Unix, software and hardware were tied at the hip. Despite industry-wide attempts to centralize, [POSIX](https://itsfoss.com/posix/) systems run almost every hardware architecture - from mainframes to smartphones. Unix fragmented itself to jailbreak the hardware. Birth of a digital layer - a user is assured of same set of utilities no matter what underlying physical circuitry. 
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new tools to scribe and new scope - a portable operating system.
+
+Before Unix, software and hardware were tied at the hip. Despite industry-wide attempts to centralize, [POSIX](https://itsfoss.com/posix/) systems run almost every hardware architecture - from mainframes to smartphones. Unix fragmented itself to jailbreak the hardware. Birth of a digital layer - a user is assured of same set of utilities no matter what underlying physical circuitry. 
 
 </div>
 

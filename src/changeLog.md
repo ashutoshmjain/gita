@@ -10,10 +10,15 @@ Since this is a living book being written in the "open" [^open], a weekly update
 
 One can always see the granular change history at [GitHub repo](https://github.com/ashutoshmjain/gita).
 
+## Sep 06, 24
+- [Readme](./how.md) - major edits.
+- [Mathura](./mathuraLanding.md) - minor edits.
+  - [Thought](./thought.md) - major  edits.
+ 
 ## Aug 30, 24
 - [Readme](./how.md) - minor edits.
 - [Mathura](./mathuraLanding.md) - minor edits.
-  - [Book 1](./thought.md) - minor edits.
+  - [Thought](./thought.md) - minor edits.
  
 ## Aug 23, 24
 - [Readme](./how.md) - major edits.
@@ -21,13 +26,13 @@ One can always see the granular change history at [GitHub repo](https://github.c
 
 ## Aug 16, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
-  - [Book 1](./thought.md)
+  - [Thought](./thought.md)
     - [Righteous](./mathuraChap04.md) - minor edits.
 - [Readme](./how.md) - major updates.  This page is accessible from landing page under link "about and navigation"
 
 ## Aug 09, 24
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./thought.md)
+  - [Thought](./thought.md)
     - [Trigger](./mathuraChap01.md)
     - [Reboot](./mathuraChap02.md) - minor edits.
     - [Expression](./mathuraChap03.md) - minor edits.
@@ -35,12 +40,12 @@ One can always see the granular change history at [GitHub repo](https://github.c
  
 ## Aug 02, 24
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./thought.md)
+  - [Thought](./thought.md)
     - [Expression](./mathuraChap03.md) - major edits. 
  
 ## July 26, 24
 - [Mathura](./mathuraLanding.md)
-  - [Book 1](./thought.md)
+  - [Thought](./thought.md)
     - [Trigger](./mathuraChap01.md)
     - [Reboot](./mathuraChap02.md) - minor edits.
     - [Expression](./mathuraChap03.md) - major edits.
@@ -48,103 +53,103 @@ One can always see the granular change history at [GitHub repo](https://github.c
 
 ## July 19, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
-  - [Book 1](./thought.md)- minor edits. 
+  - [Thought](./thought.md)- minor edits. 
     - [Trigger](./mathuraChap01.md)- major edits.
 
 ## July 12, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
-  - [Book 1](./thought.md)- minor edits. 
+  - [Thought](./thought.md)- minor edits. 
     - [Trigger](./mathuraChap01.md)- minor edits. 
  
 ## July 05, 24
 - [Mathura](./mathuraLanding.md) 
-  - [Book 1](./thought.md) 
+  - [Thought](./thought.md) 
     - [Trigger](./mathuraChap01.md) 
     - [Reboot](./mathuraChap02.md) - major edits.
  
 ## June 29, 24
 - [Mathura](./mathuraLanding.md) - 
-  - [Book 1](./thought.md) 
+  - [Thought](./thought.md) 
     - [Trigger](./mathuraChap01.md) major edits.
  
 ## June 21, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
-  - [Book 1](./thought.md) - minor update - improved last section and general edits.
+  - [Thought](./thought.md) - minor update - improved last section and general edits.
  
 ## June 14, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
-  - [Book 1](./thought.md) - major edits.
+  - [Thought](./thought.md) - major edits.
  
 ## June 07, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
-  - [Book 1](./thought.md) - minor edits.
+  - [Thought](./thought.md) - minor edits.
  
 ## May 31, 24
 - [Mathura](./mathuraLanding.md) - major edits to improve readability and flow. 
  
 ## May 24, 24
 - [Mathura](./mathuraLanding.md) - 
-  - [Book 1](./thought.md) 
+  - [Thought](./thought.md) 
     - [Trigger](./mathuraChap01.md) 
     - [Reboot](./mathuraChap02.md) - major update - Restructured the chapter with focus on readability and flow.
  
 ## May 17, 24
 - [Mathura](./mathuraLanding.md) - 
-  - [Book 1](./thought.md) 
+  - [Thought](./thought.md) 
     - [Trigger](./mathuraChap01.md) - Major update. Flow and readability. Fine-tuned ideas around the core competencies of knowledge.
  
 ## May 10, 24
 - [Mathura](./mathuraLanding.md) 
-  - [Book 1](./thought.md) - Major update. Lots of work in further refining the readability . Changed the flow a little and added some more to the closing part. 
+  - [Thought](./thought.md) - Major update. Lots of work in further refining the readability . Changed the flow a little and added some more to the closing part. 
  
 ## May 03, 24
 - [Mathura](./mathuraLanding.md) 
-  - [Book 1](./thought.md) - Major update. Reorganized the chapter ground up for flow, context and readability.  
+  - [Thought](./thought.md) - Major update. Reorganized the chapter ground up for flow, context and readability.  
  
 ## April 26, 24
 - [Mathura](./mathuraLanding.md) - Minor Edits.
-  - [Book 1](./thought.md) - Pruned the chapter to 5000 words. From Readability standpoint, 5000 words seem appropriate for a web page. It was turning into a book itself at ten thousand words. 
+  - [Thought](./thought.md) - Pruned the chapter to 5000 words. From Readability standpoint, 5000 words seem appropriate for a web page. It was turning into a book itself at ten thousand words. 
  
 ## April 19, 24
 - [Mathura](./mathuraLanding.md) - 
-  - [Book 1](./thought.md) - Changed the footnote on "code as abstraction of thoughts" 
+  - [Thought](./thought.md) - Changed the footnote on "code as abstraction of thoughts" 
     - [Trigger](./mathuraChap01.md)
     - [Reboot](./mathuraChap02.md) - spell check and Grammar. Added two new footnotes.
 
 
 ## April 12, 24
 - [Mathura](./mathuraLanding.md) - major edits. Improved the flow and introduced sections. I guess it is lot more readable now. 
-  - [Book 1](./thought.md) - major update - tied together all the sections again. It has gotten bigger than what I had planned for, but it makes sense now. 
+  - [Thought](./thought.md) - major update - tied together all the sections again. It has gotten bigger than what I had planned for, but it makes sense now. 
 
 ## April 05, 24
 - [Mathura](./mathuraLanding.md) 
-  - [Book 1](./thought.md) - major update - tied the whole chapter into a flow. Aligned the idea of a narrative as an experience and the value exchange as the cost of the cost of experience. 
+  - [Thought](./thought.md) - major update - tied the whole chapter into a flow. Aligned the idea of a narrative as an experience and the value exchange as the cost of the cost of experience. 
       - [Trigger](./mathuraChap01.md) - major edits - tightly aligned the chapter with the definitions of the core competencies.
 
 ## March 29, 24
 - [Mathura](./mathuraLanding.md) - minor edits. 
-  - [Book 1](./thought.md) - minor update.
+  - [Thought](./thought.md) - minor update.
       - [Trigger](./mathuraChap01.md) - major edits  - spells and grammar. 
 ## March 22, 24
 - [Mathura](./mathuraLanding.md) - major edits - improved the opening para.
-  - [Book 1](./thought.md) - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 
+  - [Thought](./thought.md) - major update - Tied up the intro section with the idea that thought (narrative) is an abstraction of real world actions and code is an abstraction of thoughts. In that sense narrative is an apex artifact of thought just as LLMs are an apex artifact of code. 
       - [Trigger](./mathuraChap01.md) - major edits  - started spell and grammar check.
  
 ## March 15, 24
 - [Mathura](./mathuraLanding.md) - major edits - mostly spells and grammar.
-  - [Book 1](./thought.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little about knowledge verses information. Leading to Karma via dive in ..
+  - [Thought](./thought.md) - major updates - It feels like the idea is finally emerging. A narrative about a narrative - assumption written word and Gold were co-incidental. Build through the idea of storage of information - little about knowledge verses information. Leading to Karma via dive in ..
  
 ## March 08, 24
 - [Mathura]
-  - [Book 1](./thought.md) - major updates - Finally pretty close to what I wanted to cover .. Few more cosmetics may follow !
+  - [Thought](./thought.md) - major updates - Finally pretty close to what I wanted to cover .. Few more cosmetics may follow !
  
 ## March 01, 24
 - [Mathura](./mathuraLanding.md) - minor edits.
-  - [Book 1](./thought.md) - major updates. 
+  - [Thought](./thought.md) - major updates. 
  
 ## Feb 25, 24
 - [Mathura](./mathuraLanding.md)
-  - [Book 2](./mathuraChap08.md) 
+  - [Thought](./mathuraChap08.md) 
       - [Identity](./mathuraChap10.md) - major edits.
  
 ## Feb 16, 24

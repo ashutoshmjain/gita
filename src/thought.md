@@ -27,34 +27,36 @@ And as if technical challenges were trivial - the quest was to determine the rig
 
 The idea to "write" and to write a lot - "history" - led to first well engineered scripting language -`Bramhi Lipi`. Being coincidental, they built on each other - a three-way complementarity [^three] - new language , new tools and new scope. Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own language! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for its lexicon - mixed with insights of his travels and wit !
 
-There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity with digital word. Need I say it too changed the world :
+There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a truly digital experience. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new tools to scribe and new scope - a portable operating system.
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new tools to scribe and new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
-Before Unix, software and hardware were tied at the hip. Despite industry-wide attempts to centralize, [POSIX](https://itsfoss.com/posix/) systems run almost every hardware architecture - from mainframes to smartphones. Unix fragmented itself to jailbreak the hardware. Birth of a digital layer - a user is assured of same set of utilities no matter what underlying physical circuitry. 
+Legacy software and hardware were tied at the hip - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on wide variety of hardware architectures - from mainframes to smartphones. In a way, Unix fragmented itself to jailbreak the hardware. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. 
 
 </div>
 
 The way software transformed every aspect of modern life - and is now redefining the value exchange ([bitcoin](https://bitcoin.org/bitcoin.pdf)); the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (gold) emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
-Just like our adoption to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
+Just like our adoption to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own tenor;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
 
-You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative and first portable operating system ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose machines; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate. If you ever wondered why Bitcoin is copied into thousands of crypto coins , then the short answer is - when `Vishnu` (the soul) ingresses, the replication and decentralization is a natural cycle of manifestation.
+You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative and first portable operating system ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose machines; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate. 
 
 In the hindsight, as we are on the cusp of artificial general intelligence, there appears even more profound connection - not without stretch of imagination though ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) that consciousness is hardware independent.
+The idea of sentient beings, living in the realms of artificial intelligence isn't far-fetched. Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) -  consciousness is hardware independent.
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If computer programs (most likely AI based) are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? Wouldn't they  relate to the operating system as we do to primitive scriptures ?  
+If AI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
 
-> An operating system establishes efficient rules for computer programs (digital beings) to engage hardware resources; just as scriptures defined amicable rules for us physical beings - rules for coexistence, respect for the elements, and gratitude.
+**Wouldn't they  relate to operating system as we do to primitive scriptures ?**
+
+> An operating system establishes rules to engage hardware resources - memory, storage and processor - for computer programs (digital beings). Scriptures define rules for us physical beings - rules for coexistence, respect for the elements, and gratitude.
 >
 > From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
 > - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 

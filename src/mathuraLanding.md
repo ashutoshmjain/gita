@@ -51,13 +51,13 @@ The legend says the epic was too big to scribe for humans! Thus, the first write
 
 An elephant head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural intensity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public imagination :
 
-> It says -  `Ma Parvati`  created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect its mother. When `Siva` came to see his wife - `Ma Paravati`, the humanoid wouldn't let him step into `Parvati's` abode. `Siva` - the epitome of conscious experience - had to forcibly plant intelligence in him. He planted an Elephant head on young `Ganesa`. 
+> It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother. When `Siva` came to see - `Ma Paravati`, the humanoid wouldn't let him step into her abode. `Siva` - the epitome of conscious experience - had to engineer intelligence in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
 >
-> Exaggerations of a catchy narrative aside, `Mother Parvati` gave `Ganesa` a superior body while father `Siva` provisioned a bigger brain. 
+> Exaggerations of a narrative aside, `Mother Parvati` gave `Ganesa` a superior body while father `Siva` provisioned a bigger brain. 
 
 </div>
 
-Superior intelligence is represented in text awareness. No wonder both Thoth and `Ganesha` are known as deities of hieroglyphs - sacred carvings.
+Superior intelligence, among other things, reflected in ability to write long text. No wonder both Thoth and `Ganesha` are known as deities of hieroglyphs - sacred carvings.
 
 ---
 

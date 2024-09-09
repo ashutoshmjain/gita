@@ -8,7 +8,7 @@
 
 > `Nashto Moha , Smritir Labdha !`
 >
-> [I am] devoid of illusions, [I am] found by wisdom !
+> [I am] devoid of illusions, [I] attained wisdom !
 
 It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
@@ -35,19 +35,19 @@ If you toggle the sidebar, this web app has three main sections :
 
 The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future - encapsulated in a large carrier narrative. The carrier narrative `Mahabharata` went through multiple iterations for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
+Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future - encapsulated in a large carrier narrative. The carrier narrative `Mahabharata` went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
-`Gita` defined `Karm yoga` (work protocol) as a path to gradually accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+`Gita` defined `Karm yoga` as a path to (gradually) accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. The written word laid the foundations for even bigger shift - discovery of gold as a store of value - value must follow the properties of information. In truth, value is nothing but immutable information - something that never changes. Barter was synchronous spot deal - like the ephemeral spoken word. Gold allowed us to preserve value the way written word preserved the information. The idea may be extended to digital realm ->  Bitcoin is digital value. It evolved as the information morphed into digital format(s).
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for discovery of gold - as a store of value. 
 
-`Mathura` is thus the place where the idea of storage of information (and value) took roots - humans moved from barter to gold as they embraced written word as a store of information - as opposed to rigorous recital. 
+> Value must follow the properties of information. 
 
 ## Gita
 
 The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Gita` is the source code of `Karm Yoga` - the work protocol. While `Karm Yoga` is proven means to exit sufferings of this world, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - prime example being `Arjuna`. He wanted to shun his responsibility as a warrior. `Krishna` advised him to not give up his duties. Finding peace (and prosperity) in "work without desires" is relevant even today - it is a timeless idea.
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`) to enable society adopt work ethics - irrespective of imminent challenges. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma` as a warrior. Finding exit through peace and prosperity is relevant even today - `Nishkaam Yazna` is a timeless idea irrespective of work stream.
 
 The translation is followed by my essays discovering core concepts of Gita. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
@@ -55,7 +55,7 @@ The translation is followed by my essays discovering core concepts of Gita. They
 
 The divine author `Krishna Dwaipayana`, by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. Even after thousands of years, the epic is as interesting a read as the day it was written. 
 
-The third section is the original translation  of the entire `Mahabharata` - the longest poem, ever written in any language. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) before you take a plunge - to appreciate the guiding motivations of translation work.
+The third section is the original translation  of `Mahabharata` - the longest poem, ever written in any language. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) before you take a plunge - to appreciate the guiding motivations of translation work.
 
 
 </div>

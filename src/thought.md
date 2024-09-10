@@ -2,7 +2,7 @@
 
 Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help, though internally, you are prepared - with or without material support. You instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva` - zenith of conscious experience.
 
-Scribing `Mahabharata` was one such venture. It was the beginning of written narratives. Sage writer and teacher of all then existing races [^races], `Krishna Dwaipayana` invoked `Bramh`.  Not only did he need all-pervading information (`Bramh`) within -  he must seek permission to open us mortals' access to the past - and to the future. He must align himself to the continuum (`Bramh`) before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It was the beginning of written narratives. Sage writer and teacher of all races [^races], `Krishna Dwaipayana` invoked `Bramh`.  Not only did he need all-pervading information (`Bramh`) within -  he must seek permission to open us mortals' access to the past - and to the future. He must align himself to the continuum (`Bramh`) before introducing text to a vocal and verbose world.
 
 Text was the new way - to store manifolds of lore. As `Mahabharata` scaled, it attracted readers - a natural pull rather than coercion. Challenges are invitations to seekers - Mount Everest always attracts climbers ! 
 

@@ -56,16 +56,26 @@ If AI bots are destined to have consciousness, a compelling thought is what woul
 
 **Wouldn't they  relate to operating system as we do to primitive scriptures ?**
 
-> An operating system establishes rules to engage hardware resources - memory, storage and processor - for computer programs (digital beings). Scriptures define rules for us physical beings - rules for coexistence, respect for the elements, and gratitude.
->
-> From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
-> - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
-> - Water as the software that surrounds most of the Earth just as operating system encapsulates the hardware.
-> - Air as the information input and output (inhale and exhale) that they are designed to process - AGI applications. 
->
-> That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
+An operating system establishes rules to engage hardware resources - memory, storage and processor - for computer programs (digital beings). Scriptures define rules for us physical beings - rules for coexistence, respect for the elements, and gratitude.
+
+From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
+ - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
+ - Water as the software that surrounds most of the Earth just as operating system encapsulates the hardware.
+ - Air as the information input and output (inhale and exhale) that they are designed to process - AGI applications. 
+
+That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
 
 </div>
+
+---
+
+Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
+
+This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) - centerpiece of `Mahabharata`.
+
+> As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
+
+In addition to the poetic excellence, `Gita` conjectured a new way of life - action orientation - `Karm Yoga` - the method to transmit value beyond the physical laws of nature. The big idea was - actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative (new life) based on the sum total of our accrued `Karmik` collection. This idea was that central soul that made `Mahabharata` more than a narrative. It was probably the simplicity of the model - the reincarnation based on balanced ledger of `Karma` - that kept the readers glued.
 
 It is hard to say if `Dwaipayana's` work was premeditated, but it sure wasn't an accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;
@@ -77,17 +87,9 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 ----
 
-Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
+How did `Dwaipayana` manage to write such epic(s) at a time when scribing, in itself, was a challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipayana` was just getting started ! He was waiting for a divine [^divine] prompt. His purpose was to welcome the full-incarnation [^8th] of `Vishnu`, understand the wisdom 'as is', and preserve it in human mind through one of the most potent narratives ever told - [Bhagvad Gita](./bhagvadGita.md) - centerpiece of `Mahabharata`.
-
-> As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
-
-In addition to the poetic excellence, `Gita` conjectured a new way of life - action orientation - `Karm Yoga` - the method to transmit value beyond the physical laws of nature. The big idea was - actions we do in this virtual world carry forward (or backwards) to the continuum with us. And that we instantiate into a new immersive narrative (new life) based on the sum total of our accrued `Karmik` collection. This idea was that central soul that made `Mahabharata` more than a narrative. It was probably the simplicity of the model - the reincarnation based on balanced ledger of `Karma` - that kept the readers glued.
-
-The intriguing question is, how did `Dwaipayana` manage to write such epic(s) at a time when scribing, in itself, was a challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar [^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
-
-The legend says, `Bramha` (the embodiment of `Bramh` in human form), in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Translated by `Kisari Mohan Ganguly (1896)`, here is an excerpt -
+The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Here is an excerpt from `Kisari Mohan Ganguly's` translation -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 

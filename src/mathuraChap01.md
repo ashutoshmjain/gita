@@ -87,7 +87,7 @@ Thanks to the foresight of `Vaśiṣṭha`, we had a quantum jump making us the 
 ## 1.2
 ---
 
- The potency to build a distributed network - the underlying protocol that enables this 'network of information', is not unique to humans. Holding the information in a network of manifested beings - living or non-living - is what we refer to as `Bramh`. For example, Mycorrhizal [^mycorr] Network – a vast underground network of fungal linkages that connects trees to one another is an information network. This network monitors even the wild growth is well spaced out. The network ensures equitable distribution of resources - enough nourishment for the flora seeking sunlight, and the minerals. And an equally considerate ecosystem for the fauna that spring up to act atop this information network. It is an expression of `Bramh` - coexistence with freedom and interdependent growth in a distributed system.
+ The potency to build a distributed network - the underlying protocol that enables this 'network of information', is not unique to humans. Holding the information in a network of manifested beings - living or non-living - is what we refer to as `Bramh`. For example, Mycorrhizal [^mycorr] Network – an underground network of fungal linkages that connects trees - is an information network. This network monitors the growth is spaced out to ensure equitable distribution of resources. Enough nourishment for the flora seeking sunlight even in a dense forest. And an equally considerate ecosystem for the fauna that spring up to act atop this information network. It is an expression of `Bramh` - coexistence with freedom and interdependent growth in a distributed system.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

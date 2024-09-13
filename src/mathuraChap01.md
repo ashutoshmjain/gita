@@ -4,13 +4,15 @@ Our time [^kaal] began long before `Dwaipayana's` birth - even before birth of h
 
 Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. 
 
-What bigger pain a man might have than his son sacrificed in own backyard! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder. Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly `Aacharyas` (the faculty members), as his true-born ! 
+What bigger pain a man might have than his son sacrificed in own backyard! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder. 
+
+> Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly `Aacharyas` (the faculty members), as his true-born ! 
 
 `Mathura` - the budding city, saw her first mishap. The epitome of knowledge hubs was in full bloodbath.  Fortunately `Adrushyanti`, his daughter-in-law survived the ghastly massacre. She was carrying yet to be born `Parāśara` - couple of months into conception. The young woman turned a widow even before rituals of her motherhood.
 
 Despite his connect with continuum - the cyclic play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse. 
 
-More he thought, more he saw himself at the root of this conflict. That he must have incurred an error to warrant such a backlash - from the very people he was trying to salvage - his old.  Not by age - by cognitive abilities! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses - to think deeper than the recent past, or plan ahead of the future. They believed in static old stories "as is" (`Puranas`), and they believed in barter - to its extreme - an eye for an eye. 
+More he thought, more he saw himself at the root of this conflict. That he must have incurred an error to warrant such a backlash - from the very people he was trying to salvage - his old.  Not by age - by lifestyle and the myths they chose to live by! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses - to think deeper than the recent past, or plan ahead of immediate future. They believed in old stories (`Puranas`) as the word of God. And they believed in barter - to its extreme - an eye for an eye. 
 
 Why would they turn against him ? - `Bramhrishi` thought!
 
@@ -20,7 +22,7 @@ On the surface, it appears the contest is between the `old` and the `new`.
 
 Old seeking to maintain a status quo while the new aspiring for the better. But the truth is they love the new, like we see our future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
-In a way, the mishap marks the beginning of the transition - beginning of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of the "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples [^history] in our recent past though a keen observer may see them in her own backyard.
+In a way, the mishap marks the beginning of the transition - beginning of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples [^history] in our recent past though a keen observer may see them in her own backyard.
 
 They occur for the consciousness must evolve to understand the nature of unity [^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 
@@ -32,7 +34,7 @@ Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi
 
 **And more importantly, to save humanity from the loss of the knowledge locked in `Bramhrishi's` mind, for there was no written text.**
 
-The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' window of history !
+The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' cognitive context -  history !
 
 ## 1.1
 ---
@@ -59,9 +61,9 @@ These truths could be realized through a set of pre-defined actions (`Yazna`). T
 
 </div>
 
-The information was stored in accurate recital, but one must recite the method only after extensive practice. Information must be rooted in deep experiential knowledge such that it represented truth. In `Vaidik` belief system - truth is what one experiences through actions and is realized though intense practice. A lie is said without personally engaging in the activity. No one is a liar for fun. People lie because they are either lazy or they want someone else to experiment first. 
+The information was stored in accurate recital, but one must recite the method only after extensive practice. Information must be rooted in deep experiential knowledge such that it represented truth. In `Vaidik` belief system - truth was what one experienced through actions, and was realized though intense practice. Verbosity without engaging in the activity was considered a lie. No one was assumed to lie for fun. People lied because they were either lazy, or they wanted someone else to experiment first. 
 
-The congregation was thus the reference point for truth - for various branches of innovations that appeared almost magical to the old. `Vaśiṣṭha` had it all indexed in his mind.  More importantly he knew how to kick-start an auditory store of information - an obvious divine grace never heard before. Who would sacrifice the pleasures of life to sustain information! Why would someone gather and qualify all the know-hows -  break them down into precise spoken words (`mantras`) and set up a daily cadence to keep the methods fresh in memory? 
+The congregation was thus the reference point for truth - for various branches of innovation that appeared almost magical to the old. `Vaśiṣṭha` had it all indexed in his mind.  More importantly he knew how to kick-start an auditory store of information - a divine grace never heard before. Who would sacrifice the pleasures of life to sustain information! Why would someone gather and qualify all the know-hows -  break them down into precise spoken words (`mantras`) and set up a daily cadence to keep the methods fresh in memory? 
 
 The true meaning of `Yazna` is practice of skills. Since practice was linked to daily recital, the adapted meaning became formal chanting of `mantras` - mostly in groups. For example paddy was sown only once a year, but in absence of a written down document, the method to take the crop must be recited daily - to save it in memory . In due course, to further formalize the recital, ritualistic routines were added - such as specific dress, time of the day or day of the fortnight (linked to lunar cycle). Paying homage to Sun became the starting point of ritual -  metals being the most precious discoveries, and they all needed big fire. `Gaytri Mantra` became the initiation of `Yazna`. It literally translates to 
 
@@ -78,7 +80,7 @@ Survival was not a question here! Even animals survived to this date! And for th
 
 We are obviously not there yet, but we now have an immensely distributed and fault-tolerant network to allow us make an attempt. At least a guarantee that our external store of information shall stay unharmed, as long as a part of earth survived. Our "text" based information store (books, code, history) is protected in this obscure corner of the universe while we adapt ourselves into higher orders of experiences to go where no other conscious being has gone before - in quest of primordial question "who we are " ! It is important to note here that information alone is not sufficient. The progression depends on how much knowledge we extract of this vast store - through repetitive practice - `Yazna`.
 
-Thus, the tenet is not "survival of the fittest" anymore - it is "evolution of consciousness !" In fact the advantage of spoken language (and later the written word) is such that survival has already become secondary to us. The dramatic improvement in modes of communication and hence value exchange, has turned humans into one living organism such that no other species is a predator to us. In fact, protection of other species is incumbent on us as a keeper of this vast zoo. 
+Thus, the tenet is not survival of the fittest - it is evolution of conscious ! The advantage of language (spoken and written) is such that survival has already become secondary to us. The improvements in modes of communication and hence value exchange, has turned humans into a planet size living organism. No other species is a predator to us. In fact, protection of other species is incumbent on us as a keeper of this vast zoo. 
 
 Thanks to the foresight of `Vaśiṣṭha`, we had a quantum jump making us the representative conscious species of planet Earth - beginning of our time - `Kalpa`.
 

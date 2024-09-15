@@ -112,7 +112,7 @@ The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.or
 
 The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer to the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
+In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
 > One who has all the answers doesn't know of any question!
 
@@ -139,7 +139,7 @@ For details refer to [license](https://github.com/ashutoshmjain/gita/blob/main/L
 
 ## Tips and Donations:
 
-Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You will see at the bottom of each page a donation box as shown below ..
+Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You can use the donation box below to send money in `Satoshies` - commonly called `Sats`. Sats are convenient because there is no credit card involved or computations for the exchange rates - it is one simple global money for the internet.
 
 <lightning-widget 
   name="" 
@@ -149,11 +149,9 @@ Tips normally mean you are happy with your worker. Donations are something that 
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
 
-You can pay as many `Satoshies` as you want. If you don't have a lightening wallet I highly recommend installing one. I normally use [Alby](https://getalby.com) on as a Firefox or Chrome extension. On mobile phones I have used [Wallet of Satoshi](https://www.walletofsatoshi.com) - there are many more.
+To send Sats with above widget, you will need a "lighning wallet" . I normally use [Alby](https://getalby.com) on as a Firefox or Chrome extension. On mobile phones, the choices are endless. Depending upon your jurisdiction - a simple "lightning wallet" search in your app store, would show you all the options.
 
-Please feel free to leave a message with your tips. I would definitely respond back with a lightning message.
-
-
+You can leave a small note with lightning payments though all transactions are practically private. Which means I can't know who sent the money unless you leave a clue in the message.
 
 ## notes and other stuff:
 

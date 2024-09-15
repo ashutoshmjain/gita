@@ -49,7 +49,7 @@ The legend says the epic was too big to scribe for humans! Thus, the first write
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-An elephant head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural intensity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public imagination :
+An elephant head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural intensity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
 
 > It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother. When `Siva` came to see - `Ma Paravati`, the humanoid wouldn't let him step into her abode. `Siva` - the epitome of conscious experience - had to engineer intelligence in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
 >

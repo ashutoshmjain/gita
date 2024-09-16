@@ -21,7 +21,7 @@ This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from
 ## Navigation and icons:
 
 - cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right (or left). 
-- search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
+- search the publication using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
 
@@ -41,11 +41,11 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for discovery of gold - as a store of value. 
 
-> Value must follow the properties of information. 
+> Value exchange must follow the properties of information exchange. 
 
 ## Gita
 
-The second section is original translation of `Bhagvad Gita` (in English) by `Kiasri Mohan Ganguly` circa 1896. 
+The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
 `Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits enable society adopt work as primary protocol for co-existence - irrespective of imminent challenges of an adverse situation. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. Finding a mission in desire free pursuits is relevant even today. `Nishkaam Yazna` is a timeless idea - it is freedom. A variant of it is the open source movement of our time - for example.
 

@@ -75,7 +75,7 @@ This work, in itself, was virtuous enough to dedicate many lives; though `Dwaipa
 
 > As a complimentary gift, to ensure everyone had fair access - anywhere anytime - he ushered humanity from spoken word to the written text - a new experiential universe of narratives. It was like commissioning the hypertext internet of that time. The immensity of his purpose, rightfully so, made him one of the immortal-eights [^immortals] in Hindu tradition.
 
-In addition to the poetic excellence, `Gita` conjectured a new way of life - action orientation - `Karm Yoga` - the method to transmit value beyond the physical laws of nature. The big idea was - actions we do in this virtual world carry forward to continuum with us. And that we instantaneously renew into another immersive narrative (new life) based on the sum total of our accrued `Karmik` collection. This theme was  central to making `Mahabharata` more than a narrative. It was the simplicity of the model - the balanced ledger of `Karma` - that gave the readers a purpose.
+In addition to the poetic excellence, `Gita` conjectured a new way of life - action orientation - `Karm Yoga` - the method to transmit value beyond the physical laws of nature. The big idea was - actions we do in this virtual world carry forward to continuum with us. And that we instantaneously renew into another immersive narrative (new life) based on the sum total of our accrued `Karmik` collection. This theme was  central to making `Mahabharata` more than a narrative. The simplicity of the model - the balanced ledger of `Karma` - gave the readers a purpose.
 
 It is hard to say if `Dwaipayana's` work was premeditated, but it sure wasn't an accident. He came from a lineage of scholarly sages. His father `Maharishi Parāśara` spoke titles such as 
 - `Krishi Parāśara` — The science of Agriculture;
@@ -153,8 +153,6 @@ The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siv
 🔎 In the beginning, spoken words  and actions were synchronous [^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from actions, there was no way to freeze them. `Dwaipayana` manifested the thoughts into written words. A narrative is an abstraction over physical actions. It is thus frozen in time for reference in the future.  
 
 No one could, however, fathom that humans, empowered with written word, would change synchronous barter to a new system of exchange - gold. One that would allow value exchange across time and space.  It was hard to imagine at that time that value-exchange always follows the properties of communication protocol ! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
-
-Is code an abstraction over thoughts [^code] ? Can it take us back in time ? A question we may park for now, to ponder over later in this book.
 
 </div>
 

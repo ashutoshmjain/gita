@@ -27,14 +27,14 @@ And as if technical challenges were trivial - the quest was to determine the rig
 
 The idea to "write" and to write a lot - `Itihaas` (history) - led to first well engineered scripting language -`Bramhi Lipi`. Name suggests, the script was a gift of all pervading information - `Bramh`. And so were the scribing tools. Being coincidental, they built on each other - a three-way complementarity [^three] - new script, new tools to scribe and a narrative style never thought before -`Itihaas` (history). Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own script! Yet a masterpiece of American literature and the best-selling of Twain's works. 
 
-There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world :
+There are many other examples where artifacts shine because of the unique qualities or the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
 "C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
-Legacy software and hardware were tied at the hip - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on wide variety of hardware architectures - from mainframes to smartphones. In a way, Unix fragmented itself to jailbreak the hardware. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. 
+Legacy software and hardware were tied at the hip - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on wide variety of hardware architectures - from mainframes to smartphones. In a way, Unix fragmented itself to jailbreak the hardware. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. A separation of digital from physical.
 
 </div>
 
@@ -42,7 +42,7 @@ The way digital information transformed every aspect of modern life - and is now
 
 Just like immense work in math and science, that led to modern information technologies, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own tenor;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
 
-You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative and first portable operating system ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose machines; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate. 
+You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative for humans, and first portable operating system for computers ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose computers; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate - but that is just a superficial comparison. There is a bit more to it than that meets the eye ..
 
 In the hindsight, as we are on the cusp of artificial general intelligence, there appears even more profound connection - not without stretch of imagination though ...
 

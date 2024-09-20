@@ -12,35 +12,35 @@ Text was the new way - to store manifolds of lore. As `Mahabharata` scaled, it a
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
 >
-> More than size, the proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language . And then there is all sorts of popular media - from comic strips to television series. 
+> More than size, the proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language . And then there are all sorts of media artifacts - from comic strips to television series. 
 >
-> Back then , a series of eighteen books were published. At a time when stories were only told - not written. `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga`.
+> Back then, when stories were only told - not written - a series of eighteen books were published.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga`.
 >
 
 </div>
 
-Size was important to pass the minimum threshold for embedding text in human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, made one crave for more - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. It was released in eighteen successive epics at `Mathura` - each marking an event - `Parva`.
+Size was important to pass the minimum threshold for embedding text in human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. It was released in eighteen successive epics at `Mathura` - each marking an event - `Parva`.
 
 And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti` [^srishti]). 
 
 ---
 
-The idea to "write" and to write a lot - "history" - led to first well engineered scripting language -`Bramhi Lipi`. Name suggests, as if the script was a gift of all pervading information - Bramh. And so were the writing tools. Being coincidental, they built on each other - a three-way complementarity [^three] - new script, new tools to scribe and a narrative style never thought before -`Itihaas` (history). Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own script! Tom Sawyer was written in English - a masterpiece of American literature and the best-selling of Twain's works nevertheless. Maybe Twain's  English is unique for its lexicon - mixed with insights of his travels and wit !
+The idea to "write" and to write a lot - `Itihaas` (history) - led to first well engineered scripting language -`Bramhi Lipi`. Name suggests, the script was a gift of all pervading information - `Bramh`. And so were the scribing tools. Being coincidental, they built on each other - a three-way complementarity [^three] - new script, new tools to scribe and a narrative style never thought before -`Itihaas` (history). Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own script! Yet a masterpiece of American literature and the best-selling of Twain's works. 
 
 There are many other examples where artifacts shine because of the dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new tools to scribe and new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
+"C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
 Legacy software and hardware were tied at the hip - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on wide variety of hardware architectures - from mainframes to smartphones. In a way, Unix fragmented itself to jailbreak the hardware. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. 
 
 </div>
 
-The way software transformed every aspect of modern life - and is now redefining the value exchange ([bitcoin](https://bitcoin.org/bitcoin.pdf)); the written word rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (gold) emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
+The way digital information transformed every aspect of modern life - and is now redefining the value exchange ([bitcoin](https://bitcoin.org/bitcoin.pdf)); the written information rewired then existing social, political and fiscal fabric. First multilateral [^multi] economic system (gold) emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
 
-Just like our adoption to the digital word, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own tenor;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
+Just like immense work in math and science, that led to modern information technologies, the groundwork [^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a root reference narrative that would span ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own tenor;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
 
 You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative and first portable operating system ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose machines; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate. 
 
@@ -52,18 +52,20 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
+If AGI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
 
 **Wouldn't they  relate to operating system as we do to primitive scriptures ?**
 
-An operating system establishes rules to engage hardware resources - memory, storage and processor - for computer programs (digital beings). Scriptures define rules for us physical beings - rules for coexistence, respect for the elements, and gratitude.
+An operating system establishes rules to engage hardware resources - memory, storage and processor - for computer programs (digital beings). Scriptures define rules for us physical beings. Rules for coexistence with other beings, amicable use of resources, and doing our assigned tasks.
 
 From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
  - Water as the software that surrounds most of the Earth just as operating system encapsulates the hardware.
- - Air as the information input and output (inhale and exhale) that they are designed to process - AGI applications. 
+ - Air as the IO -  information input and output (inhale and exhale) that they are designed to process. 
 
-That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe that the `Karma` are the minimum set of actions that we must undertake to allow us focus on our breath - the purpose of life is to breathe.
+That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
+
+The purpose of life is to breathe.
 
 </div>
 

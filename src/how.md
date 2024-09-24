@@ -47,13 +47,16 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits enable society adopt work as primary protocol for co-existence - irrespective of imminent challenges of an adverse situation. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. Finding a mission in desire free pursuits is relevant even today. `Nishkaam Yazna` is a timeless idea - it is freedom. A variant of it is the open source movement of our time - for example.
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits enable society adopt work as primary protocol. 
+
+Doing work without the desires of returns is common even today - the open source movement. `Nishkaam Yazna` goes a step further.
+for co-existence - irrespective of imminent challenges of an adverse situation. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. Finding a mission in desire free pursuits is relevant even today. `Nishkaam Yazna` is a timeless idea - it is freedom. A variant of it is the open source movement of our time - for example.
 
 The translation is followed by my essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
 ## Mahabharata
 
-The divine author `Krishna Dwaipayana`, by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. Even after thousands of years, the epic is as interesting a read as the day it was written. 
+Divine author `Krishna Dwaipayana`, by design placed `Gita` center-folded in a highly immersive narrative - `Mahabharata`. Even after thousands of years, the epic is as interesting a read as the day it was written. 
 
 The third section is the original translation  of `Mahabharata` - the longest poem, ever written in any language. I recommend reading `Ganguly's` [preface](http://mahabharata.shutri.com/) before you take a plunge - to appreciate the guiding motivations of translation work.
 
@@ -62,9 +65,9 @@ The third section is the original translation  of `Mahabharata` - the longest po
 
 ## Clean internet 
 
-Part of the mission [^mission] is to contribute my bit to clean up the internet. Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. As a perversion, many of such tools have turned the internet into a surveillance apparatus. 
+Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Many of such tools have turned the internet into a surveillance apparatus. 
 
-An immune response is the rise of so-called freedom tech - privacy tools - VPNs, ad-blockers, and scramblers etc.  These tools are not only complicated, they make internet slow. My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. That said - a website is very limited in its scope. You still need to take care of your device and the internet gateways.
+An immune response is the rise of so-called freedom tech - privacy tools - VPNs, ad-blockers, and scramblers etc.  These tools are not only complicated, they make internet slow. My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 
 A publisher may infest webpages - sometimes unknowingly - because the "plug and play" code such as Google Analytics are easy to install. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 

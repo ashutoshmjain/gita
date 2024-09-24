@@ -2,7 +2,7 @@
 
 `Arjun uvaach` means  `Arjuna` said ...
 
-`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have - when tested and confused. And also the magical discernment once `Krishna` unveiled the knowledge unto him - thus by extension, to all the seekers. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
+`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -10,7 +10,7 @@
 >
 > [I am] devoid of illusions, [I] attained wisdom !
 
-It is not uncommon that we get temporary relief from cyclic illusions (`Moha`). Such events - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 > `Gita` is for everyone - it is not religion, race, profession or place specific.
 
@@ -47,10 +47,9 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits enable society adopt work as primary protocol. 
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits enable society adopt work as primary protocol - value for value.
 
-Doing work without the desires of returns is common even today - the open source movement. `Nishkaam Yazna` goes a step further.
-for co-existence - irrespective of imminent challenges of an adverse situation. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. Finding a mission in desire free pursuits is relevant even today. `Nishkaam Yazna` is a timeless idea - it is freedom. A variant of it is the open source movement of our time - for example.
+Working without the desires of a payout is common even today, for example the open source movement. `Nishkaam Yazna` however, goes a step further. It advocates one to not give up one's duties even in the face of adversity. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
 The translation is followed by my essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 

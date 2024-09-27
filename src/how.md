@@ -16,13 +16,13 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 </div>
 
-This publication aspires to decrypt `Gita` wisdom - the original `smriti` - from its history to its timelessness. It is meant to be a working place for the ideas and artifacts surrounding the ultimate epic. 
+This publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness. 
 
 ## Navigation and icons:
 
 - cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right (or left). 
 - search the publication using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
-- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> . On mobile devices, the angles show up at the bottom of page.
+- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>. On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
 
 ## Content:
@@ -47,11 +47,11 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it is also ideal approach to value exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits enable society adopt work as primary protocol - value for value.
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary protocol - value for value.
 
-Working without the desires of a payout is common even today, for example the open source movement. `Nishkaam Yazna` however, goes a step further. It advocates one to not give up one's duties even in the face of adversity. Prime example being `Arjuna`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
+Working without desires is hard, for example the open source movement of our time. `Gita`, however, goes a step further. It advocates to stay put in `Nishkaam Yazna` even in the face of adversity. Prime example is `Arjuna` - a warrior par excellence. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
-The translation is followed by my essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
+The translation is followed by essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
 ## Mahabharata
 

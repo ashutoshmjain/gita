@@ -47,7 +47,7 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary protocol - value for value.
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. Work done under influence of desires - to seek preferred outcomes - skews the effort involved.
 
 Working without desires is hard, for example the open source movement of our time. `Gita`, however, goes a step further. It advocates to stay put in `Nishkaam Yazna` even in the face of adversity. Prime example is `Arjuna` - a warrior par excellence. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
@@ -68,11 +68,11 @@ Just the way oceans are filled up with plastics, the internet is infected with c
 
 An immune response is the rise of so-called freedom tech - privacy tools - VPNs, ad-blockers, and scramblers etc.  These tools are not only complicated, they make internet slow. My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 
-A publisher may infest webpages - sometimes unknowingly - because the "plug and play" code such as Google Analytics are easy to install. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
+A publisher may infest webpages sometimes unknowingly. Plug and play code such as Google Analytics are easy to install if not pre-installed. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The sad part is - in order to keep the internet (perceivably) free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised that CNN  uses as many as 21 trackers!
+The sad part is - in order to keep the internet (perceivably) free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad.
 
 ![cnnTrackers](./cnnTrackers.png)
 
@@ -88,7 +88,7 @@ As a rule, and design imperative, I don't use any trackers or cookies whatsoever
 
 ## Open source tools
 
-Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool [mdBook](https://github.com/rust-lang/mdBook) to shape this into a book-like reading experience. The web-app thus created has many features :  
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool [mdBook](https://github.com/rust-lang/mdBook) to shape this publication into a book-like reading experience. The web-app thus created has many features :  
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -101,7 +101,7 @@ Since web-browser is a general purpose application, fine-tuning it for readabili
 
 </div>
 
-Content is written in vim on Debian - both fully open and time tested.
+Content is written in Markdown on Vim - both open and time tested. I mostly use Debian - a fully open distribution of Linux.
 
 ## Theme
 

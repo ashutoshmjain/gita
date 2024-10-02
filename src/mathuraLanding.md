@@ -36,7 +36,7 @@
 
 Visiting travelers, aggressors as well as historians named the region a Golden Sparrow, for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was auspicious. No wonder, even today, [Indian families privately custody thirty thousand tons of gold](https://en.wikipedia.org/wiki/Gold_holdings) - second only to China.
 
-It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical or digital forms - would be the basis of a permission-less and censor resistant exchange that defined the human race - free yet interdependent.
+It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical or digital forms - would be the basis of a permission-less and censor resistant exchange that defined humans - free yet interdependent.
 
 ---
 

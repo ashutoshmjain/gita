@@ -41,13 +41,13 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for discovery of gold - as a store of value. 
 
-> Value exchange must follow the properties of information exchange. 
+> Value exchange must follow the properties of information exchange. If information could be sent to distant places, value must do the same in space and time !
 
 ## Gita
 
 The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. Work done under influence of desires - to seek preferred outcomes - skews the effort involved.
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the number of hours; if you were seeking recognition, you may end up investing time in publicity.
 
 Working without expectations of monetary gains or fame is hard, for example the open source contributions of our time. `Gita`, however, goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
@@ -151,7 +151,7 @@ Tips normally mean you are happy with your worker. Donations are something that 
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
 
-To send Sats with above widget, you will need a "lighning wallet" . I normally use [Alby](https://getalby.com) on as a Firefox or Chrome extension. On mobile phones, the choices are endless. Depending upon your jurisdiction - a simple "lightning wallet" search in your app store, would show you all the options.
+To send Sats with above widget, you will need a "lighning wallet" . I normally use [Alby](https://getalby.com) as a browser extension on desktops. On mobile phones, the choices are endless. Depending upon your jurisdiction - a simple "lightning wallet" search in your app store, would show you all the options.
 
 You can leave a small note with lightning payments though all transactions are practically private. Which means I can't know who sent the money unless you leave a clue in the message.
 

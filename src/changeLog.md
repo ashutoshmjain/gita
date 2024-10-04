@@ -1,8 +1,9 @@
 # changeLog
 
-Knowledge always accumulates in granular change. History is tracking changes [^history] over a time duration for a closed (but living) system. In essence changeLog is history.
+Knowledge accumulates in granular change. History is tracking changes [^history] over a time duration for a closed (but living) system. In essence changeLog is history.
 
-Since this is a living book being written in the "open" [^open], a weekly update is released here-below every Friday, with the list of changes. 
+Unlike a book, a publication is always in the open [^open]. Unlike a publication, `arjun uvaach` is not a collection of finished articles - it is a consistent curation of a set of narratives as they solidify into ideas, format and language.  An update is thus released every Friday with links to the chapters changed during the week.
+
 - If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". 
 - More than ten such changes go to the "major edits" category. 
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 

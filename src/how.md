@@ -49,7 +49,7 @@ The second section is original English translation of `Bhagvad Gita` - by `Kiasr
 
 `Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. Work done under influence of desires - to seek preferred outcomes - skews the effort involved.
 
-Working without desires is hard, for example the open source movement of our time. `Gita`, however, goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
+Working without expectations of monetary gains or fame is hard, for example the open source contributions of our time. `Gita`, however, goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
 The translation is followed by essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 

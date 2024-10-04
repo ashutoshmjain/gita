@@ -8,6 +8,10 @@ Since this is a living book being written in the "open" [^open], a weekly update
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
+## Oct 04, 24
+- [Readme](./how.md) - major edits.
+- [Mathura](./mathuraLanding.md) - major edits.
+ 
 ## Sep 27, 24
 - [Readme](./how.md) - major edits.
 - [Mathura](./mathuraLanding.md) - major edits.

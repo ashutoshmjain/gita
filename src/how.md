@@ -49,7 +49,7 @@ The second section is original English translation of `Bhagvad Gita` - by `Kiasr
 
 `Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual foundation for selfless open pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. Work done under influence of desires - to seek preferred outcomes - skews the effort involved.
 
-Working without desires is hard, for example the open source movement of our time. `Gita`, however, goes a step further. It advocates to stay put in `Nishkaam Yazna` even in the face of adversity. Prime example is `Arjuna` - a warrior par excellence. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
+Working without desires is hard, for example the open source movement of our time. `Gita`, however, goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
 The translation is followed by essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
@@ -66,7 +66,7 @@ The third section is the original translation  of `Mahabharata` - the longest po
 
 Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Many of such tools have turned the internet into a surveillance apparatus. 
 
-An immune response is the rise of so-called freedom tech - privacy tools - VPNs, ad-blockers, and scramblers etc.  These tools are not only complicated, they make internet slow. My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
+An immune response is the rise of so-called freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 
 A publisher may infest webpages sometimes unknowingly. Plug and play code such as Google Analytics are easy to install if not pre-installed. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 
@@ -128,13 +128,11 @@ The net of this license is as below
 
  ![license](./license.png)
 
-For details refer to [license](https://github.com/ashutoshmjain/gita/blob/main/LICENSE) at GitHub repo.
-
 
 ## Style 
 
 - I normally use maroon color for  `Hindi` or `Sanskrit`.  
-- Hyperlinks are in "blue" color. 
+- [Hyperlinks](https://shutri.com) are in "blue" color. 
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
 - I refrain from using citations as much as possible. The reason is simple — it is NOT a narrative chasing accuracy. The goal is to imagine possible scenarios, and then review them with an eye to seek comparative probability. This also means it is a subjective discretion.
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus, order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.

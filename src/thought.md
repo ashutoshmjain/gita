@@ -1,27 +1,28 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection and meditation. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help, though internally, you are prepared - with or without material support. You instantiate a divine force within ! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva` - zenith of conscious experience.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. Internally, you are preparing - with or without material support. You instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva` - zenith of conscious experience.
 
 Scribing `Mahabharata` was one such venture. It was the beginning of written narratives. Sage writer and teacher of all races [^races], `Krishna Dwaipayana` invoked `Bramh`.  Not only did he need all-pervading information (`Bramh`) within -  he must seek permission to open us mortals' access to the past - and to the future. He must align himself to the information continuum (`Bramh`) before introducing text to a vocal and verbose world.
 
-Text was the new way - to store manifolds of lore. As `Mahabharata` scaled, it attracted readers - a natural pull rather than coercion as in case of modern education. Challenges are invitations to true seekers - Mount Everest always attracts climbers ! 
+Text was the new way - to store manifolds of lore. As `Mahabharata` scaled, it attracted readers - a natural pull. Challenges are invitations to seekers - Mount Everest always attracts climbers ! 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 ![](./mahabharata-book.png)
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
->
-> More than size, the proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language . And then there are all sorts of media artifacts - from comic strips to television series. 
->
-> Back then, when stories were only told - a series of eighteen books were scribed.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga`.
->
 
 </div>
 
-Size was important to pass the minimum threshold for embedding text in human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. It was released in eighteen successive epics at `Mathura` - each marking an event - `Parva`.
+The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language . And then there are all sorts of media artifacts - from comic strips to television series. 
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti` [^srishti]). 
+Back then, when stories were only told - a series of eighteen books were scribed.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga`.
+
+---
+
+Size was important - to pass the minimum threshold for embedding text in human brain - a complex neural network evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
+
+And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti` [^srishti]). 
 
 ---
 

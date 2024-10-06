@@ -134,10 +134,10 @@ The net of this license is as below
 - I normally use maroon color for  `Hindi` or `Sanskrit`.  
 - [Hyperlinks](https://shutri.com) are in "blue" color. 
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
-- I refrain from using citations as much as possible. The reason is simple — it is NOT a narrative chasing accuracy. The goal is to imagine possible scenarios, and then review them with an eye to seek comparative probability. This also means it is a subjective discretion.
+- I avoid citations as much as possible. It is not a narrative chasing accuracy. The goal is to imagine scenario before we adopted written word as primary store of information. There is obviously no written history to refer to.
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus, order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
 - The goal is not to impart `Gita`. And for a good reason — no one may ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek the information that writer withheld to avoid "stating the obvious". After thousands of years, we now crave for that information - events that led to scribing.
-- Footnotes are used to to improve the reader flow , but they do carry useful information. If you happen to skip-over, I suggest running by them after finishing the chapter. I try to keep chapter size small so that reader has time to indulge in footnotes.
+- Footnotes are used to improve the reader flow. They do carry useful information. If you happen to skip-over, I suggest running by them after finishing the chapter. 
 
 ## Tips and Donations:
 

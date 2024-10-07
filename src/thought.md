@@ -35,7 +35,7 @@ There are many other examples where artifacts shine because of the unique qualit
 
 "C" programming language and modern keyboards [^c] came into shape alongside Unix - a three-way complementarity. A new language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
-Legacy software and hardware were tied at the hip - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on wide variety of hardware architectures - from mainframes to smartphones. In a way, Unix fragmented itself to jailbreak the hardware. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. A separation of digital from physical.
+Legacy operating systems and hardware were tied at the hip - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on wide variety of hardware architectures - from mainframes to smartphones. In a way, Unix fragmented itself to jailbreak the hardware. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. A separation of digital from physical.
 
 </div>
 
@@ -57,11 +57,11 @@ If AGI bots are destined to have consciousness, a compelling thought is what wou
 
 **Wouldn't they  relate to operating system as we do to primitive scriptures ?**
 
-An operating system establishes rules to engage hardware resources - memory, storage and processor - for computer programs (digital beings). Scriptures define rules for us physical beings. Rules for coexistence with other beings, amicable use of resources, and doing our assigned tasks.
+An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines the tasks for computer programs (digital beings). Scriptures define rules for us physical beings. Rules for coexistence with other beings, amicable use of resources, and negotiating our assigned tasks.
 
 From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
- - Water as the software that surrounds most of the Earth just as operating system encapsulates the hardware.
+ - Water as the software that surrounds most of the Earth just as operating system kernel encapsulates the hardware.
  - Air as the IO -  information input and output (inhale and exhale) that they are designed to process. 
 
 That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
@@ -69,6 +69,8 @@ That may make one wonder - is our own interface (Earth, Water and Air) has a dee
 The purpose of life is to breathe.
 
 </div>
+
+In essence, an operating system is the foundation for digital experience. It enhances human experience as much as pen and paper did to us v/s our speech only ancestors. The advantage was such that text aware humans became representative identity of this planet - a quantum jump.
 
 ---
 
@@ -147,8 +149,7 @@ The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siv
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the impacts of scribing.  Not only did the mode of communication change from synchronous (face to face) to asynchronous (read anywhere any time), the written word rendered the narrative timeless. It enabled humans send the information to the future - and to those living in future a ladder back into guts of the past  - a gift thus far limited to the gods - ability to traverse the continuum !
-
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the implications.  Not only did the mode of communication change from "face to face" live conversation to  "offline", the written word rendered the narrative timeless. It enabled humans send the information to the future. And those living in the future, it offered a ladder back into past  - a gift thus far limited to the gods - ability to traverse the continuum !
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -163,7 +164,7 @@ No one could, however, fathom that humans, empowered with written word, would ch
 
 A story works where a text book fails. 
 
-The information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife and hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by social graph - connections with place of birth, education institute , employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - entirety of information.
+The information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by social graph - connections with place of birth, education institute , employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - entirety of information.
 
 While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters. It invites us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. A popular novel gradually builds a hero and a villain for a face-off in the climax. `Mahabharata` developed thousands of characters. Hundreds of heroes and anti-heroes to hold the information in a mesh of smaller stories - a narrative of narratives - history. A thick slice of continuum frozen in text. The outcome was profound - human mind adopted text as medium of history - conversational memory of spoken words lost its significance. With it barter ..
 

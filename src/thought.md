@@ -45,7 +45,7 @@ Just like immense work in math and science, that led to modern information techn
 
 You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative for humans, and first portable operating system for computers ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose computers; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate - but that is just a superficial comparison. There is a bit more to it than that meets the eye ..
 
-In the hindsight, as we are on the cusp of artificial general intelligence, there appears even more profound connection - not without stretch of imagination though ...
+In the hindsight, as we are on the cusp of artificial general intelligence, there appears a profound connection - not without stretch of imagination though ...
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -53,7 +53,7 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-If AGI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
+The idea that consciousness is separate from the physical material does prove existence of a subtle entity separate from the physically observable. If AGI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
 
 **Wouldn't they  relate to operating system as we do to primitive scriptures ?**
 

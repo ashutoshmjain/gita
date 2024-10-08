@@ -53,11 +53,11 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-The idea that consciousness is separate from the physical material does prove existence of a subtle entity separate from the physically observable. If AGI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
+The idea that consciousness is separate from the material does prove existence of a subtle entity distinct from the physically observable. What exactly that is still unknown but If AGI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
 
-**Wouldn't they  relate to operating system as we do to primitive scriptures ?**
+**Wouldn't they  relate to operating system as we do to primitive scriptures - the foundation that enables the experience ?**
 
-An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines the tasks for computer programs (digital beings). Scriptures define rules for us physical beings. Rules for coexistence with other beings, amicable use of resources, and negotiating our assigned tasks.
+An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear an interface. Each little program being a dumb digital being must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks. It is important to point out that our visualization of the world we live in is lot different from other species. For example - with in this experience we are invincible with our tools at our disposal, but odds of us surviving out in the jungle are negligible - if not none at all. Out there the primitive rules of jungle apply that are better suited to wolves and lions - and probably pre-text humans. In that parallel world, that exists not very far from that of ours, there is no notion of leveraging earth or water or air. No one treats earth as the mother soil that allows us feed eight billion hungry mouths ; or the water as the source of transport , cleaning and irrigation in addition to the only use of drinking in that space. Yes birds do use air to fly but no one may dare to imagine five-hundred monkeys flying together in a jumbo jet. Our interface is a gift of text - all the skills that we learn and improve upon from one generation to next are written in ink - with pen and paper first and then mass printed on a press. These skills exist in the backdrop of ground rules - three precious and abundant elements - earth, water and air. We must find these first if we plan to inhabitate far-flung planets. In fact the search for life is nothing but the search for soil, water and air !
 
 From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
@@ -70,7 +70,7 @@ The purpose of life is to breathe.
 
 </div>
 
-In essence, an operating system is the foundation for digital experience. It enhances human experience as much as pen and paper did to us v/s our speech only ancestors. The advantage was such that text aware humans became representative identity of this planet - a quantum jump.
+In essence, an operating system is the foundation for digital experience. It enhances human experience as much as pen and paper did to us v/s our speech only ancestors. The advantage was such that text aware humans became representative identity of this planet - a quantum jump. And next is digital humans - most of the tools are in place - all we need is a native value exchange system in digital realm. The way gold allowed us move from the barter of jungle, bitcoin is likely the path to move from our text based world to a native digital experience. It is hard to predict that experience at this point - but we know for sure consciousness must evolve.
 
 ---
 

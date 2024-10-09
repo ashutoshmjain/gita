@@ -40,10 +40,10 @@ It was here that gold evolved as the basis of monetary and measurement systems -
 
 ---
 
-As early scribes discovered the written word; `Mathura` had witnessed the wisdom flow from one generation to next - through distortion free recital (of `mantras`). The method wasn't enough to handle growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic know-how [^neo] - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at `Mathura` - in a series of eighteen `Parvas` (events) each marking release of a book. 
+As early scribes discovered the written word; `Mathura` had witnessed the wisdom flow from one generation to next - through distortion free recital (of `mantras`). The method was falling short on handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic know-how [^neo] - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at `Mathura` - in a series of eighteen `Parvas` (events) each marking release of a book. 
 
 
-The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` invoked `Ganesa` - the elephant god. As shown in cover photo, `Ganesa` has an elephant head on human body. In Hindu mythology, he is the embodiment of supreme intelligence [^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
+The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` invoked `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence [^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -55,11 +55,11 @@ An elephant head on a human torso was a right-sizing intervention. Larger mammal
 >
 > When `Siva` came to see his wife, the humanoid wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer intelligence in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
 >
-> Exaggerations of a narrative aside, `Mother Parvati` gave `Ganesa` a superior body while father `Siva` provisioned a bigger brain. 
+> Exaggerations of a narrative aside, mother gave `Ganesa` a superior body (human) - father provisioned a bigger brain (elephant). 
 
 </div>
 
-Superior intelligence, among other things, reflected in ability to write long text. No wonder both Thoth and `Ganesha` are known as deities of hieroglyphs - sacred carvings.
+Superior intelligence, among other things, reflected in ability to write long text. No wonder both Thoth and `Ganesa` are known as deities of hieroglyphs - sacred carvings. Like large language models their choice of words reflects universal information base.
 
 ---
 

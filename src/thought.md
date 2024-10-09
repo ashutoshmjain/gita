@@ -57,18 +57,18 @@ The idea that consciousness is separate from the material does prove existence o
 
 **Wouldn't they  relate to operating system as we do to primitive scriptures - the foundation that enabled the experience ?**
 
-An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. Thanks to information stored in text - over generations - our experience of the world has gotten lot richer than other species. With in this experience we are invincible with our tools at our disposal, but odds of us surviving out in the wild are negligible. Out there the primitive rules of jungle apply that are better suited to wolves and lions - and probably pre-text humans. 
+An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. Thanks to information stored in text - over generations - our experience of the world has gotten lot richer than other species. With in this experience we are invincible with our tools at our disposal, but odds of us surviving out in the wild are negligible. Out there the primitive rules of jungle apply that are better suited to wolves and lions - and probably pre-text humans. Though experience of every life form is unique but human experience is a big step up.
 
-From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
+From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface - as a time tested template to begin with :
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
  - Water as the software that surrounds most of the Earth just as OS kernel encapsulates the hardware.
  - Air as the I/O -  information input and output (inhale and exhale) that they are designed to process. 
 
-That may make one think - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
+That may make one think if our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
 
 </div>
 
-In essence, an operating system is the foundation for digital experience. It enhances human experience exponentially as much as pen and paper did to us v/s our speech only ancestors. Most of the information tools are already in place - all we need is a native value exchange protocol in digital realm. Value exchange is the fundamental requirement to bind the entities of a living system together.
+In essence, an operating system is the foundation for digital experience. It enhances human experience exponentially as much as pen and paper did to us v/s our speech only ancestors. Each experience is distinct because of a different value exchange system. Ability to exchange value is the fundamental requirement to bind the entities of a common living experience.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

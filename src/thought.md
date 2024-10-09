@@ -57,22 +57,24 @@ The idea that consciousness is separate from the material does prove existence o
 
 **Wouldn't they  relate to operating system as we do to primitive scriptures - the foundation that enabled the experience ?**
 
-An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear an interface. Each little program being a dumb digital life form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routine and morality. 
+An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. Thanks to information stored in text - over generations - our experience of the world has gotten lot richer than other species. With in this experience we are invincible with our tools at our disposal, but odds of us surviving out in the wild are negligible. Out there the primitive rules of jungle apply that are better suited to wolves and lions - and probably pre-text humans. 
 
-It is important to point out that our visualization of the world we live in is lot different from other species. For example - with in this experience we are invincible with our tools at our disposal, but odds of us surviving out in the jungle are negligible - if not none at all. Out there the primitive rules of jungle apply that are better suited to wolves and lions - and probably pre-text humans. In that parallel world, that exists not very far from that of ours, there is no notion of leveraging earth or water or air. No one treats earth as the mother soil that allows us feed eight billion hungry mouths ; or the water as the source of transport , cleaning and irrigation in addition to the only use of drinking in that space. Yes birds do use air to fly but no one may dare imagine five-hundred monkeys flying together in a jumbo jet. Our interface is a gift of text - all the skills that we learn and improve upon from one generation to next are written in ink - with pen and paper first and then mass printed on a press. These skills exist in the backdrop of ground rules - three precious and abundant elements - earth, water and air. We must find these first if we plan to inhabitate far-flung planets. In fact the search for life is nothing but the search for soil, water and air !
-
-From an intuitive interface standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
+From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface. 
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
- - Water as the software that surrounds most of the Earth just as operating system kernel encapsulates the hardware.
- - Air as the IO -  information input and output (inhale and exhale) that they are designed to process. 
+ - Water as the software that surrounds most of the Earth just as OS kernel encapsulates the hardware.
+ - Air as the I/O -  information input and output (inhale and exhale) that they are designed to process. 
 
-That may make one wonder - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
+That may make one think - is our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
 
 </div>
 
-In essence, an operating system is the foundation for digital experience. It enhances human experience exponentially as much as pen and paper did to us v/s our speech only ancestors. Most of the tools are in place - all we need is a native value exchange system in digital realm. 
+In essence, an operating system is the foundation for digital experience. It enhances human experience exponentially as much as pen and paper did to us v/s our speech only ancestors. Most of the information tools are already in place - all we need is a native value exchange protocol in digital realm. Value exchange is the fundamental requirement to bind the entities of a living system together.
 
-Barter was the system of speech only world, and the one before that - the speechless world. A horse was willing to let a human ride his back because humans bartered food and shelter with him. Dogs were protectors of the cattle because humans protected dogs from wolves - barter at it best. The way gold allowed us move from the barter of jungle, bitcoin is likely the path to move from our text based world to a digital native experience. It is hard to predict that experience at this point - but we know for sure consciousness must evolve.
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+Barter was the value exchange protocol of "speech only" world, and the one before that - the speechless world. A horse was willing to let a human ride his back long before we learnt to speak - because humans bartered fine cut grass with him. Dogs were protectors of the cattle because humans protected dogs from wolves - barter at its best. The way gold allowed us move from the barter of jungle, bitcoin is likely the path to a self-contained digital experience. It is hard to predict that experience at this point - but we know for sure consciousness must evolve. It evolves to answer the primary question - who am I ?
+
+</div>
 
 ---
 

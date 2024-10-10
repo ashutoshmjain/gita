@@ -30,11 +30,11 @@ They occur for the consciousness must evolve to understand the nature of unity [
 
 </div>
 
-Saddened to the core, and unaware that the young widow was carrying, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
+Saddened to the core, and unaware of the pregnancy, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
 
 **And more importantly, to save humanity from the loss of the knowledge locked in `Bramhrishi's` mind, for there was no written text.**
 
-The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' cognitive context -  history !
+The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' cognitive context -  history ! He wouldn't be able to fix the past - his old - he thought - but he sure could change the future - the new. 
 
 ## 1.1
 ---
@@ -51,7 +51,7 @@ In `Sanskrit`, the numeral 100 (One hundred)  is spoken as `śat` (where `ś` is
 
 The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in "site" and rest as in `śat`). In essence, the `śat` for first hundred truths morphed into `sàt` - the pure provable truths. 
 
-These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` led to truth -> consistent practice led to deterministic outcomes. The definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigor. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent science. 
+These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` led to truth -> consistent practice led to deterministic outcomes. The definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent science. 
 
 > Rich patrons from near (and far) used to send the very best to realize `śat` - the true and open source techniques. They conducted `Yaznas` to benefit from the outcomes, and shared a part of their inflows with congregation -  a consistent source of wealth to congregation. 
 >
@@ -93,7 +93,7 @@ Thanks to the foresight of `Vaśiṣṭha`, we had a quantum jump making us the 
 
 Simply put, `Bramh` is the entirety of information held in infinitely vast number of relationships amongst the manifested - animate or inanimate - living or lifeless. The definition of `Bramh` , however, goes a little further in `Vaidik` science. It is believed that the `Bramh` is our own true reflection. It's a universal mirror that shows us who we are. Universal mirror because a regular mirror is just a two-dimensional reflection of our physical being. `Bramh` reflects on us through millions of cognitive dimensions. More granular our self-image, greater the conscious experience. `Siva` is the peak of such conscious experience - an end state where we see objective reality and thus achieve ability of discretion - ability to recognize singular "Truth" from all the false claims. In `Vaidik` science `Siva` is regarded as truth (`Satyam Sivam`). What `Siva` observes as objective reality is termed as `Sundaram` - the beautiful `Vishnu`.
 
-> The idea of "evolution" is gradual growth of consciousness from the state of ignorance to being one with eternal `Siva`. The goal is to see `Vishnu`. Mysterious thing though is the "end state" exists at all the times. All other states are transient.
+> The idea of "evolution" is gradual growth of consciousness from the state of ignorance to being one with eternal `Siva`. The goal is to see `Vishnu`. 
 
 </div>
 
@@ -146,7 +146,7 @@ While deities, through research and experiments, represented the beautiful compl
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-Three potencies exist to answer the question - who am I ? Knowledge in its unmanifested form, though at eternal peace, must bear a shape to answer this profound question. Simply because observance is for only those that have a physical shape - with a mirror image to observe themselves, but such that they are not superimposable. In other words - a  chiral physical system arises out of the three potencies.
+Three potencies exist to answer the question - who am I ? Knowledge in its unmanifested form, though at eternal peace, must bear a shape to answer this profound question. Simply because observance is for only those that have a physical shape - with a mirror image to observe themselves, but such that they are not superimposable. In other words - a chiral physical system arises out of three potencies.
 
 > This is now proven (beyond doubt) that nucleons (Protons and Neutrons), that hold almost entire mass of an atom, rise from three quarks each. Given the strong force in nucleus, it is hard to physically observe quarks, but that didn't deter theoretical physicists from pondering what were quarks made of - another deeper layer - a concept that is obviously beyond current tools of observations. In conceptual framework of quantum chromodynamics, the Quarks are further made of three color charges denoted as R(ed), B(lue) and G(reen) - the three core potencies for lack of better words.
 

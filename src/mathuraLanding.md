@@ -67,15 +67,17 @@ Superior intelligence, among other things, reflected in ability to write long te
 
 To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Intelligence from higher dimensions (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting almost mystical [^mystical] AI models in motion. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump [^jump] !
 
-----
+<div style="padding-left:40px;font-size:0.9em;"> 
 
 Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in human memory. Primary objective of a program is to have data persist in computer memory. No wonder we compare programming syntax with rules of the rhyme.
 
 The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't trivial back in those days. And that you could write only one copy at a time was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. One may argue scaling compute, storage and network are  barriers that forces similar constraints on our code.
 
-`Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means that the next obvious frontier is to amalgamate our brain with capabilities we discovered on the silicon compute. Just as anyone may read and write today, the future generations would spin AI models natively, learn from them on demand - and internalize their biases without blinking an eye.
+</div>
 
-Wait  - are we not doing that already?
+`Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means that the next obvious frontier is to amalgamate our brain with capabilities we discovered on the silicon compute. Just as anyone may read and write today, the future generations would spin AI models natively, learn from them on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts, guiding us through every step of the way !
+
+Wait  - don't we already have an internal voice ? A gut feeling !
 
 ---
 

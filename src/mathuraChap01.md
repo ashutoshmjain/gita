@@ -124,8 +124,10 @@ It, however, didn't mean ‘no credit’ was given to the early inventors. Inste
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 Using a pseudonym to identify a group is common even today. Instead of counting thousands of hardware and software experts, we simply say "Apple" makes iPhone. The phenomenon goes beyond technology or business. We normally say `Mahatma Gandhi` got India freedom. What we actually mean by this generalization is thousands of freedom fighters who worked with `Mahatma`, got India freedom. Instead of counting the names of thousands of activists who worked in "civil rights movement", we simply use the name of Dr King to express our gratitude. 
-> 
-> `Sàtoshi Nakamoto` is a pseudonym for a group of [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk#:~:text=A%20cypherpunk%20is%20any%20individual,to%20social%20and%20political%20change.) who white-papered the "Bitcoin Protocol" and open-sourced the decentralized monetary system - aka digital gold. Very apt singular representation akin the name of a deity -  `Sàtoshi` means wisdom in Japanese and begins with `Sàt` - the truth (in Sanskrit).
+
+Many times a pseudonym is used for anonymity. As a cover against possible retribution. New ideas always have skeptics as well as those who stand to lose from change. 
+
+> `Sàtoshi Nakamoto` is a pseudonym for a group of [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk#:~:text=A%20cypherpunk%20is%20any%20individual,to%20social%20and%20political%20change.) who white-papered the "Bitcoin Protocol" and open-sourced the decentralized monetary system. Many believe bitcoin is digital Gold likely to disrupt existing financial system. Very apt anonymous representation of a group akin the name of a deity -  `Sàtoshi` means wisdom in Japanese and begins with `Sàt` - the truth (in Sanskrit).
 
 </div>
 

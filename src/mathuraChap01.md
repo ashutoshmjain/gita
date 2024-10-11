@@ -139,11 +139,11 @@ We don't know the exact date, but we know for sure that the piece of eternal cod
 ## 1.4
 ---
 
-The other and probably more important reason seems to be embedded in the culture. 
-
-Self discovery  - `Adhyatma` was the keyword. The culture sought internal peace along with external prosperity. The primary quest was to know thyself. The work on this path was deemed the work of god. This culture was based on a strange combination - a symbiotic framework of incorruptible belief system on one side, and an endless curiosity on the other. The belief based substrate explained manifestation, expanse and evolution - the divine quantum field. And human ingenuity as a conscious creative artifact that bloomed in this eternal field. 
+One hundred skills were proven truths. But there remained lot more unexplained. Even after thousands of years, there still is lot more to discover. The biggest contribution of `Vasishthas` was a faith based framework to cover the rest - of course without a proof. 
 
 The accuracy of belief system isn't as important as the fact that it was easy to comprehend and widely subscribed. Unlike the religions of our time, faith wasn't a prerequisite - it was the end state of realization. Amazing thing is, as we are getting to the deeper layers with modern science, `Vaidik` belief system seems to tread close [^vaidikScience] with particle physics and Darwin's evolution. Maybe all paths lead to a singular truth!
+
+Self discovery  - `Adhyatma` was the keyword. The culture sought internal peace along with external prosperity. The primary quest was to know thyself. The work on this path was deemed the work of god. This culture was based on a combination - a symbiotic framework of incorruptible belief system on one side, and an endless curiosity on the other. The belief based substrate explained manifestation, expanse and evolution. And human ingenuity as a conscious creative artifact that bloomed in this eternal field. 
 
 While deities, through research and experiments, represented the beautiful complexity of new civilization, they did so  on the backdrop of three core potencies, collectively referenced as potencies of unmanifested knowledge. As a practical implication - because supreme knowledge is inexpressible, in `Vaidik` science, god is nothing but these three potencies - `Vishnu, Bramh and Siva`.
 

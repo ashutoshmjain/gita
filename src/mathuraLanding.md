@@ -71,7 +71,7 @@ To the speech-only world, it was a new way to store and send information - somew
 
 Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in human memory. Primary objective of a program is to have data persist in computer memory. No wonder we compare programming syntax with rules of the rhyme.
 
-The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't trivial back in those days. And that you could write only one copy at a time was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. One may argue scaling compute, storage and network are  barriers that forces similar constraints on our code.
+The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't trivial back in those days. And that you could write only one copy at a time was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. One may argue scaling compute, storage and network are  barriers that force similar constraints on our code.
 
 </div>
 

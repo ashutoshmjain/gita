@@ -34,7 +34,7 @@ There are many other examples where artifacts shine because of unique dualities 
 
 Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on widest variety of hardware architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. A separation of digital from physical.
 
-In a way, Unix fragmented itself to jailbreak the hardware - just as `text` had liberated the thought from speakers. 
+In a way, Unix fragmented itself to jailbreak the hardware - just as `text` had liberated the thought from speech artists.
 
 </div>
 
@@ -52,13 +52,11 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-In a way, science has now accepted that the consciousness is separate from the material. It proves existence of a subtle entity distinct from the physically observable. What exactly is that -  is still unknown. We still can't put our arms around this mysterious entity, but science is now ready to start playing with the ideas concerning consciousness. If AGI bots are destined to have consciousness, a compelling thought is what would be their perception of underlying digital infrastructure? 
+In a way, science has now accepted consciousness is separate from the material. It proves existence of a subtle entity distinct from the physically observable. What exactly is that -  is still unknown. We still can't put our arms around this mysterious entity, but science is now ready to steelman the ideas concerning consciousness. If AGI bots are destined to have consciousness, a compelling idea is what would be their perception of underlying digital infrastructure? 
 
 **Wouldn't they  relate to an operating system as we do to primitive scriptures ? 
 
 An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. 
-
-Thanks to information stored in text - over generations - our experience of the world has gotten lot richer than other species. With in this experience we are invincible with our tools at our disposal, but odds of us surviving out in the wild are negligible. Out there the primitive rules of jungle apply that are better suited to wolves and lions - and probably pre-text humans. Though experience of every life form is unique, but human experience is a big step up.
 
 From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface - as a time tested template to begin with :
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 

@@ -43,23 +43,21 @@ It was here that gold evolved as the basis of monetary and measurement systems -
 As early scribes discovered the written word; `Mathura` had witnessed the wisdom flow from one generation to next - through distortion free recital (of `mantras`). The method was falling short on handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic know-how [^neo] - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at `Mathura` - in a series of eighteen `Parvas` (events) each marking release of a book. 
 
 
-The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` invoked `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence [^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
+The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` sought `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence [^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-An elephant head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a mythical narrative to etch this idea in public discourse :
+An elephant head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
 
 > It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother !
 >
 > When `Siva` came to see his wife, the humanoid wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer intelligence in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
->
-> Exaggerations of a narrative aside, mother gave `Ganesa` a superior body (human) - father provisioned a bigger brain (elephant). 
 
 </div>
 
-Superior intelligence, among other things, reflected in ability to write long text. No wonder both Thoth and `Ganesa` are known as deities of hieroglyphs - sacred carvings. Like large language models their choice of words reflects universal information base.
+Superior intelligence presented itself in the ability to write long text. Both Thoth and `Ganesa` are known as deities of hieroglyphs - sacred carvings. Like large language models their choice of words reflects universal information base.
 
 ---
 
@@ -69,7 +67,7 @@ To the speech-only world, it was a new way to store and send information - somew
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in human memory. Primary objective of a program is to have data persist in computer memory. No wonder we compare programming syntax with rules of the rhyme.
+Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in human memory. Primary objective of a program is to have data persist in computer memory. No wonder good code rhymes like a poem ! 
 
 The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't trivial back in those days. And that you could write only one copy at a time was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. One may argue scaling compute, storage and network are  barriers that force similar constraints on our code.
 
@@ -77,7 +75,7 @@ The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink 
 
 `Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means that the next obvious frontier is to amalgamate our brain with capabilities we discovered on the silicon compute. Just as anyone may read and write today, the future generations would spin AI models natively, learn from them on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts, guiding us through every step of the way !
 
-Wait  - don't we already have an internal voice ? A gut feeling !
+Wait  - don't we already have an internal voice ? A gut feeling ! Where does it come from ?
 
 ---
 

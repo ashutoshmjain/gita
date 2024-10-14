@@ -33,7 +33,7 @@ If you toggle the sidebar, this web app has three main sections :
 
 ## Mathura (work in progress)
 
-The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium of information storage.
+The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium for information storage.
 
 Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future - encapsulated in a large carrier narrative. The carrier narrative `Mahabharata` went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 

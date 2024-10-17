@@ -1,3 +1,4 @@
+
 ---
 
 `Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson `Parāśara`. It took three attempts on his own life to get the focus back. To our good fortune, he didn't quit. In fact, his resolve grew stronger.

@@ -69,8 +69,8 @@ body {
     margin: 0;
     font-size: 1.8rem;
     overflow-x: hidden;
-    background-color: gold;
-    background-image: url("../../yellowBackground.png");
+    background-color: #f9ce00;
+    /* background-image: url("../../yellowBackground.png"); */
 }
 
 pre.output {

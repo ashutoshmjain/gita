@@ -13,6 +13,13 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - [Readme](./how.md) - minor edits.
 - [Mathura](./mathuraLanding.md) - major edits.
   - [Thought](./thought.md) - major edits.
+     - [Trigger](./mathuraChap01.md) - major edits.
+     - [Reboot](./mathuraChap02.md) - minor edits.
+ 
+## Oct 11, 24
+- [Readme](./how.md) - minor edits.
+- [Mathura](./mathuraLanding.md) - major edits.
+  - [Thought](./thought.md) - major edits.
      - [Trigger](./mathuraChap01.md) - major update.
  
 ## Oct 04, 24

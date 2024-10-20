@@ -3,7 +3,7 @@
 
 `Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson `Parāśara`. It took three attempts on his own life to get the focus back. To our good fortune, he didn't quit. In fact, his resolve only stronger.
 
-Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus! His birth brought hope back. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
+Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus! His birth brought a sliver of hope back. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
 
 It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) - to guard them against another similar catastrophe.
 
@@ -11,9 +11,9 @@ It was an opportunity to try out new methods. This time he wanted to scribe the 
 
 The mishap leads to a systemic survival instinct, missing thus far in the new. To them, the order (and survival) was ensured by the old. At the prospect of baton being passed to them, the new realizes, their struggle was never for the cause they thought it was. It was for themselves - to understand "who they are". Their situation was different from their olds. Their "new ideas" were not a solution for the old(er) problems, they were the plumbing for a new order. They must account for the stability of new regime.
 
-> This new casting of self is the evolution of consciousness. We don't get a new pair of eyes but we see things different now. The survivor [^survivor] wins and only the evolved survives. Since altruistic behaviours leads to formation of larger subset(s), it appears they form better evolved outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`.
+> This new casting of self is the evolution of consciousness. We don't get a new pair of eyes, but we filter things differently under a new light. The survivor [^survivor] wins and only the evolved survives. 
 
-All the possible configurations (of ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
+Since altruistic behaviours leads to formation of larger subset(s), it appears they form better evolved outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`. All the possible configurations (of ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
 
 </div>
 

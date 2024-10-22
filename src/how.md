@@ -64,27 +64,23 @@ The third section is the original translation  of `Mahabharata` - the longest po
 
 ## Clean internet 
 
-Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Many of such tools have turned the internet into a surveillance apparatus. 
+Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a surveillance apparatus. 
 
-An immune response is the rise of so-called freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My goal is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
+An immune response is the rise of freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My aspiration is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 
 A publisher may infest webpages sometimes unknowingly. Plug and play code such as Google Analytics are easy to install if not pre-installed. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-The sad part is - in order to keep the internet (perceivably) free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad.
+We know, in order to keep their internet services (email, search, social) free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
 
 ![cnnTrackers](./cnnTrackers.png)
 
-As a reader, you can configure browsers to block cookies. For example, in Safari press  "command + Comma" for privacy settings.
-
-![privacy](./privacy.png)
-
-However, if you did that, you won't be able to load most of the websites (Facebook or Instagram). A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
+As a reader, you have binary options to configure browsers to block cookies - or not. However, if you did that, you won't be able to load most of the websites. A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
 
 </div>
 
-As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight Google or Facebook - internet is too big to change for a lone writer ! It is only to do my part as a digital native. 
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight - internet is too big to change and all models of content delivery may co-exist! It is only to do my part as a digital native. 
 
 ## Open source tools
 

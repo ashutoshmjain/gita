@@ -76,11 +76,17 @@ We know, in order to keep their internet services (email, search, social) free -
 
 ![cnnTrackers](./cnnTrackers.png)
 
-As a reader, you have binary options to configure browsers to block cookies - or not. However, if you did that, you won't be able to load most of the websites. A better compromise is to use "duckduck go" privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
+As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, they are useless to an average user. 
+
+A better compromise is to use [duckduck go](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)  privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
 
 </div>
 
-As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. The goal is NOT to fight - internet is too big to change and all models of content delivery may co-exist! It is only to do my part as a digital native. 
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. It should show up as below ..
+
+![duck](./duck.png)
+
+**The goal is NOT to fight ! Internet is too big to change and all models of content delivery may co-exist! It is only to do my part as a digital native - leave the place as clean as I found it.**
 
 ## Open source tools
 

@@ -25,3 +25,4 @@
 {"rule":"IN_A_X_MANNER","sentence":"^\\QIn a circular way, \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q did lead to divine felicity.\\E$"}
 {"rule":"TO_TOO","sentence":"^\\QA half cooked meal might appeal to few hungry but it wouldn't make you a chef.\\E$"}
 {"rule":"CD_NN","sentence":"^\\QAug 23, 24\nReadme - major updates.\\E$"}
+{"rule":"MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE","sentence":"^\\QIn effect they are least useful to an average user.\\E$"}

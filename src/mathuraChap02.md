@@ -3,7 +3,7 @@
 
 `Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson `Parāśara`. It took three attempts on his own life to get the focus back. To our good fortune, he didn't quit. In fact, his resolve only stronger.
 
-Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus! His birth brought a sliver of hope back. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
+Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus in his mother's womb! His birth brought a sliver of hope back. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
 
 It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) - to guard them against another similar catastrophe.
 

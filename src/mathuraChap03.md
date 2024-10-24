@@ -6,7 +6,7 @@ The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singul
 
 `Abhivaykti`, in `Sanskrit`, means expression - the final act of all creative pursuits. In `Vaidik` science, there were two primary expressions - `Naad and Mudra`.
 
-> A distinction must be made here between information and knowledge. Information doesn't have the creative potency - knowledge has. Information is dualistic - knowledge harnesses duality to manifest third dimension. For example a magnet is bipolar, but the knowledge of this duality manifested electricity.
+> A distinction must be made here between information and knowledge. Information doesn't have the creative potency - knowledge has. Information is dualistic - knowledge harnesses duality to manifest third dimension. "Third" stands for infinite other possibilities. For example a magnet is bipolar, but the knowledge that poles are inseparable and opposite, led to the idea of electrical charge and finally manifested into electricity.
 
 While inner (evolutionary) knowledge is inexpressible (`Avykta`), knowledge acquired through external means may be expressed (`Vykta`) - to varying degree of success. Most of the communications we receive are, however, information. For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you build one.  In order to convey knowledge - the ability to manifest - both sender and the receiver must put in enormous repetitive efforts - `Yazna`.
 

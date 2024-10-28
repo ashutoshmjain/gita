@@ -8,9 +8,10 @@ The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singul
 
 > A distinction must be made here between information and knowledge. Information doesn't have the creative potency - knowledge has. Information is dualistic - knowledge harnesses duality to manifest third dimension. 
 >
-> "Third" stands for infinite possibilities each reflecting one unique aspect of knowledge. Physical manifestation is just one among many possibilities. For example a binary system is a duality. When knowledge combines billions of binary transistors, it becomes an operating system and internet. They may not appear solid physical things, but they are as much manifested entities as the physical processing chips and the computer. In similar fashion, our body and consciousness are two unique aspects of knowledge - there are many more that we are not even aware of.
+> "Third" stands for infinite possibilities. Each reflecting one unique aspect of knowledge. Physical manifestation is just one among many possibilities. For example a binary system is a duality. When knowledge combines billions of binary transistors, it becomes a computer chip. But that is only physical manifestation. Operating system and internet -  they may not appear solid physical things, but they are as much manifested entities as the physical processing chips. Design of the computer box and  the form are other possibilities of manifestation. In similar fashion, our body and consciousness are two unique aspects of knowledge - intertwined just as the chip and operating system are. There are many more aspects of our being that we are not even aware of.
 
 Knowledge is inexpressible (`Avykta`), though it can be decrypted through repetitive actions - practice. Most of the communications we receive are information. For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you build one.  In order to convey knowledge - the ability to manifest - both sender and the receiver must put in enormous repetitive efforts - `Yazna`. In other words - sender must be able to enable the receiver create things. In essence the communication of knowledge is manifestation. As they say - God doesn't talk - she creates !
+
 
 </div>
 

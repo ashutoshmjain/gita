@@ -10,6 +10,12 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
 ## Oct 25, 24
+- [Readme](./how.md) 
+- [Mathura](./mathuraLanding.md)
+  - [Thought](./thought.md) 
+     - [Expression](./mathuraChap03.md) - major edits.
+ 
+## Oct 25, 24
 - [Readme](./how.md) - major edits.
 - [Mathura](./mathuraLanding.md) 
   - [Thought](./thought.md) 

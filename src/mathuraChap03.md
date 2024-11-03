@@ -1,6 +1,6 @@
 ----
 
-The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `Yoga` must be practiced with a sacred daily routine (`Bramhacharya`). The idea was to tune mind & body into understanding, memorizing, and chanting - switching all material distractions off - an expression, so profound that it became an art form.
+The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `Yoga` must be practiced in a sacred daily routine (`Bramhacharya`). The idea was to tune mind & body into understanding, memorizing, and chanting - switching all material distractions off - an expression, so profound that it became an art form.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -12,7 +12,7 @@ The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singul
 
 Knowledge is inexpressible (`Avykta`), though it can be decrypted through repetitive actions - practice. Most of the communications we receive are information. For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you build one.  In order to convey knowledge - the ability to manifest - both sender and the receiver must put in enormous repetitive efforts - `Yazna`. In other words - sender must enable the receiver create things. In essence, the communication of knowledge is manifestation itself. As they say - God doesn't talk - she creates !
 
-> When we are connected with one aspect of knowledge such that we are able to communicate it - through manifestation - that state is called `Yoga` . At physical level we are engaged in repetitive actions - `Yazna` , at mental level we are obsessed with that specific aspect. `Yoga` need not be a religious or spiritual thing. Einstein was obsessed with decryption of gravity. He was as much a `Yogi` as a monk living in `Himalayas` - probably more ! Such `Yogies` who establish something through `Karma` (actions) , are also called `Karmyogi`.
+> When we are connected with one aspect of knowledge such that we are able to communicate it - through manifestation - that state is called `Yoga` . At physical level, a `Yogi` is always engaged in singular pursuit - `Yazna` , at mental level she is obsessed with that specific aspect. `Yoga` need not be a religious or spiritual thing. Einstein was obsessed with gravity. He was as much a `Yogi` as a monk living in `Himalayas` - probably more ! `Yogies` who are obsessed with actions themselves - without expectation of specific outcome - are called `Karmyogi`. For them the outcome is "action" - thus there is no other desire attached . They are also called `Nishkaam Karmyogi`  . 
 
 
 </div>

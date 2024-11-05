@@ -49,9 +49,9 @@ The legend says the epic was too big to scribe for humans! Thus, the first write
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-An elephant head on a human torso was a right-sizing intervention. Larger mammals such as elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
+An elephant head on a human torso was a right-sizing intervention. Elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
 
-> It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid from her body scrub - `Ganesa`. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother !
+> It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid `Ganesa` from her body scrub. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother !
 >
 > When `Siva` came to see his wife, the humanoid wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
 
@@ -67,13 +67,13 @@ To the speech-only world, it was a new way to store and send information - somew
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in human memory. Primary objective of a computer program is to have data persist in silicon memory. No wonder good code rhymes like a poem ! 
+Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in our carbon based memory. Primary objective of a computer program is to have data persist in silicon memory. No wonder good code rhymes like a poem ! 
 
 The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't trivial back in those days. And that you could write only one copy at a time was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. Scaling compute, storage and network are  barriers that force similar constraints on our code.
 
 </div>
 
-`Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means the next obvious frontier is to enable our brain with capabilities of large language models. Just as anyone may read and write today albeit a limited vocabulary of around thirty thousand words and few languages, the future generations would natively recognize millions of words. They will know all human and computing languages. They will learn from entire knowledge base on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts, guiding us through every step of the way !
+`Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means the next obvious frontier is to enable our brain with capabilities of large language models. Just as anyone may read and write today albeit a limited vocabulary of around thirty thousand words, the future generations would be at ease with millions of words. They will know all human and computing languages. They will learn from entire knowledge base on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts, guiding us through every step of the way !
 
 Wait  - don't we already have an internal voice ? A gut feeling ! Where does it come from ?
 

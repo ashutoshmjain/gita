@@ -4,7 +4,7 @@ The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singul
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Abhivaykti`, in `Sanskrit`, means expression - the final act of all creative pursuits. In `Vaidik` science, there were two primary expressions - `Naad and Mudra`.
+`Abhivaykti`, in `Sanskrit`, means expression - the final act of all creative pursuits. In `Vaidik` science, there were primarily two of them - `Naad and Mudra`.
 
 > A distinction must be made here between information and knowledge. Information doesn't have the creative potency - knowledge has. Information is dualistic - knowledge harnesses duality to manifest **third** dimension - the creation.
 >

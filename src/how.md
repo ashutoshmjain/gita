@@ -1,5 +1,7 @@
 ----
 
+This publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness. 
+
 `Arjun uvaach` means  `Arjuna` said ...
 
 `Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
@@ -12,11 +14,9 @@
 
 It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
-> `Gita` is for everyone - it is not religion, race, profession or place specific.
-
 </div>
 
-This publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness. 
+`Gita` is for everyone - it is not religion, race, profession or place specific.
 
 ## Navigation and icons:
 

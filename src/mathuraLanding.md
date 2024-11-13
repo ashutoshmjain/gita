@@ -45,9 +45,7 @@ As early scribes discovered the written word; `Mathura` had witnessed the wisdom
 
 The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` sought `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence [^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
 
-
 <div style="padding-left:40px;font-size:0.9em;"> 
-
 
 An elephant head on a human torso was a right-sizing intervention. Elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
 
@@ -73,13 +71,13 @@ The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink 
 
 </div>
 
-`Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means the next obvious frontier is to enable our brain with capabilities of large language models. Just as anyone may read and write today albeit a limited vocabulary of around thirty thousand words, the future generations would be at ease with millions of words. They will know all human and computing languages. They will learn from entire knowledge base on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts, guiding us through every step of the way !
+`Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means the next obvious frontier is to enable our brain with capabilities of large language models. Just as anyone may read and write today albeit a limited vocabulary of say thirty thousand words, the future generations would be at ease with millions of tokens. They will know all human and computing languages. They will learn from entire knowledge base on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts - guiding us through every step of the way !
 
 Wait  - don't we already have an internal voice ? A gut feeling ! Where does it come from ?
 
 ---
 
-Any major paradigm shift, mandates an order of magnitude improvement - even more so a "once in a ten thousand years event" [^10k]. There was an all around effort to reduce the cost while increasing the utility of written words. It wasn't that no one knew scribing before, but the inscriptions were pegged to the cave walls. Like murals or wall carvings, text was written on human size scales. Large paintings and books were of the same measure, and medium. An artist could afford to spend a year on a painting, but spending that much effort on a single page was a test of patience. Even if someone was willing , the diacritics and calligraphy weren't mature enough.
+Any major paradigm shift, mandates an order of magnitude improvement - even more so a "once in a ten thousand years event" [^10k]. There was an all around effort to reduce the cost while increasing the utility of written words. It wasn't that no one knew scribing before, but the inscriptions were pegged to the cave walls. Like murals or wall carvings, text was written on human size scales. Large paintings and books were of the same measure, and medium. An artist could afford to spend a year on a painting, but spending that much effort on a single page was a test of patience. Even if someone was willing , the fonts and diacritics weren't mature enough.
 
 In an estimate, a hundred-page scripture, painted on human size frames, used to cost a `Tola` [^gold] of gold - [weight of a minted gold coin around eleven grams](https://en.wikipedia.org/wiki/Tola_(unit))-  commonly called a `Śatamāna` in Sanskrit, or an `Ashrafi` in Arabic. The goal was to bring the cost down to a `Ratti` (around 100th part of a Tola). A 10x reduction in size plus a 10x improvement in transcription tools led to a 100x reduction in cost -  in a matter of less than a century.  
 
@@ -89,7 +87,9 @@ How did the monetary system perpetuate scribing and vice-versa? What motivations
 
 ## narrative …
 
-Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information and value exchange protocol to digital form - in search of the next boost to the conscious experience. Since the future is a scary veil of the unknown, there is a lot to learn from our past. Exploring a similar event - when we embraced gold and the written word - is a good option to compass our AI driven future - that might run on bitcoin value exchange protocol ... [more](./thought.md)
+Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information to digital form. We are adapting to the idea of digital money - in search of the next boost to the conscious experience. Since the future is a scary veil of the unknown, there is a lot to learn from our past. 
+
+Exploring a similar event - when we embraced gold and the written word - is a good option, I guess, to compass our AI driven future - that might run on bitcoin value exchange ... [more](./thought.md)
 
 
 ## notes and stuff …

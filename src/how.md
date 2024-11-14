@@ -72,7 +72,7 @@ A publisher may infest webpages sometimes unknowingly. Plug and play code such a
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-We know, in order to keep their internet services (email, search, social) free - likes of Google and Facebook turned it into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they are the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
+We know, in order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
 
 ![cnnTrackers](./cnnTrackers.png)
 
@@ -90,7 +90,7 @@ As a rule, and design imperative, I don't use any trackers or cookies whatsoever
 
 ## Open source tools
 
-Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source tool [mdBook](https://github.com/rust-lang/mdBook) to shape this publication into a book-like reading experience. The web-app thus created has many features :  
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source publishing tool [mdBook](https://github.com/rust-lang/mdBook) to bind these pages into a book-like reading experience. The web-app thus created has many features :  
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

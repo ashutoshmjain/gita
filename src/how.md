@@ -20,7 +20,7 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 ## Navigation and icons:
 
-- cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right (or left). 
+- cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right. 
 - search the publication using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>. On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
@@ -35,11 +35,11 @@ If you toggle the sidebar, this web app has three main sections :
 
 The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium for information storage.
 
-Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future - encapsulated in a large carrier narrative. The carrier narrative `Mahabharata` went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
+Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future. It was encapsulated in a large carrier narrative - `Mahabharata`. The carrier narrative went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
-`Gita` defined `Karm yoga` as a path to (gradually) accumulate value (`Daivvy Sampad`), and finally be one with the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+`Gita` defined `Karm yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for discovery of gold - as a store of value. 
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a store of value. 
 
 > Value exchange must follow the properties of information exchange. If information could be sent to distant places, value must do the same in space and time !
 
@@ -47,9 +47,13 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual framework for selfless pursuits (`Nishkaam Yazna`). Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the number of hours; if you were seeking recognition, you may end up investing time in publicity.
+`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual framework for selfless pursuits (`Nishkaam Yazna`). 
 
-Working without expectations of monetary gains or fame is hard, for example the open source contributions of our time. `Gita`, however, goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
+> Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. 
+
+Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the quantum of effort; if you were seeking recognition, you may end up investing time in publicity and assume it as necessary part of work  - it is not.
+
+Working without expectations of monetary gains or fame is hard - for example the open source contributions of our time - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity - stay defiant to seek truth. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
 The translation is followed by essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 

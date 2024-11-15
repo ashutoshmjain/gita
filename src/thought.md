@@ -1,10 +1,10 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. Internally, you are prepared - with or without material support. You instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva`.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. `Aavahan` is a marathon ritual of introspection. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. Internally, you converge on self - the focal point of conscious experience. You are prepared - with or without material support. You instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva`.
 
-Scribing `Mahabharata` was one such venture. It is the root of written narratives. Sage writer and teacher of all [^races], `Krishna Dwaipayana` invoked `Bramh`.  Not only did he need all-pervading information (`Bramh`) within -  he must seek permission to open us mortals' access to the past - and to the future. He must align himself to information continuum (`Bramh`) before introducing text to a vocal and verbose world.
+Scribing `Mahabharata` was one such venture. It is the root of written narratives. Sage writer and teacher of all [^races], `Krishna Dwaipayana` invoked `Bramh` - information continuum.  He needed information within self in equilibrium with `Bramh`. But more importantly, he must seek permission to open us mortals' access to the past - and to the future. He must align himself to continuum before introducing text to a vocal and verbose world.
 
-Text was the new way - to store manifolds of lore. As `Mahabharata` scaled, it attracted readers - a natural pull. Challenges are invitations to seekers - Mount Everest always attracts climbers! 
+Text was the new way - to store manifolds of lore. An alternative to old spoken stories - `Puranas`. As `Mahabharata` scaled, it attracted lot more readers than expected - a natural pull exosted. Challenges are invitations to seekers - Mount Everest always attracts climbers! 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

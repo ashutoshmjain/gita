@@ -39,7 +39,7 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Gita` defined `Karm yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a store of value. 
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to spread of bitcoin. 
 
 > Value exchange must follow the properties of information exchange. If information could be sent to distant places, value must do the same in space and time !
 

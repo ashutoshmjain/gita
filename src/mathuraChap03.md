@@ -12,7 +12,7 @@ The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singul
 
 Knowledge is inexpressible (`Avykta`), though it can be decrypted through repetitive actions - practice. Most of the communications we receive are information. For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you build one.  In order to convey knowledge - the ability to manifest - both sender and the receiver must put in enormous repetitive efforts - `Yazna`. In other words - sender must enable the receiver create things. In essence, the communication of knowledge is manifestation itself. As they say - God doesn't talk - he creates !
 
-> When we are connected with one aspect of knowledge such that we can communicate it—through manifestation—that state is called Yoga. Yoga need not be religious or spiritual. Einstein was focused on one aspect of nature—gravity. He was as much a Yogi as a monk living in the Himalayas—probably more!
+> When we are so deeply connected to one aspect of knowledge -  such that we attain the ability to communicate it through manifestation — that state is called Yoga. Yoga need not be religious or spiritual. Einstein was focused on one aspect of nature—gravity. He was as much a Yogi as a monk living in the Himalayas—probably more!
 > 
 > `Yogies` who are focused on "actions" are called `Karmyogi`. For them, the sole goal is to engage in actions - to enjoy the actions like kids playing a game, and to understand their potency. When participation becomes the only purpose - and hence there is no other desire attached to the actions they indulge in, they are called `Nishkaam Karmyogi`. `Nishkaam` means no desire for a specific outcome.
 >

@@ -1,6 +1,6 @@
 ----
 
-This publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness.  It is a "clean internet" publication.
+This web[^mission] publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
 `Arjun uvaach` means  `Arjuna` said ...
 
@@ -80,7 +80,7 @@ In order to keep their services free - email, search, social - likes of Google a
 
 ![cnnTrackers](./cnnTrackers.png)
 
-As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, they are useless to an average user. 
+As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, such settings are useless to an average user. 
 
 A better compromise is to use [duckduck go](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)  privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
 
@@ -94,7 +94,7 @@ As a rule, and design imperative, I don't use any trackers or cookies whatsoever
 
 ## Open source tools
 
-Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source publishing tool [mdBook](https://github.com/rust-lang/mdBook) to bind these pages into a book-like reading experience. The web-app thus created has many features :  
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source publishing tool [mdBook](https://github.com/rust-lang/mdBook) to bind[^text] these pages into a book-like reading experience. The web-app thus created has many features :  
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -111,11 +111,11 @@ Content is written in Markdown on Vim - both open and time tested. I mostly use 
 
 ## Theme
 
-The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Kalam` fonts form "Indian Fonts Foundry". I have restricted other standard themes [^themes], such as rust, ayu or navy because this custom theme is the (only) one I test from readability standpoint.
+The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Alkatra` fonts form `Suman Bhandary`. I have restricted other standard themes[^themes], such as rust, ayu or navy because this custom theme is the (only) one I test from readability standpoint.
 
 ## Favicon
 
-The favicon [^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
+The favicon[^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 
 ## Cover photo
@@ -134,16 +134,20 @@ The net of this license is as below
 
  ![license](./license.png)
 
+The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
 ## Style 
 
+- The content is designed for reading in a desktop or tablet[^tablet] browser.
 - I normally use maroon color for  `Hindi` or `Sanskrit`.  
-- [Hyperlinks](https://shutri.com) are in "blue" color. 
+- [Hyperlinks](https://shutri.com) are in "blue" color.
+- The background color is Gold #f9ce00
+- The font is Alkatra.
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
 - I avoid citations as much as possible. It is not a narrative chasing accuracy. The goal is to imagine scenario before we adopted written word as primary store of information. There is obviously no written history to refer to.
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus, order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
 - The goal is not to impart `Gita`. And for a good reason — no one may ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek the information that writer withheld to avoid "stating the obvious". After thousands of years, we now crave for that information - events that led to scribing.
-- Footnotes are used to improve the reader flow. They do carry useful information. If you happen to skip-over, I suggest running by them after finishing the chapter. 
+- Footnotes[^foot] are used to improve the reader flow. They do carry useful information. If you happen to skip-over, I suggest running by them after finishing the chapter. 
 
 ## Tips and Donations:
 
@@ -202,10 +206,6 @@ Browsers are particularly suitable for the long text ..
 
 [^favi]: Favicon
 - The little picture right in front of your browser's url bar (where you type the address of the website such as https://gita.shutri.com) is called a favicon. 
-
----
-
-[^browser]: Because of limited resources, I only use ‘Firefox’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or links that don't support JavaScript natively.
 
 ---
 

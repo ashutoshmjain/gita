@@ -1,6 +1,6 @@
 ----
 
-This publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness. 
+This publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
 `Arjun uvaach` means  `Arjuna` said ...
 
@@ -68,7 +68,7 @@ The third section is the original translation  of `Mahabharata` - the longest po
 
 ## Clean internet 
 
-Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a surveillance apparatus. 
+The way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a surveillance apparatus. 
 
 An immune response is the rise of freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My aspiration is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 
@@ -76,7 +76,7 @@ A publisher may infest webpages sometimes unknowingly. Plug and play code such a
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-We know, in order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
+In order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
 
 ![cnnTrackers](./cnnTrackers.png)
 

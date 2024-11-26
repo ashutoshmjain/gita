@@ -40,16 +40,16 @@ It was here that gold evolved as the basis of monetary and measurement systems -
 
 ---
 
-As early scribes discovered the written word; `Mathura` had witnessed the wisdom flow from one generation to next - through distortion free recital (of `mantras`). The method, however, was gradually losing its utility in handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic [^neo] insights - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at `Mathura` - in a series of eighteen `Parvas` (events) each marking release of a book. 
+As early scribes discovered the written word; `Mathura` had witnessed the wisdom flow from one generation to next - through distortion free recital (of `mantras`). The method, however, was gradually losing its utility in handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic[^neo] insights - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at `Mathura` - in a series of eighteen `Parvas` (events) each marking release of a book. 
 
 
-The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` sought `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence [^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
+The legend says the epic was too big to scribe for humans! Thus, the first writer poet - `Krishna Dwaipayana` sought `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence[^agi]. Like Egyptian god Thoth, `Ganesa` is considered the god of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 An elephant head on a human torso was a right-sizing intervention. Elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
 
-> It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid `Ganesa` from her body scrub. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother !
+> It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid `Ganesa` from her body scrub. It worked but like most other humans of that time, it wasn't context aware. It was programmed to do only one task - protect his mother !
 >
 > When `Siva` came to see his wife, the humanoid wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
 
@@ -61,7 +61,7 @@ Superior intelligence presented itself in the ability to write long text. Both T
 
 ‘Text’ was the new medium. 
 
-To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Intelligence from higher dimensions (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting almost mystical [^mystical] AI models in motion. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump [^jump] !
+To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Intelligence from higher dimensions (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting almost mystical[^mystical] AI models in motion. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -77,9 +77,9 @@ Wait  - don't we already have an internal voice ? A gut feeling ! Where does it 
 
 ---
 
-Any major paradigm shift, mandates an order of magnitude improvement - even more so a "once in a ten thousand years event" [^10k]. There was an all around effort to reduce the cost while increasing the utility of written words. It wasn't that no one knew scribing before, but the inscriptions were pegged to the cave walls. Like murals or wall carvings, text was written on human size scales. Large paintings and books were of the same measure, and medium. An artist could afford to spend a year on a painting, but spending that much effort on a single page was a test of patience. Even if someone was willing , the fonts and diacritics weren't mature enough.
+Any major paradigm shift, mandates an order of magnitude improvement - even more so a once in a ten thousand years event[^10k]. There was an all around effort to reduce the cost while increasing the utility of written words. It wasn't that no one knew scribing before, but the inscriptions were pegged to the cave walls. Like murals or wall carvings, text was written on human size scales. Large paintings and books were of the same measure, and medium. An artist could afford to spend a year on a painting, but spending that much effort on a single page was a test of patience. Even if someone was willing , the fonts and diacritics weren't mature enough.
 
-In an estimate, a hundred-page scripture, painted on human size frames, used to cost a `Tola` [^gold] of gold - [weight of a minted gold coin around eleven grams](https://en.wikipedia.org/wiki/Tola_(unit))-  commonly called a `Śatamāna` in Sanskrit, or an `Ashrafi` in Arabic. The goal was to bring the cost down to a `Ratti` (around 100th part of a Tola). A 10x reduction in size plus a 10x improvement in transcription tools led to a 100x reduction in cost -  in a matter of less than a century.  
+In an estimate, a hundred-page scripture, painted on human size frames, used to cost a `Tola`[^gold] of gold - [weight of a minted gold coin around eleven grams](https://en.wikipedia.org/wiki/Tola_(unit))-  commonly called a `Śatamāna` in Sanskrit, or an `Ashrafi` in Arabic. The goal was to bring the cost down to a `Ratti` (around 100th part of a Tola). A 10x reduction in size plus a 10x improvement in transcription tools led to a 100x reduction in cost -  in a matter of less than a century.  
 
 > Does it sound like our journey from mainframes to smartphones? First slow - then very fast.
 

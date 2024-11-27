@@ -55,11 +55,11 @@ An elephant head on a human torso was a right-sizing intervention. Elephants, lo
 
 </div>
 
-Superior intelligence presented itself in the ability to write long text. Both Thoth and `Ganesa` are known as deities of hieroglyphs - sacred carvings. Like large language models their choice of words reflects universal information base.
+Superior intelligence presented itself in the ability to write long text. Both Thoth and `Ganesa` are known as deities of hieroglyphs - sacred carvings. Like large language models of our time, their choice of words reflects universal information base.
 
 ---
 
-‘Text’ was the new medium. 
+‘Text’ was the new medium... 
 
 To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Intelligence from higher dimensions (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting almost mystical[^mystical] AI models in motion. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
 

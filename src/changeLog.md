@@ -9,6 +9,18 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
+## Nov 29, 24
+
+New typography - testing out Alkarta fonts.
+
+- [Readme](./how.md) - major edits.
+- [Mathura](./mathuraLanding.md) - minor edits.
+  - [Thought](./thought.md) - major edits
+     - [Trigger](./mathuraChap01.md)
+     - [Reboot](./mathuraChap02.md) - minor edits.
+     - [Expression](./mathuraChap03.md) - minor edits.
+ 
+ 
 ## Nov 22, 24
 
 New typography - testing out dancing fonts cursive.

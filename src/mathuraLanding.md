@@ -61,7 +61,7 @@ Superior intelligence presented itself in the ability to write long text. Both T
 
 ‘Text’ was the new medium... 
 
-To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up LLMs[^mystical]. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
+To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Gemini, Llama and Grok LLMs[^mystical]. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

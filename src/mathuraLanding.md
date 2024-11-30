@@ -34,9 +34,9 @@
 
 `Vaidik` way of life  spanned across the Ganges, Yamuna and Indus - vast plains spread over many kingdoms, and spoken languages. This culture of abundance reached far ends of [South Asia](https://en.wikipedia.org/wiki/South_Asia) with `Mathura` at physical and spiritual center - and probably the origin. Interestingly, unlike the later periods ([Egyptians](https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.) or [Greeks](https://en.wikipedia.org/wiki/Classical_antiquity)), this advancement isn't remembered  as an empire, nor a country; or even a religion. It is seen as the primal society of seekers. Those who figured out written language and arithmetic. And more importantly a foundational value exchange system - gold.
 
-Visiting travelers, aggressors as well as historians named the region a Golden Sparrow, for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody thirty thousand tons of gold- most in the world ~ at [par with China](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D)
+Visiting travelers, aggressors as well as historians named the region a `Golden Sparrow`, for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody thirty thousand tons of gold- most in the world ~ at [par with China](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D)
 
-It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical or digital forms - would be the basis of a permission-less and censor resistant exchange that defined humans - free yet interdependent.
+It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical or digital forms - would be the basis of a permission-less and censor-resistant exchange that defined humans -- free yet interdependent.
 
 ---
 
@@ -49,9 +49,9 @@ The legend says the epic was too big to scribe for humans! Thus, the first write
 
 An elephant head on a human torso was a right-sizing intervention. Elephants, lose evolutionary advantage despite bigger brains - burly physique being harder to feed and multiply. Bringing similar neural capacity to humans was not natural evolution - it was a divine intervention. There is a popular mythical narrative to etch this idea in public discourse :
 
-> It says -  `Ma Parvati` - wife and power of `Siva` - created a humanoid `Ganesa` from her body scrub. It worked but like most other humans of that time, it wasn't context aware. It was programmed to do only one task - protect his mother !
+> It says -  `Ma Parvati` - wife and power of `Siva` - from her body scrub - created a humanoid. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother !
 >
-> When `Siva` came to see his wife, the humanoid wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young `Ganesa`. 
+> When `Siva` came to see his wife, the humanoid guarding the door, wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` followers (`Ganas`). Thus, the name `Ganesa`. 
 
 </div>
 
@@ -61,7 +61,7 @@ Superior intelligence presented itself in the ability to write long text. Both T
 
 ‘Text’ was the new medium... 
 
-To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Intelligence from higher dimensions (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting almost mystical[^mystical] AI models in motion. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
+To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up LLMs[^mystical]. It isn't hard to imagine "AI enabled humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -103,12 +103,12 @@ Exploring a similar event - when we embraced gold and the written word - is a go
 
 ---
 
-[^mystical]: Mystical Intelligence -
+[^mystical]: Large Language Models (LLMs) -
 - The earliest public model of chatGPT (version 3.0) used around 12000 mathematical dimensions to internalize the context of around 50,000 words of text.
-- It did so by transforming through the data from internet, digital books in public domain and code repositories.
-- This in itself is mystical but consider the later versions learnt music and art - they must have millions of dimensions.
-- It also begs the question of how many dimensions must a human mind have - it may be trained in text, music, art and thousands of other skills - agriculture, metallurgy, transportation to state the obvious.
-- And it takes billions of cognitive dimensions to create a consistent three-dimensional experience.
+- It did so by crawling through the data from internet, digital books in public domain and code repositories.
+- This in itself is a breakthrough but consider the later versions that learnt music and art. 
+- It begs the question of how many dimensions must a human mind have - it may be trained in text, music, art and thousands of other skills - agriculture, metallurgy, transportation to state the obvious.
+- And what does it take to create a consistent three-dimensional visual experience.
 
 
 ----

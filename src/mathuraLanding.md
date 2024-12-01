@@ -65,9 +65,9 @@ To the speech-only world, it was a new way to store and send information - somew
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in our carbon based memory. Primary objective of a computer program is to have data persist in silicon memory. No wonder good code rhymes like a poem ! 
+Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in our carbon based memory. On similar lines, primary objective of a computer program is to have data persist in silicon memory. No wonder good code rhymes like a poem ! 
 
-The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't trivial back in those days. And that you could write only one copy at a time was an entry barrier. It mandated the text must be accurate, succinct and comprehensible. Scaling compute, storage and network are  barriers that force similar constraints on our code.
+The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) wasn't an easy chore. And then you could write only one copy at a time! It mandated the text must be accurate, succinct and comprehensible. Scaling compute, storage and network are  barriers that force similar constraints on our code.
 
 </div>
 

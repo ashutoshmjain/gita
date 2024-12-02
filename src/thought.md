@@ -1,10 +1,10 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. `Aavahan` is also a marathon ritual of introspection. Internally, you converge on self - the focal point of conscious experience. You are prepared - with or without material support. In essence, you instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva`.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on self - the focal point of conscious experience. You are able to communicate exactly what you feel as if you found your voice.  You are prepared - with or without material support. In essence, you instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva`.
 
 Scribing `Mahabharata` was one such venture. It is the root of written narratives. Sage writer and teacher of all[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  In order to conceive the epic, he needed his thoughts in equilibrium with `Bramh`. But more importantly, he must seek permission from the eternal flow, to open us mortals' access to the past - and to the future. He must align himself to continuum before introducing text to a verbose but amnesic world.
 
-Text was the new way - to store manifolds of lore. An alternative to old spoken stories - `Puranas`. As `Mahabharata` scaled, it attracted lot more readers than expected - a natural pull prevailed without fading. Instead, it gained momentum. Challenges are invitations to seekers - Mount Everest always attracts climbers! 
+Text was the new way - to store manifolds of lore. An alternative to old spoken stories - `Puranas`. As `Mahabharata` scaled, it attracted lot more readers than expected - a natural pull prevailed. It gained momentum with each passing day. Challenges are invitations to seekers - Mount Everest always attracts climbers! 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -32,9 +32,9 @@ There are many other examples where artifacts shine because of unique dualities 
 
 "C" programming language and modern keyboards[^c] came into shape alongside Unix - a three-way complementarity. A new language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
-Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to centralize, Unix-like systems run on widest variety of hardware architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. A separation of digital from physical.
+Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to box Unix into one hardware, Unix-like systems run on widest variety of architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. First separation of digital layer over physical.
 
-In a way, Unix fragmented itself to jailbreak the hardware - just as `text` had liberated the thought from speech artists.
+Unix fragmented itself to jailbreak the hardware - just as `text` liberated the thought from speech artists. One could understand a narrative without ever physically meeting the thinker.
 
 </div>
 

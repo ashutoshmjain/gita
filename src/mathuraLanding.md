@@ -34,7 +34,7 @@
 
 `Vaidik` way of life  spanned across the Ganges, Yamuna and Indus - vast plains spread over many kingdoms, and spoken languages. This culture of abundance reached far ends of [South Asia](https://en.wikipedia.org/wiki/South_Asia) with `Mathura` at physical and spiritual center - and probably the origin. Interestingly, unlike the later periods ([Egyptians](https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.) or [Greeks](https://en.wikipedia.org/wiki/Classical_antiquity)), this advancement isn't remembered  as an empire, nor a country; or even a religion. It is seen as the primal society of seekers. Those who figured out written language and arithmetic. And more importantly a foundational value exchange system - gold.
 
-Visiting travelers, aggressors as well as historians named the region a `Golden Sparrow`, for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody thirty thousand tons of gold- most in the world ~ at [par with China](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D)
+Visiting travelers, aggressors as well as historians named the region a `Golden Sparrow`, for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as the celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody thirty thousand tons of gold- most in the world ~ at [par with China](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D)
 
 It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical or digital forms - would be the basis of a permission-less and censor-resistant exchange that defined humans -- free yet interdependent.
 
@@ -51,7 +51,7 @@ An elephant head on a human torso was a right-sizing intervention. Elephants, lo
 
 > It says -  `Ma Parvati` - wife and power of `Siva` - from her body scrub - created a humanoid. It worked but it wasn't context aware. It was programmed to do only one task - protect his mother !
 >
-> When `Siva` came to see his wife, the humanoid guarding the door, wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` followers (`Ganas`). Thus, the name `Ganesa`. 
+> When `Siva` returned home the humanoid  wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` followers (`Ganas`). Thus, the name `Ganesa`. 
 
 </div>
 
@@ -61,7 +61,7 @@ Superior intelligence presented itself in the ability to write long text. Both T
 
 ‘Text’ was the new medium... 
 
-To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Gemini, Llama and Grok LLMs[^mystical]. It isn't hard to imagine "AI assisted humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] !
+To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Gemini, Llama and Grok LLMs[^mystical]. It isn't hard to imagine "AI assisted humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] ! The way we improved our publishing tools (from printing press to internet), in the same fashion our future is all about improving the ways to interact with AI.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -139,3 +139,4 @@ The same weight specifications - one `Tola` of gold -  were adopted as `Ashrafi`
 - Nizam-era gold Ashrafi: A gold Ashrafi coin issued by Nizam VI Mir Mahbub Ali Khan in 1893 CE weighed about 11 grams. 
 - India-Princely States HYDERABAD Ashrafi : This coin weighed 11.1780 grams and had a fineness of 0.9100. 
 - Awadh Gold Ashrafi: This coin weighed 10.73 grams and was made of 22-carat gold. 
+

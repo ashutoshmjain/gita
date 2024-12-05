@@ -2,7 +2,7 @@
 
 Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on self - the focal point of conscious experience. You are able to communicate exactly what you feel as if you found your voice.  You are prepared - with or without material support. In essence, you instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva`.
 
-Scribing `Mahabharata` was one such venture. It is the root of written narratives. Sage writer and teacher of all[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  In order to conceive the epic, he needed his thoughts in equilibrium with `Bramh`. But more importantly, he must seek permission from the eternal flow, to open us mortals' access to the past - and to the future. He must align himself to continuum before introducing text to a verbose but amnesic world.
+Scribing `Mahabharata` was one such venture. It is the root of written narratives. Sage writer and teacher of all[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  In order to conceive the epic, he needed his thoughts in equilibrium[^equi] with `Bramh`. But more importantly, he must seek permission from the eternal flow, to open us mortals' access to the past - and to the future. He must align himself to continuum before introducing text to a verbose but amnesic world.
 
 Text was the new way - to store manifolds of lore. An alternative to old spoken stories - `Puranas`. As `Mahabharata` scaled, it attracted lot more readers than expected - a natural pull prevailed. It gained momentum with each passing day. Challenges are invitations to seekers - Mount Everest always attracts climbers! 
 
@@ -198,7 +198,25 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 
 ---
 
+[^equi]: Equilibrium with and in `Bramh`:
+`Dwaipayana` wrote in `Bhagvad Gita` chapter 4 verse 24 ..
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+> brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam
+>
+> brahmaiva tena gantavyaṁ brahma-karma-samādhinā
+>
+> ----
+>
+> For those who are completely absorbed in `Bramh`, the oblation is `Bramh`, the ladle with which it is offered is `Bramha`, the act of offering is `Bramh`, and the sacrificial fire is also `Braamh`. Such persons, who view everything as `Bramh`, easily unites with `Bramh`.
+
+</div>
+
+---
+
 [^srishti]: The consciousness replicates irrespective of physical shape or size. Different shapes - form factors create experiences. It is as if a full copy of knowledge replicates into different forms to observe itself. `Dwaipayana` compiled an idiomatic definition of full copy replication in `Shukla Yazurveda` - as it happens from a seed to a tree et alia.
+
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 > Poornam-adah, Poornam-idam; Poornaat Poornam-Udachyate.

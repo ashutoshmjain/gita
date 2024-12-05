@@ -1,6 +1,6 @@
 ---
 
-Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on self - the focal point of conscious experience. You are able to communicate exactly what you feel as if you found your voice.  You are prepared - with or without material support. In essence, you instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for  a bridge to Lanka, invoked `Siva`.
+Sanskrit word `Aavahan` translates to 'Invocation', albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on self - the focal point of conscious experience. You are able to communicate exactly what you feel as if you found your voice.  You are prepared - with or without material support. In essence, you instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain unwavering commitment - a laser like focus. For example `Rama`, before calling for a [bridge](https://en.wikipedia.org/wiki/Adam%27s_Bridge#:~:text=The%20ancient%20Sanskrit%20epic%20Ramayana%2C%20in%20the%20Yuddhakanda%2C%20mentions%20a%20bridge%20constructed%20by%20the%20god%20Rama%20with%20aid%20from%20an%20army%20of%20Vanaras%20(monkeys%20or%20forest%2Ddwellers)%20to%20reach%20the%20island%20Lanka%20and%20rescue%20his%20wife%20Sita%20fr m%20Ravana.) from Southern coast of India to Sri Lanka, invoked `Siva`.
 
 Scribing `Mahabharata` was one such venture. It is the root of written narratives. Sage writer and teacher of all[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  In order to conceive the epic, he needed his thoughts in equilibrium[^equi] with `Bramh`. But more importantly, he must seek permission from the eternal flow, to open us mortals' access to the past - and to the future. He must align himself to continuum before introducing text to a verbose but amnesic world.
 
@@ -209,7 +209,9 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 >
 > ----
 >
-> For those who are completely absorbed in `Bramh`, the oblation is `Bramh`, the ladle with which it is offered is `Bramha`, the act of offering is `Bramh`, and the sacrificial fire is also `Braamh`. Such persons, who view everything as `Bramh`, easily unites with `Bramh`.
+> Bramh is the ladle (with which the libation is poured); Bramh is the libation (that is offered); Brahma is the fire on which the libation is poured by Bramh. Bramh is their goal and their Karma is situated in Bramh. 
+>
+> Ladle signifies the tool , the libation the raw material. Fire as the energy that changes the properties of material being offered. And the one who is pouring the raw material is also part of the system. Thus, Bramh is the system and all actions are situated with in its frame of reference. 
 
 </div>
 

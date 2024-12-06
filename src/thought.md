@@ -1,6 +1,6 @@
 ---
 
-Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on self - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support. You instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before building the [bridge](https://www.srilanka.travel/adam's-bridge) from Southern tip of India to Sri Lanka, invoked `Siva`.
+Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on to &self[^self] - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support. You instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before building the [bridge](https://www.srilanka.travel/adam's-bridge) from Southern tip of India to Sri Lanka, invoked `Siva`.
 
 Scribing `Mahabharata` was one such venture. It is the root of all written narratives. Sage writer[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  In order to conceive the epic, he needed his thoughts in equilibrium[^equi] with `Bramh`. But more importantly, he must seek permission from the eternal flow, to open us mortals' access to the past - and to the future. He must understand entire history before introducing text to a verbose but amnesic world.
 
@@ -192,6 +192,11 @@ It doesn't matter what work you do - what matters is how you do it !
 Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - meant to decorate the deities - as a humble submission to their blessings.
 
 ## notes and stuff …
+
+----
+
+[^self]: In Rust programming language, the &self keyword is used to indicate that a method takes a reference to the instance of the object it is called on ("self") as a parameter. It allows the method complete access (read or modify) the very object it working on.
+
 ----
 
 [^races]: Vyasa executed the compilation of the Bharata, exclusive of the episodes originally in twenty-four thousand verses; and so much only is called by the learned as the Bharata. Afterwards, he composed an epitome in one hundred and fifty verses, consisting of the introduction with the chapter of contents. This he first taught to his son Suka; and afterwards he gave it to others of his disciples who were possessed of the same qualifications. After that he executed another compilation, consisting of sixty hundred thousand verses. Of those, thirty hundred thousand are known in the world of the Devas; fifteen hundred thousand in the world of the Pitris: fourteen hundred thousand amongst the Gandharvas, and one hundred thousand in the regions of mankind. Narada recited them to the Devas, Devala to the Pitris, and Suka published them to the Gandharvas, Yakshas, and Rakshasas: and in this world they were recited by Vaisampayana, one of the disciples of Vyasa, a man of just principles and the first amongst all those acquainted with the Vedas. [Extracted from Mahabharata - Translated by Kisari Mohan Ganguli](https://mahabharata.shutri.com/maha01.html#:~:text=Vyasa%20executed%20the%20compilation,one%20hundred%20thousand%20verses.)

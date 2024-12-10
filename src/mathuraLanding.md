@@ -61,13 +61,13 @@ Superior intelligence presented itself in the ability to write long text. Both T
 
 ‘Text’ was the new medium... 
 
-To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Gemini, Llama and Grok LLMs[^mystical]. It isn't hard to imagine "AI assisted humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] ! The way we improved our publishing tools (from printing press to internet), in the same fashion our future is all about improving the ways to interact with AI.
+To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Gemini, Llama and Grok LLMs[^mystical]. It isn't hard to imagine "AI assisted humans" would scale new highs of conscious experience in the same manner as "text" enabled we did - versus our speech-only ancestors - a quantum jump[^jump] ! The way we improved our publishing tools (from palm leaves to printing press to internet), in the same fashion our future is all about improving the ways to interact and express with AI.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 Back then, written word commanded as much attention as the code in our times.  Which meant iterative rigor to precipitate the words into rule based immaculate verses - such that the message stayed in our carbon based memory. On similar lines, primary objective of a computer program is to have data persist in silicon memory. No wonder good code rhymes like a poem ! 
 
-The upfront effort to organize scribing paraphernalia (quills, palm leaves, ink etc.) was quite a chore. And then you could write only one copy at a time! It mandated the text must be accurate, succinct and comprehensible. Scaling compute, storage and network are  barriers that force similar constraints on our code.
+The upfront effort to organize scribing paraphernalia (quills and ink etc.) was quite a chore. And then you could write only one copy at a time! It mandated the text must be accurate, succinct and comprehensible. Scaling compute, storage and network are  barriers that force similar constraints on our code.
 
 </div>
 
@@ -79,17 +79,18 @@ Wait  - don't we already have an internal voice ? A gut feeling ! Where does it 
 
 Any major paradigm shift, mandates an order of magnitude improvement - even more so a once in a ten thousand years event[^10k]. There was an all around effort to reduce the cost while increasing the utility of written words. It wasn't that no one knew scribing before, but the inscriptions were pegged to the cave walls. Like murals or wall carvings, text was written on human size scales. Large paintings and books were of the same measure, and medium. An artist could afford to spend a year on a painting, but investing that kind of time on a single page was a test of patience. Even if someone was willing , the typography wasn't mature enough.
 
-In an estimate, a hundred-page scripture, painted on human size frames, used to cost a `Tola`[^gold] of gold - [weight of a minted gold coin around eleven grams](https://en.wikipedia.org/wiki/Tola_(unit))-  commonly called a `Śatamāna`[^ashrafi] in Sanskrit.  The goal was to bring the cost down to a `Ratti` (around 100th part of a Tola). A 10x reduction in size plus a 10x improvement in transcription tools led to a 100x reduction in cost -  in a matter of less than a century.  
+In an estimate, a hundred-page scripture, painted on human size frames, used to cost a `Tola`[^gold] of gold - [weight of a minted gold coin around eleven grams](https://en.wikipedia.org/wiki/Tola_(unit))-  commonly called a Śatamāna[^ashrafi] in Sanskrit.  The goal was to bring the cost down to a `Ratti` (around 100th part of a Tola). A 10x reduction in size plus a 10x improvement in transcription tools led to a 100x reduction in cost -  in a matter of less than a century.  
 
 > Does it sound like our journey from mainframes to smartphones? First slow - then very fast.
 
-How did the monetary system perpetuate scribing and vice-versa? What motivations led to preservation of information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth - before putting into text? 
-
 ## narrative …
 
-Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information to digital form. We are adapting to the idea of digital money - in search of the next boost to the conscious experience. Since the future is a scary veil of the unknown, there is a lot to learn from our past. 
+How did the monetary system perpetuate scribing and vice-versa? What motivations led to preservation of information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth - before putting into text? 
 
-Exploring a similar event - when we embraced gold and the written word - is a good option, I guess, to compass our AI driven future - that might run on bitcoin value exchange ... [more](./thought.md)
+
+Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information to digital form. We are adapting to the idea of storing value in cyberspace - in search of the next boost to the conscious experience. 
+
+> The future is unknown, if we didn't learn from the past. 
 
 
 ## notes and stuff …

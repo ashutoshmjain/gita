@@ -10,7 +10,7 @@ Text was the new way - to store manifolds of lore. An alternative to old spoken 
 
 ![](./mahabharata-book.png)
 
-> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. To put it in perspective, it is about ten times the size of Iliad and Odyssey combined. 
+> With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. 
 
 </div>
 
@@ -22,15 +22,15 @@ Back then, when stories were only told, it took a series of eighteen books to co
 
 Size was important - to attain the threshold for embedding text in human brain. Text was ultimate challenge to most exquisite neural network - evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual and exchange must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti`[^srishti]). 
+And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual (and exchange) of information must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti`[^srishti]). 
 
 The purpose to scribe history in a portable narrative led to first engineered scripting language -`Bramhi Lipi`. Name suggests, the script was a gift of all-pervading information - `Bramh`. And so were the scribing tools. Being coincidental, they built on each other - a three-way complementarity[^three] - new script, new tools, and a new style of narration - `Itihaas` (history). Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own script! Yet a masterpiece of American literature and the best-selling of Twain's works. 
 
-There are many other examples where artifacts shine because of unique dualities they resolve, but it is hard to find a three-way initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world:
+There are many other examples where artifacts shine because of unique dualities they resolve, but it is hard to find a trifecta/initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world:
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-"C" programming language and modern keyboards[^c] came into shape alongside Unix - a three-way complementarity. A new language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
+"C" programming language and modern keyboards[^c] came into shape alongside Unix - a three-way complementarity. A tech-trifecta - new programming language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
 Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to box Unix into one hardware, Unix-like systems run on widest variety of architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. First separation of digital layer over physical.
 
@@ -52,18 +52,18 @@ The idea of sentient beings, living in the realms of artificial intelligence isn
 
 > Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
 
-In a way, science has now accepted consciousness is separate from the material. It proves existence of a subtle entity distinct from the physically observable. What exactly is that -  is still unknown. We still can't put our arms around this mysterious entity, but science is now ready to steelman the ideas concerning consciousness. If AGI bots are destined to have consciousness, a compelling idea is what would be their perception of underlying digital infrastructure? 
+In a way, science has now accepted consciousness is separate from the material. It proves existence of a subtle entity distinct from the physically observable. What exactly is that -  is still unknown. We still can't put our arms around this mysterious entity, but science is now ready to steelman the ideas concerning consciousness. If AGI bots are destined to have consciousness, a compelling question is what would be their perception of underlying digital infrastructure? 
 
-**Wouldn't they  relate to an operating system as we do to primitive scriptures ? 
+**Wouldn't they  relate to an operating system as we do to primitive scriptures?**
 
 An operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. 
 
-From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface - as a time tested template to begin with :
+From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface - as a time tested template - at least to begin with :
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
  - Water as the software that surrounds most of the Earth just as OS kernel encapsulates the hardware.
  - Air as the I/O -  information input and output (inhale and exhale) that they are designed to process. 
 
-That may make one think if our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe and the smell we inhale, is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
+That may make one think if our own interface (Earth, Water and Air) has a deeper meaning ?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`) - maybe the air that we breathe is what we are here to process. Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
 
 </div>
 

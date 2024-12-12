@@ -88,9 +88,9 @@ In an estimate, a hundred-page scripture, painted on human size frames, used to 
 How did the monetary system perpetuate scribing and vice-versa? What motivations led to preservation of information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth - before putting into text? 
 
 
-Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information to digital form. We are adapting to the idea of storing value in cyberspace - in search of the next boost to the conscious experience. 
+Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are right at the middle of the 10k cycle turning our physical information to digital form. We are adapting to the idea of storing value in cyberspace - just as we did with gold in the "real" space.
 
-> The future is unknown, if we didn't learn from the past. 
+> History is a window into the future -- because universe is a continuum! .. a spherical one or circular (-:-) . Or the one shaped like a [Torus](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/#:~:text=Some%20cosmologists%20have%20explored%20the,a%20giant%20torus%20or%20donut.&text=Around%202%2C500%20years%20ago%20humankind,universe%20is%20not%20clear%2C%20however.)?
 
 
 ## notes and stuff …

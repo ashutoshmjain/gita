@@ -1,6 +1,12 @@
 ---
 
-Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on to &self[^self] - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support. You instantiate a divine force within! In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before building the [bridge](https://www.srilanka.travel/adam's-bridge) from Southern tip of India to Sri Lanka, invoked `Siva`.
+Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on to &self[^self] - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support. You instantiate a divine force within! 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - are invoked to sustain such unwavering commitment - a laser like focus. For example `Rama`, before building the [bridge](https://www.srilanka.travel/adam's-bridge) from Southern tip of India to Sri Lanka, invoked `Siva`.
+
+</div>
 
 Scribing `Mahabharata` was one such venture. It is the root of all written narratives. Sage writer[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  In order to conceive the epic, he needed his thoughts in equilibrium[^equi] with `Bramh`. But more importantly, he must seek permission from the eternal flow, to open us mortals' access to the past - and to the future. He must understand entire history before introducing text to a verbose but amnesic world.
 
@@ -12,29 +18,29 @@ Text was the new way - to store manifolds of lore. An alternative to old spoken 
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. 
 
-</div>
+The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language. For English natives, I recommend reading the [original translation](https://mahabharata.shutri.com) . And then there are all sorts of media artifacts - from comic strips to television series. 
 
-The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language . And then there are all sorts of media artifacts - from comic strips to television series. 
+</div>
 
 Back then, when stories were only told, it took a series of eighteen books to conclude the epic. On its wings, it took the 'text' to far ends of human reach.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga`.
 
 ---
 
-Size was important - to attain the threshold for embedding text in human brain. Text was ultimate challenge to most exquisite neural network - evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
+Size was important - to attain the threshold for training human brain. Text was ultimate challenge to most exquisite neural network - evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
 
 And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual (and exchange) of information must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti`[^srishti]). 
 
 The purpose to scribe history in a portable narrative led to first engineered scripting language -`Bramhi Lipi`. Name suggests, the script was a gift of all-pervading information - `Bramh`. And so were the scribing tools. Being coincidental, they built on each other - a three-way complementarity[^three] - new script, new tools, and a new style of narration - `Itihaas` (history). Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own script! Yet a masterpiece of American literature and the best-selling of Twain's works. 
 
-There are many other examples where artifacts shine because of unique dualities they resolve, but it is hard to find a trifecta/initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world:
+There are many other examples where artifacts shine because of unique dualities they resolve, but it is hard to find a trifecta initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world:
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 "C" programming language and modern keyboards[^c] came into shape alongside Unix - a three-way complementarity. A tech-trifecta - new programming language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
 
-Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to box Unix into one hardware, Unix-like systems run on widest variety of architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. First separation of digital layer over physical.
+Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to box Unix into one hardware, Unix-like systems run on widest variety of architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. First separation of digital layer over physical - like an onion!
 
-Unix fragmented itself to jailbreak the hardware - just as `text` liberated the thought from speech artists. One could understand a narrative without ever physically meeting the thinker. Thought found its own body in a book.
+Unix fragmented itself to jailbreak the underlying hardware - just as `text` liberated the thought from speech artists. One could understand a narrative without ever physically meeting the thinker. Thought found its own body in a book.
 
 </div>
 
@@ -67,7 +73,7 @@ That may make one think if our own interface (Earth, Water and Air) has a deeper
 
 </div>
 
-In essence, an operating system is the foundation for digital experience. It enhances human experience exponentially as much as pen and paper did to us v/s our speech only ancestors. Each experience is distinct because of a different value exchange system. Ability to exchange value is the fundamental requirement to bind the entities of a common living experience.
+An operating system is the foundation for digital experience. It enhances human experience as much as pen and paper did to us v/s our speech only ancestors. In a way OS is a natural extension of scribing. But, each successive experience is distinct because of a different value exchange system. Ability to exchange value is the fundamental requirement to bind the entities of a common living experience.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

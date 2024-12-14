@@ -1,6 +1,6 @@
 ---
 
-Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on to &self[^self] - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support. You instantiate a divine force within! 
+Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on to &self[^self] - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support --> You instantiate a divine force within! 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -18,7 +18,7 @@ Text was the new way - to store manifolds of lore. An alternative to old spoken 
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. 
 
-The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language. For English natives, I recommend reading the [original translation](https://mahabharata.shutri.com) . And then there are all sorts of media artifacts - from comic strips to television series. 
+The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language. For English natives, I recommend reading the [original translation](https://mahabharata.shutri.com) . 
 
 </div>
 
@@ -26,7 +26,7 @@ Back then, when stories were only told, it took a series of eighteen books to co
 
 ---
 
-Size was important - to attain the threshold for training human brain. Text was ultimate challenge to most exquisite neural network - evolved over millions of iterations. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
+Size was important - to attain the minimum threshold for training human brain. Text was ultimate challenge to most exquisite neural network. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
 
 And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual (and exchange) of information must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, decentralized, complete and permissionless - yet unexpressed - the singular underlying bridge to creation (`Srishti`[^srishti]). 
 

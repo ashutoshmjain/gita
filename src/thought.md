@@ -17,8 +17,8 @@ Text was the new way - to store manifolds of lore. An alternative to old spoken 
 ![](./mahabharata-book.png)
 
 > With around 1.8 million words, [Mahabharata](https://mahabharata.shutri.com) remains the last frontier for the readers and poets. It is the longest poem ever scribed, in any language, old or new. 
-
-The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language. For English natives, I recommend reading the [original translation](https://mahabharata.shutri.com) . 
+>
+> The proof of work is in the craft.  Even today, it is not uncommon to learn `Sanskrit` (as intended) - just to enjoy original text.  For those less keen, there are translations in almost every language. For English natives, I recommend reading the [original translation](https://mahabharata.shutri.com) . 
 
 </div>
 

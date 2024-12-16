@@ -154,16 +154,14 @@ The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You can use the donation box below to send money in `Satoshies` - commonly called `Sats`. Sats are convenient because there is no credit card involved or computations for the exchange rates - it is one simple global money for the internet.
 
 <lightning-widget 
-  name="" 
+  name="gita.shutri.com" 
   accent="#f9ce00" 
   to="shutosha@primal.net" 
-  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+  image="https://nostrcheck.me/media/5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4/49ff6d00cb5bc819cd19f77783d4815fbd46a5b99b6fbdead1eaecfab798187b.webp" 
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
 
-To send Sats with above widget, you will need a "lighning wallet" . I normally use [Alby](https://getalby.com) as a browser extension on desktops. On mobile phones, the choices are endless. Depending upon your jurisdiction - a simple "lightning wallet" search in your app store, would show you all the options.
-
-You can leave a small note with lightning payments though all transactions are practically private. Which means I can't know who sent the money unless you leave a clue in the message.
+To send Sats with above widget, you will need a "lighning wallet" . Please visit for [free lighning address](https://lightningaddress.com/).
 
 ## notes and other stuff:
 

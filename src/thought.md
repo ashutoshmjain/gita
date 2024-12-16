@@ -106,7 +106,7 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 How did `Dwaipayana` manage to write such epic(s) at a time when scribing, in itself, was a challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar[^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] (the elephant God). `Adi Parva` describes this story in all its poetical glory. Here is an excerpt from `Kisari Mohan Ganguly's` translation -
+The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] - the elephant God - the superior intelligence we described in previous chapter. `Adi Parva`, the fist book, describes the immensity of this incident - in poetry beyond ordinary intellect. Here is an excerpt from `Kisari Mohan Ganguly's` translation -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -161,7 +161,7 @@ The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siv
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the implications.  Not only did the mode of communication change from "face to face" live conversation to  "offline", the written word rendered the narrative timeless. It enabled humans send the information to the future. And those living in the future, it offered a ladder back into past  - a gift thus far limited to the gods - ability to traverse the continuum !
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the implications.  Not only did the mode of communication change from "face to face" live conversation to  "offline", the written word rendered the narrative timeless. It enabled humans send the information to the future. And to those living in the future, it offered a ladder back into past  - a gift thus far limited to the gods - ability to traverse the continuum with in confines of mind!
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -178,7 +178,7 @@ A story works where a text book fails.
 
 The information in `Bramh` is held with in the interrelationships of manifested entities. A woman is someone's mother , a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by social graph - connections with place of birth, education institute , employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - entirety of information.
 
-While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters. It invites us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. A popular novel gradually builds a hero and a villain for a face-off in the climax. `Mahabharata` developed thousands of characters. Hundreds of heroes and anti-heroes to hold the information in a mesh of smaller stories - a narrative of narratives - history. A thick slice of continuum frozen in text. The outcome was profound - human mind adopted text as medium of history - conversational memory of spoken words lost its significance. With it barter ..
+While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters. It invites us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. A typical novel builds a hero and a villain for a face-off in the climax. `Mahabharata` developed thousands of characters. Hundreds of heroes and anti-heroes to hold the information in a mesh of smaller stories - a narrative of narratives - history. A thick slice of continuum frozen in text. The outcome was profound - human mind adopted text as medium of history - conversational memory of spoken words lost its significance. With it barter ..
 
 This idea percolated quickly beyond races, geographies and cultures. Narratives would navigate human communities, and pan-generational endeavours. All future ideologies (religions or faculties of science) must be built on a rock solid treatise - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, narratives led to human subspecies - monks, doctors, engineers , builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative.
 

@@ -106,7 +106,7 @@ His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the n
 
 How did `Dwaipayana` manage to write such epic(s) at a time when scribing, in itself, was a challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar[^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 
-The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siva's`[^siva] son `Ganesa`[^ganesa] - the elephant God - the superior intelligence we described in previous chapter. `Adi Parva`, the fist book, describes the immensity of this incident - in poetry beyond ordinary intellect. Here is an excerpt from `Kisari Mohan Ganguly's` translation -
+The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Ganesa`[^ganesa] - `Siva's`[^siva] son - the superior intelligence we described in previous chapter. `Adi Parva`, the first book, details the immensity of this incident in the very first chapter. Here is an excerpt from `Kisari Mohan Ganguly's` translation -
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -166,7 +166,7 @@ The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Siv
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-🔎 In the beginning, spoken words  and actions were synchronous[^word]. There was no secret vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from actions, there was no way to freeze them. `Dwaipayana` manifested the thoughts into written words. A narrative is an abstraction over physical actions. It is a frozen slice of continuum for reference in the future.  
+🔎 In the beginning, spoken words  and actions were synchronous[^word]. There was no vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from the actions, there was no way to freeze them - make them portable. `Dwaipayana` manifested the thoughts into written words. A written narrative was thus an abstraction over physical actions. It was a frozen slice of continuum for reference in the future - and was could travel at the speed of the fastest horse!
 
 No one could, however, fathom that humans, empowered with written word, would change synchronous barter to a new system of exchange - gold. One that would allow value exchange across time and space.  It was hard to imagine at that time that value-exchange always follows the properties of communication protocol ! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-exchange protocol must follow the suite.
 
@@ -176,11 +176,11 @@ No one could, however, fathom that humans, empowered with written word, would ch
 
 A story works where a text book fails. 
 
-The information, in `Bramh`, is held with in the interrelationships of manifested entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - entirety of information.
+The information, in `Bramh`, is held with in the interrelationships of manifested entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information.
 
 While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. `Dwaipayana` could develop thousands of characters - hundreds of heroes and anti-heroes - because it was history of reality - truth.  
 
-> When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story!
+> When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story - exactly as it happened!
 >
 > No one knows for sure if `Dwaipayana` intentionally chose to present history in a fictional format (`Mahabharata`), but we all know there is no bigger fiction than the reality itself !
 
@@ -190,11 +190,11 @@ This hybrid world is different from that of animals - a step-up even from our "s
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Karma` are the actions that transitions information into knowledge[^knowledge] - ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, we train our  biological neural network - in narrative(s) of our choice.
+`Karma` are the actions that transitions information into knowledge[^knowledge] - full ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, with a continuous feedback loop, we train our  biological neural network - in narrative(s) of our choice.
 
 A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration to the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work to proof of work !
 
-It doesn't matter what work you do - what matters is how you do it !
+It doesn't matter what work you do - what matters is how consistently you do it !
 
 </div>
 
@@ -202,7 +202,7 @@ It doesn't matter what work you do - what matters is how you do it !
 
 > One who regulates the consumption senses with mind, and initiates `Yazna`. Always engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
 
-Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - an oblation to the deities of a specific endeavour - as a humble submission to their truthful narration.
+Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - an oblation to the practitioners and principals of a specific endeavour - as a humble submission to their truthful narration.
 
 ## notes and stuff …
 

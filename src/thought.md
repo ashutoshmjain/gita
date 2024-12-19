@@ -202,7 +202,7 @@ It doesn't matter what work you do - what matters is how consistently you do it 
 
 > One who regulates the consumption senses with mind, and initiates `Yazna`. Always engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
 
-Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - an oblation to the practitioners and principals of a specific endeavour - as a humble submission to their truthful narration.
+Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - an oblation to the principals of a specific endeavour - as a humble submission to their truthful narration - for giving thoughts a body of their own !
 
 ## notes and stuff …
 

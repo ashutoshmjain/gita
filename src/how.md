@@ -24,6 +24,7 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 - search the publication using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
 - turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>. On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
+- The theme selection (brush icon) is currently disabled.
 
 ## Content:
 
@@ -136,7 +137,7 @@ The net of this license is as below
 
 The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
-## Style 
+## Style and motivations:
 
 - The content is designed for reading in a desktop or tablet[^tablet] browser.
 - I normally use maroon color for  `Hindi` or `Sanskrit`.  
@@ -144,7 +145,7 @@ The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 - The background color is Gold #f9ce00
 - The font is Alkatra.
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
-- I avoid citations as much as possible. It is not a narrative chasing accuracy. The goal is to imagine scenario before we adopted written word as primary store of information. There is obviously no written history to refer to.
+- I avoid citations as much as possible. It is not a narrative chasing accuracy. The goal is to imagine scenario around the time we adopted written word - as primary store of information. There is obviously no written history to refer to.
 - Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus, order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
 - The goal is not to impart `Gita`. And for a good reason — no one may ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek the information that writer withheld to avoid "stating the obvious". After thousands of years, we now crave for that information - events that led to scribing.
 - Footnotes[^foot] are used to improve the reader flow. They do carry useful information. If you happen to skip-over, I suggest running by them after finishing the chapter. 
@@ -154,14 +155,14 @@ The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You can use the donation box below to send money in `Satoshies` - commonly called `Sats`. Sats are convenient because there is no credit card involved or computations for the exchange rates - it is one simple global money for the internet.
 
 <lightning-widget 
-  name="gita.shutri.com" 
+  name="Thanks for supporting the publication" 
   accent="#f9ce00" 
   to="shutosha@primal.net" 
   image="https://nostrcheck.me/media/5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4/49ff6d00cb5bc819cd19f77783d4815fbd46a5b99b6fbdead1eaecfab798187b.webp" 
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
 
-To send Sats with above widget, you will need a "lighning wallet" . Please visit for [free lighning address](https://lightningaddress.com/).
+To send Sats with above widget, you will need a "lighning wallet" . Please visit [free lighning address](https://lightningaddress.com/) for a choice of wallets. Wallets are available for pretty much every platform and jurisdiction. They are are extremely easy to install. One of the motivation of this publication is to promote the usage of Sats as a medium of monetary exchange.
 
 ## notes and other stuff:
 

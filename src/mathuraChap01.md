@@ -19,13 +19,13 @@ Why would they turn against me ? - `Bramhrishi` thought!
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-On the surface, it appears the contest is between the `old` and the `new`. 
+On the surface, it appears the contest is between the `old guard` and the `new innovation`. 
 
-Old seeking to maintain a status quo while the new aspiring for the better. But the truth is they love the new, like we see our future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
+Old seeks to maintain a status quo to ensure a safe passage of their knowledge (wealth) to the new. The truth is we see our future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
-In a way, the mishap marks the beginning of the transition - start of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples [^history] in our recent past though a keen observer may see them in her own backyard.
+In a way, the mishap marks the beginning of the transition - start of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples[^history]  in our recent past though a keen observers may see them in their own backyard.
 
-They occur for the consciousness must evolve to understand the nature of unity [^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
+They occur for the consciousness must evolve to understand the nature of unity[^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 
 > `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future - the continuum `Bramh`. In that it also means "fate", because the fate had commenced before the material event physically occurred.
 

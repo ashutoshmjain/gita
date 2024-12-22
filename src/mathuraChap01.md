@@ -9,11 +9,11 @@ Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi 
 
 > Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly `Aacharyas` (the faculty members), as his true-born ! 
 
-`Mathura` - the budding city, saw her first mishap. The epitome of knowledge hubs was in full bloodbath.  Fortunately `Adrushyanti`, his daughter-in-law survived the ghastly massacre. She was carrying yet to be born `Parāśara` - couple of months into conception. The young woman turned a widow even before rituals of her motherhood.
+`Mathura` - the budding city, saw her first mishap. Fortunately `Adrushyanti`, his daughter-in-law survived the ghastly massacre. She was carrying yet to be born `Parāśara` - couple of months into conception. The young woman turned a widow even before rituals of her motherhood.
 
 Despite his connect with continuum - the cyclic play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse. 
 
-More he thought, more he saw himself at the root of this conflict. That he must have incurred an error to warrant such a backlash - from the very people he was trying to salvage - his old.  Not by age - by lifestyle and the myths they chose to live by! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses - to think deeper than the recent past, or plan ahead of immediate future. They believed in old stories (`Puranas`) as the word of God. And they believed in barter - to its extreme - an eye for an eye. 
+More he thought, more he saw himself at the root of this conflict. That he must have incurred a mistake to warrant such a backlash - from the very people he was trying to salvage - his old.  Not by age - by lifestyle - and the myths they chose to live by! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses - to think deeper than the recent past, or plan ahead of immediate future. They believed in old stories (`Puranas`) as the word of God. And they believed in barter - to its extreme - an eye for an eye. 
 
 Why would they turn against me ? - `Bramhrishi` thought!
 
@@ -21,11 +21,11 @@ Why would they turn against me ? - `Bramhrishi` thought!
 
 On the surface, it appears the contest is between the `old guard` and the `new innovation`. 
 
-Old seeks to maintain a status quo to ensure a safe passage of their knowledge (wealth) to the new. The truth is we see our future in our children. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
+Old seeks to maintain a status quo to ensure a safe passage of their knowledge (wealth) to the new. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
 In a way, the mishap marks the beginning of the transition - start of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples[^history]  in our recent past though a keen observers may see them in their own backyard.
 
-They occur for the consciousness must evolve to understand the nature of unity[^unit]. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
+They occur for the consciousness must evolve to understand the nature of unity[^unit] - the smallest common factor. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 
 > `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future - the continuum `Bramh`. In that it also means "fate", because the fate had commenced before the material event physically occurred.
 
@@ -205,19 +205,19 @@ And there was a good reason for intense focus on recital. Memories couldn't be s
 
 ---
 
-[^history]: Evolutionary troughs of current history - examples:
-- IBM was the old. Microsoft and Apple battled for superiority in computing as contenders for new leadership title. For the observes in late 80s it appeared as if big blue is fighting Apple (and later Microsoft) but that was just a trigger. The fact that biggest tech company of that time got rattled by the new paradigm in personal computing was a trigger for Microsoft and Apple to take point on each other.
+[^history]:   Battles between old and new in recent history:
+- IBM was the old. Microsoft and Apple battled for superiority in computing as contenders for new leadership title.  For an observes in late 80s it appeared as if big blue is fighting Apple (and later Microsoft) but that was just a trigger.  The real battle was between Apple and Microsoft.
 - Laptop was old, the newcomers iOS and Android are battling for superiority in mobile computing. For quite some time it felt like mobile devices were the PC killers, but the truth is battle is never between the old and the new. It is always amongst many new contenders. 
-- It appears as if Internal combustion engine is at odds with the EVs or the hydrogen fuel cells. Though the truth is fossil fuel industry will be the biggest investors in sustainable future in times to come because they know first hand about the shift. Sustainable energy is the opportunity for OPEC and Refiners because someone needs to do the work, and they are best positioned to take advantage of this massive opportunity. The real battle is amongst EV brands - Tesla , Rivian , NIO and hundreds more who throw their hats in this race. I guess Apple will soon launch a car. Google will have another Android business model to empower all the traditional players with its EV and FSD platforms.
-- Gold is old. It appears that bitcoin is trying to replace Gold. But that is not true. The real battle is with in Cryptos - BTC vs Ether vs Sol vs so many other possibilities. When the dust settles, we will see Gold has its  own role to play just like laptop has its own role in the increasingly mobile world though the primary reserve will shift to one of the cryptos that emerges victor in this new battle of the century. Nation states have an important choice to make at this juncture - Try to kill crypto and embrace a financial obsolescence or welcome the future store of value and align themselves with the potential winner. They also need to understand that they need not try to turn their currencies into a store of value - currencies have a very different purpose in economy.
+- It appears as big oil is at odds with the EVs or the hydrogen fuel cells. Though the truth is fossil fuel industry will be the biggest investors in sustainable future  - because they know first hand about the shift. Sustainable energy is the opportunity for refiners because someone needs to do the work, and they are best positioned to take advantage of this massive opportunity. The real battle is amongst  Solar, Wind , Nuclear and Hydrogen. 
+- Gold is old. It appears that bitcoin is trying to replace Gold. But that is not true. The real battle is with in Cryptos - BTC vs Ether vs Sol vs so many other possibilities. When the dust settles, we will see Gold has its  own role to play just like laptop has its own role to play in the increasingly mobile world.
 
 ---
 
 [^unit]: A unit is an immutable part of any measurement. Easy examples -  a meter is an immutable unit of length. A kilo is an immutable unit of weight. A unit is part of every measurement - it lends meaning to what is being measured - it is implicit in what is being measured. It is a multiplication that outputs exactly what is being measured.
 - Little harder example - Number “1” is the unit of multiplication itself. It is there inbuilt into every number (even zero) . It never changes the number when multiplied ->  a unit when multiplied with what is being measured , must stay inert - never change the measurement ! But you can't measure anything without a unit … no number exists without "1"
 -  Hard question -  What is the unit of consciousness ? By definition, it must be  1) immutable 2) part of every conscious being. 3) must stay inert.
-- In `Vaidik` science , `Atma` is defined as the unit of consciousness. It is immutable, inert and essential.
-- For humans, understanding `Atma` is as hard as understanding number 1 for say number 8. 
+- In `Vaidik` science , `Atma` is defined as the unit of consciousness. It is immutable, inert and essential.  For humans, understanding `Atma` is as hard as understanding number 1 for say number 8.
+
 ---
 
 [^whoIsVas]: The notion of invention at that time was different. Most religious accounts say that `Vaśiṣṭha` lived for more than a thousand years - from times to `Rama` to that of `Krishna`. A more prudent approach would be to consider `Vaśiṣṭha` was a family title rather than being an individual. A family that was responsible for remembering all that was ever invented. The knowledge was passed on generation by generation — from parents to offspring. Each generation dedicated to a sole purpose of synthesizing and cumulating the knowledge of all the basic discoveries of their time. They imparted parts of this knowledge to the followers based on their capabilities. Over a long period of many generations, the group of followers increased and turned into a community. Most of the followers spread geographically and many co-located in the `Ashrama` on the banks of `Yamuna` near city of `Mathura`.

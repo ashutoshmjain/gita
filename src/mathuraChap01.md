@@ -1,17 +1,18 @@
 
+<!-- markdownlint-disable-next-line -->
 ---
 
-Our time[^kaal] began long before `Dwaipayana's` birth - even before birth of his father `Maharishi  Parāśara` ...
+Our time began with `Bramhrishi Vaśiṣṭha`, great-grandfather of `Dwaipayana`. Three generations of sacrifice: `Bramhrishi`, `Śakti Muni` - his son, and `Maharishi Parāśara` - grandson, led the quest that culminated with `Dwaipayana`. The journey was arduous to say the least!
 
-Seven months before `Parāśara's` nativity — his grandfather — `Bramhrishi Vaśiṣṭha` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`, father of yet to be born `Parāśara`, was killed by a tribal lord. 
+Seven months before `Parāśara's` nativity — `Bramhrishi` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`was killed by a tribal lord!
 
-`Bramhrishi` was devastated. What bigger pain a man might have than his son sacrificed - in his own backyard! Even the waves of `Yamuna` - the playful dark river - felt somber that morning of mass-murder. 
+`Bramhrishi` was devastated. What bigger pain a man might have than his son sacrificed - in his own backyard! `Mathura` - the budding city, witnessed her first mishap.
 
-> Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly `Aacharyas` (the faculty members), as his true-born ! 
+> Religious accounts claim `Bramhrishi` had one hundred sons taken that fateful morning. He probably treated all his disciples, particularly `Aacharyas` (the faculty members), as his true-born !
 
-`Mathura` - the budding city, saw her first mishap. Fortunately `Adrushyanti`, his daughter-in-law survived the ghastly massacre. She was carrying yet to be born `Parāśara` - couple of months into conception. The young woman turned a widow even before rituals of her motherhood.
+Fortunately `Adrushyanti`, his daughter-in-law survived the ghastly massacre. She was carrying yet to be born `Parāśara` - couple of months into conception. The young woman turned a widow even before rituals of her motherhood!
 
-Despite his connect with continuum - the cyclic play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse. 
+Despite his connect with continuum - the cyclic play of the past, present and the future - `Bramhrishi` wasn't immune to pain. The pain of a lost child is known to be cruel of them all -  even animals cry. Remorseful `Bramhrishi`, however, didn't shed any -  as if tears froze in his mind. Time and again, he wondered about the curse.
 
 More he thought, more he saw himself at the root of this conflict. That he must have incurred a mistake to warrant such a backlash - from the very people he was trying to salvage - his old.  Not by age - by lifestyle - and the myths they chose to live by! Those who lived off the jungle and followed its rules - without any recollection of the past and none to worry in foresight. Spoken words were call to actions for them. They weren't equipped to withhold impulses - to think deeper than the recent past, or plan ahead of immediate future. They believed in old stories (`Puranas`) as the word of God. And they believed in barter - to its extreme - an eye for an eye. 
 
@@ -19,7 +20,7 @@ Why would they turn against me ? - `Bramhrishi` thought!
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-On the surface, it appears the contest is between the `old guard` and the `new innovation`. 
+On the surface, it appears the contest is between the `old guard` and the `new innovation`.
 
 Old seeks to maintain a status quo to ensure a safe passage of their knowledge (wealth) to the new. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 

@@ -1,5 +1,6 @@
 
-<!-- markdownlint-disable-next-line -->
+# 1.0
+
 ---
 
 Our time began with `Bramhrishi Vaśiṣṭha`, great-grandfather of `Dwaipayana`. Three generations of sacrifice: `Bramhrishi`, his son `Śakti Muni`, and grandson `Maharishi Parāśara`, led the quest for text that culminated in `Dwaipayana's Mahabharata`. The journey was arduous to say the least!
@@ -24,50 +25,51 @@ On the surface, it appears the contest is between the `old guard` and the `new i
 
 Old seeks to maintain a status quo to ensure a safe passage of their knowledge (wealth) to the new. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
-In a way, the mishap marks the beginning of the transition - start of a new time. It is a gun shot to initialize the race. The time begins at this moment - with battle amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples[^history]  in our recent past though a keen observers may see them in their own backyard.
+The mishap marks the beginning of the transition. It is a gun shot to initialize the race. The time begins at this moment - with battle amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples[^history]  in our recent past though a keen observer may see them in their own backyard.
 
-They occur for the consciousness must evolve to understand the nature of unity[^unit] - the smallest common factor. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
+They occur for the consciousness must evolve to understand the nature of unity[^unit] - the smallest common factor - `Atman`. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`.
 
 > `Prarbdha`, a `Sanskrit` word, means something that had already begun. It ties together the past, present and the future - the continuum `Bramh`. In that it also means "fate", because the fate had commenced before the material event physically occurred.
 
 </div>
 
-Saddened to the core, and unaware of the pregnancy, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life. 
+Saddened to the core, and unaware of the pregnancy, `Bramhrishi` tried to end his life. He miraculously survived three attempts. Probably Gods wanted to extend his life to ensure unborn `Parāśara` had a chance at life.
 
 **And more importantly, to save humanity from the loss of the knowledge locked in `Bramhrishi's` mind, for there was no written text.**
 
-The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' cognitive context -  history ! He wouldn't be able to fix the past - his old - he thought - but he sure could change the future - the new. 
+The fate - `Prarbdha` -  had thrown him a new challenge - expand humans' cognitive context -  history ! He wouldn't be able to fix the past - he thought - but he sure could change the future - the new.
 
 ## 1.1
+
 ---
 
-If modern civilization was a bullet train, then what `Vaśiṣṭha` had staged [^whoIsVas] were ‘literally’ the rails. Hard to coalesce, and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few - down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation - as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**. 
+If modern civilization was a bullet train, then what `Vaśiṣṭha` had staged[^whoIsVas] were the rails. Hard to coalesce, and even harder to decrypt neolithic knowledge - agriculture, mining, metallurgy, transport, to name a few - down to the very meaning of five elements. Pieces of entire wisdom were sharded in the collective memory of congregation - as "methods" to accomplish complex tasks. **Particularly one hundred  skills that were deemed magical**.
 
 For example, a forest dweller couldn't fathom a metal as strong as iron was extracted from grey stones - melted in big fire (furnace). Those who didn't believe in such a miracle were welcome to see the proof first hand. They called it - the magic of Sun - the god of fire and light.
 
-These hundred skills were the first set of "qualified" truths. Their authenticity proved through repeatable experiments. One of the reason people said "hundred sons" were taken that fateful morning - each of them owned one skill. The owner of a skill stream was called `Aacharya`.
+These hundred skills were the first set of qualified truths. Their authenticity proved through repeatable experiments. One of the reason people said "hundred sons" were taken that fateful morning - each of them owned one skill. The owner of a skill stream was called `Aacharya`.
 
+<!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 In `Sanskrit`, the numeral 100 (One hundred)  is spoken as `śat` (where `ś` is pronounced as in "shine", `a`  as in hut and `t` with tongue touching the teeth). In this context, it was the hundred magical skills carefully identified by `Vaśiṣṭhas`
 
-The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in "site" and rest as in `śat`). In essence, the `śat` for first hundred truths morphed into `sàt` - the pure provable truths. 
+The root phoneme for the word "Truth" is `sàt` ( where `s` is pronounced as in "site" and rest as in `śat`). In essence, the `śat` for first hundred truths morphed into `sàt` - the pure provable truths.
 
-These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` led to truth -> consistent practice led to deterministic outcomes. The definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent science. 
+These truths could be realized through a set of pre-defined actions (`Yazna`). The idea was `Yazna` led to truth -> consistent practice led to deterministic outcomes. The definition of "Truth" was something unbelievable, but provable through controlled experiments - a scientific approach to segregate false claims from rigorous truth. Understandably, those were the times of voodoo magic. Having a proven "myth buster" institute was important for nascent science.
 
-> Rich patrons from near (and far) used to send the very best to realize `śat` - the true and open source techniques. They conducted `Yaznas` to benefit from the outcomes, and shared a part of their inflows with congregation -  a consistent source of wealth to congregation. 
+> Rich patrons from near (and far) used to send the very best to realize `śat` - the true and open source techniques. They conducted `Yaznas` to benefit from the outcomes, and shared a part of their barter inflows with congregation -  a consistent source of wealth to congregation.
 >
-> Congregation not only imparted the know-how, they also indexed the barter value -> a hundred kilos of wheat for say a kilo of iron - commodity to commodity fair exchange - based on labor and bill of materials. 
+> Congregation not only imparted the know-how, they also indexed the barter value -> a hundred kilos of wheat for say a kilo of iron - commodity to commodity fair exchange - based on labor and bill of materials.
 >
-> Legend says `Vaśiṣṭhas` had a magical cow - `Kaamdhenu`. It provisioned objects of desire - on demand. The truth, however, is the knowledge was the magical cow.
-
+> Legend says `Vaśiṣṭhas` had a magical cow - `Kaamdhenu`. It provisioned objects of desire - on demand. The truth, however, is the knowledge was the magical cow. To be clear, congregation didn't really discover anything. They simply cataloged and recorded the procedure(s) through spoken word, and established the barter protocol(s).
 </div>
 
-The information was stored in accurate recital, but one must recite the method only after extensive practice. Information must be rooted in deep experiential knowledge such that it represented truth. In `Vaidik` belief system - truth was what one experienced through actions, and was realized though intense practice. Verbosity without engaging in the activity was considered a lie. No one was assumed to lie for fun. People lied because they were either lazy, or they wanted someone else to experiment first. 
+The information was stored in accurate recital, but one must recite the method only after extensive practice. Information must be rooted in deep experiential knowledge such that it represented truth. In `Vaidik` belief system - truth was what one experienced through actions, and was realized though intense practice - `Karma and Vikarma`. Verbosity - talking without engaging personally in the activity was considered a lie. No one lied for fun - because in absence of any other means of communication, sanctity of spoken words was extremely important. People lied because they were either lazy, or they wanted someone else to experiment first.
 
-The congregation was thus the reference point for truth - for various branches of innovation that appeared almost magical to the old. `Vaśiṣṭha` had it all indexed in his mind.  More importantly he knew how to kick-start an auditory store of information - a divine grace never heard before. Who would sacrifice the pleasures of life to sustain information! Why would someone gather and qualify all the know-hows -  break them down into precise spoken words (`mantras`) and set up a daily cadence to keep the methods fresh in memory? 
+The congregation was thus the reference point for truth - for various branches of innovation that appeared almost magical to the old. `Vaśiṣṭha` had it all indexed in his mind.  More importantly he knew how to kick-start an auditory store of information - a divine grace never heard before. Who would sacrifice the pleasures of life to sustain information! Why would someone gather and qualify all the know-hows -  break them down into precise spoken words (`mantras`) and set up a daily cadence to keep the methods fresh in memory?
 
-The true meaning of `Yazna` is practice of skills. Since practice was linked to daily recital, the adapted meaning became formal chanting of `mantras` - mostly in groups. For example paddy was sown only once a year, but in absence of a written down document, the method to take the crop must be recited daily - to save it in memory . In due course, to further formalize the recital, ritualistic routines were added - such as specific dress, time of the day or day of the fortnight (linked to lunar cycle). Paying homage to Sun became the starting point of ritual -  metals being the most precious discoveries, and they all needed big fire. `Gaytri Mantra` became the initiation of `Yazna`. It literally translates to 
+The true meaning of `Yazna` is practice of skills. Since practice was linked to daily recital, the adapted meaning became formal chanting of `mantras` - mostly in groups. For example paddy was sown only once a year, but in absence of a written down document, the method to take the crop must be recited daily - to save it in memory . In due course, to further formalize the recital, ritualistic routines were added - such as specific dress, time of the day or day of the fortnight (linked to lunar cycle). Paying homage to Sun became the starting point of ritual -  metals being the most precious discoveries, and they all needed big fire. `Gaytri Mantra` became the initiation of `Yazna`. It literally translates to:
 
 > May we meditate upon that splendour of Sun, best amongst the gods, he who shall lead our intellect.
 

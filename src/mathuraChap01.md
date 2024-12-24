@@ -2,7 +2,7 @@
 <!-- markdownlint-disable-next-line -->
 ---
 
-Our time began with `Bramhrishi Vaśiṣṭha`, great-grandfather of `Dwaipayana`. Three generations of sacrifice: `Bramhrishi`, `Śakti Muni` - his son, and `Maharishi Parāśara` - grandson, led the quest that culminated with `Dwaipayana`. The journey was arduous to say the least!
+Our time began with `Bramhrishi Vaśiṣṭha`, great-grandfather of `Dwaipayana`. Three generations of sacrifice: `Bramhrishi`, his son `Śakti Muni`, and grandson `Maharishi Parāśara`, led the quest for text that culminated in `Dwaipayana's Mahabharata`. The journey was arduous to say the least!
 
 Seven months before `Parāśara's` nativity — `Bramhrishi` woke up to a grotesque morning. His sprawling congregation, on the banks of river `Yamuna`,  sank into the deepest of grief, and rage. His son `Śakti Muni`was killed by a tribal lord!
 
@@ -24,7 +24,7 @@ On the surface, it appears the contest is between the `old guard` and the `new i
 
 Old seeks to maintain a status quo to ensure a safe passage of their knowledge (wealth) to the new. And the new knows the old as a dependable trustee. The shift, however, must happen, and it needs a trigger - something unwarranted -  a mishap to break the umbilical cord. Bigger the ensuing shift, bigger the mishap.
 
-In a way, the mishap marks the beginning of the transition - start of a new time. It is a gun shot to initialize the race. The battle begins at this moment amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples[^history]  in our recent past though a keen observers may see them in their own backyard.
+In a way, the mishap marks the beginning of the transition - start of a new time. It is a gun shot to initialize the race. The time begins at this moment - with battle amongst many variants of "new". In fact, many new possibilities crop up to capitalize the opportunity. Having recognized the inevitable, they all stake their claim to being righteous and thus the earnest representation of truth. This happens over and over again as in "history repeats itself". There are many examples[^history]  in our recent past though a keen observers may see them in their own backyard.
 
 They occur for the consciousness must evolve to understand the nature of unity[^unit] - the smallest common factor. A mishap is thus a mere setback before the hitherto slow breeding innovations sling into top gear. Such triggers, driven by imperceptible evolution of consciousness are said to be caused by `Prarbdha`. 
 

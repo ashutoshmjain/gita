@@ -1,33 +1,37 @@
+# 2.0
 
 ---
 
 `Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson `Parāśara`. It took three attempts on his own life to get the focus back. To our good fortune, he didn't quit. In fact, his resolve got stronger.
 
-Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus in his mother's womb! His birth brought a sliver of hope back. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent! 
+Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus in `Adrushyanti's` womb! His birth brought a sliver of hope back. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent!
 
 It was an opportunity to try out new methods. This time he wanted to scribe the recitals (`Shruties`) - to guard them against another similar catastrophe.
 
-<div style="padding-left:40px;font-size:0.9em;"> 
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
 
 The mishap leads to a systemic survival instinct, missing thus far in the new. To them, the order (and survival) was ensured by the old. At the prospect of baton being passed to them, the new realizes, their struggle was never for the cause they thought it was. It was for themselves - to understand "who they are". Their situation was different from their olds. Their "new ideas" were not a solution for the old(er) problems, they were the plumbing for a new order. They must account for the stability of new regime.
 
-> This new casting of self is the evolution of consciousness. We don't get a new pair of eyes, but we parse things differently under a new filter. The survivor [^survivor] wins and only the evolved survives. 
+> This new casting of self - realization of one's duties (`Karma`) - is the evolution of consciousness. We don't get a new pair of eyes, but we parse things differently under a new filter. The survivor[^survivor] wins and only the evolved survives.
 
-Since altruistic behaviours leads to formation of larger subset(s), it appears they form better evolved outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`. All the possible configurations (of ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight [^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
+Since altruistic behaviours lead to formation of larger subset(s), it appears they form better evolved outfits, but it's not a rule. The evolution of organization normally depends on its ability to drive voluntary consensus - `Siva`. All the possible configurations (of ideas, behaviours and leadership styles), including those with apparently altruistic motives, must fight[^fight] to find the one that survives against all odds. The fight may happen in a physical field, on the ballot box, stock market or on the resilience of currency, the goal is always to find a winner and to recast their motivations. The crowning is a "rebirth" - and must they reincarnate with their own provisions of recovery (and reboot).
 
 </div>
 
-Scribing (in early `Devnagri` - `Bramhi Lipi`) was an optional that only few took after completing their normal speech courses - at the age of twenty plus or so. Their goal - to find an official scribe position in king's court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle. The number system was in place during the vocal times - as early as `Ramayana` [^numbers]. The text for number system developed before the idea of scribing a narrative in long form. The other, and probably more important piece of job description was to maintain the official stamps, and to register exchange notes for barter - to guarantee the transactions. For example if someone agreed to provide 100 kilos of wheat in exchange of a cow - how to make sure exchange happened without any dispute. Such arrangements - particularly in case of high value exchange - were ensured through king's stamp - or one maintained by the local lord. 
+Scribing (in early `Devnagri` - `Bramhi Lipi`) was an optional that only few took after completing their normal speech courses - at the age of twenty plus or so. Their goal - to find an official scribe position in king's court or a wealthy patron - to send pigeons or to maintain the accounts of the cattle. The number system was in place during the vocal times - as early as `Ramayana`[^numbers]. The text for number system developed before the idea of scribing a narrative in long form. The other and probably more important piece of job description was to maintain the official stamps, and to register exchange notes for barter - to guarantee the transactions. For example if someone agreed to provide 100 bushels of wheat in exchange for a cow - how to make sure exchange happened without any dispute. Such arrangements - particularly in case of high value exchange - were ensured through king's stamp - or one maintained by the local lord.
 
-<div style="padding-left:40px;font-size:0.9em;"> 
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
 
 In modern times, escrow is the most important financial arrangement in global trade - to enable unknown parties honour a high value transaction. The reason escrow services exist is there is always a time lag between delivery of goods and subsequent payment. A period that needs some sort of insurance from a common trusted third party - normally holding a position of power (sovereign government) or immense wealth (large bank). As we adopted gold as a store of value, the written (promissory) note became the basis of escrow. With bitcoin the escrow functions may be handled through smart contracts.
 
 </div>
 
-Young `Parāśara` had the advantage of full attention of his grandfather, though life for him was harder. He was expected to scribe in addition to speech training. `Vaśiṣṭha` wanted `Parāśara` to learn calligraphy simultaneously as he learnt to speak - somewhat like our education system where we start with "A for Apple". 
+Young `Parāśara` had the advantage of full attention of his grandfather, though life for him was harder. He was expected to scribe in addition to speech training. `Vaśiṣṭha` wanted `Parāśara` to learn calligraphy simultaneously as he learnt to speak - somewhat like our education system where we start with "A for Apple".
 
-<div style="padding-left:40px;font-size:0.9em;"> 
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
 
 We show our younger ones a written symbol of letter "A" together with a picture of "Apple", and have them speak both. The knowledge of written symbols starts long before a child actually holds a pen. We create an association of a specific sound with a selected text - "A" is a sound as well as a written symbol. In our text enabled minds, they are reflection of each other.
 
@@ -35,30 +39,33 @@ A sound with its written reflection is the most granular unit of our information
 
 </div>
 
-The most crucial phase of education, is a child's first exposure to the spoken words. The `Sanskaras` (core orientation), are said to be formed at this stage. In `Hindu` mythology, it is a common belief that a fetus may listen to her mother's thoughts. That is one reason, mother is considered the first teacher and mother tongue as the language of thought. 
+The most crucial phase of education, is a child's first exposure to the spoken words. The `Sanskaras` (core orientation), are said to be formed at this stage. In `Hindu` mythology, it is a common belief that a fetus may listen to her mother's thoughts. That is one reason, mother is considered the first teacher and mother tongue as the language of thought.
 
-The formation of "core orientations" with nascent spoken words is as old as the human race. Adding a twist of "written text" in this training model was `Vaśiṣṭha's` contribution. This is what excited him in his rebooted reality - passion for a new purpose ! This new communication protocol had far reaching implications ...
+The formation of "core orientations" with nascent spoken words is as old as the human race. Adding a twist of "written text" in this training model was `Vaśiṣṭha's` contribution. This is what excited him in his rebooted reality - passion for a new purpose ! This new communication protocol had far-reaching implications ...
   
-<div style="padding-left:40px;font-size:0.9em;"> 
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
 
-In last hundred years, education has seen tremendous growth. The modern online platforms have come a long way, but most of the innovations deal with grownups. Despite thousands of years, the boot strapping of human mind is almost unaltered. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object. 
+In last hundred years, education has seen tremendous growth. The modern online platforms have come a long way, but most of the innovations deal with grownups. Despite thousands of years, the bootstrapping of human mind is almost unaltered. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object.
 
-This three dimensional reference model - sound, text, and sensory confirmation (visual and touch) -  is central to training the large language models that we carry in our brains - consciousness. It is order of magnitude potent than the speech only model that was the basis of barter value exchange - limited to synchronous dialog. 
+This three-dimensional reference model - sound, text, and sensory confirmation (visual and touch) -  is central to training the large language models that we carry in our brains - consciousness. It is order of magnitude potent than the speech only model that was the basis of barter value exchange - limited to synchronous dialog.
 
 </div>
 
-`Brmahrishi` wanted to increase the longevity of information and hence the window of value exchange. With vocals, the information was short-lived. With text, it could be stored for longer. Humans could send the information to the future generations. But he appreciated that the idea of text, in itself, was a gift of the deities. It was as if deities from a more intelligent future lent him tools - to fill up the gaps in their own history. 
+`Brmahrishi` wanted to increase the longevity of information and hence the window of value exchange. With vocals, the information was short-lived. With text, it could be stored for longer. Humans could send the information to the future generations. But he appreciated that the idea of text, in itself, was a gift of the deities. It was as if deities from a more intelligent future lent him tools - to fill up the gaps in their own history.
 
-<div style="padding-left:40px;font-size:0.9em;"> 
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
 
-With advent of digital storage, we might presume information is stored for ever. Nothing could be farther from the truth. Digital information is highly perishable. The average age of a corporate application is three to four years. This is particularly true in case of financial and health records where providers are forced to purge after max retention - normally seven years. The reason is simple - storage has a cost, and migration from one system to another is messy. One of the reason Bitcoin is gaining momentum is it promises eternal immutability to information - `Bramhrishi's` dream is finally taking shape in digital realm too !
+With advent of digital storage, we might presume information is stored forever. Nothing could be farther from the truth. Digital information is highly perishable. The average age of a corporate application is three to four years. This is particularly true in case of financial and health records where providers are forced to purge after max retention - normally seven years. The reason is simple - storage has a cost, and migration from one system to another is messy. One of the reason Bitcoin is gaining momentum is it promises eternal immutability to information - `Bramhrishi's` dream is finally taking shape in digital realm too !
 
 </div>
 
 ## 2.1
+
 ---
 
-Despite this path-breaking idea, `Bramhrishi` stayed humble for what he discovered was only an adaptation - not an original idea. It was inspired from the conception of "music". In music, a note is identified with a name -  `Sa Re Ga Ma` or `Do Re Me Sa` are nothing but the names for seven eternal sounds. In `Hindu` mythology, `Siva` created `Raaga` (vocal music) as fundamental art form. On the same lines, `Vasishtha` named the written symbols. `Siva` abstracted the sound ; `Vaśiṣṭha` abstracted the text. However, he went a step further - unlike music that was meant for the gifted, text was for the masses. He added the idea of text into `Sanskaras` - the first learning steps - a change in the core training model for human mind. 
+Despite this path-breaking idea, `Bramhrishi` stayed humble for what he discovered was only an adaptation - not an original idea. It was inspired from the conception of "music". In music, a note is identified with a name -  `Sa Re Ga Ma` or `Do Re Me Sa` are nothing but the names for seven eternal sounds. In `Hindu` mythology, `Siva` created `Raaga` (vocal music) as fundamental art form. On the same lines, `Vasishtha` named the written symbols. `Siva` abstracted the sound ; `Vaśiṣṭha` abstracted the text. However, he went a step further - unlike music that was meant for the gifted, text was for the masses. He added the idea of text into `Sanskaras` - the first learning steps - a change in the core training model for human mind.
 
 A human brain has larger numbers of neural synapses [^synapses] than popular large language models.  Amazing thing is all our neurons are pre-created at the time of birth - approximately 100 billion of them. In other words - the birth of a human child is similar to creating the most powerful self learning AI system - only more. The process of learning is nothing but forming connections within these neurons [^neurogenesis]. And we create most of the neural connections during early childhood. In `Vaidik` science, these early childhood connections are known as `Sanskaras`. This is one reason, in `Vaidik` times, the family name was of utmost importance. It was called `Gotra`. The observation must have been - if a child continued to follow the skills of parents - as determined by their `Gotra` - they accomplished higher orders of acumen. `Vaśiṣṭha` too is a family name. `Bramhrishi` was the tenth generation of family of `Vaśiṣṭhas`. `Parāśara` was twelfth.
 
@@ -68,16 +75,17 @@ The grandfather used to take `Parāśara` to the river for a daily bath. He ofte
 
 `Vaśiṣṭha` obviously had no clue how and who would scribe entire information, for `Devnagari` back then supported only eight [^eight] rudimentary sounds, just enough to send cryptic pigeon messages. He probably knew more symbols were needed if the intent of scripture was to be meaningfully conveyed. He also knew a mighty ocean started with a single droplet. His aspiration was to see `Parāśara` as first child natively raised with speech and text - hand in hand. He probably wanted to understand if it was even possible? And if it was, then what is the effect on learning? No wonder the skeptics must have raised doubts - just like it happened with calculator, television and computer in our times.
 
-He sure knew if he successfully trained one child for the written word, then many others would follow suit. And if text caught up, then writing all the `shruties`[^shruti] would be a shared effort. If scriptures were written at distant places, it would be impossible to destroy them. Instead of transcribing information on temple walls himself, he wanted to enable all humans to transcribe. Empowering people through "speak and scribe" (`Akshar Gyaan`) - he saw -  as an insurance against similar disasters! This idea - ordinary it may sound today - was the genesis of civilized world - a fork from the old rules of jungle. It was by design permission less and intended to resist censor. 
+He sure knew if he successfully trained one child for the written word, then many others would follow suit. And if text caught up, then writing all the `shruties`[^shruti] would be a shared effort. If scriptures were written at distant places, it would be impossible to destroy them. Instead of transcribing information on temple walls himself, he wanted to enable all humans to transcribe. Empowering people through "speak and scribe" (`Akshar Gyaan`) - he saw -  as an insurance against similar disasters! This idea - ordinary it may sound today - was the genesis of civilized world - a fork from the old rules of jungle. It was by design permission less and intended to resist censor.
 
 ## 2.2
+
 ---
 
 A typical path for aspiring students (`Vidyarathi`), seeking proficiency in authentic recital, was to join a congregation (`Ashrama`), on a full-time live-in basis. Life in an `Ashrama` was tough. Students were expected to follow a tight celibate routine - full of chores and services. Before they got to the lessons, they must prove themselves worthy of the knowledge. Menial tasks were considered mandatory to mellow down exaggerated notions of being special - to enable them be one with the all-pervading `Bramh` - the universal reflection of self. The wealth of congregation didn't make it easier for the students, because the wealth was to augment the research. Even `Parāśara` didn't get a free pass. Quite the opposite — he had to double up.
 
 Completion of eight years long vocal training was celebrated with a formal degree, though it was the beginning of a lifelong learning process. Degree holders were called `Snataka`. They needed to go through rigorous years of apprenticeship with a teacher `Aacharya` to get certified in administering ‘rites’, when they were commenced as `Shastri` — someone who knew scriptures. At that stage, they could leave to spread the rites, or become an `Aacharya` (a teacher) in the congregation. The choice was based on their inclination and the rigor they wanted to put in. Being a teacher needed lot more studies while a rites' maker could start living a normal life of abundance immediately. Only few `Aacharyas` with demonstrable authority on all the known scriptures would get to the coveted title of `Vyasa`. In nutshell, there was a whole organization to moderate, curate and to disseminate the audio content — to make sure the knowledge was passed-on (without distortion), to seekers in current generation, and the next.
 
-There was another path available to the students if recital wasn't their first choice — research — seeking knowledge (`Nyana`). This path demanded lot more patience and even greater sacrifice!  If someone was keen to take on research, after graduating as a `Snataka`, s/he would choose a major in a specific field. The hard work on this path was called `Sadhna` meaning extreme focus on a specific goal (`Sadhya`). One who accomplished her goal was called `Sidhah`. 
+There was another path available to the students if recital wasn't their first choice — research — seeking knowledge (`Nyana`). This path demanded lot more patience and even greater sacrifice!  If someone was keen to take on research, after graduating as a `Snataka`, s/he would choose a major in a specific field. The hard work on this path was called `Sadhna` meaning extreme focus on a specific goal (`Sadhya`). One who accomplished her goal was called `Sidhah`.
 
 This path led to titles such as `Rishi` — a sage; and `Maharishi` — a super sage. These titles were given by a community of researchers based on the body of work or the insights one brought to the world — a complete meritocracy without any consideration of gender or race. The spoken insights of such sages were adapted into ‘rites’ by `Vyasas` — to disseminate, and to preserve the knowledge. Rites were a foolproof method to embed these insights into public discourse.
 
@@ -85,26 +93,28 @@ Rites were conducted to invoke natural powers of the elements through human inte
 
 A derivative rite known as `Dravya Yazna` was particularly popular among the rich and opinion makers. Instead of pursuing (hundred) skills to build something useful, it focused on honouring the deities. It entailed sharing homage and chanting `mantras` to invoke the deities, in return of speculative material gains. `Drvya` in Sanskrit, means material. Thus, `Drvya Yazna` literally meant the rites performed for good-luck material gains. For example, a rite performed for more rain - appeasing `Indra` the deity of rains - was a type of `Drvya Yazna`. So was a rite performed to seal a wedlock - to have the happy matrimony last forever - and be blessed with worthy offspring. The effectiveness of `Dravya Yazna` was questionable, but the essence was to bring a glimpse of `Vaidik` recital to the masses - those who otherwise had no opportunity to participate in advanced procedures.
 
-It also well served another goal — funding the research. 
+It also well served another goal — funding the research.
 
-The formalization of family rituals into `Dravya Yazna` — sanitization of space (`shuddhikaran`), holy fire (`Agni`), intonations in carefully perfected ensemble (`mantrochhaar`), the time and the place (`Dasha and Disha`), and the specific order of homage to various deities (`Aahuti`); served two purposes. First it became a formal auspicious way to celebrate certain life events — such as childbirth, marriage, retirement and even death. Second, it created an interaction platform between researchers on one side, and the affluent thought leaders on the other. After the rite, there used to be an abridged message read by the ritual maker, in local dialect, to explain the relevant scripture, followed by QnA sessions — more you ask, more you please the deity. 
+The formalization of family rituals into `Dravya Yazna` — sanitization of space (`shuddhikaran`), holy fire (`Agni`), intonations in carefully perfected ensemble (`mantrochhaar`), the time and the place (`Dasha and Disha`), and the specific order of homage to various deities (`Aahuti`); served two purposes. First it became a formal auspicious way to celebrate certain life events — such as childbirth, marriage, retirement and even death. Second, it created an interaction platform between researchers on one side, and the affluent thought leaders on the other. After the rite, there used to be an abridged message read by the ritual maker, in local dialect, to explain the relevant scripture, followed by QnA sessions — more you ask, more you please the deity.
 
 The hosts got the satisfaction of pleasing the deities while the ritual makers got plush donations — grain, cattle, precious metals. A big share of donations went to the central congregation — the source of wealth for the congregation - `Kaam Dhenu` - the virtuous cycle of "knowledge to wealth". Many millennia later, the model still works in India. The classical music is learnt in `Gharanas` — a diluted version of `Ashramas`. Each with their own style of renditions. The singers graduated from a specific `Gharana` have a lifelong bond to the origins of their art form, and are a source of continued alumni support.
 
-It might feel as if `Dravya Yazna` was a sham, but the truth is it was a carefully thought out societal intervention to indirectly incentivize the ones carrying forward the scientific approach. The research - repetitive efforts `Yazna` -  was not limited to spirituality or meditation. It paved the way for discovery in fields such as medicine, agriculture, irrigation, construction and many more. `Dwaipayana` wrote in chapter three of `Bhagvat Gita` 
+It might feel as if `Dravya Yazna` was a sham, but the truth is it was a carefully thought out societal intervention to indirectly incentivize the ones carrying forward the scientific approach. The research - repetitive efforts `Yazna` -  was not limited to spirituality or meditation. It paved the way for discovery in fields such as medicine, agriculture, irrigation, construction and many more. `Dwaipayana` wrote in chapter three of `Bhagvat Gita`
 
 > In olden times, the Lord of Creation, creating men and `Yazna` together, said, -- flourish by means of `Yazna`. Let it be to you (all) the dispenser of all objects cherished. Rear the deities with this, and let the deities (in return) rear you. Thus fulfilling the mutual interest you will obtain that which is beneficial (to you).
 
+<!-- markdownlint-disable-next-line -->
 <sup> Translation by Kisari Mohan Ganguly (KMG). </sup>
 
 ## 2.3
+
 ---
 
-Rites were baked in reality. For example someone starting an agricultural season, would conduct a ritual that underscored the right methods of sowing seeds, irrigation and harvesting. Someone starting a business would conduct a ritual that emphasized the fairness in trade. The ritual maker who officiated a wedding must be someone who deeply understood the responsibilities of a wedlock — the vows. And one conducting a ritual after someone's death must be proficient in making the grief easier — like a therapist. Since all such endeavour had a significant risk, there was nothing wrong in having blessings of Godly deities on your side. Humility was considered a virtue. 
+Rites were baked in reality. For example someone starting an agricultural season, would conduct a ritual that underscored the right methods of sowing seeds, irrigation and harvesting. Someone starting a business would conduct a ritual that emphasized the fairness in trade. The ritual maker who officiated a wedding must be someone who deeply understood the responsibilities of a wedlock — the vows. And one conducting a ritual after someone's death must be proficient in making the grief easier — like a therapist. Since all such endeavour had a significant risk, there was nothing wrong in having blessings of Godly deities on your side. Humility was considered a virtue.
 
-Re-instituting this age-old model based on spoken words, was easy for `Bramhrishi Vaśiṣṭha` for the know-how to set this channel up was rooted deep in him. However, scribing was lot harder. It was one thing to write a short, cryptic pigeon message but writing a scripture was a whole new territory. Humanity had yet not discovered paper. There was no standard long-lasting ink. Above all, there was no standard Grammar. It will be hundreds of years before `Panini` — a grammarian par excellence, wrote his epic `Ashtadhyayi` (eight chapters) to standardize the `Sanskrit` grammar [^grammar]. 
+Re-instituting this age-old model based on spoken words, was easy for `Bramhrishi Vaśiṣṭha` for the know-how to set this channel up was rooted deep in him. However, scribing was lot harder. It was one thing to write a short, cryptic pigeon message but writing a scripture was a whole new territory. Humanity had yet not discovered paper. There was no standard long-lasting ink. Above all, there was no standard Grammar. It will be hundreds of years before `Panini` — a grammarian par excellence, wrote his epic `Ashtadhyayi` (eight chapters) to standardize the `Sanskrit` grammar [^grammar].
 
-Bigger problem - the way `Dravya Yazna` was associated to the spoken words to sustain the audio content, there was no payback model associated with text. Text was like "electricity" of early days. No one bought a bulb because there was no grid, and no one set up the grid because no one had bulbs! 
+Bigger problem - the way `Dravya Yazna` was associated to the spoken words to sustain the audio content, there was no payback model associated with text. Text was like "electricity" of early days. No one bought a bulb because there was no grid, and no one set up the grid because no one had bulbs!
 
 He thought his grandson `Parāśara`, now reaching maturity, would take on this challenge. Little did he know that focus on texting the scriptures, would create a dual among his own followers. Ones who wanted to stay true the old - recital; and others who deemed "text" as a major improvement. Many possibilities of "new" must battle to establish control but more importantly to know what they stand for - who they are !
 
@@ -120,10 +130,12 @@ He thought his grandson `Parāśara`, now reaching maturity, would take on this 
 
 [^numbers]: The number system was present long before `Mahabharata` - evident from their use in `Ramayana`. Here are few verses from the `Yudha Kanda` that spotlights the understanding of very large numbers. In Indic mathematics 100,000 is referred to as a `Lakh` and 100 `Lakhs` (10 million) are known as a `crore`. It appears that the script for numbers developed before the idea of long text to express a narrative -> [ref](https://valmikiramayan.pcriot.com/utf8/yuddha/sarga28/yuddha_28_frame.htm) ``
 > शतम् शतसहस्राणाम् कोटिमाहुर्मनीषिणः || ६-२८-३३ शतम् कोटिसहस्राणाम् शङ्कुरित्यभिधीयते |
-- Wise men call a hundred lakhs as a crore. A hundred thousand crores is reckoned as a Shanku.
-> शतम् शङ्कुसहस्राणाम् महाशङ्कुरिति स्मृतः || ६-२८-३४ महाशङ्क्य्सहस्राणाम् शतम् वृन्दमिहोच्यते | शतम् नृन्दसहस्राणाम् महावृन्दमिति स्मृतम् || ६-२८-३५ महावृन्दसहस्राणाम् शतम् पद्ममिहोच्यते | शतम् पद्मसहस्राणाम् महापद्ममिति स्मृतम् || ६-२८-३६ महापद्मसहस्राणाम् शतम् खर्वमिहोच्यते | शतम् खर्वसहस्राणाम् महाखर्वमिति स्मृतम् || ६-२८-३७ महाखर्वसहस्राणाम् समुद्रमभिधीयते | शतम् समुद्रसाहस्रमोघ इत्यभिधीयते || ६-२८-३८ शतमोघसहस्राणाम् महौघ इति विश्रुतः |
-- A hundred thousand Shankus are said to be one Maha Shanku. A hundred thousand Maha Shankus are called one Vrindam here. A hundred thousand Vrindas are said to be one Maha vrindam. A hundred thousand Mahavrindas are called one Padmam here. A hundred thousand padmas are said to be one Mahapadmam. A hundred thousand Mahapadmas are called one Kharvam here. A hundred thousand kharvas are said to be one Mahakharvam. A hundred thousand Mahakharvas are called one Samundram. A hundred thousand Samudras are said to be one ogha here. A hundred thousand oghas are acclaimed a one Mahaugha.
 
+- Wise men call a hundred lakhs as a crore. A hundred thousand crores is reckoned as a Shanku.
+
+> शतम् शङ्कुसहस्राणाम् महाशङ्कुरिति स्मृतः || ६-२८-३४ महाशङ्क्य्सहस्राणाम् शतम् वृन्दमिहोच्यते | शतम् नृन्दसहस्राणाम् महावृन्दमिति स्मृतम् || ६-२८-३५ महावृन्दसहस्राणाम् शतम् पद्ममिहोच्यते | शतम् पद्मसहस्राणाम् महापद्ममिति स्मृतम् || ६-२८-३६ महापद्मसहस्राणाम् शतम् खर्वमिहोच्यते | शतम् खर्वसहस्राणाम् महाखर्वमिति स्मृतम् || ६-२८-३७ महाखर्वसहस्राणाम् समुद्रमभिधीयते | शतम् समुद्रसाहस्रमोघ इत्यभिधीयते || ६-२८-३८ शतमोघसहस्राणाम् महौघ इति विश्रुतः |
+
+- A hundred thousand Shankus are said to be one Maha Shanku. A hundred thousand Maha Shankus are called one Vrindam here. A hundred thousand Vrindas are said to be one Maha vrindam. A hundred thousand Mahavrindas are called one Padmam here. A hundred thousand padmas are said to be one Mahapadmam. A hundred thousand Mahapadmas are called one Kharvam here. A hundred thousand kharvas are said to be one Mahakharvam. A hundred thousand Mahakharvas are called one Samundram. A hundred thousand Samudras are said to be one ogha here. A hundred thousand oghas are acclaimed a one Mahaugha.
 
 ---
 
@@ -142,19 +154,17 @@ He thought his grandson `Parāśara`, now reaching maturity, would take on this 
 
 ---
 
-[^seven]: Hindu scriptures believe there were seven `Bramh-rishis`. `Vaśiṣṭha` was one of them. The other six are `Bhrigu`, `Agniras`, `Atri`, `Vishwamitra`, `Kashyapa`, and `Shandilya`. All of them originated from `Bramh` with the gift of intelligence to cumulate the knowledge. The only exception is `Vishwamitra` who is said to have attained this highest title through sheer hard work and dedication (`Tapasya`). All of them, put together, are also called `Saptarishis` - the seven. 
 
 ---
 
 [^grammar]: Vedas are written in `Vaidik Sanskrit`. `Panini's` epic book `Ashtadhyayi` refers to `Mahabharata`, which means `Panini's` Sanskrit came later than the times of `Dwaipayana`.
 
 ---
-<lightning-widget 
-  name="" 
-  accent="#f9ce00" 
-  to="shutosha@getalby.com" 
-  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+<lightning-widget
+  name=""
+  accent="#f9ce00"
+  to="shutosha@getalby.com"
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp"
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
-
 

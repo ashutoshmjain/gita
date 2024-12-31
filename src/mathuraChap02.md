@@ -48,7 +48,7 @@ The formation of "core orientations" with nascent spoken words is as old as the 
 
 In last hundred years, education has seen tremendous growth. The modern online platforms have come a long way, but most of the innovations deal with grownups. Despite thousands of years, the bootstrapping of human mind is almost unaltered. We might use an iPad to show our toddlers the picture, sound and text; but it is still A for Apple - a written symbol and a sound simultaneously associating with a real world object.
 
-This three-dimensional reference model - sound, text, and sensory confirmation (visual and touch) -  is central to training the large language models that we carry in our brains - consciousness. It is order of magnitude potent than the speech only model that was the basis of barter value exchange - limited to synchronous dialog.
+This three-dimensional reference model - sound, text, and sensory confirmation (audio, visual and touch) -  is central to training the large language models that we carry in our brains - consciousness. It is order of magnitude potent than the speech only model that was the basis of barter value exchange - limited to synchronous dialog.
 
 </div>
 
@@ -57,7 +57,7 @@ This three-dimensional reference model - sound, text, and sensory confirmation (
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-With advent of digital storage, we might presume information is stored forever. Nothing could be farther from the truth. Digital information is highly perishable. The average age of a corporate application is three to four years. This is particularly true in case of financial and health records where providers are forced to purge after max retention - normally seven years. The reason is simple - storage has a cost, and migration from one system to another is messy. One of the reason Bitcoin is gaining momentum is it promises eternal immutability to information - `Bramhrishi's` dream is finally taking shape in digital realm too !
+With advent of digital storage, we tend to presume information is stored forever! Nothing could be farther from the truth. Digital information is highly perishable. The average age of a corporate application is three to four years. This is particularly true in case of financial and health records where providers are forced to purge after max retention - normally seven years. The reason is simple - storage has a cost, and migration from one system to another is messy. One of the reason Bitcoin is gaining momentum is it promises eternal immutability to information - like the physical books. `Bramhrishi's` dream is finally taking shape in digital realm too !
 
 </div>
 

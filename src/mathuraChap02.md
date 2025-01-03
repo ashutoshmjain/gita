@@ -69,13 +69,29 @@ Despite this path-breaking idea, `Bramhrishi` stayed humble for what he discover
 
 A human brain has more neural synapses[^synapses] than parameters in a typical large language model.  Amazing thing is all our neurons are pre-created at the time of birth - approximately 100 billion of them. In other words - the birth of a human child is similar to creating the most powerful self learning AI system - only more. The process of learning is nothing but forming connections within these neurons[^neurogenesis]. And we create most of the neural connections during early childhood. In `Vaidik` science, these early childhood connections are known as `Sanskaras`. This is one reason, in `Vaidik` times, the family name was of utmost importance. It was called `Gotra`. The observation must have been - if a child continued to follow the skills of parents - as determined by their `Gotra` - they accomplished higher orders of acumen. `Vaśiṣṭha` too is a family name. `Bramhrishi` was the tenth generation of family of `Vaśiṣṭhas`. `Parāśara` was twelfth.
 
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
+
 > Twelve generations of a single family carefully curated the spoken wisdom that morphed into `Vedas` in thirteenth with `Dwaipayana`. Imagine the patience and the rigor ! No wonder `Vedas` are seen as divine word.
 
-The grandfather used to take `Parāśara` to the river for a daily bath. He often drew early glyphs on sandy beach, and had the grandson speak aloud. Typography was yet to be discovered and number of sounds were rather few. `Parāśara` was quick to learn though he lacked patience. He often complained when waves wiped the text off. `Vaśiṣṭha` used to smile. He was sure one day written symbols would be indestructible. It is probably why, in `Sanskrit`, the written word is called `Akshra` (immutable) - like the knowledge (`Atma`) endowed in every being.
+</div>
 
-`Vaśiṣṭha` obviously had no clue how and who would scribe entire information, for `Devnagari` back then supported only eight [^eight] rudimentary sounds, just enough to send cryptic pigeon messages. He probably knew more symbols were needed if the intent of scripture was to be meaningfully conveyed. He also knew a mighty ocean started with a single droplet. His aspiration was to see `Parāśara` as first child natively raised with speech and text - hand in hand. He probably wanted to understand if it was even possible? And if it was, then what is the effect on learning? No wonder the skeptics must have raised doubts - just like it happened with calculator, television and computer in our times.
+The grandfather used to take `Parāśara` to the river for a daily bath. He often drew early glyphs on sandy beach, and had the grandson speak aloud. Typography was yet to be discovered and number of sounds were rather few. It is believed the first sound that `Bramhrishi` codified was ॐ  [Om](https://en.wikipedia.org/wiki/Om) - the representation of `Bramh`.
 
-He sure knew if he successfully trained one child for the written word, then many others would follow suit. And if text caught up, then writing all the `shruties`[^shruti] would be a shared effort. If scriptures were written at distant places, it would be impossible to destroy them. Instead of transcribing information on temple walls himself, he wanted to enable all humans to transcribe. Empowering people through "speak and scribe" (`Akshar Gyaan`) - he saw -  as an insurance against similar disasters! This idea - ordinary it may sound today - was the genesis of civilized world - a fork from the old rules of jungle. It was by design permission less and intended to resist censor.
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
+
+> The `Aitareya Brāhmaṇa` of Rig Veda, in section 5.32, suggests that the three phonetic components of Om (a + u + m) correspond to the three stages of cosmic creation, and when it is read or said, it celebrates the creative powers of the universe. However, in the eight `anuvaka` of the `Taittiriya Upanishad`, which consensus research indicates was formulated around the same time or preceding `Aitareya Brāhmaṇa`, the sound Aum is attributed to reflecting the inner part of the word `Bramh`. Put another way, it is the `Bramh`, in the form of a word. The `Brāhmaṇa` layer of Vedic texts equates Om with `bhur-bhuvah-svah`, which symbolizes "the whole Veda". They offer various shades of meaning to Om, such as it being "the universe beyond the sun", or that which is "mysterious and inexhaustible", or "the infinite language, the infinite knowledge", or "essence of breath, life, everything that exists", or that "with which one is liberated". The `Samaveda`, the poetical Veda, orthographically maps Om to the audible, the musical truths in its numerous variations (Oum, Aum, Ovā Ovā Ovā Um, etc.) and then attempts to extract musical meters from it.
+>
+> Extracted as is from [wikipedia](https://en.wikipedia.org/wiki/Om)
+
+</div>
+
+`Parāśara` was quick to learn though he lacked patience. He often complained when waves wiped the text off. `Vaśiṣṭha` used to smile. He was sure one day written symbols would be indestructible. It is probably why, in `Sanskrit`, the written word is called `Akshra` (immutable) - like the knowledge (`Atma`) endowed in every being.
+
+`Vaśiṣṭha` obviously had no clue how and who would scribe entire information, for `Bramhi-lipi` back then supported only eight[^eight] rudimentary sounds, just enough to send cryptic pigeon messages. He probably knew more symbols were needed if the intent of scripture was to be meaningfully conveyed. He also knew a mighty ocean started with a single droplet. His aspiration was to see `Parāśara` as first child natively raised with speech and text - hand in hand. He probably wanted to understand if it was even possible? And if it was, then what is the effect on learning? No wonder the skeptics must have raised doubts - just like it happened with calculator, television and computer in our times.
+
+He sure knew if he successfully trained one child, then many others would follow. And if text caught up, then writing all the `shruties`[^shruti] would be a shared effort. If scriptures were written at distant places, it would be impossible to destroy them. Instead of transcribing information on temple walls himself, he wanted to enable all humans to transcribe. Empowering people through "speak and scribe" (`Akshar Gyaan`) - he saw -  as an insurance against similar disasters! This idea - ordinary it may sound today - was the genesis of civilized world - a fork from the old rules of jungle. It was by design permission less and intended to resist censor.
 
 ## 2.2
 
@@ -101,22 +117,25 @@ The hosts got the satisfaction of pleasing the deities while the ritual makers g
 
 It might feel as if `Dravya Yazna` was a sham, but the truth is it was a carefully thought out societal intervention to indirectly incentivize the ones carrying forward the scientific approach. The research - repetitive efforts `Yazna` -  was not limited to spirituality or meditation. It paved the way for discovery in fields such as medicine, agriculture, irrigation, construction and many more. `Dwaipayana` wrote in chapter three of `Bhagvat Gita`
 
-> In olden times, the Lord of Creation, creating men and `Yazna` together, said, -- flourish by means of `Yazna`. Let it be to you (all) the dispenser of all objects cherished. Rear the deities with this, and let the deities (in return) rear you. Thus fulfilling the mutual interest you will obtain that which is beneficial (to you).
-
 <!-- markdownlint-disable-next-line -->
-<sup> Translation by Kisari Mohan Ganguly (KMG). </sup>
+<div style="padding-left:40px;font-size:0.9em;">
+
+> In olden times, the Lord of Creation, creating men and `Yazna` together, said, -- flourish by means of `Yazna`. Let it be to you (all) the dispenser of all objects cherished. Rear the deities with this, and let the deities (in return) rear you. Thus fulfilling the mutual interest you will obtain that which is beneficial (to you).
+>
+>
+> <sup> Translation by Kisari Mohan Ganguly (KMG). </sup>
 
 ## 2.3
 
 ---
 
-Rites were baked in reality. For example someone starting an agricultural season, would conduct a ritual that underscored the right methods of sowing seeds, irrigation and harvesting. Someone starting a business would conduct a ritual that emphasized the fairness in trade. The ritual maker who officiated a wedding must be someone who deeply understood the responsibilities of a wedlock — the vows. And one conducting a ritual after someone's death must be proficient in making the grief easier — like a therapist. Since all such endeavour had a significant risk, there was nothing wrong in having blessings of Godly deities on your side. Humility was considered a virtue.
+Rites were baked in reality. For example someone starting an agricultural season, would conduct a ritual that underscored the right methods of sowing seeds, irrigation and harvesting. Someone starting a business would conduct a ritual that emphasized the fairness in trade - rules of barter. The ritual maker who officiated a wedding must be someone who deeply understood the responsibilities of a wedlock — the vows. And one conducting a ritual after someone's death must be proficient in making the grief easier — like a therapist. Since all such endeavour had a significant risk, there was nothing wrong in having blessings of godly deities on your side. Humility was considered a virtue.
 
-Re-instituting this age-old model based on spoken words, was easy for `Bramhrishi Vaśiṣṭha` for the know-how to set this channel up was rooted deep in him. However, scribing was lot harder. It was one thing to write a short, cryptic pigeon message but writing a scripture was a whole new territory. Humanity had yet not discovered paper. There was no standard long-lasting ink. Above all, there was no standard Grammar. It will be hundreds of years before `Panini` — a grammarian par excellence, wrote his epic `Ashtadhyayi` (eight chapters) to standardize the `Sanskrit` grammar [^grammar].
+Re-instituting this age-old model based on spoken words, was easy for `Bramhrishi Vaśiṣṭha` for the know-how to set this channel up was rooted deep in him. However, scribing was lot harder. It was one thing to write a short, cryptic pigeon message but writing a scripture was a whole new territory. Humanity had yet not discovered paper. There was no standard long-lasting ink. Above all, there was no standard Grammar. It will be hundreds of years before `Panini` — a grammarian par excellence, wrote his epic `Ashtadhyayi` (eight chapters) to standardize the `Sanskrit` grammar[^grammar].
 
 Bigger problem - the way `Dravya Yazna` was associated to the spoken words to sustain the audio content, there was no payback model associated with text. Text was like "electricity" of early days. No one bought a bulb because there was no grid, and no one set up the grid because no one had bulbs!
 
-He thought his grandson `Parāśara`, now reaching maturity, would take on this challenge. Little did he know that focus on texting the scriptures, would create a dual among his own followers. Ones who wanted to stay true the old - recital; and others who deemed "text" as a major improvement. Many possibilities of "new" must battle to establish control but more importantly to know what they stand for - who they are !
+He thought his grandson `Parāśara`, now reaching maturity, would take on this challenge. Little did he know that focus on texting the scriptures, would create a dual among his own followers. Ones who wanted to stay true the old - recital; and others who deemed "text" as a major improvement. Many possibilities of "new" must battle to establish control but more importantly to know what they stand for - who they are!
 
 ## notes and stuff
 

@@ -1,8 +1,8 @@
+# 3.0
+
 `Maharishi Parāśara` was excited at the prospect of organizing information, and he believed written text was the way to pull off such a miracle.
 
-But he must negotiate through the transition .. 
-
-----
+But he must find a path to transition everyone - not just a chosen few!
 
 The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singular focus on diction, was called `Naad Yoga`. This `Yoga` must be practiced in a sacred daily routine (`Bramhacharya`). The idea was to tune mind & body into understanding, memorizing, and chanting - switching all material distractions off - an expression, so profound that it became an art form.
 

@@ -11,11 +11,13 @@ The craft of reciting `mantras` - with an ascetic lifestyle purposed to a singul
 
 `Abhivaykti`, in `Sanskrit`, means expression - the final act of all creative pursuits. In `Vaidik` science, there were primarily two of them - `Naad and Mudra`.
 
-> A distinction must be made here between information and knowledge. Information doesn't have the creative potency - knowledge has. Information is dualistic - knowledge harnesses duality to manifest **third** dimension - the creation.
+> A distinction must be made here between information and knowledge. Information doesn't have the creative potency - knowledge has. Information is always dualistic - knowledge harnesses duality to manifest **third** dimension - the creation.
 >
 > **Third** here stands for infinite possibilities. Each reflecting one unique aspect of knowledge. Physical manifestation is just one among many possibilities. For example a binary system is a duality - zero or one - on or off. When knowledge combines billions of binary transistors, it becomes a computer processor - a physical manifestation. Higher abstractions of binary duality such as an operating system may not appear a solid physical thing, but they are as much manifested entities as the physical CPUs or GPUs. In similar fashion, our body and consciousness are two unique aspects of knowledge - intertwined just as the chip and operating system are. There are many more aspects of our being that we may not even be aware of.
 
-Knowledge is inexpressible (`Avykta`), though it can be decrypted through repetitive actions - practice. Most of the communications we receive are information. For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you build one.  In order to convey knowledge - the ability to manifest - both sender and the receiver must put in enormous repetitive efforts - `Yazna`. In other words - sender must enable the receiver create things. In essence, the communication of knowledge is manifestation itself. As they say - God doesn't talk - he creates !
+Knowledge is inexpressible (`Avykta`), though it can be decrypted through repetitive actions - practice. A better way to say is -  numerous repetitions are needed  to find one that manifests. More iterations, better is the chance. 
+
+Most of the communications we receive are information. For example the user manual is information. It may answer "how to use the gadget" -  it wouldn't enable you build one.  In order to convey knowledge - the ability to manifest - both sender and the receiver must put in enormous repetitive efforts - `Yazna`. In other words - sender must enable the receiver create things. In essence, the communication of knowledge is manifestation itself. As they say - God doesn't talk - he creates !
 
 > When we are connected to an aspect of knowledge -  such that we attain the ability to communicate it through manifestation — that state is called `Yoga`. Yoga need not be religious or spiritual. Einstein was focused on one aspect of nature—gravity. He was as much a `Yogi` as a monk living in the Himalayas—probably more!
 > 

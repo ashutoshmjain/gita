@@ -61,7 +61,13 @@ While `Śakti Muni's` ideas had vision, and he pursued them with conviction, the
 
 The idea of unification meant a natural degradation of the existing beneficiaries. It had commercial ramifications too.  If a `Chandal` (one who burns the dead) is same stature as a `Naad Yogi` than he too must render his services free. And if everyone worked for donations, it would be a systemic erosion of accountability. They felt `Śakti's` path would lead to anarchy. They thought his ideas were impractical, since he had no experience of running a state. `Vishwamitra` - other `Bramhrishi` wasn't a saint by birth. He was a king in his early life. He claimed the title of `Bramhrishi` the hard way - through intense work on skills. But more importantly, he understood how to effect a change in society. It was believed he didn't approve the theoretical designs of `Śakti` - thus, the theory that `Kalmashapada` was instigated by `Vishwamitra`. Though no one knew for sure because `Kalmashapada` was never caught or tried.
 
-`Sakti's` approach cast a spell of uncertainty on the barter system[^barter] too. The concerns were not totally out of place. Barter system was fine for high value transactions, but it was not scalable. Most of the families were self-sufficient in terms of growing their own food and cattle for milk. They built their homes themselves. Barter was used in rare events that could be easily memorized. If everyone was expected to master one specific skill, there must be a barter value attached to every service. The open door society was not used to exchanging meal for a meal. One could simply knock on a door for food or shelter.
+`Sakti's` approach cast a spell of uncertainty on the barter system[^barter] too. The concerns were not totally out of place. Barter system was fine for high value transactions, but it was not scalable. Most of the families were self-sufficient in terms of growing their own food and cattle for milk. They built their homes themselves. Barter was used in rare events that could be easily accounted for. If everyone was expected to master one specific skill, there must be a barter value attached to every service. The open door society was not used to exchanging meal for a meal. One could simply knock on a door for food or shelter.
+
+<div style="padding-left:40px;font-size:0.9em;">
+
+> The indirect beneficiary of specialization was in fact the congregation. It became incumbent on the congregation to ascertain the exchange value for output of one hundred skills - most important being the metals, herbs and produce. Humans discovered the idea of "proof of work" for the first time. One could trust the exchange rates fixed by the congregation because only congregation could impartially estimate exact quantum of work needed for say a bushel of rice verses that to purify a `seer` of copper. It was only a matter of time for gold to become "store of value" because of its immutable imperishable properties and scarcity.
+
+</div>
 
 On the other side, the "old" wanted status quo - the jungle rule. They saw `Sakti Muni` as a dangerous bridge to the "new world". Up until now, the path of `Yoga` was for a select few - those who would sacrifice the pleasures to take on the hard life of `Ashramas`. `Śakti's` ideas could spread beyond the confines of `Ashrams`. They feared `Karm yoga` might become a household name. They saw  `Śakti` as the emerging face of a revolution that could carry a commoner with him. If a "skill oriented society" as a concept was mass adopted, their power to recruit people free would be severely restrained - particularly in crunch wartimes.
 
@@ -102,10 +108,9 @@ Even prior to `Manu`, the story of evolution through various incarnations of `Vi
 
 `Adrushyanti` explained the purpose of `Vishnu's` ever evolving incarnations to young `Parāśara` in narratives that accommodated him imagination. She explained to him there was no way for the waterborne and the amphibians to know who they were. The quadrupeds were able to recognize their fleeting reflection in the water and on the lands. They chased their shadows not knowing why could they never touch their own reflection. In absence of vocal communication, they couldn't even confirm (with their network) that the reflection was actually their own selfie - and that the selfies are always just a fleeting reflection. They can at best be a starting point of the eternal quest but by no imagination the true shape, for the true shape is in the reflection of universal mirror. All that we see and feel and touch is nothing but us. Our "reality" is our true selfie.
 
-Young `Parāśara` was captivated by the ideas of evolution and the ultimate purpose but much like everyone else, he had no clue how to be one with the knowledge. How to find himself in million shades of the reality! As he grew up, this knowledge took shape of `Vishnu Purana`. 
+Young `Parāśara` was captivated by the ideas of evolution and the ultimate purpose but much like everyone else, he had no clue how to be one with the knowledge. How to find himself in million shades of the reality! As he grew up, this knowledge took shape of `Vishnu Purana`.
 
 ## 4.4
----
 
 While `Maharishi Parāśara` was pondering over the ideas of `Karm Yoga`, there was another parallel movement happening on `Naad Yoga` side — `Bhakti Yoga` — the `Yoga` of extreme devotion. Many of the `Aacharyas` had built a mass following. Almost like a cult. Their ideas based in grand vision of public good, but the underlying goal, to (also) promote their own moat. Many walled garden were formed. The followers developed blind faith in the words of the high priests. They even translated their narratives (or discussions) into local dialects and narrated them in poetical stories. So much so, the followers started believing mere chanting the names of their `Gurus` could get them to eternal peace. These narratives, mostly in spoken format, were called `Puranas` - the old stories.
 
@@ -123,10 +128,9 @@ The oldest English translation of `Vishnu Purana` is available at internet archi
 
 At the same time he would wonder if he, himself, was on right trajectory. He thought the intense dedication of `Bhakti Yoga` was good, if it motivated the followers to indulge in `Karma`, but mere chanting didn't appear to him a passage to the eternal solace. In modern times we have many schools of meditation. There are numerous apps to help people meditate. All that is good as a relief to confused and tormented souls but they in themselves are not the solution. For the eternal peace is not in forgetting ourselves, it is in knowing who we are? The question was how?
 
-There were many questions that still remained unanswered. Many mysteries unresolved! A `Nyaan Yogi` was caught in ‘duality’ — `Karm Yoga` or `Bhakti Yoga`. 
+There were many questions that still remained unanswered. Many mysteries unresolved! A `Nyaan Yogi` was caught in ‘duality’ — `Karm Yoga` or `Bhakti Yoga`.
 
 ## 4.5
----
 
 Age, didn't treat `Maharishi` any different. Despite his extensive work on understanding the manifestation `Vishnu Purana`, scribing of `Krishi Parashra` and path breaking research on Astrology, the quest to know the supreme knowledge was still unfulfilled. He knew he must have someone to carry the torch forward. And the answer was in Astrology. He believed it was a gift to fulfill the dreams of his lineage ..
 

@@ -5,9 +5,9 @@ The all important question — if (or not), there exists one unique righteous pa
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-It is important to understand `Dharma` as opposed to popular translation - religion. `Dharma` is rendering one's duties - without desires. Desire is an impulse to alter the reality. `Dharma` is a set of methods to find contentment whatever be the situation. If you were happy in current situation, why would you want to change? Since the situations are always changing, `Dharma` is a dynamic role play. Religion, on the other hand, is fixated (blindly) either to the preservation of old values, or a painful persuasion of the new - towards a desired outcome.
+It is important to understand `Dharma` as opposed to popular translation - religion. `Dharma` is rendering one's duties - without desires. Desire is an impulse to alter the reality. `Dharma` is a set of methods to find contentment whatever be the situation. If you were happy in current situation, why would you want to change? That, however, doesn't mean situation wouldn't change - they do all the time. Since the situations are always changing, `Dharma` is a dynamic role play. Religion, on the other hand, is fixated (blindly) either to the preservation of old values, or a painful persuasion of the new - towards a desired outcome.
 
-Righteous is simply rendering one's duties as expected by the current reality, and a curious welcome to ensuing change. For example, trees don't resist the weather. They shed their leaves or grow the new ones. Such objective surrender, with equal enthusiasm for change, removing self from the picture, is `Dharma`.
+Righteous is simply rendering one's duties as expected by the current reality, and a curious welcome to ensuing change. For example, trees don't resist the weather. They shed their leaves or grow the new ones. Water flows no matter how convoluted river course. Such abject surrender, with equal enthusiasm for change, removing self from the picture, is `Dharma`.
 
 </div>
 

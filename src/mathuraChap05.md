@@ -1,14 +1,14 @@
 # 5.0
 
-`Matsyagandha` was daughter of a poor fisherman. He passed away when she turned eleven, not that anyone was counting. Her mother had already died in the labor of her birth. No one wanted to be with her for she was labeled bad omen. An curse impossible to break away in a small village!
+`Matsyagandha` was daughter of a poor fisherman. He passed away when she turned eleven, not that anyone was counting. Her mother had already died in the labor of her birth. No one wanted to be with her for she was labeled bad omen. A curse impossible to break away in a small village!
 
-She made it to mid-twenties surviving somehow on her only skill — ferry people across `Yamuna`. She shuttled from one bank to another of the mighty river - by the `Ashrama`, not much aware of its presence and purpose. Her only possession was her father's dilapidated boat. The cruelty of her fate — no one wanted to ride with her. Not only the boat was in bad shape, she herself had a rancid piscine smell; thus the name `Matsyagandha` that literally meant one who smelled like a fish. `Matsya` in Sanskrit, means a fish, and `Gandha` means smell.
+She made it to mid-twenties surviving somehow on her only skill — ferry people across `Yamuna`. The `Ashrama` was on the western side. She wasn't much aware of its presence or purpose. Her only possession was her father's aging boat. The cruelty of her fate — no one wanted to ride with her. Not only the boat was in bad shape, she herself had a rancid piscine smell; thus the name `Matsyagandha` that literally meant one who smelled like a fish. `Matsya` in Sanskrit, means a fish, and `Gandha` means smell.
 
-No one had ever trained `Matsya` on "how to make-up", or present herself. Absolutely no training in hospitality. She used to get 'stuck and stranded' commuters. Normally early mornings or late evenings - when no other boats available. She hated the windy mornings as much as the invisible dark nights. Women of her age would normally have a full family of joy; and a husband to earn livelihood. Her fate - no one ever proposed to her. Many times she thought of letting her boat to the deep waters, but even death wouldn't come easy to her. No one in the village spoke to her. She had no friends. No one would care to notice if she was lost from the face of Earth.
+No one had ever trained `Matsya` on "how to make-up", or present herself. Absolutely no training in hospitality. She used to get 'stuck and stranded' commuters. Normally early mornings or late evenings - when no other boats available. She hated the windy mornings as much as the invisible dark nights. Women of her age had a full family of joy - and a husband to earn livelihood. Her fate - no one ever proposed to her. Many times she thought of letting her boat to the deep waters, but even death wouldn't come easy. No one spoke to her. She had no friends. No one would care if she was lost from the face of Earth.
 
-The solitude of lone purposeless life made `Matsyagandha` spend most her time with herself, and her imagination. Back at her broken hut, she used to gaze the stars - through the holes in her thatched roof. She had no formal education, yet, she honed curiosity of a writer and creativity of a poet, just by talking to herself and the waves of `Yamuna` — and the stars. And she didn't even know of it. Her world had no bridge to the scriptures and none at all to the ongoing tussle between spoken word and the written text.
+The solitude of lone purposeless life made `Matsya` spend most her time with herself, and her imagination. Back at her broken hut, she used to gaze the stars - through the holes in her thatched roof. She had no formal education, yet she honed curiosity of a writer and creativity of a poet, just by talking to herself and the waves of `Yamuna` — and the stars. And she didn't even know of it - that she was intelligent. Her world had no bridge to the scriptures and none at all to the ongoing tussle between spoken word and the written text.
 
-`Maharishi Parāśara` had taken her boat once, when he wanted to spend a dark night on the island middle of the mile wide `Yamuna`. `Maharishi` had a fascination for the island - it was the resolve of natural duality of river.
+`Maharishi Parāśara` had taken her boat once, when he wanted to spend a dark night on the island middle of the mile wide `Yamuna`. `Maharishi` had a fascination for the island - it was the resolve of natural duality of the mighty river.
 
 <div style="padding-left:40px;font-size:0.9em;">
 
@@ -108,15 +108,4 @@ After quick run through of morning routines, he rushed to the place where `Matsy
 
 ### notes and stuff
 
-[^vinyan]: The way `Vikarama` is display the outcome of `Karma`, `Vinyan` is the outcome of `Nyan`. In that sense, it is the finished version of a theory provable through experiments. 
-
------
-
-<lightning-widget 
-  name="" 
-  accent="#f9ce00" 
-  to="shutosha@getalby.com" 
-  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
-/>
-<script src="https://embed.twentyuno.net/js/app.js"></script>
-
+[^vinyan]: The way `Vikarama` is display the outcome of `Karma`, `Vinyan` (science) is the outcome of `Nyan` (research). In that sense, it is the finished version of a theory - provable through experiments.

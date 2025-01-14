@@ -26,3 +26,5 @@
 {"rule":"TO_TOO","sentence":"^\\QA half cooked meal might appeal to few hungry but it wouldn't make you a chef.\\E$"}
 {"rule":"CD_NN","sentence":"^\\QAug 23, 24\nReadme - major updates.\\E$"}
 {"rule":"MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE","sentence":"^\\QIn effect they are least useful to an average user.\\E$"}
+{"rule":"PRP_HAVE_VB","sentence":"^\\QIt had be an understatement to call it a simple island.\\E$"}
+{"rule":"TOO_TO","sentence":"^\\QHe wondered if Palms too shed their leaves in autumn!\\E$"}

@@ -1,6 +1,6 @@
 # 6.0
 
-As the boat steadied, `Matsya` welcomed `Maharishi` with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had ninety-eight coppers in her tiny bag after spending "one" on the dinner last night, and she felt rich. She had the bag carefully tied to her waist. Now and then, her left hand reached out to check the bag. Money is important and being rich is a habit - she thought!
+As the boat steadied, `Matsya` welcomed `Maharishi` with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had plenty left in her tiny bag after spending "one" on the dinner last night, and she felt rich. She had the bag carefully tied to her waist. Now and then, her left hand reached out to check the bag. Money is important and being rich is a habit - she thought!
 
 She had also thought of leaving the coins at home but decided to carry them on person. The door of her hut fell off in rains this season, and she never had enough to call on local carpenter. May be now she would get it done. Why people worked so hard for copper - she wondered!
 
@@ -8,7 +8,7 @@ She had debated herself on choice of flowers - there were marigolds, sunflowers 
 
 > She was repeatedly told she was cut open off a large fish, and that her smell was a living proof of her being a fish-born.
 
-She sure was as comfortable in waters  as a fish, and the story had many legs that made it quite convincing. Olds of the village said a male child was born too - with her as her twin.  He was adopted by king `Uparichara` who believed they both were born off his sperm, swallowed by a fish[^fish]. How could this be true — she thought — for her brother never showed up for help. Nor did the king ever sent any gifts. The parable went far enough to claim that having been appointed the general of `Uparichara's` army, her brother ruled the vast state of `Matsya`, adjoining `Sur Sena`. She was obviously not convinced for she knew people could conjure up anything these days. But still - why not clarify with `Maharishi` who had ability to see the past ! Not only past, she was hoping `Maharishi` might get kind enough to shed some light on her future — at least how to get out of the hole she was dug into!
+She sure was as comfortable in waters  as a fish, and the story had many legs that made it quite convincing. Olds of the village said she had a twin brother.  He was adopted by king `Uparichara` who believed they both were born off his sperm, swallowed by a fish[^fish]. How could this be true — she thought — for her brother never showed up for help. Nor did the king ever sent any gifts. The fable went far enough to claim that having been appointed the general of `Uparichara's` army, her brother ruled the vast state of `Matsya`, adjoining `Sur Sena`. She was obviously not convinced for she knew people could conjure up anything these days. But still - why not clarify with `Maharishi` who had ability to see the past ! Not only past, she was hoping `Maharishi` might get kind enough to shed some light on her future — at least how to get out of the hole she was dug into!
 
 ## 6.1
 

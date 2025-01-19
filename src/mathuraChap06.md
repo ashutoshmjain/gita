@@ -31,11 +31,14 @@ She started her story - and went on and on - not knowing where to stop. As if, i
 
 All this time, `Maharishi` quietly listening to her and smelling the roses — rather surprised at the choice and effortless delivery of words. Her description of the vast state her 'supposed' father and brother inherited. And her description of the large fish, she was born off. `Maharishi` realized it wasn't just the announcement she made last evening, that sounded like a `Naad Yogi`: she had probably recited her own story to herself countless times. Her local accent, as worthy as the Sanskrit[^sanskrit] rendering of a professional reciter. More importantly, she believed in what she said - like a child.
 
-> After a long circular narrative, she boiled down to contesting the **existence of 'One God', for the God couldn't be so merciless.** 
+> After a long circular narrative, she boiled down to contesting the **existence of 'One God', for the God couldn't be so merciless.**
 >
 > Why did he put all the miseries in her lap while her father and brother were enjoying royalty?
 
-Her naive question rubbed `Maharishi` at painful memories of his own past. He recalled his time when he lost the way in narratives of his childhood. Growing up in his grandfather's `Ashrama`, though he had access to the most pragmatic vantage, yet he wasn't immune to hate. Despite calm composure of his grandfather, anger had bottled up in his youth. Partly because of the surrounding chatter, but also because the killers of his father still stayed beyond justice, and still enjoyed same old misdeeds. He realized later that he subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`. He 'now' understood the power of stories on a child's mind! - `Sanskaras`.
+Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up when he had lost the way. In `Ashrama`, he had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large `Banyan`, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more importantly the chatter surrounding him always kept the wounds open. And he realized he had subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
+
+He could sympathise with `Matsya` -  Childhood stories are the `Sanskaras` - he thought. 
+
 
 ## 6.2
 

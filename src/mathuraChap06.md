@@ -37,8 +37,7 @@ All this time, `Maharishi` quietly listening to her and smelling the roses — r
 
 Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up when he had lost the way. In `Ashrama`, he had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large `Banyan`, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more importantly the chatter surrounding him always kept the wounds open. And he realized he had subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
 
-He could sympathise with `Matsya` -  Childhood stories are the `Sanskaras` - he thought. 
-
+He could sympathise with `Matsya` -  Childhood stories are the `Sanskaras` - he thought.
 
 ## 6.2
 

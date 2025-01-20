@@ -35,17 +35,26 @@ All this time, `Maharishi` quietly listening to her and smelling the roses — r
 >
 > Why did he put all the miseries in her lap while her father and brother were enjoying royalty?
 
-Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up when he had lost the way. In `Ashrama`, he had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large `Banyan`, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more importantly the chatter surrounding him always kept the wounds open. And he realized he had subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
+Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up in `Ashrama`. He had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large `Banyan`, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more importantly the chatter surrounding him always kept the wounds open. So much so, that he subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
 
-He could sympathise with `Matsya` -  Childhood stories are the `Sanskaras` - he thought.
+He could sympathise with `Matsya` -  Childhood stories are the `Sanskaras` - he thought - for most people, it is impossible to rewire their brains.
 
 ## 6.2
 
-While `Matsya` was talking, `Maharishi` continued to drift into his past ... In the early days, the hate overpowered him. So much so that he left the `Ashrama` to seek justice for the "still unsettled" case. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn't believe in `Vaidik` way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge.
+While `Matsya` was talking, `Maharishi` continued to drift into his past ...
+
+In the early days idea of revenge overpowered him. He left the `Ashrama` to seek justice for the "still unsettled" case. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn't believe in `Vaidik` way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge. 
+
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
+
+As alluded earlier, knowledge is communicated through manifestation. `Bramhrishi` was known as son of `Bramh` - the entirety of information ; `Śakti Muni` was seen as disciple of `Siva` - the intelligence; `Parāśara` was blessed by `Vishnu` - the force of creation. But destruction is just another side of creation. `Parāśara's` anger lost capacity to separate good from bad!
 
 > The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire of `Yazna` and made the monsters fly into it. As if he invoked a firetrap - a manifestation of his sacrifices. `Rakshsas` with in a certain distance of the "just" fire, burnt one by one as the crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of hate showed up on his face - dark like dense smoke.
 
-Such descriptions apart, most probably he joined forces with the local leaders to seek his revenge. He obviously used his "clue hunting" to trap the enemies. After banishing most of the `Rakshsas` from the adjoining areas, he along with leader of this movement — `Ugrasen` — named the area `Sur Sena` — a neighborhood watch of good people. `Maharishi` helped `Ugrasen` get the title of the king of this new formed state. `Ugrasen` was a rational king. He made `Mathura` his capital and brought peace to the long civil unrest that kick-started that fateful morning. The first Cold War between those who believed in a systemic change versus those who wanted to continue with status quo — the ancient rules of the jungle.
+</div>
+
+Such narratives apart, most probably he joined forces with the local leaders to seek his revenge. He probably developed astrology to forecast outcomes of the battles thus fought. After banishing most of the `Rakshsas` from the adjoining areas, he along with leader of this movement — `Ugrasen` — named the area `Sur Sena` — a neighborhood watch of good people. `Maharishi` helped `Ugrasen` get the title of the king of this new formed state. `Ugrasen` was a rational king. He made `Mathura` his capital and brought peace to the long civil unrest that kick-started that fateful morning. The first Cold War between those who believed in a systemic change versus those who wanted to continue with status quo — the ancient rules of the jungle.
 
 Finally, people felt safe again and order was restored. `Mathura` became a happening town and `Maharishi's` abode right at the center, by the river `Yamuna`, retained back its past glory. But not for long! `Rakshsas` (along with `Asuras`) kept plodding for no one is truly defeated in the physical wars. Their hopes  were on `Kansa` - the son and heir of `Ugrasen` who didn't cheer his father's austerity. He wanted to indulge for he believed you live only once. He was a perfect foothold for `Asuras`. We will get to his story in a bit.
 

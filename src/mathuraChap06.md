@@ -31,26 +31,26 @@ She started her story - and went on and on - not knowing where to stop. As if, i
 
 All this time, `Maharishi` quietly listening to her and smelling the roses — rather surprised at the choice and effortless delivery of words. Her description of the vast state her 'supposed' father and brother inherited. And her description of the large fish, she was born off. `Maharishi` realized it wasn't just the announcement she made last evening, that sounded like a `Naad Yogi`: she had probably recited her own story to herself countless times. Her local accent, as worthy as the Sanskrit[^sanskrit] rendering of a professional reciter. More importantly, she believed in what she said - like a child.
 
-> After a long circular narrative, she boiled down to contesting the **existence of 'One God', for the God couldn't be so merciless.**
+> After a long circular narrative, she boiled down to contesting the existence of 'One God', for the God couldn't be so merciless.
 >
-> Why did he put all the miseries in her lap while her father and brother were enjoying royalty?
+> Why would he put all the miseries in her lap while her father and brother enjoyed royalty?
 
-Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up in `Ashrama`. He had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large `Banyan`, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more importantly the chatter surrounding him always kept the wounds open. So much so, that he subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
+Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up in `Ashrama`. He had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large Banyan tree, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more because the chatter surrounding him always kept the wounds open. So much so, that he subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
 
-He could sympathise with `Matsya` -  Childhood stories are the `Sanskaras` - he thought - for most people, it is impossible to rewire their brains.
+He felt a strange sympathy for `Matsya` -  Childhood stories are the `Sanskaras` - he thought - for most people, it is impossible to rewire their brains.
 
 ## 6.2
 
 While `Matsya` was talking, `Maharishi` continued to drift into his past ...
 
-In the early days idea of revenge overpowered him. He left the `Ashrama` to seek justice for the "still unsettled" case. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn't believe in `Vaidik` way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge. 
+In the early days the idea of revenge overpowered him. He left the `Ashrama` to seek justice for the "still unsettled" case. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn't believe in `Vaidik` way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
 As alluded earlier, knowledge is communicated through manifestation. `Bramhrishi` was known as son of `Bramh` - the entirety of information ; `Śakti Muni` was seen as disciple of `Siva` - the intelligence; `Parāśara` was blessed by `Vishnu` - the force of creation. But destruction is just another side of creation. `Parāśara's` anger lost capacity to separate good from bad!
 
-> The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire of `Yazna` and made the monsters fly into it. As if he invoked a firetrap - a manifestation of his sacrifices. `Rakshsas` with in a certain distance of the "just" fire, burnt one by one as the crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of hate showed up on his face - dark like dense smoke.
+> The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire to manifest justice. As if he invoked the firetrap, `Rakshsas` with in a certain distance, burnt one by one. Crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of revenge embellished onto his face - except that it was dark like dense smoke.
 
 </div>
 

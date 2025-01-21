@@ -14,12 +14,12 @@ She sure was as comfortable in waters  as a fish, and the story had many legs th
 
 `Yamuna` was unusually calm that morning — reflecting the peace in `Maharishi's` mind. Almost fifteen minutes into the ride, she stole a glance to find him looking at a dry palm leaf. As if there were a treasure map on the leaf. He was smelling the roses firmly held in his other hand.
 
-He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. `Maharishi` gladly agreed to listen to her. He was probably drawn into conversation because of the quality of voice. Her speech was a mystery inviting to be resolved - maybe because of the contrasting naivety on her face.
+He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. `Maharishi` gladly agreed to listen to her. Her voice once again drew his attention. Her speech was like a mystery inviting to be resolved - maybe because of the contrasting childlike naivety on her face.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-`Abodh` means naive. A naive expression always gets a pardon even if it challenged authority of an axiom. For example, a child's opinion never warrants a rebuke - in fact it brings a smile to everyone. `Abodh Prashna` is a naive question. Such a question must be answered - particularly by those who claim a connection to the wisdom - `Bramh`.
+`Abodh` means naive. A naive expression always gets a pardon even if it challenged authority of an axiom. For example, a child's opinion never warrants a rebuke - in fact it brings a smile to everyone. `Abodh Prashna` is a naive question. Such a question must be answered - particularly by those who claim a connection to the all-pervading `Bramh`.
 
 `Bramh` holds the entire[^total] information; yet it may only answer the questions - it can't frame the questions of its own. One who knows it all has nothing to ask ! `Bramh` navigates the route. It lights up the path with milestones. Only a trained eye may capture such clues. Such training is the "qualifying minimum" on complex path to perfecting Astrology. `Maharishi` knew well how to read those clues.
 
@@ -27,15 +27,15 @@ He likes roses ! — she thought to herself. Pleased with her choice, she muster
 
 </div>
 
-She started her story - and went on and on - not knowing where to stop. As if, in years, for the first time, she got someone to look at her tiny-box. Getting true attention of another human in itself is a boon, and in this case she got the calm focus of a saint. She didn't even know the words that came off her mouth. Her perspective, shaded in the pain of utter rejection, was evocative.
+She started her story - and went on and on - not knowing where to stop. As if, in years, for the first time, she got someone to look at her tiny-box. Getting true attention of another human in itself is a boon, and in this case she got the calm focus of a saint. She didn't even know the words that came off her mouth. Her utterance, shaded in the pain of utter rejection, was evocative.
 
-All this time, `Maharishi` quietly listening to her and smelling the roses — rather surprised at the choice and effortless delivery of words. Her description of the vast state her 'supposed' father and brother inherited. And her description of the large fish, she was born off. `Maharishi` realized it wasn't just the announcement she made last evening, that sounded like a `Naad Yogi`: she had probably recited her own story to herself countless times. Her local accent, as worthy as the Sanskrit[^sanskrit] rendering of a professional reciter. More importantly, she believed in what she said - like a child.
+All this time, `Maharishi` quietly listening to her and smelling the roses — rather surprised at the choice and effortless delivery of words. Her description of the vast state her 'supposed' father and brother inherited. And of the large fish, she was born off. `Maharishi` realized it wasn't just the announcement she made last evening, that sounded like a `Naad Yogi`: she had probably recited her own story to herself countless times. Her local accent, as worthy as the Sanskrit[^sanskrit] rendering of a professional reciter. More importantly, she believed in what she said - like a child.
 
 > After a long circular narrative, she boiled down to contesting the existence of 'One God', for the God couldn't be so merciless.
 >
 > Why would he put all the miseries in her lap while her father and brother enjoyed royalty?
 
-Her naive question brought back painful memories for `Maharishi`. He recalled his time growing up in `Ashrama`. He had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large Banyan tree, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more because the chatter surrounding him always kept the wounds open. So much so, that he subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
+Her naive question brought back painful memories for `Maharishi` - when he himself lost faith in singular almighty `Vishnu` - his [Ishtadeva](https://en.wikipedia.org/wiki/Ishtadevata) . He recalled his time growing up in `Ashrama`. He had access to the most pragmatic upbringing, yet he wasn't immune to hate. Despite calm composure of his grandfather, like the shade of a large Banyan tree, anger had bottled up in his youth. Primarily  because the killers of his father still stayed beyond justice. But more because the chatter surrounding him always kept the wounds open. So much so, that he subconsciously shifted the blame from one bad actor to an entire race of `Rakshsas`.
 
 He felt a strange sympathy for `Matsya` -  Childhood stories are the `Sanskaras` - he thought - for most people, it is impossible to rewire their brains.
 
@@ -43,18 +43,18 @@ He felt a strange sympathy for `Matsya` -  Childhood stories are the `Sanskaras`
 
 While `Matsya` was talking, `Maharishi` continued to drift into his past ...
 
-In the early days the idea of revenge overpowered him. He left the `Ashrama` to seek justice for the "still unsettled" case. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn't believe in `Vaidik` way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge.
+In the early days the obsession for revenge overpowered him. To the extent that he left the `Ashrama` to seek justice for the "still unsettled" case. No one was convicted for the heinous crime. On the face of it, his fight was against all those who didn't believe in `Vaidik` way of life, but his ideology was a convenient facade to revenge his own loss. And he used all the tools he had — even the power of his knowledge.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-As alluded earlier, knowledge is communicated through manifestation. `Bramhrishi` was known as son of `Bramh` - the entirety of information ; `Śakti Muni` was seen as disciple of `Siva` - the intelligence; `Parāśara` was blessed by `Vishnu` - the force of creation. But destruction is just another side of creation. `Parāśara's` anger lost capacity to separate good from bad!
+As alluded earlier, knowledge is communicated through manifestation. `Bramhrishi` was known as son of `Bramh` - the entirety of information ; `Śakti Muni` was seen as disciple of `Siva` - the intelligence; `Parāśara` was blessed by `Vishnu` - the force of creation. Destruction is other side of the same coin. Young `Parāśara's` anger lost capacity to separate good from bad!
 
-> The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire to manifest justice. As if he invoked the firetrap, `Rakshsas` with in a certain distance, burnt one by one. Crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of revenge embellished onto his face - except that it was dark like dense smoke.
+> The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire to manifest justice. As he invoked the firetrap, `Rakshsas` with in a certain distance, burnt one by one. Crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of revenge embellished onto his face - except that it was dark like dense smoke.
 
 </div>
 
-Such narratives apart, most probably he joined forces with the local leaders to seek his revenge. He probably developed astrology to forecast outcomes of the battles thus fought. After banishing most of the `Rakshsas` from the adjoining areas, he along with leader of this movement — `Ugrasen` — named the area `Sur Sena` — a neighborhood watch of good people. `Maharishi` helped `Ugrasen` get the title of the king of this new formed state. `Ugrasen` was a rational king. He made `Mathura` his capital and brought peace to the long civil unrest that kick-started that fateful morning. The first Cold War between those who believed in a systemic change versus those who wanted to continue with status quo — the ancient rules of the jungle.
+Such narratives apart, most probably he joined forces with the local leaders to seek his revenge. He probably developed astrology to forecast outcomes of the battles thus fought. After banishing most of the `Rakshsas` from the adjoining areas, he along with leader of this movement — `Ugrasen` — named the area `Sur Sena` — a neighborhood watch of good people. `Maharishi` helped `Ugrasen` get the title of the king of this new formed state. `Ugrasen` was a rational king. He made `Mathura` his capital and brought peace to the long civil unrest that kick-started that fateful morning. The first war between those who believed in a systemic change versus those who wanted to continue with the status quo — the ancient rules of the jungle.
 
 Finally, people felt safe again and order was restored. `Mathura` became a happening town and `Maharishi's` abode right at the center, by the river `Yamuna`, retained back its past glory. But not for long! `Rakshsas` (along with `Asuras`) kept plodding for no one is truly defeated in the physical wars. Their hopes  were on `Kansa` - the son and heir of `Ugrasen` who didn't cheer his father's austerity. He wanted to indulge for he believed you live only once. He was a perfect foothold for `Asuras`. We will get to his story in a bit.
 

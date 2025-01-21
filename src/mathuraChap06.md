@@ -12,9 +12,9 @@ She sure was as comfortable in waters  as a fish, and the story had many legs th
 
 ## 6.1
 
-`Yamuna` was unusually calm that morning — reflecting the stillness of churn in `Maharishi's` mind. Almost fifteen minutes into the ride, she stole a glance to find him looking at a dry palm leaf. As if there were a treasure map on the leaf. He was smelling the roses firmly held in his other hand.
+`Yamuna` was unusually calm that morning — reflecting the peace in `Maharishi's` mind. Almost fifteen minutes into the ride, she stole a glance to find him looking at a dry palm leaf. As if there were a treasure map on the leaf. He was smelling the roses firmly held in his other hand.
 
-He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. `Maharishi` gladly agreed to listen to her. It was a while he had spoken to a commoner in an 'unmoderated' setting. But this time he was drawn into conversation because of the quality of voice. Her speech was a mystery - maybe because of the contrasting naivety on her face.
+He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. `Maharishi` gladly agreed to listen to her. He was probably drawn into conversation because of the quality of voice. Her speech was a mystery inviting to be resolved - maybe because of the contrasting naivety on her face.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
@@ -23,7 +23,7 @@ He likes roses ! — she thought to herself. Pleased with her choice, she muster
 
 `Bramh` holds the entire[^total] information; yet it may only answer the questions - it can't frame the questions of its own. One who knows it all has nothing to ask ! `Bramh` navigates the route. It lights up the path with milestones. Only a trained eye may capture such clues. Such training is the "qualifying minimum" on complex path to perfecting Astrology. `Maharishi` knew well how to read those clues.
 
-`Bramh` may suggest cryptic answers too - as long as the question is unfiltered - `Abodh Prashna`. One that comes from deep with in - from the guts of the soul - `Atma`. `Bramh` speaks with `Atma` for they are reflections of each other - mirror images. Such answers appear as gut feelings.  `Matsya` was naive but, after seeing `Maharishi` last night, she felt people were right about him. Her gut told her - he was no ordinary man ...
+`Bramh` may suggest clear answers too - as long as the question is unfiltered - `Abodh Prashna`. One that comes from deep with in - from the guts of the soul - `Atma`. `Bramh` speaks with `Atma` for they are reflections of each other - mirror images. Such answers appear as gut feelings.  `Matsya` was naive but, after seeing `Maharishi` last night, she felt people were right about him. Her gut told her - he was no ordinary man ...
 
 </div>
 
@@ -100,6 +100,17 @@ He handed the seal back, but he did take a question with him as he got off the b
 
 ## notes and stuff
 
+[^fish]: The story of `Uparichara` is featured in [section 63](https://mahabharata.shutri.com/maha01.html) of `Adi Parva`, the first book of `Mahabharata`. The question is why `Dvaipayana` had such a "flight of fancy" in describing these stories.
+<!-- markdownlint-disable-next-line -->
+- In a world, when only way to pass the wisdom was through "word of mouth", the most potent way was to use the same narratives that were already prevalent in public imagination for these narratives had stood the test of time. 
+- You may say, `Dvaipayan` being a `Maharishi`, could have spoken the underlying truth. That is exactly what he did when he edited the `Vedas`. But he realized there were very few who could understand them. Thus, in `Mahabharata` he used the public parables. He wove them in such a fashion that a keen observer may find the truth.
+- But then the question is what exactly is the truth (in mass media)? Every consumer (of information) has their own point of view. Even today, the truth of mass media is challenged at every step. People claim `Wikipedia` has inbuilt biases towards a "woke and cancel" culture. Fox News presents a story in quite an opposite fashion as compared to MSNBC. Let's not even talk about the "misinformation" on Facebook or the conspiracy theories on YouTube.
+- And above all, what good a narrative is if it didn't capture the public imagination? A narrative must pull the reader into it. Lock a place in her mind for good. In that, narratives of Tolkein, with its Orcs and Elves, are much better remembered than a run down of history of "middle earth" at Wikipedia.
+- The true journalism is in presenting what people (on the ground) describe of a situation — in their own language. And the fact remains, every consumer of media (written or spoken) draw their own inferences from the presented tales or facts.
+- This, however, doesn't mean, "disinformation" isn't a  problem. In fact argument can be made that only way to fight disinformation is to objectively state the truth of people - their narratives.
+
+---
+
 [^total]: `Bramh` and `Atama` ..
 <!-- markdownlint-disable-next-line -->
 - Science is absolutely sure the entire knowledge is baked in the universe. Information can't be lost. `Bramh` represents the information aspect of universe. But there is an interesting `Vaidik` twist on this idea.
@@ -111,16 +122,6 @@ He handed the seal back, but he did take a question with him as he got off the b
 
 ---
 
-[^fish]: The story of `Uparichara` is featured in [section 63](https://mahabharata.shutri.com/maha01.html) of `Adi Parva`, the first book of `Mahabharata`. The question is why `Dvaipayana` had such a "flight of fancy" in describing these stories.
-<!-- markdownlint-disable-next-line -->
-- In a world, when only way to pass the wisdom was through "word of mouth", the most potent way was to use the same narratives that were already prevalent in public imagination for these narratives had stood the test of time. 
-- You may say, `Dvaipayan` being a `Maharishi`, could have spoken the underlying truth. That is exactly what he did when he edited the `Vedas`. But he realized there were very few who could understand them. Thus, in `Mahabharata` he used the public parables. He wove them in such a fashion that a keen observer may find the truth.
-- But then the question is what exactly is the truth (in mass media)? Every consumer (of information) has their own point of view. Even today, the truth of mass media is challenged at every step. People claim `Wikipedia` has inbuilt biases towards a "woke and cancel" culture. Fox News presents a story in quite an opposite fashion as compared to MSNBC. Let's not even talk about the "misinformation" on Facebook or the conspiracy theories on YouTube.
-- And above all, what good a narrative is if it didn't capture the public imagination? A narrative must pull the reader into it. Lock a place in her mind for good. In that, narratives of Tolkein, with its Orcs and Elves, are much better remembered than a run down of history of "middle earth" at Wikipedia.
-- The true journalism is in presenting what people (on the ground) describe of a situation — in their own language. And the fact remains, every consumer of media (written or spoken) draw their own inferences from the presented tales or facts.
-- This, however, doesn't mean, "disinformation" isn't a  problem. In fact argument can be made that only way to fight disinformation is to objectively state the truth of people - their narratives.
-
----
 
 [^sanskrit]: Sanskrit:
 <!-- markdownlint-disable-next-line -->

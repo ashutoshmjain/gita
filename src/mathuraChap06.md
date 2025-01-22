@@ -122,12 +122,12 @@ He handed the seal back, but he did take a question with him as he got off the b
 
 [^total]: `Bramh` and `Atama` ..
 <!-- markdownlint-disable-next-line -->
-- Science is absolutely sure the entire knowledge is baked in the universe. Information can't be lost. `Bramh` represents the information aspect of universe. But there is an interesting `Vaidik` twist on this idea.
+- Science is absolutely sure the entire information is baked in the universe. Information can't be lost. `Bramh` represents the information aspect of universe. But there is an interesting `Vaidik` twist on this idea.
 - The core postulate of `Bhagvad Gita` is all beings have an `Atma` - a full copy of the information - it's like DNA in the cell. DNA is physical because cell is physical. `Atma` represents DNA of our metaphysical being - our emotions, thoughts, intelligence or persona. Since it is not physical, it's beyond the realm of our senses - just the way senses can't  measure thought.
 - In essence, every conscious being is a full node of the network of consciousness (`Bramh`). Since it is a full node, it represents the information of entire network. DNA being local to the body - may mutate - may take different shapes. But `Atma` being complete, is immutable. The rise of consciousness is gradually turning this information into knowledge. Information + Yazana (repeated Karma) = Knowledge.
 - This axiom further leads to ideas of reincarnation. In that `Gita` says that a conscious being may take as many births as it takes to convert the information into knowledge. They may also choose different types of physical bodies (for example a lion or a snake) - whatever helps in accomplishment of `Yazna`; or mutate their own physical bodies under effects of desires.  
-- An `Atma` reincarnates till the mystery is solved - all information is turned into knowledge.
-- Thus, `Karm Yoga` is the fastest path to realizing "who we are" -  the primary quest of knowledge.
+- `Atma` reincarnates till the mystery is solved - all information is turned into knowledge. In that, `Krsna` tells `Arjuna` in  `Gita` - all the kings on the opposite side as well as on your side were always present and so were you Arjuna and me. Only difference is I know all these births, you don't.
+- Thus, `Karm Yoga` is the fastest path to realizing "who we are" -  the primary quest of knowledge. Human body is considered most suitable form for accomplishing `Yazna`. Hence, the rise in human population. Probably all species want to acquire human body - as the hottest selling biological form !
 
 ---
 

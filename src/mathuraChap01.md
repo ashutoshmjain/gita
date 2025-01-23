@@ -128,6 +128,7 @@ Probably, in that world, when memory was the only way to sustain information, la
 
 It, however, doesn't mean 'no credit' was given to the early inventors. Instead of mentioning every individual name, they were tagged to a group. One distinct group for a specific area of exploration - to practice gratitude. For example, all those who contributed in water works, irrigation, and agriculture were represented by a single entity `Indra`. Those who invented fire and various ways to channel energy — who contributed from mining to metallurgy; were named `Agni`. Those who tamed the winds, to build the early sail boats were called `Varuna`. These group entities, represented by respective common name, were called ‘deities’. They were worshipped for the blessings they bestowed on humanity and thus by extension on all the species.
 
+<!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
 Using a pseudonym to identify a group is common even today. Instead of counting thousands of hardware and software experts, we simply say "Steve Jobs" made iPhone. The phenomenon goes beyond technology or business. We normally say `Mahatma Gandhi` got India freedom. What we actually mean by this generalization is thousands of freedom fighters who worked with `Mahatma`, got India freedom. Instead of counting the names of thousands of activists who worked in "civil rights movement", we simply use the name of Dr King to express our gratitude.

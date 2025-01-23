@@ -1,27 +1,42 @@
 # 6.0
 
-As the boat steadied, `Matsya` welcomed `Maharishi` with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had plenty left in her tiny bag after spending "one" on the dinner last night, and she felt rich. She had the bag carefully tied to her waist. Now and then, her left hand reached out to check the bag. Money is important and being rich is a habit - she thought!
+As the boat steadied, `Matsya` welcomed `Maharishi` with a big bouquet of roses. She had picked them up on the docks for a copper coin. She still had many coins left in her tiny bag after spending luxuriously last night - dinner, milk and supplies for full month, and she felt rich. She had the bag carefully tied to her waist. Now and then, her left hand reached out to check the bag.
 
-She had also thought of leaving the coins at home but decided to carry them on person. The door of her hut fell off in rains this season, and she never had enough to call on local carpenter. May be now she would get it done. Why people worked so hard for copper - she wondered!
+Being rich is a habit - she thought!
 
-She had debated herself on choice of flowers - there were marigolds, sunflowers and bunch more to choose from. She picked up roses because they were most expensive. She wanted to show her gratitude for the generous payout last evening. She also wanted to appease `Maharishi` into the question she had on her mind. Other reason that probably acted in sub-conscious - the fragrance of roses. Maybe she didn't want her smell roam around naked. The idea of her 'stink' had taken deeper roots. Right from her child, she had heard crazy stories : that she wasn't born of a woman!
+She had also thought of leaving the coins at home but decided to carry them on person. The door of her hut fell off in rains, and she never had enough to call on local carpenter. May be now she would get it done. Why people worked so hard for copper - she wondered!
 
-> She was repeatedly told she was cut open off a large fish, and that her smell was a living proof of her being a fish-born.
+She had debated herself on choice of flowers - there were marigolds, sunflowers and bunch more. She picked up roses because they were most expensive. She wanted to show her gratitude for the generous payout last evening. She also wanted to appease `Maharishi` answer a question she had on her mind for long.
 
-She sure was as comfortable in waters  as a fish, and the story had many legs that made it quite convincing. Olds of the village said she had a twin brother.  He was adopted by king `Uparichara` who believed they both were born off his sperm, swallowed by a fish[^fish]. How could this be true — she thought — for her brother never showed up for help. Nor did the king ever sent any gifts. The fable went far enough to claim that having been appointed the general of `Uparichara's` army, her brother ruled the vast state of `Matsya`, adjoining `Sur Sena`. She was obviously not convinced for she knew people could conjure up anything these days. But still - why not clarify with `Maharishi` who had ability to see the past ! Not only past, she was hoping `Maharishi` might get kind enough to shed some light on her future — at least how to get out of the hole she was dug into!
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;">
+
+> She was repeatedly told she was cut open off a large fish, and that her smell was a living proof of her being a fish-born - and so was her name!
+>
+> People never missed an opportunity to laugh at her. They never cared that the idea of her stink had taken deeper roots. Something that affected every aspect of her life - how to come across to maintain a distance - where to walk to avoid contact!
+>
+> She probably preferred roses for their stronger fragrance. She didn't want her smell roam around naked while she spoke to `Maharishi` !
+
+</div>
+
+She sure was as comfortable in waters as a fish. And the story had a side plot that made it sound convincing. Olds of the village said she had a twin brother - born off the same large fish.  He was adopted by king `Uparichara` who believed they both were born off his sperm, swallowed by a fish[^fish].
+
+How could this be true — she thought — for her brother never showed up for help. Nor did the king ever send anyone to check on her. The fable went far enough to claim that having been appointed the general of `Uparichara's` army, her brother ruled the vast state of `Matsya`, adjoining `Sur Sena`. 
+
+She had doubts, for she knew people could conjure up anything these days. But still - why not clarify with `Maharishi` who had ability to see the past ! Not only past, she was hoping `Maharishi` might get kind enough to shed some light on her future — at least how to get out of the hole she was dug into!
 
 ## 6.1
 
 `Yamuna` was unusually calm that morning — reflecting the peace in `Maharishi's` mind. Almost fifteen minutes into the ride, she stole a glance to find him looking at a dry palm leaf. As if there were a treasure map on the leaf. He was smelling the roses firmly held in his other hand.
 
-He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. `Maharishi` gladly agreed to listen to her. Her voice once again drew his attention. Her speech was like a mystery inviting to be resolved - maybe because of the contrasting childlike naivety on her face.
+He likes roses ! — she thought to herself. Pleased with her choice, she mustered the courage to initiate conversation. The moment she got the attention, she quickly sought the permission for a question. `Maharishi` gladly agreed to listen to her. Her voice once again drew his attention. Her tone was like a mystery inviting to be resolved - maybe because of the contrasting childlike naivety on her face.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
 `Abodh` means naive. A naive expression always gets a pardon even if it challenged authority of an axiom. For example, a child's opinion never warrants a rebuke - in fact it brings a smile to everyone. `Abodh Prashna` is a naive question. Such a question must be answered - particularly by those who claim a connection to the all-pervading `Bramh`.
 
-`Bramh` holds the entire[^total] information; yet it may only answer the questions - it can't frame the questions of its own. One who knows it all has nothing to ask ! `Bramh` navigates the route. It lights up the path with milestones. Only a trained eye may capture such clues. Such training is the "qualifying minimum" on complex path to perfecting Astrology. `Maharishi` knew well how to read those clues.
+`Bramh` holds the entire[^total] information; yet it may only answer the questions - it can't frame the questions of its own. One who knows it all has nothing to ask ! `Bramh` navigates the route. It lights up the path with milestones. Only a trained eye may capture such clues. Such training is the "qualifying minimum" on path to perfecting Astrology. `Maharishi` knew well how to read those clues.
 
 `Bramh` may suggest clear answers too - as long as the question is unfiltered - `Abodh Prashna`. One that comes from deep with in - from the guts of the soul - `Atma`. `Bramh` speaks with `Atma` for they are reflections of each other - mirror images. Such answers appear as gut feelings.  `Matsya` was naive but, after seeing `Maharishi` last night, she felt people were right about him. Her gut told her - he was no ordinary man ...
 

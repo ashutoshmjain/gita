@@ -13,17 +13,19 @@ She had debated herself on choice of flowers - there were marigolds, sunflowers 
 
 > She was repeatedly told she was cut open off a large fish, and that her smell was a living proof of her being a fish-born - and so was her name!
 >
-> People never missed an opportunity to laugh at her. They never cared that the idea of her stink had taken deeper roots. Something that affected every aspect of her life - how to come across to maintain a distance - where to walk to avoid contact!
+> Cruel kids  never missed an opportunity to laugh at her. They never cared that the idea of her stink had taken deeper roots. Something that affected every aspect of her life - how to come across to maintain a distance - where to walk to avoid contact!
 >
 > She probably preferred roses for their stronger fragrance. She didn't want her smell roam around naked while she spoke to `Maharishi` !
 
 </div>
 
-She sure was as comfortable in waters as a fish. And the story had a side plot that made it sound convincing. Olds of the village said she had a twin brother - born off the same large fish.  He was adopted by king `Uparichara` who believed they both were born off his sperm, swallowed by a fish[^fish].
+She sure was comfortable in waters like a fish. And the story had a side plot - that made it sound convincing. Olds of the village once said she had a twin brother - born off the same large fish.  He was adopted by king `Uparichara`. Apparently, the king believed they both were born off his sperm - swallowed by a fish[^fish].
 
-How could this be true — she thought — for her brother never showed up for help. Nor did the king ever send anyone to check on her. The fable went far enough to claim that having been appointed the general of `Uparichara's` army, her brother ruled the vast state of `Matsya`, adjoining `Sur Sena`. 
+How could this be true? — her logical side always wondered. Her brother never showed up for help. Nor did the king ever send anyone to check on her. The fable went far enough to claim that having been appointed the general of `Uparichara's` army, her brother ruled the vast state of `Matsya`, adjoining `Sur Sena`.
 
-She had doubts, for she knew people could conjure up anything these days. But still - why not clarify with `Maharishi` who had ability to see the past ! Not only past, she was hoping `Maharishi` might get kind enough to shed some light on her future — at least how to get out of the hole she was dug into!
+It was too much to brood over for her untrained mind at younger age - with no one to confide in. As she grew older, she understood people could conjure up anything these days. But still - why not clarify with `Maharishi`! People believed he had the ability to see the past! Not only past, she was hoping `Maharishi` might get kind enough to shed some light on her future — at least how to get out of the hole she was dug into!
+
+She desperately needed closure to her child - to embrace the youth.
 
 ## 6.1
 
@@ -65,7 +67,7 @@ In the early days the obsession for revenge overpowered him. To the extent that 
 
 As alluded earlier, knowledge is communicated through manifestation. `Bramhrishi` was known as son of `Bramh` - the entirety of information ; `Śakti Muni` was seen as disciple of `Siva` - the intelligence; `Parāśara` was blessed by `Vishnu` - the force of creation. Destruction is other side of the same coin. Young `Parāśara's` anger lost capacity to separate good from bad!
 
-> The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire to manifest justice. As he invoked the firetrap, `Rakshsas` with in a certain distance, burnt one by one. Crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of revenge embellished onto his face - except that it was dark like dense smoke.
+> The hyperbole is, he didn't even pick up a weapon. He simply lit up a holy fire to manifest punishment he adjudicated himself. As he invoked the firetrap, `Rakshsas` with in a certain distance, burnt one by one. Crowds saw them turning into ashes — unaware that with every immolation, `Maharishi` burnt a part of his own self. When he got off the altar, he limped on one leg — permanently amputated! The color of revenge embellished onto his face - except that it was dark like dense smoke.
 
 </div>
 
@@ -73,13 +75,15 @@ Such narratives apart, most probably he joined forces with the local rebellion t
 
 After banishing most of the `Rakshsas` from the adjoining areas, he along with leader of this movement — `Ugrasen` — named the area `Sur Sena` — a neighborhood watch of good people. `Maharishi` helped `Ugrasen` get the title of the king of this new formed state. `Ugrasen` was a rational king. He made `Mathura` his capital and brought peace to the long civil unrest that kick-started that fateful morning - the killing of his father alongside rest of the `Acharayas` at congregation. The first war between those who believed in a systemic change versus those who wanted to continue with the status quo — the ancient rules of the jungle.
 
-Finally, people felt safe again and order was restored. `Mathura` became a happening town and `Maharishi's` abode right at the center, by the river `Yamuna`, retained back its past glory. But not for long! `Rakshsas` (along with `Asuras`) kept plodding for no one is truly defeated in the physical wars. Their hopes  were on `Kansa` - the son and heir of `Ugrasen` who didn't cheer his father's austere devotion. He wanted to indulge for he believed you live only once. God was a concept created to withhold the powerful - he thought. He was a perfect foothold for `Asuras`. We will get to his story in a bit.
+Finally, people felt safe again and order was restored. `Mathura` became a happening town and `Maharishi's` abode right at the center, by the river `Yamuna`, regained back its past glory. But not for long! `Rakshsas` (along with `Asuras`) kept plodding for no one is truly defeated in the physical wars. Their hopes  were on `Kansa` - the son and heir of `Ugrasen` who didn't cheer his father's austere devotion. He wanted to indulge for he believed you live only once. God was a concept created to withhold the powerful - he thought. He was a perfect foothold for `Asuras`. We will get to his story in a bit.
 
 As `Maharishi` grew older, he realized the evil was not race specific. There were good and bad actors on both sides of the aisle. And evil, in itself, was just a different vantage point. He was able to see both sides of the coin now. Both seemed right at the same time.
 
 > The compelling argument on the side of `Rakshsas` was simple — they asked if "One God" was full of love, why is there death and misery in the world? God can't be merciless. Why doesn't God let everyone live like him — always healthy and beautiful? `Matsya's` naive question opened the door of empathy in `Maharishi's` heart. He found her struggling the similar state that he himself resolved after much loss and violence.
 
-`Maharishi` also thought what if the `Rakshsas` he banished had gotten similar bad deal at the hands of fate. That couldn't be construed as their mistake for breeding contempt of God. If a young girl , felt this way, why wouldn't a mature `Asura` who had probably seen more hardships? But no one had ever put forth such unpretentious argument with a childlike naivety. Her unintentional deduction forced the `Yogi` to engage in a conversation — those who claim a connection with `Bramh` must answer the naive question ! `Maharishi` was himself surprised finding himself engaging with a woman half his age -  an anomaly because he rarely spoke. Even the kings had to wait to hear his sermons. He rarely blessed anyone. He never performed rites for money or favors. Nor did he indulge in religious debates — he was a silent seeker lost in himself.
+`Maharishi` also thought what if the `Rakshsas` he banished had gotten similar bad deal at the hands of fate. That couldn't be construed as their mistake for breeding contempt of God. If a young girl , felt this way, why wouldn't a mature `Asura` who had probably seen more hardships? But no one had ever put forth such unpretentious argument with a childlike naivety. Her unintentional deduction forced the `Yogi` to engage in a conversation — those who claim a connection with `Bramh` must answer the naive question!
+
+`Maharishi` was surprised finding himself engaging with a folk lass half his age -  an anomaly because he rarely spoke. Even the kings had to wait to hear his sermons. He rarely blessed anyone. He never performed rites for money or favors. Nor did he indulge in religious debates — he was a silent seeker lost in himself.
 
 ## 6.3
 
@@ -98,21 +102,21 @@ As the hawk flew, with king's semen in its beak, another one attacked him assumi
 
 </div>
 
-Before she went further, with her amazing elucidation, `Maharishi` couldn't hold his laughter. His eyes almost watered. Once he got his composure back, he pulled one rose from the bouquet. Handing it back to her, he asked - `Matsya` do you see the thrones below this beautiful flower? Seeing her nod affirmatively, he continued — think what could have happened to a lone girl in this place full of hungry hawks!  Your smell is your protector just like these thrones are to the flower. And your beauty is your intelligence. Don't ever waste your intelligence in what people talk. People remember only sensational stories. Those stories do go in the history because they are easier said and easier remembered, but every one has their own truth to seek! Even truth seekers must know their version of truth is not universal.
+Before she went further, with her graphic elucidation, `Maharishi` couldn't hold his laughter. His eyes almost watered. Once he got his composure back, he pulled one rose from the bouquet. Handing it back to her, he asked - `Matsya` do you see the thrones below this beautiful flower? Seeing her nod affirmatively, he continued — think what could have happened to a lone girl in this place full of hungry hawks!  Your smell is your protector just like these thrones are to the flower. And your beauty is your intelligence. Don't ever waste your intelligence in what people talk. People remember only sensational stories. Those stories do go in the history because they are easier said and easier remembered, but every one has their own truth to seek! Even truth seekers must know their version of truth is not universal.
 
 He thought for a while, watching `Matsya` react to his laughter. She was unsure if `Mahrishi` actually found it funny. `Maharishi` realized he should not have laughed. He added a new perspective to ease the situation but one that came from the depth of his wisdom  — If you think about it, O' fish-born, people are not entirely wrong. In a way what people are telling you is true because your smell is protecting you like a mother. Just like a mother, it always surrounds you. And as far as your father is concerned, you are sure born off a noble man of the highest order — your intelligence is a living proof. And people know that even if they don't readily express it to you.
 
 He paused for a moment to let `Matsya` grasp what he said. And then he added — But the real question is: would you want me to dwell on your past or look into your future?
 
-The gravity of his voice such that the words brought tears to `Matsya's` eyes — why can't I be like others O' `Maharishi`? Beautiful and fragrant? What worth this protected intelligence of, if I must live alone all my life? `Maharishi` heard the voice of truth, pain, and of the deepest of desires, as she bowed and touched `Maharishi's` feet. No argument could bring peace to `Matsya`. She must live to be beautiful and fragrant, and she must enjoy all the pleasures thus far devoid off her.
+The gravity of his voice such that the words brought tears to `Matsya's` eyes — why can't I be like others `O, Maharishi`? Beautiful and fragrant? What worth this protected intelligence of, if I must live alone all my life? `Maharishi` heard the voice of truth, pain, and that of the deepest desire, as she bowed and touched `Maharishi's` feet. No argument could bring peace to `Matsya`. She must live to be beautiful and fragrant, and she must enjoy all the pleasures thus far devoid off her.
 
 `Maharishi` blessed her with his right hand — Your life has a good reason `Matsya`. Gods have graced you with hardships to enable objectivity in you, for they want to have you serve as a host to something bigger. He paused for a moment to look deeper into her eyes for the words he was about to say, must be fulfilled  — I shall come back to you, to seek your help, at appropriate time. Stay put...
 
 `Matsyagandha` couldn't believe her ears! She forgot to notice that `Maharishi` didn't answer her questions. Instead, he offered her hope. Maybe he was sharing the high tide of his own resolve, strengthened at this unscheduled rendezvous.
 
----
+## 6.40
 
-`Maharishi` disembarked, careful to keep his balance - his limp didn't help. Holding the roses and palm leaf in one hand, he latched on to the hull for support. As his hand caught the hull, his eyes caught a small wooden piece with stamp of Kuru kingdom. He was surprised to see a king's stamp lying in the bucket. He guessed the bucket was for dropping fares but why someone dropped king's stamp! Curious he asked `Matsya`.
+`Maharishi` disembarked, careful to keep his balance - his limp didn't help. Holding the roses and palm leaf in one hand, he latched on to the hull for support. As his hand caught the hull, his saw a small wooden piece with stamp of Kuru kingdom. He was surprised to see a king's stamp lying in the bucket. He guessed the bucket was for dropping fares but why someone dropped king's stamp! Curious he asked `Matsya`.
 
 `Matsya` picked up the stamp - you may take it, it has no use to me. A commuter from the far side - she waived towards the Kuru Kingdom side of `Yamuna` - said I could  get a copper coin for it from the king's palace in `Hastinapur` - the capital. I guess I will never go there in this life!
 

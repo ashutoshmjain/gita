@@ -345,3 +345,9 @@ nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
 nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
+
+nmap <leader><leader>f  :CocCommand eslint.executeAutofix<cr>
+
+
+" snippet
+:iabbrev sdiv <div style="padding-left:40px;font-size:0.9em;">

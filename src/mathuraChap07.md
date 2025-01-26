@@ -1,19 +1,23 @@
 # 7.0
 
-As `Maharish` stepped into  `Ashrama`, he saw `Maitrea` finishing his morning lessons to the new students. `Maitrea` was a much younger, but `Maharishi` treated him like a friend - not a senior student. `Maitrea` wondering of sudden night out by `Maharishi`, approached him with a curious smile. He had barely finished greetings when`Maharishi` asked ...
+As `Maharish` stepped into  `Ashrama`, he saw `Maitrea` finishing his morning lessons to the new students. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. `Maitrea`, wondering why `Maharishi` missed morning procession, approached him with a curious smile - hoping all well! He had barely finished greetings when`Maharishi` asked ...
 
 > `Maitrea` if God is kind and loving , why is there misery in the world?
 
-`Maitrea` understood `Maharishi` must have gone for a `Samadhi` and something must be on his mind. He figured `Maharishi` needed an unbiased opinion - a fair coin-toss of wisdom. Thus, instead of asking the context, he spoke his mind - `Maharishi` if you mean `Bramh` as God , then you only taught us that `Bramh` offers opportunity to every being. It is for us to choose what we make of it.
+`Maitrea` understood `Maharishi` must have gone for an overnight `Samadhi` and something must be on his mind. He figured `Maharishi` needed an unbiased opinion - a fair coin-toss as an answer. Thus, instead of asking the context, he spoke his mind - `Maharishi` if you mean `Bramh` as God , then you only taught us that `Bramh` offers appropriate opportunity to every being. That opportunity is the little world around us. It is for us to choose what we make of it.
 
-`Maharishi` smiled. Sometimes, clarity comes in a jiffy. It meant the opportunity to 'write' was not uniquely his. What if `Asuras` were already writing books to spread unruly ideas. What if they reached likes of `Matsya` first! He knew technology always had the first-mover advantage. The races that adopted wheels to make chariots, flourished. Those who adopted hardened steel made much better weapons and literally killed the ones stuck with stone. He realized there was no way to stay still in this world. We always need to act. It was even more important at this juncture because high priests had already labeled scribing demonic. No one would be surprised if demons actually took to writing books.
+`Maharishi` smiled. Sometimes, clarity comes in a jiffy. `Maitrea's` answer meant the opportunity to 'write' was not uniquely his.  He felt relief that it was not solely his responsibility. If `Bramh` expects text to be direction of humanity  - many more would join the cause. At the same time, he felt anxious - What if `Asuras` were already writing books - to spread unruly ideas. What if they reached masses first ?  Common people, likes of `Matsya`, were just a nudge away from losing faith. He knew technology always had the first-mover advantage. The races that adopted wheels to make chariots, flourished. Those who adopted hardened steel made much better weapons and literally killed the ones stuck with stone. He realized there was no way to stay still in this world. We always need to act. It was even more important at this juncture because high priests had already labeled scribing demonic. No one would be surprised if demons actually took to writing books.
 
-There was one more reason `Maharishi` was held back. He deemed his interest in ‘text’ might be perceived as being anti-establishment. He didn't think he was cynical, but he had uncomfortable positions with `Naad Yogies` — on them turning into gatekeepers of the knowledge. He was not sure if building a parallel channel of communication was good because it was good to his class - `Nyaan Yogies`; or was it truly a righteous path? Nor was he free from self-doubt — was he inclined towards ‘writing’ to satisfy his own ambition, or was it really for the greater good?
+There was one more reason holding `Maharishi` back - stopping him from going all in. He deemed his interest in ‘text’ might be perceived as being anti-establishment. He didn't think he was cynical, but he had uncomfortable positions with `Naad Yogies` — on them turning into gatekeepers of the knowledge. He was not sure if building a parallel channel of communication was good because it was good to his class - `Nyaan Yogies`; or was it truly a righteous path? Nor was he free from self-doubt — was he inclined towards ‘writing’ to satisfy his own ambition, or was it really for the greater good. Is he trying to burn the system just because he had the advantage ,thanks to early training ?  Or was it righteous! And he didn't want to make the same mistake as his father did!
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-Infinite impulses live in the past or the future - a better word is continuum - a sub conscious realm of thought. After intense back and forth, they fructify into one actionable. An action must be taken irrespective of dualities of thought - to bind them into a knot - to create a bond. When our action organs engage, it is the "Present". We act to weave the knots.
+Infinite impulses live in the past or the future - a better word is continuum - a sub conscious realm of thought. After intense back and forth, they fructify into one actionable. An action must be taken irrespective of dualities of thought - to bind them into a knot - to create a bond. When our action organs engage, it is the "present" of `Bramh`. We act to weave the knots.
+
+We think in past! We imagine in future! But we can't act anywhere outside the tiny window of the present. Present is the scope[^scope]. No one can ever hold a moment without actions.
+
+> ‘Present’ is the only window to engage with continuum (`Bramh`) and the invocation is ‘sensory’ in nature. The question really is how to turn this sensory invocation[^senses] into worthy action  - a `Karmik` reality[^karmik]. How to make sure actions are righteous ?
 
 </div>
 
@@ -28,7 +32,8 @@ A plethora of action items shaped up in `Maharishi's` mind. The first obvious ta
 What exactly is the ¨present¨? Would you call yourself in present when you are sleeping?
 
 
-We think in past! We imagine in future! But we can't act anywhere outside the tiny window of the present. Present is the scope [^scope]. No one can ever hold a moment without actions - least in so-called meditations because meditation, by definition is holding up our actions organs while we are awake, to focus on the continuum. It is impossible to hold your mind in "present" in a meditation. You can be in present only through indulging in actions. That said meditation can be useful to access the continuum (while you are awake), if only you could hold your thought on a specific item - it takes immense practice and in `Vaidik` parlance it is called a `Samadhi`.
+
+least in so-called meditations because meditation, by definition is holding up our actions organs while we are awake, to focus on the continuum. It is impossible to hold your mind in "present" in a meditation. You can be in present only through indulging in actions. That said meditation can be useful to access the continuum (while you are awake), if only you could hold your thought on a specific item - it takes immense practice and in `Vaidik` parlance it is called a `Samadhi`.
 
 Even the sense of time is with actions. Time is measured as a period of inaction (meditation) between two events (actions). The hourly bell of the pendulum. The secondly clicks of a watch - time is the period of inaction between two beeps. If all watches were to stay still - in same state - even those that tick in our body and mind (and in our computers), would we know the passage of time?  Time is thus the duration of thought between two acts. It is our actionless submersion into the continuum. Actions then appear as events - they themselves are timeless. No wonder we lose sense of time when we are busy in actions.
 
@@ -49,15 +54,12 @@ In a way, the actions are to test what is a right fit, and what is not - reconfi
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
 
-# `Nishchya` ..
-
 Walking back to his `Ashrama`, `Maharishi` reflected on the events of the last day. There are always some new twists whenever one indulges in the physical reality! — he thought. That is the reason one could never predict the next hour or next day — though predicting events say ten years from now is possible. And that is what makes this world such an interesting place! — he argued to himself. 
 
 > All prediction, whether they are ten years hence, or a hundred years, or a multi generational prophecy, may happen with their own slight nuances, but those tiny wrinkles are insignificant at this point in time. At this time we are lost in the nuances of the ‘present’ — the tiniest (but comprehensive) sensory details, as in color, smell and touch. These sensory overlays, in our current moment are important because our involuntary reactions (feedback) determine if the reality we create is worth spending our time or not. 
 
 This is where we need to feel and appreciate others' point of view. Compassion is thus a characteristic of the present and like `Karmas`, compassion lives in this very moment. Future is well-known — ultimately we all die, the important question is how we live our present. Because "present" is the only accessible ‘door’ to the future (and the past) — it is where the spotlight of consciousness is shining bright — this moment. In fact, it may be confusing to use the words ‘future’ or ‘past’. An easier way to say this is: 
 
->‘Present’ is the only window to engage with continuum (`Bramh`) and the invocation is ‘sensory’ in nature. The question really is how to turn this sensory invocation [^senses] into actionables - a `Karmik` reality [^karmik]. How to make sure actions are righteous ?
 
 
 ## 7.1

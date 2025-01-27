@@ -33,10 +33,6 @@ In a way, the actions are to test what is a right fit, and what is not - reconfi
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
 
-Walking back to his `Ashrama`, `Maharishi` reflected on the events of the last day. There are always some new twists whenever one indulges in the physical reality! — he thought. That is the reason one could never predict the next hour or next day — though predicting events say ten years from now is possible. And that is what makes this world such an interesting place! — he argued to himself. 
-
-> All prediction, whether they are ten years hence, or a hundred years, or a multi generational prophecy, may happen with their own slight nuances, but those tiny wrinkles are insignificant at this point in time. At this time we are lost in the nuances of the ‘present’ — the tiniest (but comprehensive) sensory details, as in color, smell and touch. These sensory overlays, in our current moment are important because our involuntary reactions (feedback) determine if the reality we create is worth spending our time or not. 
-
 This is where we need to feel and appreciate others' point of view. Compassion is thus a characteristic of the present and like `Karmas`, compassion lives in this very moment. Future is well-known — ultimately we all die, the important question is how we live our present. Because "present" is the only accessible ‘door’ to the future (and the past) — it is where the spotlight of consciousness is shining bright — this moment. In fact, it may be confusing to use the words ‘future’ or ‘past’. An easier way to say this is: 
 
 
@@ -89,6 +85,8 @@ Again, he used the new found tool to assess this fear. How would a young `Asura`
 
 `Maharishi Parāśara` was sold on the idea of `textification` but he was held back by apparent pit falls. He was waiting for a sign. Back and forth - churn in the continuum - something must be done - an action must fructify. Universe must lead him to the right path. `Bramh` must give him a clue for he was at a stalemate with his own mind. 
 
+**Notes and Stuff:**
+
 [^present]: What exactly is the present?
 - Would you call yourself in present when you are sleeping?  Or in deep meditations. Meditation, by definition is holding up our actions organs while we are awake. That is the reason it is impossible to hold our mind in present in a meditation. We can be in present only through indulging in actions.
 - Meditation is useful to access the continuum, if only we could hold our thought on a specific item - it takes immense practice and in `Vaidik` parlance it is called a `Samadhi`.
@@ -96,14 +94,13 @@ Again, he used the new found tool to assess this fear. How would a young `Asura`
 - The continuity of the present is an illusion. We are a good story tellers to ourselves. We weave random action events into a narrative. The events might occur in past or in future - our narratives gives them an order. They define the objects and characters available to us in the "scope". That's the reason we never feel discontinuity after ten hours of sleep - even after six months of coma. Our brains simply line up the events to describe a story.
 - In essence, the meaning of the word "present" is the active state. In between we dwell in past or future. Thought is the worm-hole to move to the past -  to edit the narrative captured in our mind. And thus there is no notion of "present" in our action less sleep. `Dwaipayana` wrote in third chapter of `Gita` > Nahi Kashchit Khshanam Api, Jatu tishthati Akaramkrit !  >> No one gets to stay without actions even for a moment .
 
-**Notes and Stuff:**
 
 ---
 
 [^scope]: Scope:
-- In computer programming, the scope is a block of code where we may access a variable, a function or a constant; to do some action with it. The memory where the said objects are stored is released back to the pool as soon as objects go out of scope.
-- In other words scope is the present for a compiler or a run time.
-- In strongly typed languages (such as Rust), objects of same type are allowed to interact. For example, you can only add a integer to another as long as they both are in scope. You can't add an int to a float. In other words, present always comes with rules. In fact, the gift is set of rules. `Siva` (intelligence) creates the rule set.
+- In computer programming, the scope is a block of code where we may access a variable, a function or a constant; to do some action with it. The memory where the said objects are stored is released back to the pool as soon as objects go out of scope. In other words scope is the present for a Computer. In strongly typed languages (such as Rust), objects of same type are allowed to interact. For example, you can only add a integer to another as long as they both are in scope. You can't add an int to a float. In other words, present always comes with rules. In fact, the gift is set of rules. `Siva` (intelligence) is the rule set.
+- There are always some new twists whenever one indulges in the physical reality! — the scope. That is the reason one could never predict the next hour or next day — though predicting events say ten years from now is possible. And that is what makes this world such an interesting place! 
+- All prediction, whether they are ten years hence, or a hundred years, or a multi generational prophecy, may happen with their own nuances, but those wrinkles of the evolving rule set are insignificant at this point in time. At this time we are lost in the nuances of the present — the tiniest (but comprehensive) sensory details, as in color, smell and touch. These sensory overlays, in our current moment are important because our involuntary reactions (feedback) determine if the reality we create is worth spending our time or not. These sensory experiences, however, don't change the future - they only effect the experience.
 
 ---
 

@@ -1,6 +1,30 @@
 # 7.0
 
-`Maharish` saw `Maitrea` as he stepped into  `Ashrama`. He was watering the trees at the entrance of congregation. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. `Maitrea`, wondering why `Maharishi` missed morning procession, asked with a curious smile - hope all well! He had barely finished greetings when`Maharishi` asked ...
+Spending a night at the island always sharpened his thinking. The `Samadhi` at the cave, helped `Maharishi` conclude the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective, while they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was the very basis of new design, and it was exact opposite to current notion of debate. No one wanted to say "you are right" ; the question was always to check "am I not right?"
+
+Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it.
+
+The key revelation, however  was, if we attain the ability to see the world exactly as someone else sees it then we also get to see “who we are?” - from their standpoint. It should not be a surprise because if you could use someone's eyes, first thing you would like to see is your own face. Why? Because the fundamental quest is "who am I?". We rise the heights of mountains and sink to depths of oceans to figure out who we are? We explore ends of space and also meditate in our own hearts to know who we are!
+And unfortunately our eyes can't see our own face. Our ears can't hear our own heartbeat. We must ascribe to another set of sensory apparatus to see who we are!
+
+<!-- markdownlint-disable-next-line -->
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+Our sensory apparatus is designed to see everything other than that we claim our own. In essence, we can never understand the limitations of our ‘point of view’ unless we truly see it from others' standpoint. The problem is, our sensory apparatus (eyes, ears, nose, tongue and skin) doesn't know how to enable this ability. Our senses are designed to see external things — outwards, whereas seeing our own self is ‘metaphorically’ inwards. Since we can't turn our senses upside down, the only way available to perceive “who we are?” is through subscribing to others' senses. And this access is available only At this moment, and only through compassion. Why only? Because compassion generates feedback from others. For example, no one would look into your eyes straight if you did something trivial - not so good. Even if you seek formal feedback, the answer normally is a "thanks" without making an eye contact. On the other hand, if you did something perfect, the feedback is spontaneous. You can see it in their eyes. You don't need to seek feedback - neither they need to say a thanks. In a way, the other person is letting you use their eyes - to show you what they really think of you.
+
+</div>
+
+At that moment with `Matsya`, `Maharishi` saw himself through her eyes. Though it was a brief meetup, and unplanned — she was neither educated nor elite — but she was an embodiment of a commoner's hopes from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners. Because while the elite class of `Naad Yogies` were busy solving greater problems, the masses suffered the untold miseries of life that never featured in any narrative - old or new.
+
+He saw he must rise to make a difference in the lives of ordinary people, and being the sole heir of `Bramhrishi` - the keeper of knowledge — that was his destiny. He must rise above the never-ending conflicts, and the petty prejudices of his own class, and must indulge in actions that the masses expected him to render. He understood the idea of `Karm Yoga` though it was still beyond articulation. He also felt the extreme weight of the responsibility he retained, for the privileges of being `Vaśiṣṭha's` grandson must be paid back to the realm.
+
+For a moment, he missed his grandfather. He wished `Bramhrishi` was there with him, to guide him through this maze — to navigate him onto a righteous path!
+
+## 7.1
+
+`Maharish` saw `Maitrea` as he stepped into  `Ashrama`. He was watering the trees at the entrance of congregation. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. For a moment `Maharishi` thought if he would be a right match for `Matsya`. Would he accept her?
+
+`Maitrea`, wondering why `Maharishi` missed morning procession, asked with a curious smile - hope all well! He had barely finished greetings when`Maharishi` asked ...
 
 > `Maitrea` if God is kind and loving , why is there misery in the world?
 
@@ -23,11 +47,13 @@ We think in past! We imagine in future! But we can't act anywhere outside the ti
 
 It was time to set the wheels rolling. A new set of basic terms must be written down and embedded into every instance of conscious thinking, every social contract — be it an individual, a group or even a kingdom — every single format of human organization. Time was ripe for a new narrative (to supplement `Ramayana`) but who would do that? How could someone crystallize the righteous path into written words. How and who will elucidate `Karm Yoga` to the masses? Maybe, it was a feat that be accomplished over many generations — like a relay race. Not only that, the path must be told as a compelling story that takes the collective consciousness onto a new charter — just the way `Ramayana` did in last eon. Stories, he thought, were the best way to circumvent a debate for they weave the context. But the story must be tested in physical reality. Because truth is what actually happens in physical reality, and only truth has the staying power!
 
-`Maharishi` felt as if he wanted to create a little intervention in the fabric reality - to see how the things shape up ! Let `Bramh` itself play the narrative and have someone record everything. 
+`Maharishi` felt as if he wanted to create a little intervention in the fabric of reality - to see how the things shape up ! Let `Bramh` itself play the narrative and have someone record everything.
 
-## 7.1
+## 7.2
 
-`Maharish` knew his father largely from his mother. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long standing animosity between the two sages. 
+`Maharish` woke in the middle of the night. Sweat on his forehead and neck. He drank some water from the earthen pot by his side and sat down on his rug. He was talking to his father, but he couldn't see his face. In fact, he had never seen his face. Not only he died before his birth, there was no painting of him.
+
+He knew his father largely from his mother and the childhood chatter around him. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
 
 `Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was applications of fire. Fire was discovered long back for cooking but no one ever thought a special type of fire could forge metals. His most precious discovery was gold. No one knew how to make gold except for `Vishwamitra`, but everyone knew he realized these powers on account of extreme penance. The legend says he spent one thousand years alone in his spiritual journey - to unlock the power of Sun. Legend also says that `Vishwamitra` instigated `Kalmashpada` to kill `Sakti`.
 
@@ -57,22 +83,6 @@ Most of the actions are driven by duality - formation of a chiral knot. We try t
 In a way, the actions are to test what is a right fit, and what is not - reconfiguration. Like we slowly take a small sip of coffee - to check if it is hot (or not). After many trials and consequent feedback loops, we develop a right routine. The actions done at this stage are an outcome of a resolve -  a correct objective assessment of the context to bridge the gaps in reality . An experienced (well-trained) response is said to be out of a ¨resolve¨ - it is called `Nishchya`- Like a surgeon's call to cut open a patient's heart. In `Vaidik` parlance, the `Nishchaya` is an outcome of `Yazna` - repetitive actions.
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
-
-This is where we need to feel and appreciate others' point of view. Compassion is thus a characteristic of the present and like `Karmas`, compassion lives in this very moment. Future is well-known — ultimately we all die, the important question is how we live our present. Because "present" is the only accessible ‘door’ to the future (and the past) — it is where the spotlight of consciousness is shining bright — this moment. In fact, it may be confusing to use the words ‘future’ or ‘past’. An easier way to say this is:
-
-Spending a night at the island always sharpened his thinking. The `Samadhi` at the cave, helped `Maharishi` conclude the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective, while they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was the very basis of new design, and it was exact opposite to current notion of debate. No one wanted to say "you are right" ; the question was always to check "am I not right?"
-
-Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it.
-
-> The key revelation, however  was, if we attain the ability to see the world exactly as someone else sees it then we also get to see “who we are” from their standpoint. It should not be a surprise because if you could use someone's eyes, first thing you would like to see is your own face. Why? Because the fundamental quest [^quest] is "who am I?"? And unfortunately our eyes can't see our own face. Our ears can't hear our own heartbeat. We must ascribe to another set of sensory apparatus to see who we are!
-
-Our sensory apparatus is designed to see everything other than that we claim our own. In essence, we can never understand the limitations of our ‘point of view’ unless we truly see it from others' standpoint. The problem is, our sensory apparatus (eyes, ears, nose, tongue and skin) doesn't know how to enable this ability. Our senses are designed to see external things — outwards, whereas seeing our own self is ‘metaphorically’ inwards. Since we can't turn our senses upside down, the only way available to perceive “who we are?” is through subscribing to others' senses. And this access is available only At this moment, and only through compassion. Why only? Because compassion generates feedback from others. For example, no one would look into your eyes straight if you did something trivial - not so good. Even if you seek formal feedback, the answer normally is a "thanks" without making an eye contact. On the other hand, if you did something perfect, the feedback is spontaneous. You can see it in their eyes. You don't need to seek feedback - neither they need to say a thanks. In a way, the other person is letting you use their eyes - to show you what they really think of you.
-
-At that moment with `Matsya`, `Maharishi` saw himself through her eyes. Though it was a brief meetup, and unplanned — she was neither educated nor elite — but she was an embodiment of a commoner's hopes from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners. Because while the elite class of `Naad Yogies` were busy solving greater problems, the masses suffered the untold miseries of life that never featured in any narrative - old or new.
-
-He saw he must rise to make a difference in the lives of ordinary people, and being the sole heir of `Bramhrishi` - the keeper of knowledge — that was his destiny. He must rise above the never-ending conflicts, and the petty prejudices of his own class, and must indulge in actions that the masses expected him to render. He understood the idea of `Karm Yoga` though it was still beyond articulation. He also felt the extreme weight of the responsibility he retained, for the privileges of being `Vaśiṣṭha's` grandson must be paid back to the realm.
-
-For a moment, he missed his grandfather. He wished `Bramhrishi` was there with him, to guide him through this maze — to navigate him onto a righteous path!
 
 ## 7.2
 
@@ -105,6 +115,9 @@ Again, he used the new-found tool to assess this fear. How would a young `Asura`
 `Maharishi Parāśara` was sold on the idea of `textification`, but he was held back by apparent pitfalls. He was waiting for a sign. Back and forth - churn in the continuum - something must be done - an action must fructify. Universe must lead him to the right path. `Bramh` must give him a clue for he was at a stalemate with his own mind.
 
 **Notes and Stuff:**
+
+
+---
 
 [^present]: What exactly is the present?
 <!-- markdownlint-disable-next-line -->
@@ -145,4 +158,3 @@ Again, he used the new-found tool to assess this fear. How would a young `Asura`
 
 ---
 
-[^quest]: At the most fundamental level, all our quest is to know "who we are" , we rise the heights of mountains and sink to depths of oceans to figure out who we are? We explore ends of space and also meditate in our own hearts to know who we are!

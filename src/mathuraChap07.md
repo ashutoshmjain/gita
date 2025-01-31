@@ -72,7 +72,31 @@ Next day `Maharishi` sent a message to `Ugrasen` to check if there was a paintin
 
 `Maharishi` placed the statue in his room at waist height.
 
-Every night he would light a small fire and sit in front of the statue. This night he must have stared for over an hour. Seeking for resolve. And he didn't know when he slipped into a `Samadhi`. His eyes half closed and his lips talking to his father.
+Every night he lit a small fire and sit in front of the statue. This night he must have stared for over an hour. Seeking for resolve. And he didn't know when he slipped into a trance. His eyes half closed and his lips talking to his father.
+
+`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. His long hair well-made while `Parashara` felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt as if energy started flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing. Where am I ? He asked ! But he didn't get a response other than a big smile on `Sakti's` face.
+
+As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question came from the guts of his soul. 
+
+Did I ask you to take a revenge ? - asked `Sakti Muni`?
+
+But what am I supposed to do if someone killed my clan ? - `Parasara` continued with same naïvety.
+
+You are supposed to expand your clan - suggested `Sakti`.
+
+What ? - that was the exact opposite of what `Parasara` did. He vowed for celibacy before he left the `Ashrama`! Celibacy, he was told, would turn into the firetraps of revenge and it did happen. 
+
+Why are you surprised ? - asked the father - if you hate life, wouldn't you be empowered to kill - burn the life ? 
+
+Clarity dawned upon `Maharishi` - what should I do now? - he bent on knees with his hands folded. 
+
+Bear a son - not for me or your forefathers - rear a child for that is the only exit for you. 
+
+But I am celibate for life !
+
+What has celibacy to do with a child - you have seed of `Bramh`, and `Siva` and you yourself are blessed by `Vishnu` - manifestation is natural where three potencies meet.
+
+`Sakti` disappeared - `Maharishi` crumbled on the floor - lifeless. 
 
 ## 7.40
 

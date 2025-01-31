@@ -18,7 +18,7 @@ Because service with compassion generates instantaneous feedback. Not only from 
 
 </div>
 
-At that moment with `Matsya`, `Maharishi` saw himself through her eyes. Though it was a brief meetup, and unplanned — she was neither educated nor elite — but she was an embodiment of a commoner's hopes from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners. Because while the elite class of `Naad Yogies` were busy solving greater problems, the masses suffered the untold miseries of life that never featured in any narrative - old or new.
+Walking back to `Ashrama`, `Maharishi` thought about the boat ride. At that moment with `Matsya`, when he blessed her, he felt as if he saw himself through her eyes. Though she was neither educated nor elite — but she was an embodiment of a commoner's hopes from the highest order of human wisdom. One who knew nothing to one who knew it all.  Her purity and intelligence acted like an untainted  mirror to `Maharish's` soul. He saw in her vantage the path he was on and what masses expected him to accomplish. They expected him not to win arguments with other `Yogies`, or to burn the `Rakshsas` to revenge his clan. They rather wanted him to pave a “path to peace” for the commoners. Because while the elite class of `Naad Yogies` were busy solving greater problems, the masses suffered the untold miseries of life that never featured in any narrative - old or new.
 
 He saw he must rise to make a difference in the lives of ordinary people, and being the sole heir of `Bramhrishi` - the keeper of knowledge — that was his destiny. He must rise above the never-ending conflicts, and the petty prejudices of his own class, and must indulge in actions that the masses expected him to render. He understood the idea of `Karm Yoga` though it was still beyond articulation. He also felt the extreme weight of the responsibility he retained, for the privileges of being `Vaśiṣṭha's` grandson must be paid back to the realm.
 
@@ -26,7 +26,7 @@ For a moment, he missed his grandfather. He wished `Bramhrishi` was there with h
 
 ## 7.1
 
-`Maharish` saw `Maitrea` as he stepped into  `Ashrama`. He was watering the trees at the entrance of congregation. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. For a moment `Maharishi` thought if he would be a right match for `Matsya`. Would he accept her?
+`Maharish` saw `Maitrea` as he stepped into  `Ashrama`. He was watering the trees at the entrance of congregation. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. For a moment `Maharishi` thought if he would be a right match for `Matsya`. Would he accept her as is? Could I bless her to be beautiful - and fragrant! `Maharishi` brushed the thought away to speak to `Maitrea`.
 
 `Maitrea`, wondering why `Maharishi` missed morning procession, asked with a curious smile - hope all well! He had barely finished greetings when`Maharishi` asked ...
 
@@ -55,29 +55,26 @@ It was time to set the wheels rolling. A new set of basic terms must be written 
 
 ## 7.2
 
-`Maharish` woke in the middle of the night. Sweat on his forehead and neck. He drank some water from the earthen pot by his side and sat down on his rug. He was talking to his father, but he couldn't see his face. In fact, he had never seen his face. Not only he died before his birth, there was no painting of him.
+`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water from the earthen pot by his side and sat down on his rug. He was talking to his father, but he couldn't see his face. In fact, he had never seen his face. For one, he died before his birth, second there was no painting of him. It is hard to make up a face from description, and he never cared to ask anyone to draw his picture. He wondered if there was some artist alive who had seen him.
 
-He knew his father largely from his mother and the childhood chatter around him. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
-
-`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was applications of fire. Fire was discovered long back for cooking but no one ever thought a special type of fire could forge metals. His most precious discovery was gold. No one knew how to make gold except for `Vishwamitra`, but everyone knew he realized these powers on account of extreme penance. The legend says he spent one thousand years alone in his spiritual journey - to unlock the power of Sun. Legend also says that `Vishwamitra` instigated `Kalmashpada` to kill `Sakti`.
+He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-`Vishwamitra` orchestrated the events that led to `Sakti's` death.
-
-`Sakti`, encountered King `Kalmashapada's`  chariot in the forest and refused to move aside. This led to an argument, during which `Kalmashapada` lashed out at `Sakti` with his whip. Enraged, `Sakti` cursed the king to become a `Rakshasa` (demon).
-
-`Vishwamitra`, who was `Vasishtha's` rival, saw this incident and was pleased. He then manipulated the situation by instructing another `Rakshasa` named `Kinkara` to enter `Kalmashapada's` body, causing the curse to take effect.
-
-The next day, the transformed `Kalmashapada`, now with the nature of a `Rakshasa`, went to `Sakti's`  hermitage seeking revenge. He killed `Sakti` and ate him, also killing his  brothers.
-
-`Vishwamitra's` motivation for this plot was his long-standing rivalry with `Vasishtha`. By orchestrating `Sakti's` death, `Vishwamitra` sought to harm `Vasishtha` . This event was part of a series of conflicts between the two sages, which had begun with a dispute over a divine cow `Kaamdhenu` and escalated into a power struggle
+`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was his devotion of Sun God. His most precious verse was `Gaytri Mantra` - a devotional verse for Sun. It was believed Sun gave him the method to forge gold. It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method.
 
 </div>
 
-Only `Vaśiṣṭha` knew that `Sakti` had deep appreciation for `Vishwamitra` for the work he did in metals. And he himself wanted to learn how to forge Gold. His ideology of `Karm Yoga` was inspired by innovation.
+Next day `Maharishi` sent a message to `Ugrasen` to check if there was a painting of his father or if there was an artist alive who could paint one. To his good luck `Ugrsen` himself came to `Ashrama` with a statue of `Sakti Muni`. Immediately after assuming the crown, he had ordered statues for his elders and he treated both `Bramhrishi` and `Sakti Muni` as his own.
 
+## 7.3
+
+`Maharishi` placed the statue in his room at waist height.
+
+Every night he would light a small fire and sit in front of the statue. This night he must have stared for over an hour. Seeking for resolve. And he didn't know when he slipped into a `Samadhi`. His eyes half closed and his lips talking to his father.
+
+## 7.40
 
 Sometimes resolutions show up out of thin air. It was one such moment. `Maharishi` saw a clear path forward if only he vowed to not scribe any (more) books himself — with his name as the author! If he took this call on himself, then clearly he was not acting out of hope for personal gratification. No one knows if such ‘vows’ have any material impact, but they do purify one's own soul. And we do see similar vows these days. For example `Satoshi Nakamoto` is a pseudonym. No one knows who wrote the white paper and software for the bitcoin. In a way, by putting a pseudonym, the real author withheld her name from one of the biggest intervention of this century. `Maharishi` was convinced, true `Karma` must "literally" be self-less.
 
@@ -88,38 +85,7 @@ In a way, the actions are to test what is a right fit, and what is not - reconfi
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
 
-## 7.2
-
-`Maharishi` concluded there was only one way to enable people see beyond what they deemed righteous — beyond their own point of view: add the ability to see oneself 'objectively' in every human being — as if they were seeing themselves from a distance — just the way they see others. He named this ability - `Atmoupamyen Drishti`. In Sanskrit `Drishti` means the vision, and `Atmoupamyen` means looking at self from a distance.
-
-He wondered would he act the way he did if he saw himself from `Kalmashpada's` vantage. Quite possibly the monster king and his accomplices that grotesque morning, were equally scared now, and remorseful of their deeds in earlier life. Did they deserve a pardon? — or must they be tested in the firetrap ? `Maharishi` understood that one's righteous actions are determined by the conditions and the surrounding actors, in their physical reality, but most people have hard time understanding what their "tiny-box" expected of them. The question was how to enable this ability in a commoner? It wouldn't be reasonable to expect everyone gain expertise in astrology (like himself) and have the `Yougik` capabilities. There must be a simpler method!
-
-As he dug deeper into this thought, he realized there was a simple method. He thought — people around us always give us clues, on our behaviour. Normally, they try to restrict their feedback if we are not to their expectations, but they shower full feedback if we do something good for them. Doing something good for others is what we know as service (`Sewa`). He concluded that service to others unlocks the feedback cycle. Through this feedback, anyone (even a common person) may glean a lot of information about himself. In other words, ‘service’ is "one" path that enables `Atmoupamyen Drishti`. The next obvious question was how to enable service orientation in the masses?
-
-Since the idea of selfless service (to gain feedback about oneself) was beyond natural human behaviour, and quite the opposite to evolutionary selfish impulse (of `Swadhisthana` and `Manipurka` Chakras), the obvious place where this model could be provisioned was heart (`Anahata`). Kindness, gratitude, indebtedness, love are the traits (`vritties`) of heart chakra. These traits develop in humans listening to the stories (`Samskaras`), right from their childhood. They enable them put themselves among ghosts and good, thieves and givers, haters and lovers — in essence they define morality. Human cosmos has more stories than the stars and planets. More stories a child is exposed, more vivid her imagination. This is where service orientation must be nurtured. Service orientation to enable them see themselves objectively and hence an option to determine what is right set of actions for them.
-
-`Maharishi` didn't realize that this simple idea was the basis of `Karm Yoga`. In `Karm Yoga` we start with selfless service, beyond desires of personal gratification, to enable us understand who we are. Since these actions enable us to know who we are, we may simply say, these actions are driven by our inner self - compassion!
-
-This ability, he fathomed, was as important as the natural impulses of hunger and reproduction. For example, when he felt the compassion for `Matsya`, he realized the feeling he had, was more than natural tension of sexes. Love for sex and love for the offspring, are something well-known to every human. They are pre-built into every core including those of animals. Being able to feel for someone, beyond these two basic constructs is compassion. And he recalled what his grandfather always taught him. Compassion comes when `Heart Chakra` opens up. When pathway of compassion opens up, the conflicting views of others get as personal as one's own point of view. But having compassion alone is not enough. Compassion must translate into actions. Actions that lead to self-less service in reality; and thus a real self evaluation based on the feedback of others. In essence - compassion renders us access to someone else's sensory apparatus. You may see yourself - at least in bits and pieces.
-
-## 7.3
-
-`Maharishi` understood, every human needed `Atmoupamyen` vision. The question was how to impart this ability to every human being. Adding the messages of compassion led service into every scripture was one possibility. In fact, these messages were already there in every spoken scripture. The problem was scriptures were locked under wraps in a close network of people, or were protected for a privileged class. How would this knowledge reach everyone? The simple answer was ‘written text’. It was the only way to open the flood gates of information to the masses. Opening up this channel, he thought, would be the biggest act of self-less service to mankind! He understood he was uniquely qualified to do this job. Having learnt speech as well as scribing right from his childhood positioned him well for the pursuit.  In a way, this was his `Karma`.
-
-This also meant everyone must be able to at least read (if not write). A long journey — he thought, but well worth trying. And that was the reason he was keen on the format of the written word - It must be a narrative. From his experience of `Vishun Purana`, he figured that story telling was a superior art. But it was a ‘vocal’ art-form. It must be realized in written format. Something that attracted people — young and old. People remembered `Ramayana` by heart, because it was a narrative, but masses didn't remember other didactic scriptures at all! Scriptures had to be forcefully recited by `Naad Yogies` to give them perpetuity. Thus, he concluded,  the new knowledge must be ‘scribed’ in `Ramayana's` format. It must be self-descriptive, and intense enough to capture the public imagination. It must be so gripping that masses are pulled into learning the reading skills.
-
-He wondered, how might one scribe a story! It was never done before. Someone will need to define all the characters. A plot must be built in writing. All the things that come naturally while telling a story verbally, would need to be defined. And the words so carefully crafted that people feel immersed in a virtual reality.
-
-There was a significant risk. How would reciters view the idea of scribing a story? Will people read a story rather than listening to it? Will it have similar impact? The unknowns were bogging him down, but at the same time, he felt an excitement. A resolution was taking a definite shape. It not only paced his breath but also his limping feet walking towards the `Ashrama`. He wanted to sit down and scribe these ideas himself on the palm leaf still held in his hand.
-
-Excitement always leads to urgency. Now was the time - he thought - because as the populations were increasing (and spreading). It would be lot harder in the future. At the same time he was skeptical — what if the written texts got into hands of `Asuras`? His mind still a victim of doubts. Internal churn was still on. For example, Astrology was a powerful tool. He wanted to make sure the access was only to the ones who deserved it. But who might get to decide? No wonder, `Naad Yogies` thought the act of writing was demonic. Once you wrote the words down, it would almost be impossible to keep a track of the readers. A book has its own journey. Ideas could reach the darker side. And it could very well turn the balance of power — take the world into uncharted territories — he feared.
-
-Again, he used the new-found tool to assess this fear. How would a young `Asura` react to the idea of restricted access? Wouldn't limiting the access push her further on the anarchic path? If, despite being a `Maharishi`, he himself didn't trust the other side, how were they expected to trust the `Vaidik vision`? Not only trust, the ‘written text’ was an opportunity to win the hearts of other side. `Asuras` were barred from participating in rituals. A book could be read offline, without having to show up at `Vaidik` ceremonies. Let them see the light at a place of their comfort, and be a part of human progress — together. A state where multiplicity of ideas could co-exist. People could write without fear of persecution and at the same time read something obtuse to their own vantage. But then, hard coding the knowledge into written text, and making it publicly available, without the context, without the rigor needed to bear the ‘knowledge’ could be harmful to the masses.
-
-`Maharishi Parāśara` was sold on the idea of `textification`, but he was held back by apparent pitfalls. He was waiting for a sign. Back and forth - churn in the continuum - something must be done - an action must fructify. Universe must lead him to the right path. `Bramh` must give him a clue for he was at a stalemate with his own mind.
-
 **Notes and Stuff:**
-
 
 ---
 

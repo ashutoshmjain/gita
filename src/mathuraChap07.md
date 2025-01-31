@@ -76,7 +76,7 @@ Every night he lit a small fire and sit in front of the statue. This night he mu
 
 `Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. His long hair well-made while `Parashara` felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt as if energy started flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing. Where am I ? He asked ! But he didn't get a response other than a big smile on `Sakti's` face.
 
-As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question came from the guts of his soul. 
+As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question came from the guts of his soul.
 
 Did I ask you to take a revenge ? - asked `Sakti Muni`?
 
@@ -84,28 +84,45 @@ But what am I supposed to do if someone killed my clan ? - `Parasara` continued 
 
 You are supposed to expand your clan - suggested `Sakti`.
 
-What ? - that was the exact opposite of what `Parasara` did. He vowed for celibacy before he left the `Ashrama`! Celibacy, he was told, would turn into the firetraps of revenge and it did happen. 
+What ? - that was the exact opposite of what `Parasara` did. He vowed for celibacy before he left the `Ashrama`! Celibacy, he was told, would turn into the firetraps of revenge, and it did happen.
 
-Why are you surprised ? - asked the father - if you hate life, wouldn't you be empowered to kill - burn the life ? 
+Why are you surprised ? - asked the father - if you hate life, wouldn't you be empowered to kill - burn the life ?
 
-Clarity dawned upon `Maharishi` - what should I do now? - he bent on knees with his hands folded. 
+Clarity dawned upon `Maharishi` - what should I do now? - he bent on knees with his hands folded.
 
-Bear a son - not for me or your forefathers - rear a child for that is the only exit for you. 
+Bear a son - not for me or your forefathers - rear a child for that is the only exit for you.
 
 But I am celibate for life !
 
-What has celibacy to do with a child - you have seed of `Bramh`, and `Siva` and you yourself are blessed by `Vishnu` - manifestation is natural where three potencies meet.
+What has celibacy to do with a child - you have seed of `Bramh`, and `Siva` and you yourself are blessed by `Vishnu` - manifestation is natural where three potencies meet!
 
-`Sakti` disappeared - `Maharishi` crumbled on the floor - lifeless. 
+`Sakti` disappeared - `Maharishi` crumbled on the floor - lifeless.
 
 ## 7.40
 
-Sometimes resolutions show up out of thin air. It was one such moment. `Maharishi` saw a clear path forward if only he vowed to not scribe any (more) books himself — with his name as the author! If he took this call on himself, then clearly he was not acting out of hope for personal gratification. No one knows if such ‘vows’ have any material impact, but they do purify one's own soul. And we do see similar vows these days. For example `Satoshi Nakamoto` is a pseudonym. No one knows who wrote the white paper and software for the bitcoin. In a way, by putting a pseudonym, the real author withheld her name from one of the biggest intervention of this century. `Maharishi` was convinced, true `Karma` must "literally" be self-less.
+`Maharishi` found himself in the `Vaidya shala` - the congregation hospital when he woke up. `Maitrea` was sitting by his bed holding his hand and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. As he opened his eyes, `Vaidya Raj` - chief medical officer offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
+
+`Maharish` looked at `Maitrea` - with love and gratitude in his eyes. The night played in front of his eyes. He asked `Maitrea`
+
+> If a river flows through your land, do you have right to stop the flow and keep entire water to yourself? - and he smiled!
+
+`Maitrea` once again understood, `Maharishi` wanted a coin toss. A validation for his thought. He said - `Maharish` you only taught us water and fire can not be bound to a vessel for the potency is in the flow.
+
+`Maharishi` found his answer. He drank the milk and stood up. It was time for the procession. He excused himself and asked everyone to continue with their day - I shall rest in my room for a little before I see you for morning prayers.
+
+Sometimes resolutions show up out of thin air. It was one such moment. `Maharishi` saw a small wand lying below the statue of his father as he stepped into his room. He picked up the wand. He saw name of his father inscribed near the handle. He understood the wand was his path to have a child without having to let go his celibacy. It was an exit not only for himself but also hundreds of `Rakshas` he killed. He must invoke the power (`Sakti`) to undo all the bondages and let the life flow once again!
+
+As one bondage breaks, others follow the suite. He saw a clear path forward - if only he vowed to not scribe any (more) books himself — with his name as the author! If he took this call on himself, then clearly he was not acting out of hope for personal gratification. No one knows if such ‘vows’ have any material impact, but they do purify one's own soul. And we do see similar vows these days. For example `Satoshi Nakamoto` is a pseudonym. No one knows who wrote the white paper and software for the bitcoin. In a way, by putting a pseudonym, the real author withheld her name from one of the biggest intervention of this century. `Maharishi` was convinced, true `Karma` must "literally" be self-less.
 
 A plethora of action items shaped up in `Maharishi's` mind. The first obvious task was to determine the perfect planetary alignment to bring a worthy heir to life. A time must be determined to enable the universe find a writer who could reap truth just the way paddy sowed at right time bears rice. The world might know him as his son, but he would be the son of knowledge.  He would translate his ideas into text. He would mark the exact center where evil meets the good and both play a perfect dance of life. A balance to ride the waves of joy and grief. Something that could show the path to peace, to a disoriented society. And pull them from both excessive darkness and excessive light. An island in the river of time, between two banks that never seem to meet each other — `Dvaipayana` — born on an island!
-Most of the actions are driven by duality - formation of a chiral knot. We try to create a mirror image. We fill up the reality with the missing pieces of puzzle to create a perfect image of our thought. For example if one likes left wing politics; that is what they want to implement in physical world - bigger governance for bigger regulation. A far right libertarian, on the other hand, wants to make government as small as possible. A player wants everyone to play the sport of their liking. A writer wants everyone to read their work. The mechanics of it is fairly straightforward - our physical reality is reconfigured from the underlying narrative our consciousness is exploring - actions are the means to do so.
 
-In a way, the actions are to test what is a right fit, and what is not - reconfiguration. Like we slowly take a small sip of coffee - to check if it is hot (or not). After many trials and consequent feedback loops, we develop a right routine. The actions done at this stage are an outcome of a resolve -  a correct objective assessment of the context to bridge the gaps in reality . An experienced (well-trained) response is said to be out of a ¨resolve¨ - it is called `Nishchya`- Like a surgeon's call to cut open a patient's heart. In `Vaidik` parlance, the `Nishchaya` is an outcome of `Yazna` - repetitive actions.
+## 7.5
+
+`Maharishi` arrived at `Ugrasen's` main door little after noon. King was finishing his daily rituals as he saw `Maharishi` step in. He was pleased to see rare smile on `Maharishi's` face. After exchanging pleasantries they sat down in respective chairs.
+
+`Maharishi` thanked the king for the statue. And also asked for more favor - `Maharaj` you know there is a haunted island in `Yamuna` across our `Ashrama`. I am here to seek permission to do penance on the island - undisturbed.
+
+You don't need my permission for that `Maharishi`. From this day on, the island belongs to congregation. - Kind said in a decisive tone that reflected inner resolve of `Maharishi`
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
 
@@ -151,4 +168,3 @@ In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent 
 > One who initiates (actions) by regulating the senses with mind ; engaged in Karm Yoga -ritual of actions, with active work organs, and detached to sensory consumption; such a person is a special one.
 
 ---
-

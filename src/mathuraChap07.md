@@ -1,11 +1,13 @@
 # 7.0
 
-Spending a night at the island always sharpened his thinking. This time `Maharishi` concluded the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective, while they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was the very basis of new design, and it was exact opposite to current notion of debate. No one wanted to say "you are right" ; the question was always to check "am I not right?"
+Spending a night at the island always sharpened his thinking. This time, `Maharishi` concluded the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective - though, they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was supposed to be the very basis of new design.
+
+> No one ever wanted to utter "you are right" ; the question was always to check "am I not right?"
 
 Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it. In a way, `Maharishi` reevaluated his skill. He always took pride in seeing the future - now he discovered looking at present from someone else's vantage was useful too - probably more! It was the path to peace and human success!
 
 The key revelation, however  was, if we attain the ability to see the world exactly as someone else sees it then we also get to see “who we are?” - from their standpoint. It should not be a surprise because if you could use someone's eyes, first thing you would like to see is your own face. Why? Because the fundamental quest is "who am I?". We rise the heights of mountains and sink to depths of oceans to figure out who we are? We explore ends of space and also meditate in our own hearts to know who we are!
-And unfortunately our eyes can't see our own face. Our ears can't hear our own heartbeat. We must ascribe to another set of sensory apparatus to see who we are!
+And unfortunately our eyes can't see our own face. Our ears can't hear our own heartbeat. We must subscribe to another set of sensory apparatus to see who we are!
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;"> 

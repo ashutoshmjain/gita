@@ -3,6 +3,8 @@
 Spending a night at the island always sharpened his thinking. This time, `Maharishi` concluded the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective - though, they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was supposed to be the very basis of new design.
 
 > No one ever wanted to utter "you are right" ; the question was always to check "am I not right?"
+>
+> The idea was later adopted by Jainism as one of its core principle - `Anekantvad`[^Aneka] - plurality of points of view from different vantages. The idea of plurality of possible outcomes later developed as a probabilistic prediction system known as `Syatvaada`[^Syat] - the forefather of modern day probability theory and quantum mechanics.
 
 Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it. In a way, `Maharishi` reevaluated his skill. He always took pride in seeing the future - now he discovered looking at present from someone else's vantage was useful too - probably more! It was the path to peace and human success!
 
@@ -131,6 +133,25 @@ In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent 
 **Notes and Stuff:**
 
 ---
+
+[^Aneka]: Anekantavad, is a fundamental doctrine in Jain philosophy that emphasizes the principles of pluralism and multiplicity of viewpoints. The term "Anekantvad" is derived from the Sanskrit words "anekānta" (meaning "not one-sided" or "many-sided") and "vāda" (meaning "doctrine" or "theory"). It is often translated as the "doctrine of non-absolutism" or the "theory of manifold perspectives."
+- Key Principles of Anekantvad: Multiplicity of Truth: Anekantvad asserts that truth and reality are complex and can be perceived from multiple perspectives. No single viewpoint can claim to represent the absolute truth in its entirety.
+- Syadvada (Theory of Conditional Predication): This is a corollary of Anekantvad, which uses the term "syat" (meaning "maybe" or "from a certain perspective") to express the conditional nature of truth. Syadvada provides a framework for understanding and expressing the relative nature of reality by acknowledging that statements about reality are context-dependent.
+- Nayavada (Theory of Partial Standpoints): This aspect of Anekantvad recognizes that any given perspective (naya) is only a partial view of the whole truth. It encourages individuals to consider and respect different viewpoints, understanding that each perspective contributes to a more comprehensive understanding of reality.
+
+---
+
+[^Syat]: The core of syādvāda is manifested in the process of Saptabhangi, or seven-fold predication. This approach examines reality from seven different conditional and relative viewpoints:
+- Syādasti (may be, it is)
+- Syānnāsti (may be, it is not)
+- Syādasti nāsti (may be, it is and it is not)
+- Syādavaktavya (may be, it is indeterminate)
+- Syādasti avaktavya (may be, it is and is indeterminate)
+- Syānnāsti avaktavya (may be, it is not and is indeterminate)
+- Syādasti nāsti avaktavya (may be, it is, is not, and is indeterminate)3
+
+
+----
 
 [^present]: What exactly is the present?
 <!-- markdownlint-disable-next-line -->

@@ -1,10 +1,10 @@
 # 7.0
 
-Spending a night at the island always sharpened his thinking. This time, `Maharishi` concluded the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective - though, they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exactly opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was supposed to be the very basis of new design.
+A night at the island always sharpened his thinking. `Maharishi` concluded the root cause of misery in (his) modern world. It was that everyone held their point of view ‘sacrosanct’. People were not even ready to look at the world from others' perspective - though, they wanted everyone to fully understand theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with power of spoken words. And this was exact opposite to what `Vaśiṣṭha` had envisaged for a civil society. Compassion was supposed to be the very basis of new design.
 
 > No one ever wanted to utter "you are right" ; the question was always to check "am I not right?"
 >
-> The idea was later adopted by Jainism as one of its core principle - `Anekantvad`[^Aneka] - plurality of points of view from different vantages. The idea of plurality of possible outcomes later developed as a probabilistic prediction system known as `Syatvaada`[^Syat] - the forefather of modern day probability theory and quantum mechanics.
+> The idea was later adopted by Jainism as one of its core principle - `Anekantvad`[^Aneka] - plurality of points of view. This idea was further developed as a conditional predication system known as `Syatvaada`[^Syat] - the forefather of modern day probability theory and quantum mechanics.
 
 Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see present of this world from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it. In a way, `Maharishi` reevaluated his skill. He always took pride in seeing the future - now he discovered looking at present from someone else's vantage was useful too - probably more! It was the path to peace and human success!
 
@@ -148,7 +148,7 @@ In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent 
 - Syādavaktavya (may be, it is indeterminate)
 - Syādasti avaktavya (may be, it is and is indeterminate)
 - Syānnāsti avaktavya (may be, it is not and is indeterminate)
-- Syādasti nāsti avaktavya (may be, it is, is not, and is indeterminate)3
+- Syādasti nāsti avaktavya (may be, it is, is not, and is indeterminate)
 
 
 ----

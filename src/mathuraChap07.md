@@ -29,13 +29,13 @@ For a moment, he missed his grandfather. He wished `Bramhrishi` was there with h
 
 ## 7.1
 
-`Maharish` saw `Maitrea` as he stepped into  `Ashrama`. He was watering the trees at the entrance of congregation. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. For a moment `Maharishi` thought if he would be a right match for `Matsya`. Would he accept her as is? Could I bless her to be beautiful - and fragrant! `Maharishi` brushed the thought away to speak to `Maitrea`.
+`Maharish` saw `Maitrea` as he stepped into  `Ashrama`. He was watering the trees at the entrance of congregation. `Maitrea` was much younger, but `Maharishi` treated him like a friend - not a senior student. For a moment `Maharishi` thought if he would be a right match for `Matsya`. Would he accept her as is? What if I blessed her to be beautiful - and fragrant! `Maharishi` brushed the thought away to speak to `Maitrea`.
 
-`Maitrea`, wondering why `Maharishi` missed morning procession, asked with a curious smile - hope all well! He had barely finished greetings when`Maharishi` asked ...
+`Maitrea`, wondering why `Maharishi` missed morning procession, asked with a curious smile - hope all well! He had barely finished greetings when`Maharishi` responded to his question with a question ...
 
 > `Maitrea` if God is kind and loving , why is there misery in the world?
 
-`Maitrea` understood `Maharishi` must have gone for an overnight `Samadhi` and something must be on his mind. He figured `Maharishi` needed an unbiased opinion - a fair coin-toss as an answer. Instead of asking the context, he spoke his mind - `Maharishi`, if you mean `Bramh` as God , then you only taught us that `Bramh` offers appropriate opportunity to every being. That opportunity is our little world around us. It is for us to choose what we make of it.
+`Maitrea` understood `Maharishi` must have gone for an overnight `Samadhi` and something must be on his mind. He figured `Maharishi` needed an unbiased opinion - a fair coin-toss as an answer. Instead of asking the context, he spoke his mind - `Maharishi`, you only taught us that `Bramh` offers appropriate opportunity to every being. That opportunity is our little world around us. It is for us to choose what we make of it.
 
 `Maharishi` smiled. Sometimes, clarity comes in a jiffy. `Maitrea's` answer meant the opportunity to 'write' was not uniquely his.  He felt relief that it was not solely his responsibility! If text was the next big thing on path to evolution of consciousness - like fire or wheel -  many more would join the cause. At the same time, he felt anxious - What if `Asuras` were already writing books - to spread anarchy! What if they reached masses first ?  Common people, likes of `Matsya`, were just a nudge away from losing faith. He knew innovation always had the first-mover advantage. The races that adopted wheels to make chariots, flourished. Those who adopted iron hardened in fire  made much better weapons  and literally killed the ones stuck with stone. He realized there was no way to stay still in this world. We always need to act. It was even more important at this juncture because high priests had already labeled scribing demonic. No one would be surprised if demons actually took to writing books.
 

@@ -50,7 +50,7 @@ We think in past! We imagine in future! But we can't act anywhere outside the ti
 
 </div>
 
-It was time to set the wheels rolling. A new set of basic terms must be written down and embedded into every instance of conscious thinking, every social contract — be it an individual, a group or even a kingdom — every single format of human organization. Time was ripe for a new narrative (to supplement `Ramayana`) but who would do that? How could someone crystallize the righteous path into written words. How and who will elucidate `Karm Yoga` to the masses? Maybe, it was a feat that be accomplished over many generations — like a relay race. Not only that, the path must be told as a compelling story that takes the collective consciousness onto a new charter — just the way `Ramayana` did in last eon. Stories, he thought, were the best way to circumvent a debate for they weave the context. But the story must be tested in physical reality. Because truth is what actually happens, and only truth has the staying power!
+It was time to set the wheels rolling. A new set of basic terms must be written down and embedded into every instance of conscious thinking, every social contract — be it an individual, a group or even a kingdom — every single format of human organization. Time was ripe for a new narrative, but who would do that? How could someone crystallize the righteous path into written words. How and who will elucidate `Karm Yoga` to the masses? Maybe, it was a feat that be accomplished over many generations — like a relay race. Not only that, the path must be told as a compelling story that takes the collective consciousness onto a new charter — just the way `Ramayana` did in last eon. Stories, he thought, were the best way to circumvent a debate for they weave the context outside in. People see their own reflection is tales well told. But the story must be tested in physical reality. Because truth is what actually happens in the present. Uncountable impulses of the continuum must fructify into reality of actions. And only truth has the staying power!
 
 `Maharishi` felt as if he wanted to create a little intervention in the fabric of reality - to see how the things shape up ! Let `Bramh` itself play the narrative and have someone record everything.
 
@@ -63,7 +63,9 @@ He knew his father largely from his mother's stories - and the childhood chatter
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was his devotion of Sun God. His most precious verse was `Gaytri Mantra` - a devotional verse for Sun. It was believed Sun gave him the method to forge gold. It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method.
+`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was his devotion of Sun. His most precious verse was `Gaytri Mantra` - a devotional verse in glory of the god of light. It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin. 
+
+It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method, but that is a separate story!
 
 </div>
 
@@ -73,7 +75,7 @@ Next day `Maharishi` sent a message to `Ugrasen` to check if there was a paintin
 
 `Maharishi` placed the statue in his room at waist height.
 
-Every night he lit a small fire and sit in front of the statue. This night he must have stared for over an hour. Seeking for resolve. And he didn't know when he slipped into a trance. His eyes half closed and his lips talking to his father.
+Every night he lit a small fire and sat in front of the statue. This night he must have stared for over an hour. Seeking for resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life after spending fifty years in the dark.
 
 `Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. His long hair well-made while `Parashara` felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt as if energy started flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing. Where am I ? He asked ! But he didn't get a response other than a big smile on `Sakti's` face.
 

@@ -2,7 +2,7 @@
 
 A night at the island always sharpened his thinking. `Maharishi` concluded the root cause of misery in (his) modern world - that everyone held their point of view ‘sacrosanct’. People didn't look at the world from others' perspective - though, they wanted everyone to fully immerse in theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with that of spoken words. And this was exact opposite to `Vaśiṣṭha's` blueprint for a civil society. Compassion was supposed to be the very basis of new design.
 
-> No one ever wanted to utter "you are right" !... The expression was always to check "am I not right?"
+> No one ever wanted to utter "you are right". Not even for the sake of modesty! The expression was always to check "am I not right?"
 >
 > The idea was later adopted by Jainism as one of its core principle - `Anekantvad`[^Aneka] - plurality of points of view. It was further articulated as a conditional predication system known as `Syatvaada`[^Syat] - the forefather of modern day probability theory.
 

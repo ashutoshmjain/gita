@@ -2,13 +2,17 @@
 
 A night at the island always sharpened his thinking. `Maharishi` concluded the root cause of misery in (his) modern world - that everyone held their point of view ‘sacrosanct’. People didn't look at the world from others' perspective - though, they wanted everyone to fully immerse in theirs. He felt, in the name of debate, the civilized world adopted the same old  animal behaviour. We simply replaced muscle power with that of spoken words. And this was exact opposite to `Vaśiṣṭha's` blueprint for a civil society. Compassion was supposed to be the very basis of new design.
 
-> No one ever wanted to utter "you are right". Not even for the sake of modesty! The expression was always to check "am I not right?"
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+> No one ever wanted to utter "you are right". Not even for the sake of modesty! The expression was always to check "am I not right?" - if at all it wasn't downright "you are wrong"!
 >
-> The idea was later adopted by Jainism as one of its core principle - `Anekantvad`[^Aneka] - plurality of points of view. It was further articulated as a conditional predication system known as `Syatvaada`[^Syat] - the forefather of modern day probability theory.
+> The idea was later adopted by Jainism as one of its core principle - `Anekantvad`[^Aneka] - plurality of points of view. It was further articulated as a conditional predication system known as `Syatvaada`[^Syat] - the forefather of modern day [probability theory](https://habla.news/u/shutosha@nostrcheck.me/1738680586470).
 
-Being an astrologer, was a unique gift. He had the ability to see the ‘present’ from people's perspective.  If you couldn't see the present from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it.
+</div>
 
-The revelation of last night however was - if we attain the ability to see the world exactly as another being does, then we also get to see “who we are” - from their standpoint. If you are on the path of ultimate quest, first thing you would want to notice is your own face! We rise the heights of mountains and sink to depths of oceans to figure out who we are? We explore the ends of space and also endlessly meditate in our own hearts to know who we are! And yet our eyes can't see our own face. Our ears can't hear our own beating heart. We must subscribe to another set of sensory apparatus to see who we are!
+Being an astrologer, was a unique gift. `Parasara` had the ability to see the ‘present’ from people's perspective.  If you couldn't see the present from someone's standpoint, what chance would you have to see their past, or their future? To know someone's future (or past), you got to know their present first, exactly the way they see it.
+
+The revelation of last night however was - if we see the world exactly as another being does, then we also get to see “who we are” - from their standpoint. If you are on the path of ultimate quest, first thing you would want to notice is your own face! We rise the heights of mountains and sink to depths of oceans to figure out who we are? We explore the ends of space and also endlessly meditate in our own hearts to know who we are! And yet our eyes can't see our own face. Our ears can't hear our own beating heart. We must subscribe to another set of sensory apparatus to see who we are!
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -37,7 +41,11 @@ For a moment, he missed his grandfather. He wished `Bramhrishi` was there with h
 
 `Maharishi` smiled. Sometimes, clarity comes in a jiffy - and quite unrelated to the thought of the moment. `Maitrea's` answer meant the opportunity to 'write' was not uniquely his.  For a second, he felt relief that it was not solely his responsibility! If text was the next big thing - like fire or wheel -  many more would join the cause. At the same time, he felt anxious - What if `Asuras` were already writing books - to spread anarchy! What if they reached masses first ?  Common people, likes of `Matsya`, were just a nudge away from losing faith. He knew innovation always had the first-mover advantage. The races that adopted wheels to make chariots, flourished. Those who adopted hardened iron made much better weapons  - and literally killed the ones stuck with stone. He realized there was no way to stay still in this world. We always need to act. It was even more important at this juncture because high priests had already labeled scribing demonic. No one would be surprised if demons actually took to writing books.
 
-There were some personal reasons holding `Maharishi` back - stopping him from going all in. He deemed his interest in ‘text’ might be perceived as being anti-establishment. He didn't think he was cynical, but he had uncomfortable positions with `Naad Yogies` — on them turning into gatekeepers of the knowledge. He was not sure if building a parallel channel of communication was good because it was good to his class - `Nyaan Yogies`; or was it truly a righteous path? Nor was he free from self-doubt — was he inclined towards ‘writing’ to satisfy his own ambition, or was it really for the greater good. Is he trying to burn the system just because he had the advantage, thanks to his early training?  Or was it righteous! And he didn't want to make the same mistake as his father did - exposing an idea before it's time!
+There were some personal reasons holding `Maharishi` back - stopping him from going all in. He deemed his interest in ‘text’ might be perceived as being anti-establishment. He knew he was not a cynic, but he had uncomfortable positions with `Naad Yogies` — on them turning into gatekeepers of the knowledge. He was not sure if building a parallel channel of communication was good because it was good to his class - `Nyaan Yogies`; or was it truly a righteous path? Nor was he free from self-doubt — was he inclined towards ‘writing’ to satisfy his own ambition, or was it really for the greater good?
+
+Once again he thought hard - am I trying to burn the system just because I have the advantage, thanks to my early training?  Or is it righteous!
+
+And he didn't want to make the same mistake as his father did - exposing an idea before it's time!
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
@@ -65,7 +73,7 @@ He knew his father largely from his mother's stories - and the childhood chatter
 
 `Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was his devotion of Sun. His most precious verse was `Gaytri Mantra` - a devotional verse in glory of the god of light. It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin. 
 
-It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method, but that is a separate story!
+It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method to forge gold, but that is a separate story!
 
 </div>
 
@@ -77,9 +85,11 @@ Next day `Maharishi` sent a message to `Ugrasen` to check if there was a paintin
 
 Every night he lit a small fire and sat in front of the statue. This night he must have stared for over an hour. Seeking for resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life after spending fifty years in the dark.
 
-`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. His long hair well-made while `Parashara` felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt as if energy started flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing. Where am I ? He asked ! But he didn't get a response other than a big smile on `Sakti's` face.
+`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt as if energy started flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing. Where am I? He asked ! But he didn't get a response other than a big smile on `Sakti's` face.
 
-As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question came from the guts of his soul.
+As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. He felt like a little child whose father left him alone.
+
+I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question probably came from the guts of his soul.
 
 Did I ask you to take a revenge ? - asked `Sakti Muni`?
 

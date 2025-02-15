@@ -64,30 +64,34 @@ It was time to set the wheels rolling. A new set of basic terms must be written 
 
 ## 7.2
 
-`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water from the earthen pot by his side and sat down on his rug. He was talking to his father, but he couldn't see his face. In fact, he had never seen his face. For one, he died before his birth, second there was no painting of him. It is hard to make up a face from description, and he never cared to ask anyone to draw his picture. He wondered if there was some artist alive who had seen him.
+`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water from the earthen pot by his side and sat down on his rug. He was talking to his father, but he couldn't see the face. In fact, he had never seen his father's face. For one, `Sakti` died before his birth, second there was no painting of him. It is hard to make up a face from description, and he never cared to ask anyone to draw his portrait - he was probably too busy in seeking the revenge that he forgot the very person he was fighting for.
 
-He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
+He wondered if there was some artist alive who had seen him. He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and the good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work. The fame to his name was his devotion of Sun. His most precious verse was `Gaytri Mantra` - a devotional verse in glory of the god of light. It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin. 
+`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work - `Karma` - the basis of `Sakti's` philosophy. `Sakti` considered `Vishwamitra` a true `Karmyogi`. 
 
-It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method to forge gold, but that is a separate story!
+`Vishwamitra` was famous for his singular devotion to Sun. His most precious verse was `Gaytri Mantra` - a verse to celebrate glory of the god of light - the starting point of most `Yaznas` conducted to date. It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin.
+
+It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method to mine gold, but that is a separate story!
 
 </div>
 
-Next day `Maharishi` sent a message to `Ugrasen` to check if there was a painting of his father or if there was an artist alive who could paint one. To his good luck `Ugrsen` himself came to `Ashrama` with a statue of `Sakti Muni`. Immediately after assuming the crown, he had ordered statues for his elders and he treated both `Bramhrishi` and `Sakti Muni` as his own.
+Next day, `Maharishi` sent a message to `Ugrasen` to check if there was a painting of his father or if there was an artist alive who could paint one. To his good luck `Ugrsen` himself came to `Ashrama` with a statue of `Sakti Muni`. Immediately after assuming the crown, he had ordered statues for his elders and he treated both `Bramhrishi` and `Sakti Muni` as his own.
 
 ## 7.3
 
 `Maharishi` placed the statue in his room at waist height.
 
-Every night he lit a small fire and sat in front of the statue. This night he must have stared for over an hour. Seeking for resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life after spending fifty years in the dark.
+Every night he lit a small fire and sat in front of the statue. On twenty fist night - the night of full moon - he must have stared for over an hour. Seeking for resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life - after spending fifty years in the dark.
 
-`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt as if energy started flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing. Where am I? He asked ! But he didn't get a response other than a big smile on `Sakti's` face.
+`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt energy flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing.
 
-As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. He felt like a little child whose father left him alone.
+Where am I? - he asked ! But he didn't get a response other than a big smile on `Sakti's` face.
+
+As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. He felt like a little child lost in a village fair.
 
 I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question probably came from the guts of his soul.
 
@@ -99,7 +103,7 @@ You are supposed to expand your clan - suggested `Sakti`.
 
 What ? - that was the exact opposite of what `Parasara` did. He vowed for celibacy before he left the `Ashrama`! Celibacy, he was told, would turn into the firetraps of revenge, and it did happen.
 
-Why are you surprised ? - asked the father - if you hate life, wouldn't you be empowered to kill - burn the life ?
+Why are you surprised ? - asked the father - if you hate life - celibacy - wouldn't you be empowered to kill - burn the life ?
 
 Clarity dawned upon `Maharishi` - what should I do now? - he bent on knees with his hands folded.
 
@@ -113,7 +117,7 @@ What has celibacy to do with a child - you have seed of `Bramh`, and `Siva` and 
 
 ## 7.40
 
-`Maharishi` found himself in the `Vaidya shala` - the congregation hospital when he woke up. `Maitrea` was sitting by his bed holding his hand and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. As he opened his eyes, `Vaidya Raj` - chief medical officer offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
+`Maharishi` found himself in `Vaidya shala` - the congregation hospital when he woke up. `Maitrea` was sitting by his bed holding his hand and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. As he opened his eyes, `Vaidya Raj` (the doctor in-charge) offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
 
 `Maharish` looked at `Maitrea` - with love and gratitude in his eyes. The night played in front of his eyes. He asked `Maitrea`
 
@@ -121,11 +125,11 @@ What has celibacy to do with a child - you have seed of `Bramh`, and `Siva` and 
 
 `Maitrea` once again understood, `Maharishi` wanted a coin toss. A validation for his thought. He said - `Maharish` you only taught us water and fire can not be bound to a vessel for the potency is in the flow.
 
-`Maharishi` found his answer. He drank the milk and stood up. It was time for the procession. He excused himself and asked everyone to continue with their day - I shall rest in my room for a little before I see you for morning prayers.
+`Maharishi` found his answer. Life must flow. He drank the milk and stood up. It was time for the procession. He excused himself and asked everyone to continue with their day - I shall rest in my room before I see you for morning prayers.
 
-Sometimes resolutions show up out of thin air. It was one such moment. `Maharishi` saw a small wand lying below the statue of his father as he stepped into his room. He picked up the wand. He saw name of his father inscribed near the handle. He understood the wand was his path to have a child without having to let go his celibacy. It was an exit not only for himself but also hundreds of `Rakshas` he killed. He must invoke the power (`Sakti`) to undo all the bondages and let the life flow once again!
+Sometimes resolutions show up out of thin air. It was one such moment. `Maharishi` saw a small wand lying below the statue of his father as he stepped into his room. He picked up the wand. He saw name of his father inscribed near the handle. He turned it over to see other side of the handle. It was inscribed "Present". Curious -  he looked at the tip. He felt as if he lost sense of all past. He forgot all plans of the future. His focus came to the present. This moment .. nothing else! All his actions fully engaged - something must be done - action must be taken now.
 
-As one bondage breaks, others follow the suite. He saw a clear path forward - if only he vowed to not scribe any (more) books himself — with his name as the author! If he took this call on himself, then clearly he was not acting out of hope for personal gratification. No one knows if such ‘vows’ have any material impact, but they do purify one's own soul. And we do see similar vows these days. For example `Satoshi Nakamoto` is a pseudonym. No one knows who wrote the white paper and software for the bitcoin. In a way, by putting a pseudonym, the real author withheld her name from one of the biggest intervention of this century. `Maharishi` was convinced, true `Karma` must "literally" be self-less.
+He closed his eyes before he got himself locked in the present forever! And kept the wand aside.  He understood it was his path to perpetuate. It was an exit not only for himself, but also hundreds of `Rakshas` he killed. He must invoke the power (`Sakti`) to undo all the bondages and let the life flow - once again!
 
 A plethora of action items shaped up in `Maharishi's` mind. The first obvious task was to determine the perfect planetary alignment to bring a worthy heir to life. A time must be determined to enable the universe find a writer who could reap truth just the way paddy sowed at right time bears rice. The world might know him as his son, but he would be the son of knowledge.  He would translate his ideas into text. He would mark the exact center where evil meets the good and both play a perfect dance of life. A balance to ride the waves of joy and grief. Something that could show the path to peace, to a disoriented society. And pull them from both excessive darkness and excessive light. An island in the river of time, between two banks that never seem to meet each other — `Dvaipayana` — born on an island!
 
@@ -135,7 +139,7 @@ A plethora of action items shaped up in `Maharishi's` mind. The first obvious ta
 
 `Maharishi` thanked the king for the statue. And also asked for more favor - `Maharaj` you know there is a haunted island in `Yamuna` across our `Ashrama`. I am here to seek permission to do penance on the island - undisturbed.
 
-You don't need my permission for that `Maharishi`. From this day on, the island belongs to congregation. - Kind said in a decisive tone that reflected inner resolve of `Maharishi`
+You don't need my permission for that `Maharishi`. From this day on, the island belongs to congregation - king said in a decisive tone that reflected inner resolve of `Maharishi`
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
 

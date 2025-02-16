@@ -64,16 +64,16 @@ It was time to set the wheels rolling. A new set of basic terms must be written 
 
 ## 7.2
 
-`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water and sat down on his rug. He was talking to his father, but he couldn't see the face. In fact, he had never seen his father's face. `Sakti` had died before his birth. And there was no painting of him that `Maharishi` could recall. It is hard to make up a face from the descriptions, and he never cared to ask anyone to draw his portrait - he was probably too busy in seeking the revenge - that he forgot the very person he was fighting for.
+`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water and sat down on his rug. He was talking to his father, but he couldn't see the face. Suddenly he realized he had never seen his father's face. `Sakti` had died before his birth. And there was no painting of him that `Maharishi` could recall. It is hard to make up a face from the descriptions, and he never cared to ask anyone to draw his portrait - he was probably too busy in seeking the revenge - that he forgot the very person he was fighting for.
 
-He wondered if there was some artist alive who had seen him. He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared feelings about his son. It was too painful for him to revisit that fateful morning and the good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter - without anger crossing over both sides. And he wished `Viśvāmitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
+He wondered if there was some artist alive who had seen `Sakti Muni` up close. He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared feelings about his son. It was too painful for him to revisit that fateful morning and the good times that led to the mishap. Only thing he always lamented was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter - without anger crossing over both sides. And he wished `Viśvāmitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
 `Viśvāmitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work - `Karma` - the basis of `Sakti's` philosophy. `Sakti` considered `Viśvāmitra` a true `Karmyogi`. Unaware of `Sakti's` admirations, `Viśvāmitra` ended up instigating `Kalmāṣapāda`. The legend has it that `Viśvāmitra` instructed `Kinkara` - one of his attendant - to take over `Kalmāṣapāda's` mind during the dual between him and `Sakti`.
 
-`Viśvāmitra` was famous for his singular devotion to Sun - the god of fire. His most precious verse is `Gaytri Mantra` - a verse to celebrate the wisdom of eternal light - the starting point of most `Yaznas` conducted to date.
+`Viśvāmitra` was famous for his singular devotion to Sun - the god of fire. His most precious verse is `Gaytri Mantra` - a verse to celebrate the wisdom of eternal light. The `mantra` is the starting point of most `Yaznas` conducted to date.
 
 > `Om Bhur Bhuvah Svah , Tat Savitur Varenyam`
 >
@@ -81,7 +81,7 @@ He wondered if there was some artist alive who had seen him. He knew his father 
 >
 > "Om, Earth, Atmosphere, Heaven We meditate on the adorable glory Of the radiant Sun (the Divine illuminator) May it inspire and guide our intellect"
 
-It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin. The density at the inner edge of the Sun's radiative zone is approximately 20 g/cm³. This is remarkably close to the density of gold, which is 19.32 g/cm. The radiative zone can be considered a wrapper around the Sun's nuclear core. It is a distinct layer that surrounds the core, extending from the outer edge of the core to about 70% of the Sun's radius. However, this distance seems tiny when we consider the time it takes for photons traveling at the speed of light.  To pass through the Sun's radiative zone a photon takes between 100,000 to 170,000 years.
+It was believed Sun gave him the method to forge gold - a metal as pale and shiny as the Sun, and as indestructible as the deity of its origin. Modern science is convinced that the gold (and most other heavier elements) were created through nuclear fusion in the core of a star. The relationship between gold and Sun is, however, beyond just color and hue. The density at the inner edge of the Sun's radiative zone is approximately 20 g/cm³. This is remarkably close to the density of gold, which is 19.32 g/cm. The radiative zone can be considered a wrapper around the Sun's nuclear core. It is a distinct layer that surrounds the core, extending from the outer edge of the core to about 70% of the Sun's radius. However, this distance seems tiny when we consider the time it takes for photons traveling at the speed of light.  To pass through the Sun's radiative zone a photon takes between 100,000 to 170,000 years.
 
 It is believed `Indra` had sent `Menka` to seduce `Viśvāmitra` for the method to mine gold, but that is a separate story!
 
@@ -93,9 +93,9 @@ Next day, `Maharishi` sent a message to `Ugrasen` to check if there was a painti
 
 `Maharishi` placed the statue in his room at waist height.
 
-Every night he lit a small fire and sat in front of the statue. On twenty fist night - the night of full moon - he must have stared for over an hour. Seeking for resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life - after spending fifty years in the dark.
+Every night he lit a small fire and sat in front of the statue. On twenty fist night - the night of full moon - he must have stared for over an hour - seeking resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life - after spending fifty years unhinged!
 
-`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He almost wanted to sit down when `Sakti` held his hand. He felt energy flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air and earth beneath his feet as he looked down to find nothing.
+`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He wanted to sit down to shoulder the weight of the moment when `Sakti` held his hand. He felt energy flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air -  and the earth beneath his feet as he looked down to find nothing!
 
 Where am I? - he asked ! But he didn't get a response other than a big smile on `Sakti's` face.
 
@@ -119,13 +119,13 @@ Bear a son - not for me or your forefathers - rear a child for that is the only 
 
 But I am celibate for life !
 
-What has celibacy to do with a child - you have seed of `Bramh`, and `Siva` and you yourself are blessed by `Vishnu` - manifestation is natural where three potencies meet!
+What has celibacy to do with a child? You have seed of `Bramh`, and `Siva` and you yourself are blessed by `Vishnu` - manifestation is natural where three potencies meet!
 
 `Sakti` disappeared - `Maharishi` crumbled on the floor - lifeless.
 
 ## 7.40
 
-`Maharishi` found himself in `Vaidya shala` - the congregation hospital when he woke up. `Maitrea` was sitting by his bed holding his hand and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. As he opened his eyes, `Vaidya Raj` (the doctor in-charge) offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
+`Maharishi` found himself in `Vaidya shala` (the congregation hospital) when he woke up. `Maitrea` was sitting by his bed holding his hand and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. As he opened his eyes, `Vaidya Raj` (the doctor in-charge) offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
 
 `Maharish` looked at `Maitrea` - with love and gratitude in his eyes. The night played in front of his eyes. He asked `Maitrea`
 

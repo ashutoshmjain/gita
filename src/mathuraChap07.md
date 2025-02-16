@@ -64,18 +64,26 @@ It was time to set the wheels rolling. A new set of basic terms must be written 
 
 ## 7.2
 
-`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water from the earthen pot by his side and sat down on his rug. He was talking to his father, but he couldn't see the face. In fact, he had never seen his father's face. For one, `Sakti` died before his birth, second there was no painting of him. It is hard to make up a face from description, and he never cared to ask anyone to draw his portrait - he was probably too busy in seeking the revenge that he forgot the very person he was fighting for.
+`Maharish` woke up in the middle of the night - halfway through a lucid dream. Sweat on his forehead and neck. He drank some water and sat down on his rug. He was talking to his father, but he couldn't see the face. In fact, he had never seen his father's face. `Sakti` had died before his birth. And there was no painting of him that `Maharishi` could recall. It is hard to make up a face from the descriptions, and he never cared to ask anyone to draw his portrait - he was probably too busy in seeking the revenge - that he forgot the very person he was fighting for.
 
-He wondered if there was some artist alive who had seen him. He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared his feelings about his son. It was too painful for him to revisit that fateful morning and the good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter without anger crossing over both sides. And he wished `Vishwamitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
+He wondered if there was some artist alive who had seen him. He knew his father largely from his mother's stories - and the childhood chatter around him. `Bramhrishi` rarely shared feelings about his son. It was too painful for him to revisit that fateful morning and the good times that led to the mishap. Only thing he always exuded was his own failure to stop `Sakti` take the path he took - literally and figuratively. He wished he was there that morning to sort the matter - without anger crossing over both sides. And he wished `Viśvāmitra` was kinder to `Sakti` - because `Sakti` was his admirer despite long-standing animosity between the two sages.
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;">
 
-`Vishwamitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work - `Karma` - the basis of `Sakti's` philosophy. `Sakti` considered `Vishwamitra` a true `Karmyogi`. 
+`Viśvāmitra` - one of the seven `Bramhrishis` - was not born of `Bramha`. He reached this title through sheer hard work - `Karma` - the basis of `Sakti's` philosophy. `Sakti` considered `Viśvāmitra` a true `Karmyogi`. Unaware of `Sakti's` admirations, `Viśvāmitra` ended up instigating `Kalmāṣapāda`. The legend has it that `Viśvāmitra` instructed `Kinkara` - one of his attendant - to take over `Kalmāṣapāda's` mind during the dual between him and `Sakti`.
 
-`Vishwamitra` was famous for his singular devotion to Sun. His most precious verse was `Gaytri Mantra` - a verse to celebrate glory of the god of light - the starting point of most `Yaznas` conducted to date. It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin.
+`Viśvāmitra` was famous for his singular devotion to Sun - the god of fire. His most precious verse is `Gaytri Mantra` - a verse to celebrate the wisdom of eternal light - the starting point of most `Yaznas` conducted to date.
 
-It is believed `Indra` had sent `Menka` to seduce `Vishwamitra` for the method to mine gold, but that is a separate story!
+> `Om Bhur Bhuvah Svah , Tat Savitur Varenyam`
+>
+> `Bhargo Devasya Dhimahi , Dhiyo Yo Nah Prachodayat`
+>
+> "Om, Earth, Atmosphere, Heaven We meditate on the adorable glory Of the radiant Sun (the Divine illuminator) May it inspire and guide our intellect"
+
+It was believed Sun gave him the method to forge gold - a metal pale and shiny as the Sun, and as indestructible as the deity of its origin. The density at the inner edge of the Sun's radiative zone is approximately 20 g/cm³. This is remarkably close to the density of gold, which is 19.32 g/cm. The radiative zone can be considered a wrapper around the Sun's nuclear core. It is a distinct layer that surrounds the core, extending from the outer edge of the core to about 70% of the Sun's radius. However, this distance seems tiny when we consider the time it takes for photons traveling at the speed of light.  To pass through the Sun's radiative zone a photon takes between 100,000 to 170,000 years.
+
+It is believed `Indra` had sent `Menka` to seduce `Viśvāmitra` for the method to mine gold, but that is a separate story!
 
 </div>
 

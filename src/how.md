@@ -1,16 +1,19 @@
-----
+<!-- markdownlint-disable-next-line -->
+> In the beginning there was spoken word - `Shruti` - information perpetuated through repetitive listening. Then we discovered the written word. Published text was seen as collective memory, perpetuated forever - `Smriti`.
 
-This web[^mission] publication aspires to dip into `Gita` wisdom - the original `smriti` - from its history to its timelessness.  It is a "clean internet" publication.
+This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
 `Arjun uvaach` means  `Arjuna` said ...
 
-`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song! At the end of this conversation, `Arjuna` said :
+`Arjuna` - the main character of `Mahabharata` - was a life-long friend and student of `Krishna` - the eighth incarnation of `Vishnu`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
+
+At the end of this conversation, `Arjuna` said :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 > `Nashto Moha , Smritir Labdha !`
 >
-> [I am] devoid of illusions, [I] attained wisdom !
+> [I am] devoid of illusions, [I] attained wisdom - the collective memory!
 
 It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 

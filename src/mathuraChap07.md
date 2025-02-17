@@ -91,19 +91,19 @@ Next day, `Maharishi` sent a message to `Ugrasen` to check if there was a painti
 
 ## 7.3
 
-`Maharishi` placed the statue in his room at waist height.
+`Maharishi` placed the statue in his hut at waist height.
 
-Every night he lit a small fire and sat in front of the statue. On twenty fist night - the night of full moon - he must have stared for over an hour - seeking resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life - after spending fifty years unhinged!
+Every night he lit a small fire and sat in front of the statue. On twenty fist night - the night of full moon - he must have stared for over an hour - seeking resolve. He didn't know when he slipped into a trance. His eyes half closed, and lips murmuring. To an outsider it appeared as if he was chanting a `mantra`, but  he was talking to his father - a first of his life - after spending fifty years unhinged! Moonlight filled his hut. It was bright as the day!
 
-`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He wanted to sit down to shoulder the weight of the moment when `Sakti` held his hand. He felt energy flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air -  and the earth beneath his feet as he looked down to find nothing!
+`Sakti Muni` appeared younger and strong - `Maharishi` himself felt frail. `Sakti's` long hair well-made while his own felt unkempt. He wanted to sit down - to shoulder the weight of the moment -  when `Sakti` held his hand. He felt energy flowing into his chest. `Maharishi` felt compassion for everything around. He felt thankful for the trees and air -  and the earth beneath his feet as he looked down to find nothing!
 
-Where am I? - he asked ! But he didn't get a response other than a big smile on `Sakti's` face.
+Where am I? - he almost shrieked ! But he didn't get a response other than a big smile on `Sakti's` face.
 
-As the euphoria settled a bit, `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no exit because all the exits were manned by the dead of his revenge. He felt like a little child lost in a village fair.
+As the euphoria settled a bit, the dream became somewhat real. `Maharishi` found himself in a maze. He was running for an exit, but every door was closed. There was no free exit. All the exits were manned by the dead of his revenge. He felt like a little child lost in a village fair.
 
-I did it for you - `Maharishi` shrieked - where are you now - get me out of here! - he wanted `Sakti` to say a word. And this time he got a response. The question probably came from the guts of his soul.
+I did it for you - `Maharishi` resigned - where are you - get me out of here! - He sat down - leaving himself to fate. He wanted `Sakti` to say a word. And this time he got a response. The question probably came from the guts of his soul.
 
-Did I ask you to take a revenge ? - asked `Sakti Muni`?
+Did I ask you to take a revenge ? - said `Sakti Muni`?
 
 But what am I supposed to do if someone killed my clan ? - `Parasara` continued with same naïvety.
 
@@ -125,7 +125,9 @@ What has celibacy to do with a child? You have seed of `Bramh`, and `Siva` and y
 
 ## 7.40
 
-`Maharishi` found himself in `Vaidya shala` (the congregation hospital) when he woke up. `Maitrea` was sitting by his bed holding his hand and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. As he opened his eyes, `Vaidya Raj` (the doctor in-charge) offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
+`Maharishi` found himself in `Vaidya shala` (the congregation hospital), when he woke up. `Maitrea` was sitting by his bed holding his hand, and two disciples were rubbing his feet. Outside, entire congregation, was praying for his life. Sun was about to break in. 
+
+As he opened his eyes, `Vaidya Raj` (the doctor in-charge) offered him some milk - you are back from near death. Thankfully `Maitrea` was sitting outside your room as he saw you taking into the `Samadhi` (trance).
 
 `Maharish` looked at `Maitrea` - with love and gratitude in his eyes. The night played in front of his eyes. He asked `Maitrea`
 
@@ -135,9 +137,17 @@ What has celibacy to do with a child? You have seed of `Bramh`, and `Siva` and y
 
 `Maharishi` found his answer. Life must flow. He drank the milk and stood up. It was time for the procession. He excused himself and asked everyone to continue with their day - I shall rest in my room before I see you for morning prayers.
 
-Sometimes resolutions show up out of thin air. It was one such moment. `Maharishi` saw a small wand lying below the statue of his father as he stepped into his room. He picked up the wand. He saw name of his father inscribed near the handle. He turned it over to see other side of the handle. It was inscribed "Present". Curious -  he looked at the tip. He felt as if he lost sense of all past. He forgot all plans of the future. His focus came to the present. This moment .. nothing else! All his actions fully engaged - something must be done - action must be taken now.
+`Maharishi` saw a small wand lying below the statue of his father as he stepped into his room. He picked up the wand. He saw name of his father inscribed near the handle. He turned it over to see other side of the handle. It was inscribed "Present" - this moment.
 
-He closed his eyes before he got himself locked in the present forever! And kept the wand aside.  He understood it was his path to perpetuate. It was an exit not only for himself, but also hundreds of `Rakshas` he killed. He must invoke the power (`Sakti`) to undo all the bondages and let the life flow - once again!
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+> Curious -  he looked at the tip. His eyes got locked in. He felt as if he lost sense of all past. He forgot all plans of the future. His focus came to the present. This moment .. nothing else! All his actions fully engaged - something must be done - action must be taken now. The wand was a path to this moment. A droplet of time!
+>
+> Uncountable impulses live in the past or the future - a better word is continuum - a sub conscious realm of thought. After intense back and forth, they fructify into one actionable. An action must be taken irrespective of dualities of thought - to bind them into a knot - to create a bond. When our action organs engage, it is the present[^present] of `Bramh`. We act to weave the knots.
+
+</div>
+
+He closed his eyes before he got himself locked in the present forever! And slowly kept the wand aside.  He understood it was his path to perpetuate. It was an exit not only for himself, but also hundreds of `Rakshas` he killed. He must invoke the power (`Sakti`) to undo all the bondages and let the life flow - once again!
 
 A plethora of action items shaped up in `Maharishi's` mind. The first obvious task was to determine the perfect planetary alignment to bring a worthy heir to life. A time must be determined to enable the universe find a writer who could reap truth just the way paddy sowed at right time bears rice. The world might know him as his son, but he would be the son of knowledge.  He would translate his ideas into text. He would mark the exact center where evil meets the good and both play a perfect dance of life. A balance to ride the waves of joy and grief. Something that could show the path to peace, to a disoriented society. And pull them from both excessive darkness and excessive light. An island in the river of time, between two banks that never seem to meet each other — `Dvaipayana` — born on an island!
 

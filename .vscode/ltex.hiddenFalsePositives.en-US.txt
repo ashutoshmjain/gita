@@ -29,3 +29,5 @@
 {"rule":"PRP_HAVE_VB","sentence":"^\\QIt had be an understatement to call it a simple island.\\E$"}
 {"rule":"TOO_TO","sentence":"^\\QHe wondered if Palms too shed their leaves in autumn!\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QYah one who Tu but Indriyani the senses Mansa by the mind Niyamya regulating Arabhte initiates Arjuna Arjuna;\\E$"}
+{"rule":"PRP_VBG","sentence":"^\\QPutting something into text format was similar to we adding a transaction to bitcoin network.\\E$"}
+{"rule":"PRP_VBG","sentence":"^\\QPutting something into text format was somewhat similar to we adding a transaction to the bitcoin network.\\E$"}

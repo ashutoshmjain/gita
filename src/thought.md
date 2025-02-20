@@ -161,7 +161,11 @@ The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Gan
 
 </div>
 
-`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the implications.  Not only did the mode of communication change from "face to face" live conversation to  "offline", the written word rendered the narrative timeless. It enabled humans send the information to the future. And to those living in the future, it offered a ladder back into past  - a gift thus far limited to the gods - ability to traverse the continuum with in confines of mind!
+`Ganesa` was probably the first to comprehend  this irreversible addition.  Being the god of sacred texts , he knew the implications.  Not only did the mode of communication change from "face to face" live conversation to  "offline", the written word rendered the narrative timeless.
+
+![](./ganesaWriting.webp)
+
+It enabled humans send the information to the future. And to those living in the future, it offered a ladder back into past  - a gift thus far limited to the gods - ability to traverse the continuum with in confines of mind!
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 

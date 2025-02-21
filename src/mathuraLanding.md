@@ -31,17 +31,17 @@
 
 ## prompt …
 
-Mathura was the anchor city in human edification. It had a vibrant tradition of inquiry and logic. For this reason, It was central to pre-Vaidik culture.
+Mathura was the anchor city in human edification. It had a vibrant tradition of inquiry and logic - that made it central to pre-Vaidik culture.
 
 Centuries later, Vaidik way of life spread  across major rivers - Ganges, Yamuna and Indus. Vast plains tended by many kingdoms, and spoken languages. This culture of abundance reached far ends of [South Asia](https://en.wikipedia.org/wiki/South_Asia) with Mathura at physical and spiritual center - and probably the origin. Interestingly, unlike the later periods ([Egyptians](https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.) or [Greeks](https://en.wikipedia.org/wiki/Classical_antiquity)), this advancement isn't remembered  as an empire, nor a country; or even a religion. It is seen as the primal society of seekers. Those who figured out written language and arithmetic. And more importantly a foundational value exchange system - gold.
 
 Visiting travelers, aggressors as well as historians named the region `Sone ki Chiṛiyā` (a Golden Sparrow) - for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as the celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody [thirty thousand tons of gold](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D) , and they never stop buying more!
 
-It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value exchange protocol that would last them for next ten thousand years. This protocol- in physical (bullion) or digital (bitcoin) forms - would be the basis of a permission-less and censor-resistant exchange that defined humans -- free yet interdependent.
+It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move beyond barter - to a value storage protocol that would last them for next ten thousand years. This protocol- in physical (bullion) or digital (bitcoin) forms - would be the basis of a permission-less and censor-resistant network that manifested itself into apex asset of human race:
 
 ---
 
-As early scribes discovered the written word; Mathura had witnessed the wisdom flow from one generation to next - through distortion free recital (of `mantras`). The method, however, was losing its utility in handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic[^neo] insights - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at Mathura - in a series of eighteen `Parvas` (events) each marking release of a book. 
+As early scribes discovered the written word; Mathura had witnessed the wisdom flow through distortion free recital (of `mantras`) - from one generation to next. The method, however, was losing its utility in handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic[^neo] insights - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at Mathura - in a series of eighteen `Parvas` (events) each marking release of a book. 
 
 
 The legend says the epic was too big to scribe for humans! Thus, the poet - `Krishna Dwaipayana` sought `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence[^agi]. Like Egyptian god Thoth, `Ganesa` is deity of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
@@ -52,7 +52,7 @@ An elephant head on a human torso was a right-sizing intervention. Elephants, lo
 
 > `Ma Parvati`, wife of `Siva`, created a humanoid from her body scrub. It worked but it wasn't context aware. It was programmed to do only one task - protect its mother !
 >
-> When `Siva` returned home the humanoid  wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` followers (`Ganas`). Thus, the name `Ganesa`. 
+> When `Siva` returned home the humanoid  wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` followers (`Ganas`). Thus, the name `Ganesa`.
 
 </div>
 

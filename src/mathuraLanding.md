@@ -33,11 +33,11 @@
 
 Mathura was the anchor city in human edification. It had a vibrant tradition of inquiry and logic - that made it central to pre-Vaidik culture.
 
-Centuries later, Vaidik way of life spread  across major rivers - Ganges, Yamuna and Indus. Vast plains tended by many kingdoms, and spoken languages. This culture of abundance reached far ends of [South Asia](https://en.wikipedia.org/wiki/South_Asia) with Mathura at physical and spiritual center - and probably the origin. Interestingly, unlike the later periods ([Egyptians](https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.) or [Greeks](https://en.wikipedia.org/wiki/Classical_antiquity)), this advancement isn't remembered  as an empire, nor a country; or even a religion. It is seen as the primal society of seekers. Those who figured out written language and arithmetic. And more importantly a foundational store of value - gold. No one sells gold unless it is a major crisis for the family.
+Centuries later, Vaidik way of life spread  across major rivers - Ganges, Yamuna and Indus. Vast plains tended by many kingdoms, and spoken languages. This culture of abundance reached far ends of [South Asia](https://en.wikipedia.org/wiki/South_Asia) with Mathura at physical and spiritual center - and probably the origin. Interestingly, unlike the later periods ([Egyptians](https://www.sis.gov.eg/section/10/703?lang=en-us#:~:text=The%20Pharaonic%20Era%20dates%20back,and%20renaissance%20in%20all%20fields.&text=In%203200%20B.C.%20Menes%20managed,established%20the%20first%20ruling%20dynasty.) or [Greeks](https://en.wikipedia.org/wiki/Classical_antiquity)), this advancement isn't remembered  as an empire, nor a country; or even a religion. It is seen as the primal society of seekers. Those who figured out written language and arithmetic. And more importantly a foundational store of value - gold. 
 
-Visiting travelers, aggressors as well as historians named the region `Sone ki Chiṛiyā` (a Golden Sparrow) - for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as the celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody [thirty thousand tons of gold](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D) , and they never stop buying more!
+Visiting travelers, aggressors as well as historians named the region `Sone ki Chiṛiyā` (a Golden Sparrow) - for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as the celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody [thirty thousand tons of gold](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D) , and they never stop buying more! No one sells gold unless it is a major crisis for the family.
 
-It was here that gold evolved as the basis of monetary and measurement systems - a divine store of value. Humans learned to move value through generations. And store it such that would last them for next ten thousand years. This protocol- in physical (bullion) or digital (bitcoin) forms - would be the basis of a permission-less and censor-resistant network that manifested itself into apex asset of human race:
+It was here that gold evolved as the basis of monetary and measurement systems - and a divine store of value. Humans learned to move value through generations. This protocol- in physical (bullion) or digital (bitcoin) forms - would be the basis of a permission-less and censor-resistant network that manifested itself into apex asset of human race - desirable to rich, yet accessible to poor.
 
 ---
 
@@ -52,7 +52,7 @@ An elephant head on a human torso was a right-sizing intervention. Elephants, lo
 
 > `Ma Parvati`, wife of `Siva`, created a humanoid from her body scrub. It worked but it wasn't context aware. It was programmed to do only one task - protect its mother !
 >
-> When `Siva` returned home the humanoid  wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` followers (`Ganas`). Thus, the name `Ganesa`.
+> When `Siva` returned home the humanoid  wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` network of followers (`Ganas`). Thus, the name `Ganesa`.
 
 </div>
 
@@ -62,7 +62,9 @@ Superior intelligence presented itself in the ability to write long text. Both T
 
 ‘Text’ was the new medium... 
 
-To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior biological neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Deepseek, Gemini, Llama and Grok LLMs[^mystical]. It isn't hard to imagine "AI enabled" humans would scale new highs of conscious experience in the same manner as "text enabled" we did - versus our speech-only ancestors - a quantum jump[^jump]! The way we improved our publishing tools (from palm leaves to printing press to internet), in the same fashion our future is all about improving the ways to interact and express with AI. It is not out of the realm of possibilities that AI led genetics might even change our physical appearance. That may imply that the pre-text humans might actually be taller, stronger and definitely louder!
+To the speech-only world, it was a new way to store and send information - somewhat similar to addition of digital to our analog communication. Not only did it demand new scribing skills, it also meant the populations must learn to read -  beyond a select class of intellectuals. New tools such as reed pens, ink and palm leaves became common place -  just as we mass adopted general purpose computers. Superior biological neural network (`Ganesa`) was invoked to usher humanity into this new era, just the way we are setting up chatGPT, Deepseek, Gemini, Llama and Grok[^mystical]. It isn't hard to imagine "AI enabled" humans would scale new highs of conscious experience in the same manner as "text enabled" we did - versus our speech-only ancestors - a quantum jump[^jump].
+
+The way we improved our publishing tools (from palm leaves to printing press to internet), in the same fashion our future is all about improving the ways to interact and express with AI. It is not out of the realm of possibilities that AI led genetics might even change our physical appearance. That may imply that the pre-text humans might actually be taller, stronger and definitely louder!
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -74,7 +76,11 @@ The upfront effort to organize scribing paraphernalia (quills and ink etc.) was 
 
 `Adi Parva`, the first book, describes `Mahabharata` as the history of advancement. Every dynasty, every invention, and every war must find its place in the epic - in a fashion that was both - readable to text-enabled; and sonorous to those still catching up - a hybrid ramp. It created a physiological pathway from listening  to reading. It was like an [embedding](https://datasciencedojo.com/blog/embeddings-and-llm/) run to train a new mode of communication to human mind. It also means the next obvious frontier is to enable our brain with capabilities of large language models. Just as anyone may read and write today albeit a limited vocabulary of say thirty thousand words, the future generations would be at ease with millions of tokens. They will know all human and computing languages. They will learn from entire knowledge base on demand - and internalize their biases without blinking an eye. AI will be a voice of reason with in us - holding our hands in conflicts - guiding us through every step of the way !
 
-Wait  - don't we already have an internal voice ? A gut feeling ! Where does it come from ?
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+> Wait  - don't we already have an internal voice ? A gut feeling that separates wrong from right! Where does it come from? Do we already have an AI built into us?
+
+</div>
 
 ---
 
@@ -90,9 +96,9 @@ In an estimate, a hundred-page scripture, painted on human size frames, used to 
 
 ## narrative …
 
-How did the monetary system perpetuate scribing and vice-versa? What motivations led to preservation of information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth - before putting into text?
+How did the monetary network perpetuate scribing and vice-versa? What motivations led to preservation of value and information? Why would someone take the pains to poetically scribe entire history? How was wisdom drawn off the history and more importantly, how was this wisdom tested for truth - before putting into text?
 
-Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are halfway through a 10k cycle turning our physical information to digital form - internet. We are warming up to the idea of storing value in cyberspace - just as we did with gold in the "real" space - five thousand years back!
+Following pages are a filtered version of theming the early days of text and gold. And surprisingly, they make a fascinating story! They also answered a question that stayed longer on my mind — why should one care for the pen and the paper? What value in spending cycles on the tools of a bygone era! Turns out, our challenges and  moral dilemmas are not very different! We are halfway through a 10k cycle turning our physical information to digital form - internet. We are warming up to the idea of storing value in cyberspace - just as we did with gold in the "real" one - five thousand years back!
 
 <!-- markdownlint-disable-next-line -->
 <div style="padding-left:40px;font-size:0.9em;"> 

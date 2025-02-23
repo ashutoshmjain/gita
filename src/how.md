@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-> In the beginning there was spoken word - `Shruti` - information perpetuated through repetitive listening. Then we discovered the written word. Published text was seen as collective memory, perpetuated forever - `Smriti`.
+> In the beginning there was spoken word - `Om`. Then we discovered the written word. Published text was seen as collective memory, perpetuated forever. In Sanskrit, memory is called  `Smriti`. Thus the written word was called `Smriti`. 
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 

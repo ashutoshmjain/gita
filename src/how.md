@@ -23,7 +23,9 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 # About the publication:
 
-This isn't a normal publication where you may expect new articles every week - or on monthly basis. Instead a new version of existing articles is published. I call this approach "Orthogonal Publishing". The weekly changes are listed in the [changeLog](./changeLog.md).
+This isn't a normal publication where you may expect new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of well formed book. The side hustle is to capture the changes in a git repository to understand the conversion of information into knowledge - is it even possible! 
+
+The summary changes are listed in the [changeLog](./changeLog.md) every week.
 
 
 ## Navigation and icons:

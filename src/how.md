@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-> In the beginning there was spoken word - `Om`. Then we discovered the written word. Published text was seen as collective memory, perpetuated forever. In Sanskrit, memory is called  `Smriti`. Thus the written word was called `Smriti`. 
+> In the beginning there was `Om` - the spoken word. Then we discovered the written word. Published text was seen as collective memory, perpetuated forever. In Sanskrit, memory is called  `Smriti`. Thus the written word was called `Smriti`. 
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
@@ -20,6 +20,11 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 </div>
 
 `Gita` is for everyone - it is not religion, race, profession or place specific.
+
+# About the publication:
+
+This isn't a normal publication where you may expect new articles every week - or on monthly basis. Instead a new version of existing articles is published. I call this approach "Orthogonal Publishing". The weekly changes are listed in the [changeLog](./changeLog.md).
+
 
 ## Navigation and icons:
 

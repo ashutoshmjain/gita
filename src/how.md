@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-> In the beginning there was `Om` - the spoken word. Then we discovered the written word. Published text was seen as collective memory, perpetuated forever. In Sanskrit, memory is called  `Smriti`. Thus the written word was called `Smriti`. 
+> In the beginning there was `Om` - the spoken word. Then we discovered the written word. Published text was seen as collective memory - perpetuated forever. In Sanskrit, memory is called  `Smriti`. Thus the written scriptures were called `Smriti`. 
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
@@ -23,7 +23,7 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 # About the publication:
 
-This isn't a normal publication where you may expect new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of well formed book. The side hustle is to capture the changes in a git repository to understand the conversion of information into knowledge - is it even possible! 
+This isn't a periodic publication with new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge - is it even possible! 
 
 The summary changes are listed in the [changeLog](./changeLog.md) every week.
 
@@ -79,7 +79,7 @@ The third section is the original translation  of `Mahabharata` - the longest po
 
 ## Clean internet 
 
-The way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a surveillance apparatus. 
+The way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a giant advertising platform, if not a surveillance apparatus!
 
 An immune response is the rise of freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My aspiration is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 

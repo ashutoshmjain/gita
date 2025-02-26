@@ -1,11 +1,13 @@
 <!-- markdownlint-disable-next-line -->
-> In the beginning there was `Om` - the spoken word. Then we discovered the written word. Published text was seen as collective memory - perpetuated forever. In Sanskrit, memory is called  `Smriti`. Thus the written scriptures were called `Smriti`. 
+> In the beginning there was `Om` - the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. Then we discovered scribing. Published text was the collective memory. 
+> 
+> In Sanskrit, memory is called  `Smriti`.
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
-`Arjun uvaach` means  `Arjuna` said ...
+`Arjun uvaach` - the name of this publication - means  `Arjuna` said ...
 
-`Arjuna` - the main character of `Mahabharata` - was a life-long friend and student of `Krishna` - the eighth incarnation of `Vishnu`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
+`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
 
 At the end of this conversation, `Arjuna` said :
 
@@ -13,7 +15,7 @@ At the end of this conversation, `Arjuna` said :
 
 > `Nashto Moha , Smritir Labdha !`
 >
-> [I am] devoid of illusions, [I] attained wisdom - the collective memory!
+> [I am] devoid of illusions, [I] attained the universal wisdom - the collective memory!
 
 It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
@@ -21,11 +23,11 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 `Gita` is for everyone - it is not religion, race, profession or place specific.
 
-# About the publication:
+# Orthogonal publication:
 
-This isn't a periodic publication with new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge - is it even possible! 
+`Arjun Uvaach` isn't a periodic publication with new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
 
-The summary changes are listed in the [changeLog](./changeLog.md) every week.
+A summary of changes are listed in the [changeLog](./changeLog.md) every week.
 
 
 ## Navigation and icons:
@@ -50,7 +52,7 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Gita` defined `Karm yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to spread of bitcoin. 
+`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to enable and spread the use of bitcoin. 
 
 > Value exchange must follow the properties of information exchange. If information could be sent to distant places, value must do the same in space and time !
 
@@ -79,7 +81,7 @@ The third section is the original translation  of `Mahabharata` - the longest po
 
 ## Clean internet 
 
-The way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a giant advertising platform, if not a surveillance apparatus!
+The way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a giant advertising billboard, if not a surveillance apparatus!
 
 An immune response is the rise of freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My aspiration is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
 

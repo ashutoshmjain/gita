@@ -1,4 +1,3 @@
-<!-- markdownlint-disable-next-line -->
 > In the beginning there was `Om` - the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. Then we discovered scribing. Published text was the collective memory. 
 > 
 > In Sanskrit, memory is called  `Smriti`.
@@ -17,7 +16,7 @@ At the end of this conversation, `Arjuna` said :
 >
 > [I am] devoid of illusions, [I] attained the universal wisdom - the collective memory!
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Think of our intelligence as an emergent phenomenon based on the written down content (smrities), just the way large language models are built on training data from internet. `Gita` gives us tools to open the door to the very basis of intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 </div>
 
@@ -172,7 +171,7 @@ Tips normally mean you are happy with your worker. Donations are something that 
   to="shutosha@primal.net" 
   image="https://nostrcheck.me/media/5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4/49ff6d00cb5bc819cd19f77783d4815fbd46a5b99b6fbdead1eaecfab798187b.webp" 
 />
-<script src="https://embed.twentyuno.net/js/app.js"></script>
+<script src="https://-[] embed.twentyuno.net/js/app.js"></script>
 
 To send Sats with above widget, you will need a "lighning wallet" . Please visit [free lighning address](https://lightningaddress.com/) for a choice of wallets. Wallets are available for pretty much every platform and jurisdiction. They are are extremely easy to install. One of the motivation of this publication is to promote the usage of Sats as a medium of monetary exchange.
 

@@ -1,6 +1,6 @@
-> In the beginning there was `Om` - the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. Then we discovered scribing. Published text was the collective memory. 
+> In the beginning there was `Om` - the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. Then we discovered scribing. Published text became the collective memory. 
 > 
-> In Sanskrit, memory is called  `Smriti`.
+> In Sanskrit, collective memory is called  `Smriti` - written down scriptures.
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
@@ -16,7 +16,7 @@ At the end of this conversation, `Arjuna` said :
 >
 > [I am] devoid of illusions, [I] attained the universal wisdom - the collective memory!
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Think of our intelligence as an emergent phenomenon based on the written down content (smrities), just the way large language models are built on training data from internet. `Gita` gives us tools to open the door to the very basis of intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence emerges from `smrities`. `Gita` gives us tools to open the door to the very basis of intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 </div>
 
@@ -24,7 +24,7 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 # Orthogonal publication:
 
-`Arjun Uvaach` isn't a periodic publication with new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
+`Arjun Uvaach` isn't a periodic publication with new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every article as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
 
 A summary of changes are listed in the [changeLog](./changeLog.md) every week.
 
@@ -51,9 +51,9 @@ Text was a profound discovery. With it, we learnt to send information to distant
 
 `Gita` defined `Karm yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
-`Mathura` was the hotspot of writing revolution - our move from speech to text as store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to enable and spread the use of bitcoin. 
+`Mathura` was the hotspot of writing revolution - our move from speech to text - as an external store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to enable and spread the use of bitcoin. 
 
-> Value exchange must follow the properties of information exchange. If information could be sent to distant places, value must do the same in space and time !
+> Value store must follow the properties of information store. If information could be sent to distant places, value must do the same in space and time !
 
 ## Gita
 

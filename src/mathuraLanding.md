@@ -1,6 +1,6 @@
 <div class="cover-huge">mathura</div>
 
-<div class="centered"> story of the written word and gold ... </div>
+<div class="centered"> story of the written word and gold </div>
 
 ----
 

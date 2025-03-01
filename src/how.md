@@ -4,7 +4,7 @@
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
-`Arjun uvaach` - the name of this publication - means  `Arjuna` said ...
+`Arjun uvaach` - the name of this publication - means `Arjuna` said.
 
 `Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
 
@@ -165,15 +165,17 @@ The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
 Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You can use the donation box below to send money in `Satoshies` - commonly called `Sats`. Sats are convenient because there is no credit card involved or computations for the exchange rates - it is one simple global money for the internet.
 
+
 <lightning-widget 
   name="Thanks for supporting the publication" 
   accent="#f9ce00" 
   to="shutosha@primal.net" 
   image="https://nostrcheck.me/media/5af0794606a15b5641e25aa23d04af4cb0d7d5e68b11cacb47e56a4698fca8c4/49ff6d00cb5bc819cd19f77783d4815fbd46a5b99b6fbdead1eaecfab798187b.webp" 
 />
-<script src="https://-[] embed.twentyuno.net/js/app.js"></script>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
 
-To send Sats with above widget, you will need a "lighning wallet" . Please visit [free lighning address](https://lightningaddress.com/) for a choice of wallets. Wallets are available for pretty much every platform and jurisdiction. They are are extremely easy to install. One of the motivation of this publication is to promote the usage of Sats as a medium of monetary exchange.
+
+To send Sats with above widget, you will need a "lighning wallet" . Please visit [free lighning address](https://lightningaddress.com/) for a choice of wallets. Wallets are available for pretty much every platform and jurisdiction. They are extremely easy to install. One of the motivation of this publication is to promote the usage of Sats as a medium of monetary exchange.
 
 ## notes and other stuff:
 

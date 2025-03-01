@@ -2,7 +2,7 @@
 
 Knowledge accumulates in granular change. History is tracking changes [^history] over a time duration for a closed (but living) system. In essence changeLog is history.
 
-Unlike a book, a publication is always in the open [^open]. Unlike a publication, `arjun uvaach` is not a collection of finished articles - it is a consistent curation of a set of narratives as they solidify into ideas, format and language.  An update is thus released every Friday with links to the chapters changed during the week.
+Unlike a book, a publication is always in the open [^open]. Unlike a publication, `arjun uvaach` is not a collection of finished articles - it is a consistent curation of a set of narratives as they solidify into ideas, format and language - an orthogonal publication.  An update is thus released every Friday with links to the chapters changed during the week.
 
 - If I make less than 10 changes to a chapter - mostly typos or fixing the flow, I call it a "minor edits". 
 - More than ten such changes go to the "major edits" category. 
@@ -11,17 +11,8 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 
 ## Feb 28, 25
 
-- [Readme](./how.md)  - major edits.
-- [Mathura](./mathuraLanding.md) - minor update
-  - [Thought](./thought.md)
-     - [Trigger](./mathuraChap01.md) 
-     - [Reboot](./mathuraChap02.md) 
-     - [Expression](./mathuraChap03.md) 
-     - [Righteous](./mathuraChap04.md) 
-     - [Island](./mathuraChap05.md)
-     - [Naive](./mathuraChap06.md) 
-     - [Resolution](./mathuraChap06.md) - major update.
-
+- [Readme](./how.md)  - major edits - coined the term "orthogonal publication"
+- [Mathura](./mathuraLanding.md) - major update - basing the idea that network is the asset. 
 
 ## Feb 21, 25
 

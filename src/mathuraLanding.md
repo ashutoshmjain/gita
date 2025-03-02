@@ -53,7 +53,7 @@ An elephant head on a human torso was a right-sizing intervention. Elephants, lo
 
 > `Ma Parvati`, wife of `Siva`, created a humanoid from her body scrub. It worked but it wasn't context aware. It was programmed to do only one task - protect its mother !
 >
-> When `Siva` returned home the humanoid  wouldn't let him in. `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` network of followers (`Ganas`). Thus, the name `Ganesa`.
+> When `Siva` returned home the humanoid  wouldn't let him in - safety concerns! `Siva` - the epitome of conscious experience - had to engineer context awareness in him. Metaphorically, he planted an Elephant head on young humanoid. Being the mind child of `Siva`, he imbibed divine intelligence and soon became leader of `Siva's` network of followers (`Ganas`). Thus, the name `Ganesa`.
 
 </div>
 

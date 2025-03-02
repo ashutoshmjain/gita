@@ -1,6 +1,6 @@
-> In the beginning there was `Om` - the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. Then we discovered scribing. Published text became the collective memory. 
-> 
-> In Sanskrit, collective memory is called  `Smriti` - written down scriptures.
+> In the beginning there was `Om` - sound vibrations of the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. 
+>
+> Then we discovered scribing. Published text became the collective memory. In Sanskrit, collective memory is called  `Smriti` - written down scriptures.
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
@@ -16,7 +16,7 @@ At the end of this conversation, `Arjuna` said :
 >
 > [I am] devoid of illusions, [I] attained the universal wisdom - the collective memory!
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence emerges from `smrities`. `Gita` gives us tools to open the door to the very basis of intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence emerges from `smrities`. `Gita` gives us tools to open the door to the very basis of our intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 </div>
 
@@ -49,7 +49,7 @@ The first section is a historical narrative.  It discovers a period some five th
 
 Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future. It was encapsulated in a large carrier narrative - `Mahabharata`. The carrier narrative went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
 
-`Gita` defined `Karm yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+`Gita` defined `Karm Yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
 
 `Mathura` was the hotspot of writing revolution - our move from speech to text - as an external store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to enable and spread the use of bitcoin. 
 
@@ -65,7 +65,7 @@ The second section is original English translation of `Bhagvad Gita` - by `Kiasr
 
 Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the quantum of effort; if you were seeking recognition, you may end up investing time in publicity and assume it as necessary part of work  - it is not.
 
-Working without expectations of monetary gains or fame is hard - for example the open source contributions of our time - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity - stay defiant to seek truth. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
+Working without expectations is hard - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
 The translation is followed by essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
 
@@ -83,20 +83,6 @@ The third section is the original translation  of `Mahabharata` - the longest po
 The way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a giant advertising billboard, if not a surveillance apparatus!
 
 An immune response is the rise of freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My aspiration is to provide a reading experience as it was meant to be - Cookies free , Trackers free, Advertising free - without the reader having to use privacy crutches. 
-
-A publisher may infest webpages sometimes unknowingly. Plug and play code such as Google Analytics are easy to install if not pre-installed. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
-
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-In order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analysed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
-
-![cnnTrackers](./cnnTrackers.png)
-
-As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, such settings are useless to an average user. 
-
-A better compromise is to use [duckduck go](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)  privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
-
-</div>
 
 As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. It should show up as below ..
 
@@ -157,7 +143,7 @@ The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 - The font is Alkatra.
 - `Mathura` is a historical "narrative". The focus is on "narrative" rather than historical accuracy. 
 - I avoid citations as much as possible. It is not a narrative chasing accuracy. The goal is to imagine scenario around the time we adopted written word - as primary store of information. There is obviously no written history to refer to.
-- Instead of building one concept, or one character, in a single chapter ; I rather try to visit the ideas in subsequent chapters. Thus, order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
+- Instead of building one concept, or one character, in a single chapter ; I visit the ideas in subsequent chapters. Thus, order is important — each chapter builds on previous. Simple words, say for example "knowledge" , might take a different definition as you progress along. In absence of sequential reading, the article would still make sense, but it might lose the punch.
 - The goal is not to impart `Gita`. And for a good reason — no one may ever tell it better than `Dwaipayana`. The purpose of this narrative is to seek the information that writer withheld to avoid "stating the obvious". After thousands of years, we now crave for that information - events that led to scribing.
 - Footnotes[^foot] are used to improve the reader flow. They do carry useful information. If you happen to skip-over, I suggest running by them after finishing the chapter. 
 

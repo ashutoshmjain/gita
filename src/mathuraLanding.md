@@ -37,7 +37,8 @@ Centuries later, Vaidik way of life spread  across major rivers - Ganges, Yamuna
 
 Visiting travelers, aggressors as well as historians named the region `Sone ki Chiṛiyā` (a Golden Sparrow) - for people here loved to hold gold - as an imperishable store of value. Unafraid and theft free, not only did they display their treasures in styles of jewelry, they decorated their deities with golden ornaments. Gold was seen as the celebration of life. Be it a childbirth or a marriage - exchange of gold gifts was deemed auspicious. No wonder, even today, Indian families privately custody [thirty thousand tons of gold](https://en.wikipedia.org/wiki/Gold_holdings#:~:text=of%20swap%20operations.-,Private%20holdings,-%5Bedit%5D) , and they never stop buying more! No one sells gold unless it is a major crisis for the family.
 
-It was here that gold evolved as the basis of monetary and measurement systems - and a divine store of value. Humans learned to move value through generations. This protocol- in physical (bullion) or digital (bitcoin) forms - would be the basis of a permission-less and censor-resistant network that manifested itself into apex asset of human race - desirable to rich, yet accessible to poor.
+It was here that gold evolved as the basis of monetary and measurement systems - and a divine store of value. Humans learned to move value through generations.  The important thing was the culture  that kept gold fully decentralized - almost like a hard coded computing protocol. No one kingdom or demi god controlled gold. It was for everyone who attained it through hard work. This protocol- in physical or digital forms - would be the basis of a permission-less and censor-resistant value network for next ten thousand years. As gold, it would serve as the store of value in physical world and as bitcoin in the digital realm.
+
 
 ---
 

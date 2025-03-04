@@ -25,27 +25,15 @@ It took a series of eighteen books to conclude the epic. On its wings, it took t
 
 ---
 
-Text was the ultimate challenge for training human brain. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make it people's scripture - as addictively consuming as the reality itself - that once started, must be finished to last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
+Text was the ultimate challenge for training human brain. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make `Mahabharata` people's scripture - as addictively consuming as the reality itself - that once started, must be finished to the last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
 
-And as if technical challenges were trivial - the quest was to determine the righteous ! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual of information must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, complete - yet unexpressed - the singular underlying bridge to creation (`Srishti`)[^srishti]. 
+And as if technical challenges were trivial - the quest was to determine the righteous! As many conflicting views existed as the pair of eyes to look at. Who would determine the right path, and why should everyone subscribe to singular nature of truth ? The value must be universally visible irrespective of cast, creed, traits or the nature of work. The accrual of information must be permission-less and controls fully decentralized. `Bramh` could only deliver the schema to carry such information - the knowledge must be impregnated by `Vishnu` himself - one only, open, complete - yet unexpressed - the singular underlying bridge to creation (`Srishti`)[^srishti]. 
 
-The ambition to scribe history in a portable scripture led to first engineered scripting language -`Bramhi Lipi`. Name suggests, the script was a gift of all-pervading information - `Bramh`. And so were the scribing tools. Being coincidental, they built on each other - a three-way complementarity[^three] - new script, new tools, and a new style of narration (history). Thousands of years later, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. But he fell short on inventing his own script! Yet a masterpiece of American literature and the best-selling of Twain's works. 
+The ambition to scribe history in a portable scripture led to first engineered scripting language -`Bramhi Lipi`. Name suggests, the script was a gift of all-pervading information - `Bramh`. And so were the scribing tools. Being coincidental, they built on each other - a trifecta[^three] - new script, new tools, and a new style of narration (history). Thousands of years later, in 1894, the opportunity arose again. Mark Twain claimed first ever typed manuscript - Adventures of Tom Sawyer. Curious as always, a new scribing machine he used - a typewriter with QWERTY layout. With in hundred years, we invented digital computers - a trifecta of QWERTY keyboard, a programming language, and intent to create first fully portable operating system - Unix.
 
-There are many other examples where artifacts shine because of unique dualities they resolve, but it is hard to find a trifecta initiation of new - a prerequisite to manifest a universe - a new abstracted layer of conscious experience.  I looked at many path-breaking discoveries, but nothing really qualified - except for one in our recent past - though in a vastly different context. This time to introduce humanity to a digital experience. Need I say it too changed the world:
+The way digital information transformed every aspect of modern life - and is now redefining the value storage ([bitcoin](https://bitcoin.org/bitcoin.pdf)); the written information rewired then existing social, political and fiscal fabric. First portable store of value (gold) emerged. Power structures reconfigured themselves. Kingdoms had to capitulate to capitalize on new store of value.
 
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-"C" programming language and modern keyboards[^c] came into shape alongside Unix - a three-way complementarity. A tech-trifecta - new programming language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
-
-Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to box Unix into one hardware, Unix-like systems run on widest variety of architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. First separation of digital layer over physical - like an onion!
-
-Unix fragmented itself to jailbreak the underlying hardware - just as `text` liberated the thought from speech artists. One could understand a narrative without ever physically meeting the thinker. Thought found its own body in a book.
-
-</div>
-
-The way digital information transformed every aspect of modern life - and is now redefining the value exchange ([bitcoin](https://bitcoin.org/bitcoin.pdf)); the written information rewired then existing social, political and fiscal fabric. First multilateral[^multi] economic system (gold) emerged atop "one on one" barter. Power structures reconfigured themselves. Kingdoms had to capitulate to figure out new methods of taxation.
-
-Just like the tall order of science, that led to modern info-tech, the groundwork[^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe -  a reference narrative that would last ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own tenor;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
+Just like the tall order of science, that led to modern info-tech, the groundwork[^groundwork] for the prior shift started much earlier. It was the work of many giant generations building over previous. The most important piece, however, was to find a purpose to scribe - a reference narrative that would last ages without losing its luster. No one could fathom to what avail, but the cause appeared worth dedicating many lives. Thousands of scribes would spend millions of hours to handwrite proof copies of `Mahabharata` - each time adding a bit of their own tenor;  just as Unix morphed into BSDs, Solaris, AIX, HP-UX, Minix, Linux, macOS and Android and many more including countless variants of each. 
 
 You may find the comparison rather odd - an amusing flight of fancy! What could be common in first scribed narrative for humans, and first portable operating system for computers ? The way Unix triggered a "porting culture" in quest of ever more efficient general purpose computers; `Mahabharata` motivated scribes to find better canvass and ink - faster tools to write. In a way it kick-started a race to innovate - but that is just a superficial comparison. There is a bit more to it than what meets the eye ..
 
@@ -61,7 +49,9 @@ In a way, science has now accepted consciousness is separate from the material. 
 
 **If AGI bots are destined to have consciousness, a compelling question is what would be their perception of underlying digital infrastructure? Wouldn't they  relate to an operating system as we do to primitive scriptures?**
 
-A computer operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. 
+A computer operating system establishes rules to engage hardware resources - memory, storage and processor. It defines millions of tasks that must be performed to bear a working interface. Each little program being a dumb digital life-form must do its task. Scriptures define similar rules for us text enabled humans. Rules for coexistence with others, amicable use of resources, and negotiating our assigned tasks - routines and morality. In other words, scriptures are to our carbon based consciousness what an operating system will be to AGIs of the future.
+
+</div>
 
 From an intuitive experience standpoint, if we were to design one for the autonomous digital beings (AGIs), we may want to replicate our own three-tier interface - as a time tested template - at least to begin with :
  - Digital beings may see physical hardware as we see Earth - the motherly source of all life, 
@@ -70,18 +60,6 @@ From an intuitive experience standpoint, if we were to design one for the autono
 
 That may make one think if our own interface (Earth, Water and Air) has a deeper meaning?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`). Maybe the air that we breathe is what we are here to process! Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
 
-</div>
-
-A portable operating system is the foundation for digital experience. It enhances human experience as much as pen and paper did to us v/s our speech only ancestors. In a way OS is a natural extension of text. But, each successive experience is distinct because of a different value exchange system. 
-
-
-<div style="padding-left:40px;font-size:0.8em;"> 
-
-> Ability to exchange value is the fundamental requirement to bind the entities of a common living experience.
-
-Barter was the value exchange protocol of "speech only" world. It was based on authenticity of spoken word unless the transaction was face to face and instant. With text, we learnt to send information to far-flung places, and we did the same to value-exchange with gold. The way gold allowed us move from barter, bitcoin is likely the path to a self-contained digital experience. It is hard to predict that experience at this point - but we know for sure consciousness must evolve. It evolves to answer the primary question - who am I ?
-
-</div>
 
 ---
 
@@ -256,11 +234,10 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 
 ---
 
-[^three]: Three-way complementarity ...
-- The third represents continuum. One is Unity. Two is duality. The third captures all other possibilities of a wave function. Duality carries information. Three represents physical manifestation. In particle physics, it takes three quarks to manifest all the subatomic particles with physical mass - spin half particles. Such manifested particles have a mirror image locked in. 
-- Sanskrit was the first language that captured the idea of third person. Me, you and rest all. 
-- `Krishna` described in `Bhagvad Gita1` that the physical world (`Bhoota`) and even the conscious experience of intelligence are `Trigunatmak` - based on three qualities. He explained in detail the three facets of Intelligence (`Buddhi`), Intent (`Vritti`), Opinion (`Dhriti`), Hard work (`Tapa`), Giving (`Daan`) and even food (`Ahara`).
-- Out of infinite possibilities represented by "third" only one is needed to create a three-dimensional manifestation. Higher dimensions may exist only in conscious realm - not in physical.
+[^three]: Three-way complementarity - a trifecta leads to physical manifestation. The third represents a unique possibility. One is Unity - truth. Two is duality - information. The third represents all other possibilities of a wave function. When third dimension is frozen, we perceive the artifact as physically manifested. In Quantum Chromo-dynamics, a branch of particle physics, it takes three color charges - Red, Blue and Greed -  to manifest all the subatomic particles.  `Krishna` in `Bhagvad Gita` , described the physical entities (`Bhoota`) and even the conscious experience of intelligence are `Trigunatmak` - based on three qualities - `Sattva, Rajsa and Tamsa`. Sanskrit was the first language that captured the idea of third person. Me, you and rest all.
+- "C" programming language and modern keyboards[^c] came into shape alongside Unix - a three-way complementarity. A tech-trifecta - new programming language, new input tools and a new scope - a portable operating system [POSIX](https://itsfoss.com/posix/) 
+- Legacy operating systems were tied at the hip with hardware - made for each other. The idea of a portable operating system was beyond imagination. Despite industry-wide attempts to box Unix into one hardware, Unix-like systems run on widest variety of architectures - from mainframes to smartphones. Birth of a self-contained digital layer. A user was assured of same set of utilities no matter what underlying physical circuitry. First separation of digital layer over physical - like an onion!
+- Unix fragmented itself to jailbreak the underlying hardware - just as `text` liberated the thought from speech artists. One could understand a narrative without ever physically meeting the thinker. Thought found its own body in a book.
 
 ----
 
@@ -285,14 +262,6 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
     - **Collaboration:** The availability of terminals and keyboards allowed for easier collaboration amongst Unix developers. Multiple people could work on Unix and C simultaneously, sharing and editing code on the same system, thanks to the interactive nature of the terminal interface.
     - **Efficiency and Productivity:** Modern keyboards and terminals improved the efficiency and productivity of developers, which was critical in the rapid development of Unix and C. The ability to write, test, and modify code quickly on these systems was a significant advantage.
 - In summary, while modern keyboards and terminals weren't the sole factors behind the success of Unix and C, they certainly played a crucial role in enabling the interactivity, portability, and efficiency that are associated with these technologies. They were part of a broader technological ecosystem that allowed Unix and C to thrive and become foundational elements of modern computing.
-
----
-
-[^multi]: Barter is by definition a coincidental bilateral value exchange. With gold, we discovered multilateral trade. For example in barter, one must exchange the value one on one. With authenticity of spoken word (a promise) we could shift the coincidence across time though it was prone to errors and the added anxiety that counterparty may not honour the promise. With gold this problem of "trust" got taken care of. We could convert a commodity into gold and later or at the same time, trade gold with someone else. 
-- Since then , our current economic system is multilateral. With bitcoin, we envisage to solve another problem - how do we enable our AI models - our reflections in cyberspace space - to exchange value without having to seek our permission. 
-- Within current paradigm of multiplicity, we only solve the problem of time though the deal still remains between two entities - between two humans or two legal constructs. For example, even if we set up a self split prism, someone still needs to set up the split rules and another single party still needs to pay into the prism. 
-- With value exchange empowered and autonomous AIs, we make the deal truly multilateral. For example, in the future, I may be able to set up many AI models that provide my skills in exchange for value. 
-- These models may be set up in narratives at different times. However, we still need to figure out those rules. For example if an AI model that reflects me in a virtual space of say 1980, should have equal access to my current wealth ? Or should it have only that much wealth that I had in 1980?  What if I set up my reflection before my physical birth or in future ? 
 
 ---
 

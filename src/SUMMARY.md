@@ -18,6 +18,7 @@
       - [Fate](./mathuraChap15.md)
   - [Excavate - wip](./mathuraBook3.md)
 - [Bhagvad Gita](./bhagvadGita.md)
+    - [Chapter 1](bg01.md)
     - [Essays](./0.0_about.md)
       - [Hypothesis](./hypothesis.md)
       - [Continuum](./continuum.md)

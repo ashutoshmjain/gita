@@ -8,7 +8,7 @@ In Hindu tradition, one of the three primal forces - `Bramh, Vishnu or Siva` - a
 
 </div>
 
-Scribing `Mahabharata` was one such venture. It is the root of all written narratives. Sage writer[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  To conceive the epic, he needed his thoughts in equilibrium[^equi] with  entirety of information. But more importantly, he must seek permission, to open us mortals' access to the past - and to the future. He must understand entire history before introducing text to a verbose but forgetful world.
+Scribing `Mahabharata` was one such venture - the root of all written narratives. Sage writer[^races], `Krishna Dwaipayana` invoked `Bramh` - the information continuum.  To conceive the epic, he needed his thoughts in equilibrium[^equi] with  entirety of information. But more importantly, he must seek permission, to open us mortals' access to the past - and to the future. He must understand entire history before introducing text to a verbose but forgetful world.
 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
@@ -21,7 +21,7 @@ Text was the new way - to store manifolds of lore. With around 1.8 million words
 
 </div>
 
-It took a series of eighteen books to conclude the epic. On its wings, it took the 'text' to far ends of human reach.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga`.
+It took a series of eighteen books to conclude the epic. On its wings, it took the 'text' to far ends of human reach - along with the idea of a scribed narrative.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga` - the liberation from `Karma`.
 
 ---
 

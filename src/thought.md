@@ -147,7 +147,7 @@ It enabled humans send the information to the future. And to those living in the
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-🔎 In the beginning, spoken words  and actions were synchronous[^word]. There was no vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from the actions, there was no way to freeze them - make them portable. `Dwaipayana` manifested the thoughts into written words. A written narrative was thus an abstraction over physical actions. It was a frozen slice of continuum for reference in the future. 
+In the beginning, spoken words  and actions were synchronous[^word]. There was no vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from the actions, there was no way to freeze them - make them portable. `Dwaipayana` manifested the thoughts into written words. A written narrative was thus an abstraction over physical actions. It was a frozen slice of continuum for reference in the future. 
 
 No one could, however, fathom that humans would learn to store value - gold - the way they stored information - scriptures. Gold would allow value exchange across time and space. It was hard to imagine at that time that "value" always follows the properties of communication! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-store must follow the suite.
 

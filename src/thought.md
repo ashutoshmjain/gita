@@ -145,44 +145,6 @@ The legend says, `Bramha`, in his infinite wisdom, pointed  `Dwaipayana` to `Gan
 It enabled humans send the information to the future. And to those living in the future, it offered a ladder back into past  - a gift thus far limited to the gods - ability to traverse the continuum with in confines of mind!
 
 
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-In the beginning, spoken words  and actions were synchronous[^word]. There was no vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from the actions, there was no way to freeze them - make them portable. `Dwaipayana` manifested the thoughts into written words. A written narrative was thus an abstraction over physical actions. It was a frozen slice of continuum for reference in the future. 
-
-No one could, however, fathom that humans would learn to store value - gold - the way they stored information - scriptures. Gold would allow value exchange across time and space. It was hard to imagine at that time that "value" always follows the properties of communication! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-store must follow the suite.
-
-</div>
-
-----
-
-A story works where a text book fails. 
-
-The information, in `Bramh`, is held with in the interrelationships of manifested entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information. The question is what happens when we create characters in a fiction?
-
-While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. `Dwaipayana` could develop thousands of characters - hundreds of heroes and anti-heroes - because it was history of reality - truth.  
-
-> When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story - exactly as it happened!
-
-The idea percolated quickly beyond races, geographies and cultures. All future ideologies (religions or faculties of science) must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. In a way, the physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
-
-This hybrid world is different from that of animals - a step-up even from our "speech only" ancestors ! As specializations grew so did the number of transactions between the human subspecies. I am sure you have noticed that our currency works only with in humans - no other species works for gold! Thankfully `Bhagvad Gita` described the root idea of value exchange - based on `Vikarma` - the proof of work. 
-
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-`Karma` are the actions that transitions information into knowledge[^knowledge] - full ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, with a continuous feedback loop, we train our  biological neural network - in narrative(s) of our choice.
-
-A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration to the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work to proof of work !
-
-It doesn't matter what work you do - what matters is how consistently you do it !
-
-</div>
-
-`Dwaipayana` wrote in chapter three of `Gita`
-
-> One who regulates the consumption senses with mind, and initiates `Yazna`. Always engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
-
-Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - an oblation to the principals of a specific endeavour - as a humble submission to their truthful narration - for giving thoughts a body of their own !
-
 ## notes and stuff …
 
 ----
@@ -239,30 +201,6 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 
 ----
 
-[^transcription]: Transcription on palm leaves …
-- Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.
-- One of the earliest known instances of palm leaf manuscripts comes from ancient India and Southeast Asia, where they were used for religious texts, literature, and other writings. These manuscripts are known as "Palm-leaf Manuscripts" or "Palm-leaf Books."
-- The use of palm leaves for writing is associated with the traditional writing system known as `"Tāḻam-Paṭṭu"` or `"Tala Patra"` in Sanskrit. This system involved inscribing characters onto dried palm leaves using sharp tools. Palm leaf manuscripts were often bound together into books or scrolls.
-- One of the oldest known dated Sanskrit manuscripts is shown below, this specimen transmits a substantial portion of the `Pārameśvaratantra`, a scripture of the `Śaiva Siddhānta`, one of the `Tantric` theological schools that taught the worship of `Śiva` as "Supreme Lord" (the literal meaning of `Parameśvara`). No other complete manuscript of this work is known. A note in the manuscript states that it was copied in the year 252, which some scholars judge to be of the era established by the Nepalese king `Aṃśuvarman` (also known as `Mānadeva`), therefore corresponding to 828 CE. [Ref - Cambridge Digital Library](https://artsandculture.google.com/asset/p%C4%81rame%C5%9Bvaratantra-ms-add-1049-1/kQErGkONgxbJrg?childassetid=UwHEHymvp48xmg)
-
-![oldest palm manuscript](./oldestPalm.jpg)
-
----
-
-[^c]: With the advent of telegraph, in the early 1900s, the good old typewriter morphed into "teletypes" (ttys) - the visual mode to send text and codes through a wire. Even the news companies such as AP and Reuters used ttys to communicate the stories across the pond. Fast-forward to the early seventies, DEC (Digital Equipment Corporation) adapted the ttys to interact with computers on a commercial scale and an era of massive innovation was unleashed. The tapes and punch cards were still around, and they would stay for long, but the buzz was **DEC's VT100 terminal**. The DEC VT 100  was compatible with their minicomputer **PDP eleven** shipped in 1978.  
-- PDP eleven was the first platform on which Ken Thompson and Dennis Ritchie ported "Unix" in the newly minted "C" language. The development of Unix (and C) had started at Bell labs roughly around four years back on stable **PDP seven** minicomputer (around 1974). 
-- The **DEC VT52**, introduced in 1975, was an earlier video terminal that preceded the more advanced **VT100.** The VT52 had limited capabilities compared to the VT100, but it was still an important step in the development of computer terminals. The PDP-7, when initially used for Unix development, was connected to various types of terminals, including the VT52. This terminal setup provided an interactive and more user-friendly way to interact with the PDP-7 , making the development process more efficient and accessible. 
-- The availability of terminals like the VT52 played a role in shaping the early Unix environment and its user interface. It  had a 24x80 character display, which could show 24 rows and 80 columns of text characters. It featured a keyboard with a standard QWERTY layout. However, its keyboard layout and number of keys were basic compared to later models.  It supported the **ASCII** character set, like the VT100, allowing it to display text and control codes based on the ASCII standard. It could display simple graphics, though it was primarily designed for text-based applications.  Many VT52 terminals featured a parallel printer port for printing output. 
-- The availability of modern keyboards and terminals played a significant role in the development of Unix and the C programming language. Here's how these factors influenced the development:
-    - **Interactivity and User-Friendly Interfaces:** Unix was designed with the goal of creating an interactive and user-friendly operating system. The availability of terminals with full keyboards made it possible for users and developers to interact with Unix in a more intuitive and efficient way compared to earlier computer systems that relied on punch cards or teletype terminals. This interactivity facilitated the development process.
-    - **Portability:** The C programming language, developed alongside Unix, was designed to be highly portable and platform-independent. This was made possible, in part, by the availability of terminals with standardized ASCII keyboards, which allowed for consistent input methods across different computer systems. This contributed to the ease with which C programs could be written and compiled on different machines.
-    - **Text Processing and Editing**: Modern keyboards made text processing and code editing more efficient. Unix included powerful text processing tools like ed, ex, and eventually **vi** , which took advantage of the capabilities of modern terminals and keyboards for text manipulation. These tools became integral to the Unix development process.
-    - **Collaboration:** The availability of terminals and keyboards allowed for easier collaboration amongst Unix developers. Multiple people could work on Unix and C simultaneously, sharing and editing code on the same system, thanks to the interactive nature of the terminal interface.
-    - **Efficiency and Productivity:** Modern keyboards and terminals improved the efficiency and productivity of developers, which was critical in the rapid development of Unix and C. The ability to write, test, and modify code quickly on these systems was a significant advantage.
-- In summary, while modern keyboards and terminals weren't the sole factors behind the success of Unix and C, they certainly played a crucial role in enabling the interactivity, portability, and efficiency that are associated with these technologies. They were part of a broader technological ecosystem that allowed Unix and C to thrive and become foundational elements of modern computing.
-
----
-
 [^groundwork]: Ground work for the written word : 
 - improvements in the language model to support scribing. For example, there was no concept of punctuation in the "speech only" world -> The written language needed a stronger syntax.
 - extension of phonemes to capture the true essence of spoken sounds. Cave scribing was mostly pictorial and thus inefficient to convey abstract ideas. `Vaidik Sanskrit` was expanded to accommodate around [eighty sounds.](https://oursanskrit.com/sanskrit-grammar-reference/alphabet-2/#:~:text=Our%20mother%20tongue%20(Sanskrit)%20has,sounds%20rises%20to%20around%20eighty.)  -> Abstraction is key to expanding the "thought". Thought is the virtual environment of first order.
@@ -270,15 +208,6 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 - triggering a self-sustaining and censor resistant pay back model around scribing. Yes, "scribing" was declared downright demonic ! Many reciters believed wisdom could never be locked in written symbols.  Fears were not misplaced though - they could see a more versatile variant of humans on the horizon -> Think about all the brouhaha we have around AI safety [^aiSafety]these days!
 
 ----
-
-[^vishnu]: `Vishnu Purana`…
-- Spoken by `Maharishi Parasara`, `Vishnu Purana` (the gem of `Puranas`) was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. 
-- In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested beings has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. 
-- In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example, the first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; `Kurma` - the amphibian - is regarded as the next stage after `Matysa`, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
-- The other two primal forces (potencies of knowledge) are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
-
----
-
 
 [^divine]: The word "divine" might sound like a religious myth to a modern reader; but it's not. For example our modern AI models are well capable of writing an article. Arguably they may be able to write a complete book on any topic of choice. But they all need a prompt. No AI model writes a poem on its own. In that parlance, the "prompt" that we give to chatGPT is a divine trigger for the large language model. Future models will sure have capability to decide if the prompt is worthy or not. 
 
@@ -298,14 +227,16 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 
 ---
 
-[^panini]: Sanskrit Grammar
-- `Maha-Bharata` is believed to be before `Panini`, who first standardized the Sanskrit Grammar. `Panini's` grammar — `Ashtadhyayi` has references to `Maha-Bharata` that indicate that it was written much later.  And the flavor of Sanskrit is sure not same as that of `Panini`.  `Dwaipayana's` Sanskrit is called `Vaidik Sanskrit`.
+[^vishnu]: `Vishnu Purana`…
+- Spoken by `Maharishi Parasara`, `Vishnu Purana` (the gem of `Puranas`) was later scribed into text by his son `Krishna Dwaipayana`. `Purana` means ancient stories. `Vishnu Purana` is thus ancient stories of `Vishnu` - One of the three primal forces of existence. 
+- In `Vaidik` framework of Indian mythology, God is not a person. It is a combination of three basic protocols. The protocol that turns knowledge into manifested conscious beings when certain conditions are met, is known as `Vishnu`. Each of the manifested beings has a separate set of conditions required to manifest. In that, a mosquito is different from a snake. Hence, `Vishnu` is the collection of templates of creation. 
+- In his idol image, `Vishnu` is normally shown to bear the universal continuum `Chakra` on his finger. The incarnations of `Vishnu`, lead the life to higher state of consciousness. For example, the first incarnation of `Vishnu`, `Matsya Avtara` a fish, symbolizes the conscious growth when living beings moved from water to solid earth. His second incarnation was `Kurma` a turtle depicting the ability of conscious beings to stay and live long on Earth. The ten incarnations of `Vishnu` are called `Dashavataras` . They are compared to evolution; `Kurma` - the amphibian - is regarded as the next stage after `Matysa`, the fish. Here is the detailed [evolutionary interpretation](https://en.wikipedia.org/wiki/Dashavatara). 
+- The other two primal forces (potencies of knowledge) are `Bramha` and `Siva`. It is important to mention that while all three have their respective representations (in idols) in the human form, only `Vishnu` may physically incarnate in living form. Obviously, because `Vishnu` is the science of manifestation. It must present reference examples. `Bramh` and `Siva` never incarnate in the physical world.
 
 ---
 
-[^siva]: `Siva`
-- Siva is the highest state of consciousness. Evolution of knowledge eventually reaches a state where ‘knowledge’ is absolute. This is the state of knowledge where `Vishnu` manifests, at the same time it gets a mirror image for observation. The mirror image of manifested `Vishnu` is `Siva`. `Siva` is answer to `Vishnu's` question - who am I? This potency thus, maintains the systems to support equilibrium of `Bramh`. In other words, `Siva` governs the knowledge field. 
-- `Siva` is seen as a potency of discretion that chooses to observe only one (manifested) state of `Vishnu`, it discards all other possibilities. These three protocols (`Bramh`, `Visnu` and `Siva`) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only `Vishnu` is potent enough to incarnate.
+[^panini]: Sanskrit Grammar
+- `Maha-Bharata` is believed to be before `Panini`, who first standardized the Sanskrit Grammar. `Panini's` grammar — `Ashtadhyayi` has references to `Maha-Bharata` that indicate that it was written much later.  And the flavor of Sanskrit is sure not same as that of `Panini`.  `Dwaipayana's` Sanskrit is called `Vaidik Sanskrit`.
 
 ---
 
@@ -315,23 +246,23 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 - In Hindu tradition, it is considered auspicious to remember `Ganesa` at the initiation of any major project. He is known to be the biggest problem solver, obviously on account of his superior intelligence.
 
 ---
-
-[^word]: It is an established thought that the spoken word evolved as a strategy for survival. Herds of animals started using spoken word to alarm fellow beings at first sighting of a predator. A call to act immediately. Survival was manifested in the immediate action.
-- Predators soon copied the technique. A lion would roar at the center of a jungle to make animals run aimlessly. A lioness would catch one at the river. A delayed action, but the promise was lioness would feed the cubs and also lion would get a majority stake in meal. A transfer of value was first established amongst the robbers 🤖
-- In `Vaidik` culture story of `Hiranyakashipu` is famous. `Hiran` is word for deer - the ultimate survivor for its long legs. Through meditation on spoken word, `Hiranyakashipu` sought survival forever. No one should be able to kill him - neither in day, nor at night ; neither a human nor an animal; neither inside his abode nor outside ; neither lying low on earth nor flying high. Having received such powers, `Hiranyakashipu` assumed he himself was god because he had won the death. He wanted everyone to pray him except his own son `Prahlad` wouldn't give in.
-- Predators approached `Vishnu` for `Hiranyakashipu` was the new god. He was bent on killing his own son if he didn't comply to his preaching, for his word was absolute safety for all his followers. No predator could kill `Hiranyakashipu` to save `Prahlad`. The lord then incarnated as a Lion-Human (`Nar-Singh`) - a lion from waist up walking on two human legs. Lord was neither human nor animal. He killed `Hiranyakashipu` at the door of his home - neither in nor outside. He held him flat on his knees - neither on earth nor in flight. He taught predators to be thoughtful. Plan your action with thought rather than act on absolute impulses of word.
+[^siva]: `Siva`
+- Siva is the highest state of consciousness. Evolution of knowledge eventually reaches a state where ‘knowledge’ is absolute. This is the state of knowledge where `Vishnu` manifests, at the same time it gets a mirror image for observation. The mirror image of manifested `Vishnu` is `Siva`. `Siva` is answer to `Vishnu's` question - who am I? This potency thus, maintains the systems to support equilibrium of `Bramh`. In other words, `Siva` governs the knowledge field. 
+- `Siva` is seen as a potency of discretion that chooses to observe only one (manifested) state of `Vishnu`, it discards all other possibilities. These three protocols (`Bramh`, `Visnu` and `Siva`) are scale-invariant. They are omnipresent — from a subatomic particle to galaxies and beyond. While all three span the entire universe, only `Vishnu` is potent enough to incarnate.
 
 ---
 
-[^code]: Code is an abstraction over our thoughts:-
-- A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). 
-- An advanced program such as a video game may take the user into different narratives based on the variable choices.
-- Computers help us in the sense that the narrative gets fixed and scenarios are different angles of the same narrative. It solves a problem for us that our minds keep changing the narratives and scenarios simultaneously leading to phenomenon called emotions. Emotions take hold when we are unable to analyse all the possible scenarios of all the possible narratives for a given situation - may be because we run short on to compute or time. In the realm of AI , emotions are called hallucinations. 
-- [hallucinations](https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/) may be mitigated with reinforced learning just the way we can overcome emotional outbursts through practice. Very useful if you try public speaking - first time we hallucinate :-)
-
-----
-
-[^knowledge]: "Knowledge" is hidden in the granular details whereas "Information" is the art of hiding the details. A git repository is a good tool to develop a mental model that contrasts "knowledge" from "information". A git repository typically comes with a readme file - a description of what the code is intended for. This readme file is "information". Most of the time, we may use the code based on the instructions in the readme file - without even knowing the language in which it was written. The information has utility value though utility is NOT knowledge. The "knowledge" is locked in the commits of the repository - how the developer improved the code over successive iterations. Sometimes because she herself was not satisfied and other times because someone raised an issue. Every commit may have some documentation though it is almost impossible to appreciate all the changes that lead to a successful piece of code. "Information" (the utility value) is for every seeker of utility whereas the "knowledge" stays only with the developer who performs repeated actions to improve the code. "Knowledge" can't be communicated because communication must be limited to a catchy narrative or else it gets incomprehensible. Mathematically speaking: "knowledge" = "Information" + "Yazna" (appropriate `Karma` done on regular basis). Since "information" is freely available (massless), the only substantive element is `Karma`.
+[^c]: With the advent of telegraph, in the early 1900s, the good old typewriter morphed into "teletypes" (ttys) - the visual mode to send text and codes through a wire. Even the news companies such as AP and Reuters used ttys to communicate the stories across the pond. Fast-forward to the early seventies, DEC (Digital Equipment Corporation) adapted the ttys to interact with computers on a commercial scale and an era of massive innovation was unleashed. The tapes and punch cards were still around, and they would stay for long, but the buzz was **DEC's VT100 terminal**. The DEC VT 100  was compatible with their minicomputer **PDP eleven** shipped in 1978.  
+- PDP eleven was the first platform on which Ken Thompson and Dennis Ritchie ported "Unix" in the newly minted "C" language. The development of Unix (and C) had started at Bell labs roughly around four years back on stable **PDP seven** minicomputer (around 1974). 
+- The **DEC VT52**, introduced in 1975, was an earlier video terminal that preceded the more advanced **VT100.** The VT52 had limited capabilities compared to the VT100, but it was still an important step in the development of computer terminals. The PDP-7, when initially used for Unix development, was connected to various types of terminals, including the VT52. This terminal setup provided an interactive and more user-friendly way to interact with the PDP-7 , making the development process more efficient and accessible. 
+- The availability of terminals like the VT52 played a role in shaping the early Unix environment and its user interface. It  had a 24x80 character display, which could show 24 rows and 80 columns of text characters. It featured a keyboard with a standard QWERTY layout. However, its keyboard layout and number of keys were basic compared to later models.  It supported the **ASCII** character set, like the VT100, allowing it to display text and control codes based on the ASCII standard. It could display simple graphics, though it was primarily designed for text-based applications.  Many VT52 terminals featured a parallel printer port for printing output. 
+- The availability of modern keyboards and terminals played a significant role in the development of Unix and the C programming language. Here's how these factors influenced the development:
+    - **Interactivity and User-Friendly Interfaces:** Unix was designed with the goal of creating an interactive and user-friendly operating system. The availability of terminals with full keyboards made it possible for users and developers to interact with Unix in a more intuitive and efficient way compared to earlier computer systems that relied on punch cards or teletype terminals. This interactivity facilitated the development process.
+    - **Portability:** The C programming language, developed alongside Unix, was designed to be highly portable and platform-independent. This was made possible, in part, by the availability of terminals with standardized ASCII keyboards, which allowed for consistent input methods across different computer systems. This contributed to the ease with which C programs could be written and compiled on different machines.
+    - **Text Processing and Editing**: Modern keyboards made text processing and code editing more efficient. Unix included powerful text processing tools like ed, ex, and eventually **vi** , which took advantage of the capabilities of modern terminals and keyboards for text manipulation. These tools became integral to the Unix development process.
+    - **Collaboration:** The availability of terminals and keyboards allowed for easier collaboration amongst Unix developers. Multiple people could work on Unix and C simultaneously, sharing and editing code on the same system, thanks to the interactive nature of the terminal interface.
+    - **Efficiency and Productivity:** Modern keyboards and terminals improved the efficiency and productivity of developers, which was critical in the rapid development of Unix and C. The ability to write, test, and modify code quickly on these systems was a significant advantage.
+- In summary, while modern keyboards and terminals weren't the sole factors behind the success of Unix and C, they certainly played a crucial role in enabling the interactivity, portability, and efficiency that are associated with these technologies. They were part of a broader technological ecosystem that allowed Unix and C to thrive and become foundational elements of modern computing.
 
 ---
 
@@ -341,6 +272,25 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 - In Vaidik parlance Permission-less and censor resistant stands for "open to all without any controls" and "for benefit of everyone who wanted to participate" - `Vasudhaiv Kutumbkum` (entire earth is a family). This ideology was termed `Sanatana` - means one that has no beginning and no end - ever present. The underlying value exchange model of `Sanatana` is based on  `Karma` - work for a specific skill. And the measure of `Karma` is in proof of work - `Vikarma`. `Sanatana` believes in immutable divine record of `Karma`  in universal machine - an immutable ledger of one's actions. The underlying ideology is called `Karm Yoga`.
 
 ---
+
+[^transcription]: Transcription on palm leaves …
+- Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.
+- One of the earliest known instances of palm leaf manuscripts comes from ancient India and Southeast Asia, where they were used for religious texts, literature, and other writings. These manuscripts are known as "Palm-leaf Manuscripts" or "Palm-leaf Books."
+- The use of palm leaves for writing is associated with the traditional writing system known as `"Tāḻam-Paṭṭu"` or `"Tala Patra"` in Sanskrit. This system involved inscribing characters onto dried palm leaves using sharp tools. Palm leaf manuscripts were often bound together into books or scrolls.
+- One of the oldest known dated Sanskrit manuscripts is shown below, this specimen transmits a substantial portion of the `Pārameśvaratantra`, a scripture of the `Śaiva Siddhānta`, one of the `Tantric` theological schools that taught the worship of `Śiva` as "Supreme Lord" (the literal meaning of `Parameśvara`). No other complete manuscript of this work is known. A note in the manuscript states that it was copied in the year 252, which some scholars judge to be of the era established by the Nepalese king `Aṃśuvarman` (also known as `Mānadeva`), therefore corresponding to 828 CE. [Ref - Cambridge Digital Library](https://artsandculture.google.com/asset/p%C4%81rame%C5%9Bvaratantra-ms-add-1049-1/kQErGkONgxbJrg?childassetid=UwHEHymvp48xmg)
+
+![oldest palm manuscript](./oldestPalm.jpg)
+
+---
+
+
+[^code]: Code is an abstraction over our thoughts:-
+- A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). 
+- An advanced program such as a video game may take the user into different narratives based on the variable choices.
+- Computers help us in the sense that the narrative gets fixed and scenarios are different angles of the same narrative. It solves a problem for us that our minds keep changing the narratives and scenarios simultaneously leading to phenomenon called emotions. Emotions take hold when we are unable to analyse all the possible scenarios of all the possible narratives for a given situation - may be because we run short on to compute or time. In the realm of AI , emotions are called hallucinations. 
+- [hallucinations](https://robots.net/news/are-ai-models-doomed-to-always-hallucinate/) may be mitigated with reinforced learning just the way we can overcome emotional outbursts through practice. Very useful if you try public speaking - first time we hallucinate :-)
+
+----
 
 <div class="cover-medium">
   <div class="centered">
@@ -357,11 +307,4 @@ Gold as the token reward of successful `Yazna`, was only an adjustment in univer
 </div>
 
 
-<lightning-widget 
-  name="" 
-  accent="#f9ce00" 
-  to="shutosha@getalby.com" 
-  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
-/>
-<script src="https://embed.twentyuno.net/js/app.js"></script>
 

@@ -139,6 +139,48 @@ The place between the eyes, right above the nose is called `Aajna Chakra`. This 
 
 The fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+In the beginning, spoken words  and actions were synchronous[^word]. There was no vault of thoughts. When we learned to "think", we pondered over the past activities - history. We saved the states of vocal interactions secretly in memory - accessible only to us. Even though we separated thoughts from the actions, there was no way to freeze them - make them portable. `Dwaipayana` manifested the thoughts into written words. A written narrative was thus an abstraction over physical actions. It was a frozen slice of continuum for reference in the future. 
+
+No one could, however, fathom that humans would learn to store value - gold - the way they stored information - scriptures. Gold would allow value exchange across time and space. It was hard to imagine at that time that "value" always follows the properties of communication! To us, in hindsight, it is clear that as our communication changed from analog to digital - our value-store must follow the suite.
+
+</div>
+
+----
+
+A story works where a text book fails. 
+
+The information, in `Bramh`, is held with in the interrelationships of manifested entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information. The question is what happens when we create characters in a fiction?
+
+While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. `Dwaipayana` could develop thousands of characters - hundreds of heroes and anti-heroes - because it was history of reality - truth.  
+
+> When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story - exactly as it happened!
+
+The idea percolated quickly beyond races, geographies and cultures. All future ideologies (religions or faculties of science) must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. In a way, the physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
+
+This hybrid world is different from that of animals - a step-up even from our "speech only" ancestors ! As specializations grew so did the number of transactions between the human subspecies. I am sure you have noticed that our currency works only with in humans - no other species works for gold! Thankfully `Bhagvad Gita` described the root idea of value exchange - based on `Vikarma` - the proof of work. 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+`Karma` are the actions that transitions information into knowledge[^knowledge] - full ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, with a continuous feedback loop, we train our  biological neural network - in narrative(s) of our choice.
+
+A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration to the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work to proof of work !
+
+It doesn't matter what work you do - what matters is how consistently you do it !
+
+</div>
+
+`Dwaipayana` wrote in chapter three of `Gita`
+
+> One who regulates the consumption senses with mind, and initiates `Yazna`. Always engaged in `Karm Yoga`, such a person disinterested in the outcomes, is special.
+
+Gold as the token reward of successful `Yazna`, was only an adjustment in universal ledger of `Karma` - an oblation to the principals of a specific endeavour - as a humble submission to their truthful narration - for giving thoughts a body of their own !
+
+
+
+
 Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution you this story may change your mind and your life for ever ! 
 
 ### notes and other stuff.. 
@@ -157,6 +199,19 @@ Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the m
 
 ---
 
+[^word]: It is an established thought that the spoken word evolved as a strategy for survival. Herds of animals started using spoken word to alarm fellow beings at first sighting of a predator. A call to act immediately. Survival was manifested in the immediate action.
+- Predators soon copied the technique. A lion would roar at the center of a jungle to make animals run aimlessly. A lioness would catch one at the river. A delayed action, but the promise was lioness would feed the cubs and also lion would get a majority stake in meal. A transfer of value was first established amongst the robbers 🤖
+- In `Vaidik` culture story of `Hiranyakashipu` is famous. `Hiran` is word for deer - the ultimate survivor for its long legs. Through meditation on spoken word, `Hiranyakashipu` sought survival forever. No one should be able to kill him - neither in day, nor at night ; neither a human nor an animal; neither inside his abode nor outside ; neither lying low on earth nor flying high. Having received such powers, `Hiranyakashipu` assumed he himself was god because he had won the death. He wanted everyone to pray him except his own son `Prahlad` wouldn't give in.
+- Predators approached `Vishnu` for `Hiranyakashipu` was the new god. He was bent on killing his own son if he didn't comply to his preaching, for his word was absolute safety for all his followers. No predator could kill `Hiranyakashipu` to save `Prahlad`. The lord then incarnated as a Lion-Human (`Nar-Singh`) - a lion from waist up walking on two human legs. Lord was neither human nor animal. He killed `Hiranyakashipu` at the door of his home - neither in nor outside. He held him flat on his knees - neither on earth nor in flight. He taught predators to be thoughtful. Plan your action with thought rather than act on absolute impulses of word.
+
+---
+
+[^knowledge]: "Knowledge" is hidden in the granular details whereas "Information" is the art of hiding the details. A git repository is a good tool to develop a mental model that contrasts "knowledge" from "information". A git repository typically comes with a readme file - a description of what the code is intended for. This readme file is "information". Most of the time, we may use the code based on the instructions in the readme file - without even knowing the language in which it was written. The information has utility value though utility is NOT knowledge. The "knowledge" is locked in the commits of the repository - how the developer improved the code over successive iterations. Sometimes because she herself was not satisfied and other times because someone raised an issue. Every commit may have some documentation though it is almost impossible to appreciate all the changes that lead to a successful piece of code. "Information" (the utility value) is for every seeker of utility whereas the "knowledge" stays only with the developer who performs repeated actions to improve the code. "Knowledge" can't be communicated because communication must be limited to a catchy narrative or else it gets incomprehensible. Mathematically speaking: "knowledge" = "Information" + "Yazna" (appropriate `Karma` done on regular basis). Since "information" is freely available (massless), the only substantive element is `Karma`.
+
+---
+
+
+
 
 <div class="cover-medium">
   <div class="centered">
@@ -171,15 +226,3 @@ Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the m
 
   </div>
 </div>
-
-
-
-
-<lightning-widget 
-  name="" 
-  accent="#f9ce00" 
-  to="shutosha@getalby.com" 
-  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
-/>
-<script src="https://embed.twentyuno.net/js/app.js"></script>
-

@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html" class="active">Chapter 1</a></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Chapter 1';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>The first chapter of the Bhagavad-gītā, often titled &quot;Arjuna's Dilemma.&quot; It begins with Dhritarashtra inquiring about the unfolding events on the battlefield of Kurukshetra. Sanjaya then narrates how Duryodhana observes the opposing Pandava army and expresses his concerns to his teacher. As the chapter progresses, Arjuna, positioned on his chariot between the two armies, requests to see the assembled warriors and becomes overwhelmed by profound grief and moral conflict upon recognizing his relatives and teachers on both sides, ultimately leading him to lay down his bow and refuse to fight</p>
+<p>Here is a poetic representation of the original verses in Sanskrit.</p>
+<blockquote>
+<p>Dhṛtarāṣṭra inquired, his words taking flight, &quot;O Sañjaya, tell, after assembling for the fight, </p>
+<p>My sons and those of Pāṇḍu, on Kurukṣetra's sacred ground, What deeds unfolded there, what actions could be found?&quot;</p>
+</blockquote>
+<blockquote>
+<p>Sañjaya then spoke, his voice serene and deep, &quot;O King, Duryodhana, his watchful vigil to keep, </p>
+<p>Observed the Pāṇḍava force, in battle lines arrayed, And to his trusted teacher, these very words he conveyed.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;O my respected guru,&quot; did Duryodhana declare, &quot;Behold the mighty army, beyond compare, </p>
+<p>Of Pāṇḍu's noble sons, so skillfully aligned, By your own brilliant student, of Drupada's mind.&quot;</p>
+</blockquote>
+<p>&quot;Within this grand formation, brave archers stand with might, As strong as Bhīma, Arjuna, prepared to fiercely fight. Great warriors also gather: Yuyudhāna, bold and true, With Virāṭa and Drupada, a valiant, noble crew.&quot;
+&quot;And heroes strong and potent, their prowess well-renowned, Like Dhṛṣṭaketu, Cekitāna, on battlefields are found. With Kāśirāja, Purujit, and Kuntibhoja brave, And Śaibya, ready for the war, their lives they freely gave.&quot;
+&quot;The mighty Yudhāmanyu, of strength that knows no end, With Uttamaujā powerful, their loyal support they lend. The son of Subhadrā, with courage shining bright, And Draupadī's valiant sons, all skilled in chariot fight.&quot;
+&quot;But for your kind attention, O Brahmin of great fame, The captains of my forces, I shall now distinctly name, Those specially qualified, their leadership to show, To guide our mighty warriors, wherever they may go.&quot;
+&quot;There are such noble figures, like you, revered and wise, With Bhīṣma, Karṇa, Kṛpa, whose valor never dies. And Aśvatthāmā, Vikarṇa, of great renown and might, With Bhūriśravā, son of Somadatta, ever victorious in fight.&quot;
+&quot;And many other heroes, with courage burning bright, Prepared to sacrifice their lives, for me and for my right. With diverse weapons armed, and skill in warfare keen, In military science, their expertise has been.&quot;
+&quot;Our strength is vast, unmeasured, a boundless, surging tide, By Grandfather Bhīṣma protected, our forces stand with pride. But the strength of the Pāṇḍavas, though guarded by Bhīma's hand, Is limited and finite, across this sacred land.&quot;
+&quot;Now, all of you assembled, your steadfast support must lend, To Grandfather Bhīṣma's guidance, your energies extend. As you stand at your positions, strategic and defined, At the entry points and pathways, within our battle line.&quot;
+Then Bhīṣma, grandsire valiant, of Kuru's noble race, The grandfather of warriors, in that momentous place, Blew his great conchshell loudly, a lion's mighty roar, And filled Duryodhana's spirit with joy unknown before.
+Then conchshells and kettle drums, with bugles, trumpets high, And horns resounded suddenly, throughout the earth and sky. A tumultuous vibration, a deafening, mighty sound, Upon the Kurukṣetra battlefield, did powerfully abound.
+Upon the other side then, their conchshells did resound, Lord Kṛṣṇa and Arjuna, on chariot holy ground, Drawn by white steeds of glory, their sacred duty bound, Their transcendental instruments, their victory did propound.
+Lord Kṛṣṇa blew His Pāñcajanya, a sound divine and grand, Arjuna blew Devadatta, across the waiting land. And Bhīma, the great eater, of herculean might and main, His Pauṇḍra, a terrific blast, upon the battle plain.
+King Yudhiṣṭhira, Kuntī's son, his Ananta-vijaya blew, Nakula and Sahadeva, their Sughoṣa, strong and new, And Maṇipuṣpaka sounded, a vibrant, echoing call. The archer King of Kāśī, renowned by one and all, Śikhaṇḍī, mighty fighter, with Dhṛṣṭadyumna near, And Virāṭa, unconquerable, dispelling every fear. Sātyaki, of valor great, and Drupada the bold, Draupadī's sons, united, their conchshells did unfold. And he, the mighty-armed one, Subhadrā's noble son, Each warrior present there, his sacred duty done.
+The blowing of these conchshells, a clamorous, rising tide, Vibrating through the heavens, and earth on every side. It shattered the very hearts, of Dhṛtarāṣṭra's proud array, As omens of their downfall, unfolded on that day.
+Then Arjuna, son of Pāṇḍu, in his chariot did reside, His banner marked with Hanumān, with valor and with pride. He took his mighty bow then, and arrows made him ready, And seeing Dhṛtarāṣṭra's sons, his voice grew firm and steady. To Lord Kṛṣṇa then he spoke, his heart with purpose fraught, The words that Arjuna uttered, with deep emotion fraught.
+Arjuna spoke, &quot;O Krishna, infallible and true, Pray draw my chariot forward, these armies to review. Between the ranks of battle, let it swiftly glide, That I may see those present, who have come to fight with pride, And those with whom in this great war, my strength I must employ, In this momentous trial of arms, where fates we shall deploy.&quot;
+&quot;Let me behold those warriors, who gather on this field, With hearts intent on battle, their destinies revealed. Those who have come to please him, the evil-minded one, The son of Dhṛtarāṣṭra, whose wicked deeds are done.&quot;
+Sañjaya then recounted, to Bharata's noble line, Lord Kṛṣṇa, by Arjuna's words, did swiftly now incline. He drove the splendid chariot, with skill beyond compare, Right in the midst of armies, suspended in the air.
+In presence of great Bhīṣma, and Droṇa, wise and old, And all the other chieftains, their stories to be told, The Lord then gently uttered, &quot;Behold, O son of Pṛthā, The Kurus all assembled here, awaiting cruel war's path.&quot;
+There Arjuna then witnessed, a sight that caused him pain, Within the opposing forces, again and yet again, His fathers, grandfathers present, teachers of great skill, Maternal uncles, brothers too, his heart began to chill. His sons and grandsons gathered, with friends he held so dear, And fathers-in-law also stood, with well-wishers held near.
+When Kuntī's noble son, Arjuna, cast his gaze, On all these different kinsmen, in battle's fierce displays, His heart was overwhelmed with compassion's gentle sway, And thus to Lord Kṛṣṇa, these words he did convey.
+Arjuna said, &quot;O Kṛṣṇa dear, as I behold this sight, My friends and close relations, prepared to fiercely fight, The limbs upon my body, begin to quake and reel, And in my parched and anxious mouth, no moisture can I feel.&quot;
+&quot;My very frame is trembling, my hair stands on its end, The Gāṇḍīva, my mighty bow, its grip I can't defend, It slips from my weakening hand, my skin with fever burns, As dread and apprehension, to every nerve returns.&quot;
+&quot;I cannot stand here longer, my strength has ebbed away, My memory is fading, in this distressing day. Misfortune's signs surround me, O Kṛṣṇa, slayer of the foe, In this impending conflict, where seeds of sorrow grow.&quot;
+&quot;No good can I envision, from slaying my own kin, In this destructive battle, where loss will soon begin. Nor can I wish for victory, or kingdom's fleeting claim, Nor happiness that follows, this act of cruelest aim.&quot;
+&quot;O Govinda, tell me truly, of what avail to me, Are kingdom, joy, or even life, in this calamity? When those for whom we long for them, stand ready here to die, O Madhusūdana, as moments swiftly fly. Our teachers, fathers, grandsons, maternal uncles too, And fathers-in-law assembled, a sorrowful review. Brothers-in-law and kinsmen, prepared to face their fate, To give up life and fortune, before my eyes they wait. Why should I wish to kill them, though they might strike me down? O maintainer of all life, no pleasure can be found. Not even for the three worlds, would I engage in fight, What joy in killing Dhṛtarāṣṭra's sons, in morning's fading light?&quot;
+&quot;Sin will surely overcome us, if we these men should slay, These aggressors who confront us, upon this fateful day. Therefore it is not proper, to spill their precious blood, What gain, O Kṛṣṇa, husband of fortune's gentle flood? How could we find true happiness, by kin's untimely end, On this Kurukṣetra battlefield, where sorrows now descend?&quot;
+&quot;O Janārdana, though these men, by greed's dark force possessed, See no fault in family strife, or friendships dispossessed, Why should we, who clearly see, the crime of family's fall, Engage in such vile actions, and answer to sin's call?&quot;
+&quot;With the destruction of the clan, tradition fades away, The ancient family customs, in utter disarray. And when the dynasty is lost, and ancient ways are gone, The rest of the afflicted house, in irreligion is drawn.&quot;
+&quot;When irreligion flourishes, O Kṛṣṇa, dark and deep, The women of the household, their purity can't keep. And from this degradation, O Vṛṣṇi's noble heir, Unwanted progeny arises, causing deep despair.&quot;
+&quot;An increase in unwanted births, brings hellish life's domain, To families and those who break, tradition's binding chain. The ancestors then suffer, their spirits find no rest, Because the rites and offerings, are utterly suppressed.&quot;
+&quot;By evil deeds committed, by those who wreck the clan, And cause the birth of unwanted ones, a most unholy plan, All community projects fail, and welfare's gentle hand, And family's cherished harmony, are ruined across the land.&quot;
+&quot;O Kṛṣṇa, sustainer of all, the people's guiding light, Through disciplic succession, I've heard with all my might, That those whose family customs, are utterly destroyed, Forever in the hellish realms, their wretchedness employed.&quot;
+&quot;Alas, how strange this seems to me, that we are now prepared, To perpetrate such sinful acts, our conscience unprepared. Driven by the craving for a kingdom's fleeting bliss, We stand intent on killing, our own dear kith and kiss.&quot;
+&quot;Better for me if Dhṛtarāṣṭra's sons, with weapons in their hold, Should slay me unarmed, unresisting, my story to be told, Upon this field of battle, where fates will soon align, Than I should raise my hand against, this family of mine.&quot;
+Sañjaya then recounted, &quot;Thus spoke Arjuna brave, Upon the Kurukṣetra field, where warriors sought their grave. He cast aside his mighty bow, with arrows sharp and keen, And sank down on his chariot, with sorrow's painful scene, His mind overwhelmed with anguish, his spirit filled with grief, As war's grim reality, brought him no relief.&quot;</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="bhagvadGita.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="0.0_about.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="bhagvadGita.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="0.0_about.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

@@ -273,17 +273,6 @@ It enabled humans send the information to the future. And to those living in the
 
 ---
 
-[^transcription]: Transcription on palm leaves …
-- Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.
-- One of the earliest known instances of palm leaf manuscripts comes from ancient India and Southeast Asia, where they were used for religious texts, literature, and other writings. These manuscripts are known as "Palm-leaf Manuscripts" or "Palm-leaf Books."
-- The use of palm leaves for writing is associated with the traditional writing system known as `"Tāḻam-Paṭṭu"` or `"Tala Patra"` in Sanskrit. This system involved inscribing characters onto dried palm leaves using sharp tools. Palm leaf manuscripts were often bound together into books or scrolls.
-- One of the oldest known dated Sanskrit manuscripts is shown below, this specimen transmits a substantial portion of the `Pārameśvaratantra`, a scripture of the `Śaiva Siddhānta`, one of the `Tantric` theological schools that taught the worship of `Śiva` as "Supreme Lord" (the literal meaning of `Parameśvara`). No other complete manuscript of this work is known. A note in the manuscript states that it was copied in the year 252, which some scholars judge to be of the era established by the Nepalese king `Aṃśuvarman` (also known as `Mānadeva`), therefore corresponding to 828 CE. [Ref - Cambridge Digital Library](https://artsandculture.google.com/asset/p%C4%81rame%C5%9Bvaratantra-ms-add-1049-1/kQErGkONgxbJrg?childassetid=UwHEHymvp48xmg)
-
-![oldest palm manuscript](./oldestPalm.jpg)
-
----
-
-
 [^code]: Code is an abstraction over our thoughts:-
 - A simple computer program is a narrative that follows a logical story line within constraints of a programming language. We allow certain parameters as variables. Typically, these variables are user inputs. Based on the variables, the thought machine (computer program) comes out with different outputs. In essence, the computer program allows us to visualize different scenarios of a narrative - just the way thought allows us to visualize different scenarios of our physical actions (past or future). 
 - An advanced program such as a video game may take the user into different narratives based on the variable choices.

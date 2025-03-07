@@ -42,7 +42,7 @@ It was here that gold evolved as the basis of monetary and measurement systems -
 
 ---
 
-As early scribes discovered the written word; Mathura had witnessed the wisdom flow through distortion free recital (of `mantras`) - from one generation to next. The method, however, was losing its utility in handling growing body of information. In all probability, the transcription techniques were developed to safeguard the neolithic[^neo] insights - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at Mathura - in a series of eighteen `Parvas` (events) each marking release of a book. 
+As early scribes discovered the written word; Mathura had witnessed the wisdom flow through distortion free recital (of `mantras`) - from one generation to next. The method, however, was losing its utility in handling growing body of information. In all probability, the transcription [^transcription] techniques were developed to safeguard the neolithic[^neo] insights - mining, agriculture, botany, medicine, metallurgy, and astrology among others - but the written word was limited to a chosen few. `Mahabharta` was the first fully scribed historical narrative that captured public imagination. It was primary catalyst in mass-adoption of written word. It was unveiled here at Mathura - in a series of eighteen `Parvas` (events) each marking release of a book. 
 
 
 The legend says the epic was too big to scribe for humans! Thus, the poet - `Krishna Dwaipayana` sought `Ganesa` - the elephant god. As in cover photo, `Ganesa` has an elephant head. In Hindu mythology, he is the embodiment of supreme intelligence[^agi]. Like Egyptian god Thoth, `Ganesa` is deity of wisdom, knowledge, magic, art, and science. Incidentally, both of them are depicted to have non-human heads !
@@ -110,6 +110,17 @@ Following pages are a filtered version of theming the early days of text and gol
 
 ## notes and stuff …
 ----
+
+[^transcription]: Transcription on palm leaves …
+- Palm leaves have been used as a medium for writing and transcribing in various cultures for centuries, particularly in regions where palm trees are abundant. It's challenging to pinpoint a single individual or group as the "first" to use palm leaves for transcription, as this practice likely developed independently in different parts of the world.
+- One of the earliest known instances of palm leaf manuscripts comes from ancient India and Southeast Asia, where they were used for religious texts, literature, and other writings. These manuscripts are known as "Palm-leaf Manuscripts" or "Palm-leaf Books."
+- The use of palm leaves for writing is associated with the traditional writing system known as `"Tāḻam-Paṭṭu"` or `"Tala Patra"` in Sanskrit. This system involved inscribing characters onto dried palm leaves using sharp tools. Palm leaf manuscripts were often bound together into books or scrolls.
+- One of the oldest known dated Sanskrit manuscripts is shown below, this specimen transmits a substantial portion of the `Pārameśvaratantra`, a scripture of the `Śaiva Siddhānta`, one of the `Tantric` theological schools that taught the worship of `Śiva` as "Supreme Lord" (the literal meaning of `Parameśvara`). No other complete manuscript of this work is known. A note in the manuscript states that it was copied in the year 252, which some scholars judge to be of the era established by the Nepalese king `Aṃśuvarman` (also known as `Mānadeva`), therefore corresponding to 828 CE. [Ref - Cambridge Digital Library](https://artsandculture.google.com/asset/p%C4%81rame%C5%9Bvaratantra-ms-add-1049-1/kQErGkONgxbJrg?childassetid=UwHEHymvp48xmg)
+
+![oldest palm manuscript](./oldestPalm.jpg)
+
+---
+
 
 [^neo]: Neolithic revolution:- Around 11,000 BC, after the last long winter ended, our ancestors discovered agriculture, pottery, mining and other skills that lay in the foundations of modern society. This revolution with tools and technology and a zeal to do better faster is called the Neolithic (new Stone Age) revolution. There is a debate among historians on duration - the  consensus is anywhere between 10000 BC to 5000 BC -  right before the times of `Mahabharata`. -> [Ref](https://en.wikipedia.org/wiki/Neolithic_Revolution)
 

@@ -4,7 +4,7 @@ Before he got a chance to curse the Gods, he saw a big beehive and also saw the 
 
 An Angel was flying past in his chariot. His fairer friend, sitting besides, saw the massive fire. She asked  him to take a swing down - to check if they could help someone. We can't go on with our gifted lives with no attention to those who actually need our skills? - she urged her Angel. Probably guilty of her privileges.
 
-Angel cautioned her for they were expressly forbidden from causing glitches in the lower worlds -  but who may deny the fairy of charm her wishful musings. Even `Rama` couldn't convince `Siya` that a golden deer is nothing but a trap. The bridge between the left and right half is a "protocol of submission" - not "reason", for the very idea of "reason" is to choose one side of duality.
+Angel cautioned her for they were expressly forbidden from causing glitches in the lower worlds -  but who may deny the fairy of charm her wishful musings. Even `Rama` couldn't convince `Siya` that a golden deer is nothing but a trap. The bridge between the left  and right halves is a "protocol of submission" - not "reason!
 
 He took a nose-dive and they both saw this intriguing scene - a strong able man in his mid thirties sitting on a dead branch that may break any time. And right below him fire was still raging high.  From a distance, they couldn't see the man was aptly catching drops of honey directly into his open mouth. They also didn't see the bees were biting all over him. They were probably enraged on debasement of their earnest savings - and they wanted someone to pay the price. 
 
@@ -18,7 +18,7 @@ Angel stationed the chariot right above the man.  - O man,  kind fairy offers yo
 
 > In Hindi or Sanskrit, a proposal is called a `Prastaav`...
 
-The man probably thought he was hallucinating. Or having understood it was divine nectar, he wanted it all for himself. He quickly convinced himself that the Gods had provisioned this gift solely for him - and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal! Those questions are for later - he reasoned -  for now let me grab all of it. No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they - he thought to himself - not this time - this time this nectar of immortal life is mine - all of it. 
+The man thought he was hallucinating! When angel asked again, he understood it was divine nectar. He wanted it all for himself. He quickly convinced himself that the gods had provisioned this gift solely for him - and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal! Those questions are for later - he reasoned -  for now let me grab all of it. No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they - he thought to himself - not this time - this time this nectar of immortal life is mine - all of it. 
 
 He countered the proposal without courtesy or care, without even making an eye contact - No - he said -  Go your way angel and enjoy your flight! Thanks but no thanks for I know your girl desperately wants this honey. Let her know it ain't for sale!
 

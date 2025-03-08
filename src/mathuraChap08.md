@@ -18,11 +18,13 @@ Angel stationed the chariot right above the man.  - O man,  kind fairy offers yo
 
 > In Hindi or Sanskrit, a proposal is called a `Prastaav`...
 
-The man thought he was hallucinating! When angel asked again, he understood it was divine nectar. He wanted it all for himself. He quickly convinced himself that the gods had provisioned this gift solely for him - and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal! Those questions are for later - he reasoned -  for now let me grab all of it. No wonder now this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they - he thought to himself - not this time - this time this nectar of immortal life is mine - all of it. 
+The man thought he was hallucinating! When angel asked again, he convinced himself it was some sort of divine nectar. Despite all his misgivings, he wanted it all for himself. He assumed the gods had provisioned this gift solely for him - and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal! Those questions are for later - he reasoned -  for now let me grab all of it. No wonder now, he fathomed, this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they? - he thought to himself - not this time - this time this nectar of immortal life is mine - all of it. 
 
-He countered the proposal without courtesy or care, without even making an eye contact - No - he said -  Go your way angel and enjoy your flight! Thanks but no thanks for I know your girl desperately wants this honey. Let her know it ain't for sale!
+He countered the proposal without courtesy or care - without even making an eye contact. 
 
-Angel looked at the fairy and gave the man another chance. His pitch louder - Listen O'dead man , if you don't want the deal then know you will die of the poison, and of course your sugar levels are already high not letting you think straight. You will probably burn in another half hour. Time is of the essence for your survival ! And even if you took the deal it would take the divine doc many days to remove all the stings you got from the deathly bees!
+No - he said -  go your way angel and enjoy your flight! Thanks but no thanks for I know your girl desperately wants this honey. Let her know it ain't for sale!
+
+Angel looked at the fairy and gave the man another chance. His pitch louder - Listen O'dead man , if you don't want the deal then know you will die of the poison, and of course your sugar levels are already high not letting you think straight. You will probably burn in another half hour. Time is of the essence for your survival ! And even if you took the deal it would take the divine doctor many days to remove all the stings you got from the deathly bees!
 
 O ya! - said the greedy man. More the angel tried to convince, more he got sure there was something very special in the honey. 
 

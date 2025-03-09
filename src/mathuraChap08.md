@@ -18,25 +18,25 @@ The angel still had reservations. He knew the rules!
 
 Yet, out loud he surrendered - as you say my lady luck! Then he whispered into fairy's ear -  We must make it look like a fair deal. I can´t change the destiny without approval from higher ups. The surveillance has gotten worse of late. They are keeping track of all off-route flights.
 
-Sure! You do the talking - whispered back smiling fairy. She was excited. Her mate was willing to take on a potential ¨curse for life¨ to make her happy. The idea of breaking rules is always tantalizing to those caught into layers of safety nets.
+Sure! You do the talking - whispered back smiling fairy. She was excited. Her mate was willing to take on a potential ¨curse for life¨ to make her happy. The idea of breaking rules is always tantalizing to those comforted into layers of safety nets.
 
 Angel stationed the chariot right above the man. He spoke as if he wanted to hide his voice  - O man,  kind fairy offers you a seat in the chariot for the divine honey you have broken up in this blessed beehive. If you share this Godly gift, you get a free ride back home. He made a ¨proposal¨.
 
 > In Hindi or Sanskrit, a proposal is called a `Prastaav`...
 
-The man thought he was hallucinating! When angel asked again, he convinced himself it was some sort of divine nectar. Despite all his misgivings, he wanted it all for himself. He assumed the gods had provisioned this gift solely for him - and look what great price he had already paid for this `Amrut`. Is it going to to give me good health or possibly make me immortal! Those questions are for later - he reasoned -  for now let me grab all of it. No wonder now, he fathomed, this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they? - he thought to himself - not this time - this time this nectar of immortal life is mine - all of it. 
+The man thought he was hallucinating! When angel asked again, he convinced himself it was some sort of divine nectar. Despite all his misgivings, he wanted it all for himself. He assumed the gods had provisioned this gift solely for him - and look what great price he paid for this `Amrut`.  I mean I am literally burning in fire and being bitten - at the same time. He thought it was this sacrifice that opened up this bounty. Is it going to to give me good health?  Who knows it might make me immortal! But those questions are for later - he reasoned -  for now let me grab all of it. No wonder now, he fathomed, this angel wants a piece out of my winnings. They always show up at the opportune moments - don't they - he thought to himself - not this time - this time this nectar of immortal life is mine - all of it!
 
 He countered the proposal without courtesy or care - without even making an eye contact. 
 
-No - he said -  go your way angel and enjoy your flight! Thanks but no thanks for I know your girl desperately wants this honey. Let her know it ain't for sale!
+No - he said -  go your way angel and enjoy your flight! Thanks - but no thanks - for I know your girl desperately wants this honey. Let her know it ain't for sale!
 
-Angel looked at the fairy and gave the man another chance. His pitch louder - Listen O'dead man , if you don't want the deal then know you will die of the poison, and of course your sugar levels are already high not letting you think straight. You will probably burn in another half hour. Time is of the essence for your survival ! And even if you took the deal it would take the divine doctor many days to remove all the stings you got from the deathly bees!
+Angel looked at the fairy and gave the man another chance. His pitch louder - Listen O'dead man , if you didn't take the deal, then know you would die of the poison, and of course your sugar levels are already high not letting you think straight. You will probably burn in another half hour. Time is of the essence for your survival ! And even if you took the deal it would take the divine doctors many days to remove all the stings you got from the deathly bees!
 
 O ya! - said the greedy man. More the angel tried to convince, more he got sure there was something very special in the honey. 
 
-Tired and irritated for the heat was getting stronger by the minute, the angel flew away!
+Tired and irritated - for the heat was getting stronger by the minute - the angel and fairy flew away!
 
-Whatever happened to the man is another story but surprised at  what unfolded, the fairy asked the angel - how stupid can a man be! Why wouldn't he take your proposal. 
+Whatever happened to the man is another story but surprised at what unfolded, the fairy asked the angel - how stupid can a man be! Why wouldn't he agree your proposal?
 
 > The angel smiled in relief - A proposal is always made by the one who needs something. And accepted (or rejected) by those who have the upper hand. Quite the opposite of ¨charity¨ where the rich offload their excesses ¨as is¨ and poor taketh whatever on offer. 
 

@@ -1,20 +1,26 @@
-In the dense California redwoods,  a man got caught up in a massive forest fire. Not unusual for the Norcal summer . Luckily he was a climber. He selected a big Redwood and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in that endless scorch.
+In the dense California redwoods,  a man got surrounded in a massive forest fire. Not unusual for the Norcal summer . Luckily he was a climber. He selected a big Redwood and climbed up till he got high enough to breathe, and found a strong branch to sleep on. He tied himself and slept couple of hours. When he woke up, he felt hungry. There was nothing there up high. Birds had all flown away. He wondered if it was his destiny to die of the hunger rather than being burnt alive in that endless scorch.
 
-Before he got a chance to curse the Gods, he saw a big beehive and also saw the honey dripping off - the rising smoke must have melted the nectar. The only problem : it was on a soft branch and of course he didn't want to wake up thousands of bees still closely guarding their life saving. He figured if he could move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He carefully did that, though in the process, he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
+Before he got a chance to curse the Gods, he saw a big beehive and also saw the honey dripping off of it. The rising smoke must have melted the nectar. The only problem : it was on a soft branch and of course he didn't want to wake up thousands of bees still closely guarding their life saving. He figured if he could move below the beehive (and somehow catch the dripping nectar) he could possibly see another sunrise. He did that, though in the process, he definitely rubbed few bees on the wrong side, who didn't waste any time in returning the favor.
 
-An Angel was flying past in his chariot. His fairer friend, sitting besides, saw the massive fire. She asked  him to take a swing down - to check if they could help someone. We can't go on with our gifted lives with no attention to those who actually need our skills? - she urged her Angel. Probably guilty of her privileges.
+An Angel was flying past in his chariot. His fairer friend, sitting besides, saw the massive fire. She asked  him to take a swing down - to check if they could help someone. 
 
-Angel cautioned her for they were expressly forbidden from causing glitches in the lower worlds -  but who may deny the fairy of charm her wishful musings. Even `Rama` couldn't convince `Siya` that a golden deer is nothing but a trap. The bridge between the left  and right halves is a "protocol of submission" - not "reason!
+We can't go on with our gifted lives with no attention to those who actually need our skills? - she urged her Angel. Probably guilty of her privileges.
+
+Angel cautioned her for they were expressly forbidden from causing glitches in the lower worlds -  but who may deny the fairy of charm her wishful musings. Even `Rama` couldn't convince `Siya` that a golden deer is nothing but a trap. The bridge between the left  and right halves is a "protocol of submission" - not that of "reason!
 
 He took a nose-dive and they both saw this intriguing scene - a strong able man in his mid thirties sitting on a dead branch that may break any time. And right below him fire was still raging high.  From a distance, they couldn't see the man was aptly catching drops of honey directly into his open mouth. They also didn't see the bees were biting all over him. They were probably enraged on debasement of their earnest savings - and they wanted someone to pay the price. 
 
-His eyes, ears and lips swollen yet survival was paramount. It appeared the man wanted to live no matter what the quality of his life, and the extent of his struggle. We must save this man - said the fairy. At the back of her mind the question that had always irked her - why do humans love their lives of endless misery? I mean I am a fairy, even then it feels so boring! - She thought.
+His eyes, ears and lips swollen yet survival was paramount. It appeared the man wanted to live no matter what the quality of his life, and the extent of his struggle. 
 
-The angel still had reservations. He knew the rules. Yet, out loud he surrendered - as you say my lady luck ! Then he whispered into fairy's ear -  We must make it look like a fair deal. I can´t change the destiny without approval from higher ups. The surveillance has gotten worse of late. They are keeping track of all off-route flights.
+We must save this man! - said fairy. At the back of her mind the question that had always challenged her logic  - why do humans love their lives of endless misery? I mean I am a fairy, even then it feels so boring! - She thought.
+
+The angel still had reservations. He knew the rules! 
+
+Yet, out loud he surrendered - as you say my lady luck! Then he whispered into fairy's ear -  We must make it look like a fair deal. I can´t change the destiny without approval from higher ups. The surveillance has gotten worse of late. They are keeping track of all off-route flights.
 
 Sure! You do the talking - whispered back smiling fairy. She was excited. Her mate was willing to take on a potential ¨curse for life¨ to make her happy. The idea of breaking rules is always tantalizing to those caught into layers of safety nets.
 
-Angel stationed the chariot right above the man.  - O man,  kind fairy offers you a seat in the chariot for the divine honey you have broken up in this blessed beehive. If you share this Godly gift, you get a free ride back home. He made a ¨proposal¨.
+Angel stationed the chariot right above the man. He spoke as if he wanted to hide his voice  - O man,  kind fairy offers you a seat in the chariot for the divine honey you have broken up in this blessed beehive. If you share this Godly gift, you get a free ride back home. He made a ¨proposal¨.
 
 > In Hindi or Sanskrit, a proposal is called a `Prastaav`...
 

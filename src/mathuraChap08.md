@@ -141,23 +141,27 @@ As he reconfirmed the acceptance, he touched the thumb of his right hand between
 
 The place between the eyes, right above the nose is called `Aajna Chakra`. This is where a `Yogi Guru` may touch with his thumb to associate you with his "knowledge". Once the pathway is opened, there is no going back. You are now one with your `Guru`. In `Hindu` tradition, this is why a `tilak` is placed here, particularly if you participate in a ritual. `Matsya` was now part of a `Maha Yazna`. She would take `Maharishi's` vision for staking it in reality!
 
------
+## 8.5
 
-The fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
+Fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
 
-<div style="padding-left:40px;font-size:0.9em;"> 
+Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution this story may change your mind and your life for ever ! - Angel said.
 
-A story works where a text book fails. 
+Why are stories so compelling - smiled Fairy!
 
-The information, in `Bramh`, is held with in the interrelationships of manifested entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information. The question is what happens when we create characters in a fiction?
+Well that is a good point - replied Angel - A story works where a text book fails. 
 
-While a text book condenses the ideas, a narrative spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. 
+He continued - the information, in `Bramh`, is held with in the interrelationships of entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information. The question is what happens when we create characters in a fiction?
 
-> A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. `Dwaipayana` developed thousands of characters - hundreds of heroes and anti-heroes - because it was history  - reality.  
-> 
+I never thought about that! - Fairy responded - I guess we form relationships with the characters of a narratives - just the way we do with real entities.
+
+You are right - Angel smiled - a text book condenses the ideas. Quite the opposite, a story spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. 
+
+He paused for a moment to begin again -  A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. Through `Mahabharata` writer  developed thousands of characters - hundreds of heroes and anti-heroes - because it was history  - reality.  
+
 > When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story - exactly as it happened!
-
-The idea percolated quickly beyond races, geographies and cultures. All future ideologies (religions or faculties of science) must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. In a way, the physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - our rabbit hole. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
+>
+> The idea (writing truth)  percolated quickly beyond races, geographies and cultures. All future ideologies (religions or faculties of science) must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. In a way, the physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - our rabbit hole. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
 
 This hybrid world is different from that of animals - a step-up even from our "speech only" ancestors ! As specializations grew so did the number of transactions between the human subspecies. I am sure you have noticed that our currency works only with in humans - no other species works for gold! Thankfully `Bhagvad Gita` described the root idea of value exchange - based on `Vikarma` - the proof of work. 
 
@@ -167,10 +171,8 @@ A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` l
 
 It doesn't matter what work you do - what matters is how consistently you do it !
 
-</div>
 
 
-Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution you this story may change your mind and your life for ever ! 
 
 ### notes and other stuff.. 
 

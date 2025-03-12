@@ -41,7 +41,6 @@ The question that laid heavy on his mind and kinda morphed into a lifelong quest
 
 
 ## 4.2
----
 
 One thing was certain in his mind — mere "awareness" of the way universe worked, was not enough to attain peace. Just knowing the existence of "One immutable and omnipresent Knowledge" alone didn't get him the peace he wished for everyone. Not even conducting rituals to appease the deities. The path to knowledge was not in merely knowing its existence. It was in being one with the knowledge. How to get there was the unresolved question !
 
@@ -139,11 +138,13 @@ After years of careful study of motion of heavenly bodies and their co-relation 
 And he saw the potent qualities in  `Matsyagandha`, as prospective surrogate mother.  Despite her ordinary circumstances, she honed in her, the curiosity and poise and the imagination, to gift this world an immortal writer !
 
 ## Notes and stuff: 
+
 ----
 
 [^truth]: That is the reason reality is `Kshra` - mutable. The parity symmetry of this mutable reality is immutable `Akshra` - the supreme knowledge. 
 
 ----
+
 [^barter]: Imagine a world before written word. There were no written agreements. The "promissory note" was literally the "promissory word" called `Shapath`. A word once said must be held. Those who upheld their words were considered worth following. The clan of Rama `Raghukul` believed `Pran Jaye par Vachan Na Jai` - one might lose their lives rather than compromise their words. The idea held immense value in the barter exchanges of produce and metals.
 - There used to be king's representative in every `Mandi` - the place for physical exchange of commodities in large quantities. Their job used to be equitable disposal of barter deals. For example if someone expected 100 `Seer` (kilo) of wheat for 10 `Seer` of copper, and found the wheat was only 90 `Seer`; instead of missing the deal , the wheat owner could promise in front of the king's deal makers to provide the remainder ten `Ser` say with in a fortnight. Failing which he was obliged to let go off a cow. These words were as material in king's court as a written agreement these days.
 - Spoken word was thus to underpin of barter deals. Once we moved to written words, the spoken word lost its value in commercial transactions - an obvious advantage to those who knew the skill of writing.
@@ -152,15 +153,3 @@ And he saw the potent qualities in  `Matsyagandha`, as prospective surrogate mot
 - For writing to succeed, this commercial aspect of spoken word must be replaced by universal value exchange.
 
 ----
-
-
-
-<lightning-widget 
-  name="" 
-  accent="#f9ce00" 
-  to="shutosha@getalby.com" 
-  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
-/>
-<script src="https://embed.twentyuno.net/js/app.js"></script>
-
-

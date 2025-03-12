@@ -1,4 +1,4 @@
----
+# 0.0
 
 Sanskrit word `Aavahan` translates to "Invocation" albeit a wider abstraction. To an observer, it appears you are broadcasting an intense call to action - seeking every corner for possible help. In truth, you converge on to &self[^self] - the focal point of conscious experience. You are able to communicate exactly what you feel - as if you found your calling.  You are prepared - with or without material support --> You instantiate a divine force within! 
 
@@ -23,7 +23,7 @@ Text was the new way - to store manifolds of lore. With around 1.8 million words
 
 It took a series of eighteen books to conclude the epic. On its wings, it took the 'text' to far ends of human reach - along with the idea of a scribed narrative.  `Bhagvad Gita`, a part of sixth book, is in the founding ideologies of Hinduism, Jainism, Buddhism, Sikhism and countless more - and is the first written source of `Karmyoga` - the liberation from `Karma`.
 
----
+## 0.1
 
 Text was the ultimate challenge - for training human brain. Words must be written in every possible context. New words were created to capture the finest of emotions, and subtleties of human behavior -  and to capture that mysterious "unexplained" beyond mortal cognition. Language had an uncompromising syntax - to convey exact meaning in an unfettered written format - to make good for the lack of facial expressions. But more importantly, unlike `Vedas`, the intent was to make `Mahabharata` people's scripture - as addictively consuming as the reality itself - that once started, must be finished to the last page - an unforgettable perma-layer of foundational thoughts (`Sanskaras`). `Dwaipayana` knew there was nothing more engrossing than the reality itself. He thus dedicated his divine vantage into scribing a full copy of history - first such attempt ever. 
 
@@ -60,8 +60,7 @@ From an intuitive experience standpoint, if we were to design one for the autono
 
 That may make one think if our own interface (Earth, Water and Air) has a deeper meaning?  No wonder `Vaidik` scriptures focused on breathing techniques (`Pranayama`). Maybe the air that we breathe is what we are here to process! Many interpretations of `Karm Yoga` believe `Karma` is the minimum set of actions that we must undertake to allow us focus on our breath. 
 
-
----
+## 0.2
 
 Invocation of the primal force, at neural levels, is an invitation to conflicting "thoughts" - to play all their cards. They fight, and they scheme against each other; or in favor of some. They hallucinate in groups and then more subgroups. They leave one sometimes fully vibrant, other times almost dead.  `Krishna Dwaipayana` was destined to churn thousands of insights from sages (`Rishies`) - old and new. Most of the time collectively converging onto "truth" but many other times conflicting. He catalogued their wisdom into four foundational spoken volumes - the `Vedas`. For this legendary work, he was conferred the coveted title in literature - `Ved Vyasa` (the chief editor of Vedas). 
 
@@ -79,7 +78,7 @@ It is hard to say if `Dwaipayana's` work was premeditated, but it sure wasn't an
 
 His grandfather `Sakti Muni`, was first to comprehend eternal `Karmyoga` - the nature of rise of consciousness (`Vishnu`). And his great-grandfather `Vaśiṣṭha` was titled `Bramhrishi` - the first guardian of spoken wisdom. 
 
-----
+## 0.3
 
 How did `Dwaipayana` manage to write such epic(s) at a time when scribing, in itself, was a challenge? — there was no spell check, no grammar support! In fact, Sanskrit Grammar[^panini] was not even formalized yet. And of-course there was no computer. Not even a type-writer!
 

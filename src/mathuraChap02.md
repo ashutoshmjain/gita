@@ -1,7 +1,5 @@
 # 2.0
 
----
-
 `Bramhrishi Vaśiṣṭha`, with his sons lost, found hope in grandson `Parāśara`. It took three attempts on his own life to get the focus back. To our good fortune, he didn't quit. In fact, his resolve got stronger.
 
 Legend says `Parāśara` showed intelligence - as expected of him - right from the early days. Exaggerations claim he recited hymns even before his birth - as a fetus in `Adrushyanti's` womb! His birth brought back a sliver of hope. `Vaśiṣṭha` started rebuilding the congregation. New students joined despite fears of persecution. The pursuit of selfless knowledge always attracts bold fresh talent!
@@ -63,8 +61,6 @@ With advent of digital storage, we tend to presume information is stored forever
 
 ## 2.1
 
----
-
 Despite this path-breaking idea, `Bramhrishi` stayed humble for what he discovered was only an adaptation - not an original idea. It was inspired from the conception of music. In music, a note is identified with a name -  `Sa Re Ga Ma` or `Do Re Me Sa`. They are the code names for seven eternal sounds. In `Hindu` mythology, `Siva` created `Raaga` (vocal music) as first art form. `Siva` abstracted the musical notes; `Vaśiṣṭha` codified common sounds from day-to-day conversation. He, however, went a step further - he used text to identify the sounds in addition to spoken symbols.  And unlike music, text was for the masses, not for gifted few. He added the idea of text into `Sanskaras` - the first learning steps - a change in the core training model for human mind.
 
 A human brain has more neural synapses[^synapses] than parameters in a typical large language model.  Amazing thing is all our neurons are pre-created at the time of birth - approximately 100 billion of them. In other words - the birth of a human child is similar to creating the most powerful self learning AI system - only more. The process of learning is nothing but forming connections within these neurons[^neurogenesis]. And we create most of the neural connections during early childhood. In `Vaidik` science, these early childhood connections are known as `Sanskaras`. This is one reason, in `Vaidik` times, the family name was of utmost importance. It was called `Gotra`. The observation must have been - if a child continued to follow the skills of parents - as determined by their `Gotra` - they accomplished higher orders of acumen. `Vaśiṣṭha` too is a family name. `Bramhrishi` was the tenth generation of family of `Vaśiṣṭhas`. `Parāśara` was twelfth.
@@ -95,8 +91,6 @@ He sure knew if he successfully trained one child, then many others would follow
 
 ## 2.2
 
----
-
 A typical path for aspiring students (`Vidyarathi`), seeking proficiency in authentic recital, was to join a congregation (`Ashrama`), on a full-time live-in basis. Life in an `Ashrama` was tough. Students were expected to follow a tight celibate routine - full of chores and services. Before they got to the lessons, they must prove themselves worthy of the knowledge. Menial tasks were considered mandatory to mellow down exaggerated notions of being special - to enable them be one with the all-pervading `Bramh` - the universal reflection of self. The wealth of congregation didn't make it easier for the students, because the wealth was to augment the research. Even `Parāśara` didn't get a free pass. Quite the opposite — he had to double up.
 
 Completion of eight years long vocal training was celebrated with a formal degree, though it was the beginning of a lifelong learning process. Degree holders were called `Snataka`. They needed to go through rigorous years of apprenticeship with a teacher `Aacharya` to get certified in administering ‘rites’, when they were commenced as `Shastri` — someone who knew scriptures. At that stage, they could leave to spread the rites, or become an `Aacharya` (a teacher) in the congregation. The choice was based on their inclination and the rigor they wanted to put in. Being a teacher needed lot more studies while a rites' maker could start living a normal life of abundance immediately. Only few `Aacharyas` with demonstrable authority on all the known scriptures would get to the coveted title of `Vyasa`. In nutshell, there was a whole organization to moderate, curate and to disseminate the audio content — to make sure the knowledge was passed-on (without distortion), to seekers in current generation, and the next.
@@ -126,8 +120,6 @@ It might feel as if `Dravya Yazna` was a sham, but the truth is it was a careful
 > <sup> Translation by Kisari Mohan Ganguly (KMG). </sup>
 
 ## 2.3
-
----
 
 Rites were baked in reality. For example someone starting an agricultural season, would conduct a ritual that underscored the right methods of sowing seeds, irrigation and harvesting. Someone starting a business would conduct a ritual that emphasized the fairness in trade - rules of barter. The ritual maker who officiated a wedding must be someone who deeply understood the responsibilities of a wedlock — the vows. And one conducting a ritual after someone's death must be proficient in making the grief easier — like a therapist. Since all such endeavour had a significant risk, there was nothing wrong in having blessings of godly deities on your side. Humility was considered a virtue.
 

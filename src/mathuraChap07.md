@@ -161,7 +161,7 @@ You don't need my permission for that `Maharishi`. From this day on, the island 
 
 In Sanskrit such an action is called `Nishchyatmak` - beyond doubts. The intent of the action represents the resolve - `Nishchaya`.
 
-**Notes and Stuff:**
+## Notes and Stuff
 
 ---
 

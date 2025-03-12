@@ -114,7 +114,7 @@ The gravity of his voice such that the words brought tears to `Matsya's` eyes â€
 
 `Matsyagandha` couldn't believe her ears! She forgot to notice that `Maharishi` didn't answer her questions. Instead, he offered her hope. Maybe he was sharing the high tide of his own resolve, strengthened at this unscheduled rendezvous.
 
-## 6.40
+## 6.4
 
 `Maharishi` disembarked, careful to keep his balance - his limp didn't help. Holding the roses and palm leaf in one hand, he latched on to the hull for support. As his hand caught the hull, his saw a small wooden piece with stamp of Kuru kingdom. He was surprised to see a king's stamp lying in the bucket. He guessed the bucket was for dropping fares but why someone dropped king's stamp! Curious he asked `Matsya`.
 
@@ -127,6 +127,8 @@ He handed the seal back, but he did take a question with him as he got off the b
 > If God is full of mercy, why is there misery in the world !
 
 ## notes and stuff
+
+----
 
 [^fish]: The story of `Uparichara` is featured in [section 63](https://mahabharata.shutri.com/maha01.html) of `Adi Parva`, the first book of `Mahabharata`. The question is why `Dvaipayana` had such a "flight of fancy" in describing these stories.
 <!-- markdownlint-disable-next-line -->

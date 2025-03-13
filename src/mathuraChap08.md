@@ -145,9 +145,9 @@ The place between the eyes, right above the nose is called `Aajna Chakra`. This 
 
 Fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
 
-Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution this story may change your mind and your life for ever ! - Angel said.
+Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution this story may change your mind and your life for ever ! - Angel smiled.
 
-Why are stories so compelling - smiled Fairy!
+Why are stories so compelling - smiled back Fairy!
 
 Well that is a good point - replied Angel - A story works where a text book fails. 
 
@@ -157,11 +157,11 @@ I never thought about that! - Fairy responded - I guess we form relationships wi
 
 You are right - Angel smiled - a text book condenses the ideas. Quite the opposite, a story spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. 
 
-He paused for a moment to begin again -  A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. Through `Mahabharata` writer  developed thousands of characters - hundreds of heroes and anti-heroes - because it was history  - reality.  
+He paused for a moment to begin again -  A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. Through `Mahabharata`, the writer  developed thousands of characters - hundreds of heroes and as many anti-heroes - because it was history - reality. Our first attempt at writing the truth as perceived by people.
 
 > When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story - exactly as it happened!
->
-> The idea (writing truth)  percolated quickly beyond races, geographies and cultures. All future ideologies (religions or faculties of science) must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. In a way, the physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - our rabbit hole. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
+
+Angel digressed a bit - the idea percolated quickly beyond races, geographies and cultures. All future ideologies must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. The physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - your rabbit hole. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
 
 This hybrid world is different from that of animals - a step-up even from our "speech only" ancestors ! As specializations grew so did the number of transactions between the human subspecies. I am sure you have noticed that our currency works only with in humans - no other species works for gold! Thankfully `Bhagvad Gita` described the root idea of value exchange - based on `Vikarma` - the proof of work. 
 

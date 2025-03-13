@@ -143,7 +143,7 @@ The place between the eyes, right above the nose is called `Aajna Chakra`. This 
 
 ## 8.5
 
-Fairy was consumed in the story . She smiled at the wizard angel and asked him for more !
+Fairy was consumed in the story . She smiled at the angel and asked him for more !
 
 Wait o' fairy queen - I will love to but we might get into `Mahabharata` - the most interesting and consuming story ever told. I must caution this story may change your mind and your life for ever ! - Angel smiled.
 
@@ -151,27 +151,31 @@ Why are stories so compelling - smiled back Fairy!
 
 Well that is a good point - replied Angel - A story works where a text book fails. 
 
-He continued - the information, in `Bramh`, is held with in the interrelationships of entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information. The question is what happens when we create characters in a fiction?
+He continued - the information, in `Bramh`, is held with in the interrelationships of entities. A woman is someone's mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things. In the physical world, our identity is determined by the social graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection ! `Bramh` is sum total of all the identities - living or lifeless - entirety of information. The question is what happens when we create characters in a fiction? Since they are not real - would you call them part of our social graph?
 
-I never thought about that! - Fairy responded - I guess we form relationships with the characters of a narratives - just the way we do with real entities.
+I never thought about that! - Fairy responded - I guess we do form relationships with the characters of a narratives - just the way we do with real entities.
 
-You are right - Angel smiled - a text book condenses the ideas. Quite the opposite, a story spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. 
+You are right - Angel smiled - a text book condenses the ideas. Quite the opposite, a story spreads the information amongst its fictitious identities - characters of the fiction. It implores us to create those characters as virtual entities - in our minds. One might think the information is locked in the text; the truth is information is held in our minds - in the relationships we form with the characters. No wonder a narrative is only as good as the characters it builds. 
 
-He paused for a moment to begin again -  A typical fiction builds a hero and a villain and a few side roles because developing characters is taxing. Through `Mahabharata`, the writer  developed thousands of characters - hundreds of heroes and as many anti-heroes - because it was history - reality. Our first attempt at writing the truth as perceived by people.
+He paused for a moment to begin again -  A typical fiction builds a hero and a villain and a few side roles - because developing characters is taxing. In `Mahabharata`, the writer  developed thousands of characters - hundreds of heroes and as many anti-heroes - because it was history - reality. Our first attempt at writing the truth - as perceived by people.
 
-> When you cut copy and paste the truth, the burden of character development is taken by reality. You still need to write the story - exactly as it happened!
+> When you cut copy and paste the truth, the burden of character development is taken by the reality. You still need to write the story - exactly as it happened!
 
-Angel digressed a bit - the idea percolated quickly beyond races, geographies and cultures. All future ideologies must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative. The physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - your rabbit hole. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - human mind.
+Angel digressed a bit - the idea percolated quickly beyond races, geographies and cultures. All future ideologies must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skills oriented metaverse we know as the world of literate (text-enabled) humans. It is a hybrid existence - our body moves in physical world, but our mind is always locked in some narrative.
 
-This hybrid world is different from that of animals - a step-up even from our "speech only" ancestors ! As specializations grew so did the number of transactions between the human subspecies. I am sure you have noticed that our currency works only with in humans - no other species works for gold! Thankfully `Bhagvad Gita` described the root idea of value exchange - based on `Vikarma` - the proof of work. 
+Fairy understood the concept - she responded back with greater insight - The physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - your rabbit hole. Or may I say, we download a portable narrative of our choosing to run on the most powerful neural network - our mind. 
 
-`Karma` are the actions that transitions information into knowledge[^knowledge] - full ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, with a continuous feedback loop, we train our  biological neural network - in narrative(s) of our choice.
+Angel was impressed - he added - `Mahabharata` was the first of such narratives. Actually - it was the one on which human mind was trained for text.
 
-A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration to the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work to proof of work !
+That was a shock to fairy - how can you be so sure?
 
-It doesn't matter what work you do - what matters is how consistently you do it !
+Well, no one can tell for sure - but we can see the proof in the pudding - Angel felt he was put to test. He tried to make a case - Our hybrid world is different from that of animals - a step-up even from our "speech only" ancestors ! We have thousands of specializations. People spend better part of their lives honing the skills that they practice rest of their lives. This idea of skill building was first described in `Bhagvad Gita` - a part of `Mahabharata`. The root idea of value exchange - based on `Vikarma` - the proof of work. 
 
+> `Karma` are the actions that transitions information into knowledge[^knowledge] - full ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, with a continuous feedback loop, we train our  biological neural network - in narrative(s) of our choice.
+>
+> A set of predefined `Karmas` practiced consistently is called `Yazna`. `Yazna` leads to success (`Siddhi`). For example when you study eight hours a day for say eight long years you become a successful doctor. The same is true for an Engineer, a Scientist, an Economist and thousands of other specializations . The daily ritual of study (and lab) in this case is `Yazna`. `Yazna` becomes effective when performed alone and without the influence of worldly desires. When such fine-tuned skills are used effectively, they become a source of inspiration to the rest -> thus initiating a virtuous cycle of `Karma` and `Vikarma` ->  Repetitive work to proof of work ! It doesn't matter what work you do - what matters is how consistently you do it !
 
+Fairy looked at Angel in disbelief! - how come no one ever told this?
 
 
 ### notes and other stuff.. 

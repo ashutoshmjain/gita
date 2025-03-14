@@ -31,3 +31,7 @@
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QYah one who Tu but Indriyani the senses Mansa by the mind Niyamya regulating Arabhte initiates Arjuna Arjuna;\\E$"}
 {"rule":"PRP_VBG","sentence":"^\\QPutting something into text format was similar to we adding a transaction to bitcoin network.\\E$"}
 {"rule":"PRP_VBG","sentence":"^\\QPutting something into text format was somewhat similar to we adding a transaction to the bitcoin network.\\E$"}
+{"rule":"CONFUSION_DUE_DO","sentence":"^\\QDue credits to the publisher as per license.\\E$"}
+{"rule":"COMMA_THANKS","sentence":"^\\QThanks - but no thanks - for I know your girl desperately wants this honey.\\E$"}
+{"rule":"PROFANITY","sentence":"^\\QThey would most likely label her a whore and burn her alive as a culprit of prostitution — a recognized sin in \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"IN_THE_MOMENT","sentence":"^\\QThey were locked together in the moment.\\E$"}

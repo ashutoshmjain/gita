@@ -35,3 +35,4 @@
 {"rule":"COMMA_THANKS","sentence":"^\\QThanks - but no thanks - for I know your girl desperately wants this honey.\\E$"}
 {"rule":"PROFANITY","sentence":"^\\QThey would most likely label her a whore and burn her alive as a culprit of prostitution — a recognized sin in \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
 {"rule":"IN_THE_MOMENT","sentence":"^\\QThey were locked together in the moment.\\E$"}
+{"rule":"THE_SUPERLATIVE","sentence":"^\\QNor can I wish for victory, or kingdom's fleeting claim, Nor happiness that follows, this act of cruelest aim.\"\\E$"}

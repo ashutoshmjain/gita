@@ -149,13 +149,13 @@ Wait O' fairy queen - I will love to, but we might get into `Mahabharata` - the 
 
 Why are stories so compelling - smiled back Fairy!
 
-Well that is a good point - replied Angel - A story works where a text book fails. 
+Well, that is a good point - replied Angel - A story works where a text book fails. 
 
-He continued - the "information" is always locked in the interrelationships of entities. A woman is a mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things - the social graph. In the physical world, our identity is determined by this graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection! In `Vaidik` science, `Bramh` is sum total of all the identities - living or lifeless - entirety of observable information. The question is what happens when we create characters in a fiction? Since they are not real - would you call them part of our social graph?
+He continued - the "information" is always locked in the interrelationships of entities. A woman is a mother, a sister and a wife. And hundreds of more relationships she has with animate beings and inanimate things - the social graph. In the physical world, our identity is determined by this graph - connections with place of birth, education institute, employment  - tiny specs of information held with in each connection! In ancient `Vaidik` science, `Bramh` is considered sum total of all the identities - living or lifeless - entirety of observable information. The question is what happens when we create characters in a fiction? Since they are not real - would you call them part of our social graph?
 
 I never thought about that! - Fairy responded - I guess we do form relationships with the characters of a narrative - just the way we do with real entities.
 
-You are right - Angel smiled - a text book fails because condenses the pure ideas. Quite the opposite, a good story spreads the information among its fictitious identities - characters of the fiction. It forces us to create those characters as virtual entities - in our minds. One might think the information was locked in the text; the truth, however, is the information is held in our minds - in the relationships we form with the characters. 
+You are right - Angel smiled - a text book fails because it condenses the pure ideas. Quite the opposite, a good story spreads the information among its fictitious identities - characters of the fiction. It forces us to create those characters as virtual entities - in our minds. One might think the information was locked in the text; the truth, however, is the information is held in our minds - in the relationships we form with the characters. 
 
 No wonder a narrative is only as good as the characters it builds - Fairy nodded.
 
@@ -163,7 +163,7 @@ He paused for a moment to begin again -  A typical fiction builds a hero and a v
 
 > When you cut copy and paste the truth, the burden of character development is taken by the reality. You still need to write the story - exactly as it happened!
 
-Angel digressed a bit - following the lead from `Mahabharata`, the idea percolated quickly beyond races, geographies and cultures. All future ideologies must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skill oriented metaverse we know as the world of literate - text-enabled humans. It is a hybrid existence - body moves in physical world, but our mind is always locked in some narrative.
+Angel digressed a bit - following the lead from `Mahabharata`, the idea percolated quickly beyond races, geographies and cultures. All future ideologies must describe their truth in a scribed narrative - Bible, Quran, Physica, Principia, Relativity - and hundreds of more.  Over generations, such narratives led to human subspecies - monks, doctors, engineers, builders, metallurgists, bitcoiners, and thousands of more - to strive in a skill oriented metaverse we know as the world of literate - text-enabled humans. It is a hybrid existence - body moves in physical world, but mind is always locked in some narrative.
 
 Fairy understood the concept - she responded back with greater insight - The physical freedom is to choose a place of your living, but mental freedom is to practice the narrative of your choice - your rabbit hole - she laughed. 
 
@@ -171,7 +171,7 @@ Angel was impressed - he added - `Mahabharata` was the first of such narratives.
 
 That was a shock to fairy - how can you be so sure?
 
-Well, no one can tell for sure because being sure needs a written proof. But we can see the proof in the pudding - Angel felt he was put to test. He tried to make a case -  human's world is different from that of animals - a step-up even from their "speech only" ancestors! They have thousands of specializations. People spend better part of their lives honing the skills that they practice rest of their lives. This idea of skill building was first described in `Bhagvad Gita` - a part of `Mahabharata`. The root idea of value exchange - based on `Vikarma` - the proof of work. 
+Well, no one can tell for sure but we can see the proof in the pudding - Angel felt he was put to test. He tried to make a case -  human's world is different from that of animals - a step-up even from their "speech only" ancestors! They have thousands of specializations. People spend better part of their lives honing the skills that they practice rest of their lives. This idea of skill building was first described in `Bhagvad Gita` - a part of `Mahabharata`. This means that the epic was written before or the around the time of idea of organised work - when humans understood the value of working together in agriculture or mining etc. The root idea of value exchange came from `Gita` - based on `Vikarma` - the proof of work. 
 
 > `Karma` are the actions that transitions information into knowledge[^knowledge] - full ingestion of a narrative. `Vishesha Karma` (special `Karma`) - also called `Vikarma`, are the actions that convert knowledge into information - presentation of a narrative. For example when we practice daily to improve our game, it is `Karma`. On the other side,  when we play a match to put our skills on display, it is called  `Vikarma` - a proof of work. With `Karma` we ingest information; with `Vikarama` we radiate information. Both are equally important - like two wheels of a cart. In the process, with a continuous feedback loop, we train our  biological neural network - in narrative(s) of our choice.
 >

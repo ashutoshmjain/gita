@@ -40,7 +40,7 @@ We are getting there. Let it sink in for a bit - he said, as he gulped the last 
 
 Ya, I am with you! - it was time for the Fairy to reflect - conscious perception is in the separation. A magnet personifies this idea - we can see the separation of dipoles on a magnet -  though the tenet is applicable to everything we observe or even feel. Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence. Everything manifests in the separation. Everything is a knot - an inseparable pair.
 
-Exactly! - said the Angel - Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in" knowledge except that it appears Yellow, or Red or Green as the case may be. This locking in of something potent in a knot is root birth - manifestation as we call it.
+Exactly! - said the Angel - Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in knowledge". To our sensory eyes, that see only one side of the story, it appears assimilated in what we are seeing. This locking in - of something potent -  in a knot is root birth - manifestation as we call it.
 
 ---
 

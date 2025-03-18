@@ -1,8 +1,6 @@
-Bhagvad Gita starts from section 25 of `Bhishma Parva` - the sixth book of `Maha-Bharata`. Here is a complete extract of original translation. I encourage the reader to take a look at the Translator's  [Preface](https://gita.shutri.com/maha00.html), before reading this section. It gives a perspective on the hard work and the selfless choices the original translator made in rendering this impeccable scripture in English.
+Bhagavad Gita starts from section 25 of `Bhishma Parva` - the sixth book of `Maha-Bharata`. Here is a complete extract of original translation. I encourage the reader to take a look at the Translator's  [Preface](https://mahabharata.shutri.com), before reading this section. It gives a perspective on the hard work and the selfless choices the original translator made in rendering this impeccable scripture in English.
 
-This is probably closest you may get to the work of `Krishna Dwaipayana` without having the translator's own biases creeping in. This is not to say there is anything wrong with different point of views, for the times and language, do have their own way to change the perspectives. That said, and as for my own biases, this section is followed by my notes/ essays that see Gita from the [tinted] eyes of a technical writer. I obviously seek pardon if you find my reflections lacking - for decrypting even a bit of `Krishna's` knowledge, is a more than a life long journey.
-
-Ashutosh
+This is probably closest you may get to the work of `Krishna Dwaipayana` without having the translator's own biases creeping in. This is not to say there is anything wrong with different point of views, for the times and language, do have their own way to change the perspectives. That said, and as for my own biases, this section is followed by my notes/ essays that see Gita from the [tinted] eyes of a technical writer. I obviously seek pardon if you find my reflections lacking - for decrypting even a bit of `Krishna's` knowledge, is a more than a lifelong journey.
 
 # The Mahabharatha
 

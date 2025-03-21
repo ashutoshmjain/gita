@@ -9,6 +9,16 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
+## March 21, 25
+
+  - [Proposal](./mathuraChap08.md) - major update
+      - [Proposal](./mathuraChap09.md) - minor edits
+  - [Bhagvad Gita](./bhagvadGita.md) - minor edits
+      - [Poetic Rendition](bg00.md) - New addition.
+          - [Chapter 1](bg01.md) -  New Addition to support podcast.
+ 
+
+
 ## March 14, 25
 
 - [Readme](./how.md) 

@@ -1,18 +1,16 @@
 Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first hand account of forest fire was a big deal in her mind. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
 
-Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive because this was the first time she flirted with rules.  Some others took a tangent. They indirectly meant she failed to save a life. Not only did they miss the point, they probably wanted her down the guilt trap once again. 
+Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a life. Not only did they miss the point, they probably wanted her down the guilt trap once again. 
 
-> Social conversations mostly route to the bottom where one either meets frustration or mockery. Damned if you did good and more if you did not!
+> Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good and more if you did not!
 
 Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships - less said better for the wizards!
-
----
 
 Luckily, that evening, at a social mixer, they got hold of our Angel. The conversation began at a rather skeptic note. How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening! Another story of a lion taking a lamb - they thought!
 
 Is there something more to be read between the lines ? - the Friend said out loud!
 
-Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. He was genuinely concerned - if the incident reached the regulators, his project might get shelved - for a period, if not for good. But few martinis later, he too jumped in the discussion. For one the focus was not on the fire incident - it was on `Matsya and Parāśara`. And second he couldn't take an epic being distorted. Being a scientist, his disposition was based in logic rather than getting into  "lion over the lamb" arguments - those of morality or righteousness.
+Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. He was genuinely concerned - if the incident reached the regulators, his project might get shelved. But few martinis later, he too jumped in the discussion. For one the focus wasn't on the fire incident - it was on `Matsya and Parāśara`. And second he couldn't take an epic being distorted. Being a scientist, his disposition was based in logic rather than getting into  "lion over the lamb" arguments - those of morality or righteousness.
 
 What exactly is the birth ? - He asked both of them. And waited a bit for their response.
 

@@ -1,12 +1,12 @@
-Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first-hand account of forest fire was a big deal in her mind. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
+Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first-hand account of forest fire was a big deal. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
 
 Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive - because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a life. Not only did they miss the point, they probably wanted her down the guilt trap.
 
-> Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good and more if you did not!
+> Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good, and more if you did not!
 
-Only one of them pondered about `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her after he got what he wanted - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships!
+Only one of them cared for `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships!
 
-Luckily, that evening, at a social mixer, they got hold of our Angel. The conversation began at a rather skeptic note. How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
+That evening, at a mixer event, they got hold of our Angel. The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
 
 Is there something more to be read between the lines ? - the Friend said out loud!
 

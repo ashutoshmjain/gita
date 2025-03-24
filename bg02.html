@@ -1,0 +1,788 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="bhagvadGita.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg00.html">Poetic Rendition</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html">Chapter 1</a></li><li class="chapter-item expanded "><a href="bg02.html" class="active">Chapter 2</a></li><li class="chapter-item expanded "><a href="bg03.html">Chapter 3</a></li></ol></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Chapter 2';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="sānkhya-yog"><a class="header" href="#sānkhya-yog">Sānkhya Yog</a></h1>
+<p>The second chapter of the Bhagavad Gita is called &quot;Sānkhya Yoga,&quot; and its name is rooted in the philosophical concepts it explores.</p>
+<p>Sānkhya is one of the six classical schools of Indian philosophy. It involves analytical reasoning and the discrimination between the eternal (Purusha - consciousness) and the non-eternal (Prakriti - nature). In the context of the Gita, Sānkhya refers to the knowledge of the nature of reality, the self, and the distinction between the body and the soul. It involves understanding the fundamental principles of existence.</p>
+<p>Yoga, in this context, signifies a path or a method. It refers to the means of attaining union with the ultimate reality.</p>
+<p>So, &quot;Sānkhya Yoga&quot; means &quot;the path of knowledge&quot; or &quot;the yoga of analytical discrimination.&quot; It is where lord Krishna begins to impart the knowledge of the eternal nature of the soul. In essence, Chapter 2 lays the foundation for understanding the core philosophical principles that guide the rest of the Bhagavad Gita.</p>
+<p>Chapter Two begins with Sañjaya observing Arjuna's profound compassion, depression, and tears on the battlefield of Kurukṣetra. Seeing Arjuna in this state, Lord Kṛṣṇa begins to speak, questioning how such impurities have come upon Arjuna, stating that they are unbecoming of a man who understands the value of life and will lead to infamy, not higher realms. Kṛṣṇa urges Arjuna to give up this degrading impotence and petty weakness of heart and to arise as the chastiser of the enemy.</p>
+<p>Arjuna responds by expressing his confusion and questioning how he can counterattack with arrows men like Bhīṣma and Droṇa, who are worthy of his worship. He states that it would be better to live by begging than to live at the cost of the lives of these great souls, his teachers, even if they desire worldly gain. Arjuna expresses his confusion about his duty and his loss of composure due to miserly weakness, surrendering to Kṛṣṇa as his disciple and asking for instruction on what is best for him. He feels that no worldly gain, even a prosperous kingdom, could drive away his grief. Ultimately, Arjuna declares to Kṛṣṇa, &quot;Govinda, I shall not fight,&quot; and falls silent.</p>
+<p>At this point, Kṛṣṇa, with a smile, begins to instruct the grief-stricken Arjuna. He states that Arjuna is mourning for what is not worthy of grief, emphasizing that the wise lament neither for the living nor for the dead. Kṛṣṇa teaches about the eternal nature of the soul, asserting that there was never a time when He, Arjuna, or the kings did not exist, nor will they ever cease to be in the future. He explains the concept of the soul's transmigration through different bodies, comparing it to the body's passage through childhood, youth, and old age, stating that a sober person is not bewildered by this change.</p>
+<p>Kṛṣṇa further explains that the nonpermanent appearance of happiness and distress are like the changing seasons, arising from sense perception, and one must learn to tolerate them without being disturbed. He declares that the person who is not disturbed by happiness and distress and is steady in both is eligible for liberation. Kṛṣṇa distinguishes between the nonexistent (material body) and the eternal (soul), asserting the indestructible nature of the soul that pervades the entire body. He reiterates that the soul is never born nor does it die, it is eternal, ever-existing, and primeval, and is not slain when the body is slain. Knowing this, Arjuna should not grieve for the body. Even if one thinks the soul is always born and dies, there is still no reason to lament because death is certain for one who is born, and rebirth is certain after death, making it an unavoidable duty.</p>
+<p>Considering Arjuna's specific duty as a Kṣatriya (warrior), Kṛṣṇa states that there is no better engagement for him than fighting on religious principles, and thus no need for hesitation. He mentions that happy are the Kṣatriyas to whom such unsought fighting opportunities come, opening the doors to heavenly planets. However, if Arjuna does not perform his religious duty of fighting, he will incur sin and lose his reputation. Dishonor, for a respectable person, is worse than death. Kṛṣṇa urges Arjuna to fight for the sake of fighting, without considering happiness or distress, loss or gain, victory or defeat, stating that by doing so, he will never incur sin.</p>
+<p>Kṛṣṇa then describes knowledge through analytical study and knowledge in terms of working without fruitive results. In this endeavor, there is no loss or diminution, and even a little advancement can protect one from great fear. Those on this path are resolute in purpose, while the intelligence of the irresolute is scattered. Kṛṣṇa cautions against attachment to the flowery words of the Vedas that promise fruitive results, and encourages Arjuna to become transcendental to the three modes of material nature, free from dualities and anxieties, and established in the self. He emphasizes that one has a right to perform prescribed duty but is not entitled to the fruits of action, never considering oneself the cause of the results and never being attached to inaction. Performing duty with equanimity, abandoning attachment to success or failure, is called yoga.</p>
+<p>Finally, Kṛṣṇa describes the symptoms of one whose consciousness is merged in transcendence. Such a person gives up all varieties of desire for sense gratification, finding satisfaction in the self alone. They are not disturbed by miseries or elated by happiness, and are free from attachment, fear, and anger, possessing a steady mind. They can withdraw their senses from sense objects like a tortoise draws its limbs within its shell and are fixed in perfect consciousness. Kṛṣṇa warns about the danger of contemplating sense objects, which leads to attachment, lust, anger, delusion, and the loss of intelligence. He concludes by stating that one who is free from attachment and aversion and controls the senses can obtain the Lord's mercy and that a person satisfied in Kṛṣṇa consciousness achieves lasting peace and ultimately attains the kingdom of God, even if situated in that consciousness at the hour of death.</p>
+<p>Here is a verse-by-verse poetic conversion of Chapter Two:</p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<h2 id="verse-1"><a class="header" href="#verse-1">Verse 1:</a></h2>
+<p>Thus spoke Sañjaya,</p>
+<p>his heart with sorrow deep,</p>
+<p>Seeing Arjuna's compassion start to weep.</p>
+<p>Tears filled his eyes,</p>
+<p>his spirit felt distressed,</p>
+<p>By Madhusūdana,</p>
+<p>these words were then addressed .</p>
+<h2 id="verse-2"><a class="header" href="#verse-2">Verse 2:</a></h2>
+<p>The Lord then said,</p>
+<p>with voice serene and clear,</p>
+<p>O Arjuna,</p>
+<p>how has this defilement come so near? </p>
+<p>Unworthy of a soul that knows life's precious worth,</p>
+<p>It leads to shame,</p>
+<p>and not to realms of higher birth .</p>
+<h2 id="verse-3"><a class="header" href="#verse-3">Verse 3:</a></h2>
+<p>Yield not to weakness,</p>
+<p>son of Pṛthā's line,</p>
+<p>This impotence degrades,</p>
+<p>it is not truly thine.</p>
+<p>Discard this petty faintness of the heart's domain,</p>
+<p>Arise,</p>
+<p>O chastiser of foes,</p>
+<p>and conquer again .</p>
+<h2 id="verse-4"><a class="header" href="#verse-4">Verse 4:</a></h2>
+<p>Arjuna then replied,</p>
+<p>with troubled,</p>
+<p>earnest plea,</p>
+<p>O killer of all foes,</p>
+<p>and Madhu's enemy,</p>
+<p>How can I strike with arrows sharp and keen,</p>
+<p>At Bhīṣma,</p>
+<p>Droṇa,</p>
+<p>whom I should hold in esteem? .</p>
+<h2 id="verse-5"><a class="header" href="#verse-5">Verse 5:</a></h2>
+<p>To beg for life would be a kinder fate,</p>
+<p>Than living at the cost of souls so great,</p>
+<p>My teachers they,</p>
+<p>though worldly gains they crave,</p>
+<p>If they are slain,</p>
+<p>all joy we find is grave .</p>
+<h2 id="verse-6"><a class="header" href="#verse-6">Verse 6:</a></h2>
+<p>Nor can we know which path is best to tread,</p>
+<p>To conquer them,</p>
+<p>or be by them laid dead.</p>
+<p>If Dhṛtarāṣṭra's sons should meet their end by me,</p>
+<p>Then life itself would lose its ecstasy.</p>
+<p>Yet there they stand,</p>
+<p>prepared for war's harsh play .</p>
+<h2 id="verse-7"><a class="header" href="#verse-7">Verse 7:</a></h2>
+<p>My duty's path is veiled,</p>
+<p>confusion reigns,</p>
+<p>Weakness and grief my very being strains.</p>
+<p>To You I turn,</p>
+<p>O Lord,</p>
+<p>in this despairing plight,</p>
+<p>Your disciple now,</p>
+<p>surrendered to Your light,</p>
+<p>instruct me right .</p>
+<h2 id="verse-8"><a class="header" href="#verse-8">Verse 8:</a></h2>
+<p>No solace can I find,</p>
+<p>no comfort can I see,</p>
+<p>To dry the tears that flow so endlessly.</p>
+<p>Not even if a kingdom vast I should attain,</p>
+<p>Like gods in heaven,</p>
+<p>still this grief would stain .</p>
+<h2 id="verse-9"><a class="header" href="#verse-9">Verse 9:</a></h2>
+<p>Sañjaya then spoke,</p>
+<p>his narrative to bind,</p>
+<p>Thus Arjuna said,</p>
+<p>his troubled soul entwined.</p>
+<p>'O Govinda,</p>
+<p>I shall not fight,</p>
+<p>' his final word did cease,</p>
+<p>And in the chariot's stillness,</p>
+<p>he found no release .</p>
+<h2 id="verse-10"><a class="header" href="#verse-10">Verse 10:</a></h2>
+<p>O Bharata's descendant,</p>
+<p>in that martial scene,</p>
+<p>With gentle smile,</p>
+<p>Kṛṣṇa then intervened.</p>
+<p>Between the waiting armies,</p>
+<p>His wisdom to impart,</p>
+<p>To grief-struck Arjuna,</p>
+<p>He spoke from His great heart .</p>
+<h2 id="verse-11"><a class="header" href="#verse-11">Verse 11:</a></h2>
+<p>The Lord proclaimed,</p>
+<p>His words like nectar's flow,</p>
+<p>Though wisdom's language from your lips does go,</p>
+<p>You mourn for that which merits not your tear.</p>
+<p>The truly wise hold neither dead nor living dear .</p>
+<h2 id="verse-12"><a class="header" href="#verse-12">Verse 12:</a></h2>
+<p>There never was a time when I did cease to be,</p>
+<p>Nor you,</p>
+<p>nor these assembled kings,</p>
+<p>for all eternity.</p>
+<p>And in the ages yet to come,</p>
+<p>this truth shall still remain,</p>
+<p>That none of us will ever fade or wane .</p>
+<h2 id="verse-13"><a class="header" href="#verse-13">Verse 13:</a></h2>
+<p>As through this life the embodied soul will stride,</p>
+<p>From childhood's dawn to youth,</p>
+<p>then age's tide,</p>
+<p>So at death's door,</p>
+<p>a new form it will find.</p>
+<p>The wise are not by such transitions blind .</p>
+<h2 id="verse-14"><a class="header" href="#verse-14">Verse 14:</a></h2>
+<p>O son of Kuntī,</p>
+<p>fleeting joy and pain,</p>
+<p>Like winter's chill and summer's sun and rain,</p>
+<p>Arise from sense,</p>
+<p>their coming and their go,</p>
+<p>Learn to endure,</p>
+<p>let no disturbance grow .</p>
+<h2 id="verse-15"><a class="header" href="#verse-15">Verse 15:</a></h2>
+<p>O best of men,</p>
+<p>who stands unmoved and bold,</p>
+<p>By happiness or sorrow's touch controlled,</p>
+<p>Who keeps his balance,</p>
+<p>steady and serene,</p>
+<p>That soul,</p>
+<p>O Arjuna,</p>
+<p>is fit for freedom's sheen .</p>
+<h2 id="verse-16"><a class="header" href="#verse-16">Verse 16:</a></h2>
+<p>The seers of truth,</p>
+<p>their wisdom deep and vast,</p>
+<p>Have known the unreal's end,</p>
+<p>the real's firm cast.</p>
+<p>The body's fleeting form will surely fade away,</p>
+<p>But the eternal soul will never know decay .</p>
+<h2 id="verse-17"><a class="header" href="#verse-17">Verse 17:</a></h2>
+<p>Know that which through the entire being spreads,</p>
+<p>Is indestructible,</p>
+<p>beyond all dreads.</p>
+<p>No force can ever shatter or subdue,</p>
+<p>The imperishable soul that dwells in you .</p>
+<h2 id="verse-18"><a class="header" href="#verse-18">Verse 18:</a></h2>
+<p>The body perishes,</p>
+<p>a truth we can't deny,</p>
+<p>Though the embodied soul can never,</p>
+<p>ever die.</p>
+<p>Therefore,</p>
+<p>O Bharata's brave descendant,</p>
+<p>rise and fight,</p>
+<p>Fulfill your duty,</p>
+<p>with all of your might .</p>
+<h2 id="verse-19"><a class="header" href="#verse-19">Verse 19:</a></h2>
+<p>Who thinks the soul can slay,</p>
+<p>or can be slain,</p>
+<p>Knows not the truth,</p>
+<p>their vision is in vain.</p>
+<p>The self can neither kill,</p>
+<p>nor can it ever fall,</p>
+<p>Eternal and untouched,</p>
+<p>beyond the body's thrall .</p>
+<h2 id="verse-20"><a class="header" href="#verse-20">Verse 20:</a></h2>
+<p>For the soul,</p>
+<p>there is no birth and no demise,</p>
+<p>It has not been,</p>
+<p>nor will it ever cease to rise.</p>
+<p>Unborn,</p>
+<p>eternal,</p>
+<p>ancient,</p>
+<p>evermore the same,</p>
+<p>Unslain it stays,</p>
+<p>when mortal frames meet flame .</p>
+<h2 id="verse-21"><a class="header" href="#verse-21">Verse 21:</a></h2>
+<p>O Pārtha,</p>
+<p>how can one who knows the soul's true might,</p>
+<p>Indestructible,</p>
+<p>eternal,</p>
+<p>pure,</p>
+<p>and bright,</p>
+<p>Think to destroy,</p>
+<p>or cause another's end? Such knowledge transcends actions that portend .</p>
+<h2 id="verse-22"><a class="header" href="#verse-22">Verse 22:</a></h2>
+<p>As worn-out garments from the body fall,</p>
+<p>And new attire is donned,</p>
+<p>responding to life's call,</p>
+<p>So does the soul,</p>
+<p>when earthly forms grow old,</p>
+<p>Accept new bodies,</p>
+<p>brave and true and bold .</p>
+<h2 id="verse-23"><a class="header" href="#verse-23">Verse 23:</a></h2>
+<p>No weapon cuts the soul,</p>
+<p>no fire can it burn,</p>
+<p>No water moistens,</p>
+<p>nor can winds e'er turn This essence dry,</p>
+<p>this spirit ever free,</p>
+<p>Beyond the grasp of all materiality .</p>
+<h2 id="verse-24"><a class="header" href="#verse-24">Verse 24:</a></h2>
+<p>Unbreakable,</p>
+<p>insoluble,</p>
+<p>forever it will be,</p>
+<p>Unburned,</p>
+<p>undried,</p>
+<p>for all eternity.</p>
+<p>Pervading all,</p>
+<p>unchanging,</p>
+<p>still the same,</p>
+<p>The soul's true nature,</p>
+<p>beyond earthly claim .</p>
+<h2 id="verse-25"><a class="header" href="#verse-25">Verse 25:</a></h2>
+<p>Invisible they say,</p>
+<p>beyond thought's reach profound,</p>
+<p>Immutable its being,</p>
+<p>on solid ground.</p>
+<p>Knowing this truth,</p>
+<p>O Arjuna,</p>
+<p>wise and bold,</p>
+<p>You should not grieve for bodies,</p>
+<p>new or old .</p>
+<h2 id="verse-26"><a class="header" href="#verse-26">Verse 26:</a></h2>
+<p>But even if you deem the soul each breath must take,</p>
+<p>And at each death,</p>
+<p>its mortal coil forsake,</p>
+<p>Still,</p>
+<p>mighty-armed one,</p>
+<p>why should sorrow bind? No cause for lamentation will you find .</p>
+<h2 id="verse-27"><a class="header" href="#verse-27">Verse 27:</a></h2>
+<p>For certain is the death of all that's born,</p>
+<p>And certain is rebirth when life is torn.</p>
+<p>In this inevitable cycle,</p>
+<p>ever true,</p>
+<p>You should not grieve for what you have to do .</p>
+<h2 id="verse-28"><a class="header" href="#verse-28">Verse 28:</a></h2>
+<p>Unmanifest the beings in their primal state,</p>
+<p>Manifest they briefly,</p>
+<p>sealed by coming fate,</p>
+<p>Then unmanifest again,</p>
+<p>their earthly roles complete.</p>
+<p>So why lament this ever-turning feat? .</p>
+<h2 id="verse-29"><a class="header" href="#verse-29">Verse 29:</a></h2>
+<p>Some see the soul as wonder,</p>
+<p>rare and grand,</p>
+<p>Some speak of it as marvels close at hand,</p>
+<p>Some hear of it as mystic and divine,</p>
+<p>While others hear,</p>
+<p>yet never truly find .</p>
+<h2 id="verse-30"><a class="header" href="#verse-30">Verse 30:</a></h2>
+<p>O Bharata's descendant,</p>
+<p>know this truth profound,</p>
+<p>The dweller in the body can never be unbound,</p>
+<p>Nor ever slain.</p>
+<p>So let your sorrows cease,</p>
+<p>And find in this great knowledge your release .</p>
+<h2 id="verse-31"><a class="header" href="#verse-31">Verse 31:</a></h2>
+<p>Consider too,</p>
+<p>your duty as a warrior true,</p>
+<p>For Kṣatriyas,</p>
+<p>a righteous battle to pursue,</p>
+<p>No nobler task,</p>
+<p>no higher aim can be,</p>
+<p>So cast aside all doubt,</p>
+<p>and fight with liberty .</p>
+<h2 id="verse-32"><a class="header" href="#verse-32">Verse 32:</a></h2>
+<p>O Pārtha,</p>
+<p>blessed are those of martial might,</p>
+<p>To whom such battles come,</p>
+<p>in duty's light,</p>
+<p>For open are the gates to realms above,</p>
+<p>For those who in righteous conflict bravely move .</p>
+<h2 id="verse-33"><a class="header" href="#verse-33">Verse 33:</a></h2>
+<p>But if you shrink from duty's sacred call,</p>
+<p>And fail to fight where righteousness may fall,</p>
+<p>Then sin you'll gather,</p>
+<p>reputation lose,</p>
+<p>And worldly scorn your noble name abuse .</p>
+<h2 id="verse-34"><a class="header" href="#verse-34">Verse 34:</a></h2>
+<p>Dishonor's stain will cling,</p>
+<p>a lasting blight,</p>
+<p>And ever will they speak of your lost might.</p>
+<p>For one of noble standing,</p>
+<p>it's a bitter fate,</p>
+<p>For scorn is worse than death,</p>
+<p>however great .</p>
+<h2 id="verse-35"><a class="header" href="#verse-35">Verse 35:</a></h2>
+<p>The mighty generals,</p>
+<p>who held your prowess high,</p>
+<p>Will deem you fled from fear,</p>
+<p>beneath the sky.</p>
+<p>And in their eyes,</p>
+<p>your worth will dwindle low,</p>
+<p>A shadow of the hero they did know .</p>
+<h2 id="verse-36"><a class="header" href="#verse-36">Verse 36:</a></h2>
+<p>Your enemies will mock with cruel disdain,</p>
+<p>And bitter words will amplify your pain.</p>
+<p>What could be more afflicting to your soul,</p>
+<p>Than such derision taking its harsh toll? .</p>
+<h2 id="verse-37"><a class="header" href="#verse-37">Verse 37:</a></h2>
+<p>O son of Kuntī,</p>
+<p>on this battlefield's expanse,</p>
+<p>If slain,</p>
+<p>to heaven you will surely advance.</p>
+<p>Or if you conquer,</p>
+<p>earthly joys you'll find.</p>
+<p>So rise,</p>
+<p>determined,</p>
+<p>leave all doubt behind .</p>
+<h2 id="verse-38"><a class="header" href="#verse-38">Verse 38:</a></h2>
+<p>Fight for the sake of fighting,</p>
+<p>free from fear,</p>
+<p>Nor heed to pleasure,</p>
+<p>pain,</p>
+<p>or loss held dear.</p>
+<p>No victory desired,</p>
+<p>no defeat to shun,</p>
+<p>By such impartial action,</p>
+<p>sin is never won .</p>
+<h2 id="verse-39"><a class="header" href="#verse-39">Verse 39:</a></h2>
+<p>Thus far I've taught you wisdom's analytic view,</p>
+<p>Now hear of selfless action,</p>
+<p>pure and true.</p>
+<p>O son of Pṛthā,</p>
+<p>when deeds such knowledge guide,</p>
+<p>From karma's binding chains,</p>
+<p>you can abide .</p>
+<h2 id="verse-40"><a class="header" href="#verse-40">Verse 40:</a></h2>
+<p>In this endeavor,</p>
+<p>loss or waste is none,</p>
+<p>A little progress,</p>
+<p>fear's dark grip undone.</p>
+<p>Even a tiny step upon this path so bright,</p>
+<p>Protects from greatest terror's endless night .</p>
+<h2 id="verse-41"><a class="header" href="#verse-41">Verse 41:</a></h2>
+<p>The resolute in purpose,</p>
+<p>their aim is ever one,</p>
+<p>O cherished child of Kurus,</p>
+<p>their focused course is run.</p>
+<p>But those whose wills are scattered,</p>
+<p>their thoughts a tangled maze,</p>
+<p>Their understanding branches in a thousand ways .</p>
+<h2 id="verses-42-43"><a class="header" href="#verses-42-43">VerseS 42-43:</a></h2>
+<p>The narrow-minded cling to Vedic flowery speech,</p>
+<p>That promises rewards,</p>
+<p>beyond mortality's reach.</p>
+<p>Desiring sense delights,</p>
+<p>and life of pomp and show,</p>
+<p>'There's nothing more than this,</p>
+<p>' their limited views grow .</p>
+<h2 id="verse-44"><a class="header" href="#verse-44">Verse 44:</a></h2>
+<p>In minds attached to pleasures,</p>
+<p>fleeting and so frail,</p>
+<p>And worldly wealth,</p>
+<p>that ultimately will fail,</p>
+<p>The firm resolve for service to the Lord Most High,</p>
+<p>No solid root can find,</p>
+<p>beneath their clouded sky .</p>
+<h2 id="verse-45"><a class="header" href="#verse-45">Verse 45:</a></h2>
+<p>The Vedas deal with nature's modes,</p>
+<p>the three that bind,</p>
+<p>O Arjuna,</p>
+<p>transcend them,</p>
+<p>leave them far behind.</p>
+<p>Be free from dualities,</p>
+<p>from anxious gain and dread,</p>
+<p>And in the Self established,</p>
+<p>let your life be led .</p>
+<h2 id="verse-46"><a class="header" href="#verse-46">Verse 46:</a></h2>
+<p>As all the needs a small well can fulfill,</p>
+<p>A mighty reservoir can serve with greater skill.</p>
+<p>So all the aims the Vedas would impart,</p>
+<p>Are found by one who knows their central heart .</p>
+<h2 id="verse-47"><a class="header" href="#verse-47">Verse 47:</a></h2>
+<p>Your right is to the duty,</p>
+<p>to the action's core,</p>
+<p>But not to fruits that follow,</p>
+<p>evermore.</p>
+<p>Nor think yourself the cause of what will be,</p>
+<p>Nor cling to inaction,</p>
+<p>but work with liberty .</p>
+<h2 id="verse-48"><a class="header" href="#verse-48">Verse 48:</a></h2>
+<p>Perform your duty,</p>
+<p>balanced and serene,</p>
+<p>Renouncing attachment to success unseen,</p>
+<p>Or failure's sting.</p>
+<p>This evenness of mind,</p>
+<p>Is yoga called,</p>
+<p>true wisdom to unwind .</p>
+<h2 id="verse-49"><a class="header" href="#verse-49">Verse 49:</a></h2>
+<p>O Dhanañjaya,</p>
+<p>shun all deeds that bring despair,</p>
+<p>By loving service,</p>
+<p>seek the Lord's own care.</p>
+<p>For those who crave the fruits of labor's hand,</p>
+<p>Are misers bound,</p>
+<p>they cannot understand .</p>
+<h2 id="verse-50"><a class="header" href="#verse-50">Verse 50:</a></h2>
+<p>Devotion's path releases,</p>
+<p>here and now,</p>
+<p>From good and bad reactions that bestow Their earthly chains.</p>
+<p>Strive then for yoga's art,</p>
+<p>The skill in action,</p>
+<p>playing well your part .</p>
+<h2 id="verse-51"><a class="header" href="#verse-51">Verse 51:</a></h2>
+<p>By selfless service to the Lord Most High,</p>
+<p>The sages break free,</p>
+<p>reaching realms nigh.</p>
+<p>Released from karma's cycle,</p>
+<p>birth and death's domain,</p>
+<p>To state beyond all sorrow,</p>
+<p>they attain .</p>
+<h2 id="verse-52"><a class="header" href="#verse-52">Verse 52:</a></h2>
+<p>When your intelligence transcends delusion's wood,</p>
+<p>Indifferent you'll stand to what's been understood,</p>
+<p>And what remains to learn,</p>
+<p>in future days untold,</p>
+<p>Your higher knowledge will your vision hold .</p>
+<h2 id="verse-53"><a class="header" href="#verse-53">Verse 53:</a></h2>
+<p>When flowery Vedic words no longer sway your mind,</p>
+<p>And fixed in self-realization,</p>
+<p>true peace you find,</p>
+<p>Then divine consciousness will start to bloom,</p>
+<p>Dispelling darkness,</p>
+<p>conquering all gloom .</p>
+<h2 id="verse-54"><a class="header" href="#verse-54">Verse 54:</a></h2>
+<p>Arjuna asked,</p>
+<p>his eagerness profound,</p>
+<p>O Kṛṣṇa,</p>
+<p>how does one in transcendence sound? How do they speak,</p>
+<p>what language do they claim? How sit they,</p>
+<p>walk they,</p>
+<p>bearing such a name? .</p>
+<h2 id="verse-55"><a class="header" href="#verse-55">Verse 55:</a></h2>
+<p>The Lord replied,</p>
+<p>His wisdom to impart,</p>
+<p>When one gives up all cravings of the heart,</p>
+<p>That rise from mental whims,</p>
+<p>desires uncontrolled,</p>
+<p>And in the Self alone,</p>
+<p>their joy is now enrolled,</p>
+<p>Then are they known,</p>
+<p>in consciousness so pure,</p>
+<p>In transcendental being,</p>
+<p>to endure .</p>
+<h2 id="verse-56"><a class="header" href="#verse-56">Verse 56:</a></h2>
+<p>Unmoved by threefold miseries' sharpest sting,</p>
+<p>Nor by life's joys that temporary wing,</p>
+<p>Free from attachment,</p>
+<p>anger,</p>
+<p>and all fear,</p>
+<p>A sage of steady mind,</p>
+<p>is held most dear .</p>
+<h2 id="verse-57"><a class="header" href="#verse-57">Verse 57:</a></h2>
+<p>In this material world,</p>
+<p>who stands apart,</p>
+<p>Unmoved by good or evil's piercing dart,</p>
+<p>Neither praising nor despising what they find,</p>
+<p>In perfect knowledge,</p>
+<p>firmly fixed of mind .</p>
+<h2 id="verse-58"><a class="header" href="#verse-58">Verse 58:</a></h2>
+<p>Who can withdraw the senses,</p>
+<p>swift and keen,</p>
+<p>As tortoise draws its limbs,</p>
+<p>a sheltered scene,</p>
+<p>That soul is firmly fixed,</p>
+<p>in consciousness so bright,</p>
+<p>Beyond the fleeting shadows of the night .</p>
+<h2 id="verse-59"><a class="header" href="#verse-59">Verse 59:</a></h2>
+<p>Though senses may be curbed,</p>
+<p>their longing still remains,</p>
+<p>The taste for objects,</p>
+<p>subtle,</p>
+<p>it sustains.</p>
+<p>But when a higher taste the soul does seize,</p>
+<p>From sense engagements,</p>
+<p>it finds perfect ease .</p>
+<h2 id="verse-60"><a class="header" href="#verse-60">Verse 60:</a></h2>
+<p>The senses are so forceful,</p>
+<p>wild,</p>
+<p>and strong,</p>
+<p>O Arjuna,</p>
+<p>they drag the mind along.</p>
+<p>Even the wise who strive with might and main,</p>
+<p>Can find their intellect swept off again .</p>
+<h2 id="verse-61"><a class="header" href="#verse-61">Verse 61:</a></h2>
+<p>But one who holds the senses in control,</p>
+<p>And fixes consciousness upon My soul,</p>
+<p>That person,</p>
+<p>steadfast,</p>
+<p>wise,</p>
+<p>and truly free,</p>
+<p>Possesses wisdom's lasting victory .</p>
+<h2 id="verse-62"><a class="header" href="#verse-62">Verse 62:</a></h2>
+<p>By dwelling on sense objects,</p>
+<p>thoughts arise,</p>
+<p>Then attachment follows,</p>
+<p>before our very eyes.</p>
+<p>From attachment springs forth lust's consuming fire,</p>
+<p>And thwarted lust gives birth to raging ire .</p>
+<h2 id="verse-63"><a class="header" href="#verse-63">Verse 63:</a></h2>
+<p>From anger comes delusion,</p>
+<p>dark and deep,</p>
+<p>And clouded memory secrets fail to keep.</p>
+<p>When memory's lost,</p>
+<p>intelligence takes flight,</p>
+<p>And fallen is the soul,</p>
+<p>from wisdom's height .</p>
+<h2 id="verse-64"><a class="header" href="#verse-64">Verse 64:</a></h2>
+<p>But one who's free from liking and from hate,</p>
+<p>Whose senses ruled,</p>
+<p>stand firm against life's bait,</p>
+<p>Through guiding principles,</p>
+<p>finds mercy's gentle hand,</p>
+<p>And grace divine bestowed across the land .</p>
+<h2 id="verse-65"><a class="header" href="#verse-65">Verse 65:</a></h2>
+<p>For one thus satisfied,</p>
+<p>in Kṛṣṇa's loving light,</p>
+<p>The threefold miseries vanish in the night.</p>
+<p>In that serene consciousness,</p>
+<p>so pure and true,</p>
+<p>Intelligence finds its firm and rightful due .</p>
+<h2 id="verse-66"><a class="header" href="#verse-66">Verse 66:</a></h2>
+<p>Without connection to the Supreme Divine,</p>
+<p>No wisdom transcends earthly thought's confine,</p>
+<p>No steady mind,</p>
+<p>no peace can then be found,</p>
+<p>And without peace,</p>
+<p>where can true joy abound? .</p>
+<h2 id="verse-67"><a class="header" href="#verse-67">Verse 67:</a></h2>
+<p>As strong winds seize a boat upon the wave,</p>
+<p>So can one roving sense,</p>
+<p>the intellect deprave,</p>
+<p>If mind's attention on that sense takes hold,</p>
+<p>Wisdom's firm anchor loses all its hold .</p>
+<h2 id="verse-68"><a class="header" href="#verse-68">Verse 68:</a></h2>
+<p>Therefore,</p>
+<p>O mighty-armed one,</p>
+<p>understand this plea,</p>
+<p>Whose senses are restrained,</p>
+<p>from their captivity,</p>
+<p>That soul possesses wisdom,</p>
+<p>firm and deep,</p>
+<p>While others in delusion soundly sleep .</p>
+<h2 id="verse-69"><a class="header" href="#verse-69">Verse 69:</a></h2>
+<p>What is as night to beings,</p>
+<p>steeped in earthly ways,</p>
+<p>Is wakefulness for one whose inner light displays.</p>
+<p>And what to beings is the day's bright claim,</p>
+<p>Is night for the introspective sage's aim .</p>
+<h2 id="verse-70"><a class="header" href="#verse-70">Verse 70:</a></h2>
+<p>As rivers flow to ocean,</p>
+<p>vast and still,</p>
+<p>Yet ocean's depths no overflow will fill,</p>
+<p>So one unmoved by desires' ceaseless tide,</p>
+<p>Can find true peace,</p>
+<p>where others can't abide .</p>
+<h2 id="verse-71"><a class="header" href="#verse-71">Verse 71:</a></h2>
+<p>Who casts aside all longings of the sense,</p>
+<p>And lives desireless,</p>
+<p>without pretense,</p>
+<p>Relinquishing all claims of ownership's hold,</p>
+<p>Devoid of ego's story to be told,</p>
+<p>That soul alone can find true,</p>
+<p>lasting peace .</p>
+<h2 id="verse-72"><a class="header" href="#verse-72">Verse 72:</a></h2>
+<p>This is the spiritual path,</p>
+<p>the godly way to live,</p>
+<p>Attaining which,</p>
+<p>no bewilderment can give Its troubled sway.</p>
+<p>If one in this state finds release,</p>
+<p>Even at death,</p>
+<p>they enter realms of peace .</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="bg01.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="bg03.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="bg01.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="bg03.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

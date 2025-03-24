@@ -20,6 +20,7 @@
 - [Bhagvad Gita](./bhagvadGita.md)
     - [Poetic Rendition](bg00.md)
       - [Chapter 1](bg01.md)
+      - [Chapter 2](bg02.md)
     - [Essays](./0.0_about.md)
       - [Hypothesis](./hypothesis.md)
       - [Continuum](./continuum.md)

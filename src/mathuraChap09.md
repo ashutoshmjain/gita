@@ -4,11 +4,11 @@ Most her friends had their own tales to tell - about the crazy things humans do!
 
 > Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good, and more if you did not!
 
-Only one of them cared for `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her - as expected of the powerful of the day - wizards or men. Even angels were a coin-toss when it came to relationships!
+Only one of them cared for `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her - as expected of the powerful - wizards or men. Even angels were a coin-toss when it came to relationships!
 
 That evening, at a mixer event, they got hold of our Angel. The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
 
-Is there something more to be read between the lines ? - the Friend said out loud!
+Is there something more to be read between the lines ? - the Friend did not try to hide the scorn in her voice!
 
 Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. He was genuinely concerned - if the incident reached the regulators, his project might get shelved. But few martinis later, he too jumped in the discussion. For one the focus wasn't on the fire incident - it was on `Matsya and Parāśara`. And second he couldn't take an epic being distorted.
 
@@ -18,7 +18,7 @@ Seeing their faces blank out - Let's go outside, it's too noisy in here. We need
 
 ---
 
-As they stepped outside the crowded hall, the light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to this deeper conversation, and he wanted to prepare his mind for details.
+As they stepped outside the crowded hall, the light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation on manifestation, and he wanted to prepare his mind for details.
 
 There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue [^RGB]. They mix up to make millions of colors. Our eyes are limited to around ten million shades. Possibilities are endless, but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are normally hidden in one "White" but they reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles, light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up its true nature - and beautiful it is! Isn't it?
 
@@ -26,19 +26,21 @@ He paused to check if he made sense, and also to make sure he was not overtly po
 
 Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it.
 
-The statement invited a "head turn" from both the friends. A sign that he got their full attention.
+The statement invited a "head turn" from both the friends. A sign - that he got their full attention.
 
 Each of these seven colors is a statement of separation. For example, Green is a signal that all the other colors left it alone - a separation occurred, yet it survived. What color is it that we don't see when our eyes see the peaceful Green?  
 
-He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - White light minus Green is Magenta. Anything that appears Green must absorb the Magenta out of white light that falls on it to reflect back Green.
+He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - White light minus Green is Magenta. Anything that appears Green must absorb the Magenta - out of white light that falls on it - to reflect back Green.
 
-Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" ! The key thing is -  the inverse is just another shade. On the face of it, we can never tell it is an inverse of something. In fact, every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another unless you already know - like now you know Green and Magenta are complimentary.
+Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" - semantics don't matter - we can call them "complimentary" too - because together they create an Identity - the white light! 
 
-O - you mean what happened on the boat was a public view and more complexity was hidden beneath - said Fairy - her tone borderline diffident. She was still pissed at the responses to her post last week.
+The key thing is -  the "Magenta" is just another shade. On the face of it, we can never tell it is an inverse of "Green". In fact, every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another unless you already know. For example, now we know Green and Magenta are complimentary - that is the hidden "knowledge".  Quite the opposite - when we look at Green - just communicating the name of the color is "Information". Information is apparent , knowledge is always hidden. Actions (`Karma`) are the only way to derive knowledge from the information.
 
-We are getting there. Let it sink in for a bit - he said, as he gulped the last sip from his tumbler - what we observe is the public key, but  the private key is always hidden. What appears trivial has certain underlying parity - it is a knot! The color and its anti color are tied to each other though only one appears observable.
+O - you mean what happened on the boat was a public view aka "information" and more complexity was hidden beneath? - questioned Fairy - her tone borderline diffident. She was still pissed at the responses to her post last week.
 
-Ya, I am with you! - it was time for the Fairy to reflect - conscious perception is in the separation. A magnet personifies this idea - we can see the separation of dipoles on a magnet -  though the tenet is applicable to everything we observe or even feel. Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence. Everything manifests in the separation. Everything is a knot - an inseparable pair.
+We are getting there. Let it sink in for a bit - he said, as he gulped the last sip from his tumbler - what we observe is the public key, but  the private key is always hidden. What appears trivial has certain underlying parity - it is a knot! The color and its anti color are tied to each other.
+
+Ya, I am with you! - it was time for the Fairy to reflect - conscious perception is in the separation. A magnet literally personifies this idea - we can see the separation of dipoles on a magnet -  though the tenet is applicable to everything we observe or even feel. Even abstract things like great riches have their inverse in extreme poverty.  Love - hate, care - indifference,  and respect - impudence. Everything manifests in the separation. Everything is a knot - an inseparable pair.
 
 Exactly! - said the Angel - Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in knowledge". To our sensory eyes, that see only one side of the story, it appears assimilated in what we are seeing. This locking in of something potent -  in a knot - is root birth - manifestation as we call it!
 

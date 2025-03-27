@@ -44,10 +44,12 @@ Ya, I am with you! - it was time for the Fairy to reflect - conscious perception
 
 Exactly! - said the Angel - Now here is what they didn't teach in the classrooms - kinda secret that is still kept in the wraps. His voice lowered as if he was sharing a deep insight - In this separation, something potent gets locked in. We can't perceive this "locked-in knowledge". To our sensory eyes, that see only one side of the story, it appears assimilated in what we are seeing - because it neither changes the Green or the Magenta - it is just the awareness as to how two colors are connected to each other. This locking in of something potent -  in a knot - is root birth - manifestation as we call it!
 
-He continued after making sure of the heightened curiosity of both his listeners - The thing that is locked-in is complete in itself - because it is simply a connection. In fact, it is as if this thing wants to look at itself from two opposing sides. The reason separation (manifestation) occurs is to enable this relationship give an Identity.  
+He continued after making sure of the heightened curiosity of both his listeners - The thing that is locked-in is complete in itself - because it is simply a connection. In fact, it is as if this thing wants to look at itself from two opposing sides. The reason separation (manifestation) occurs is to give this relationship give an Identity.  
 
 
-The Friend, who had recently learnt  [Abstract Algebra](https://www.mathsisfun.com/sets/groups-introduction.html) jumped in - that is the definition of a "field".
+The Friend, who was quietly listening till now, jumped in the conversation - what do you mean by "Complete" and that it acts as the Identity.
+
+Complete is simple to explain - it means, if you look at the group of all colors as a whole, the locked in knowledge is awareness of all the separations. Means it doesn't only know Magenta is complimentary to Green , it also knows 
 
 There you go - said the Angel - this exactly is the anomaly. The general physics teaches us a particle annihilates [^annihilation] with it's anti-particle. Whereas the truth is, they are complimentary.  A color mixed with it's anti-color shade  gives us the White light. The "White" is thus the identity of the "group" of seven rainbow colors. We also say "White" is a quantum jump for it assimilates in it all the colors. It represents the entire palette of colors.
 

@@ -36,3 +36,5 @@
 {"rule":"PROFANITY","sentence":"^\\QThey would most likely label her a whore and burn her alive as a culprit of prostitution — a recognized sin in \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
 {"rule":"IN_THE_MOMENT","sentence":"^\\QThey were locked together in the moment.\\E$"}
 {"rule":"THE_SUPERLATIVE","sentence":"^\\QNor can I wish for victory, or kingdom's fleeting claim, Nor happiness that follows, this act of cruelest aim.\"\\E$"}
+{"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QAnd just like \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q they would span the heights of \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q to the depths of the ocean.\\E$"}
+{"rule":"HE_VERB_AGR","sentence":"^\\QAs he got sure that \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q was gone for good, he house- arrested aging \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and became a king for all practical purposes.\\E$"}

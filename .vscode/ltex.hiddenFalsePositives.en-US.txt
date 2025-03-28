@@ -38,3 +38,4 @@
 {"rule":"THE_SUPERLATIVE","sentence":"^\\QNor can I wish for victory, or kingdom's fleeting claim, Nor happiness that follows, this act of cruelest aim.\"\\E$"}
 {"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QAnd just like \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q they would span the heights of \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q to the depths of the ocean.\\E$"}
 {"rule":"HE_VERB_AGR","sentence":"^\\QAs he got sure that \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q was gone for good, he house- arrested aging \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and became a king for all practical purposes.\\E$"}
+{"rule":"ADMIT_ENJOY_VB","sentence":"^\\QUltimately, the chapter stresses the importance of controlling the senses and mind to overcome the destructive force of lust, which obscures true knowledge and hinders spiritual progress, advocating for acting according to one's dharma with detachment and devotion.\\E$"}

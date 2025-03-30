@@ -1,16 +1,16 @@
 Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first-hand account of forest fire was a big deal. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
 
-Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive - because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a life. Not only did they miss the point, they probably wanted her down the guilt trap.
+Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive - because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a human life! Not only did they miss the point, they probably wanted her down the guilt trap.
 
-> Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good, and more if you did not!
+> Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good, and more if you didn't!
 
-Only one of them cared for `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her - as expected of the powerful - wizards or men. Even angels were a coin-toss when it came to relationships!
+Only one of them showed some interest in `Matsya` - What happened to the poor girl? Who was her child ? And more importantly - did `Maharishi` ditch her - as expected of the powerful - wizards or men. Even angels were a coin-toss when it came to relationships!
 
 ---
 
-That evening, at a mixer event, Fairy met this curious Friend and they got hold of our Angel. 
+That evening, at a mixer event, Fairy happened to meet this curious Friend and they got hold of our Angel. 
 
-The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
+The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water with a magical wand? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
 
 Is there something more to be read between the lines ? - the Friend did not try to hide the scorn in her voice!
 
@@ -24,20 +24,21 @@ Seeing their faces blank out - Let's go outside, it's too noisy in here. We need
 
 As they stepped outside the crowded hall, the light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation - on manifestation - and he wanted to prepare his mind for details.
 
-There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue[^RGB]. They mix up to make millions of colors. Our eyes are limited to around ten million shades. Possibilities are endless, but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are a special group because they are normally hidden in one "transparent invisible" light - as if they formed a perfect union to have a common name - a representative identity. We normally call this identity "white" light even though it is nothing like white - may be white makes sense because the opposite is darkness! He paused to take a big sip, only to start again - They do reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles, light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up its true nature - and beautiful it is! Isn't it?
+There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue[^RGB]. They mix up to make millions of colors. Our eyes are limited to around ten million shades. Possibilities are endless, but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are a special group because they are normally hidden in one "transparent invisible" light - as if they formed a perfect union to have a common name - a representative identity. We normally call this identity "white" light even though it is nothing like white. Maybe white makes sense because the opposite is utter darkness! 
+
+He paused to take a big sip, only to start again - They do reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles, light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up its true nature - and beautiful it is! Isn't it?
 
 
-Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it.
-
-The statement invited a "head turn" - from both the friends. A sign - that he got their full attention.
+Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it. The statement invited a "head turn" - from both the friends. A sign - that he got their full attention.
 
 Each of these seven colors is a statement of separation. For example, Green is a signal that all the other colors left it alone - a separation occurred, yet it survived. What color is it that we don't see when our eyes see the peaceful Green?  
 
 He waited a bit for the Fairy and her Friend to respond. Finding them silent but curious, he added - White light minus Green is Magenta. Anything that appears Green must absorb the Magenta - out of white light that falls on it - to reflect back Green.
 
-Looking at beautiful Magenta, we can never tell it is a shade that conspired against "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" - semantics don't really matter - we can call them "complimentary" too - because together they create an Identity - the white light!
+Looking at beautiful Magenta, we can never tell it is a shade that conspired against the "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" - semantics don't really matter - we can call them "complimentary" too - because together they create an Identity - the white light!
 
-The key thing is -  the "Magenta" is just another shade. On the face of it, we can never tell it is an inverse of "Green". In fact, every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another unless you already know. For example, now we know Green and Magenta are complimentary. That is the hidden "knowledge".  Quite the opposite - when we look at Green - just communicating the name of the color is "Information". Information is apparent, knowledge is always hidden - like the basis for the information. Repetitive actions (`Karma`) are the only way to derive knowledge from the information.
+The key thing is - the "Magenta" is just another shade. On the face of it, we can never tell it broke up from "Green". In fact, every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another unless you already know. For example, now we know Green and Magenta are complimentary. That is the hidden "knowledge". Information is what our senses see or feel - "meaning" is what is hidden behind the apparent view. Knowledge always needs work - for example even now you can't be sure that Magenta and Green are complimentary - you need to check it yourself to know the truth. Or else, by definition, it is still information!
+
 
 O - you mean what happened on the boat was a public view aka "information" and more complexity was hidden beneath? - questioned Fairy - her tone borderline diffident. She was still pissed at the responses to her post last week.
 
@@ -49,15 +50,15 @@ Exactly! - said the Angel - Now here is what they didn't teach in the classrooms
 
 Interesting idea! - said the Friend.
 
-Angel continued after making sure of the heightened curiosity of both his listeners - The imperceptible thing that is locked-in - is complete in itself - because it is simply a connection  - an island between two opposing sides. In fact, it is as if this thing wants to look at itself from two opposing sides. We may hypothesize, the very reason of separation (manifestation) -  is to identify this island!
+Angel continued after making sure of the heightened curiosity of both his listeners - The imperceptible thing that is locked-in - is complete in itself - because it is simply a connection  - an island between two opposing sides. In fact, it is as if this thing wants to look at itself from two opposing sides. We may hypothesize, the very reason of separation (manifestation) -  is to identify this island! To know the meaning hidden in every separation.
 
 ---
 
 The Friend, who was quietly listening till now except for one remark, jumped into the conversation - what do you mean by "Complete" and that it acts as the "Identity"?
 
-Complete is simple to explain - replied Angel - it means, if you look at the group of all colors -  as a whole - the locked in knowledge is awareness of all the separations. In other words, it is an algorithm that converts a given color into its corresponding anti-color. Means it doesn't only know Magenta is complimentary to Green , it knows the complementarity of all the possible colors  - in the group.
+Complete is simple to explain - replied Angel - it means, if you look at the group of all colors -  as a whole - the locked in knowledge is awareness of all the separations. In other words, it is an algorithm that converts a given color into its corresponding anti-color. Means it doesn't only know Magenta is complimentary to Green , it knows the complementarity of all the possible colors  - in the group. Think of it something at the center of the Group. 
 
-Identity is little hard to fathom - he continued. It means that this knowledge is inbuilt into all the colors. It is in every member of the group, but it doesn't change the appearance of the any of the constituents. In other words, the independent color can't manifest without imbibing the algorithm - this algorithm is the operation that creates the separation in first place. It also means that when two opposing members mix together to cancel each other - they reveal the Identity.
+Identity is little hard to fathom - he continued. It means that this knowledge is inbuilt into all the colors. It is in every member of the group, but it doesn't change the appearance of any of the constituents. In other words, the independent color can't manifest without imbibing this knowledge. This awareness is the operation that creates the separation in first place. It also means that when two opposing members mix together to cancel each other - what is left is this knowledge. That is why it is the Identity of the group.
 
 But the story doesn't stop here - he added.  This identity - white transparent light in case of our group of seven rainbow colors - has its own inverse - the utter darkness. In other words, the white light is born of seven underlying separations - Seven knots in `Vaidik` speak , and it separates itself from the darkness.  No matter how complex an identity, it always has its inverse  - it must separate [^separation] from something else to become observable.
 

@@ -40,3 +40,6 @@
 {"rule":"HE_VERB_AGR","sentence":"^\\QAs he got sure that \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q was gone for good, he house- arrested aging \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and became a king for all practical purposes.\\E$"}
 {"rule":"ADMIT_ENJOY_VB","sentence":"^\\QUltimately, the chapter stresses the importance of controlling the senses and mind to overcome the destructive force of lust, which obscures true knowledge and hinders spiritual progress, advocating for acting according to one's dharma with detachment and devotion.\\E$"}
 {"rule":"DT_JJ_NO_NOUN","sentence":"^\\Qa tangled,\\E$"}
+{"rule":"MD_BASEFORM","sentence":"^\\QThy set duty, thou must needs embrace,\\E$"}
+{"rule":"SENT_START_THEM","sentence":"^\\QThan sluggish sloth.\\E$"}
+{"rule":"MD_BASEFORM","sentence":"^\\QThus fostering care, in mutual might allied,\\E$"}

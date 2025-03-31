@@ -1,4 +1,4 @@
-Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first-hand account of forest fire was a big deal. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
+Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first-hand account of forest fire was a big deal - worth a long post on social media. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
 
 Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive - because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a human life! Not only did they miss the point, they probably wanted her down the guilt trap.
 
@@ -10,26 +10,28 @@ Only one of them showed some interest in `Matsya` - What happened to the poor gi
 
 That evening, at a mixer event, Fairy happened to meet this curious Friend and they got hold of our Angel. 
 
-The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water with a magical wand? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
+The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water - with a magical wand? After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
 
 Is there something more to be read between the lines ? - the Friend did not try to hide the scorn in her voice!
 
-Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. He was genuinely concerned - if the incident reached the regulators, his project might get shelved. But few martinis later, he too jumped in the discussion. For one the focus wasn't on the fire incident - it was on `Matsya and Parāśara`. And second he couldn't take an epic being trolled.
+Unaware that the story got leaked into "social circles", Angel was taken aback. For a second, he wanted to cover up. If the incident reached the regulators, his project might get shelved. But few martinis later, he too jumped in the discussion. For one the focus wasn't on the fire incident - it was on `Matsya and Parāśara`. And second he couldn't take an epic being trolled.
 
-What exactly is the birth ? - He asked both of them. And waited a bit for their response.
+What exactly is the birth ? - He asked both friends. And waited a bit for their response.
 
 Seeing their faces blank out - Let's go outside, it's too noisy in here. We need a quieter place to talk - he suggested with a smile.
 
 ---
 
-As they stepped outside the crowded hall, the light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. And equal "hue and cry" of the humane activists. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation - on manifestation - and he wanted to prepare his mind for details.
+As they stepped outside the crowded hall, the light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. Humans had littered the planet into a wasteland. Fortunately most of the waste swamps were converted into thick forests. The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation - on manifestation - and he wanted to prepare his mind for details.
 
-There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue[^RGB]. They mix up to make millions of colors. Our eyes are limited to around ten million shades. Possibilities are endless, but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are a special group because they are normally hidden in one "transparent invisible" light - as if they formed a perfect union to have a common name - a representative identity. We normally call this identity "white" light even though it is nothing like white. Maybe white makes sense because the opposite is utter darkness! 
+There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue[^RGB]. They mix up to make millions of colors. Our eyes are limited to around ten million shades. Possibilities are endless, but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are a special group because they are normally hidden in one "transparent invisible" light - as if they formed a perfect union to have a common name - a representative identity. We normally call this identity sun light or  "White" light - even though it is nothing like White.  
 
-He paused to take a big sip, only to start again - They do reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles, light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up its true nature - and beautiful it is! Isn't it?
+Fairy liked the poetic monologue - Maybe White makes sense because the opposite is utter darkness! - she added.
+
+Meanwhile Angel took a big sip, to resume with a clear throat - They do reveal themselves when elements meet - after the rain when the sun shows up - the suspended droplets, on tiny dust particles - light up the washed air. As if there is a spectral choreography of all that could be observed. The cosmos shows up its true nature - and beautiful it is! Isn't it?
 
 
-Seeing them both share the pleasant observation, he continued  - they also hold the clues to the very nature of creation - the "birth" as we normally call it. The statement invited a "head turn" - from both the friends. A sign - that he got their full attention.
+Seeing them both share the pleasant observation, he announced  - they also hold the clues to the very nature of creation - the "birth" as we normally call it. The announcement invited a "head turn" - from both the friends. A sign - that he got their full attention.
 
 Each of these seven colors is a statement of separation. For example, Green is a signal that all the other colors left it alone - a separation occurred, yet it survived. What color is it that we don't see when our eyes see the peaceful Green?  
 

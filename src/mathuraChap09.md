@@ -39,7 +39,7 @@ He waited a bit for the Fairy and her Friend to respond. Finding them silent but
 
 Looking at beautiful Magenta, we can never tell it is a shade that conspired against the "Green" - left the poor "Green" alone - he smiled. Let's just call it the "inverse" of Green, or "Anti-Green" - semantics don't really matter - we can call them "complimentary" too - because together they create an Identity - the white light!
 
-The key thing is - the "Magenta" is just another shade. On the face of it, we can never tell it broke up from "Green". In fact, every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another unless you already know. For example, now we know Green and Magenta are complimentary. That is the hidden "knowledge". Information is what our senses see or feel - "meaning" is what is hidden behind the apparent view. Knowledge always needs work - for example even now you can't be sure that Magenta and Green are complimentary - you need to check it yourself to know the truth. Or else, by definition, it is still information!
+The key thing is - the "Magenta" is just another shade. On the face of it, we can never tell it broke up with "Green". In fact, every observable thing is an inverse of something. It is like a cryptographic public-private key pair - you can never guess one from another unless you already know. For example, now we know Green and Magenta are complimentary. That is the hidden "knowledge". Information is what our senses see or feel - "meaning" is what is hidden behind the apparent view. Knowledge always needs work - for example even now you can't be sure that Magenta and Green are complimentary - you need to check it yourself to know the truth. Or else, by definition, it is still information!
 
 
 O - you mean what happened on the boat was a public view aka "information" and more complexity was hidden beneath? - questioned Fairy - her tone borderline diffident. She was still pissed at the responses to her post last week.
@@ -52,7 +52,7 @@ Exactly! - said the Angel - Now here is what they didn't teach in the classrooms
 
 Interesting idea! - said the Friend.
 
-Angel continued after making sure of the heightened curiosity of both his listeners - The imperceptible thing that is locked-in - is complete in itself - because it is simply a connection  - an island between two opposing sides. In fact, it is as if this thing wants to look at itself from two opposing sides. We may hypothesize, the very reason of separation (manifestation) -  is to identify this island! To know the meaning hidden in every separation.
+Angel continued after making sure of the heightened curiosity of both his listeners - The imperceptible thing that is locked-in - is complete in itself - because it is simply a logic of separation - the rule for a cell to split into two - same for a branch of tree to split into two. It is the knowledge of the all the children elements - complete lineage. In other words it is the Identity of a group. 
 
 ---
 
@@ -60,7 +60,7 @@ The Friend, who was quietly listening till now except for one remark, jumped int
 
 Complete is simple to explain - replied Angel - it means, if you look at the group of all colors -  as a whole - the locked in knowledge is awareness of all the separations. In other words, it is an algorithm that converts a given color into its corresponding anti-color. Means it doesn't only know Magenta is complimentary to Green , it knows the complementarity of all the possible colors  - in the group. Think of it something at the center of the Group. 
 
-Identity is little hard to fathom - he continued. It means that this knowledge is inbuilt into all the colors. It is in every member of the group, but it doesn't change the appearance of any of the constituents. In other words, the independent color can't manifest without imbibing this knowledge. This awareness is the operation that creates the separation in first place. It also means that when two opposing members mix together to cancel each other - what is left is this knowledge. That is why it is the Identity of the group.
+Identity is little hard to fathom - he continued. It means that this knowledge is inbuilt into all the child branches. It is in every member of the group, but it doesn't change the appearance of any of the constituents. This awareness creates the separation in first place. It also means that when two opposing members mix together to cancel each other - what is left is this knowledge. That is why it is the Identity of the group. 
 
 But the story doesn't stop here - he added.  This identity - white transparent light in case of our group of seven rainbow colors - has its own inverse - the utter darkness. In other words, the white light is born of seven underlying separations - Seven knots in `Vaidik` speak , and it separates itself from the darkness.  No matter how complex an identity, it always has its inverse  - it must separate [^separation] from something else to become observable.
 

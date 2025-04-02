@@ -78,7 +78,7 @@ Okay - smiled the Friend - I am listening!
 
 The three phases of the matter are - solids, liquids and gases. Excluding Plasma, which is kind of a superposition of the three phases and is not a natural occurrence on earth - Angel continued ...
 
-Every thing that may be observed must be one of these three phases. Along with the eight colors, these eleven were considered the means to observe the matter. The matter, be it solid or liquid must have a unique phase and a unique color . So the ancients defined the "state" of all observable things. The state had two simple parameters - phase and color. The state information was important metallurgy. For example if you heat a metal, first it changes the color, and then it becomes liquid. In absence of a sophisticated temperature gauge, all information was communicated in terms of state. Even today we use this in cooking - heat the onions till they turn brown - Angel smiled.
+Every thing that may be observed must be one of these three phases. Along with the eight colors, these eleven were considered the means to observe the matter. The matter, be it solid or liquid must have a unique phase and a unique color . So the ancients defined the "state" of all observable things. The state had two simple parameters - phase and color. The state information was important in metallurgy. For example if you heat a metal, first it changes the color, and then it becomes liquid. In absence of a sophisticated temperature gauge, all information was communicated in terms of state. Even today we use this in cooking - heat the onions in melted butter till they turn brown - Angel smiled.
 
 Even today, with all the advancements, that basic design of "observability" stands good. Now, in modern science - we have covered many miles on the observability side but what about the  "Observer"? What is the dichotomy of an "observer"? Unfortunately we didn't focus much on this half of the equation!
 
@@ -86,21 +86,21 @@ Well, technically speaking , an "observer" is also matter, but we have five sens
 
 You are on the right track - Angel was happy to see his ideas getting registered - but there is little more than mere five senses. First, there is a notion of "space". If senses are unable to observe the three phases of matter, and don't see any of the (eight) colors, we say it is dark "space". In addition, an observer has a natural tendency to observe things - we must continuously use our senses to observe - we just can't stop[^stop] our sensory apparatus even in sleep - as if it follows a random function. This quality of sensory system was termed "Fickle mind" (`Mana`).
 
-In addition to "Fickleness", there is sophisticated mechanism to analyse what we observe. This capacity was termed "Intelligence" (`Buddhi`). It is the intelligence that weaves random events into a narrative. 
+In addition to "Fickleness", there is sophisticated mechanism to analyse what we observe. This capacity was termed "Intelligence" (`Buddhi`). It is the intelligence that weaves random events into a discerning narrative. 
 
-So in all, an observer is "matter" that has seven additional pairs to process the information - five senses, fickle mind and intelligence. These seven pairs give rise to another Identity. Just the way seven color pairs lead to white light ; these seven pairs create darkness - inverse of the white light. Because all Identities must have their own inverse.
+So in all, an observer is "matter" that has seven additional pairs to process the information - five senses, fickle mind and intelligence. These seven pairs give rise to another Identity. Just the way seven color pairs lead to white light ; these seven pairs create darkness - inverse of the white light. Because all Identities must have their own inverse. In `Vaidik` parlance, this darkness is referred to as "desire".
 
 It was time for both fairy and her friend to get appreciative. No one ever told this perspective to them though it appeared simple and made sense. It didn't take any complex knowledge of math or science to derive this mental model - just observation.
 
 ---
 
-The Angel continued - So eight colors and three phases of matter - that is eleven basic dualities that we "observe". Now add to this the perceptual facets of the observer - the five Senses (`Indriyas`), Fickleness (`Mana`), Intelligence (`Buddhi`) and Space (`Kham`) - these eight are stable knots that make the information gathering aspect of an observer. But there is little more to it ..  an "observer" too has three phases of its own being ..
+The Angel continued - So eight colors and three phases of matter - that is eleven basic dualities that we "observe". Now add to this the perceptual facets of the observer - the five Senses (`Indriyas`), Fickleness (`Mana`), Intelligence (`Buddhi`) and Space (`Kham`) - these eight are stable knots that make the information gathering aspect of an observer - desire to know. But there is little more to it ..  an "observer" too has three phases of its own being ..
 
 > Just like three phases of the observable  matter, the observer too has three phases - in `Vaidik` speak these phases are called `Gunas`. The three `Gunas` are - `Sattva`, `Rajsa` and `Tamsa`. The notion of "Work" (state change), on the observer side, is to transition with in these three `Gunas` and the elements of darkness. At any point in time the state of the observer is defined as the controlling `Guna` along with one of the sense organs (or fickleness or intelligence). 
 
-Unfortunately there is no English word to describe `Gunas`. Just think of them as three phases of mood. For example when you play just to participate, it is `Sattva`, when you play to win - it is `Rajsa`, and if you rather sleep when it is time to play, it is `Tamsa`.  Thus the recipes on the observer side are always communicated in terms of `Guna` and `Indriya`, just like in physical world we say stop heating when the butter melts and onions turn Brown. You can say for example that keep thinking with intelligence  till you feel `Sattva` rising and then start speaking. Or go to sleep when `Tamas` appear to be taking over senses.
+Unfortunately there is no English word to describe `Gunas`. Just think of them as three phases of mood. For example when you play just to participate, it is `Sattva`, when you play to win - it is `Rajsa`, and if you rather sleep when it is time to play, it is `Tamsa`.  Thus the recipes on the observer side are always communicated in terms of `Guna` and `Indriya`, just like in physical world we say stop heating when the butter melts and onions turn Brown. You can say for example that keep thinking with intelligence  till you feel `Sattva` rising and then start speaking. Or go to sleep when `Tamas` appears to be taking over senses. Binding the observer to this framework is the beginning of `Yoga`.
 
-Thus, a conscious observer inherits eleven physical facets of matter,  plus eleven perceptual facets of observation. These twenty-two knots combined create an identity. In `Vaidik` system this identity is called `Ahmkara` - a perceptible physical shape what we call "I" - our Ego.  The inverse of Ego is what we know as consciousness (soul). In fact, it is prudent to say, Ego appears as a complimentary identity to soul.
+Thus, a conscious observer inherits eleven physical facets of matter,  plus eleven perceptual facets of desire. These twenty-two knots combined create an identity. In `Vaidik` system this identity is called `Ahmkara` - a perceptible physical shape what we call "I" - our Ego.  The inverse of Ego is what we know as consciousness (soul). 
 
 Well, I'll need another drink before my mind blows up - said Fairy as she pointed to her empty glass. Three of them walked inside. They found  a quiet corner with ample food on the table, after filling up their fancy tumblers with sacred poisons of their choice.
 
@@ -108,13 +108,13 @@ Well, I'll need another drink before my mind blows up - said Fairy as she pointe
 
 But we still didn't get to the "Birth" - said Friend as she pulled out the chair and checked the food. She was on strict diet - eating once a day, and it was well past her dinner time!
 
-I think we are ready to discuss the "birth" - Angel grabbed a large napkin from the table. Let me first draw what we talked outside - he felt happy for converging a complex conversation to conclusion ...
+Angel grabbed a large napkin from the table while friends started eating their small portions - Let me first draw what we talked outside - he felt happy for converging a complex conversation to c decent conclusion ...
 
 ![](./conscious.jpg)
 
-Okay - let me reveal my little secret - In `Vaidik Science` the human body is the field. It has twenty-three fundamental knots as I said. They call this field `Kshetra`. As a bio-scientist, I was intrigued by this idea because **we have exactly twenty-three pairs of chromosomes!**  Ever-since I learnt it from my mentor, I am trying to link our genetic makeup with this ancient science. No wonder that the ancient hyperbole was ..
+Okay - let me share my little secret - said Angel as he finished showing around his sketch. In `Vaidik Science` the human body is the field. It has twenty-three fundamental knots as I said. They call this field `Kshetra`. As a bio-scientist, I was intrigued by this idea because **we have exactly twenty-three pairs of chromosomes!**  Ever-since I learnt it from my mentor, I am trying to link our genetic makeup with this ancient science. No wonder that the ancient hyperbole was ..
 
-> If someone understood this field of consciousness - these twenty-three knots, conception may be triggered in any container that could keep the embryo safe for nine months. They say `Maharishi Parāśara` not only figured it out, he passed this science onto `Dwaipayana` (his son) in his mother's womb.
+> If someone understood this field of consciousness - these twenty-three knots - conception may be triggered in any container that could keep the embryo safe for nine months. They say `Maharishi Parāśara` not only figured it out, he passed this science onto `Dwaipayana` (his son) in his mother's womb.
 
 The fairy and her friend looked at him in disbelief. They were not sure if they believed the pseudo-science they heard from a qualified bioengineer. But the Angel was pretty sure of his theory - he added - such a birth is called a birth through `Yog Maya`. Instead of calling  it a normal birth - a throw of chromosomal dice - they call it a birth targeted for a specific orientation - `Avtaran` (incarnation).
 

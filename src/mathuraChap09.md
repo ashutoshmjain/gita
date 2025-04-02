@@ -88,7 +88,9 @@ You are on the right track - Angel was happy to see his ideas getting registered
 
 In addition to "Fickleness", there is sophisticated mechanism to analyse what we observe. This capacity was termed "Intelligence" (`Buddhi`). It is the intelligence that weaves random events into a discerning narrative. 
 
-So in all, an observer is "matter" that has seven additional pairs to process the information - five senses, fickle mind and intelligence. These seven pairs give rise to another Identity. Just the way seven color pairs lead to white light ; these seven pairs create darkness - inverse of the white light. Because all Identities must have their own inverse. In `Vaidik` parlance, this darkness is referred to as "desire".
+So in all, an observer is "matter" that has seven additional pairs to process the information - five senses, fickle mind and intelligence. These seven pairs give rise to another Identity. Just the way seven color pairs lead to white light ; these seven pairs create darkness - inverse of the white light. Because all Identities must have their own inverse. In `Vaidik` parlance, this darkness is referred to as "desire". 
+
+
 
 It was time for both fairy and her friend to get appreciative. No one ever told this perspective to them though it appeared simple and made sense. It didn't take any complex knowledge of math or science to derive this mental model - just observation.
 
@@ -96,7 +98,10 @@ It was time for both fairy and her friend to get appreciative. No one ever told 
 
 The Angel continued - So eight colors and three phases of matter - that is eleven basic dualities that we "observe". Now add to this the perceptual facets of the observer - the five Senses (`Indriyas`), Fickleness (`Mana`), Intelligence (`Buddhi`) and Space (`Kham`) - these eight are stable knots that make the information gathering aspect of an observer - desire to know. But there is little more to it ..  an "observer" too has three phases of its own being ..
 
-> Just like three phases of the observable  matter, the observer too has three phases - in `Vaidik` speak these phases are called `Gunas`. The three `Gunas` are - `Sattva`, `Rajsa` and `Tamsa`. The notion of "Work" (state change), on the observer side, is to transition with in these three `Gunas` and the elements of darkness. At any point in time the state of the observer is defined as the controlling `Guna` along with one of the sense organs (or fickleness or intelligence). 
+> Just like three phases of the observable  matter, the observer too has three phases - in `Vaidik` speak these phases are called `Gunas`. The three `Gunas` are - `Sattva`, `Rajsa` and `Tamsa`. The notion of "Work" (state change), on the observer side, is to transition with in these three `Gunas` and the elements of desire. At any point in time the state of the observer is defined as the controlling `Guna` along with one of the sense organs (or fickleness or intelligence).
+>
+> The way a physical object exudes information - colors; the observer seeks information. Desire is the name for that emptiness (empty dark space) that needs fulfillment with information. As soon as we know, the desire dissolves away, and the observer moves on to something else because of built in random function. `Sattva` is the phase when observer is satiated with information , `Rajasa` is when observer seeks information, `Tamsa` is when observer doesn't know what it is seeking.
+
 
 Unfortunately there is no English word to describe `Gunas`. Just think of them as three phases of mood. For example when you play just to participate, it is `Sattva`, when you play to win - it is `Rajsa`, and if you rather sleep when it is time to play, it is `Tamsa`.  Thus the recipes on the observer side are always communicated in terms of `Guna` and `Indriya`, just like in physical world we say stop heating when the butter melts and onions turn Brown. You can say for example that keep thinking with intelligence  till you feel `Sattva` rising and then start speaking. Or go to sleep when `Tamas` appears to be taking over senses. Binding the observer to this framework is the beginning of `Yoga`.
 

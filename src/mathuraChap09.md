@@ -187,15 +187,17 @@ This was the opening of `Karm Yoga` that young `Krishna` learnt in his mother's 
 
 ## 9.3
 
-Two years of hiatus, away from `Ashrama`, had two goals for `Maharishi`. Birth of an heir who would carry forward his mission, and to fine tune the scribing technology. However, his two years long absence was an opportunity that many `Asuras` were waiting for — particularly `Kansa` — son of `Ugrasen`.
+Two years of hiatus, away from `Ashrama`, had two goals for `Maharishi`. Birth of a spiritual heir who would carry forward his mission, and to fine tune the scribing techniques. However, his two years long absence was an opportunity that many `Asuras` were waiting for — particularly `Kansa` — son of `Ugrasen`.
 
-With `Maharishi` gone, there was no one to stop `Kansa` from whatever he wanted to do. As he got sure that `Maharishi` was gone for good, he house-arrested aging `Ugrasen` and became a king for all practical purposes. Exposure to independent rule, further flamed his lust for power. He needed more to improve his army, cavalry and elephants. But more so because his needs for pleasures were endless.
+With `Maharishi` gone, there was no one to stop `Kansa` from whatever he wanted to do. As he got sure `Maharishi` was gone for good, he house-arrested aging `Ugrasen` and assumed the throne. Exposure to independent rule, further flamed his lust for power. He needed more to improve his army, cavalry and elephants. But more so because his needs for pleasures were endless.
 
-Driven by equally ill advisors, `Kansa` announced a major decree on the `Ashrama`. Half of all bovine wealth and precious metals must be sent immediately to king's exchequer for the past dues, or vacate the holy land of `Vaśiṣṭha`, `Sakti` and `Parāśara`. And hence forth, he demanded an annual tax. That was quite reasonable — he thought —  given the congregation was literally awash in wealth - `Kaam Dhenu`.
+Driven by equally ill advisors, `Kansa` announced a major decree on the `Ashrama`. Half of all bovine wealth and precious metals must be sent immediately to king's exchequer for the past dues, or vacate the holy land of `Vaśiṣṭha`, `Sakti` and `Parāśara`. And hence forth, he demanded an annual cut. That was quite reasonable — he thought —  given the congregation was literally awash in wealth - `Kaam Dhenu`.
 
-`Maitreya`, who was running the congregation in absence of `Maharishi`, didn't take the new rules without contest . He approached `Ugrasen` for the excesses of `Kansa` only to find that `Ugrasen` was even more helpless. He then approached `Vasudev`, `Kansa's` brother-in-law, who was a rational man as much as `Kansa's` sister `Devki`. Both of them raised the concern to the council of clerics in `Ugrasen's` court, but they found all of them pawns, playing in the hands of `Asuras`. `Vasudev` and `Devki` were deeply worried and wondering whether continue building their new wedding in `Mathura` or move to the nearby empire across `Yamuna` where king `Shantanu` was heard to be just and peace loving. And his son `Devvrata` was a true leader of good men.
+`Maitreya`, who was running the congregation in absence of `Maharishi`, didn't take the new rules without contest. He approached `Ugrasen` for the excesses of `Kansa`, only to find `Ugrasen` was even more helpless. He then approached `Vasudev`, `Kansa's` brother-in-law, who was a rational man as much as `Kansa's` sister `Devki`. Both of them raised the concern to the council of `Naad Yogies` in `Ugrasen's` court, but they found all of them pawns, playing in the hands of `Asuras`. `Vasudev` and `Devki` were deeply worried and wondering whether continue building their new wedding in `Mathura`, or move to the nearby empire across `Yamuna` where king `Shantanu` was heard to be just and peace loving. And his son `Devvrata` was a true leader of good men.
 
-Before `Vasudev` could take further action, `Kansa` limited his mobility too — a house arrest till he is tried under fake charges of treason. Without `Maharishi` , `Maitreya` was at a stalemate except that he had a trusted friend in the council who sent him daily updates of `Kansa's` plans. Unfortunately, those updates only aggravated his worries ..
+Before `Vasudev` could take further action, `Kansa` limited his mobility too — a house arrest till he is tried under fake charges of treason. Without `Maharishi` , `Maitreya` was at a stalemate except that he had a trusted friend in the council who sent him daily updates of `Kansa's` plans. 
+
+Unfortunately, those updates only aggravated his worries ..
 
 ## notes and other stuff
 

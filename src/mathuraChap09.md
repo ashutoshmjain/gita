@@ -1,6 +1,8 @@
 Back in her tinsel town, the Fairy couldn't help share the experience with her friends - first-hand account of forest fire was a big deal - worth a long post on social media. Her intent though was to headline a new definition of "proposal" versus that of "charity". She probably wanted to rub her charitable friends in high places. Charity was a big component of the social score.
 
-Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive - because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a human life! Not only did they miss the point, they probably wanted her down the guilt trap.
+Most her friends had their own tales to tell - about the crazy things humans do! Some of them downplayed her experience as naive - because this was the first time she flirted with "the rules".  Some others took a tangent. They indirectly meant she failed to save a human life! 
+
+Not only did they miss the point, they probably wanted her down the guilt trap.
 
 > Social conversations never go the way you wanted. They mostly route to the bottom where one either meets frustration or mockery. Damned if you did good, and more if you didn't!
 
@@ -10,7 +12,7 @@ Only one of them showed some interest in `Matsya` - What happened to the poor gi
 
 That evening, at a mixer event, Fairy happened to meet this curious Friend and they got hold of our Angel. 
 
-The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water? - eve with a magical wand! After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
+The conversation began at a rather skeptic note! How could someone conceive at a sprinkle of water? - with a magical wand! After all, it was a boat, not a fertility clinic  - they asked with a cunning smile - as if they knew what actually went down that evening!
 
 Is there something more to be read between the lines ? - the Friend did not try to hide the scorn in her voice!
 
@@ -22,9 +24,9 @@ Seeing their faces blank out - Let's go outside, it's too noisy in here. We need
 
 ---
 
-As they stepped outside the crowded hall, the light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. Humans had littered the planet into a wasteland. Fortunately most of the waste swamps were bio-engineered into thick forests. The downside, however, was rampant forest fires despite angels regularly monitoring over the biosphere. 
+As they stepped outside the crowded hall, a light drizzle had just stopped. A thick rainbow lit up the evening sky. Three of them, raising their big mugs, took a deep breath. The clean air was restored with enormous efforts from angel scientists. Humans had littered the planet into a wasteland. Fortunately most of the waste swamps were bio-engineered into thick forests. The downside, however, was rampant forest fires despite angels regularly monitoring over the biosphere. 
 
-The Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation - on manifestation - and he wanted to prepare his mind for details.
+Angel looked at the rainbow. Marveling at the immensity of the nature; he started his monologue. He had decided to sacrifice the evening to a deeper conversation - on manifestation - and he wanted to prepare his mind for details.
 
 There are three basic colors that our [eyes](https://www.allaboutvision.com/eye-care/eye-anatomy/color-vision) are designed for - he said - Red, Green and Blue[^RGB]. They mix up to make millions of colors. Our eyes are limited to around ten million shades. Possibilities are endless, but four new colors are rather stable - Orange, Yellow, Indigo and Violet. Together with three basic ones, the seven colors are, as we all know, the colors of a rainbow. They are a special group because they are normally hidden in one "transparent invisible" light - as if they formed a perfect union to have a common name - a representative identity. We normally call this identity sun light or  "White" light - even though it is nothing like White.  
 

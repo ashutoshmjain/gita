@@ -1,24 +1,73 @@
-Bhagavad Gita starts from section 25 of `Bhishma Parva` - the sixth book of `Maha-Bharata`. Here is a complete extract of original translation. I encourage the reader to take a look at the Translator's  [Preface](https://mahabharata.shutri.com), before reading this section. It gives a perspective on the hard work and the selfless choices the original translator made in rendering this impeccable scripture in English.
 
-This is probably closest you may get to the work of `Krishna Dwaipayana` without having the translator's own biases creeping in. This is not to say there is anything wrong with different point of views, for the times and language, do have their own way to change the perspectives. That said, and as for my own biases, this section is followed by my notes/ essays that see Gita from the [tinted] eyes of a technical writer. I obviously seek pardon if you find my reflections lacking - for decrypting even a bit of `Krishna's` knowledge, is a more than a lifelong journey.
+<div class="cover-huge"> Śrīmad Bhagavad Gītā</div>
 
-# The Mahabharatha
+<div class="centered"> First scribed source of Karmyoga</div>
+
+----
+
+<div class="centered">
+    <img src="./viratRoop.png" alt="Viraat Roop" class="responsive"
+    width = "1600"
+    height = "1200" />
+    
+</div>
+<div class="cover-small"><sup>Krishna showing Viraat Roop to Arjuna. Image credit : Ghibli Art Studio</sup></div>
+<div class="cover-small">
+  <div class="centered">
+      <a href="./how.md">Navigation & About .. </a>
+  </div>
+</div>
+<div class="cover-small">
+  <div class="centered">
+      <a href="./changeLog.md">changeLog .. </a>
+  </div>
+</div>
+
+<div class="cover-medium">
+  <div class="centered">
+</div>
+</div>
+
+<div class="cover-huge">
+
+Mahabharta
 
 of
 
-**`Krishna-Dwaipayana Vyasa`**
+Krishna Dwaipayana Vyasa
 
-BOOK 6 - BHISHMA PARVA
+</div>
 
-Translated into English Prose from the Original Sanskrit Text
+<div class="cover-small"><sup> 
+Scanned at sacred-texts.com, 2003. 
 
-by
+Proofed at Distributed Proofing, Juliet Sutherland, Project Manager. 
 
-**Kisari Mohan Ganguli**
+Additional proofing and formatting at sacred-texts.com, by J. B. Hare.
+</sup></div>
 
-[1883-1896]
+<div class="centered">
 
-*Scanned at sacred-texts.com, January, 2004. Proofed by John Bruno Hare*
+Translated By Kisari Mohan Ganguli 
+
+</div>
+
+<div class="centered">
+
+[1883 - 1896]
+
+</div>
+
+
+
+---
+
+
+
+
+Bhagavad Gita starts from section 25 of `Bhishma Parva` - the sixth book of `Maha-Bharata`. Here is a complete extract of original translation. I encourage the reader to take a look at the Translator's  [Preface](https://mahabharata.shutri.com), before reading this section. It gives a perspective on the hard work and the selfless choices the original translator made in rendering this impeccable scripture in English.
+
+This is probably closest you may get to the work of `Krishna Dwaipayana` without having the translator's own biases creeping in. This is not to say there is anything wrong with different point of views, for the times and language, do have their own way to change the perspectives. That said, and as for my own biases, this section is followed by my notes/ essays that see Gita from the [tinted] eyes of a technical writer. I obviously seek pardon if you find my reflections lacking - for decrypting even a bit of `Krishna's` knowledge, is a more than a lifelong journey.
 
 > This where is the Bhagavad Gita proper starts. I have added the chapter headings to aid in comparison with other translations, they are not part of the original Ganguli text.
 >

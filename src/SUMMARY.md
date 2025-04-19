@@ -24,6 +24,7 @@
       - [Chapter 3](bg03.md)
       - [Chapter 4](bg04.md)
       - [Chapter 5](bg05.md)
+      - [Chapter 6](bg06.md)
     - [Essays](./0.0_about.md)
       - [Hypothesis](./hypothesis.md)
       - [Continuum](./continuum.md)

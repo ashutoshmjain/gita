@@ -18,7 +18,7 @@
       - [Fate](./mathuraChap15.md)
   - [Excavate - wip](./mathuraBook3.md)
 - [Bhagvad Gita](./bhagvadGita.md)
-    - [Poetic Rendition](bg00.md)
+    - [Podcast](bg00.md)
       - [Chapter 1](bg01.md)
       - [Chapter 2](bg02.md)
       - [Chapter 3](bg03.md)

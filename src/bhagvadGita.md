@@ -38,23 +38,15 @@ Krishna Dwaipayana Vyasa
 
 </div>
 
-<div class="cover-small"><sup> 
+<div class="cover-small"> 
+
 Scanned at sacred-texts.com, 2003. 
 
 Proofed at Distributed Proofing, Juliet Sutherland, Project Manager. 
 
 Additional proofing and formatting at sacred-texts.com, by J. B. Hare.
-</sup></div>
 
-<div class="centered">
-
-Translated By Kisari Mohan Ganguli 
-
-</div>
-
-<div class="centered">
-
-[1883 - 1896]
+Translated By **Kisari Mohan Ganguli** [1883 - 1896]
 
 </div>
 

@@ -166,11 +166,14 @@ And that he did. He named her `Satyawati` — bearer of Truth. The first name is
 
 True to her second name, `Maharishi` showed her the truth lies amidst the extremes of dualities - beyond our conscious perception. We only see one side of the coin. If we are lucky, we may be able to comprehend the other side. We can ascertain through logic that for a "Green" to exist, there must exist a "Magenta", but this is just the beginning of the quest. The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in. `Maharishi` imparted to `Satyawati`, learnings of his quest - to make her worthy of the name! 
 
-`Krishna` heard it all. 
+Desires are the root of all pains. He explained to `Satyawati` sitting under the tree next to her cave.  
+
+`Satyawati` asked  - then why would anyone work? -  she thought desires were the basis of all that we do. 
+
+`Maharishi` explained it all - Krishna` heard it all. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-Desires are the root of all pains. In that he denounced `Dravya Yazna` as it was rooted into desires. `Satyawati` asked then why would anyone work!, for she thought desires were the basis of all that we do. 
 
 `Maharishi` pointed her to the nest that a bird-pair made atop the tree where they were sitting. He asked her if these birds made the nest out of desires or was it their `Karma`?  He then pointed to `Yamuna` — Does this river flow out of desires? Smiling to confused `Satyawati`, he said — Desires are not the basis of actions, for nothing in this universe may stay action-less even for a moment. "Action" is fundamental because every manifestation must follow a cosmic order - they must act even if they don't want to. In fact, "action" is the present. It is the only way to connect with the continuum. Desires, on the other hand, make us action-less for we invest time thinking about desired objects, or scheming for specific outcomes. And channeling our natural actions into the ones that appear to get us closer to a desired goal. He further added — desires are the source of our wave nature. Waves of joy and grief. If we get what we desired, we feel happy, if we don't, we feel miserable. In essence desires lend wave nature to conscious observer, that makes our reality dualistic. He cited his father `Śakti Muni` who postulated that most humans change their ‘one chosen’ path because of failure to meet desired goals. They than chase another goal, another deity, and thus get caught on the web of bondage. Thus, it is the desires that take one away from their natural path (`Swadharma`). `Śakti` means power. His father was named `Śakti Muni` because he demonstrated that dominion over one's desires was the only way to sustain inner power over duality.
 

@@ -166,22 +166,28 @@ And that he did. He named her `Satyawati` — bearer of Truth. To recognize the 
 
 The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in - the dualities. `Maharishi` showed `Satyawati`, the path to the truth- to make her worthy of the name! 
 
-Desires are the root of all pains. He explained to `Satyawati` sitting under the tree next to her cave.  
+Desires are the obstacles on the path of truth. He explained to `Satyawati` sitting under the tree next to her cave.  
 
-`Satyawati` asked  - then why would anyone work? -  she thought desires were the basis of all that we do. 
+`Satyawati` asked  - then why would anyone work? -  she thought desires were the drivers of all that we do. 
 
-`Maharishi` explained it all - Krishna` heard it all. 
+`Maharishi` answered and Krishna` heard it all. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 
-`Maharishi` pointed her to the nest that a bird-pair made atop the tree where they were sitting. He asked her if these birds made the nest out of desires or was it their `Karma`?  He then pointed to `Yamuna` — Does this river flow out of desires? Smiling to confused `Satyawati`, he said — Desires are not the basis of actions, for nothing in this universe may stay action-less even for a moment. "Action" is fundamental because every manifestation must follow a cosmic order - they must act even if they don't want to. In fact, "action" is the present. It is the only way to connect with the continuum. Desires, on the other hand, make us action-less for we invest time thinking about desired objects, or scheming for specific outcomes. And channeling our natural actions into the ones that appear to get us closer to a desired goal. He further added — desires are the source of our wave nature. Waves of joy and grief. If we get what we desired, we feel happy, if we don't, we feel miserable. In essence desires lend wave nature to conscious observer, that makes our reality dualistic. He cited his father `Śakti Muni` who postulated that most humans change their ‘one chosen’ path because of failure to meet desired goals. They than chase another goal, another deity, and thus get caught on the web of bondage. Thus, it is the desires that take one away from their natural path (`Swadharma`). `Śakti` means power. His father was named `Śakti Muni` because he demonstrated that dominion over one's desires was the only way to sustain inner power over duality.
+`Maharishi` pointed her to the nest that a bird-pair made atop the tree where they were sitting. He asked her if these birds made the nest out of desires or was it their `Karma`?  He then pointed to `Yamuna` — Does this river flow out of desires? 
+
+Smiling to confused `Satyawati`, he said — Desires are not the basis of actions, for nothing in this universe may stay action-less even for a moment. "Action" is fundamental because every manifestation must follow a cosmic order - they must act even if they don't want to. In fact, "action" is the present. It is the only way to connect with the continuum. 
+
+Desires, on the other hand, make us action-less for we invest time thinking about desired objects, or scheming for specific outcomes. And channeling our natural actions into the ones that appear to get us closer to a desired goal. 
+
+He further added — desires are the source of our wave nature. Waves of joy and grief. If we get what we desired, we feel happy, if we don't, we feel miserable. In essence desires lend wave nature to a conscious observer, that makes our reality dualistic. He cited his father `Śakti Muni` who postulated that most humans change their ‘one chosen’ path because of failure to meet desired goals. They than chase another goal, another deity, and thus get caught in the web of bondage. It is the desires that take one away from her natural path (`Swadharma`). `Śakti` means power. His father was named `Śakti Muni` because he demonstrated dominion over his desires. 
 
 Only way to overcome desires is to stay busy in ‘actions’. Desires lead to momentary elation (followed by sorrow) — ‘actions’, on the other hand, lead of peace and knowledge.
 
-What kind of actions one must do? — asked `Satyawati` — If one must not be driven by the desires, then how was she expected to know what are the right actions for her.
+What kind of actions one must do? — asked `Satyawati` — If one must not be driven by the desires, then how was she expected to know what are the right actions for her?
 
-That is exactly what `Krishna` is supposed to figure out! — smiled `Maharishi`— How do we overcome desires and still be indulged in actions? Is it one set of actions for all the human beings or is it different for everyone? How does it change with time and situation? The righteous actions.
+That is exactly what `Krishna` is supposed to figure out! — smiled `Maharishi`— How do we overcome desires and still be indulged in actions? Is it one set of actions for all the human beings or is it different for everyone? How does it change with time and situation? 
 
 </div>
 

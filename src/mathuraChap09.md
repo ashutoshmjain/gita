@@ -156,17 +156,19 @@ She gazed and understood the motion of stars. And she understood the effect of l
 
 ## 9.2
 
-Time moved fast. Motherhood took over her body and mind. She wanted to be close to `Maharishi`, but he knew better. He knew the joy was transient. Enormous pain was waiting for `Matsya` when she must let a part of her self go — the curse of motherhood. If you create something complete, you must let it go - to prove the "completeness". But her curse was bigger of all mothers. She must leave him. For a mother, the biggest pleasure is to see her creation grow. `Matsya` must let go the warmth of vicinity - she must break the biggest bond.
+Time moved fast. Motherhood took over her body and mind. She wanted to be close to `Maharishi`, but he knew better. He knew the joy was transient. Enormous pain was waiting for `Matsya` when she must let a part of her self go. The curse of motherhood - if you create something complete - you must let it go - to prove the "completeness". But her curse was bigger of all mothers. She must leave her child behind. For a mother, the biggest pleasure is to see her creation grow. `Matsya` must let go the warmth of vicinity - she must break the maternal bond.
 
-`Maharishi` knew, every upswing must follow a downturn. He wanted to keep his distance - not get caught in the wave of pleasures - and sorrows. He knew it was a grace that `Matsya` was turning into a beautiful woman, but he had underestimated the desires that might take on his own mind. It took all his learning and then some, to keep his heart unflinching, and yet fully attached in every chore. Never letting `Matsya` feel the absence of his strength. Without ever crossing the line. He knew it was a test. A test he must pass to pave a new path for the rest. Every night he burnt his desires in the holy fire and turned them into hideous smog. He knew he was only a father — not a lover. And he knew his sacrifice was a minion, for the biggest was for the mother - to leave her offspring behind - even if in the hands  of a trusted `Yogi`.
+`Maharishi` knew, every upswing must follow a downturn. He wanted to keep his distance - not get caught in the wave of pleasures - and sorrows. He knew it was a grace that `Matsya` was turning into a beautiful woman, but he had underestimated the desires that might take on his own mind. It took all his learning and then some, to keep his heart unflinching, and yet fully attached in every chore. Never letting `Matsya` feel the absence of his strength. Without ever crossing the line. He knew it was a test. A test he must pass to pave a new path. Every night he burnt his desires in the holy fire and turned them into hideous smog. He knew he was only a father — not a lover. And he knew his sacrifice was a minion compared to the first time mother - who must leave her offspring behind - even if in the hands  of a trusted `Yogi`.
 
-The question that haunted him: how `Matsya` would bear the pain that his plan must inflict upon her. He must give her the tools to understand the truth. He must let her see the duality of knots. 
+The question that haunted him: how would `Matsya` handle the pain of separation! He must give her the tools to understand the truth. He must let her see the duality of knots. 
 
-And that he did. He named her `Satyawati` — bearer of Truth. To recognize the new name, `Maharishi` showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We get to see only one side of the coin. If we are lucky, we may comprehend the other side through logic. That for a "Green" to exist, there must exist a "Magenta", but this is just the beginning - he said. 
+And that he did. He named her `Satyawati` — bearer of Truth. To recognize the new name, `Maharishi` showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We get to see only one side of the coin. If we are lucky, we may comprehend the other side through logic. That for pleasure to exist, there must exist pain. 
 
-The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in - the dualities. `Maharishi` showed `Satyawati`, the path to the truth- to make her worthy of the name! 
+But this is just the beginning - he said.  The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in the dualities.
 
-Desires are the obstacles on the path of truth. He explained to `Satyawati` sitting under the tree next to her cave.  
+How do we perceive such knowledge? - asked `Satyawati`.
+
+Desires are the obstacles on the path of truth -  he explained to `Satyawati` sitting under the tree next to her cave.  
 
 `Satyawati` asked  - then why would anyone work? -  she thought desires were the drivers of all that we do. 
 

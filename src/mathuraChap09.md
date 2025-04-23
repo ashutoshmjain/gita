@@ -162,20 +162,19 @@ Time moved fast. Motherhood took over her body and mind. She wanted to be close 
 
 The question that haunted him: how would `Matsya` handle the pain of separation! He must give her the tools to understand the truth. He must let her see the duality of knots. 
 
-And that he did. He named her `Satyawati` — bearer of Truth. To recognize the new name, `Maharishi` showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We get to see only one side of the coin. If we are lucky, we may comprehend the other side through logic. That for pleasure to exist, there must exist pain. 
+And that he did. He named her `Satyawati` — bearer of Truth. To recognize the new name, `Maharishi` showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We get to see only one side of the coin. If we are lucky, we may comprehend the other side through logic. That for a bank of river to exist, there must be another.
 
-But this is just the beginning - he said.  The true journey begins when we take baby steps to understand what is the nature of "knowledge" held with in the dualities.
+But this is just the beginning - he said.  The truth surfaces when we take baby steps to understand what is the nature of "knowledge" held with in the dualities. It is the flow between two banks of river.
 
 How do we perceive such knowledge? - asked `Satyawati`.
 
-Desires are the obstacles on the path of truth -  he explained to `Satyawati` sitting under the tree next to her cave.  
+Desires are the obstacles on the path of truth -  he explained to `Satyawati`.
 
-`Satyawati` asked  - then why would anyone work? -  she thought desires were the drivers of all that we do. 
+Then why would anyone work? -  she thought desires were the drivers of all that we do. 
 
 `Maharishi` answered and Krishna` heard it all. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
-
 
 `Maharishi` pointed her to the nest that a bird-pair made atop the tree where they were sitting. He asked her if these birds made the nest out of desires or was it their `Karma`?  He then pointed to `Yamuna` — Does this river flow out of desires? 
 
@@ -193,7 +192,7 @@ That is exactly what `Krishna` is supposed to figure out! — smiled `Maharishi`
 
 </div>
 
-This was the opening of `Karm Yoga` that young `Krishna` learnt in his mother's womb. And, among many things, it stayed with `Satyawati` too. She, truly subsumed herself into a new identity. She didn't even feel the pain of labor. As `Satyawati` took him for first holy dip in `Yamuna`, the mighty river rose to touch his feet. It washed over `Satyawati` too, to give her the true perspective. Truth that the child in her hands was not hers alone. He must go on to strife the world off duality. And that she must enable him with all the right actions. She found her purpose. How could she let duality take over her mind when she was literally the mother of the one destined to define the 'righteous path'.
+This was the first lesson of `Karm Yoga` that young `Krishna` learnt in his mother's womb. And, among many things, it stayed with `Satyawati` too. She, truly subsumed herself into a new identity. She didn't even feel the pain of labor. As `Satyawati` took him for first holy dip in `Yamuna`, the mighty river rose to touch his feet. It washed over `Satyawati` too, to give her the true perspective. Truth that the child in her hands was not hers alone. He must go on to strife the world off duality. And that she must enable him with all the right actions. She found her purpose. How could she let duality take over her mind when she was literally the mother of the one destined to define the 'righteous path'.
 
  `Krishna Dwaipayana` was born on full moon night of Summer. The day is celebrated to this date, as `Guru Poornima`.
 

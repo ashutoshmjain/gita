@@ -6,7 +6,7 @@
 ----
 
 <div class="centered">
-    <img src="./viratRoop.png" alt="Viraat Roop" class="responsive"
+    <img src="./conkshells.png" alt="Viraat Roop" class="responsive"
     width = "1600"
     height = "1200" />
     

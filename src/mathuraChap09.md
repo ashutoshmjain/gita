@@ -158,15 +158,17 @@ She gazed and understood the motion of stars. And she understood the effect of l
 
 Time moved fast. Motherhood took over `Matsya's` body, and mind. She wanted to be close to `Maharishi`, but he knew better. He knew the joy was transient. Enormous pain was waiting for `Matsya` when she must let a part of her self go. The curse of motherhood - if you create something complete - you must let it go - to prove the "completeness". But her curse was bigger of all mothers. She must leave her child behind. For a mother, the biggest pleasure is to see her creation grow. `Matsya` must let go the warmth of vicinity - she must break the maternal bond.
 
-`Maharishi` knew, every upswing must follow a downturn. He wanted to keep his distance - not get caught in the wave of pleasures - and sorrows. He knew it was a grace that `Matsya` was turning into a beautiful woman, but he had underestimated the desires that might take on his own mind. It took all his learning and then some, to keep his heart unflinching, and yet fully attached in every chore. Never letting `Matsya` feel the absence of his strength. Without ever crossing the line. He knew it was a test. A test he must pass to pave a new path. Every night he burnt his desires in the holy fire and turned them into ashes and smog. He knew he was only a father — not a lover. And he knew his sacrifice was a minion compared to the first time mother - who must leave her offspring behind - even if in the hands  of a trusted `Yogi`.
+`Maharishi` knew, every upswing must follow a downturn. He wanted to keep his distance - not get caught in the wave of pleasures - and sorrows. He knew it was a grace that `Matsya` was turning into a beautiful woman, but he had underestimated the desires that might take on his own mind. It took all his learning and then some, to keep his heart unflinching, and yet fully attached in every chore. Never letting `Matsya` feel the absence of his strength. Without ever crossing the line. He knew it was a test. A test he must pass to pave a new path. Every night he burnt his desires in the holy fire and turned them into ashes, and smog. He knew he was only a father — not a lover. And he knew his sacrifice was a minion compared to the first time mother - who must leave her offspring behind - even if in the hands  of a trusted `Yogi`.
 
-The question that haunted him: how would `Matsya` handle the pain of separation! And how would she negotiate the world with a totally new persona! Wouldn't the opportunities that come with beauty sway her mind? Or would she fall a pray to the predators of this jungle? He must give her the tools to understand the truth. He must let her see the duality of knots. 
+The question that haunted him: how would `Matsya` handle the pain of separation! And how would she negotiate the world with a new persona! Wouldn't the opportunities that come with beauty sway her mind? Or would she fall a pray to the predators of this jungle? He must give her the tools to discern the truth. He must let her see the duality of knots. 
 
-And that he did. He named her `Satyawati` — bearer of Truth. To recognize the new name, `Maharishi` showed her that the truth lies amidst the extremes of dualities - beyond our conscious perception. We get to see only one side of the coin. If we are lucky, we may comprehend the other - that for a bank of river to exist, there must be another. But this is just the beginning - he said - the truth surfaces when we take baby steps to understand what is the nature of "knowledge" held with in the dualities. When we let our boat to the flow of the river! The flow is the soul, the truth - held with in two separate banks.
+And that he did. He named her `Satyawati` — bearer of Truth. `Maharishi` showed her the truth lies amidst the extremes of dualities - beyond our conscious perception. We get to see only one side of the coin. If we are lucky, we may comprehend the other - that for a bank of river to exist, there must be another. 
 
-How do we perceive such knowledge? - she asked - she knew what flow meant. Always aware, ready to act but not over-indulging. Nudging the boat in the direction of wind. Or sometimes, against - to stall the boat to let people embark. But motion never stops on water.
+But this is just the beginning - he said - the truth surfaces when we take baby steps to understand what is the nature of "knowledge" held with in the dualities. When we let our boat to the flow of the river! The flow is the soul, the truth - held with in two separate banks.
 
-Desires are the obstacles on the path of truth -  he explained to `Satyawati`.
+How do we see the flow - O' Maharishi? - she asked - she knew what flow meant. Always aware, ready to act but not over-indulging. Nudging the boat in the direction of wind. Or sometimes, against - to stall the boat to let people embark. But motion never stops on water. But how to see the flow in life?
+
+Desires are the obstacles on the path of truth - `Maharishi` read her thoughts. 
 
 Then why would anyone work? -  she thought desires were the drivers of all that we do. 
 
@@ -174,15 +176,15 @@ Then why would anyone work? -  she thought desires were the drivers of all that 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Maharishi` pointed her to the nest that a bird-pair made atop the tree where they were sitting. He asked her if these birds made the nest out of desires or was it their `Karma`?  He then pointed to `Yamuna` — Does this river flow out of desires? 
+`Maharishi` pointed her to a nest atop the tree where they were sitting. He asked her if these birds made the nest out of desires or was it their `Karma`?  He then pointed to `Yamuna` — Does this river flow out of desires? 
 
-Smiling to confused `Satyawati`, he said — Desires are not the basis of actions, for nothing in this universe may stay action-less even for a moment. "Action" is fundamental because every manifestation must follow a cosmic order - they must act even if they don't want to. In fact, "action" is the present. It is the only way to connect with the continuum. 
+Smiling to confused `Satyawati`, he said — Desires are not the basis of actions, for nothing in this universe may stay action-less even for a moment. "Action" is fundamental because every manifestation must follow a cosmic order - they must act even if they don't want to. In fact, "action" is the present. It is the only way to connect with the continuum.
 
-Desires, on the other hand, make us action-less for we invest time thinking about desired objects, or scheming for specific outcomes. And channeling our natural actions into the ones that appear to get us closer to a desired goal. 
+Desires, on the other hand, make us action-less for we invest time thinking about desired objects, or scheming for specific outcomes. And channeling our natural actions into the ones that appear to get us closer to a desired goal.
 
-He further added — desires are the source of our wave nature. Waves of joy and grief. If we get what we desired, we feel happy, if we don't, we feel miserable. In essence desires lend wave nature to a conscious observer, that makes our reality dualistic. He cited his father `Śakti Muni` who postulated that most humans change their ‘one chosen’ path because of failure to meet desired goals. They than chase another goal, another deity, and thus get caught in the web of bondage. It is the desires that take one away from her natural path (`Swadharma`). `Śakti` means power. His father was named `Śakti Muni` because he demonstrated dominion over his desires. 
+> Desires are the source of our wave nature. Waves of joy and grief. If we get what we desired, we feel happy, if we don't, we feel miserable. In essence desires lend wave nature to a conscious observer, that makes our reality dualistic. He cited his father `Śakti Muni` who postulated that most humans change their ‘one chosen’ path because of failure to meet desired goals. They than chase another goal, another deity, and thus get caught in the web of bondage. It is the desires that take one away from her natural path (`Swadharma`). `Śakti` means power. His father was named `Śakti Muni` because he demonstrated dominion over his desires. 
 
-Only way to overcome desires is to stay busy in ‘actions’. Desires lead to momentary elation (followed by sorrow) — ‘actions’, on the other hand, lead of peace and knowledge.
+Only way to overcome desires is to stay busy in ‘actions’ - added `Maharishi`. Desires lead to momentary elation (followed by sorrow) — ‘actions’, on the other hand, lead of peace and knowledge.
 
 What kind of actions one must do? — asked `Satyawati` — If one must not be driven by the desires, then how was she expected to know what are the right actions for her?
 
@@ -190,7 +192,7 @@ That is exactly what `Krishna` is supposed to figure out! — smiled `Maharishi`
 
 </div>
 
-This was the first lesson of `Karm Yoga` that young `Krishna` learnt in his mother's womb. And, among many things, it stayed with `Satyawati` too. She, truly subsumed herself into a new identity. She didn't even feel the pain of labor. As `Satyawati` took him for first holy dip in `Yamuna`, the mighty river rose to touch his feet. It washed over `Satyawati` too, to give her the true perspective. Truth that the child in her hands was not hers alone. He must go on to strife the world off duality. And that she must enable him with all the right actions. She found her purpose. How could she let duality take over her mind when she was literally the mother of the one destined to define the 'righteous path'.
+This was the first lesson of `Karm Yoga` that young `Krishna` learnt in his mother's womb. And, among many things, it stayed with `Satyawati` too. She, subsumed herself into a new identity. She didn't even feel the pain of labor. As `Satyawati` took him for first dip in `Yamuna`, the mighty river rose to touch his feet. It washed over `Satyawati` as well, to give her the true perspective. Truth that the child in her hands was not hers alone. He must go on to strife the world off duality. And that she must enable him with all the right actions. She found her purpose. How could she let duality take over her mind when she was literally the mother of the one destined to define the 'righteous path'.
 
  `Krishna Dwaipayana` was born on full moon night of Summer. The day is celebrated to this date, as `Guru Poornima`.
 

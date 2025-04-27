@@ -14,9 +14,9 @@ At the end of this conversation, `Arjuna` said :
 
 > `Nashto Moha , Smritir Labdha !`
 >
-> [I am] devoid of illusions, [I] attained the universal wisdom - the collective memory!
+> [I am] devoid off of illusions, [I] attained the universal wisdom - the collective memory!
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence emerges from `smrities`. `Gita` gives us tools to open the door to the very basis of our intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence emerges from `smrities` - timeless books. `Gita` gives us tools to open the door to the very basis of our intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 </div>
 
@@ -24,7 +24,7 @@ It is not uncommon to experience a momentary relief from cyclic illusions (`Moha
 
 # Orthogonal publication:
 
-`Arjun Uvaach` isn't a periodic publication with new articles every week - or on monthly basis. Instead, a new version of existing articles is published. I call this approach "Orthogonal Publishing". The idea is to revisit every article as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
+`Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit every article as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
 
 A summary of changes are listed in the [changeLog](./changeLog.md) every week.
 
@@ -43,21 +43,9 @@ If you toggle the sidebar, this web app has three main sections :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-## Mathura (work in progress)
-
-The first section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium for information storage.
-
-Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future. It was encapsulated in a large carrier narrative - `Mahabharata`. The carrier narrative went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
-
-`Gita` defined `Karm Yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
-
-`Mathura` was the hotspot of writing revolution - our move from speech to text - as an external store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to enable and spread the use of bitcoin. 
-
-> Value store must follow the properties of information store. If information could be sent to distant places, value must do the same in space and time !
-
 ## Gita
 
-The second section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
+The first section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
 
 `Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual framework for selfless pursuits (`Nishkaam Yazna`). 
 
@@ -67,7 +55,20 @@ Work done under influence of desires - to seek preferred outcomes - skews the me
 
 Working without expectations is hard - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
-The translation is followed by essays discovering core concepts of `Gita`. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
+The translation is followed by an AI generated chapter wise podcast and  essays discovering core concepts of `Gita`. Podcast is designed as an easy listen for young English audience. It provides a verse by verse overview leaving the details for self exploration. The essays may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
+
+
+## Mathura (work in progress)
+
+The second  section is a historical narrative.  It discovers a period some five thousand years back - around the city of `Mathura`. It ventures into the time when we first adopted written word as primary medium for information storage.
+
+Text was a profound discovery. With it, we learnt to send information to distant places - and to future generations. `Gita` was the first written message preserved for the future. It was encapsulated in a large carrier narrative - `Mahabharata`. The carrier narrative went through multiple iterations - for around six hundred years - but `Gita` stayed immutable. The reason is simple - there is only one version of truth.
+
+`Gita` defined `Karm Yoga` as a path to accumulate value - `Daivvy Sampad`. And gradually merge into the most valuable - one immutable and inexpressible knowledge. Despite scholarly attempts to decipher, it stays a mystery as to how someone could articulate a message so pristine - unless it was a divine intervention -> hence the name gods' song !
+
+`Mathura` was the hotspot of writing revolution - our move from speech to text - as an external store of information. `Mahabharata` was written down and unveiled here in series of eighteen books. In addition to immutable truth in `Gita`, the written word laid the foundations for spread of gold - as a portable  store of value - somewhat like what internet is doing to enable and spread the use of bitcoin. 
+
+> Value store must follow the properties of information store. If information could be sent to distant places, value must do the same in space and time !
 
 ## Mahabharata
 

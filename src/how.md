@@ -1,16 +1,19 @@
-> In the beginning there was `Om` - sound vibrations of the source. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. 
+> In the beginning there was `Om` - vibrations of the underlying field. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. 
 >
-> Then we discovered scribing. Published text became the collective memory. In Sanskrit, collective memory is called  `Smriti` - written down scriptures.
+> Then we discovered scribing !
+>
+> Published text became the collective memory. In Sanskrit, collective memory is called  `Smriti` - written down scriptures.
 
 This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
 `Arjun uvaach` - the name of this publication - means `Arjuna` said.
 
+<div style="padding-left:40px;font-size:0.9em;"> 
+
 `Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
 
 At the end of this conversation, `Arjuna` said :
 
-<div style="padding-left:40px;font-size:0.9em;"> 
 
 > `Nashto Moha , Smritir Labdha !`
 >

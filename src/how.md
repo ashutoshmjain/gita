@@ -1,35 +1,34 @@
-> In the beginning there was `Om` - vibrations of the underlying field. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words - with many languages and many dialects. Humans learnt to talk, but everyone had to individually remember the contextual history. 
+> In the beginning there was `Om` - vibrations of the underlying field. First spoken language took birth from this source. Just like a river, it gradually filled up the ocean of words. Humans learnt to talk, but everyone had to individually remember the contextual history. 
 >
 > Then we discovered scribing !
 >
 > Published text became the collective memory. In Sanskrit, collective memory is called  `Smriti` - written down scriptures.
 
-This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the original `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
+This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the first `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
 
 `Arjun uvaach` - the name of this publication - means `Arjuna` said.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-`Arjuna` was a life-long friend and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
+`Arjuna` was a life-long friend, and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield of Kurukshetra, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
 
 At the end of this conversation, `Arjuna` said :
-
 
 > `Nashto Moha , Smritir Labdha !`
 >
 > [I am] devoid off of illusions, [I] attained the universal wisdom - the collective memory!
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence emerges from `smrities` - timeless books. `Gita` gives us tools to open the door to the very basis of our intelligence. Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence is trained on `smrities` - timeless books. `Gita` gives us tools to open the doors to the very basis of our intelligence - our soul (`Atma`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
 
 </div>
 
-`Gita` is for everyone - it is not religion, race, profession or place specific.
+`Gita` is for everyone - it is not religion, race, profession or place specific. It is not even an ideology in terms of renunciation or materialism. In that, it takes our mind to place of freedom, rather than the jail of a rabbit hole.
 
 # Orthogonal publication:
 
-`Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit every article as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
+`Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text, and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
 
-A summary of changes are listed in the [changeLog](./changeLog.md) every week.
+A summary of weekly changes are listed in the [changeLog](./changeLog.md) every week.
 
 
 ## Navigation and icons:
@@ -48,17 +47,19 @@ If you toggle the sidebar, this web app has three main sections :
 
 ## Gita
 
-The first section is original English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly` circa 1896. 
+The first section is original Sanskrit to English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly`, circa 1896. 
 
 `Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual framework for selfless pursuits (`Nishkaam Yazna`). 
 
 > Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. 
 
-Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the quantum of effort; if you were seeking recognition, you may end up investing time in publicity and assume it as necessary part of work  - it is not.
+Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the effort on market fit; if you were seeking recognition, you may end up investing time in publicity and assume it as necessary part of work  - it is not.
 
-Working without expectations is hard - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example is `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
+Working without expectations is hard - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example being `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
 
-The translation is followed by an AI generated chapter wise podcast and  essays discovering core concepts of `Gita`. Podcast is designed as an easy listen for young English audience. It provides a verse by verse overview leaving the details for self exploration. The essays may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science.
+The translation is followed by an AI generated chapter wise podcast discovering core concepts of `Gita`. Podcast is designed as an easy listen for young English audience. It provides a verse by verse overview leaving the details for self exploration. 
+
+On my path of discovery, I found writing the core concepts in my own language was useful. That led to number of essays I wrote. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science. I would encourage serious readers to write their understanding in their own words. Writing and revisiting the content, on daily basis, is the best way to train our intelligence - `Smriti`.
 
 
 ## Mathura (work in progress)

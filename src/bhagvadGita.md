@@ -17,7 +17,14 @@
       <a href="./how.md">Navigation & About .. </a>
   </div>
 </div>
-<div class="cover-small">
+
+<<div class="cover-small">
+  <div class="centered">
+      <a href="./bg00.md">Podcast .. </a>
+  </div>
+</div>
+
+div class="cover-small">
   <div class="centered">
       <a href="./changeLog.md">changeLog .. </a>
   </div>

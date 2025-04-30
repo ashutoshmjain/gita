@@ -5,18 +5,18 @@ This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - t
 
 In the beginning there was `Om` - vibrations of the underlying field.  Spoken languages took birth from this source. Just like rivers, they gradually filled up the ocean of words. All humans learnt to talk, but everyone had to individually remember the contextual history. And the survival skills!
 
-> Then we discovered scribing!  Given the difficulties of scribing, only important information was scribed. The word "scripture" literally means something written down.
+> Then we discovered scribing!  Given the difficulties of new scribing techniques, only important information was scribed. The word "scripture" literally means something important enough and worthy of writing down.
 
-Published text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before publishing, critical knowledge was passed on through rigorous recital - not mere "word of mouth". This method was called `Shruti` - communicated via listening. The Sanskrit word later morphed into `Shutri` in Hindi.
+Published text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before we learnt scribing and publishing, critical knowledge was passed on through rigorous recital - not mere "word of mouth". This method was called `Shruti` - communicated via listening. The Sanskrit word later morphed into `Shutri` in Hindi.
 
 
 </div>
 
-In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, the quality of information is substantially marginalized. Thus looking at the original `Smriti`, in both text and audio formats, opens up a profound source of wisdom. 
+In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, thanks to computers and smart phones, we now have lot of scribed information but the quality is substantially marginalized. Thus looking at the original `Smriti`, in both text and audio formats, opens up a profound source of wisdom. 
 
 ---
 
-`Arjuna` is the main character of `Bhagavad Gita`. He is blessed with presence of God as his charioteer and thus the opportunity to ask questions directly to ultimate source of wisdom. `Arjun uvaach` - the name of this publication - means `Arjuna` said.
+`Arjuna` is the main character of `Bhagavad Gita`. He is blessed with vicinity of `Krishna` as his charioteer and thus the opportunity to ask questions directly to ultimate source of wisdom. `Arjun uvaach` - the name of this publication - means `Arjuna` said.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -28,11 +28,11 @@ At the end of this conversation, `Arjuna` said :
 >
 > [I am] devoid off of illusions, [I] attained the universal wisdom - the collective memory!
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our intelligence is trained on `smrities` - timeless books. `Gita` gives us tools to open the doors to the very basis of our intelligence - our soul (`Atma`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
-
 </div>
 
-`Gita` is for everyone - it is not religion, race, profession or place specific. It is not even an ideology in terms of renunciation or materialism. In that, it takes our mind to place of freedom, rather than the jail of a rabbit hole.
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our own intelligence is trained on `smrities` - timeless books. `Gita` gives us tools to open the door to the very basis of our intelligence - our soul (`Atma`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
+
+`Gita` is for everyone - it is not religion, race, profession or place specific. It is not even an ideology in terms of renunciation or materialism. In that, it takes our mind to a place of freedom, rather than the jail of a rabbit hole.
 
 # Orthogonal publication:
 

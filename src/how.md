@@ -1,18 +1,18 @@
 
-This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita` - the first `Smriti` - from its history to its timelessness.  It is a "clean internet" publication.
+This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita`, the first `Smriti`, from its history to its timelessness.  It is a "clean internet" publication.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - vibrations of the underlying field.  Spoken languages took birth from this source. Just like rivers, they gradually filled up the ocean of words. All humans learnt to talk, but everyone had to individually remember the contextual history. And the survival skills!
+In the beginning there was `Om` - vibrations of the underlying field.  Spoken languages took birth from this source. Just like rivers, they gradually filled up the ocean of words. Humans quickly developed conversational skills, but everyone had to individually remember the contextual history. And of course the survival skills!
 
-> Then we discovered scribing!  Given the difficulties of new scribing techniques, only important information was scribed. The word "scripture" literally means something important enough and worthy of writing down.
+> Then we discovered scribing!  Given the difficulties of early days, only important information was scribed. The word "scripture" points to something important enough, and worthy of writing down.
 
-Published text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before we learnt scribing and publishing, critical knowledge was passed on through rigorous recital - not mere "word of mouth". This method was called `Shruti` - communicated via listening. The Sanskrit word later morphed into `Shutri` in Hindi.
+Written text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated via listening. The Sanskrit word later morphed into `Shutri` in Hindi.
 
 
 </div>
 
-In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, thanks to computers and smart phones, we now have lot of scribed information but the quality is substantially marginalized. Thus looking at the original `Smriti`, in both text and audio formats, opens up a profound source of wisdom. 
+In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, thanks to computers and smart phones, we now have lot of scribed information but the quality is substantially marginalized. Thus looking at the original `Smriti`, in both text and audio formats, opens up a profound source of wisdom.
 
 ---
 

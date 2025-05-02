@@ -9,18 +9,21 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
+## May 02, 25
+
+  - [Navigation and about](./how.md) - major edits.
+  - [Bhagvad Gita](./bhagvadGita.md) - minor edits
+      - [Poetic Rendition](bg00.md) 
+          - [Chapter 6](./bg06.md) - major update
+
+
 ## April 25, 25
 
   - [Proposal](./mathuraChap08.md)
       - [Birth](./mathuraChap09.md) - major edits
   - [Bhagvad Gita](./bhagvadGita.md) - minor edits
       - [Poetic Rendition](bg00.md) - major update
-          - [Chapter 1](bg01.md) 
-          - [Chapter 2](bg02.md)
-          - [Chapter 3](bg03.md) 
-          - [Chapter 4](bg04.md) 
-          - [Chapter 5](bg05.md)
-          - [Chapter 6](bg06.md) - major update
+          - [Chapter 6](./bg06.md) - major update
 
 
 ## April 18, 25
@@ -29,12 +32,9 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
       - [Birth](./mathuraChap09.md) - major edits
   - [Bhagvad Gita](./bhagvadGita.md)
       - [Poetic Rendition](bg00.md) 
-          - [Chapter 1](bg01.md) 
-          - [Chapter 2](bg02.md)
-          - [Chapter 3](bg03.md) 
-          - [Chapter 4](bg04.md) - minor edits 
-          - [Chapter 5](bg05.md)  - major update
-          - [Chapter 6](bg06.md) - new addition
+          - [Chapter 4](./bg04.md) - minor edits 
+          - [Chapter 5](./bg05.md)  - major update
+          - [Chapter 6](./bg06.md) - new addition
 
 
 ## April 11, 25
@@ -43,20 +43,15 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
       - [Birth](./mathuraChap09.md) - major edits
   - [Bhagvad Gita](./bhagvadGita.md)
       - [Poetic Rendition](bg00.md) 
-          - [Chapter 1](bg01.md) 
-          - [Chapter 2](bg02.md)
-          - [Chapter 3](bg03.md) 
-          - [Chapter 4](bg04.md) - new addition
+          - [Chapter 4](./bg04.md) - new addition
  
 ## April 04, 25
 
   - [Proposal](./mathuraChap08.md)
       - [Birth](./mathuraChap09.md) - major update
   - [Bhagvad Gita](./bhagvadGita.md)
-      - [Poetic Rendition](bg00.md) 
-          - [Chapter 1](bg01.md) 
-          - [Chapter 2](bg02.md)
-          - [Chapter 3](bg03.md) - new addition
+      - [Poetic Rendition](./bg00.md) 
+          - [Chapter 3](./bg03.md) - new addition
  
 ## March 28, 25
 
@@ -64,8 +59,8 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
       - [Birth](./mathuraChap09.md) - major update
   - [Bhagvad Gita](./bhagvadGita.md)
       - [Poetic Rendition](bg00.md) - minor edits 
-          - [Chapter 1](bg01.md) - minor edits.
-          - [Chapter 2](bg02.md) - new addition
+          - [Chapter 1](./bg01.md) - minor edits.
+          - [Chapter 2](./bg02.md) - new addition
  
 
 ## March 21, 25

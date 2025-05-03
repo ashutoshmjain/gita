@@ -3,7 +3,7 @@ This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita`, th
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - vibrations of the underlying field.  Spoken languages took birth from this source. Just like rivers, they gradually filled up the ocean of words. Humans quickly developed conversational skills, but everyone had to individually remember the contextual history. And of course the survival skills!
+In the beginning there was `Om` - vibrations of the underlying field.  Spoken language took originated from this source. Just like a river, it gradually filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
 
 > Then we discovered scribing!  Given the difficulties of early days, only important information was scribed. The word "scripture" points to something important enough, and worthy of writing down.
 
@@ -12,7 +12,7 @@ Written text, thus,  became the collective memory. In Sanskrit, collective memor
 
 </div>
 
-In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, thanks to computers and smart phones, we now have lot of scribed information but the quality is substantially marginalized. Thus looking at the original `Smriti`, in both text and audio formats, opens up a profound source of wisdom.
+In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, thanks to computers and smart phones, we now have tons of scribed information, but the quality is questionable. Thus looking at the first `Smriti`, in both text and audio formats, opens up a profound source of wisdom.
 
 ---
 

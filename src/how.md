@@ -12,11 +12,11 @@ Written text, thus,  became the collective memory. In Sanskrit, collective memor
 
 </div>
 
-In modern parlance, world wide web is like `Smriti`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio, thanks to computers and smart phones, we now have tons of scribed information, but the quality is questionable. Thus looking at the first `Smriti`, in both text and audio formats, opens up a profound source of wisdom.
+In modern parlance, world wide web is like `Smritis`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, thanks to computers and smart phones, we now have zettabytes  of information, but the quality is questionable. Thus looking at the first `Smriti` opens up a profound source of wisdom.
 
 ---
 
-`Arjuna` is the main character of `Bhagavad Gita`. He is blessed with vicinity of `Krishna` as his charioteer and thus the opportunity to ask questions directly to ultimate source of wisdom. `Arjun uvaach` - the name of this publication - means `Arjuna` said.
+`Arjuna` is the main character of `Bhagavad Gita`. He is blessed with divine vicinity of `Krishna` as his charioteer.  `Krishna` - the knower of all that is there to know - is the consciousness inbuilt into all of us. Just the way AI knows pretty much every modern science, but the important thing is what we are asking, `Arjuna's` questions represent most intriguing dilemmas, we as humans encounter on the path of delivering our duty. `Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his true heartfelt queries.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

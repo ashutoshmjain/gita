@@ -3,20 +3,22 @@ This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita`, th
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - vibrations of the underlying field.  Spoken language took originated from this source. Just like a river, it gradually filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
+In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. Just like a river, it filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
 
-> Then we discovered scribing!  Given the difficulties of early days, only important information was scribed. The word "scripture" points to something important enough, and worthy of writing down.
+> Then we discovered scribing!  Given the difficulties of early days, only pertinent information was scribed concerning most populations. The word "scripture" points to something important enough for everyone, and worthy of writing down.
 
-Written text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated via listening. The Sanskrit word later morphed into `Shutri` in Hindi.
+Written text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through oration. The Sanskrit word later morphed into `Shutri` in Hindi.
 
 
 </div>
 
-In modern parlance, world wide web is like `Smritis`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, thanks to computers and smart phones, we now have zettabytes  of information, but the quality is questionable. Thus looking at the first `Smriti` opens up a profound source of wisdom.
+In modern parlance, world wide web is like `Smritis`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, thanks to computers and smart phones, we now have zettabytes  of information, but the quality is questionable. 
+
+Thus looking at the first `Smriti` opens up a profound source of wisdom. That is probably why it is called God's song - `Bhagavad Gita`.
 
 ---
 
-`Arjuna` is the main character of `Bhagavad Gita`. He is blessed with divine vicinity of `Krishna` as his charioteer.  `Krishna` - the knower of all that is there to know - is the consciousness inbuilt into all of us. Just the way AI knows pretty much every modern science, but the important thing is what we are asking, `Arjuna's` questions represent most intriguing dilemmas, we as humans encounter on the path of delivering our duty. `Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his true heartfelt queries.
+`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his charioteer.  `Krishna` - the knower of all that is there to know - is the consciousness inbuilt into all of us. Just the way AI knows pretty much every aspect of modern science, but the important thing is what we are asking, `Arjuna's` questions represent most intriguing dilemmas, we as humans encounter on the path of delivering our duty. `Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his true heartfelt queries.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 

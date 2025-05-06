@@ -3,11 +3,13 @@ This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita`, th
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. Just like a river, it filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
+In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. As if like a river, it filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
 
-> Then we discovered scribing!  Given the difficulties of early days, only pertinent information was scribed concerning most populations. The word "scripture" points to something important enough for everyone, and worthy of writing down.
+> Then we discovered scribing!  Given the difficulties of early days, only pertinent information concerning most people made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
 
-Written text, thus,  became the collective memory. In Sanskrit, collective memory is called  `Smriti`.  Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through oration. The Sanskrit word later morphed into `Shutri` in Hindi.
+Written text, thus,  became the collective memory. In Sanskrit, collective memory is deemed  `Smriti`.
+
+Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through superior and repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
 
 
 </div>

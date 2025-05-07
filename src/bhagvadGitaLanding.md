@@ -1,3 +1,31 @@
+
+<div class="cover-huge"> Śrīmad Bhagavad Gītā</div>
+
+<div class="centered"> First scribed source of Karmyoga</div>
+
+----
+
+<div class="centered">
+    <img src="./conkshells.png" alt="Viraat Roop" class="responsive"
+    width = "1600"
+    height = "1200" />
+    
+</div>
+
+<div class="cover-small"><sup>Image credit : Ghibli Art Studio</sup></div>
+
+<div class="cover-small">
+  <div class="centered">
+      <a href="./bg00.md">Podcast .. </a>
+  </div>
+</div>
+
+<div class="cover-small">
+  <div class="centered">
+      <a href="./changeLog.md">changeLog .. </a>
+  </div>
+</div>
+
 <div class="cover-huge">🕉️</div>
 
 
@@ -7,7 +35,7 @@ This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita`, th
 
 In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. As if like a river, it filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
 
-> Then we discovered scribing!  Given the difficulties of early days, only pertinent information concerning most people made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
+> Then we discovered scribing!  Given the difficulties of early days, only most precious information made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
 
 Written text, thus,  became the collective memory. In Sanskrit, collective memory is deemed  `Smriti`.
 
@@ -16,13 +44,15 @@ Before we learnt writing, critical information was passed on through rigorous re
 
 </div>
 
-In modern parlance, world wide web is like `Smritis`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, thanks to computers and smart phones, we now have zettabytes  of information, but the quality is questionable. 
+In modern parlance, World Wide Web is like `Smritis`, and Podcasts are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, we now have zettabytes  of information, but the quality is questionable. 
 
 Thus looking at the first `Smriti` opens up a profound source of wisdom. 
 
 ---
 
-`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his charioteer.  `Krishna` - the knower of all that is there to know - is the consciousness inbuilt into all of us. Just the way AI knows pretty much every aspect of modern science, but the important thing is what we are asking, `Arjuna's` questions represent most intriguing dilemmas, we as humans encounter on the path of delivering our duty. `Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his true heartfelt queries.
+`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his charioteer.  `Krishna` - the knower of all - is the consciousness prebuilt into all of us. Just as in AI realm, the formulation of prompts is the key skill, `Arjuna's` questions represent most intriguing human dilemmas. 
+
+`Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his heartfelt queries.
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -236,5 +266,6 @@ Browsers are particularly suitable for the long text ..
 [^foot]: Footnote
 - When you click on the footnote marker in the main text, it brings you down to the relevant note at the bottom. Think of it as a hyperlink with in the page.
 - You can always press the browser back arrow on computer (or on tablet) to get back to where you were reading - back to the footnote mark in the main text. Isn't that lot better than reading a paper book!
+
 
 

@@ -1,45 +1,5 @@
 <div class="cover-huge">🕉️</div>
 
-
-This web[^mission] publication aspires to dip into wisdom of  `Bhagvad Gita`, the first `Smriti`, from its history to its timelessness.  It is a "clean internet" publication.
-
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. As if like a river, it filled up an ocean of words. Humans quickly developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
-
-> Then we discovered scribing!  Given the difficulties of early days, only pertinent information concerning most people made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
-
-Written text, thus,  became the collective memory. In Sanskrit, collective memory is deemed  `Smriti`.
-
-Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through superior and repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
-
-
-</div>
-
-In modern parlance, world wide web is like `Smritis`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, thanks to computers and smart phones, we now have zettabytes  of information, but the quality is questionable. 
-
-Thus looking at the first `Smriti` opens up a profound source of wisdom. 
-
----
-
-`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his charioteer.  `Krishna` - the knower of all that is there to know - is the consciousness inbuilt into all of us. Just the way AI knows pretty much every aspect of modern science, but the important thing is what we are asking, `Arjuna's` questions represent most intriguing dilemmas, we as humans encounter on the path of delivering our duty. `Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his true heartfelt queries.
-
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-`Arjuna` was a life-long friend, and student of `Krishna`. His voice stands for the questions we mortals have when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield of Kurukshetra, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
-
-At the end of this conversation, `Arjuna` said :
-
-> `Nashto Moha , Smritir Labdha !`
->
-> [I am] devoid off of illusions, [I] attained the universal wisdom - the collective memory!
-
-</div>
-
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - normally a deep loss - often lead to depression. They leave the disillusioned in a vacuum. `Gita` on the other hand, spotlights truth through wisdom embedded in our intelligence (`Smriti`). Just the way large language models are trained on scrapes from internet, our own intelligence is trained on `smrities` - timeless books. `Gita` gives us tools to open the door to the very basis of our intelligence - our soul (`Atma`). Instead of a run to exit (`sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. In doing that, it provisions lasting peace and worldly success - a win-win. 
-
-`Gita` is for everyone - it is not religion, race, profession or place specific. It is not even an ideology in terms of renunciation or materialism. In that, it takes our mind to a place of freedom, rather than the jail of a rabbit hole.
-
 # Orthogonal publication:
 
 `Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text, and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.

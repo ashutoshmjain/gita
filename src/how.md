@@ -16,7 +16,7 @@ Before we learnt writing, critical information was passed on through rigorous re
 
 In modern parlance, world wide web is like `Smritis`, and `Podcasts` are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, thanks to computers and smart phones, we now have zettabytes  of information, but the quality is questionable. 
 
-Thus looking at the first `Smriti` opens up a profound source of wisdom. That is probably why it is called God's song - `Bhagavad Gita`.
+Thus looking at the first `Smriti` opens up a profound source of wisdom. 
 
 ---
 

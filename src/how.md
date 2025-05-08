@@ -1,5 +1,7 @@
 <div class="cover-huge">🕉️</div>
 
+This web[^mission] publication aspires to dip into wisdom of Bhagvad Gita, the first `Smriti`, from its history to its timelessness.  It is a [clean internet](http://localhost:3000/how.html#clean-internet)  publication.
+
 # Orthogonal publication:
 
 `Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text, and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.

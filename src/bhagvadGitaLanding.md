@@ -32,14 +32,11 @@
   </div>
 </div>
 
-<div class="cover-huge">🕉️</div>
-
-
-This web[^mission] publication aspires to dip into wisdom of Bhagvad Gita, the first `Smriti`, from its history to its timelessness.  It is a [clean internet](http://localhost:3000/how.html#clean-internet)  publication.
+Bhagavad Gita is the first `Smriti` in Hindu scriptures. What exactly is a `Smriti`? To get an answer, We need to go back in time - at least five thousand years!
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history - and of course, the survival skills!
+In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history.
 
 Then we discovered scribing!  Given the difficulties of early days, only most precious information made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
 
@@ -47,12 +44,11 @@ Then we discovered scribing!  Given the difficulties of early days, only most pr
 
 Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through superior and repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
 
-
 </div>
 
-In modern parlance, World Wide Web is like `Smrities`, and Podcasts are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, we now have zettabytes  of information, but the quality is questionable. 
+In modern parlance, World Wide Web is like `Smrities`, and Podcasts are akin to `Shruties`. Given that it is way easier to scribe text and record audio these days, we now have zettabytes  of information, so much so that it is humanly impossible to scrape through, besides the quality is questionable!
 
-Thus looking at the first `Smriti` opens up a profound source of wisdom - it is like finding true signal with in myriad of noise.
+Thus looking at the first `Smriti` opens up a profound source of wisdom - it is like finding true signal with in myriad of noises.
 
 ---
 

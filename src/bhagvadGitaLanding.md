@@ -2,6 +2,7 @@
 <div class="cover-huge"> Śrīmad Bhagavad Gītā</div>
 
 <div class="centered"> First scribed source of Karmyoga</div>
+<div class="centered">A conversation between mind and soul</div>
 
 ----
 

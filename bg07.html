@@ -1,0 +1,665 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="bhagvadGitaLanding.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg00.html">Podcast</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html">Chapter 1</a></li><li class="chapter-item expanded "><a href="bg02.html">Chapter 2</a></li><li class="chapter-item expanded "><a href="bg03.html">Chapter 3</a></li><li class="chapter-item expanded "><a href="bg04.html">Chapter 4</a></li><li class="chapter-item expanded "><a href="bg05.html">Chapter 5</a></li><li class="chapter-item expanded "><a href="bg06.html">Chapter 6</a></li><li class="chapter-item expanded "><a href="bg07.html" class="active">Chapter 7</a></li></ol></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Chapter 7';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="jnana-vijnana-yoga---knowledge-and-scientific-realization"><a class="header" href="#jnana-vijnana-yoga---knowledge-and-scientific-realization">Jnana Vijnana Yoga - Knowledge and Scientific realization.</a></h1>
+<p>Also called &quot;The Yoga of Knowledge and Wisdom&quot;, chapter seven, focuses on the nature of divine knowledge and the relationship between the material and spiritual worlds. Krishna explains to Arjuna how, through devotion and yoga with the mind attached to Him, one can know Him fully and without doubt.</p>
+<p>These sonnets were created to expand the scope of each individual verse from Bhagavad Gita Chapter 7 into a sonnet format, while aiming to include the original meaning. A sonnet is a poetic form that is traditionally 14 lines long and often follows specific rhyme schemes and meter. Converting the original Sanskrit verses, which are typically much shorter, 2 or 4 lines , into a 14-line sonnet required significant expansion and addition of material, going beyond a direct conversion and involving deeper interpretation and elaboration. The goal was to capture the essence of each verse within the sonnet structure.</p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<h2 id="verse-71"><a class="header" href="#verse-71">Verse 7.1</a></h2>
+<p>Hear now, O Partha, with your mind intent,</p>
+<p>Fixed wholly upon Me, in Yogic grace.</p>
+<p>As refuge you have sought, divinely lent,</p>
+<p>Without a shadow's doubt, in time and space,</p>
+<p>The Truth complete of Me you shall embrace.</p>
+<p>How this full knowledge blossoms, I'll make known,</p>
+<p>With spirit joined to Mine, removing chase</p>
+<p>Of lesser things; upon My mercy thrown.</p>
+<p>No part shall be concealed, nor veil be drawn;</p>
+<p>My nature, whole and vast, shall you behold,</p>
+<p>From deepest night until the brightest dawn.</p>
+<p>Receive this wisdom, precious as fine gold,</p>
+<p>And know Me as I am, completely free,</p>
+<p>Your doubting banished by My reality.</p>
+<h2 id="verse-72"><a class="header" href="#verse-72">Verse 7.2</a></h2>
+<p>This knowledge I impart, both deep and high,</p>
+<p>Combined with insight, perfect, to your soul.</p>
+<p>A truth revealed beneath the open sky,</p>
+<p>Which, once absorbed and made your spirit whole,</p>
+<p>Leaves nothing else for your inquiring goal.</p>
+<p>No further seeking in this realm of man,</p>
+<p>No hidden truth beyond your wise control.</p>
+<p>Receive this gift, part of My divine plan.</p>
+<p>What need is there for futures to explore?</p>
+<p>What mystery lies veiled, when I am known?</p>
+<p>Unlock this wisdom, open wide the door,</p>
+<p>And find your being on My presence shown.</p>
+<p>This perfect knowing ends all quest and strife,</p>
+<p>The ultimate attainment for this life.</p>
+<h2 id="verse-73"><a class="header" href="#verse-73">Verse 7.3</a></h2>
+<p>Amongst a thousand souls who walk the way,</p>
+<p>A rare one strives for perfect state to gain.</p>
+<p>And even of those striving day by day,</p>
+<p>Who have achieved perfection's high domain,</p>
+<p>Few truly know My essence, free from stain.</p>
+<p>So vast the many, lost in worldly plight,</p>
+<p>So few the chosen, seeking truth again,</p>
+<p>So hard the climb toward the inner light.</p>
+<p>To reach the pinnacle, the goal supreme,</p>
+<p>Requires a will that falters not, nor bends.</p>
+<p>To grasp My being, more than fleeting dream,</p>
+<p>Is rarest still, where all true knowing ends.</p>
+<p>A miracle it is, a truth profound,</p>
+<p>When by a striving soul, I'm truly found.</p>
+<h2 id="verse-74"><a class="header" href="#verse-74">Verse 7.4</a></h2>
+<p>The earth, the water, fire's consuming might,</p>
+<p>The moving air, the ether's boundless space,</p>
+<p>The thinking mind, the intellect's clear light,</p>
+<p>And ego-sense, the self's perceived base—</p>
+<p>These eightfold elements, in varied place,</p>
+<p>Comprise My lower nature, subtly spun.</p>
+<p>A separated form, for time and race,</p>
+<p>Through which the world's material course is run.</p>
+<p>They form the physical, the mental frame,</p>
+<p>The ground of being in the mortal sphere.</p>
+<p>Distinct they seem, yet echo still My Name,</p>
+<p>The outer garment that I hold so dear.</p>
+<p>This Prakriti, My energy displayed,</p>
+<p>In eight divisions, by My power made.</p>
+<h2 id="verse-75"><a class="header" href="#verse-75">Verse 7.5</a></h2>
+<p>Beyond this lower form, O mighty arm,</p>
+<p>Know My true Nature, higher and supreme.</p>
+<p>It is the Soul, the life that keeps from harm,</p>
+<p>The conscious force, beyond material dream,</p>
+<p>By which this universe, a flowing stream,</p>
+<p>Is held together, nurtured, and sustained.</p>
+<p>It is the spirit's light, the vital gleam,</p>
+<p>Within all life, eternally unchained.</p>
+<p>This vital principle, My essence pure,</p>
+<p>Enlivens matter, gives the cosmos breath.</p>
+<p>Without this Soul, no form could long endure;</p>
+<p>It conquers change and triumphs over death.</p>
+<p>This higher Prakriti, the living Soul,</p>
+<p>Contains the universe and makes it whole.</p>
+<h2 id="verse-76"><a class="header" href="#verse-76">Verse 7.6</a></h2>
+<p>From these two Natures, realize, O friend,</p>
+<p>All beings in existence take their source.</p>
+<p>My higher and My lower, without end,</p>
+<p>Provide the fabric for creation's course.</p>
+<p>And know that I am all, with potent force,</p>
+<p>The origin of this vast cosmic play.</p>
+<p>The universe begins from Me, of course,</p>
+<p>And at the final end, I lead the way.</p>
+<p>From Me arises all that ever was,</p>
+<p>The myriad forms, the subtle and the gross.</p>
+<p>To Me returns all that creation draws;</p>
+<p>I am the start, the finish, and the cross.</p>
+<p>The fount from which the river of life flows,</p>
+<p>And ocean where it ends, the cosmos knows.</p>
+<h2 id="verse-77"><a class="header" href="#verse-77">Verse 7.7</a></h2>
+<p>There is no higher truth than Me, Dhananjaya;</p>
+<p>No principle transcends My sovereign might.</p>
+<p>Upon Me all this universe does stay,</p>
+<p>As jewels are strung upon a thread, so tight.</p>
+<p>Each pearl distinct, reflecting dazzling light,</p>
+<p>Yet bound as one upon the string unseen,</p>
+<p>So worlds and beings, in their darkest night</p>
+<p>Or brightest day, upon My being lean.</p>
+<p>I am the thread, the unity that holds</p>
+<p>The scattered gems of life in cosmic chain.</p>
+<p>Within My being, all the truth unfolds;</p>
+<p>Than Me, no greater essence can remain.</p>
+<p>My presence binds the vastness and the small,</p>
+<p>The fundamental truth sustaining all.</p>
+<h2 id="verse-78"><a class="header" href="#verse-78">Verse 7.8</a></h2>
+<p>In water, O Kounteya, I am taste,</p>
+<p>The vital essence quenching every thirst.</p>
+<p>In moon and sun, My radiant light is placed,</p>
+<p>By which the darkness of the world is burst.</p>
+<p>In Vedic chants, the primal sound is burst,</p>
+<p>That sacred syllable from which forms flow.</p>
+<p>In ether, sound's vibration is the first</p>
+<p>Manifest echo that all beings know.</p>
+<p>And in humanity, the strength of soul,</p>
+<p>The inherent power, I am present there.</p>
+<p>My essence permeates and makes life whole,</p>
+<p>In simple things, beyond all human care.</p>
+<p>Through fundamental elements I shine,</p>
+<p>Revealing evermore My truth divine.</p>
+<h2 id="verse-79"><a class="header" href="#verse-79">Verse 7.9</a></h2>
+<p>Pure fragrance of the earth, when rain descends,</p>
+<p>That earthy scent, know that it is My power.</p>
+<p>The heat in fire, the energy it lends,</p>
+<p>To burn and purify in every hour.</p>
+<p>The life in all that lives, the vital dower,</p>
+<p>The breath that quickens forms of every kind.</p>
+<p>And in ascetics, focused as a tower,</p>
+<p>The burning discipline, the austere mind.</p>
+<p>I am the essence, present and profound,</p>
+<p>In qualities that make the world reside.</p>
+<p>In earth's perfume, in heat, in life around,</p>
+<p>In disciplined souls, I am their inner guide.</p>
+<p>My presence felt in nature's deepest core,</p>
+<p>And seekers' strength forevermore.</p>
+<h2 id="verse-710"><a class="header" href="#verse-710">Verse 7.10</a></h2>
+<p>Know Me, O Partha, as the ancient seed,</p>
+<p>The timeless source from which all life takes root.</p>
+<p>The eternal origin of every deed,</p>
+<p>The cause unseen that brings forth every fruit.</p>
+<p>I am the intellect, the sharp pursuit,</p>
+<p>Of those whose minds are keen and wise and deep.</p>
+<p>The splendor and the glory, undisputed,</p>
+<p>Of those whose brilliance makes the spirit leap.</p>
+<p>Within the seed of being, I reside,</p>
+<p>The potential hidden, ready to unfurl.</p>
+<p>In wisdom's light, I am the truth inside,</p>
+<p>In every spark of glory in the world.</p>
+<p>The fundamental cause, the wisdom's might,</p>
+<p>Reflected in the splendid and the bright.</p>
+<h2 id="verse-711"><a class="header" href="#verse-711">Verse 7.11</a></h2>
+<p>The strength of mighty ones, from passion free,</p>
+<p>The power wielded without selfish aim,</p>
+<p>Know that pure force as none other than Me.</p>
+<p>The righteous impulse, blazing like a flame,</p>
+<p>That just desire that speaks My holy Name,</p>
+<p>Not born of greed, attachment, or of hate,</p>
+<p>The wish for good, in Dharma's righteous frame,</p>
+<p>That wills within all beings, sealed by fate—</p>
+<p>That sanctioned longing, noble and allowed,</p>
+<p>Which does not violate the sacred code,</p>
+<p>But lifts the soul above the common crowd,</p>
+<p>Upon the path where virtue's fruits are sowed.</p>
+<p>This righteous will, untainted by the low,</p>
+<p>Is I myself, within all life that grow.</p>
+<h2 id="verse-712"><a class="header" href="#verse-712">Verse 7.12</a></h2>
+<p>And states of being, whether pure and clear,</p>
+<p>Or moved by passion, restless and ablaze,</p>
+<p>Or veiled in darkness, ignorance, and fear—</p>
+<p>Know these three qualities, in all their ways,</p>
+<p>Arise from Me, through evolution's maze.</p>
+<p>From Me they spring, yet I am not contained</p>
+<p>Within their limits, bound by passing days.</p>
+<p>They rest in Me, upon My being stained</p>
+<p>By their own nature, transient and low.</p>
+<p>I am the canvas, pure and ever free,</p>
+<p>On which the shifting hues of Gunas flow.</p>
+<p>They find existence only through and in Me.</p>
+<p>Though born of Me, My Self transcends their hold,</p>
+<p>A truth in this mysterious world untold.</p>
+<h2 id="verse-713"><a class="header" href="#verse-713">Verse 7.13</a></h2>
+<p>By these three qualities, the Gunas' spell,</p>
+<p>This entire world, deluded, turns aside.</p>
+<p>Bewitched by forms in which they seem to dwell,</p>
+<p>The higher, changeless Self they fail to ride.</p>
+<p>Misty the veil where Maya's arts preside,</p>
+<p>Concealing Me, immutable and vast,</p>
+<p>Beyond the shifting waves of passion's tide.</p>
+<p>In changing forms, their blinded eyes are cast.</p>
+<p>They see the garment, miss the One within,</p>
+<p>Perceive the qualities, not the ground of all.</p>
+<p>Lost in the play, the cosmic outer din,</p>
+<p>They miss My nature, standing high and tall.</p>
+<p>Delusion holds them fast in its embrace,</p>
+<p>Unknowing Me, beyond all time and place.</p>
+<h2 id="verse-714"><a class="header" href="#verse-714">Verse 7.14</a></h2>
+<p>For this divine illusion, spun by Gunas,</p>
+<p>This Maya woven by My own decree,</p>
+<p>Is hard to conquer, fraught with countless runas.</p>
+<p>A formidable power, wild and free.</p>
+<p>But those who find their refuge, Lord, in Me,</p>
+<p>Who yield their hearts and minds unto My grace,</p>
+<p>They cross this Maya, and its hold will flee.</p>
+<p>They step beyond illusion's fleeting trace.</p>
+<p>The path is steep, the challenge ever near,</p>
+<p>To break the chains that bind the mortal soul.</p>
+<p>But turning wholly, banishing all fear,</p>
+<p>And yielding all to Me, shall make you whole.</p>
+<p>My refuge is the boat upon the sea,</p>
+<p>To cross this difficult reality.</p>
+<h2 id="verse-715"><a class="header" href="#verse-715">Verse 7.15</a></h2>
+<p>The wicked, lost in folly, souls most low,</p>
+<p>Whose knowledge is by Maya stripped away,</p>
+<p>Who cleave to demon nature, dark below,</p>
+<p>They do not come to Me, nor find the way.</p>
+<p>Their minds obscured by blinding, false display,</p>
+<p>Attached to actions driven by the base,</p>
+<p>They wander far from truth, and go astray.</p>
+<p>No seeking finds them in this lower place.</p>
+<p>Refuge in Me is not their spirit's call,</p>
+<p>For worldly gain or power is their quest.</p>
+<p>Their inner light consumed by Maya's pall,</p>
+<p>They choose the lower, failing every test.</p>
+<p>Such souls remain in darkness, far apart,</p>
+<p>Lost to the light within My loving heart.</p>
+<h2 id="verse-716"><a class="header" href="#verse-716">Verse 7.16</a></h2>
+<p>Four types of virtuous souls, O Arjuna, find,</p>
+<p>Their way to Me, and offer worship true.</p>
+<p>The one distressed, with suffering in his mind,</p>
+<p>The seeker after knowledge, fresh and new.</p>
+<p>The one who seeks for worldly wealth, it's true,</p>
+<p>And finally, the one who knows My state.</p>
+<p>These four approach Me, in their different view,</p>
+<p>Each drawn by purpose, driven by their fate.</p>
+<p>Though paths diverge, and motives are distinct,</p>
+<p>A thread of virtue binds them to My feet.</p>
+<p>By earnest seeking, they become linked</p>
+<p>To that Divine from which all life is sweet.</p>
+<p>Four different reasons bring them to My grace,</p>
+<p>To find their solace in this holy place.</p>
+<h2 id="verse-717"><a class="header" href="#verse-717">Verse 7.17</a></h2>
+<p>Of these four kinds, the Knower stands apart;</p>
+<p>Ever united, focused on the One.</p>
+<p>With single devotion fixed within his heart,</p>
+<p>His journey's course determined and begun.</p>
+<p>He is supremely dear, My cherished son,</p>
+<p>For to the Knower, I am dear indeed.</p>
+<p>A bond established, till the race is run,</p>
+<p>Fulfilling every spiritual need.</p>
+<p>While all are noble, striving for the light,</p>
+<p>The Knower sees the truth, direct and plain.</p>
+<p>His vision piercing through the darkest night,</p>
+<p>He finds in Me release from worldly pain.</p>
+<p>This union sweet, a mutual desire,</p>
+<p>Between the Knower and the cosmic fire.</p>
+<h2 id="verse-718"><a class="header" href="#verse-718">Verse 7.18</a></h2>
+<p>All these are truly noble, each in kind,</p>
+<p>Upon the path, deserving of acclaim.</p>
+<p>But of them all, the Knower, I define,</p>
+<p>As verily My Self, expressing My Name.</p>
+<p>For steadfast in his soul, without false aim,</p>
+<p>He rests in Me, his spirit calm and sure.</p>
+<p>He has attained the goal, the sacred flame,</p>
+<p>The unsurpassed attainment, ever pure.</p>
+<p>Established in My being, firm and fast,</p>
+<p>His consciousness united, free from doubt.</p>
+<p>His journey's end achieved, the die is cast,</p>
+<p>With inner peace, his spirit radiates out.</p>
+<p>The Knower and the Known, in essence, merge,</p>
+<p>Upon My being, where true souls converge.</p>
+<h2 id="verse-719"><a class="header" href="#verse-719">Verse 7.19</a></h2>
+<p>After the passage of uncounted years,</p>
+<p>Through many births, the soul finds wisdom's prize.</p>
+<p>The man of knowledge conquers all his fears,</p>
+<p>And reaches Me, with opened, knowing eyes.</p>
+<p>His heart proclaims, with wondrous, deep surprise,</p>
+<p>&quot;Vasudeva is all,&quot; the Truth he sees.</p>
+<p>In every form, the one Reality lies.</p>
+<p>Such a great soul is rare, like fragrant trees</p>
+<p>In barren lands, a wonder to behold.</p>
+<p>To see the Godhead manifest in all,</p>
+<p>The universe My form, forever told—</p>
+<p>This realization answers spirit's call.</p>
+<p>This vast awareness, comprehensive, broad,</p>
+<p>A rare, great soul, united with the Lord.</p>
+<h2 id="verse-720"><a class="header" href="#verse-720">Verse 7.20</a></h2>
+<p>By diverse worldly longings, minds astray,</p>
+<p>Their clear discernment clouded by desire,</p>
+<p>These seekers turn to other gods to pray,</p>
+<p>Fulfilling wishes, fueled by passion's fire.</p>
+<p>They follow rituals, climbing ever higher,</p>
+<p>Upon the ladder of external rule,</p>
+<p>Compelled by nature, fixed in their attire,</p>
+<p>A slave to habit, and of Maya a tool.</p>
+<p>Their understanding bound by limited sight,</p>
+<p>They seek for boons from powers they conceive.</p>
+<p>Not knowing Me, the source of perfect light,</p>
+<p>In forms external, they their faith believe.</p>
+<p>Their innate nature drives their outward quest,</p>
+<p>Upon the lower paths, finding little rest.</p>
+<h2 id="verse-721"><a class="header" href="#verse-721">Verse 7.21</a></h2>
+<p>Whatever form a devotee may choose,</p>
+<p>To worship with his faith, and heart sincere,</p>
+<p>That cherished form, I will not refuse,</p>
+<p>But make his faith in that form strong and clear.</p>
+<p>I steady his devotion, quell all fear,</p>
+<p>And consecrate the object of his plea.</p>
+<p>Though limited the vision may appear,</p>
+<p>I recognize the soul's desire for Me.</p>
+<p>The sincerity of purpose I affirm,</p>
+<p>Regardless of the symbol that they hold.</p>
+<p>Their faith's foundation, solid and quite firm,</p>
+<p>Upon that chosen form, will then unfold.</p>
+<p>My grace extends to meet them where they are,</p>
+<p>And lights their path, however distant, far.</p>
+<h2 id="verse-722"><a class="header" href="#verse-722">Verse 7.22</a></h2>
+<p>Endowed with such firm faith, the devotee</p>
+<p>Approaches that chosen form in humble prayer.</p>
+<p>He seeks the boons desired, wishing to be</p>
+<p>Granted the objects of his worldly care.</p>
+<p>And he obtains the fruits, though unaware,</p>
+<p>That they are granted ultimately by Me.</p>
+<p>The power behind the form, though hidden there,</p>
+<p>Is My own will, allowing destiny.</p>
+<p>He sees the image, hears the name he calls,</p>
+<p>Receives the blessing, feels his wish fulfilled.</p>
+<p>But know the power that breaks down the walls,</p>
+<p>The cosmic energy, by My hand is willed.</p>
+<p>The gifts received, the boons that souls acquire,</p>
+<p>Are manifest results of My desire.</p>
+<h2 id="verse-723"><a class="header" href="#verse-723">Verse 7.23</a></h2>
+<p>But finite are the fruits these seekers gain,</p>
+<p>Whose understanding's limited and small.</p>
+<p>Their transient worship leads to transient reign,</p>
+<p>And temporal boons, predestined soon to fall.</p>
+<p>To lesser gods, the god-worshippers call,</p>
+<p>And reach the realms where those divinities dwell.</p>
+<p>My own devoted ones, surmounting all,</p>
+<p>Come unto Me, where endless glories swell.</p>
+<p>The path of gods leads to their heavenly sphere,</p>
+<p>A temporary stay, then back to earth.</p>
+<p>But those who worship Me, dispel all fear,</p>
+<p>And reach My timeless state, of endless worth.</p>
+<p>The limited attain the limited height;</p>
+<p>My devotees arrive in boundless light.</p>
+<h2 id="verse-724"><a class="header" href="#verse-724">Verse 7.24</a></h2>
+<p>Unwise men, with intellect obscured,</p>
+<p>Believe Me manifest, though formless, high.</p>
+<p>They think My perfect state, forever immured,</p>
+<p>Took finite shape beneath the mortal sky.</p>
+<p>Not knowing My supreme Reality,</p>
+<p>Immutable, beyond all change and form,</p>
+<p>They see the human figure passing by,</p>
+<p>And fail to grasp the universal storm</p>
+<p>Of My true nature, deathless and unbound.</p>
+<p>They limit Me to senses' brief display,</p>
+<p>Upon the shifting, transient, worldly ground.</p>
+<p>My highest being they cannot survey.</p>
+<p>Their ignorance conceals the Truth I hold,</p>
+<p>Immutable, in glory to unfold.</p>
+<h2 id="verse-725"><a class="header" href="#verse-725">Verse 7.25</a></h2>
+<p>Not manifest to all, am I revealed,</p>
+<p>For I am screened by Yoga-Maya's might.</p>
+<p>By My own power, I remain concealed,</p>
+<p>From worldly eyes that seek but outer sight.</p>
+<p>This deluded world, in darkness and in light,</p>
+<p>Does not perceive Me, birthless and unspent.</p>
+<p>They see the changing form, mistake the blight</p>
+<p>For timeless truth, on transient things intent.</p>
+<p>My mystic power veils My inner core,</p>
+<p>From those whose vision is not pure and clear.</p>
+<p>They see the surface, nothing less, nothing more,</p>
+<p>And miss the ancient being dwelling near.</p>
+<p>Unborn, unchanging, yet I stand unknown,</p>
+<p>By Maya's veil, My deepest truth is shown.</p>
+<h2 id="verse-726"><a class="header" href="#verse-726">Verse 7.26</a></h2>
+<p>I know all beings that have passed away,</p>
+<p>O Arjuna, their history I trace.</p>
+<p>I know the present beings of today,</p>
+<p>Their current state, their time, their form, their place.</p>
+<p>I know the future, and the coming race,</p>
+<p>All that shall be, before it takes its birth.</p>
+<p>Within My knowledge, all finds its embrace,</p>
+<p>Across the cycles of the rolling earth.</p>
+<p>But no one knows Me, in My full extent,</p>
+<p>My boundless nature, infinite and deep.</p>
+<p>While all created things by Me are lent</p>
+<p>Existence, secrets that the ages keep,</p>
+<p>My own vast being, ever unconfined,</p>
+<p>Is not encompassed by a finite mind.</p>
+<h2 id="verse-727"><a class="header" href="#verse-727">Verse 7.27</a></h2>
+<p>From rise of dualities, desire and hate,</p>
+<p>That spring from contact, born of fleeting sense,</p>
+<p>All creatures fall into a deluded state,</p>
+<p>From birth's beginning, subject to expense</p>
+<p>Of clearer vision, held in tight suspense.</p>
+<p>This powerful confusion, Bharat, binds</p>
+<p>The soul to fleeting joys and sharp offense.</p>
+<p>It clouds the judgment, captivates the minds.</p>
+<p>Desire lures forth, and hate repels with might,</p>
+<p>Creating pairs of opposites that blind.</p>
+<p>Lost in this swirl, they miss the inner light,</p>
+<p>To dual forces helplessly consigned.</p>
+<p>This deep delusion, rooted from their start,</p>
+<p>Obscures the truth within each creature's heart.</p>
+<h2 id="verse-728"><a class="header" href="#verse-728">Verse 7.28</a></h2>
+<p>But those whose sin has come unto its end,</p>
+<p>Through virtuous action, pure and free from stain,</p>
+<p>From the delusion of the duals ascend.</p>
+<p>Released from pairs of pleasure and of pain,</p>
+<p>They worship Me with purpose strong and plain,</p>
+<p>With vows established, firm and resolute.</p>
+<p>Their steady minds the path of truth maintain,</p>
+<p>And gather Dharma's pure and sacred fruit.</p>
+<p>No longer tossed by waves of like and hate,</p>
+<p>Their vision clears, their inner compass true.</p>
+<p>They see My presence, sealing their own fate</p>
+<p>In selfless service, ever fresh and new.</p>
+<p>Released from bondage, steadfast they remain,</p>
+<p>Devoted fully, conquering worldly chain.</p>
+<h2 id="verse-729"><a class="header" href="#verse-729">Verse 7.29</a></h2>
+<p>Who strive for freedom from decay and death,</p>
+<p>That mortal cycle, binding flesh and bone,</p>
+<p>And make My refuge their sustaining breath,</p>
+<p>Their highest goal, on Me alone is shown—</p>
+<p>These knowing souls, the seed of truth is sown.</p>
+<p>They know that Brahman whole, the Absolute,</p>
+<p>The inner self (Adhyatma) to them is known,</p>
+<p>And all of Karma's work, its cause and fruit.</p>
+<p>The path to liberation they pursue,</p>
+<p>Beyond the limits of the mortal span.</p>
+<p>By taking refuge, clear their inner view,</p>
+<p>They grasp the essence of the cosmic plan.</p>
+<p>The highest knowledge thus becomes their right,</p>
+<p>Revealing all, in liberated light.</p>
+<h2 id="verse-730"><a class="header" href="#verse-730">Verse 7.30</a></h2>
+<p>Who know Me in the earthly sphere's domain (Adhibhuta),</p>
+<p>And in the celestial realm (Adhidaiva) they see,</p>
+<p>And know Me in the sacrifice's main (Adhiyajna)</p>
+<p>Performance, linking action unto Me—</p>
+<p>These souls, with minds composed, eternally,</p>
+<p>At the great hour of death, remember well.</p>
+<p>Their consciousness united, they will be</p>
+<p>Aware of Me, where truth and spirit dwell.</p>
+<p>The final moment, crucial and profound,</p>
+<p>When life transitions to the state beyond,</p>
+<p>By knowing Me through all that can be found—</p>
+<p>Matter, the gods, the ritual bond—</p>
+<p>They cross with steady mind, their journey done,</p>
+<p>And reach My presence, with the setting sun.</p>
+</div>
+<p>These sonnets aim to expand upon the core message of each verse from Chapter 7, providing a poetic interpretation within the 14-line sonnet format. While the original verses are the foundation, the expansion involves creative interpretation and poetic license.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="bg06.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="0.0_about.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="bg06.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="0.0_about.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

@@ -32,13 +32,13 @@
   </div>
 </div>
 
-Bhagavad Gita is the first `Smriti` in Vaidik  scriptures. What exactly is a `Smriti`? To get an answer, We need to go back in time - at least five thousand years!
+Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti` of Vaidik  culture. What exactly is a `Smriti`? 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history.
 
-Then we discovered scribing!  Given the difficulties of early days, most precious information made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
+Then we discovered scribing!  Given the difficulties of early days, people carefully chose what to scribe. Only precious information made it to the written form. The word "scripture" points to something important enough for everyone, and worthy of writing down.
 
 > Written text, thus,  became the collective memory. In Sanskrit, collective memory is deemed  `Smriti`.
 

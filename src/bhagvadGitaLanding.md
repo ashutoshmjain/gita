@@ -38,17 +38,15 @@ Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti` of Vaid
 
 In the beginning there was `Om` - vibrations of the underlying field.  Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history.
 
-Then we discovered scribing!  Given the difficulties of early days, people carefully chose what to scribe. Only precious information made it to the written form for preservation. The word "scripture" points to something important, and worthy of writing down.
+Then we discovered scribing!  Given the difficulties of early days, people chose with utmost care what to scribe. Only precious information made it to the written form - for preservation - across time and space. The word "scripture" points to something important, and worthy of writing down.
 
-> Written text, thus,  became the collective memory. In Sanskrit, such collective memory was deemed  `Smriti`. By virtue of being the collective memory (of our ancestors), it is embedded into all of us, even if we are not aware of its existence.
+> Written text, thus,  became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory (of our ancestors), it is embedded into all of us, even if we are not aware of it - a deep-seated memory.
 
 Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through superior and repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
 
 </div>
 
-In modern parlance, World Wide Web is like `Smrities`, and Podcasts are akin to `Shruties`. Given that it is easier to scribe text and record audio these days, we now have zettabytes  of information, so much so that it is humanly impossible to scrape through, besides the quality of content is questionable.
-
-Thus looking at the first `Smriti` opens up a profound source of wisdom - it is like finding true signal with in myriad of noises.
+Now that it is easier to scribe, and to record audio, we have zettabytes  of information, so much so that it is humanly impossible to scrape through, besides the quality of content is questionable. There is a lot of rigor in writing even now, but there is hardly any in choosing what to write. Technology has enabled every individual to exercise their wish without seeking consensus - good or bad ? - we don't know ! But we are sure - looking at the first `Smriti` opens up a profound source of wisdom - it is like finding true signal with in myriad of noises.
 
 ---
 

@@ -1,4 +1,4 @@
-# Akshar Beamh Yoga
+# Akshar Bramh Yoga
 
 Chapter 8 of Bhagavad Gita begins with Arjuna asking for the clarity as to how the universe is structured. He asks seven fundamental questions
 

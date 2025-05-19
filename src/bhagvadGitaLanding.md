@@ -36,7 +36,7 @@ Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. The ge
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - vibrations of the underlying field. Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history.
+In the beginning there was `Om` - smooth vibrations of the underlying field. Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history.
 
 Then we discovered scribing!  Given the difficulties of early days, people chose with utmost care what to scribe. Only precious information made it to the written form - for offline access and preservation - across time and space. The word "scripture" points to something important, and worthy of writing down.
 

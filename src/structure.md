@@ -34,4 +34,13 @@ Who is the Adhiyazna - Krishna says I am Adhiyazna - the creator of the game. I 
 Arjuna than asks how do I attain you when the game is finished - ie death in the game. 
 
 Krishna says - players attain whatever thoughts they have at the time of death. If they focus on Bramhan - they connect with runtime of the game. If they connect with material things , they keep on playing the game and chase material things. But if they have full devotion to me - always connected to me while performing Yazna , they meet me. And thus get over playing the game. They become creators or builders of the game and attain ever lasting peace , freedom from bondage - Nirvana. Such people are called Yogi. They are better than all other forms of devotions and actions.
- 
+
+To put it simply 
+
+- Lord Krishna is the creator - devine
+- The game is Brahman - Imperishable reality (CD analogy) as well as the material nature (Single run)
+- You are playing a role in the game 
+
+From your standpoint , I am Akshar ( imperishable devine) and Brahman is the creation.
+
+This this chpater is called Akshar Bramh Yoga . 

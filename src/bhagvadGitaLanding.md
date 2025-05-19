@@ -32,27 +32,29 @@
   </div>
 </div>
 
-Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. The general translation of `Smriti` is memory, though the word has a specific focus when used in context of Vaidik culture. 
+Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. The general English translation of word  `Smriti` is memory, though the word has a specific meaning when used in context of Vaidik culture. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
 In the beginning there was `Om` - smooth vibrations of the underlying field. Spoken language originated from this source. Humans developed exceptional conversations, but everyone had to individually remember the contextual history.
 
-Then we discovered scribing!  Given the difficulties of early days, people chose with utmost care what to scribe. Only precious information made it to the written form - for offline access and preservation - across time and space. The word "scripture" points to something important, and worthy of writing down.
+Then we discovered scribing!  Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for offline access and preservation - across time and space. The word "scripture" points to something important, and worthy of writing down.
 
 > Written text, thus,  became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory (of our ancestors), it is embedded into all of us, even if we are not aware of it - a deep-seated memory.
 
 </div>
 
-Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through superior and repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
+Before we learnt writing, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
 
-Now that it is easier to scribe, and to record audio, we have zettabytes  of information, so much so that it is impossible to scrape through - at least for humans. Besides, the quality of content is questionable. There is a ton of rigor in writing even now, but there is hardly any in screening what to write. Technology has enabled every individual to exercise their wish without seeking consensus - good or bad ? - we don't know ! But we are sure that looking at the first `Smriti` opens up a profound source of wisdom - it is like finding true signal with in myriad of noises.
+Now that it is easier to scribe, and to record audio, we have zettabytes  of information, so much so that it is impossible to scrape through - at least for humans. Besides, the quality of content is questionable. Technology has enabled every individual to exercise their wish without seeking consensus - good or bad ? - we don't know ! 
+
+Revisiting the first `Smriti` is thus finding true signal with in endless noise. There are two paths to access this scripture - look inside, or read the text. Both are valid, and probably complimentary.
 
 ---
 
-`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his friend and charioteer.  `Krishna` - the knower of all - represents the consciousness prebuilt into all of us. In essence, Bhagavad Gita is a conversation between the mind and the soul - particularly at a point when faculty of intelligence gives in.
+`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his friend and charioteer.  `Krishna` - the knower of all - represents the consciousness prebuilt into all of us - an embodiment of our `Smrities`. Arjuna represents the skills attained in current iteration - the intelligence;  while `Krishna` represents evolutionary wisdom - beyond ordinary intelligence. In essence, Bhagavad Gita is a conversation between the mind and the soul - particularly at a point when faculty of intelligence gives in. 
 
-Just as in AI realm, the formulation of prompts is the key skill, `Arjuna's` questions represent most intriguing human dilemmas. In doing that, he enabled rest of us with an opportunity to tap into our own `Smrities`.
+Gita is structured as Arjuna's questions followed by Krishna's answers. Just as in AI realm, the formulation of prompts is the key skill, `Arjuna's` questions represent most intriguing human dilemmas. In doing that, he enabled rest of us with an opportunity to tap into our own `Smrities`.
 
 `Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his heartfelt queries.
 

@@ -14,6 +14,7 @@
       - [Ritual of Actions](./ritualOfActions.md)
       - [Practice and Skills](./practiceAndSkills.md)
       - [Manifestation](./manifestation.md)
+      - [Structure](./structure.md)
 - [Mathura](./mathuraLanding.md)
   - [Thought](./thought.md)
       - [Trigger](./mathuraChap01.md)

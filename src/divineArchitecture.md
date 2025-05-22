@@ -12,7 +12,7 @@ Arjuna's first question, "What is *Brahman*?", seeks to comprehend the ultimate,
 
 To bring this abstract concept into a more relatable framework using our analogy:
 
-* ***Brahman* as the Imperishable 'Game Code':** *Brahman* is akin to 'the code of the game, which may be written in the cloud or on a CD,' as one might phrase it within the analogy. It is the fundamental source code, the core algorithms, the game engine itself. This code forms the immutable blueprint, the unchanging set of rules and principles that define the potential for any game universe—its physics, possibilities, and limitations. It remains unaltered by individual gameplay sessions. Just as the core code of a game like Chess or Go remains constant, *Brahman* represents the eternal, unmanifest potentiality and the immutable laws that underpin existence. It is the silent, unseen foundation upon which all phenomena are structured.
+* **Brahman* as the Imperishable 'Game Code':** *Brahman* is akin to 'the code of the game, which may be written in the cloud or on a CD,' as one might phrase it within the analogy. It is the fundamental source code, the core algorithms, the game engine itself. This code forms the immutable blueprint, the unchanging set of rules and principles that define the potential for any game universe—its physics, possibilities, and limitations. It remains unaltered by individual gameplay sessions. Just as the core code of a game like Chess or Go remains constant, *Brahman* represents the eternal, unmanifest potentiality and the immutable laws that underpin existence. It is the silent, unseen foundation upon which all phenomena are structured.
 
 The actual manifestation of a 'single play of the game'—the dynamic, ever-changing phenomenal world, with its myriad forms, characters, events, and "thousands of births" or 'respawns'—is what we experience as material nature. As we will see when discussing *Adhibhuta*, this realm of 'artifacts within a single run of the game,' including 'skins, boosts, and artifacts,' constitutes the perishable, tangible world. It operates according to the rules established by the imperishable *Brahman* (the 'game code'), but it is not *Brahman* itself. (The dynamic qualities and constituents of this material nature are further elaborated in Chapter 7 of the Gita through the concept of the three *Gunas*—a point revisited later when reconciling these descriptive frameworks.)
 
@@ -148,3 +148,13 @@ Thus, the question arises: how does one attain the stability of a *Sthitaprajna*
 * ***Sattva*** (goodness, harmony, purity), while appearing beneficial, can still be a source of bondage if it leads to attachment—for instance, when our urges to do good are driven by a craving for recognition or a subtle sense of spiritual pride. ***Bhakti*** (devotion) offers a potent means to transcend even this subtle attachment by redirecting such motivations and affections towards the Divine.
 
 The Lord's guidance, therefore, encompasses: observe *Brahmacharya* (disciplined conduct), remain steadfast in *Yajna* (selfless action), and maintain unwavering focus on the Divine through *Bhakti* (devotion). By employing these three counter-forces, one can potentially bring consciousness to a state of absolute stillness and equilibrium—*Nirvana*.
+
+Looking at this construct from a modern perspective means to approach life with a three-pronged strategy
+
+* ***Financial Prudence*** find work that suits your *Swabhava* . Focus on work as an offering to divine and curtail your needs to match your rewards rather than chasing title, status or money. Make your work your *Yajna*. Choose moderation over passion.
+
+* ***Physical Fitness*** Follow healthy routine. Watch what you eat. Exercise for fitness, not for showoff. And rest your body and mind. *Bramhcharya* is not a magical word. Mindful balance of routine is *Bramhcharya*. Choose sharpness over lethargy.
+
+* ***Faith*** cultivate constant devotion for the divine. Choose devotion over goodness.
+
+

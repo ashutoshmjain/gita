@@ -24,21 +24,15 @@ If you toggle the sidebar, this web app has three main sections :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-## Gita
+## Gita Podcast
 
-The first section is original Sanskrit to English translation of `Bhagvad Gita` - by `Kiasri Mohan Ganguly`, circa 1896. 
+The first section is AI generated podcast on Bhagvad Gita. I use Google's notebookLM to train AI on Gita - chapter wise. The key benefit of this tool is: I can feed it original Sanskrit verses and translates them without influence of any external interpretations. NotebookLM restricts itself purely to the sources we provide. That is a huge advantage if you want to understand the original text(s) in their literal purity.
 
-`Bhagvad Gita` is the source code of `Karm Yoga`. While `Karm Yoga` is proven means to exit sufferings, it also benchmarks value-exchange. It establishes the spiritual framework for selfless pursuits (`Nishkaam Yazna`). 
+Having translated Gita in original format, I request AI to convert the verses into the best possible English poetry - to match the theme. For some chapter Odes are best fit. Others excel with Sonnets. And most go well with hymns. Gita is epitome of Sanskrit poetry. Thus converting it English poetry seems apt. Besides poetry is the best form we humans retain the message. 
 
-> Open pursuits, without desires of personal gains, enable society adopt work (`Karma`) as primary measure of value. 
+Once I have the poetry that passes minimum standard, the next part is to run the audio. NotebookLM provides audio overviews which are pretty good but often stray away from instructions :-) .. I guess AI is still in its adolescence. Which makes me run multiple audio rendering, each time improving the prompts, but it is not an exact science. Which obviously leaves me with extensive Audio editing work. That is where I apply my own discretion. Thanks to work of Sri Prabhupada of Hare Krishna , Gurudev Sri Angananabda Ji Maharaj  and countless more who found firm faith in Gita, my research goes on for weeks for every chapter. And that is my own self-discovery.
 
-Work done under influence of desires - to seek preferred outcomes - skews the measure of effort involved. For example if you were seeking money, you may unknowingly inflate the effort on market fit; if you were seeking recognition, you may end up investing time in publicity and assume it as necessary part of work  - it is not.
-
-Working without expectations is hard - but that is only the start. `Gita` goes a step further. It advocates to stay put on `Nishkaam` path even in the face of imminent adversity. Prime example being `Arjuna` - a warrior par excellence but trapped in `Moha`. At the prospect of fighting his clan, `Arjuna` wanted to shun his responsibilities. Through `Gita`, `Krishna` advised him to stick to his `Karma`. 
-
-The translation is followed by an AI generated chapter wise podcast discovering core concepts of `Gita`. Podcast is designed as an easy listen for young English audience. It provides a verse by verse overview leaving the details for self exploration. 
-
-On my path of discovery, I found writing the core concepts in my own language was useful. That led to number of essays I wrote. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science. I would encourage serious readers to write their understanding in their own words. Writing and revisiting the content, on daily basis, is the best way to train our intelligence - `Smriti`.
+On path of discovery, I found writing the core concepts in my own language very useful. That led to number of essays. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science. I would encourage serious listeners (of podcast) to write their understanding in their own words. Writing and revisiting the content, on daily basis, is the best way to train our intelligence - `Smriti`. Krishna says a `Gyaani` (Knower) is best predisposed to adapt `Yoga`.
 
 
 ## Mathura (work in progress)

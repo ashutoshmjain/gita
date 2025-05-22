@@ -4,7 +4,7 @@ This web[^mission] publication aspires to dip into wisdom of Bhagvad Gita, the f
 
 # Orthogonal publication:
 
-`Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text, and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
+`Arjun Uvaach` isn't a periodic publication. We don't have new articles every week - or on monthly basis. Instead, a new version of existing articles is published. An iterative approach to refine the text, and the insights therein. I call this approach "Orthogonal Publishing". The idea is to revisit articles as many times as possible to see if there are new insights. Repeat the process many times so that articles start relating to each other and finally take the shape of a well-formed book. The side hustle is to capture the changes in a git repository -  to visualize the conversion of information into knowledge.
 
 A summary of weekly changes are listed in the [changeLog](./changeLog.md) every week.
 
@@ -13,7 +13,8 @@ A summary of weekly changes are listed in the [changeLog](./changeLog.md) every 
 
 - cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right. 
 - search the publication using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
-- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>. On mobile devices, the angles show up at the bottom of page.
+- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>. 
+- On mobile devices, the angles show up at the bottom of page.
 - you can also navigate with left and right arrows on keyboard.
 - The theme selection (brush icon) is currently disabled.
 

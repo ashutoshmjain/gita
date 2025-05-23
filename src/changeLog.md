@@ -9,6 +9,14 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
+## May 23, 25
+
+  - [Navigation and About](./how.md) - major edits
+  - [Bhagvad Gita](./bhagvadGitaLanding.md) - major edits
+      - [Essays](./0.0_about.md) 
+          - [Architecture](./divineArchitecture.md) - added a new essay based on core ideas of chapter 7 and 8. The podcast episode for chapter 8 is still in the works. Meanwhile, I needed to write this down to get clarity as to what exactly is Gita's cosmology.  Writing 5000 words in a week isn't humanly possible. So took iterative help from Gemini to structure the content and Grammar etc.
+
+
 ## May 16, 25
 
   - [Bhagvad Gita](./bhagvadGitaLanding.md) - major edits

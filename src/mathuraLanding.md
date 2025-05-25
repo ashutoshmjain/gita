@@ -27,6 +27,11 @@
 </div>
 </div>
 
+The cover picture is based on a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
+
+> One who has all the answers doesn't know of any question!
+
+
 ---
 
 ## prompt …

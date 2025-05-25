@@ -30,9 +30,9 @@ The first section is AI generated podcast on Bhagvad Gita. I use Google's notebo
 
 Having translated a chapter source Sanskrit, I request AI to convert the verses into the best possible English poetry - to match the theme. For some chapter Odes are best fit. Others excel with Sonnets. And most go well with hymns. Gita is epitome of Sanskrit poetry. Thus converting it back into poetic form seems apt. Besides poetry is the best form we humans retain the message. 
 
-Once I have the poetry that passes minimum standard, the next part is to run the audio. NotebookLM provides audio overviews which are pretty good but often stray away from instructions :-) .. I guess AI is still in its adolescence. Which makes me run multiple audio rendering, each time improving the prompts, but it is not an exact science. Which obviously leaves me with extensive Audio editing work. That is where I apply my own discretion. Thanks to work of Sri Prabhupada of Hare Krishna , Gurudev Sri Angananabda Ji Maharaj  and countless more who found firm faith in Gita, my research goes on for weeks for every chapter. And that is my own self-discovery.
+Once I have the poetry that passes minimum standard, the next part is to run the audio. NotebookLM provides audio overviews which are pretty good but often stray away from instructions. I guess AI is still in its adolescence :-). Which makes me run multiple audio rendering, each time improving the prompts, but it is not an exact science. Which obviously leaves me with extensive Audio editing work. That is where I apply my own discretion. Thanks to work of Sri Prabhupada of Hare Krishna, Gurudev Sri Angananabda Ji Maharaj  and countless more who found firm faith in Gita, my research goes on for weeks for every chapter. And that is my own "self-discovery" too.
 
-On path of discovery, I found writing the core concepts in my own language very useful. That led to number of essays. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science. I would encourage serious listeners (of podcast) to write their understanding in their own words. Writing and revisiting the content, on daily basis, is the best way to train our intelligence - `Smriti`. Krishna says a `Gyaani` (Knower) is best predisposed to adapt `Yoga`.
+On the path of discovery, I found writing the core concepts in my own language very useful. That led to number of essays. They may be useful to readers who are predisposed to see `Gita` in prevailing rationale of popular science. I would encourage serious listeners (of podcast) to write their understanding in their own words. Writing and revisiting the content, on daily basis, is the best way to train our intelligence - `Smriti`. Krishna says a `Gyaani` (Knower) is best predisposed to adapt to `Yoga`.
 
 
 ## Mathura (work in progress)
@@ -93,14 +93,6 @@ The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A gold
 
 The favicon[^favi] for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
-
-## Cover photo
-
-The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
-
-In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
-
-> One who has all the answers doesn't know of any question!
 
 ## Licence
 

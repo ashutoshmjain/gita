@@ -32,8 +32,6 @@ The cover picture is based on a pencil sketch of `Ganesa` by [Madan Maholvi](htt
 > One who has all the answers doesn't know of any question!
 
 
----
-
 ## prompt …
 
 Mathura was the anchor city in human edification. It had a vibrant tradition of inquiry and logic - that made it central to pre-Vaidik culture.

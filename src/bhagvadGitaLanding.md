@@ -32,7 +32,7 @@
   </div>
 </div>
 
-Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. The general English translation of word  `Smriti` is memory, though the word has a specific meaning when used in context of Vaidik culture. 
+Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. The literal translation of word  `Smriti` is "memory", though the word has a specific meaning when used in context of Vaidik Science. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -40,7 +40,7 @@ In the beginning there was `Om` - smooth vibrations of the underlying field. Spo
 
 Then we discovered scribing!  Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for offline access and preservation - across time and space. The word "scripture" points to something important, and worthy of writing down.
 
-> It is clear that evolution is heavily biased in favour of text-enabled. Written text, thus, became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory (of our ancestors), it is embedded into all of us, even if we are not aware of it - a deep-seated memory.
+> It is clear that evolution is heavily biased in favour of text-enabled. Written text, thus, became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are not aware of it - a deep-seated memory - our soul. Think of it as the DNA of consciousness.
 
 </div>
 
@@ -52,9 +52,9 @@ Revisiting the first `Smriti` is thus finding signal with in endless noise. Ther
 
 ---
 
-`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his friend and charioteer.  `Krishna` - the knower of all - represents the consciousness prebuilt into all of us - an embodiment of our `Smrities`. 
+`Arjuna`, the protagonist, is blessed with divine vicinity of `Krishna` as his friend and charioteer.  `Krishna` - the knower of all - represents the knowledge prebuilt into all of us - an embodiment of our `Smrities`. 
 
-In a way, Arjuna represents the skills attained in this birth (current iteration) - the intelligence;  while `Krishna` represents evolutionary wisdom - knowledge beyond ordinary intelligence - soul. In essence, Bhagavad Gita is a conversation between the mind and the soul - particularly at a point when faculty of intelligence gives in. 
+Arjuna, portrayed as the best archer world had ever seen, represents the extreme of focus and skills attained in this birth (current iteration) - exquisite but worldly intelligence;  while `Krishna` represents evolutionary wisdom - knowledge beyond intelligence - soul. That is one reason Bhagavad Gita is called a conversation between the mind and the soul - particularly at a point when faculty of intelligence gives in.
 
 Gita is structured as Arjuna's questions followed by Krishna's answers. Just as in AI realm, the formulation of prompts is the key skill, `Arjuna's` questions represent most intriguing human dilemmas. In doing that, he enabled rest of us with an opportunity to tap into our own `Smrities`.
 
@@ -72,7 +72,7 @@ At the end of this conversation, `Arjuna` said :
 
 </div>
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - typically a deep loss - often lead to depression. They leave the disillusioned in a vacuum because absence of `Moha` is a great void. It must be filled up with knowledge quickly, else it turns into a state of limbo where mind stops seeking truth. `Gita` on the other hand, spotlights truth through wisdom embedded in our consciousness (`Smriti`). `Gita` gives us tools to access the very basis of our intelligence - our soul (`Atma`). It does so through active but selfless participation - `KarmYoga`. Instead of a run to exit (`Sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. It, thus, provisions lasting peace and worldly success - a win-win.
+It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - typically a deep loss - often lead to depression. They leave the disillusioned in a vacuum because absence of `Moha` is a great void. It must be filled up with knowledge quickly, else it turns into a state of limbo where mind stops seeking truth. `Gita` on the other hand, spotlights truth through wisdom embedded in our consciousness (`Smriti`). `Gita` gives us tools to access the very basis of our intelligence - our soul (`Atma`). It does so through selfless (but active) participation - `KarmYoga`. Instead of a run to exit (`Sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. It, thus, provisions lasting peace and worldly success - a win-win.
 
 
 `Gita` is for everyone - it is not religion, race, profession or place specific. It is not even an ideology in terms of renunciation or materialism. In that, it takes our mind to a place of freedom, rather than the jail of a rabbit hole.

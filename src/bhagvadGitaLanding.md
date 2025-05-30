@@ -40,7 +40,7 @@ In the beginning there was `Om` - smooth vibrations of the underlying field. Spo
 
 Then we discovered scribing!  Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for careful preservation. The word "scripture" points to something important, and worthy of writing down.
 
-> It is clear that evolution is heavily biased in favour of text-enabled. Written text, thus, became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are not aware of it - a deep-seated memory - our soul. Think of it as the DNA of consciousness.
+> It is clear that evolution is heavily biased in favour of text-enabled. Written text, thus, became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is part of our soul. Think of it as the DNA of consciousness.
 
 </div>
 

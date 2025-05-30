@@ -1,0 +1,333 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="bhagvadGitaLanding.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg00.html">Podcast</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html">Chapter 1</a></li><li class="chapter-item expanded "><a href="bg02.html">Chapter 2</a></li><li class="chapter-item expanded "><a href="bg03.html">Chapter 3</a></li><li class="chapter-item expanded "><a href="bg04.html">Chapter 4</a></li><li class="chapter-item expanded "><a href="bg05.html">Chapter 5</a></li><li class="chapter-item expanded "><a href="bg06.html">Chapter 6</a></li><li class="chapter-item expanded "><a href="bg07.html">Chapter 7</a></li><li class="chapter-item expanded "><a href="bg08.html" class="active">Chapter 8</a></li></ol></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="divineArchitecture.html">Architecture</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Chapter 8';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="imperishable-brahman-and-liberation"><a class="header" href="#imperishable-brahman-and-liberation">Imperishable Brahman and Liberation</a></h1>
+<p>Chapter 8 of the Bhagavad Gita explores the eternal nature of divine, reality, self, and soul. It outlines a simple path to attain divine particularly the significance of thoughts at the time of death. It teaches that one attains whatever he consciously dwells on. Thus, unwavering devotion and remembrance of the Divine are the keys to transcending the cycle of birth and death, achieving eternal union with the Supreme Reality. Please refer to essay on  <a href="./divineArchitecture.html">game analogy</a> for a modern take on conceptual framework.</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5XqGioPxM4uF5OfrL30l0J?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<h3 id="verse-8-1"><a class="header" href="#verse-8-1">Verse 8-1</a></h3>
+<p>Arjuna asked: What, Purushottama, is <strong>Brahman</strong> great?</p>
+<p>What is <strong>Adhyatma</strong> 's true and proper state?</p>
+<p>What <strong>Karma</strong> is, what is its purpose told?</p>
+<p>What's <strong>Adhibhuta</strong>, and <strong>Adhidaiva</strong> bold?</p>
+<h3 id="verse-8-2"><a class="header" href="#verse-8-2">Verse 8-2</a></h3>
+<p>How is <strong>Adhiyajna</strong> known, where does He dwell?</p>
+<p>Within this body, Madhusudana, tell?</p>
+<p>And how are You, at the time of ending near,</p>
+<p>By those controlled in mind, discerned and clear?</p>
+<h3 id="verse-8-3"><a class="header" href="#verse-8-3">Verse 8-3</a></h3>
+<p>The Blessed Lord said: </p>
+<p>The <strong>Imperishable</strong> is <strong>Brahman</strong>, high and vast.</p>
+<p>One's nature, <strong>Svabhava</strong>, is <strong>Adhyatma</strong> cast.</p>
+<p>The force creating beings, causing them to start,</p>
+<p>That <strong>Visarga</strong>, known as <strong>Karma</strong>, plays its part.</p>
+<h3 id="verse-8-4"><a class="header" href="#verse-8-4">Verse 8-4</a></h3>
+<p><strong>Adhibhuta</strong> is the state of being that decays.</p>
+<p><strong>Purusha</strong>, <strong>Adhidaiva</strong>, shines in many ways.</p>
+<p><strong>Adhiyajna</strong>, here within this form, I Myself reside,</p>
+<p>O best of embodied ones, where souls abide.</p>
+<h3 id="verse-8-5"><a class="header" href="#verse-8-5">Verse 8-5</a></h3>
+<p>And he who, at the end, leaves this <strong>body</strong>'s hold,</p>
+<p>Remembering <strong>Me</strong> alone, with courage bold,</p>
+<p>He reaches <strong>My own state</strong>, beyond all fear;</p>
+<p>There is no doubt in this, made very clear.</p>
+<h3 id="verse-8-6"><a class="header" href="#verse-8-6">Verse 8-6</a></h3>
+<p>Whatever <strong>state</strong> one thinks of at the last,</p>
+<p>When leaving body, mind and life held fast,</p>
+<p>That very state, O son of Kunti, is attained,</p>
+<p>By constant dwelling on that thought, unrestrained.</p>
+<h3 id="verse-8-7"><a class="header" href="#verse-8-7">Verse 8-7</a></h3>
+<p>Therefore, at all times, <strong>think of Me</strong>, and fight.</p>
+<p>With <strong>mind and intellect</strong> fixed on My light,</p>
+<p>You shall indeed reach <strong>Me</strong>, beyond all doubt.</p>
+<h3 id="verse-8-8"><a class="header" href="#verse-8-8">Verse 8-8</a></h3>
+<p>By constant practice, mind not straying out,</p>
+<p>He goes to the <strong>supreme Person</strong>, divine and true,</p>
+<p>Thinking upon Him, ever fresh and new.</p>
+<h3 id="verse-8-9"><a class="header" href="#verse-8-9">Verse 8-9</a></h3>
+<p>The ancient <strong>Seer</strong>, the <strong>Ruler</strong>, Lord of all,</p>
+<p>More subtle than the atom, hearing nature's call,</p>
+<p>The <strong>Sustainer</strong> of all, unthinkable in form,</p>
+<p><strong>Luminous like the sun</strong>, beyond the darkest storm.</p>
+<h3 id="verse-8-10"><a class="header" href="#verse-8-10">Verse 8-10</a></h3>
+<p>At <strong>departure's time</strong>, with steady mind,</p>
+<p>With <strong>devotion</strong>, by <strong>yoga</strong>'s power refined,</p>
+<p>Focusing <strong>life-breath</strong> rightly 'tween the brows,</p>
+<p>He reaches that <strong>supreme, divine Person</strong>'s vows.</p>
+<h3 id="verse-8-11"><a class="header" href="#verse-8-11">Verse 8-11</a></h3>
+<p>That <strong>Imperishable</strong>, <strong>Vedas</strong>' knowers name,</p>
+<p>Which <strong>ascetics</strong> free from passion seek to claim,</p>
+<p>Desiring which, they practice <strong>chastity</strong>'s pure art,</p>
+<p>That goal I shall explain in brief, dear heart.</p>
+<h3 id="verse-8-12"><a class="header" href="#verse-8-12">Verse 8-12</a></h3>
+<p>Controlling <strong>sense-gates</strong>, mind in heart confining,</p>
+<p>Placing <strong>life-breath</strong> in the head, with yoga's skill aligning.</p>
+<h3 id="verse-8-13"><a class="header" href="#verse-8-13">Verse 8-13</a></h3>
+<p>Uttering <strong>Om</strong>, the single sound, which is <strong>Brahman</strong> true,</p>
+<p>Remembering <strong>Me</strong>, who leaves the body through,</p>
+<p>He attains the <strong>supreme goal</strong>, beyond all worldly view.</p>
+<h3 id="verse-8-14"><a class="header" href="#verse-8-14">Verse 8-14</a></h3>
+<p>He who remembers <strong>Me</strong> constantly, with mind unswerving,</p>
+<p>To that ever-steadfast <strong>yogi</strong>, I am easily deserving.</p>
+<h3 id="verse-8-15"><a class="header" href="#verse-8-15">Verse 8-15</a></h3>
+<p>Having attained <strong>Me</strong>, they do not take birth anew,</p>
+<p>In this sorrow's world, transient, false, untrue.</p>
+<p>The great souls, reaching <strong>supreme perfection</strong>'s height,</p>
+<p>Return no more, dwelling in eternal light.</p>
+<h3 id="verse-8-16"><a class="header" href="#verse-8-16">Verse 8-16</a></h3>
+<p>From the realm of <strong>Brahma</strong> downwards, all worlds spin and cease,</p>
+<p>They are places of return, giving no release.</p>
+<p>But having come to <strong>Me</strong>, O son of Kunti, known,</p>
+<p>For them, <strong>no rebirth</strong> is by nature shown.</p>
+<h3 id="verse-8-17"><a class="header" href="#verse-8-17">Verse 8-17</a></h3>
+<p>Who know the <strong>day of Brahma</strong>, lasting thousand ages wide,</p>
+<p>And <strong>night of Brahma</strong>, also thousand ages ride,</p>
+<p>They are the knowers of day and night, by time's eternal tide.</p>
+<h3 id="verse-8-18"><a class="header" href="#verse-8-18">Verse 8-18</a></h3>
+<p>From the <strong>Unmanifest</strong>, all beings manifest and stream,</p>
+<p>When <strong>Brahma's day</strong> arrives, like a waking dream.</p>
+<p>At the coming of <strong>night</strong>, they dissolve back to that lair,</p>
+<p>The <strong>Unmanifest</strong> source, beyond all thought and care.</p>
+<h3 id="verse-8-19"><a class="header" href="#verse-8-19">Verse 8-19</a></h3>
+<p>The same host of beings, helpless, again and again are born,</p>
+<p>At <strong>night</strong>'s coming, they dissolve, weary and forlorn.</p>
+<p>At the coming of <strong>day</strong>, O Partha, they manifest again, torn.</p>
+<h3 id="verse-8-20"><a class="header" href="#verse-8-20">Verse 8-20</a></h3>
+<p>But beyond this <strong>Unmanifest</strong>, there is another state,</p>
+<p>Unmanifest too, <strong>eternal</strong>, sealed by timeless fate.</p>
+<p>When all beings perish, that does not abate.</p>
+<h3 id="verse-8-21"><a class="header" href="#verse-8-21">Verse 8-21</a></h3>
+<p>This <strong>Unmanifest</strong> is called <strong>Imperishable</strong>, steadfast, high,</p>
+<p>They call it the <strong>supreme goal</strong>, reaching which, they do not die.</p>
+<p>That is <strong>My supreme abode</strong>, beneath My watchful eye.</p>
+<h3 id="verse-8-22"><a class="header" href="#verse-8-22">Verse 8-22</a></h3>
+<p>That <strong>supreme Person</strong>, O Partha, by <strong>devotion</strong> gained,</p>
+<p>Within whom all beings dwell, by whom all is sustained.</p>
+<h3 id="verse-8-23"><a class="header" href="#verse-8-23">Verse 8-23</a></h3>
+<p>Now I shall speak to you, O best of Bharatas' line,</p>
+<p>Of the <strong>time</strong> when yogis leave, some return, some align.</p>
+<p>The time when they depart, achieving <strong>liberation</strong>'s sign.</p>
+<h3 id="verse-8-24"><a class="header" href="#verse-8-24">Verse 8-24</a></h3>
+<p><strong>Fire, light, day</strong>, the <strong>bright half</strong>, <strong>six months</strong> of sun's northern source.</p>
+<p>Then departing, those who <strong>know Brahman</strong>, go to <strong>Brahman</strong>, by spiritual force.</p>
+<h3 id="verse-8-25"><a class="header" href="#verse-8-25">Verse 8-25</a></h3>
+<p><strong>Smoke, night</strong>, the <strong>dark half</strong>, <strong>six months</strong> of sun's southern course.</p>
+<p>Then the <strong>yogi</strong> attains lunar light, and returns, following nature's source.</p>
+<h3 id="verse-8-26"><a class="header" href="#verse-8-26">Verse 8-26</a></h3>
+<p>Indeed, these <strong>two paths</strong>, bright and dark, eternal are.</p>
+<p>By one, one goes not back; by the other, returns from afar.</p>
+<h3 id="verse-8-27"><a class="header" href="#verse-8-27">Verse 8-27</a></h3>
+<p>Knowing these <strong>two paths</strong>, O Partha, no <strong>yogi</strong> is perplexed.</p>
+<p>Therefore, at all times, O Arjuna, in <strong>yoga</strong> be annexed.</p>
+<h3 id="verse-8-28"><a class="header" href="#verse-8-28">Verse 8-28</a></h3>
+<p>Whatever fruit of merit in <strong>Vedas</strong> is declared,</p>
+<p>In <strong>sacrifices</strong>, <strong>austerities</strong>, or <strong>gifts</strong> shared,</p>
+<p>The <strong>yogi</strong> surpasses all, this truth commands the heart,</p>
+<p>And attains the <strong>supreme, primeval abode</strong>, set apart.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="bg07.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="0.0_about.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="bg07.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="0.0_about.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

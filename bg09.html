@@ -1,0 +1,750 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="bhagvadGitaLanding.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg00.html">Podcast</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html">Chapter 1</a></li><li class="chapter-item expanded "><a href="bg02.html">Chapter 2</a></li><li class="chapter-item expanded "><a href="bg03.html">Chapter 3</a></li><li class="chapter-item expanded "><a href="bg04.html">Chapter 4</a></li><li class="chapter-item expanded "><a href="bg05.html">Chapter 5</a></li><li class="chapter-item expanded "><a href="bg06.html">Chapter 6</a></li><li class="chapter-item expanded "><a href="bg07.html">Chapter 7</a></li><li class="chapter-item expanded "><a href="bg08.html">Chapter 8</a></li><li class="chapter-item expanded "><a href="bg09.html" class="active">Chapter 9</a></li></ol></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="divineArchitecture.html">Architecture</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Chapter 9';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="king-of-sciences--the-royal-secret"><a class="header" href="#king-of-sciences--the-royal-secret">King of Sciences,  The Royal Secret</a></h1>
+<p>This ode explores the &quot;King of Sciences.  The Royal Secret&quot; (Rajavidya Rajaguhya Yoga)  - chapter 9 of Bhagavad Gita. It  highlights knowing this most secret knowledge frees one from evil and leads to spiritual light. It emphasizes that faith in this true path is mandatory for liberation from the cycle of birth and death (samsara).</p>
+<div style="padding-left:40px;font-size:0.9em;"> 
+<h2 id="verse-9-1--9-2"><a class="header" href="#verse-9-1--9-2">Verse 9-1 &amp; 9-2</a></h2>
+<p>O Thou.</p>
+<p>Blessed Lord.</p>
+<p>whose words profound.</p>
+<p>To one without envy.</p>
+<p>truth is found.</p>
+<p>Thou speakest now this most secret knowledge.</p>
+<p>deep and wide.</p>
+<p>With wisdom joined.</p>
+<p>where insights true preside.</p>
+<p>By knowing this.</p>
+<p>through vision clear and bright.</p>
+<p>From every evil freed.</p>
+<p>we rise to light.</p>
+<p>This royal knowledge.</p>
+<p>pure.</p>
+<p>a king of sciences reigns.</p>
+<p>The royal secret.</p>
+<p>breaking earthly chains.</p>
+<p>Of purifiers.</p>
+<p>supreme it stands apart.</p>
+<p>Directly seen.</p>
+<p>it purifies the heart.</p>
+<p>Righteous and very easy in performance.</p>
+<p>free from strife.</p>
+<p>And imperishable.</p>
+<p>granting endless life.</p>
+<hr />
+<h2 id="verse-9-3"><a class="header" href="#verse-9-3">Verse 9-3</a></h2>
+<p>Yet souls without faith in this true path.</p>
+<p>alas.</p>
+<p>they stray.</p>
+<p>O vanquisher of foes.</p>
+<p>they turn away.</p>
+<p>They fail to reach Thee.</p>
+<p>their quest finds no release.</p>
+<p>And to the path of death.</p>
+<p>samsara.</p>
+<p>return.</p>
+<p>finding no peace.</p>
+<p>Thus.</p>
+<p>faith is mandatory.</p>
+<p>the commentary shows.</p>
+<p>Without it.</p>
+<p>wandering in the world.</p>
+<p>the lost soul goes.</p>
+<hr />
+<h2 id="verse-9-4"><a class="header" href="#verse-9-4">Verse 9-4</a></h2>
+<p>By Thee.</p>
+<p>in unmanifest form.</p>
+<p>all space is spanned.</p>
+<p>This universe entire [this VR].</p>
+<p>pervaded by Thy hand.</p>
+<p>All beings in Thy essence find their ground.</p>
+<p>But Thou art not contained in them.</p>
+<p>though all around.</p>
+<hr />
+<h2 id="verse-9-5"><a class="header" href="#verse-9-5">Verse 9-5</a></h2>
+<p>Nor yet in Thee do mortal beings truly rest.</p>
+<p>Behold Thy Yoga.</p>
+<p>divine and ever blest!</p>
+<p>Thou art the sustainer.</p>
+<p>bearing life's vast scope.</p>
+<p>Yet dwell not in them; Thy Self.</p>
+<p>their only hope.</p>
+<p>My Self.</p>
+<p>which creates and nourishes the soul.</p>
+<p>Is not within the being; that's My control.</p>
+<p>This is the effect of Yoga.</p>
+<p>a power seen.</p>
+<hr />
+<h2 id="verse-9-6"><a class="header" href="#verse-9-6">Verse 9-6</a></h2>
+<p>As the great wind.</p>
+<p>that moves throughout the air.</p>
+<p>Though born of space.</p>
+<p>doth constantly dwell there.</p>
+<p>Yet cannot pollute it.</p>
+<p>leaves no staining trace.</p>
+<p>So.</p>
+<p>understand.</p>
+<p>all beings in My space.</p>
+<p>Are situated within Me.</p>
+<p>in My boundless scope.</p>
+<p>Unstained am I.</p>
+<p>upholding all their hope.</p>
+<hr />
+<h2 id="verse-9-7"><a class="header" href="#verse-9-7">Verse 9-7</a></h2>
+<p>When cycles end.</p>
+<p>O Kunti's valiant son.</p>
+<p>All beings to My nature.</p>
+<p>My essence.</p>
+<p>turn.</p>
+<p>as one.</p>
+<p>When cycles dawn.</p>
+<p>again they rise to view.</p>
+<p>From My own being.</p>
+<p>I send them forth anew.</p>
+<p>specifically.</p>
+<hr />
+<h2 id="verse-9-8"><a class="header" href="#verse-9-8">Verse 9-8</a></h2>
+<p>Upon My nature's power.</p>
+<p>I take My stand.</p>
+<p>And issue forth again.</p>
+<p>by My command.</p>
+<p>This host of beings.</p>
+<p>bound by nature's chain.</p>
+<p>Helpless.</p>
+<p>beneath Prakriti's rule.</p>
+<p>constrained.</p>
+<p>The qualities of Prakriti compel their state.</p>
+<p>I bid them forward to My Self.</p>
+<p>I thus create.</p>
+<hr />
+<h2 id="verse-9-9"><a class="header" href="#verse-9-9">Verse 9-9</a></h2>
+<p>These actions vast.</p>
+<p>in ways unseen performed....</p>
+<p>Bind not My soul.</p>
+<p>My spirit is unstormed.</p>
+<p>As one indifferent.</p>
+<p>seated.</p>
+<p>I remain.</p>
+<p>Unchained by actions.</p>
+<p>free from stress and strain.</p>
+<p>Established in the goal.</p>
+<p>in that result serene.</p>
+<p>I am not compelled to act.</p>
+<p>on action's busy scene.</p>
+<hr />
+<h2 id="verse-9-10"><a class="header" href="#verse-9-10">Verse 9-10</a></h2>
+<p>By My dominion.</p>
+<p>under My supervision's eye.</p>
+<p>Prakriti gives birth to moving and things that lie;</p>
+<p>The three-fold qualities.</p>
+<p>the fundamental eight.</p>
+<p>Creating all.</p>
+<p>this universal state.</p>
+<p>Through this.</p>
+<p>the cause.</p>
+<p>O Kunti's son.</p>
+<p>behold.</p>
+<p>The universe revolves.</p>
+<p>in cycles manifold.</p>
+<p>This world revolves in samsara's turning wheel.</p>
+<hr />
+<h2 id="verse-9-11"><a class="header" href="#verse-9-11">Verse 9-11</a></h2>
+<p>The foolish disregard Me.</p>
+<p>they do slight.</p>
+<p>When in a human form.</p>
+<p>I shine forth bright;</p>
+<p>Unknowing My higher nature.</p>
+<p>true and grand.</p>
+<p>The great Lord of all beings.</p>
+<p>in every land.</p>
+<p>They consider Me based on the body.</p>
+<p>human.</p>
+<p>low.</p>
+<p>They judge Me as a man.</p>
+<p>this truth they do not know.</p>
+<p>I am in that supreme state.</p>
+<hr />
+<h2 id="verse-9-12"><a class="header" href="#verse-9-12">Verse 9-12</a></h2>
+<p>Their hopes are vain.</p>
+<p>that never shall fulfil;</p>
+<p>Their actions fruitless.</p>
+<p>bringing bondage still;</p>
+<p>Their knowledge empty.</p>
+<p>ignorance profound;</p>
+<p>They are senseless souls.</p>
+<p>on devilish nature's ground.</p>
+<p>Deluded by demoniac traits.</p>
+<p>like rakshasas.</p>
+<p>Inclined towards that nature.</p>
+<p>their darkened fate.</p>
+<hr />
+<h2 id="verse-9-13"><a class="header" href="#verse-9-13">Verse 9-13</a></h2>
+<p>But the great souls.</p>
+<p>O Pritha's son.</p>
+<p>embrace.</p>
+<p>The divine nature.</p>
+<p>finding in Thee their place.</p>
+<p>Having taken refuge in qualities divine.</p>
+<p>They worship Thee with minds that will not stray.</p>
+<p>Knowing Thee as the imperishable source of beings.</p>
+<p>the only way.</p>
+<p>Without place for another.</p>
+<p>faith in Thee alone.</p>
+<p>They worship Thee constantly.</p>
+<p>their single goal is known.</p>
+<hr />
+<h2 id="verse-9-14"><a class="header" href="#verse-9-14">Verse 9-14</a></h2>
+<p>Always Thy glories they with voices tell...;</p>
+<p>With firm resolve.</p>
+<p>they strive.</p>
+<p>attainment's prize to spell.</p>
+<p>Before Thee they prostrate.</p>
+<p>with pure devotion's might;</p>
+<p>And ever steadfastly engaged.</p>
+<p>they worship in Thy light.</p>
+<p>Remaining unwavering in constant thought.</p>
+<p>they seek Thy face.</p>
+<p>They are continuously engaged.</p>
+<p>in constant worship's grace.</p>
+<hr />
+<h2 id="verse-9-15"><a class="header" href="#verse-9-15">Verse 9-15</a></h2>
+<p>And others still.</p>
+<p>by knowledge-sacrifice profound.</p>
+<p>Worship Thee.</p>
+<p>the One.</p>
+<p>in countless forms that rise around.</p>
+<p>As separate.</p>
+<p>as manifold.</p>
+<p>and everywhere.</p>
+<p>Thy face is turned (Vishvatomukham).</p>
+<p>Thy presence they share.</p>
+<p>Some seek oneness.</p>
+<p>union with the Divine.</p>
+<p>Some with non-attached service.</p>
+<p>offerings they align.</p>
+<hr />
+<h2 id="verse-9-16"><a class="header" href="#verse-9-16">Verse 9-16</a></h2>
+<p>I am the ritual.</p>
+<p>I am the sacrifice;</p>
+<p>The offering to fathers (svadha).</p>
+<p>beyond all price.</p>
+<p>The medicinal herb.</p>
+<p>that cures transmigration's plight.</p>
+<p>The mantra's mystic sound.</p>
+<p>restraining mind in light.</p>
+<p>The butter (ajya).</p>
+<p>increasing effort's fire.</p>
+<p>I am the fire.</p>
+<p>where mental tendencies retire.</p>
+<p>And the oblation offered.</p>
+<p>Hutam.</p>
+<p>surrender is Thy call.</p>
+<p>The Doer.</p>
+<p>the Inspirer.</p>
+<p>the Gift received by all.</p>
+<hr />
+<h2 id="verse-9-17"><a class="header" href="#verse-9-17">Verse 9-17</a></h2>
+<p>Of this vast world.</p>
+<p>the father that doth nourish.</p>
+<p>The mother.</p>
+<p>creating life.</p>
+<p>where all things flourish.</p>
+<p>The supporter (Dhata).</p>
+<p>sustaining all that be.</p>
+<p>The grandfather.</p>
+<p>the source.</p>
+<p>where all things enter Thee.</p>
+<p>The knowable.</p>
+<p>the pure.</p>
+<p>the mystic Om's decree.</p>
+<p>Thy form is Paramatma.</p>
+<p>the 'I am'.</p>
+<p>Sohham.</p>
+<p>Tat Tvam Asi.</p>
+<p>The Rig.</p>
+<p>the Sama.</p>
+<p>and the Yajur Vedas.</p>
+<p>all are Thee.</p>
+<p>All prayers.</p>
+<p>the process bringing sameness (samattva).</p>
+<p>The special method.</p>
+<p>rites originating from Thy name.</p>
+<hr />
+<h2 id="verse-9-18"><a class="header" href="#verse-9-18">Verse 9-18</a></h2>
+<p>Thou art the goal.</p>
+<p>the sustainer strong and true;</p>
+<p>The lord.</p>
+<p>the witness.</p>
+<p>the abode for me and you.</p>
+<p>The refuge sought.</p>
+<p>the friend.</p>
+<p>without a cause's end;</p>
+<p>The origin.</p>
+<p>dissolution.</p>
+<p>where impressions tend.</p>
+<p>The foundation (Sthanam).</p>
+<p>the storehouse (Nidhanam).</p>
+<p>And the imperishable seed (Bijam Avyayam).</p>
+<p>My friend. The supreme state.</p>
+<p>attained.</p>
+<p>the knower ever near.</p>
+<p>All glories entered finally.</p>
+<p>in Thee appear.</p>
+<hr />
+<h2 id="verse-9-19"><a class="header" href="#verse-9-19">Verse 9-19</a></h2>
+<p>Thou givest heat.</p>
+<p>as the sun.</p>
+<p>the light supreme;</p>
+<p>Thou hold'st and send'st the rain.</p>
+<p>redemption's stream.</p>
+<p>Immortality am I.</p>
+<p>and death's domain.</p>
+<p>And Being (sat) am I.</p>
+<p>and Non-being (asat) too.</p>
+<p>the gain and pain.</p>
+<p>From Thee all things pursue.</p>
+<p>Though some see non-being.</p>
+<p>They attain death.</p>
+<p>reborn.</p>
+<p>this cycle seeing.</p>
+<hr />
+<h2 id="verse-9-20"><a class="header" href="#verse-9-20">Verse 9-20</a></h2>
+<p>Who follow Vedas three.</p>
+<p>and soma drink.</p>
+<p>made pure.</p>
+<p>Worshipping Thee.</p>
+<p>on heavens they think.</p>
+<p>their path secure.</p>
+<p>Praying for heaven's way; reaching Indra's bright display.</p>
+<p>They taste divine enjoyments.</p>
+<p>day by day.</p>
+<p>They worship Thee.</p>
+<p>by rites correctly bound.</p>
+<p>Yet pray for transient joys.</p>
+<p>on temporal ground.</p>
+<p>This is desire for the transient (asat).</p>
+<p>causing death.</p>
+<hr />
+<h2 id="verse-9-21"><a class="header" href="#verse-9-21">Verse 9-21</a></h2>
+<p>That ample heavenly world.</p>
+<p>once fully known.</p>
+<p>When merit fails.</p>
+<p>to mortal realms they're thrown.</p>
+<p>Thus.</p>
+<p>those who tread the ritualistic way.</p>
+<p>Desiring pleasure.</p>
+<p>come and go.</p>
+<p>they stray.</p>
+<p>Desire leads to rebirth.</p>
+<p>the turning wheel.</p>
+<p>No kind of wish should soul devoted feel.</p>
+<hr />
+<h2 id="verse-9-22"><a class="header" href="#verse-9-22">Verse 9-22</a></h2>
+<p>But those who worship Thee.</p>
+<p>their minds on Thee alone.</p>
+<p>Meditating.</p>
+<p>with devotion solely shown;</p>
+<p>With single mind.</p>
+<p>their spirits unified.</p>
+<p>For them.</p>
+<p>Thy constant devotees.</p>
+<p>Thou shalt provide.</p>
+<p>Thou carr'st what they lack.</p>
+<p>and keep'st what they have tried.</p>
+<p>Their acquisition (yoga) and security (kshema).</p>
+<p>Thou dost maintain.</p>
+<p>Thou take'st entire responsibility.</p>
+<p>in pleasure and in pain.</p>
+<p>They worship meticulously.</p>
+<p>with undivided heart.</p>
+<hr />
+<h2 id="verse-9-23"><a class="header" href="#verse-9-23">Verse 9-23</a></h2>
+<p>Even those who seek other deities' might.</p>
+<p>And worship them with faith.</p>
+<p>in their own light.</p>
+<p>They also worship Thee.</p>
+<p>O Kunti's son.</p>
+<p>hear.</p>
+<p>Though in a manner not prescribed.</p>
+<p>it is clear.</p>
+<p>Their worship lacks the method to attain Thee.</p>
+<hr />
+<h2 id="verse-9-24"><a class="header" href="#verse-9-24">Verse 9-24</a></h2>
+<p>For I am the Enjoyer.</p>
+<p>Lord of every rite;</p>
+<p>The one into whom sacrifices dissolve.</p>
+<p>in purest light;</p>
+<p>What is obtained by sacrifice is Me.</p>
+<p>But they know Me not in reality.</p>
+<p>My essence high.</p>
+<p>And therefore fall (chyavanti).</p>
+<p>beneath the transient sky.</p>
+<p>They fall due to desire.</p>
+<p>until they truly know.</p>
+<hr />
+<h2 id="verse-9-25"><a class="header" href="#verse-9-25">Verse 9-25</a></h2>
+<p>To gods go those who worship gods with zeal;</p>
+<p>To ancestors the ones who reverence feel;</p>
+<p>To spirits those who spirits do revere;</p>
+<p>But those who worship Me.</p>
+<p>to Me draw near.</p>
+<p>They become My direct form.</p>
+<p>they do not fall.</p>
+<hr />
+<h2 id="verse-9-26"><a class="header" href="#verse-9-26">Verse 9-26</a></h2>
+<p>If one with pure devotion offers Me.</p>
+<p>A leaf.</p>
+<p>a flower.</p>
+<p>a fruit.</p>
+<p>or water.</p>
+<p>from the sea.</p>
+<p>That offering from the devoted soul.</p>
+<p>Striving with pure mind.</p>
+<p>it makes the spirit whole.</p>
+<p>That I accept.</p>
+<p>the commentary makes known.</p>
+<p>Devotion's start is here.</p>
+<p>in offerings low.</p>
+<hr />
+<h2 id="verse-9-27"><a class="header" href="#verse-9-27">Verse 9-27</a></h2>
+<p>Whatever thou dost.</p>
+<p>action real and true;</p>
+<p>Whatever thou dost eat.</p>
+<p>in all that thou dost do;</p>
+<p>Whatever sacrifice for truth's pure sake.</p>
+<p>meaning surrender;</p>
+<p>Whatever gift thou givest.</p>
+<p>charity to share;</p>
+<p>And every austerity thou practice.</p>
+<p>with mind and senses guided.</p>
+<p>O son of Kunti.</p>
+<p>make it an offering unto Me.</p>
+<p>I confided.</p>
+<p>Do that as an offering to Me.</p>
+<p>surrendering all.</p>
+<p>By surrendering.</p>
+<p>I take responsibility.</p>
+<hr />
+<h2 id="verse-9-28"><a class="header" href="#verse-9-28">Verse 9-28</a></h2>
+<p>Thus.</p>
+<p>from action's chains thou shalt be free.</p>
+<p>Which yield both good and evil results.</p>
+<p>thou'lt see.</p>
+<p>Steadfast in yoga.</p>
+<p>renouncing worldly ties.</p>
+<p>Liberated.</p>
+<p>unto Me thou shalt arise.</p>
+<p>United with the nyasa of everything.</p>
+<hr />
+<h2 id="verse-9-29"><a class="header" href="#verse-9-29">Verse 9-29</a></h2>
+<p>To all the same I am.</p>
+<p>in creation's space;</p>
+<p>None hateful.</p>
+<p>none beloved.</p>
+<p>no difference I hold.</p>
+<p>But those who worship Me with hearts sincere.</p>
+<p>With undivided devotion.</p>
+<p>they are in Me.</p>
+<p>and I in them.</p>
+<p>ever near.</p>
+<p>This is My link.</p>
+<p>My only relationship known.</p>
+<p>In them I am completely full.</p>
+<p>difference overthrown.</p>
+<hr />
+<h2 id="verse-9-30"><a class="header" href="#verse-9-30">Verse 9-30</a></h2>
+<p>Even if one of very bad conduct.</p>
+<p>base and low.</p>
+<p>Worships Me with undivided devotion.</p>
+<p>making Me his only glow.</p>
+<p>Not worshipping other wealth.</p>
+<p>object.</p>
+<p>or deity.</p>
+<p>But constantly worships Me alone.</p>
+<p>with fidelity;</p>
+<p>He shall be counted righteous (sadhu) in My eyes.</p>
+<p>he is wise.</p>
+<p>For he has fixed his purpose rightly.</p>
+<p>and shall rise.</p>
+<hr />
+<h2 id="verse-9-31"><a class="header" href="#verse-9-31">Verse 9-31</a></h2>
+<p>Swiftly he grows righteous (Dharmatma).</p>
+<p>his spirit bright.</p>
+<p>By this worship's influence.</p>
+<p>he walks in pure light.</p>
+<p>He becomes united with the supreme Dharma.</p>
+<p>Paramatma.</p>
+<p>And gains eternal peace.</p>
+<p>ending earthly drama.</p>
+<p>O son of Kunti.</p>
+<p>know this truth for sure.</p>
+<p>My devotee shall nevermore perish.</p>
+<p>he will endure.</p>
+<hr />
+<h2 id="verse-9-32"><a class="header" href="#verse-9-32">Verse 9-32</a></h2>
+<p>For taking refuge.</p>
+<p>son of Pritha.</p>
+<p>in My grace.</p>
+<p>Even those of humblest birth.</p>
+<p>from every race—</p>
+<p>Women.</p>
+<p>Vaishyas.</p>
+<p>and the Shudra too.</p>
+<p>though low—</p>
+<p>They also attain the supreme goal.</p>
+<p>where blessings flow.</p>
+<p>Whoever else of sinful origin.</p>
+<p>it is revealed.</p>
+<p>Through Me.</p>
+<p>salvation they shall surely yield.</p>
+<hr />
+<h2 id="verse-9-33"><a class="header" href="#verse-9-33">Verse 9-33</a></h2>
+<p>How much the more the pure Brahmanas.</p>
+<p>wise and old.</p>
+<p>A special state.</p>
+<p>with all for Brahman to unfold;</p>
+<p>And devoted royal sages (Rajarsis) brave.</p>
+<p>with valor.</p>
+<p>power.</p>
+<p>and might!</p>
+<p>Yogis at this level.</p>
+<p>they cross over into light.</p>
+<p>Having gained this world.</p>
+<p>impermanent and full of woe.</p>
+<p>this human frame.</p>
+<p>Worship Me.</p>
+<p>the highest truth.</p>
+<p>calling My Name.</p>
+<p>Waste not in care for this body.</p>
+<p>frail and slight.</p>
+<p>Attained this world.</p>
+<p>now worship Me.</p>
+<p>day and night.</p>
+<hr />
+<h2 id="verse-9-34"><a class="header" href="#verse-9-34">Verse 9-34</a></h2>
+<p>Let your mind rest in Me; no other thought shall come;</p>
+<p>Be My devotee.</p>
+<p>My exclusive one.</p>
+<p>Engage in continuous contemplation;</p>
+<p>Sacrifice to Me.</p>
+<p>offer Me libation.</p>
+<p>Worship Me continuously with faith;</p>
+<p>Prostrate yourself to Me.</p>
+<p>escaping death's cold breath.</p>
+<p>Thus having joined yourself.</p>
+<p>with steadfast aim.</p>
+<p>And made Me your supreme goal.</p>
+<p>calling My Name.</p>
+<p>To Me you surely shall come.</p>
+<p>ending earthly claim.</p>
+<p>Your self united.</p>
+<p>fixed on Me alone.</p>
+<p>Oneness with Me.</p>
+<p>shall then be known.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="bg08.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="0.0_about.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="bg08.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="0.0_about.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

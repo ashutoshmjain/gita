@@ -35,7 +35,7 @@ Crucially, Krishna distinguishes the consequences of these actions based on thei
 
 Thus, *Karma* is the mechanism of action within the cosmic 'game,' and *Yajna* represents the skillful, desireless way of 'playing.' This approach, instead of entangling the player further, purifies them and prepares them for transcendence. In a broader sense, *Yajna* serves as a prerequisite for true renunciation; attempting to force renunciation upon oneself without first conquering desires, as Krishna warns in Chapter 3, makes one merely a pretender.
 
-The profound act of relinquishing desires is also associated with the concept of *Visarga* (emanation or creation). The Lord reveals that His own *Visarga* is the wellspring of true *Karma* and the very impetus for the universe's creation. In other words, cosmic manifestation itself arises when the Divine 'gives up' the unmanifest to bring forth the manifest. The Lord's creative *Visarga* is thereby mirrored in our own selfless *Karma* (actions performed as *Yajna*). From an ordinary vantage point, then, *Yajna* is rightly perceived as the ultimate sacrifice—a mirroring of the divine creative act of *Visarga*.
+The profound act of relinquishing desires is also associated with the concept of *Visarga* (emanation or creation). The Lord reveals that His own *Visarga* is the wellspring of true *Karma* and the very impetus for the universe's creation. In other words, cosmic manifestation itself arises when the Divine 'gives up' the unmanifest to bring forth the manifest. The Lord's creative *Visarga* is thereby mirrored in our own selfless *Karma* (actions performed as *Yajna*). From an ordinary vantage point, then, *Yajna* is rightly perceived as the ultimate sacrifice—a mirroring of the divine creative act of *Visarga*. The literal meaning of the word *Visarga* is "letting go". When we let go the desires attached to our creations, the creation itself becomes a universe of its own. It allows autonomy to its constituents as well as its users. Thus letting go of our desires is divine's nature and mirroring the same in our lives gets us closer to divinity.
 
 ## The Structure of the Cosmos and Experience: *Adhibhuta*, *Adhidaiva*, and *Adhiyajna*
 
@@ -83,7 +83,7 @@ Those who achieve this state of union "get over playing the game. They become cr
 
 ## *Akshara Brahma Yoga*: The Synthesis of the Imperishable and Creation
 
-The chapter, and this entire line of inquiry, culminates in a synthesis that gives the chapter its name: *Akshara Brahma Yoga*. The concluding summary points, as interpreted through the essay's analogical framework, are:
+The chapter and this entire line of inquiry, culminates in a synthesis that gives the chapter its name: *Akshara Brahma Yoga*. The concluding summary points, as interpreted through the essay's analogical framework, are:
 
 * "Lord Krishna is the creator—divine."
 * "*Brahman* is the imperishable reality (the 'CD analogy' or 'game code'), and the material nature (the 'single run' or manifested game) operates based upon this code."

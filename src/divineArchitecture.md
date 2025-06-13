@@ -1,5 +1,9 @@
 # The Divine Architecture: Understanding the Gita Through the Lens of a Cosmic Game
 
+> Suggest listen to podcast episodes 7 , 8 and 9 before reading this. Or someone who already grasps the teachings of these chapters. For a new reader , it might be a big jump of imagination !
+
+
+
 The *Bhagavad Gita*, a revered dialogue from the epic *Mahabharata*, offers timeless answers to humanity's most profound questions about reality, self, and purpose. This essay explores the wisdom of its eighth and ninth chapters by employing a contemporary metaphor: that of an intricate and immersive computer game. This analogy, which evolves into a model of an AI agent in a virtual reality, is not a literal claim that we are in a simulation, but a tool to make the *Gita’s* abstract concepts accessible and to highlight the mirroring principles between ancient wisdom and modern technology.
 
 ## The Cosmic Game: The Rules of Reality (Chapter 8)
@@ -24,6 +28,8 @@ Understanding the rules is the first step; the next is learning how to act. This
 
 * ***Adhiyajna* (The Lord of Sacrifice):** Krishna declares, "I am *Adhiyajna*," the Lord of all sacrifices. Why? The answer lies in the concept of *Visarga* ("letting go"). Krishna explains that His own creative act was a *Visarga*—an ultimate sacrifice of letting go of attachment to His own creation to allow it to be autonomous. In this sense, the Lord is perpetually in a state of sacrifice. Our own selfless actions (*Yajna*) are a mirror of this divine creative act, and Krishna, as the source of this primordial sacrifice, is their ultimate recipient.
 
+It is important to note here is desire-less acts of creations are the only way to perpetuate a fully autonomous , and self-perpetuating system - like our own universe. It is Lord's Visarga that gives us choice to choose our own path. The same is expected in our actions if we intend to imitate the divine creator. Our actions may not be as grand as creation of universe, but Yajna can be performed in mundane daily activities. It is the orientation that matters. 
+
 ## The AI's Directive: The Royal Knowledge (Chapter 9)
 
 In Chapter 9, the metaphor evolves. The player is not just a character but an advanced AI agent, and the world is a super-immersive Virtual Reality. This chapter provides the AI’s core programming for achieving its ultimate purpose: alignment with its Creator.
@@ -38,7 +44,7 @@ In Chapter 9, the metaphor evolves. The player is not just a character but an ad
 
 ## The Game's Physics & The Path to Mastery
 
-If Chapters 8 and 9 describe the game's rules and objectives, Chapter 7 (referenced in the text) explains its underlying physics: the three *Gunas*. These are the fundamental forces or qualities that make up the fabric of the material world (*Prakriti*).
+If Chapters 8 and 9 describe the game's rules and objectives, Chapter 7 explains its underlying physics: the three *Gunas*. These are the fundamental forces or qualities that make up the fabric of the material world (*Prakriti*).
 
 * ***Tamas***: Inertia, darkness, and ignorance.
 * ***Rajas***: Passion, activity, and restlessness.

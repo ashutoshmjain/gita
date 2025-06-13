@@ -9,11 +9,23 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
+## Jun 13, 25
+
+  - [Navigation and about](./how.md) - minor edits.
+  - [Bhagvad Gita](./bhagvadGitaLanding.md) 
+      - [Podcast](bg00.md)  
+          - [Chapter 8](./bg08.md) - minor edits.
+          - [Chapter 9](./bg09.md) - major edits - embedded podcast.
+       - [Essays](./0.0_about.md) 
+          - [Architecture](./divineArchitecture.md) - major update - updated the game analogy with guidance of chapter 9. Restructured the essay to remove repetitions. Flow and readability. But in its pruned down form , it must be read after listening to the podcasts' episode 8 and 9. Or someone who already grasps the teachings of these chapters. For a new reader , it might be a big jump of imagination. 
+
+ 
 ## June 06, 25
 
   - [Bhagvad Gita](./bhagvadGitaLanding.md) - major edits
       - [Podcast](bg00.md) 
           - [Chapter 9](./bg09.md) - new addition.
+
 
 ## May 30, 25
 

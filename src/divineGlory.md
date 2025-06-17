@@ -11,19 +11,40 @@ It is in Chapter 10 that Krishna describes his own reflections, offering a metho
 
 The question is how do we explain this "divine grace" to our analytical minds ? Is there an easy parallel ? 
 
-That is where Gravity comes in. It is the most fundamental of all fundamental forces. Among the four fundamental forces established to this date , it is the first that was discovered. Everyone knows it - even a middle schooler  .. and here is the best part : everyone feels it - unlike other three forces like strong nuclear force or week nuclear force that needs you to have a degree in Quantum Physics to be able to grasp the basics .. 
+That is where Gravity comes in. It is the most fundamental of all fundamental forces. Among the four fundamental forces established to this date , it is the first that was discovered. Everyone knows it - even a middle schooler  .. and here is the best part : everyone feels it - unlike other forces like the strong nuclear force or week nuclear force that needs you to have a degree in Quantum Physics to be able to grasp the basics .. 
 
-But gravity is lot more than what meets the eye ! Literally .. 
+But gravity is lot more than what meets the eye ! Literally and  figuratively :-) 
 
-Here is a comparison as to why Gravity is our best foot forward to appreciate the divine grace.
-
-### 
+Here is a comparison as to why Gravity is our best foot forward to appreciate the divine grace. In order to do that, lets first hypothesize what exactly is the divine grace. From common perceptions - divine grace is something that is 1) omnipresent 2) yet mysterious 3) Perceivable to everyone 3) yet unknowable .. If these four kinda measure up to what we mean by divine grace , then lets see if gravity measures up to this standard ! .. Again the big caveat - it is only a metaphor .. because the concept of divine grace is far more over encompassing that a or any physical force may be able to explain. Besides the fact the gravity is only half the story ! We will complete this story in next chapters when we discuss anti-gravity - a balancing but lot bigger force.
 
 
-This brings us back to science and the perplexing nature of gravity. The observable universe contains far too little mass to account for the immense gravitational forces that hold galaxies together. Scientists, for lack of a better term, attribute this missing influence to "dark matter" and "dark energy," phenomena that lie beyond the grasp of our current scientific instruments. The quest to unify gravity with the other three fundamental forces (strong, weak, and electromagnetic) remains a formidable challenge. While Quantum Field Theory cannot explain gravity, Einsteinian relativity leaves no room for the other forces. Attempts to bridge this gap, such as String Theory with its eleven dimensions or the holographic principle of ADS-QFT, can seem esoteric. The Gita suggests that this divine grace, this all-pervasive gravity, is an expression of Krishna, who is beyond even the gods, representing the synthesis of science and spirit.
+Okay so let us qualify gravity against the four measures we defined.
 
-To comprehend the source of this divine glory, we must understand three interconnected concepts: *Vichaar* (thought), *Karma* (action), and *Visarga* (desireless release). Thought is the genesis of bondage, leading to action, which further solidifies it. While many spiritual paths advocate for the renunciation of thought and action, Krishna expressly forbids this, because it is an impossible feat for any living being. The resolution to this puzzle lies in *Visarga*.
 
-*Visarga* is a state of thought and action devoid of desire. Krishna illustrates this through potent examples in Chapter 10. Consider the sun: it rises and burns daily without any apparent reason, and in doing so, creates glory. Or consider the human heart, which Krishna identifies as his residence. It pumps ceaselessly, and the moment it stops, the body perishes. This is the principle dear to the Lord: continuous, repetitive action aligned with an assigned purpose, where the individual thought process fades away. Such actions do not create bondage; they are the very impulse of creation and the source of glory. In the state of *Visarga*, thought dissolves, remembering only the creator, the source of all grace and gravity.
+### Omnipresent  
 
-Thus, the synthesis of *Vichaar*, *Karma*, and *Visarga* creates and constitutes the divine. Thought becomes the resolution of one's orientation, action becomes the resolution of one's duty, and *Visarga* becomes the resolution of desire. This harmonious state, where one acts continuously with purpose but without attachment, is the essence of Krishna Consciousness. It is the path to understanding the profound glory that underpins all existence.
+I don't think we need to debate  that Gravity isn't omnipresent. However what most people don't know, the cutting edge of modern science believes that if MULTIVERSE was true , gravity is the only force that would permeate through all the instances of mutiverse. String theory reveals that all the other fundamental forces , eg nuclear forces as well the elecro-magnetic force are constrained only to one universe. This takes the concept of Omnipresence to a totally new level. If you want to research more on this , ask Google Gemini to tell you more on how gravity is truly the only thing we know that is omnipresent. Rest everything .. and I mean every single thing is limited a single play of our game. That kinda makes it comparable to divine grace  - doesn't it ?
+
+### Mysterious
+
+Before we delve in to mysteriousness, lets define what is mysterious. Mysterious is something that is visible - we can touch or feel - perceivable through sensory apparatus - yet we can't explain the "why". The magic trick!  Divine grace is mysterious - it appears magical because we feel it yet we can't explain. Not even the most knowledgable saints .. or scientists ..in respective fields ..
+
+Lets now look at gravity . Obviously Newton was the first to define gravity . His mathematical model that every massful object attracts every other mass - works great in classical frame of references. Even today we use his equations for our daily life things. But Einstein revealed that the math breaks down when we approach super massive things such as black holes or start reaching the speed of light. In essence we leave the classical frame of reference for a relativistic frame of reference - where nothing remains absolute - not even time. In this new reference frame, Einstein told us that it is not that things are attracted to each other ( as Newton hypothesized) , but the truth is massful objects change the very curvature of reality. Like a deep well on a rubber sheet. So things literally fall into well of gravity. But the problem is this well isn't a three dimensional well. It is a well in Space-time. Means the time itself is a dimension of this new reality. That is obviously beyond mortal comprehension. How do we perceive space and time. 
+
+But that is not all. Sure there are many magical things happening around. Can we create a new theory to explain gravity.. Sure , lets try time tested Quantum field theory. This theory has after all explained the entire material existence - from nuclear forces to non-nuclear electro-magnetic force - commonly called the light. But alas , even QM fails to explain gravity. Einstein and Newton's model do let us know gravity exists - but QM can't explain WHY .. we can't find a field and a force particle like graviton experimentally.. nor can we test the close looped strings that transmit gravity in String theory - across branes of multiverses.
+
+So should we give up ? Should we say Gravity is the ultimate mystery .. not before we make one more attempt .. There is a model that explains gravity perfectly with all other fundamental forces . Yes ..it is called ADS-CFT. It works great to explain gravity but there is a tiny problem. The universe this model works in is exactly opposite to that of ours - it is called anti-sitter space whereas our universe is de-sitter space .. 
+
+So - despite all the advances in science and math and computers - Gravity is still beyond our perception . It is mysterious - just like divine grace !
+
+### Perceivable 
+
+Yes , every one who walks the earth , feels gravity. There is nothing in this universe that is beyond gravity - even light is bent by massive bodies with intense gravity. As we said above - even a seventh grader can use gravity to calculate the trajectory of a base ball .. okay eighth grader may be :-) 
+
+### Unknowable 
+
+As we discussed above , gravity breaks the realm of mysterious! It is truly unknowable - because knowing gravity needs us to either travel in other dimensions , or other universes or be able to know comprehend perceive space-time as a unit. In other words go beyond time. Other universes , other dimensions or beyond time - all three are beyond the realm of possibility .. this is what makes gravity an alter reflection of divine grace. 
+
+
+The question is how then we understand divine grace ... the answer is rightly provided by Krishna - you can see it through my Vibhooties. All that excels around you , not only big stars - but in every field - they all shine because of my grace - divine grace. 
+

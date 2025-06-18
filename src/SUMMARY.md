@@ -17,6 +17,7 @@
       - [Practice and Skills](./practiceAndSkills.md)
       - [Manifestation](./manifestation.md)
       - [Architecture](./divineArchitecture.md)
+      - [Grace and Glory](./divineGlory.md)
 - [Mathura](./mathuraLanding.md)
   - [Thought](./thought.md)
       - [Trigger](./mathuraChap01.md)

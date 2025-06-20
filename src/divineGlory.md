@@ -1,4 +1,6 @@
-## The Divine Glory: An Interpretation of the Gita Through Science and Spirit
+## Divine Grace: 
+
+An Interpretation of the Krishna's Grace through Science and Spirit. 
 
 The Bhagavad Gita, particularly from its seventh chapter onwards, unfolds not as a disjointed collection of teachings, but as a single, logical conversation. The chapter divisions, added much later, serve as guideposts allowing readers to bookmark the progression of ideas, but the Gita, in reality, is just one conversation between Krishna and Arjuna. This journey builds a profound understanding of our reality, culminating in Chapter 10 with a description of divine glory. By drawing unconventional parallels with modern science, one can frame a unique interpretation of this ancient wisdom, seeing it as a unified field of science and spirit—a discipline sometimes referred to as 'Vaidik Science.'
 
@@ -10,11 +12,13 @@ It is in Chapter 10 that Krishna describes his own reflections, offering a metho
 
 How, then, can we explain 'divine grace' to our analytical minds? Is there a simple parallel?
 
-That is where gravity comes in. It is one of the four fundamental forces discovered to date, and the first to be identified. Everyone knows it, even a middle schooler, and everyone feels it—unlike forces such as the strong or weak nuclear force, which require a degree in Quantum Physics to begin to grasp.
+That is where gravity comes in. It is one of the four fundamental forces discovered to date, and the first to be identified. Everyone knows it, even a middle schooler, and everyone feels it unlike forces such as the strong or weak nuclear force, which require a degree in Quantum Physics to begin to grasp the ideas.
 
-But gravity is far more than what meets the eye, both literally and figuratively.
+But gravity, just like grace,  is far more than what meets the eye, both literally and figuratively.
 
-To appreciate this, let's hypothesize what we mean by 'divine grace.' Based on common perceptions, divine grace is something that is: 1) omnipresent, 2) mysterious, 3) perceivable to everyone, and 4) unknowable. Let’s see if gravity, as a metaphor, measures up to this standard. This is, of course, an analogy, as the concept of divine grace is far more encompassing than any single physical force can explain.
+To appreciate this, let's hypothesize what we mean by 'divine grace.' 
+
+> Based on common perceptions, divine grace is something that is: 1) omnipresent, 2) mysterious, 3) perceivable to everyone, and 4) unknowable. Let’s see if gravity, as a metaphor, measures up to this standard. This is, of course, an analogy, as the concept of divine grace is far more encompassing than any single physical force can explain.
 
 So, let us qualify gravity against these four measures.
 

@@ -11,6 +11,7 @@
       - [Chapter 8](bg08.md)
       - [Chapter 9](bg09.md)
       - [Chapter 10](bg10.md)
+      - [Chapter 11](bg11.md)
     - [Essays](./0.0_about.md)
       - [Hypothesis](./hypothesis.md)
       - [Continuum](./continuum.md)

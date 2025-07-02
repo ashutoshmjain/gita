@@ -1,18 +1,16 @@
-<center>
-<h1>`Abhyasa`: The Power of Practice</h1>
-</center>
+# Abhyasa: The Power of Practice<
 
-Human life is a profound gift. We are the keepers of this land, set apart from other species by our remarkable ability to learn and train ourselves. While animals adapt over generations through evolution, humans can flourish in new environments with astonishing speed.  The evolution in context of text enabled humans is more about evolution of our collective knowledge base. While the knowledge may be limited within few experts in a specific field, the tools thus developed are mostly available to the masses. For example - very few humans understand the complete technology of cellular phones, but cell phones are used by all. And hence a major evolutionary boon to entire man kind. We are like general-purpose processors, capable of acquiring diverse skills, a trait that has allowed us to spread from Africa across the globe and now to look toward the stars.
+Human life is a profound gift. We are the care-takers of this land, set apart from other species by our remarkable ability to learn and train ourselves. While animals adapt over generations through evolution, humans can flourish in new environments with astonishing speed.  The evolution in context of modern technology enabled humans is more about evolution of our collective knowledge base. While the knowledge may be limited within few experts in a specific field, the tools thus developed are mostly available to the masses. For example - very few humans understand the complete technology of MRI scanners, but these machines are available to all. And hence a major evolutionary boon to entire man kind. Individually, we are like general-purpose processors, capable of acquiring divergent skills unique to our environments, a trait that has allowed us to spread from Africa across the globe and now to look toward the stars.
 
 We all know: practice makes a man perfect, but why? What is the fundamental mechanism that allows us to improve with each repetition? This principle underpins all human accomplishment, from our survival to our greatest achievements. The answer lies in a philosophy of action and the incredible neural engine we carry in our heads.
 
 ### The Philosophy of Action: `Karma Yoga`
 
-Bhagavad Gita offers a powerful framework for understanding this process through the concept of `Karma Yoga`, the discipline of action. The key is to act without attachment to the results, to detach from sensory overindulgences and focus purely on the action itself. This is not about despising sensory pleasures or hating senses. Senses are necessary for our survival. It is about dedicating time to action for its own sake - stop overindulgences in sensory pleasures. As Krishna says:
+Bhagavad Gita offers a powerful framework for understanding this process through the concept of `Karma Yoga`, the discipline of action. The key is to act without attachment to the results, to detach from sensory overindulgences and focus purely on the action itself. This is not about despising sensory pleasures or hating senses. Senses are necessary for our survival. It is about dedicating time to action for their own sake - remember your childhood play-time. When action itself becomes the focus of our attention, the desires automatically take a backseat. As Krishna says:
 
 > *"One who initiates actions by regulating the senses with the mind, engaged in `Karm Yoga` with active work organs, and detached to the outcomes, that person is special. He excels."*
 
-"Regulating the senses with the mind" means managing our emotional responses and distinguishing the metaphysical from the physical. Desires exist primarily in the metaphysical realm. By focusing on the action rather than its potential fruits, we make practice a ritual, a `Yazna`, and unlock our potential for excellence.
+"Regulating the senses with the mind" means managing our emotional responses and distinguishing the metaphysical from the physical. Desires exist primarily in the metaphysical realm. By focusing on the action rather than its potential fruits, we make practice a ritual, a `Yazna`, and unlock our potential for excellence. Such actions are known as an offering to the divine.
 
 This idea is not just spiritual; it is grounded in the very structure of our biology.
 

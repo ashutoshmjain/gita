@@ -1,14 +1,18 @@
 # Abhyasa: The Power of Practice
 
-Human life is a profound gift. We are the care-takers of this land, set apart from other species by our remarkable ability to train our minds. While animals adapt over generations, humans flourish in new environments with astonishing speed.  The evolution in the context of technology driven humans is expansion of our collective knowledge base. While the  knowledge is always limited within few expert minds  (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary boon to entire man kind.
+Human life is a profound gift. We are the care-takers of this land, set apart from other species by our remarkable ability to train our minds. While animals adapt to new environments over generations, humans flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the big and small mass produced tools, ideas, commodities and currencies.
 
-Individually, our minds are general-purpose instruments - capable of acquiring divergent skills - unique to our environments. Our brains are not only good at acquisition of new skills,  but relearning too - a trait that has allowed us spread geographically, and now we look toward to the stars. The all important question is: How this works? How do we learn? How does our plastic mind acquires concrete skills!
+Individually, our minds are general-purpose models - capable of acquiring divergent skills. Our brains are not only good at acquisition of new skills, but retraining too - a trait that has allowed us spread geographically, and now we look toward to the stars. The all important question is: How this works? How do we learn? How does our plastic mind acquires concrete skills!
 
-We all know: practice makes a man perfect, but why? What is the fundamental mechanism that allows us to improve with each repetition? This principle underpins all human accomplishment, from our survival to our greatest achievements. The answer lies in a philosophy of action and the incredible neural engine we carry in our heads.
+Lets begin with something we know for sure. We all know: practice makes a man perfect, but why? What is the fundamental mechanism that allows us to improve with each iteration? 
+
+The answer lies in a philosophy of action and the incredible neural engine we carry in our heads.
 
 ### The Philosophy of Action: `Karma Yoga`
 
-Bhagavad Gita offers a powerful framework to understand "actions".  `Karma Yoga`, literally means "connecting with actions". In most scenarios, when we act, our focus is on the outcomes. We are attached to the results. The key is to let go this attachment - detach from  cravings for specific goals - focus purely on the action. This is not about despising sensory pleasures or hating senses. Senses are necessary for our survival. It is about dedicating time to actions for their own sake - remember your childhood play-time. When action itself becomes the focus of our attention, the desires automatically take a backseat. Karmyoga is not about what  you are doing - it is all about how you are doing. 
+Bhagavad Gita offers a powerful framework to understand "actions".  `Karma Yoga`, literally means "connecting with actions". 
+
+In most scenarios, when we act, our focus is on the outcomes. We are attached to the results. The key is to let go this attachment - detach from  cravings for specific goals - focus purely on the action. This is not about despising sensory pleasures or hating senses. Senses are necessary for our survival. It is about dedicating time to actions for their own sake - remember your childhood play-time. When action itself becomes the focus of our attention, the desires automatically take a backseat. Karmyoga is not about what  you are doing - it is all about how you are doing. 
 
 Krishna says:
 
@@ -20,7 +24,8 @@ This idea is not just spiritual; it is grounded in the very structure of our bio
 
 ### The Learning Engine: Our Neural Network
 
-Our brain is the most sophisticated learning engine known. In `Hath Yoga`, it is symbolized by the `Sahsrara` Chakra, the crown chakra with a thousand expressions. It is a neural network of staggering complexity. For perspective, while the large AI model GPT-3 had about 185 billion parameters, the human brain contains roughly 86 billion neurons, with each neuron having an average of 7,000 synaptic connections. This amounts to approximately 60 trillion parameters—a network 300 times larger than our most advanced AI.
+Our brain is the sophisticated learning engine. In `Hath Yoga`, it is symbolized by the `Sahsrara` Chakra - the crown chakra with a thousand expressions. It is a neural network of staggering complexity. For perspective, a human brain connects roughly 86 billion neurons. Each neuron an average has 7,000 synaptic connections. This amounts to approximately 60 trillion parameters - give or take.  Compare it to the large AI model GPT-3. It had about 185 billion parameters. Which means we have a neural net around 300 times larger than a large language model! 
+
 
 Each of us hosts a super-intelligent, general-purpose AI, and there are over seven billion of us, collaborating and learning. This immense natural neural cloud is continuously reconfiguring and evolving. While man-made AIs will undoubtedly grow, it may take them eons to match the energy efficiency and portability of the human brain.
 

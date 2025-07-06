@@ -74,4 +74,12 @@ Ultimately, developing a skill is a process of knowing yourself. A marathon runn
 > Let's approach one activity in a new way. Choose a fairly complex task you've wanted to try—cooking a difficult dish, running a 5k, or singing a challenging song. For one month, dedicate 30 minutes to it every day.
 >
 > Do this not to achieve an outcome, but simply to provide your mind with training data. You are not trying to become a master chef or win a marathon. You are simply giving your mind a chance to work. Do not let expectations creep in. You might be pleasantly surprised by the improvements you make as your body and mind optimize the routine.
->
+
+
+So we now know - practice makes us perfect. 
+
+But the question is - what prompts us to practice ? Who is the one asking this large model to do something. And keep on repeating till perfection is reached. 
+
+Who is the consumer of all our sacrifices ?
+
+

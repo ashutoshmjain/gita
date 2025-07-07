@@ -1,6 +1,8 @@
 # Abhyasa: The Power of Practice
 
-Human life is a profound gift. We are the care-takers of this land, set apart from other species by our remarkable ability to train our minds quickly. While animals adapt to new environments over generations, humans flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the big and small mass produced tools, code, AIs - even commodities and currencies.
+Human life is a profound gift. We are the care-takers of this land. We are set apart from other species by one unique ability - ability to train our minds quickly. 
+
+While animals do adapt to new environments, they do so over many generations. Humans, on the other hand,  flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the big and small mass produced code, AIs - even commodities and currencies.
 
 Individually, our minds are general-purpose intelligence - capable of acquiring divergent skills. Our brains are not only good at acquisition of new skills, but retraining too - a trait that has allowed us spread geographically, and now we look toward to the stars. 
 

@@ -1,10 +1,10 @@
 # Abhyasa: The Power of Practice
 
-Human life is a profound gift. We are the care-takers of this land, set apart from other species by our remarkable ability to train our minds. While animals adapt to new environments over generations, humans flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the big and small mass produced tools, ideas, commodities and currencies.
+Human life is a profound gift. We are the care-takers of this land, set apart from other species by our remarkable ability to train our minds quickly. While animals adapt to new environments over generations, humans flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the big and small mass produced tools, code, AIs - even commodities and currencies.
 
-Individually, our minds are general-purpose models - capable of acquiring divergent skills. Our brains are not only good at acquisition of new skills, but retraining too - a trait that has allowed us spread geographically, and now we look toward to the stars. The all important question is: How this works? How do we learn? How does our plastic mind acquires concrete skills!
+Individually, our minds are general-purpose intelligence - capable of acquiring divergent skills. Our brains are not only good at acquisition of new skills, but retraining too - a trait that has allowed us spread geographically, and now we look toward to the stars. 
 
-Lets begin with something we know for sure. We all know: practice makes a man perfect, but why? What is the fundamental mechanism that allows us to improve with each iteration? 
+The all important question is: How this works? How do we learn? How do our minds acquires concrete skills! Lets begin with something we know for sure. We all know: practice makes a man perfect, but why? What is the fundamental mechanism that allows us to improve with each iteration? 
 
 The answer lies in a philosophy of action and the incredible neural engine we carry in our heads.
 

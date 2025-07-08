@@ -34,23 +34,27 @@ Each of us hosts a super-intelligent, general-purpose AI, and there are over eig
 
 Furthermore, this incredible processing power is seamlessly integrated with our "action organs." Our hands alone are connected to 200,000 neurons, translating to nearly one and a half billion synapses. The famous "Homunculus Man" illustration, which depicts the human body in proportion to the cortical area dedicated to its parts, shows our hands as enormous, highlighting their importance in our interaction with the world.
 
-We are a complete package: a system designed for data collection, optimization, and testing through a continuous feedback loop. We are fundamentally built to explore our reality, which gives us two primary goals: first, to survive and perpetuate our genes, and second, to immerse ourselves in and understand the reality we inhabit. `Karma Yoga` is the method to leverage this sophisticated apparatus for that second, deeper goal.
+We are a complete package: a system designed for data collection, optimization, and testing through a continuous feedback loop. We are fundamentally built to explore our reality. This begs a question - what exactly is our reality? Is it the entire cosmos - the expanse of the observable or a tiny sliver that we may influence with our actions? Albeit, not to change that tiny box, but to learn from it!
+
 
 ### The Mechanism of Mastery: `Yazna` and Sleep
 
 How do we train this biological beast? The process involves two key components: the ritual of action (`Yazna`) and the consolidation that happens during sleep.
 
-When we repeatedly perform a set of actions—our `Yazna`—we are feeding our brain training data. Modern science has shown that during the REM stage of sleep, our brain gets to work. With the senses and motor controls temporarily offline, the mind rehearses the day's activities, running millions of simulations and tweaks to find the most efficient neural pathways. This is why, when we wake up, tasks often feel simpler, and we are better prepared. Each cycle of `Yazna` and sleep refines our abilities, making us more perfect with each iteration.
+When we repeatedly perform a set of actions—our `Yazna`—we are feeding our brain training data. Modern science has shown that during the REM stage of sleep, our brain gets to work. With the senses and motor controls temporarily offline, the mind rehearses past day's activities, running millions of simulations and tweaks to find the most efficient neural pathways. This is why, when we wake up, tasks often feel simpler, and we are better prepared. Each cycle of `Yazna` and sleep refines our abilities, making us more perfect with each iteration.
 
-Evolution has prioritized REM sleep, even though it makes us vulnerable, underscoring its critical importance for learning. This is our evolutionary advantage. When we focus on a specific problem set, the mind trains itself efficiently. However, if we feed it desires for specific outcomes, we divert its immense power to a simple, probabilistic calculation. It tries to predict the chances of success, which, in a complex world, often results in a 50/50 guess. This uncertainty creates doubt, or `Sanshya`.
+Evolution has prioritized REM sleep, even though it makes us vulnerable - a potential pray for predators. And arguably less productive. But it is a matter of definitions. How do we define productivity - with the work we perform in the physical world or the training we impart to our brains? How much work we get done may be important for survival but learning is the very purpose.
+This is our evolutionary advantage. 
 
-By providing our mind with the clean data of action, it becomes a self-learning supercomputer. By asking it the wrong questions about outcomes, we create a mess of doubt that often requires sedatives to quiet. In our modern world, filled with distractions, `Karma Yoga` offers a proven path forward.
+When we act on a specific problem set, with actions as our goal, the mind trains itself efficiently. However, if we make it brood over desires for specific outcomes, we divert its immense power to a simple, probabilistic computation. It tries to predict the chances of success, which, in a complex world, often results in a 50/50 guess. This uncertainty creates doubt, or `Sanshya`.
+
+By providing our mind with the clean data - that of actions; it becomes a self-learning supercomputer. By asking it the wrong questions - those about outcomes, we create a mess of doubt that often requires sedatives to quiet. In our modern world, filled with distractions, `Karma Yoga` thus offers a proven path forward. A doubtless mind sleeps well!
 
 ### The Uniqueness of Skill
 
-The result of this process is skill—a marriage of intelligence and knowledge. Intelligence gathers the training data, and knowledge is the optimized routine our neural engine produces. This knowledge is deeply personal and cannot be fully communicated. Fire cannot burn it, and air cannot dry it, for it exists beyond the manifested realm.
+The result of this iterative process - actions and sleep -  is called a skill. It is a marriage of intelligence and knowledge. Intelligence gathers the training data, and knowledge is the optimized routine our neural engine produces. The knowledge is deeply personal and cannot be communicated. Fire cannot burn it, and air cannot dry it, for it exists beyond the manifested realm.
 
-This is why a skill is uniquely yours. You can write down the steps to swim, but you cannot transfer the embodied understanding of how *you* swim. That knowledge is decrypted from your personal copy of the universal consciousness, the `Bramha`. We each hold a small, unique piece of the whole. By mastering even one skill, we bring something to the "potluck party" of collective knowledge, granting us access to the entire feast. The process of mastering the skill is ultimately more important than the skill itself. As Krishna advises:
+This is why a skill is uniquely yours. You can write down the steps to swim, but you cannot transfer the embodied understanding of how *you* swim. That knowledge is decrypted from your personal copy of the universal consciousness, the `Bramha`. We each hold a small, unique piece of the whole. By mastering even one tiny skill, we bring something to the "potluck party" of collective knowledge, granting us access to the entire evolutionary feast. The process of mastering the skill is ultimately more important than the skill itself. As Krishna advises:
 
 > *"Nityam Yazne Pratishtitam"*
 >
@@ -62,11 +66,11 @@ He doesn't specify the type of ritual, because the nature of the work is seconda
 
 This brings us to the concept of "purpose." We often define purpose as a future state or an accomplishment we must chase. This is `Sakaam Yazna`—action performed with a desired outcome in mind. While not inherently bad, the Gita suggests it is not the optimal path to peace and knowledge.
 
-Instead, consider "purpose" as a complete focus on the righteous actions required of you in your present situation. It is a shift in vantage from "where should I be?" to "what does this moment ask of me?" Millions of choices have led you to where you are now. Purpose is not about changing yourself into someone else; it is about realizing who you are through mindful action in your current reality.
+Instead, consider "purpose" as a complete focus on the actions required of you in your present situation - to train your mind. It is a shift in vantage from "where should I be?" to "what does this moment ask of me?" Millions of choices have led you to where you are now. Purpose is not about changing yourself into someone else; it is about realizing who you are through mindful action in your current reality.
 
 The ignorant and the wise may perform the same actions, but their motivations differ. Krishna explains:
 
-> *"The way ignorant people, attached to outcomes, perform their duties with passion, the learned must do the same for the greater good, but without any attachment."*
+> *"The way ignorant people, attached to outcomes, perform their duties with passion, the learned must do the same for the greater good (evolution), but without any attachment."*
 
 ### Knowing Yourself Through Action
 
@@ -78,11 +82,10 @@ Ultimately, developing a skill is a process of knowing yourself. A marathon runn
 >
 > Do this not to achieve an outcome, but simply to provide your mind with training data. You are not trying to become a master chef or win a marathon. You are simply giving your mind a chance to work. Do not let expectations creep in. You might be pleasantly surprised by the improvements you make as your body and mind optimize the routine.
 
+----
 
 So we now know - practice makes us perfect. 
 
-But the question is - what prompts us to practice ? Who is the one asking this large model to do something. And keep on repeating till perfection is reached. 
+But the question is - what prompts us to practice ? Who is the one asking this large model to do something. And keep on repeating till perfection is reached. If we are advised not to focus on outcomes , who is actually enjoying the outcomes? 
 
-Who is the consumer of all our sacrifices ?
-
-
+Who is the true consumer of all our sacrifices ?

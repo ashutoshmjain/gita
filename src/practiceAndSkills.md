@@ -1,8 +1,10 @@
 # Abhyasa: The Power of Practice
 
-Human life is a profound gift. We are the care-takers of this land. We are set apart from other species by one unique ability - ability to train our minds quickly. 
+Human life is a profound gift. We are the care-takers of this land. Well being of all the species is incumbent on us because we have ability to make or break the planet. How did that happen ? How did humans took a quantum jump? 
 
-While animals do adapt to new environments, they do so over many generations. Humans, on the other hand,  flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the big and small mass produced code, AIs - even commodities and currencies.
+We are set apart from other species by one unique ability - ability to train our minds quickly. 
+
+While animals do adapt to new environments, they do so over many generations. Humans, on the other hand,  flourish with astonishing speed.  The evolution in the context of technology driven species is expansion of collective knowledge base. While the  knowledge is always limited to few expert minds (per field), the tools thus developed are available to the masses. For example - very few fully understand MRI scanners - soup to nut -  but scanners are available to all - even in rural cities. And hence an evolutionary jump to entire man kind. Same is true for all the open sourced code, AIs - even mass produced commodities and currencies.
 
 Individually, our minds are general-purpose intelligence - capable of acquiring divergent skills. Our brains are not only good at acquisition of new skills, but retraining too - a trait that has allowed us spread geographically, and now we look toward to the stars. 
 
@@ -14,22 +16,21 @@ The answer lies in a philosophy of action and the incredible neural engine we ca
 
 Bhagavad Gita offers a powerful framework to understand "actions".  `Karma Yoga`, literally means "connecting with actions". 
 
-In most scenarios, when we act, our focus is on the outcomes. We are attached to the results. The key is to let go this attachment - detach from  cravings for specific goals - focus purely on the action. This is not about despising sensory pleasures or hating senses. Senses are necessary for our survival. It is about dedicating time to actions for their own sake - remember your childhood play-time. When action itself becomes the focus of our attention, the desires automatically take a backseat. Karmyoga is not about what  you are doing - it is all about how you are doing. 
+In most scenarios, when we act, our focus is on the outcomes. We are attached to the results. The key is to let go this attachment - detach from  cravings for specific goals - focus purely on the action. This is not about despising sensory pleasures or hating senses. Senses are necessary for our survival. It is about dedicating time to actions for their own sake - remember your childhood play-time. When action itself becomes the focus of our attention, the desires automatically take a backseat. Karmyoga is not about what you are doing - it is all about how you are doing it. 
 
 Krishna says:
 
 > *"One who initiates actions by regulating the senses with the mind, engaged in `Karm Yoga` with active work organs, and detached to the outcomes, that person is special. He excels."*
 
-"Regulating the senses with the mind" means managing our emotional responses and distinguishing the metaphysical from the physical. Desires exist primarily in the metaphysical realm. By focusing on the action rather than its potential fruits, we make practice a ritual, a `Yazna`, and unlock our potential for excellence. Such actions are known as an offering to the divine.
+"Regulating the senses with the mind" means managing our emotional responses. We need to distinguish the metaphysical from the physical. Desires exist primarily in the metaphysical realm. Actions are always physical - even coding. By focusing on the action rather than its potential fruits, we connect with the real. We make practice a ritual, a `Yazna`, and unlock our potential for excellence. Such actions are known as an offering to the divine.
 
 This idea is not just spiritual; it is grounded in the very structure of our biology.
 
 ### The Learning Engine: Our Neural Network
 
-Our brain is the sophisticated learning engine. In `Hath Yoga`, it is symbolized by the `Sahsrara` Chakra - the crown chakra with a thousand expressions. It is a neural network of staggering complexity. For perspective, a human brain connects roughly 86 billion neurons. Each neuron an average has 7,000 synaptic connections. This amounts to approximately 60 trillion parameters - give or take.  Compare it to the large AI model GPT-3. It had about 185 billion parameters. Which means we have a neural net around 300 times larger than a large language model! 
+Our brain is the sophisticated learning engine. In `Hath Yoga`, it is symbolized by the `Sahsrara` Chakra - the crown chakra with a thousand `vritties` (expressions). It is a neural network of staggering complexity. For a perspective - a human brain connects roughly 86 billion neurons. Each neuron an average has 7,000 synaptic connections. This amounts to approximately 60 trillion parameters - give or take.  Compare it to the large AI model say GPT-3. It had about 185 billion parameters. Which means we have a neural net around 300 times larger than a typical large language model! 
 
-
-Each of us hosts a super-intelligent, general-purpose AI, and there are over seven billion of us, collaborating and learning. This immense natural neural cloud is continuously reconfiguring and evolving. While man-made AIs will undoubtedly grow, it may take them eons to match the energy efficiency and portability of the human brain.
+Each of us hosts a super-intelligent, general-purpose AI, and there are over eight billion of us, collaborating and learning. This immense neural cloud of natural intelligence is continuously reconfiguring and evolving. The evolution is happening inside our brains - at a pace that dwarfs anything physical. In a way, the physical world is our training environment. And now with artificial intelligence, the evolution of conciousness is further accelerating.
 
 Furthermore, this incredible processing power is seamlessly integrated with our "action organs." Our hands alone are connected to 200,000 neurons, translating to nearly one and a half billion synapses. The famous "Homunculus Man" illustration, which depicts the human body in proportion to the cortical area dedicated to its parts, shows our hands as enormous, highlighting their importance in our interaction with the world.
 

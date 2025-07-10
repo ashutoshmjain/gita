@@ -32,6 +32,8 @@ Sure, man made AIs shall improve exponentially, but there are over eight billion
 
 Furthermore, this incredible processing power is seamlessly integrated with our "action organs." Our hands alone are connected to 200,000 neurons, translating to nearly one and a half billion synapses. The famous "Homunculus Man" illustration, which depicts the human body in proportion to the cortical area dedicated to its parts, shows our hands as enormous, highlighting their importance in our interaction with the world. This is very important because AIs may increase our meta-physical space, but the action-space is always the physical realm. With increasing processing capacity, we must double down on our Karma.
 
+![](./au-homunclus.jpg)
+
 In nutshell, we are a complete package: a system designed for data collection, optimization, and testing through a continuous feedback loop. We are fundamentally built to explore our reality. This **raises the question**: what exactly is our reality? Is it the entire observable cosmos, or the tiny sliver we influence with our actions? **And isn't the goal** not to change that tiny box, but to learn from it? Think of your tiny box as your lab. We are here to run our experiments. In the process we do have capacity to impact a positive (or negative) change, but that is a mere byproduct - for if we didn't learn from our action experiments, then this human life is a wasted opportunity - not only for ourselves, but the countless species that help us run our game and seek a benevolent disposition from us. Let's keep our lab clean and caring. Let's make it a place to heal.
 
 ### The Mechanism of Mastery: `Yazna` and Sleep

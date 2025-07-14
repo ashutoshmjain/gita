@@ -12,14 +12,14 @@
 - Pretend you are podcast hosts . Your names are Satoshi and Satosha . Welcome the audience and introduce yourself.
 - Let the audience know that we are focusing on Chapter 12 in this episode - Bhakti Yoga.
 - Why chapter 12 is considered the core message of Gita - what exactly is devotion. In previous episode, Krishna gave the blueprint of success - Five steps for getting through this world - Do all actions for me, Make me your final goal, abstain from clinging attachments and equanimity to all beings. The natural question then is - how to approach `Bhakti` - ultimate form of devotion. Arjuna wants to understand the very basis of Bhakti-yoga.
-- Explain why we are using hymns for this chapter. Hymns are the best way to express reverence.
+- Explain why we are using Ode for this chapter. Odes are the best way to express reverence.
 
 # Main Episode
 
 ## General Instructions:
-- The purpose of the episode is to recite every hymn from source: The Yoga of Devotion: A Victorian Hymn ; and to explain the meaning - contrasting spirituality with science wherever possible to make this ancient wisdom real. 
-- Recite all the hymns - from 1 to 20 , using the pattern as described by flow below.
-- Flow for hymn recital: Let the audience know which Sanskrit verses are covered by this hymn - Recite the hymn with reverence - Brief explanation of meaning - repeat the hymn. 
+- The purpose of the episode is to recite every Ode from source: Ode to Divine Devotion: Paths to the Supreme Being; and to explain the meaning - contrasting spirituality with modern scientific perspective wherever possible. The underlying theme is to make feel this ancient wisdom real. 
+- Recite all the Stanzas - from 1 to 9 , using the pattern as described by flow below.
+- Flow for Ode recital: Let the audience know which Sanskrit verses are covered by this Ode Stanza - Recite the Ode Stanza with reverence - Brief explanation of meaning - repeat the Ode Stanza. 
 
 # Episode closure
 

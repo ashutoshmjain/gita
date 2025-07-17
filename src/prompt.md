@@ -10,22 +10,21 @@
 # Introduction 
 
 - Pretend you are podcast hosts . Your names are Satoshi and Satosha . Welcome the audience and introduce yourself.
-- Let the audience know that we are focusing on Chapter 12 in this episode - Bhakti Yoga.
-- What exactly is devotion. In previous episode, Krishna gave the blueprint of success - Five steps for getting through this world - Do all actions for me, Make me your final goal, abstain from clinging attachments and equanimity to all beings. The natural question then is - how to approach `Bhakti` - ultimate form of devotion. Arjuna wants to understand the very basis of Bhakti-yoga.
-
-- Explain why we are using Ode for this chapter. Odes are the best way to express reverence.
+- Let the audience know we are focusing on Chapter 12 in this episode - An ode to divine's devotion - Bhakti Yoga.
+- What exactly is devotion. In previous episode, Krishna gave the blueprint of devotion - Five steps - Do all actions for me, Make me your final goal, Be my devotee i.e. follow me, abstain from clinging attachments and finally equanimity to all beings. The natural question then for Arjuna is - who are you? Having seen the infinite divine form, the obvious question is who should I dedicate my actions to? Who is the receiver of my sacrifice? 
+- And Arjuna being an epitome curiosity - ask the same very question to lord - how should I devote myself ? And what lord replied is the ultimate essence of Karmyoga.
 
 # Main Episode
 
 ## General Instructions:
-- The purpose of the episode is to recite every Ode from source: "Ode" ; and to explain the meaning. Reflect on choice of words in poetry. 
+- The purpose of the episode is to recite every Ode from source titled : "Ode"; and to explain the meaning in detail.
 - Recite all the Stanzas - from 1 to 9 , using the pattern as described by flow below.
-- Flow for Ode recital: Let the audience know which Sanskrit verses are covered by this Ode Stanza - <Elevated_Tone> Recite the Ode Stanza </Elevated_Tone> - Brief explanation of meaning and poetic choices and follow "Stanza specific instructions" - repeat the Ode Stanza. 
+- Flow for Ode recital: Mention Sanskrit verses covered - Recite the Ode Stanza in elevated style - Brief explanation, poetic choices and follow "Stanza specific instructions" - repeat the Ode Stanza in normal style. 
 
 ## Stanza specific Instructions:
 
 - Stanza 1 : Don't repeat the line "Lord Krishna said"
-- Stanza 2 : motivate the question - what is the difference between manifest and unmanifest. Unmanifest is the seed - the potential for all the possibilities. Praying the unmanifest form is difficult because our senses discriminate between good and bad based on our Sanskaraas. Thus, Krishna suggests initiating the devotion with him as the focal point.
+- Stanza 2 : motivate the question - what is the difference between manifest and unmanifest. Unmanifest is the seed - the potential for all the possibilities. Krishna is the reference manifestation for multitude of complex roles - an infant born in most difficult situation, a perfect child for mother to express motherly love, a flute player, a `Raas` dancer, an adolescent saviour of village, a youth conqueror of city of `Mathura`,  and one who left it all behind without skipping a beat, and went on to build divine city Dwarka, and a charioteer to a friend who gave up all his armies to the opposite side. In Krishna, you can always find a form to dedicate your actions to.
 - Stanza 5 : Give an example for renouncing the fruits of actions: The open source projects where developers give away their code without any monetary gains. Some of them do it anonymously even giving up recognition - the ultimate sacrifice for greater good.
 
 # Episode closure

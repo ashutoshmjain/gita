@@ -1,0 +1,308 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="bhagvadGitaLanding.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg00.html">Podcast</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html">Chapter 1</a></li><li class="chapter-item expanded "><a href="bg02.html">Chapter 2</a></li><li class="chapter-item expanded "><a href="bg03.html">Chapter 3</a></li><li class="chapter-item expanded "><a href="bg04.html">Chapter 4</a></li><li class="chapter-item expanded "><a href="bg05.html">Chapter 5</a></li><li class="chapter-item expanded "><a href="bg06.html">Chapter 6</a></li><li class="chapter-item expanded "><a href="bg07.html">Chapter 7</a></li><li class="chapter-item expanded "><a href="bg08.html">Chapter 8</a></li><li class="chapter-item expanded "><a href="bg09.html">Chapter 9</a></li><li class="chapter-item expanded "><a href="bg10.html">Chapter 10</a></li><li class="chapter-item expanded "><a href="bg11.html">Chapter 11</a></li><li class="chapter-item expanded "><a href="bg12.html" class="active">Chapter 12</a></li></ol></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="hypothesis.html">Hypothesis</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="echoToEssence.html">Echo to Essence</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="genesis.html">Genesis</a></li><li class="chapter-item expanded "><a href="divineArchitecture.html">Architecture</a></li><li class="chapter-item expanded "><a href="divineGlory.html">Grace and Glory</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Chapter 12';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="chapter-12"><a class="header" href="#chapter-12">Chapter 12</a></h1>
+<h1 id="ode-to-divine-devotion-paths-to-the-supreme-being"><a class="header" href="#ode-to-divine-devotion-paths-to-the-supreme-being">Ode to Divine Devotion: Paths to the Supreme Being</a></h1>
+<h2 id="stanza-1-verses-12-1--12-2"><a class="header" href="#stanza-1-verses-12-1--12-2">Stanza 1: Verses 12-1 &amp; 12-2</a></h2>
+<p>Arjuna spake: &quot;Of those who worship Thee, O Lord,<br />
+With constant heart, Thy manifest form adore,<br />
+And those who seek the Unmanifest, unseen,<br />
+Which path, I pray Thee, is the most serene?<br />
+Who are the yogis, Master, true and best,<br />
+To find Thy presence and Thy promised rest?&quot;</p>
+<p>Lord Krishna said: &quot;Who fix their mind on Me,<br />
+And worship with supreme fidelity,<br />
+With hearts devout, and ever joined to Me,<br />
+These perfect yogis truly are to Me.&quot;</p>
+<h2 id="stanza-2-verses-12-3-12-4--12-5"><a class="header" href="#stanza-2-verses-12-3-12-4--12-5">Stanza 2: Verses 12-3, 12-4 &amp; 12-5</a></h2>
+<p>&quot;Yet they who seek the Unmanifest, Unshown,<br />
+Indefinable, pervasive, and unknown;<br />
+The Immutable, the Constant, and the True,<br />
+Beyond all thought, to whom all hearts are due;<br />
+Who quell their senses, with an equal mind,<br />
+And seek the welfare of all humankind;<br />
+They too attain Me, though the path be steep,<br />
+And watch o'er all with love profound and deep.&quot;</p>
+<p>&quot;But for the embodied soul, a harder task<br />
+To seek the Unmanifest, though oft they ask;<br />
+More trouble, greater anguish, they endure,<br />
+For formless path is hard for man impure,<br />
+Whilst consciousness of body doth remain,<br />
+The Unmanifest's attainment causes pain.&quot;</p>
+<h2 id="stanza-3-verses-12-6--12-7"><a class="header" href="#stanza-3-verses-12-6--12-7">Stanza 3: Verses 12-6 &amp; 12-7</a></h2>
+<p>&quot;But they who all their actions cast on Me,<br />
+And make Me paramount, with fervent plea;<br />
+Who meditate with unwavering desire,<br />
+Their souls aflame with love's unending fire;<br />
+Of them I am the swift deliverer,<br />
+From death's dark ocean, and from sorrow's stir.<br />
+From worldly bonds, I free them, swift and sure,<br />
+Whose hearts are fixed on Me, forever pure.&quot;</p>
+<h2 id="stanza-4-verses-12-8-12-9-12-10--12-11"><a class="header" href="#stanza-4-verses-12-8-12-9-12-10--12-11">Stanza 4: Verses 12-8, 12-9, 12-10 &amp; 12-11</a></h2>
+<p>&quot;Therefore, on Me alone thy mind repose,<br />
+In Me alone thy intellect disclose;<br />
+In Me thou shalt abide, beyond all doubt,<br />
+When worldly cares and thoughts are cast without.&quot;</p>
+<p>&quot;If thou canst not with steadfast mind and will,<br />
+My form establish, then pursue Me still<br />
+Through constant practice, diligent and slow,<br />
+And strive through discipline My grace to know.&quot;</p>
+<p>&quot;Should practice prove too arduous for thee,<br />
+Then dedicate thy deeds alone to Me;<br />
+Perform thy duties, for My sake alone,<br />
+And by such actions, shall success be known.&quot;</p>
+<p>&quot;If even this, with weakness, thou canst not,<br />
+Then, self-controlled, renounce each fruit begot<br />
+By every action, from all outcome free,<br />
+And find sweet solace, trusting all to Me.&quot;</p>
+<h2 id="stanza-5-verse-12-12"><a class="header" href="#stanza-5-verse-12-12">Stanza 5: Verse 12-12</a></h2>
+<p>&quot;For knowledge hath a worth above mere toil,<br />
+And meditation purer than its soil;<br />
+Yet higher still, is fruit of action's flight,<br />
+From renunciation flows immediate light<br />
+And peace profound, which doth at once descend,<br />
+Upon the soul, till journey's blessed end.&quot;</p>
+<h2 id="stanza-6-verses-12-13--12-14"><a class="header" href="#stanza-6-verses-12-13--12-14">Stanza 6: Verses 12-13 &amp; 12-14</a></h2>
+<p>&quot;He who bears hatred towards no living thing,<br />
+But friend to all, and ever blossoming<br />
+In tender pity, void of ego's sway,<br />
+Unmoved by pain or pleasure, come what may;<br />
+Forgiving, ever joyful, self-controlled,<br />
+With purpose firm, and spirit brave and bold;<br />
+Whose mind and wisdom are on Me conferred,<br />
+That devotee, my cherished one, is heard.&quot;</p>
+<h2 id="stanza-7-verses-12-15-12-16--12-17"><a class="header" href="#stanza-7-verses-12-15-12-16--12-17">Stanza 7: Verses 12-15, 12-16 &amp; 12-17</a></h2>
+<p>&quot;He from whom the world feels no distress,<br />
+Nor feels the world inflict upon him stress;<br />
+Released from joy, from anger, fear, and dread,<br />
+Such tranquil soul, to Me is dearly wed.&quot;</p>
+<p>&quot;The soul unseeking, pure, and ever bright,<br />
+Expert in duty, free from pain and blight;<br />
+Who hath abandoned all desire's start,<br />
+That cherished devotee doth own My heart.&quot;</p>
+<p>&quot;He who rejoiceth not, nor hateth aught,<br />
+Nor grieves, nor longs for what his soul hath sought;<br />
+Who casts away all good and ill's design,<br />
+That faithful soul, indeed, is truly Mine.&quot;</p>
+<h2 id="stanza-8-verses-12-18--12-19"><a class="header" href="#stanza-8-verses-12-18--12-19">Stanza 8: Verses 12-18 &amp; 12-19</a></h2>
+<p>&quot;In friend and foe, in honour and disgrace,<br />
+In heat and cold, in pleasure's fleeting space;<br />
+From all attachments free, serene and grave,<br />
+To praise and blame alike, his spirit brave;<br />
+In silence found, content with what may be,<br />
+No fixed abode, with mind immovably<br />
+Fixed upon Me, that devotee I call,<br />
+My cherished one, who gives to Me his all.&quot;</p>
+<h2 id="stanza-9-verse-12-20"><a class="header" href="#stanza-9-verse-12-20">Stanza 9: Verse 12-20</a></h2>
+<p>&quot;And they who, full of faith, hold Me supreme,<br />
+And follow faithfully this righteous scheme,<br />
+This nectar of devotion, pure and deep,<br />
+Those faithful ones, My heart doth truly keep,<br />
+As dearest ever, to My spirit nigh,<br />
+Their love a beacon, shining in My eye.&quot;</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="bg11.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="0.0_about.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="bg11.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="0.0_about.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

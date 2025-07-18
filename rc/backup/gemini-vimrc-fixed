@@ -189,8 +189,6 @@ set clipboard=unnamed
 " utf-8 byte sequence
 set encoding=utf-8
 " Some servers have issues with backup files, see #649
-set nobackup
-set nowritebackup
 
 " Having longer updatetime (default is 4000 ms = 4s) leads to noticeable
 " delays and poor user experience
@@ -345,9 +343,3 @@ nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
 nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
-
-nmap <leader><leader>f  :CocCommand eslint.executeAutofix<cr>
-
-
-" snippet
-:iabbrev sdiv <div style="padding-left:40px;font-size:0.9em;">

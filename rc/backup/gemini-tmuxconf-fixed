@@ -1,0 +1,207 @@
+# TMUX_CONF="$HOME/.config/tmux/tmux.conf"
+
+####################
+# General Settings #
+####################
+# prefix key(s)
+# set -g prefix C-a
+
+# 256 colors
+# also keep the TERM be screen* or tmux* all the time or applications
+# might have display problems, see https://github.com/tmux/tmux/wiki/FAQ
+set -g default-terminal "screen-256color"
+set -ga terminal-overrides ",screen-256color:Tc"
+
+# mouse support
+set -g mouse on
+
+# set key mode to vi
+set -g mode-keys vi
+
+# history
+set -g history-limit 10000
+
+# start numbering windows from 1 instead of zero
+set -g base-index 1
+# re-number windows when one is closed
+set -g renumber-windows on
+
+# time to wait for ESC key
+set -g escape-time 0
+# press a key to close display message
+set -g display-time 3000
+# display pane numbers
+set -g display-panes-time 3000
+# wait longer for continous keybindings
+set -g repeat-time 800
+# update interval
+set -g status-interval 3
+
+# Activity monitoring
+setw -g monitor-activity on
+set -g visual-activity off
+
+set -g main-pane-width 50%
+
+
+###############
+# Keybindings #
+###############
+
+# key mapping to reload config file
+bind -N "Reload configuration file" r source-file ~/.config/tmux/tmux.conf
+
+# more vim keybindings in copy mode
+bind -T copy-mode-vi v send-keys -X begin-selection
+bind -T copy-mode-vi V send-keys -X select-line
+bind -T copy-mode-vi C-v send-keys -X rectangle-toggle \; send-keys -X begin-selection
+# copy to system clipboard
+bind -T copy-mode-vi MouseDown1Pane send-keys -X clear-selection
+bind -T copy-mode-vi MouseDown3Pane send-keys -X cancel
+bind -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe 'xclip -in -selection clipboard'
+bind -T copy-mode-vi y send-keys -X copy-pipe-and-cancel 'xclip -in -selection clipboard'
+
+# open panes in the current directory
+bind -N "Split window vertically in pwd"   v split-window -c "#{pane_current_path}"
+bind -N "Split window vertically in pwd"   - split-window -c "#{pane_current_path}"
+bind -N "Split window horizontally in pwd" h split-window -c "#{pane_current_path}" -h
+bind -N "Split window horizontally in pwd" | split-window -c "#{pane_current_path}" -h
+
+# bind vim-like key mapping to move between panes and windows
+bind -N "Go to the pane above"        -r C-k select-pane -U
+bind -N "Go to the pane below"        -r C-j select-pane -D
+bind -N "Go to the pane to the left"  -r C-h select-pane -L
+bind -N "Go to the pane to the right" -r C-l select-pane -R
+bind -N "Go to the next window"       -r C-n next-window
+bind -N "Go to the previous window"   -r C-p previous-window
+
+# some other key bindings from tmux-pain-control plugin
+bind -N "Swap the current window with the previous window" -r < swap-window -t -1
+bind -N "Swap the current window with the next window"     -r > swap-window -t +1
+
+# resize panes
+bind -N "Resize current pane down by 2 lines" -r J resize-pane -D 2
+bind -N "Resize current pane up by 2 lines"   -r K resize-pane -U 2
+bind -N "Resize current pane left by 4 rows"  -r H resize-pane -L 4
+bind -N "Resize current pane right by 4 rows" -r L resize-pane -R 4
+
+# Enable screen-like C-a C-a moving to last window
+bind -N "Go to the last window" C-a last-window
+bind -N "Toggle status bar"     C-b set-option status
+
+####################
+# Root Keybindings #
+####################
+
+# The configs in this section is trying to make tmux behave more like a WM by
+# - using root keybindings,
+# - emulating a "tiled" layout and
+# The keybindings are intended to be similar to AwesomeWM/dwm
+
+# manage panes
+# Navigate
+bind -N "Create a new pane"    -n M-Enter split-window -c "#{pane_current_path}"
+bind -N "Go to the pane below" -n M-j select-pane -Z -t +
+bind -N "Go to the pane above" -n M-k select-pane -Z -t -
+bind -N "Go to the last pane"  -n M-Tab select-pane -Z -t !
+bind -N "Maximize the pane"    -n M-f resize-pane -Z
+# Resize
+bind -N "Resize the master pane left by 4 rows"  -n M-h resize-pane -L 4
+bind -N "Resize the master pane right by 4 rows" -n M-l resize-pane -R 4
+bind -N "Resize the slave pane up by 2 lines"    -n M-H resize-pane -U 2
+bind -N "Resize the slave pane down by 2 lines"  -n M-L resize-pane -D 2
+# move
+bind -N "Move the pane down"      -n M-J swap-pane -d -t +
+bind -N "Move the pane up"        -n M-K swap-pane -d -t -
+bind -N "Move the pane to master" -n M-Space swap-pane -d -t 0
+
+# Windows navigations
+bind -N "Go to the last window"     -n M-Escape last-window
+bind -N "Go to the next window"     -n M-. next-window
+bind -N "Go to the previous window" -n M-, previous-window
+# Goto specific window
+bind -N "Go to window 1" -n M-1 select-window -t :1
+bind -N "Go to window 2" -n M-2 select-window -t :2
+bind -N "Go to window 3" -n M-3 select-window -t :3
+bind -N "Go to window 4" -n M-4 select-window -t :4
+bind -N "Go to window 5" -n M-5 select-window -t :5
+bind -N "Go to window 6" -n M-6 select-window -t :6
+bind -N "Go to window 7" -n M-7 select-window -t :7
+bind -N "Go to window 8" -n M-8 select-window -t :8
+bind -N "Go to window 9" -n M-9 select-window -t :9
+# Move pane to a window
+bind -N "Move the pane to the next window"     -n M-> move-pane -t :+
+bind -N "Move the pane to the previous window" -n M-< move-pane -t :-
+bind -N "Move the pane to window 1" -n M-'!' move-pane -t :1
+bind -N "Move the pane to window 2" -n M-'@' move-pane -t :2
+bind -N "Move the pane to window 3" -n M-'#' move-pane -t :3
+bind -N "Move the pane to window 4" -n M-'$' move-pane -t :4
+bind -N "Move the pane to window 5" -n M-'%' move-pane -t :5
+bind -N "Move the pane to window 6" -n M-'^' move-pane -t :6
+bind -N "Move the pane to window 7" -n M-'&' move-pane -t :7
+bind -N "Move the pane to window 8" -n M-'*' move-pane -t :8
+bind -N "Move the pane to window 9" -n M-'(' move-pane -t :9
+
+# Switch clients
+bind -N "Go to the last session"     -n M-\\ switch-client -l
+bind -N "Go to the next session"     -n M-]  switch-client -n
+bind -N "Go to the previous session" -n M-[  switch-client -p
+
+# Choose tree (like activity view)
+bind -N "Open tree view" -n M-a choose-tree -Z
+# Toggle status line
+bind -N "Toggle the status bar" -n M-b set-option status
+
+# Session-wide
+bind -N "Refresh tmux"       -n M-R refresh-client
+bind -N "Reload config file" -n M-C-r source-file $TMUX_CONF
+bind -N "Detach client"      -n M-Q detach-client
+bind -N "Quit session"       -n M-C-q confirm-before -p "Quit this session? y/n" kill-session
+bind -N "Run tmux command"   -n M-x command-prompt
+bind -N "Run tmux command"   -n M-: command-prompt
+bind -N "List keybindings"   -n M-s list-keys -N
+
+# copy and paste
+bind -N "Enter copy mode" -n M-c copy-mode
+bind -N "Paste"           -n M-v paste-buffer
+
+#########
+# Hooks #
+#########
+
+# Hooks for reload(keep) layout
+set-hook -g pane-exited         { select-layout "main-vertical" }
+set-hook -g after-kill-pane     { select-layout "main-vertical" } # remove panes
+set-hook -g after-split-window  { select-layout "main-vertical" } # create panes
+
+##############
+# Status bar #
+##############
+
+# set the style
+set -g status-style bg=default,bold
+set -g message-command-style fg=colour3,bg=colour8
+set -g message-style bg=colour8
+set -g pane-border-style fg=colour4,bg=default
+set -g pane-active-border-style fg=colour3,bg=default
+
+# statusline
+set -g status-left "#{?client_prefix,[#S], #S }"
+set -g status-left-style fg=colour14,bg=default
+set -g status-right "#(whoami)@#H "
+set -g status-right-length 120
+
+setw -g window-status-separator "  "
+setw -g window-status-style fg=colour7,bg=default
+setw -g window-status-activity-style fg=colour1,bg=default
+setw -g window-status-current-style fg=colour3,bg=default
+setw -g window-status-format "#I#{?window_zoomed_flag,Z, }#W"
+setw -g window-status-current-format "#I#{?window_zoomed_flag,Z, }#W"
+
+set -g status-position "bottom"
+set -g status-justify "centre"
+
+# Plugin
+if "[ -n '/usr/share/tmux-resurrect/resurrect.tmux' ]" {
+    run-shell /usr/share/tmux-resurrect/resurrect.tmux
+}

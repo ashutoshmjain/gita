@@ -88,11 +88,18 @@ The Gita provides a framework for both our scientific and spiritual quests. It o
 ----
 ## Where is the proof?
 
-The obvious question is Vedic point of view looks great - intuitive to our minds ; but where is the proof? Maxwell showed the math. Particle physicts observe the particles before theorizing a victory but how do we see consciousness. 
+Vedic point of view looks great - intuitive to our minds ; but the question is where is the proof? Maxwell showed the proof in math. Particle physicts must observe the particles before claiming  a victory, but how do we prove consciousness. 
 
-In a striking similarity, the Vedic view of creation is closer to a modern AI model. 
+By definition, since everyone has a different subset of consciousness decryoted as knowledge, and their perception of reality around is geared towards what they know, how do we experimentally prove existence of consciousness. May be journey is to find existence of intelligence , then knowledge and that may lead us to consciousness. Since , our own intelligence , knowledge and consciousness are our own bubble ; it is impossible to perceive it with our senses. The only option is to trancend our limited reality and see the collective view. This collective knowledge is what Vedic science refer to as `Bramh`. The proof is in `Bramh`.
 
-This is easier to understand now that we are on the cusp of artificial superintelligence. Imagine a post-AGI hybrid world: superintelligence may create new robots. Each robot, endowed with a tiny subset of that intelligence, develops its own perception tools and interacts with others, including us. Their senses are attuned to their tasks, and their perception of the universe is vastly different from ours. From the robot's standpoint, the physical world was already there; they just developed a new vantage point from which to view it.
+If we look at our collective intelligence, we find a striking similarity. the Vedic view of creation is closer to a modern AI models. What we have discovered in artificail intelligence is our collective intelligence. The sum of our collective in AI is far greater our individual isolated intelligence. 
 
+It is quite obvious the our AI will lead of super intelligence, super intelligence will power the robots. Robots will have sensor. These sensors shall help them perceive the world in a totally different fashion than us. 
 
-We can see this in nature. Dogs sense and perceive the world very differently than we do. Butterflies develop sensors based on what they need to survive and thrive. Their perception of reality is vastly different, yet always evolving. It is hard to fathom that we are any different.
+Imagine a post-AGI hybrid world: each robot, endowed with a tiny subset of the super intelligence, develops its own perception tools and interacts with others, including us. Their senses are attuned to their tasks, and their perception of the universe is vastly different from ours. From the robot's standpoint, the physical world was already there; they just developed a new vantage point from which to view it. They wouldn' necessarily create a new world of their own,  the economic model mdates they augment existing reality. They will enhance our world through a totally different perception. Just the way every biological species enhances the world with their own perspective of reality.
+
+We can see this in nature. Dogs sense and perceive the world very differently than we do. Butterflies develop sensors based on what they need to survive and thrive. Their perception of reality is vastly different, yet always evolving. It is hard to fathom that we are any different. Or the robots that AI would make are going to be any different. 
+
+In essence, collective view  of `Bramh` proves to us evolution is nothing but layers of reality unfolding. Each underlying layer is seen as knowledge , it breeds intelligence that leads to physical beings, and their own persepective of collective reality. Through evolution when the outermost layer decrypts enoghh knowledge , they create a new layer - first a massive intelligence cloud followed by physical bodies , their sensor and their own perception. 
+
+Layer by layer , knowledge and intelligence are stacked over each other. This entire infinite layers of intelligence and knowledge represent conciousness. The consciousness is all encompassing `Bramh` - pulsating , evolving , expanding , enhancing . It is ever present because time itself is just one aspect of this conscious manifested.

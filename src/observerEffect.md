@@ -1,6 +1,6 @@
 bserver Effect in Quantum Mechanics: Science and Philosophy
 
-The **observer effect** in quantum mechanics is a fundamental phenomenon with profound implications spanning physics, philosophy, and our understanding of reality itself. The effect captures how the act of observation or measurement inevitably influences the quantum system being measured, altering its state in ways that defy classical expectations. In this essay, I will synthesize and expand on the various facets of the observer effect, drawing upon key questions we have discussed: the role of the observer, what "observation by a non-conscious being" means, how and why the effect occurs, the relation of consciousness, the evidence regarding macroscopic superposition, entanglement’s role in classical behavior, how the observer’s choice shapes quantum outcomes, and philosophical reflections inspired by the Bhagavad Gita.
+The **observer effect** in quantum mechanics is a fundamental phenomenon with profound implications spanning physics, philosophy, and our understanding of reality itself. The effect captures how the act of observation or measurement inevitably influences the quantum system being measured, altering its state in ways that defy classical expectations. In this essay, we will synthesize and expand on the various facets of the observer effect, drawing upon key questions such as: the role of the observer, what "observation by a non-conscious being" means, how and why the effect occurs, the relation of consciousness, the evidence regarding macroscopic superposition, entanglement’s role in classical behavior, how the observer’s choice shapes quantum outcomes, and philosophical reflections inspired by the Bhagavad Gita.
 
 ## The Role of the Observer in Quantum Mechanics
 
@@ -16,7 +16,7 @@ When a physicist says a quantum system can be "observed" by a non-conscious enti
 
 This implies that the wave function collapse occurs as soon as an interaction leaves a **recordable trace**—be it electronic, photographic, or environmental. The outcome does not rely on anyone later inspecting that record. Even if no human ever examines the result, the physical consequence on the quantum system remains, destroying superpositions such as interference.
 
-Your intuition—that no "observation" truly happens until a human sees it—describes our epistemological limitation, not the physical one. Humans gain knowledge by accessing recorded outcomes, but physics models the system’s evolution based on physical interactions already completed well before conscious awareness.
+The intuition—that no "observation" truly happens until a human sees it—describes our epistemological limitation, not the physical one. Humans gain knowledge by accessing recorded outcomes, but physics models the system’s evolution based on physical interactions already completed well before conscious awareness.
 
 ## How Do We Know the Collapse Happened If No Human Looks at the Record?
 

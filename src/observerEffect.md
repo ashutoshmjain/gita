@@ -1,6 +1,6 @@
 # The Observer Effect: Where Science Meets Philosophy
 
-The **observer effect** is a cornerstone of quantum mechanics, a phenomenon with profound implications for physics, philosophy, and our very understanding of reality. It describes how the mere act of measurement fundamentally alters the quantum system being observed. This principle forces us to reconsider the relationship between the observer and the observed, a question that bridges the gap between modern science and ancient wisdom.
+The **observer effect** is a cornerstone of quantum mechanics, a phenomenon with profound implications for physics, philosophy, and our very understanding of reality. It describes how the mere act of measurement fundamentally alters the quantum system being observed. This principle forces us to reconsider the relationship between the observer and the observed, a question that bridges the gap between modern science and ancient wisdom. Herebelow we describe the "observer effect" for a quantum system pertaining to a single or few elementary particles for similicity. But the effect is equally valid for the quantum fields albeit lot more complex.
 
 ---
 

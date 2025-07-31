@@ -16,7 +16,6 @@
       - [Chapter 13](bg13.md)
     - [Essays](./0.0_about.md)
       - [Hypothesis](./hypothesis.md)
-      - [Observer Effecr](./observerEffect.md)
       - [Continuum](./continuum.md)
       - [Ritual of Actions](./ritualOfActions.md)
       - [Practice and Skills](./practiceAndSkills.md)

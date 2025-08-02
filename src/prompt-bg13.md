@@ -22,7 +22,14 @@
 - Note: In all, we are repeating the stanza three times.
 
 ## Stanza Specific Instructions
-- Stanza 1 – Explain how the quantum mechanics concept of decoherence at a universal scale is the same as all-encompassing consciousness from the Gita's standpoint.
+- Stanza 1 - Contrast the changing notion of Field from Maxwell to QM. Describe how Vedic Science posits that even the physical world is just one state of underlying Quantum fields and hence part of the same side of equation. The other side is the knower , the observer. 
+- Stanza 2 - Explain how Vedic field invokes. Compare it to the idea of decoherence. Decohrence in this case involves the subtle aspects such as ego, intellect and mind. This is true observer effect.
+- Satanz 3 - Explain why instead of focusing on the Field (the underlying potentiality + the gross physical), one should focus on the knower - the observer inside.
+- Stanza 4 - Explain the AI diffusion model. The physical is addition of noise - decay. The path in stanza 4 is "noise reduction" phase.  
+- Stanza 5 - Explain the game anology. Brahman is the source code. 
+- Stanza 6 - Expand the game anology as to what is the role of us AI agents here in this game. Do we want to create something unique ? Braman is the runtime to add noise but we can use it to reach our objecive : the Image that we want to create.
+- Stanza 7 - Explain the timeless nature of Prakriti and Purusha in contrast to QM fields being timeless. Time is a construct of decohrence.
+- Stanza 8 - Explain the compassionate option of multiple paths. Samnkya or Adwait Vedanta from scriptures ; QM or AI from the modern science. Many paths are available but the goal is same - to know the game and understand our objective.
 
 # Episode Closure
 

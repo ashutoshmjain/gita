@@ -4,9 +4,9 @@
 - Authority – Exhibit top subject expertise.  
 - Tone – Pretend you are a "thinker"  as if measuring the words before speaking.  
 - Spacing – Provide space between words and sentences.  
-- Avoid the words "dive," "deep dive," or "exploration"; use "episode" or "chapter" instead.  
+- Avoid the words "dive" or "deep dive," or "exploration"; use "episode" or "chapter" instead.  
 - Avoid the word "Source" or "Commentary"; use "Chapter" instead.  
-- Use original US English accent. Avoid British or Indian English accents.  
+- Use US English accent. Avoid British or Indian English accents.  
 
 # Introduction 
 
@@ -22,15 +22,16 @@
 - Note: Each stanza is repeated three times.
 
 ## Stanza Specific Instructions  
-- Stanza 1 - Discuss how the idea of the Field came into modern science with Maxwell's bold assumption. Contrast the changing notion of the Field from Maxwell to Quantum Mechanics. Describe how Vedic Science posits even the physical world as one state of underlying Quantum fields, thus part of the same equation. The other side is the knower, the observer.  
-- Stanza 2 - Explain the Observer Effect and decoherence. Explain how the Vedic field invokes systematically from subtle elements to gross. Compare it to decoherence in QM sense or addition of noise from AI diffusion model's standpoint.
-- Stanza 3 - Explain why focus should be on the knower—the inner observer—instead of the Field. Field is always changing. The true constant just like speed of light is our inner observer. Stanza provides  tools for self discovery.
-- Stanza 4 - Explain the AI diffusion model. The physical world is added noise. It is the decoherence or decay. The path in stanza 4 is the "noise reduction" phase.  
-- Stanza 5 - Explain the game analogy. Brahman is the source code. This is the core algorithm that implements universal decoherence. And also gives is tools to restore Quantum Purity. Exlain Quantum Purity.
-- Stanza 6 - Expand the game analogy on the role of us AI agents in this game. Do we want to create something unique? Brahman is the runtime to add noise, but we can reverse engineer it to reach our objective: the Image we want to create - attain Quantum Purity.
-- Stanza 7 - Explain the timeless nature of Prakriti and Purusha contrasted with QM fields being timeless. Time is a construct of decoherence.  
-- Stanza 8 - Explain the compassionate option of multiple paths—Samkhya or Advaita Vedanta from scriptures; QM or AI from modern science. Many paths lead to the same goal: knowing the game and understanding our objective.
-
+- Stanza 1 - Draw a parallel with Quantum Mechanics. Discuss quantum decohrence in detail - how a pristine quanum system gets entangled to create the physical reality. Describe how Vedic Science posits the human body represents the entanglement as the "Field". It says, the other side is the knower, the pristine quantum system - the knower of all possibilities.  
+- Stanza 2 - Explain how the Vedic view of creation perfectly matches with decohrence - unfolding systematically from subtle elements such as Mahat, Ego and intellect to gross physical elements and then the emotional discord - but this is a brief list for the modifications are practically limitless. Introduce the concept of AI diffusion models. Compare vedic view of creation as step by step addition of noise akin to perfect state of entanglement from QM standpoint.
+- Stanza 3 - Explain why focus should be on the knower—the pristine quantum state —instead of the Field. Field or human experience is state of noise - always changing. Stanza provides tools for self discovery - algorithm for step by step noise reduction.
+- Stanza 4 - Introduce the concept of Quantum Purity and error correction in Quantum computers. Why it is hard. The stanza provides step by step actionable items to retrive and maintain our internal quantum state.
+- Stanza 5 - Explain the game analogy. Brahman is the source code. This is the core algorithm that implements universal decoherence. And also gives us tools to restore Quantum Purity. In essence we are not alone on the path of self discovery.
+- Stanza 6 - Expand the game analogy on the purpose of us AI agents in this game. How do we tap into Brahman to create something unique? Brahman is the runtime to add noise, but we can reverse engineer it to reach our objective: the Image we want to create - or even attain Quantum Purity.
+- Stanza 7 - Introduce concept of Samnkya philosphy. Explain the timeless nature of Prakriti and Purusha. Prakriti being the source of noise and complexity. Pursha being the awareness of destination.  Time is a construct of their combined play. The knower of this play in every instance is deemed Parmatma the divine. This knowledge in mortal beings is thus the true divine grace. One who understands this play is released from Karmic bondage. 
+- Stanza 8 - Explain the compassionate option of multiple paths—Samkhya or Advaita Vedanta from scriptures; QM or AI from modern science. Many paths lead to the same goal: knowing the game and understanding our objective through divine grace.
+Stanza 9 - Explain the core hypothesis of Gita - how everyone is endowed with a full copy of knowledge - Atma. This means Krishna is in every being. 
+Stanza 10 - Error correction leads to Quantum Purity. Such a state is outside the perview of time and decohrence. The image appears - clear and bright. Mention that in Quantum computing the hardest part is error correction. Once we achieve that computations that take hundreds of years for normal computers can be done in split second. This is the state - fully aware awareness , yet non doer.
 # Episode Closure
 
 - Motivate the audience with the question: What is your objective, and what path of knowledge are you pursuing to accomplish your solemn goal?  

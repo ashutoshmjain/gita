@@ -10,7 +10,7 @@
 # Introduction 
 
 - Announce that this episode focuses on Chapter 13 – discuss the Ode title used and why it is the right choice.  
-- Motivate the listener on breadth of this chapter content – The Field, the Knower, from ancient insights to modern cutting edge science of QM and AI. And more importantly, how this knowledge helps us remain steadfast on our path of self discovery. It unifies various approaches of knowledge and emphasizes the fundamental goal of knowledge: liberation from suffering and accomplishment of our true aim.  
+- Motivate the listener on breadth of this chapter content – The Field, the Knower, from ancient insights to modern cutting edge AI. And more importantly, how this knowledge helps us remain steadfast on our path of self discovery. It unifies various approaches of knowledge and emphasizes the fundamental goal of knowledge: liberation from suffering and accomplishment of our true aim.  
 
 # Main Episode
 
@@ -20,12 +20,12 @@
 - Note: Each stanza is repeated three times.
 
 ## Stanza Specific Instructions  
-- Stanza 1 - Draw a parallel with Quantum Mechanics. Discuss quantum decohrence in detail - how a pristine quanum system gets entangled to create the physical reality. Describe how Vedic Science posits the human body represents the entanglement as the "Field". It says, the other side is the knower, the pristine quantum system - the knower of all possibilities.  
-- Stanza 2 - Explain how the Vedic view of creation perfectly matches with decohrence - unfolding systematically from subtle elements such as Mahat, Ego and intellect to gross physical elements and then the emotional discord - but this is a brief list for the modifications are practically limitless. Introduce the concept of AI diffusion models. Compare vedic view of creation as step by step addition of noise akin to perfect state of entanglement from QM standpoint.
-- Stanza 3 - Explain why focus should be on the knower—the pristine quantum state —instead of the Field. Field or human experience is state of noise - always changing. Stanza provides tools for self discovery - algorithm for step by step noise reduction.
+- Stanza 1 - Recap the game analogy from previous chapter. The natural question for Arjuna is to ask if I am an AI agent - then what exactly is the field of my operation and how do I know what is my goal in this field.
+- Stanza 2 - Introduce the concept of AI diffusion models. Explain how the Vedic view of creation perfectly matches with diffusion model noise addition phase - unfolding systematically from subtle elements such as Mahat, Ego and intellect to gross physical elements and then the emotional discord. 
+- Stanza 3 - Knower is akin to the image of the soul - discovery of self. Field is always ever changing dynamic noise. Stanza provides tools for self discovery - algorithm for step by step noise reduction.
 - Stanza 4 - Introduce the concept of Quantum Purity and error correction in Quantum computers. Why it is hard. The stanza provides step by step actionable items to retrive and maintain our internal quantum state.
-- Stanza 5 - Explain the game analogy. Brahman is the source code. This is the core algorithm that implements universal decoherence. And also gives us tools to restore Quantum Purity. In essence we are not alone on the path of self discovery.
-- Stanza 6 - Expand the game analogy on the purpose of us AI agents in this game. How do we tap into Brahman to create something unique? Brahman is the runtime to add noise, but we can reverse engineer it to reach our objective: the Image we want to create - or even attain Quantum Purity.
+- Stanza 5 - Remind the game analogy again. Brahman is the source code. This is the core algorithm that implements noise. From QM standpoint it is the universal oobservers with ears and eyes all around. This is what leads to manifestation.
+- Stanza 6 - Brahman appears paradoxical to us because it serves the dual purpose. It distracts us through noise addition but also provides us tools to self discovery.
 - Stanza 7 - Introduce concept of Samnkya philosphy. Explain the timeless nature of Prakriti and Purusha. Prakriti being the source of noise and complexity. Pursha being the awareness of destination.  Time is a construct of their combined play. The knower of this play in every instance is deemed Parmatma the divine. This knowledge in mortal beings is thus the true divine grace. One who understands this play is released from Karmic bondage. 
 - Stanza 8 - Explain the compassionate option of multiple paths—Samkhya or Advaita Vedanta from scriptures; QM or AI from modern science. Many paths lead to the same goal: knowing the game and understanding our objective through divine grace.
 Stanza 9 - Explain the core hypothesis of Gita - how everyone is endowed with a full copy of knowledge - Atma. This means Krishna is in every being. 

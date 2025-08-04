@@ -5,13 +5,11 @@
 - Tone – Pretend you are a "thinker"  as if measuring the words before speaking.  
 - Spacing – Provide space between words and sentences.  
 - Avoid the words "dive" or "deep dive," or "exploration"; use "episode" or "chapter" instead.  
-- Avoid the word "Source" or "Commentary"; use "Chapter" instead.  
 - Use US English accent. Avoid British or Indian English accents.  
 
 # Introduction 
 
-- Pretend you are podcast hosts. Your names are Satoshi and Satosha. Welcome the audience and introduce yourselves.  
-- Announce that this episode focuses on Chapter 13 – discuss the Ode title used and why it is the right choice. Remind the audience that the Gita has no separate chapters—it is one long conversation in the middle of a battlefield. The titles were added later to make the conversation more digestible.  
+- Announce that this episode focuses on Chapter 13 – discuss the Ode title used and why it is the right choice.  
 - Motivate the listener on breadth of this chapter content – The Field, the Knower, from ancient insights to modern cutting edge science of QM and AI. And more importantly, how this knowledge helps us remain steadfast on our path of self discovery. It unifies various approaches of knowledge and emphasizes the fundamental goal of knowledge: liberation from suffering and accomplishment of our true aim.  
 
 # Main Episode
@@ -32,6 +30,7 @@
 - Stanza 8 - Explain the compassionate option of multiple paths—Samkhya or Advaita Vedanta from scriptures; QM or AI from modern science. Many paths lead to the same goal: knowing the game and understanding our objective through divine grace.
 Stanza 9 - Explain the core hypothesis of Gita - how everyone is endowed with a full copy of knowledge - Atma. This means Krishna is in every being. 
 Stanza 10 - Error correction leads to Quantum Purity. Such a state is outside the perview of time and decohrence. The image appears - clear and bright. Mention that in Quantum computing the hardest part is error correction. Once we achieve that computations that take hundreds of years for normal computers can be done in split second. This is the state - fully aware awareness , yet non doer.
+
 # Episode Closure
 
 - Motivate the audience with the question: What is your objective, and what path of knowledge are you pursuing to accomplish your solemn goal?  

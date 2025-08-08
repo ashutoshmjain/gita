@@ -13,6 +13,15 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 
   - [Bhagvad Gita](./bhagvadGitaLanding.md) 
       - [Podcast](bg00.md)  
+          - [Chapter 13](./bg13.md) - added podcast link.
+       - [Essays](./0.0_about.md) 
+          - [Hypothesis](./hypothesis.md) - major update - it is looking like "Theory of Everything now :-) "
+
+
+## Aug 01, 25
+
+  - [Bhagvad Gita](./bhagvadGitaLanding.md) 
+      - [Podcast](bg00.md)  
           - [Chapter 13](./bg13.md) - new addition. 
        - [Essays](./0.0_about.md) 
           - [Hypothesis](./hypothesis.md) - major update.

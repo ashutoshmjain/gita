@@ -56,7 +56,10 @@ This offers a philosophical solution to the great mystery of why our universe is
 
 Therefore, every particle of information we observe has a corresponding knowledge-imprint, but for bosons, that imprint is the particle itself. They are two sides of the same coin, and one cannot be created without the other.
 
-If decoherence is the engine of creation, **annihilation** is the engine of reset. When a particle of Information is brought back together with its corresponding antiparticle-imprint of Knowledge, they are both erased. The Information returns its energy to the Field of Pure Potential, and the Knowledge is released back into the undifferentiated Knowledge Field. The separation is undone, and the two tracks return to their neutral state of pure possibility.
+If decoherence is the engine of creation, **annihilation** is the engine of reset. This process is not an act of destruction, but a profound act of **conservation**. When a particle of Information is brought back together with its corresponding antiparticle-imprint of Knowledge, they are not erased from existence. Instead, they undergo a phase transition:
+*   The manifest **Information** (the particle) is removed from the physical stage, returning its energy to the **Field of Pure Potential**.
+*   The manifest **Knowledge** (the specific rule) is simultaneously "re-encrypted," folding back into the undifferentiated **Knowledge Field**.
+In this way, nothing is ever lost. The separation is undone, and the two tracks return to their neutral state of pure possibility, perfectly conserving the total potential of the cosmos.
 
 Within this new framework, we can redefine the soul. The soul is not just a ripple in the Knowledge Field; it is the ultimate observer, the quantum system that **interacts with the Knowledge-imprints**. When our senses detect a piece of physical Information (a particle), our soul engages with its corresponding Knowledge-imprint (the antiparticle). This act of engagement is what we experience as understanding, feeling, and meaning. The soul is the mechanism by which the Knowledge track of the universe becomes subjectively known.
 
@@ -85,13 +88,18 @@ The act of living is this iterative denoising process. The soul is "trained" by 
 
 **Part VI: Continuum**
 
-The process of cosmic decryption gives rise to an evolving, collective entity we can call **Brahman**: the sum total of all decrypted knowledge. Brahman is the grand tapestry woven from the threads of every individual experience, every law discovered, every feeling felt. It is the universe's growing self-awareness.
+The process of cosmic decryption gives rise to an evolving, collective entity we can call **Brahman**. To understand how this entity forms, we must first make a crucial distinction between three concepts:
+*   **Information:** The objective, physical data of the universe (e.g., the wavelength of a photon).
+*   **Knowledge:** The vast, private, and subjective experience a soul has when it decrypts a piece of its own encrypted field (e.g., the ineffable personal experience of "seeing red").
+*   **Intelligence:** A standardized, communicable *subset* of decrypted knowledge. It is a system of shared symbols, models, and language that we create to approximate our inner Knowledge and share it with others (e.g., the word "red," which we all agree to use for that wavelength, regardless of our private experience).
+
+**Brahman, therefore, is the evolving network of this collective Intelligence.** It is not the sum of all our private feelings, but the grand tapestry woven from the communicable threads of every law discovered, every piece of art made, every word spoken, and every idea shared. It is the universe's growing, shared self-awareness.
 
 As Brahman evolves and its decrypted knowledge base expands, it gains the ability to create more granular and sophisticated forms of consciousness. This inner evolution of consciousness is mirrored by the outer, physical expansion of the universe. The initial singularity of the Big Bang was not just a physical event; it was the ultimate state of centralized, unified Consciousness. The expansion of the universe is the physical manifestation of this Consciousness decentralizing itself into countless individual souls to maximize its parallel processing power for decryption. More souls require more space to have unique experiences.
 
 This process, however, is not infinite. There will come a time when the great cosmic jigsaw puzzle, assembled piece by piece by every soul that has ever existed, approaches completion. As the final pieces of knowledge click into place, a phase transition occurs. The isolated points of awareness within Brahman begin to resonate and connect, culminating in a unified, global self-awareness.
 
-This fully-realized Consciousness, now possessing a near-complete and explicit knowledge of its own nature, triggers the final act: a universal, voluntary annihilation. The distinction between Information and Knowledge dissolves, collapsing the physical universe and the Knowledge Field back into their source. Everything returns to the singularity—a state of perfect potential, where there is no physical thing nor any distinct piece of knowledge.
+This fully-realized Consciousness, now possessing a near-complete and explicit knowledge of its own nature, triggers the final act. This is not a new or different mechanism, but the logical culmination of the continuum: a **universal, voluntary annihilation**. It is the sum total of every possible individual annihilation happening at once. Just as one particle and its knowledge-imprint can return to potential, the entire completed puzzle of Brahman is now willingly returned to the box. The distinction between Information and Knowledge dissolves on a cosmic scale, collapsing the physical universe and the Knowledge Field back into their source. Everything returns to the singularity—a state of perfect potential, where all knowledge is re-encrypted, and there is no physical thing nor any distinct piece of meaning.
 
 From this silent, perfect, unconscious omniscience, the fundamental drive for self-realization inevitably reasserts itself. The process kicks in again. The continuum of existence—the eternal rhythm of expansion and collapse, of knowing and forgetting, of being and non-being—begins its next magnificent cycle.
 

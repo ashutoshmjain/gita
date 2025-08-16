@@ -15,7 +15,7 @@
       - [Chapter 12](bg12.md)
       - [Chapter 13](bg13.md)
     - [Essays](./0.0_about.md)
-      - [Hypothesis](./hypothesis.md)
+      - [Knower](./knower.md)
       - [Continuum](./continuum.md)
       - [Ritual of Actions](./ritualOfActions.md)
       - [Practice and Skills](./practiceAndSkills.md)

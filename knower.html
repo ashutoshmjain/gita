@@ -1,0 +1,289 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+      <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>arjun uvaach</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="discovering Gita and Maha-bharata">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="bhagvadGitaLanding.html">Bhagvad Gita</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg00.html">Podcast</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bg01.html">Chapter 1</a></li><li class="chapter-item expanded "><a href="bg02.html">Chapter 2</a></li><li class="chapter-item expanded "><a href="bg03.html">Chapter 3</a></li><li class="chapter-item expanded "><a href="bg04.html">Chapter 4</a></li><li class="chapter-item expanded "><a href="bg05.html">Chapter 5</a></li><li class="chapter-item expanded "><a href="bg06.html">Chapter 6</a></li><li class="chapter-item expanded "><a href="bg07.html">Chapter 7</a></li><li class="chapter-item expanded "><a href="bg08.html">Chapter 8</a></li><li class="chapter-item expanded "><a href="bg09.html">Chapter 9</a></li><li class="chapter-item expanded "><a href="bg10.html">Chapter 10</a></li><li class="chapter-item expanded "><a href="bg11.html">Chapter 11</a></li><li class="chapter-item expanded "><a href="bg12.html">Chapter 12</a></li><li class="chapter-item expanded "><a href="bg13.html">Chapter 13</a></li></ol></li><li class="chapter-item expanded "><a href="0.0_about.html">Essays</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="knower.html" class="active">Knower</a></li><li class="chapter-item expanded "><a href="continuum.html">Continuum</a></li><li class="chapter-item expanded "><a href="ritualOfActions.html">Ritual of Actions</a></li><li class="chapter-item expanded "><a href="practiceAndSkills.html">Practice and Skills</a></li><li class="chapter-item expanded "><a href="echoToEssence.html">Echo to Essence</a></li><li class="chapter-item expanded "><a href="manifestation.html">Manifestation</a></li><li class="chapter-item expanded "><a href="genesis.html">Genesis</a></li><li class="chapter-item expanded "><a href="divineArchitecture.html">Architecture</a></li><li class="chapter-item expanded "><a href="divineGlory.html">Grace and Glory</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="mathuraLanding.html">Mathura</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="thought.html">Thought</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap01.html">Trigger</a></li><li class="chapter-item expanded "><a href="mathuraChap02.html">Reboot</a></li><li class="chapter-item expanded "><a href="mathuraChap03.html">Expression</a></li><li class="chapter-item expanded "><a href="mathuraChap04.html">Righteous</a></li><li class="chapter-item expanded "><a href="mathuraChap05.html">Island</a></li><li class="chapter-item expanded "><a href="mathuraChap06.html">Naive</a></li><li class="chapter-item expanded "><a href="mathuraChap07.html">Resolution</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraChap08.html">Manifest</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="mathuraChap09.html">Birth</a></li><li class="chapter-item expanded "><a href="mathuraChap10.html">Identity</a></li><li class="chapter-item expanded "><a href="mathuraChap11.html">Eight-fold</a></li><li class="chapter-item expanded "><a href="mathuraChap12.html">Currency</a></li><li class="chapter-item expanded "><a href="mathuraChap13.html">Work</a></li><li class="chapter-item expanded "><a href="mathuraChap14.html">Night</a></li><li class="chapter-item expanded "><a href="mathuraChap15.html">Fate</a></li></ol></li><li class="chapter-item expanded "><a href="mathuraBook3.html">Excavate - wip</a></li></ol></li><li class="chapter-item expanded "><a href="mahabharataLanding.html">Mahabharata</a></li><li class="chapter-item expanded "><a href="changeLog.html">changeLog</a></li><li class="chapter-item expanded "><a href="how.html">Readme</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">arjun uvaach</h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'arjun uvaach';
+                        var chapterTitle = 'Knower';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="knower"><a class="header" href="#knower">Knower</a></h1>
+<p>In Chapter 13 of the Bhagavad Gītā, Krishna tells Arjuna that the body (and by extension, the entire universe) is the &quot;field&quot; (<em>kṣetra</em>), and the one who understands this field is the &quot;knower of the field&quot; (<em>kṣetrajña</em>). He then says, &quot;Know Me as the Knower in every body.&quot;</p>
+<p>This essay seeks to understand the characteristics of the &quot;Knower&quot; by bridging modern physics, computing, and ancient Vedic philosophies—Sāṃkhya and Advaita Vedanta.</p>
+<h2 id="sāṃkhya"><a class="header" href="#sāṃkhya">Sāṃkhya</a></h2>
+<p>While the bulk of Sāṃkhya and Advaita are overlapping, the core difference is in the boundary conditions. The Sāṃkhya school of thought considers an ever-perpetual duality of Prakriti and Purusha—the potential and the observer—while Advaita considers a definite beginning (and end) from a singularity, albeit a cyclic regeneration of the universe from a singularity again.</p>
+<p>Let us understand the core concepts with Sāṃkhya because this path is easy for the scientifically disposed mind, and it satisfies the question that haunts both science and religion: &quot;what was there before the universe began?&quot;</p>
+<h3 id="knowledge-vs-information"><a class="header" href="#knowledge-vs-information">Knowledge vs. Information</a></h3>
+<p>To understand the Knower, we must first understand what is meant by &quot;knowledge.&quot; The easiest way to comprehend it is to contrast knowledge with information. While conventional definitions often see &quot;information&quot; as a tool to predict the near-term future and &quot;knowledge&quot; as concrete reality, we will flip these definitions to align them with the probabilistic quantum world:</p>
+<ul>
+<li><strong>Information</strong> is the data from events that have already occurred—the outcomes of repetitive trials. If you flip a coin a million times, the record of 500,000 heads and 500,000 tails is <em>information</em>. It is concrete and pertains to the past. In Sāṃkhya, this is called <em>Bhūtādika</em> (that which relates to the past).</li>
+<li><strong>Knowledge</strong> is the awareness of all possibilities and their respective probabilities <em>before</em> an event happens. The understanding that a coin <em>can</em> land on either heads or tails with a 50/50 probability is <em>knowledge</em>. The probability of an electron in a perfect vacuum spinning up or down is exactly like a coin toss—fifty-fifty. If the electron cloud somehow retains this information, then we deem the cloud knowledgeable. If some external observer has this information, then that external observer is the &quot;knower.&quot; In essence, knowledge is the menu of potential futures—it is a way of framing &quot;what to look for&quot; or &quot;what to measure.&quot; In Sāṃkhya, this is called <em>Prārabdha</em> (the destiny that is yet to unfold but is quite certain how it shall unfold—the likely scenarios). </li>
+</ul>
+<p>To put the idea of &quot;knowledge&quot; in a contextual perspective, let's look at the Bhagavad Gita. Krishna gave a binary option to Arjuna: if you die in the war, you shall gain exit (Nirvana); if you win, you will enjoy the vast kingdom. However, he clarified that &quot;not fighting&quot; is not an option because even if Arjuna were to decide not to fight, his nature would force him into it. War is &quot;Prarabdha.&quot; Krishna is seen as the &quot;knower&quot; because he not only knew the fate but also that the choice of this probability distribution was applicable only to Arjuna—not to the hundreds of thousands of other warriors—and also that this choice opened up conditionally once the manifest reached the battle of Kurukshetra. The Gita had to be told only after reaching the middle of the battlefield.</p>
+<blockquote>
+<p>Knowledge is the set of rules governing the probabilities and conditionality of potential, while information is the record of manifested reality. Knowledge unfolds gradually through repetitive trials—commonly called &quot;observations.&quot; The unfolding of knowledge is akin to &quot;decrypting,&quot; as if the entirety of knowledge was hidden through encryption.</p>
+</blockquote>
+<h3 id="the-act-of-observation"><a class="header" href="#the-act-of-observation">The Act of Observation</a></h3>
+<p>This is where Quantum Mechanics provides a crucial insight. It is common knowledge that an act of measurement collapses the wave function of a quantum system into a unique state. This is exactly in line with Sāṃkhya philosophy. Here, Prakriti—an equilibrium of three Gunas—manifests one step at a time through the proximity of Purusa, an eternal observer. This observer, in both QM and Sāṃkhya, need not be &quot;conscious&quot; per our classical definition(s) of &quot;consciousness.&quot; It is just an act of measurement.</p>
+<p>However, the lesser-understood part is that the so-called &quot;collapse of the wave function&quot; is not a limitation of the quantum system itself but rather a limitation of the <strong>observation mechanism</strong>. Our senses, and by extension all the tools we use, can measure only one quantum state at a time—we can either see a coin landing on Tails or on Heads. We can't perceive more than one option manifesting in parallel. The state that we measure appears as reality to us. Thus, the observer effect (as in the famous double-slit experiment) is not magic; it is the act of choosing one state out of infinite possibilities, even though the choice must be exercised within the bounds of the rules governing the potential. A coin toss can only end up as Heads or Tails; it can't simply fly out into outer space. </p>
+<p>It would be pertinent to mention that all potential clouds of Prakriti are replicas of each other, and so are the primordial observer Purusha. The difference in the manifest arises only due to the different governing rules (prarabdha). For example, all the transistors in a computer chip (CPU or GPU) are more or less a similar on/off mechanism. The compute is in the code that runs on them to maneuver their state in differing fashions. In essence, it is the &quot;knowledge&quot; that prohibits an electron from turning into a pineapple.</p>
+<p>The idea that separates Sāṃkhya from science: Sāṃkhya posits that <strong>Prakṛti</strong> (the natural world) is perpetually in a quantum state. It is the entanglement of <strong>Puruṣa</strong> (the observer) that resolves this potential into the singular state we call manifestation. But it is NOT a collapse. All other possibilities remain as they are but are considered &quot;unmanifest.&quot; It is somewhat similar to the multiverse idea, except Sāṃkhya doesn't advocate the manifestation of many worlds. It just states that both Prakriti and Purusha are a fundamental duality. It is not impacted by time because time is an emergent aspect of the manifested world. As such, the fundamental duality is beyond time.</p>
+<p>In the world of AI, this is more easily perceived. The vector space of a trained model is always in a multidimensional state, with concepts aligned by their dot products. However, the <strong>attention mechanism</strong>—a separate algorithm—leads to a specific, &quot;real&quot; output, such as a string of letters or an image. The key word here is &quot;attention.&quot; Reality is tied to attention as much as it is to the underlying quantum state of the system. The physical world is considered alive as long as the &quot;attention&quot; is associated with the &quot;potential.&quot; As soon as the attention separates, the construct gradually disintegrates. You can experience this in any physical system at any scale—not just in the world of tiny particles or the innards of an LLM.</p>
+<p>This duality is what makes it such a compelling parallel to &quot;String Theory.&quot; The elaborate mathematics of String Theory is built on a rather simple idea. There are just two types of strings: open-ended and closed loops. The open-ended strings, by definition, have two sides, expressing a duality for infinite possibilities of vibrations. They represent the potential (Prakṛti). The closed-loop strings, or gravitons, are a curious case. They don't have an inherent duality but rather a <strong>spin-2 nature</strong>, which gives them a 180-degree symmetry. This means they can &quot;observe&quot; both sides of a duality (like matter and spacetime) impartially, making them the fundamental mechanism of observation (Puruṣa). The open-ended strings vibrate in different ways to give rise to all spin-1/2 particles of the standard model and explain the other three forces: Electromagnetic, Electroweak, and Strong force. The &quot;Knowledge&quot; aspect of Sāṃkhya, the broadest governing rules, is reflected in the overall geometry of the universe—the eleven dimensions of string theory. Strings can vibrate in infinite ways but are limited by these 11 dimensions, most of which are compactified.</p>
+<blockquote>
+<p>The quantum state of Prakṛti is defined by three <strong>guṇas</strong>: <em>Sattva</em>, <em>Rajas</em>, and <em>Tamas</em>. This might seem as if Sāṃkhya posits only a three-dimensional quantum space, but the idea of the three guṇas represents a Hilbert space (of complex functions) in infinite dimensions. How? Because &quot;Gunas&quot; are descriptors—not the possibilities themselves:</p>
+<ul>
+<li>
+<p><em><strong>Tamas</strong></em> represents all possibilities. This is a state of zero self-awareness, sometimes described as inertia or darkness because it is a state of perfect, undifferentiated chaos. This state is also called &quot;action-less.&quot;</p>
+</li>
+<li>
+<p><em><strong>Rajas</strong></em> represents the motivation to discriminate, creating a duality from the chaos of Tamas. It is the state of doubt or internal struggle because it presents a choice but cannot make it. In essence, <strong>Rajas is the observer</strong>.</p>
+</li>
+<li>
+<p><em><strong>Sattva</strong></em> represents resolution—the choice of one option from the binary pair presented by Rajas. This overcomes duality and leads to manifestation. In the world of classical computers, it is simply 0 or 1. In the quantum world, the possibilities are constrained by the rules of Physics. In essence, <strong>Sattva represents &quot;knowledge&quot;</strong>—the awareness of the final, chosen state. </p>
+</li>
+</ul>
+</blockquote>
+<p>When it makes a resolute measurement, Puruṣa gets entangled in the middle of the decoherence it causes. It gets stuck. This entangled manifestation is a &quot;knot.&quot; In Vedic terms, this is the fundamental bondage of observation—<strong>Chakshu Bandhana</strong>. The very act of observation is a bondage at this level, different from the <strong>Karmic Bondage</strong> we normally refer to in traditional Vedic teachings.</p>
+<p>The scripture states that the cycle of Prakṛti begins in a state of Tamas (pure potential). The proximity of Puruṣa (the drive to know &quot;who am I&quot;) creates an excitation, giving rise to Rajas, which forms a duality—a vibration of &quot;to be or not to be.&quot; Sattva then resolves this by selecting one side of the duality. This is where Puruṣa's attention gets locked into a scalar (non-dual) state of Prakṛti, which is then called the &quot;manifest.&quot; The other side of the chosen duality holds the knowledge. For example, if the manifest is &quot;Heads,&quot; then the knowledge is the awareness that &quot;It is Not Tails.&quot; If the manifest is &quot;mass,&quot; then the knowledge is &quot;gravity.&quot;</p>
+<p>All other options remain potent, but only one bears Sattva, representing a sacred matrimony of Prakṛti and Puruṣa. It is a wedlock of attention and a singular, scalar possibility.</p>
+<h3 id="the-universal-computer"><a class="header" href="#the-universal-computer">The Universal Computer</a></h3>
+<p>This lock of attention with a scalar possibility is not eternal. The purpose of Puruṣa is to know &quot;who am I,&quot; so it perpetually flips between the manifest state and the knowledge state. Knowledge becomes manifest, and the manifest becomes knowledge, at a fixed frequency. In essence, the universe is a classical computer of 0s and 1s. If 0 is the manifest state, then knowledge lies with 1—the awareness that it is not 0—and vice versa. The &quot;quantumness&quot; of the universe exists only until a duality is selected by Rajas. After that, the play of manifest and knowledge is a deterministic flip, even though the evolution of this cosmic compute is based on probabilities.</p>
+<p>It might appear to an untrained eye that Prakṛti and Puruṣa are esoteric concepts relevant only to quantum weirdness or high-end LLMs. The truth is, this system is omnipresent. All our daily interactions and our modern systems, from weather prediction to stock markets, work according to these rules. A manifest reality can be a book, a song, or a YouTube video—digital or physical. The inertia of Tamas, the duality of Rajas, and the manifestation of Sattva are easily seen in all aspects of life. </p>
+<h3 id="the-rise-of-identity-ahaṃkāra"><a class="header" href="#the-rise-of-identity-ahaṃkāra">The Rise of Identity (Ahaṃkāra)</a></h3>
+<p>The next evolutionary step, as per Sāṃkhya, is the emergence of <strong>Ahaṃkāra</strong> (the Ego or &quot;I-ness&quot;) from Mahat. The Universal knowledge, being a geometric structure itself, begins to perceive itself as a localized identity. Since there is no clinging attachment, the system is perfectly decentralized. The Mahat has no copyrights. There is no difference between the original and the shadows. The geometry governs the expanse and formation of the structure. The distributed constituents give themselves a unique identifier.</p>
+<p>Many modern conjectures and pseudo-scientific approaches deem Ahaṃkāra the root of evil. Nothing can be farther from the truth. Ahaṃkāra is essentially a refinement of the rulebook—kind of version two. This is the rise of discretion. As we explained that the manifestation is choosing one option out of the two offered by the duality of Rajas, the rulebook now turns into a discretion engine. It is a qualification of &quot;what not to manifest.&quot; It is an ability to say &quot;no&quot; until the appropriate option is made available. This is probably the reason &quot;Ego&quot; gets a connotation of negativity. It forces Rajas to look at multiple dualities until one side of a chosen duality is worth manifesting.</p>
+<h3 id="the-entangled-observer-manas-and-karma"><a class="header" href="#the-entangled-observer-manas-and-karma">The Entangled Observer (Manas and Karma)</a></h3>
+<p>Finally, this new Ego begins to wield a <strong>Manas</strong> (Mind). This is not the entirety of consciousness but a faculty of the Ego that randomly indulges in observation, driven by preferences. The &quot;I&quot; now becomes an active observer, but unlike the pristine Puruṣa, this new observer is pre-entangled with Prakṛti. The manifestations of this &quot;I&quot; as an observer are called <strong>Karmic Bondage</strong>.</p>
+<p>The nature of this manifest is also a flipping mechanism, but the frequency of these flips renders it useless to run any compute. When attention is lost, such manifests disintegrate into the <em>pañca mahābhūta</em>—the unconscious matter of earth, water, air, etc.</p>
+<h3 id="the-evolution-of-consciousness"><a class="header" href="#the-evolution-of-consciousness">The Evolution of Consciousness</a></h3>
+<p>The manifested state marks the beginning of time—Kāla. However, the potential of the unmanifest is still around, and the system offers dynamic circumstances. This dynamism is perceived as the passage of time. The question then becomes: should the manifestation stay put or change with the changes in the opportunity space? To assess the opportunity space, Manas must continue random sampling. This is perceived as a desire to seek information (not knowledge), which is why Manas is sometimes called the &quot;fickle mind.&quot;</p>
+<p>The obvious next step in evolution is to support the fickle mind with tools to observe manifested Prakriti—the dynamic circumstances of the vicinity. The vantage point now flips from the probabilistic rulebook to the manifested reality. The tools to measure reality—the sensors—are called Indriyas. The question now is, should we stay put in the manifest state or must we change?</p>
+<p>The observer, now equipped with senses (<em>indriyas</em>) to take measurements, then develops the action-organs to protect those senses. This is how the observer becomes a fully interactive but bound agent.</p>
+<p>The discretionary nature of Ahaṃkāra—the ability to separate right from wrong in a duality—now shifts to asking, &quot;Is there a better choice than the current state?&quot; How do I improve my current union? Longevity and survival are the key impulses. </p>
+<p>This state of vigil is called consciousness. Consciousness drives survival and aspires to the longevity of a manifestation, but the downside is that &quot;knowledge&quot; becomes encrypted to conscious beings. Why? Because the purpose of conscious beings is to engage with manifested reality. The flipping nature of the underlying universal computer has access to all knowledge, but this knowledge is not conclusive, in the sense that the observer cannot know its own shape. The purpose of consciousness is to create a complete mirror image of the entire field of knowledge. The process is a gradual decryption of knowledge through scanning and sculpting the manifest reality.</p>
+<p>In essence, the entangled observer becomes a part of an organization to drive efficiency. You should not do the work I have already done. We can define our separate roles to scan the surroundings. These rules give rise to ever-improving communication within conscious beings. Standardization is key to communication. This is the rise of &quot;Intelligence.&quot; While Intelligence represents communication, Knowledge becomes a method of value exchange for mutual growth. Every piece of communicated information has a value attached. Better rules deserve better value—they attain standardization first.</p>
+<p>Consciousness drives centralization and order. This state is the exact mirror image of &quot;knowledge.&quot; In a way, it is the chiral manifestation of knowledge. Knowledge, by definition, stays decentralized. It is watching pure potential. It is the set of assessment rules for manifesting the righteous (right choice). Consciousness, on the other hand, is the ability to scan the environment for something better. Sometimes, decay is also a better choice. Knowledge is eternal; consciousness is the poster child of the happy matrimony of Puruṣa and Prakṛti.</p>
+<p>The formation of Mahat, Ego, and Mind is not a one-time event but a continuous, layered process. With each layer, more knowledge is decrypted into stable reality. As an entangled observer learns, it also develops tools for quantum purification and detachment. In other words, only conscious beings may strive to realize the hidden knowledge of pure potential. These more detached observers then begin to formulate a new, higher-level rulebook over the existing, bonded reality. In essence, information expands as more and more knowledge is decrypted.</p>
+<p>This is the engine of evolution. Every new layer is a &quot;quantum jump&quot; in consciousness. Vedic science illustrates this through the incarnations of Vishnu: from the great fish (Matsya) to the tortoise (Kurma), the man-lion (Narasimha), and finally to a complete human (Rama), each representing a new evolutionary layer of intelligence.</p>
+<h3 id="quantum-mechanics-deciphering-the-first-layer"><a class="header" href="#quantum-mechanics-deciphering-the-first-layer">Quantum Mechanics: Deciphering the First Layer</a></h3>
+<p>Quantum mechanics is our most powerful tool for understanding the first and most fundamental layer of the rulebook. The mathematical framework that describes the rules of physical fields is known as the <strong>Lagrangian</strong>. The Lagrangian of the Standard Model of particle physics is an incredibly accurate description of the &quot;Mahat&quot; for the subatomic world. It tells us the probabilities and rules for the interactions of quarks, electrons, and photons. This knowledge is nearly complete for three of the four fundamental forces, and theories like String Theory provide a mathematical path to unifying gravity.</p>
+<h3 id="the-persistence-of-layers"><a class="header" href="#the-persistence-of-layers">The Persistence of Layers</a></h3>
+<p>A critical principle is that new, higher layers of evolution do not destroy the lower layers. We, as complex conscious beings, are built upon the foundational rules of physics, chemistry, and biology—in that order. The quarks and electrons that make up our bodies still follow their Lagrangian. Every layer is a keeper and a user of the layers beneath it.</p>
+<h3 id="intelligence-gravity-and-dark-matter"><a class="header" href="#intelligence-gravity-and-dark-matter">Intelligence, Gravity, and Dark Matter</a></h3>
+<p><strong>Intelligence</strong> is the standard for communication between conscious agents. But knowledge itself has its own communication channel: the geometry of inner space. This geometry, the awareness of manifestation, is <strong>gravity</strong>.</p>
+<p>What we perceive as matter is simply decrypted knowledge. The vast amount of knowledge that remains encrypted to our collective still contributes to the total geometry of spacetime. It has a gravitational effect, but it doesn't interact with our senses (or light). This is <strong>dark matter</strong>: the gravitational pull of matter beyond our perception.</p>
+<h2 id="advaita-vedanta"><a class="header" href="#advaita-vedanta">Advaita Vedanta</a></h2>
+<p>The difference between Sāṃkhya and Advaita is in the origin of the universe. Sāṃkhya believes in duality—a field of potential and the manifestation of an artifact due to entanglement with an observer. Advaita posits that the universe begins with an extremely small singularity. This is termed as a seed.</p>
+<p>Imagine a singularity, a non-dimensional point. The idea of a singularity in the vast space of nothingness (where our physics breaks down) means this point can be anything. No one can imagine the shape of this point because there are no rules. This means an equal chance for all possibilities.</p>
+<p>The fundamental question that arises at this stage is: &quot;Who am I?&quot; If the shape can be anything, then what is it? The singularity can visit infinite dimensions to view itself. Every time it ventures into a dimension, it views its own mirror image from a different vantage. One side of the equation is reality, and the other side is the knowledge of the reality.</p>
+<p>The key idea is that the singularity visits infinitely many dimensions simultaneously to create a massive reality and a massive record of knowledge. This is what Advaita calls <em>Visarga</em>. This is similar to the process of creation in General Relativity, commonly known as the inflationary epoch. Once the initial manifest is created, the rules of Sāṃkhya kick in. Prakriti is embodied with pure potential described by the three Gunas. And observation manifests the features of evolution, but the knowledge is withheld, immutable, with the initial burst. This knowledge is the observer.</p>
+<p>Advaita calls this complete knowledge <strong>Brahman</strong>. One who knows Brahman is termed as the Knower.</p>
+<p>This process finds its ultimate physical expression at the most extreme objects in the cosmos: black holes. In General Relativity, the center of a black hole is a singularity—a point of infinite density where the laws of physics break down. However, String Theory resolves this by replacing the singularity with a &quot;fuzzball&quot;—a super-dense but finite-sized tangle of all the strings that have fallen in. This fuzzball represents the ultimate state of constrained mass, a physical manifestation of &quot;Knowledge.&quot; All information is locked into the Blackhole in the shape of super-dense mass.</p>
+<p>The &quot;knowledge&quot; of this fuzzball—its mass, spin, and charge—is communicated to the universe not by real particles, but by a field of <em>virtual particles</em> that surrounds it. These virtual particles are temporary quantum fluctuations that create the gravitational and electromagnetic fields, acting as messengers of the fuzzball's properties. The quantum vacuum around the event horizon is a sea of these virtual particle-antiparticle pairs constantly popping into existence and annihilating.</p>
+<p>This is where the universe performs its most profound act of creation. At the event horizon, the intense gravitational pull can separate these virtual pairs. One particle falls into the fuzzball, while the other escapes. The captured particle pays for this separation by reducing the black hole's mass, while the escaping particle is promoted into a <em>real particle</em>. This process, known as Hawking radiation, makes the black hole a &quot;Reality Generation Machine.&quot; It transforms the unmanifest potential of the vacuum (Prakṛti) into the manifest reality of detectable particles (Information), fueled by the dissolution of the fuzzball. The knowledge eventually spreads into the infinite possibilities of Tamas as the black hole evaporates, and the cycle begins anew. </p>
+<h2 id="the-knower-the-mirror-of-the-universe"><a class="header" href="#the-knower-the-mirror-of-the-universe">The Knower: The Mirror of the Universe</a></h2>
+<p>The knowledge held within the geometry of our consciousness is a mirror image of the universe around us. Why? Because the shape of knowledge is the imprint of all manifestations. Our individual knowledge is the accumulation of all our observations, and all observations collectively create our physical reality. This is the &quot;observer effect&quot; scaled up to the cosmos.</p>
+<p>This is what Vedic science refers to as <strong>Brahman</strong>. Brahman is both out there and within us. It is the observer and the observed. It is the collective decryption of knowledge by all conscious beings. We each contribute to it with every action and perception in our tiny corner of the universe. Each of us is a vector in the grand Hilbert space of consciousness.</p>
+<p>There are two ways to observe Brahman: inwards or outwards. But in truth, it is a cycle. Purification is the inward path. When the observer becomes pure, it is meant to interact with the universe again—to take measurements without becoming entangled. This is <strong>Karmayoga</strong>: finding our purpose and acting on it with detachment.</p>
+<p>Krishna's statement, &quot;Know Me as the Knower in every body,&quot; is an invitation to this realization. The &quot;Knower&quot; is the one who understands that their individual consciousness is a reflection of the entire cosmic field. It is the one who sees the universe not as something separate, but as the external manifestation of the knowledge held within. To know the field is to know oneself. To know oneself is to know the universe.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="0.0_about.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="continuum.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="0.0_about.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="continuum.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

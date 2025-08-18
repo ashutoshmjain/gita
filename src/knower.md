@@ -4,7 +4,7 @@ In Chapter 13 of the Bhagavad Gītā, Krishna tells Arjuna that the body (and by
 
 > He then says, "Know Me as the Knower in every field."
 
-This essay seeks to understand the characteristics of the "Knower" by bridging modern physics, computing, and ancient Vedic philosophies—Sāṃkhya and Advaita Vedanta. At the very outset, it is a rather ambitious task, because knowing the knower is somewhat like trying to wrap your mind around the idea of God.
+This essay seeks to understand the characteristics of the "Knower" by bridging modern physics, computing, and ancient Vedic philosophies—Sāṃkhya and Advaita Vedanta. At the very outset, it is a rather ambitious task, because knowing the knower is somewhat like trying to wrap your mind around the idea of divine creator - God!
 
 ## Sāṃkhya
 
@@ -23,15 +23,22 @@ To put the idea of "knowledge" in context, let's look at the Bhagavad Gita. Kris
 
 > Even if it may conflict with formal epistomology, for the sake of this essay, the "Knowledge" is the set of rules governing the probabilities and conditionality of potential, while information is the record of manifested reality. 
 >
-> Knowledge unfolds gradually through repetitive trials—commonly called "attentive observations." Which means every new concrete event (information) adds to a cumulative knowledge base (of failures). It is like a long list of failures that finally led to successful trial. Think of it as if you are solving a cryptogrphic puzzle. Every attempt is a failure untill you find one that solves the puzzle.
+> Knowledge unfolds gradually through repetitive trials—commonly called "attentive observations." Which means every new concrete event (information) adds to a cumulative knowledge base. 
 >
 > The unfolding of knowledge is thus akin to "decrypting" - as if the entirety of knowledge was hidden through encryption.
 
+To put it visually , imagine  center of a quantum system. Each dimension crossing through this imaginary center is a unique possibility. If there are five lines emanating from the center, the possibility of each is 20 percent. But how do we know there are only five lines ? This is where gradual decrytion happens. A record of all the observations must be kept. There is however no database. The record is in the geometry of the system. If there are five pathways of observation than the system has five channels falling into the center. If there are infinite possibilities than in modern science, we call it a quantum system. The key thing here: knowledge is awareness of th center as to how many possibilities intersect at this point. Each possibility is equal representation of the that one who sits at the center. In essence the meaning of observation is to look inward from each dimension and see the center as one. You see the same center from all channels. Even infinite possibilities see only one outcome. 
+
+> In other words, the simple idea that "knowledge" is awareness of ONE , enable infinite possibilities. This also means - knowledge bears the system with certain number of dimensions - even infinite - with just one rule : See the ONE at center. The dimensions are decrypted as the awareness of many channels happens but there is no new thing in adding or removing a diemnsion. In other words - the knowlede is immutable. 
+
+
 ### The Act of Observation
 
-This is where Quantum Mechanics provides a crucial insight. It is common knowledge that an act of measurement collapses the wave function of a quantum system into a unique state. This is exactly in line with Sāṃkhya philosophy. Here, prakriti—an equilibrium of three Gunas—manifests one step at a time through the proximity of Purusa, an eternal but random observer. This observer, in both QM and Sāṃkhya, need not be "conscious" per our conflicted definition(s) of "consciousness." It is just an act of measurement.
+This is where Quantum Mechanics provides a crucial insight. It is common knowledge that an act of measurement collapses the wave function of a quantum system into a unique state. This is exactly in line with Sāṃkhya philosophy. Here, prakriti—an equilibrium of potential—manifests one step at a time through the proximity of Purusa, an eternal but random observer. This observer, in both QM and Sāṃkhya, need not be "conscious" per our conflicted definition(s) of "consciousness." It is just an act of measurement.
 
-> While concept of prakriti is well undertsood from scientific standpoint in terms of all the possibilities - the pure potential; the idea of a elementary observer particle is rather mysterious! Why should purusa seek to observe? The Samkhya answer is - it wants to know who am I? It is searching in prakriti a scenario to describe itself. This quest is not a conscious choice - it is a fundamental desire. This is what separates Purusa and Prakriti. Prakriti is "all possibilities" becasue it doesn't seek anything - purusa is fundamental observer because it want to seek itself. 
+> While concept of prakriti is well undertsood in science in terms of all the possibilities - a quantum system; the idea of an elementary observer particle is rather mysterious! Why should purusa seek to observe? 
+>
+> The Samkhya's answer is - it wants to know who am I? It is searching in prakriti a scenario to describe itself. This quest is not a conscious choice - it is a fundamental property. This is what separates Purusa and Prakriti. Prakriti is "all possibilities" becasue it doesn't seek anything - purusa is fundamental observer because it want to seek itself. 
 >
 > This idea finds a striking parallel in String Theory that we will explore as we go along this essay.
 

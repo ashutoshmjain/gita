@@ -77,9 +77,19 @@ Ahmkara is thus a layer over Mahat that lets manifested stuff identify itself.Th
 
 In essence, the real world that we see around us (information) collectively, is a mirror image of of the decrypted knowledge. 
 
-### The Random Observer
+### The Random Observer ( Manas)
 
-The way Ahamkara observes Mahat is through random sampling. This behavior of random questioning at an abstract level is called Manas—the fickle mind. Randomness is a necessity of the system, but to us, it appears as an inability to focus.
+If the goal is to decrypt knowledge from a perfect chaos of potential, the most effective strategy is random sampling. That is where Manas comes into being - the fickle mind. Ahamkara, being the Identity, seeks to know "who am I" and thus supplies attention to the undrlying potential, but it must do so in most random fashion. To better understand this idea we can look at a real life example - bitcoin mining.
+
+> Bitcoin mining uses random sampling—or more precisely, trial and error with the nonce—because of how the proof-of-work mechanism is designed. In Bitcoin mining, miners must find a nonce value such that when it is combined with the block's header and run through the SHA-256 hash function, the resulting hash is below a certain target value defined by the network's difficulty.
+>
+> The SHA-256 hash function produces output that is **unpredictable and essentially random**. For any given input (including a specific nonce), there's no way to know in advance what the output will be, nor is there a way to get closer to a valid result by choosing nonce values in any particular order. That means each attempt to find a valid nonce is independent—the outcome of the hash function cannot be predicted from previous attempts and does not follow any discernible sequence.
+>
+> Therefore, miners use the nonce as a **random or incrementing value** to keep generating different block header hashes until one meets the required criteria. This process is purely a guessing game—akin to buying lottery tickets—where miners continuously try different nonce values, sometimes in order and sometimes randomly, hoping to "stumble upon" the right one. If all possible nonce values fail, they change other elements in the block (such as the extra nonce or timestamp) and continue the process.
+>
+> This approach is fundamental to the **security and fairness** of Bitcoin: it makes the mining process probabilistic and unpredictable, preventing any miner from having a guaranteed shortcut or advantage beyond raw computational power.
+
+Think of Manas as a secure a fair method to determine "Identity" except this means "hard work". We will delve into connection of this idea with "Karmyoga" in later chapters.
 
 ### The Evolution of Consciousness
 

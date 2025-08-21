@@ -89,7 +89,7 @@ If the goal is to decrypt knowledge from a perfect chaos of potential, the most 
 >
 > This approach is fundamental to the **security and fairness** of Bitcoin: it makes the mining process probabilistic and unpredictable, preventing any miner from having a guaranteed shortcut or advantage beyond raw computational power.
 
-Think of Manas as a secure a fair method to determine "Identity" except this means "hard work". We will delve into connection of this idea with "Karmyoga" in later chapters.
+Think of Manas as a secure a fair method to determine "Identity" except this means "hard work". We will delve into connection of this idea with "Karmyoga" in later chapters - suffice to say here is this hard work provides Rajas the industrious nature to choose one duality out of many possibilities. This also means our minds are designed to chase random desires in order for us to determine who we are. Controlling the mind is hard. How then we do something useful with a focused mind ? That is where the idea of consciousness comes in - our senses are there to ground us in reality - to make our observations objective to the extent possible. 
 
 ### The Evolution of Consciousness
 

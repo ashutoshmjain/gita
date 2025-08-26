@@ -17,7 +17,7 @@ Let us understand the core concepts with Sāṃkhya because this path is easier 
 To understand the Knower, we must first understand what is meant by "knowledge." The easiest way to comprehend it is to contrast knowledge with information. While conventional definitions often see "information" as a tool to predict the near-term future and "knowledge" as concrete reality, we will flip these definitions to align them with the probabilistic quantum world:
 
 *   **Information** is the data from events that have already occurred—the outcomes of repetitive trials. If you flip a coin a million times, the record of 500,000 heads and 500,000 tails is *information*. It is concrete and pertains to the past. In Sāṃkhya, this is called *Bhūtādika* (manifested realities of the past).
-*   **Knowledge** is the awareness of all possibilities and their respective probabilities. The understanding that a coin *can* land on either heads or tails with a 50/50 probability is *knowledge*. The probability of an electron spinning up or down in a perfect vacuum is exactly like a coin toss—fifty-fifty. If the electron cloud somehow retains this "ability of prediction," then we deem the cloud knowledgeable. If some external observer (like you or me) develops this capability, then that external observer is the "knower." The difference is only that of timing—"the coin" has this knowledge already baked in—it somehow knows to give you fifty percent heads and tails the rest of the time. We (the observers) need to unveil this knowledge through experiments. 
+*   **Knowledge** is the awareness of all possibilities and their respective probabilities. The understanding that a coin *can* land on either heads or tails with a 50/50 probability is *knowledge*. 
 
 > Knowledge is the menu of potential futures—it is a way of framing "what to look for" or "what to measure." In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but is quite certain how it shall unfold—the likely scenarios). 
 >
@@ -25,21 +25,21 @@ To understand the Knower, we must first understand what is meant by "knowledge."
 
 To put the idea of "knowledge" in context, let's look at the Bhagavad Gītā. Krishna suggested a binary option to Arjuna: if you die in the war, you shall gain exit (Nirvāṇa); if you win, you will enjoy the vast kingdom. Life and death are choices like the flipping of a coin here. However, he clarified that "not fighting" is not an option because even if Arjuna were to decide not to fight, his nature (set of conditions) would force him into it. It is in the "geometry" of a coin to be flipped. 
 
-Krishna is seen as the "knower" because he not only knew the options that fate (*prārabdha*) had on offer, but that this probability distribution was applicable only to Arjuna—not to the hundreds of thousands of other warriors—and also that this choice opened up (conditionally) once the manifest reached the battle of Kurukshetra. The Gītā had to be told only after reaching the middle of the battlefield.
+Krishna is seen as the "knower" because he not only knew the options that fate (*prārabdha*) had on offer, but that this probability distribution was applicable only to Arjuna—not to the hundreds of thousands of other warriors—and also that this choice opened up (conditionally) once the manifest reached the battle of Kurukshetra. The Gītā had to be told only after reaching the centerstage.
 
 > Even if it may conflict with epistemology, let us restate the definitions for the sake of this essay: "Knowledge" is the set of rules governing the probabilities based on prerequisite conditions, while "information" is the record of manifested reality.
 
 For an external observer, knowledge unfolds with every new trial. For example, if it was your first time flipping a coin, you would soon realize that heads and tails are the only pair of options and they happen randomly. But there is an order in that randomness—if you flipped enough times, the occurrences of heads and tails are more or less the same. 
 
-The amazing thing is: No one ever told "the coin" how to behave. Knowledge is embedded into the potential of "coin flipping experiment". The unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle. 
+Knowledge means you understand the system inside out while information indicates awareness of a random event. Knowledge can hypothesize predictable experiments, information begins with the asssumption that the experiments were somehow right - a stroke of luck! The amazing thing is: No one ever told "the coin" how to behave. Knowledge is embedded into the potential of "coin flipping experiment". The unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle. 
 
-> Observation is a prerequisite for understanding. Even though there is no visible pattern, a solution always emerges amidst the chaos, provided enough iterative observations. 
+> Observation is a prerequisite for understanding. Even though there may not be a visible pattern, a solution always emerges amidst the chaos, provided enough iterative observations. 
 
 ### The Act of Observation
 
 This is where Quantum Mechanics provides a crucial insight. It is common knowledge that an act of measurement collapses the wave function. 
 
-> "Wave function" is just a fancy way to say "all possibilies" of a system. Quantumness of a system means all the possibilities exist together. An observation breaks this "possibility cloud" into a unique state. It is like the Monday morning when you are half asleep imagining it was still Sunday. Weekend quantum dream wouldnt collapse till Alexa announced it was 8 am to kickstart the work week, and then it all suddenly gets real:-)
+> "Wave function" is just a fancy way to say "all possibilities" of a system. Quantumness of a system means all the possibilities exist together. An observation breaks this "possibility cloud" into a unique state. It is like the Monday morning when you are half asleep imagining it was still Sunday. Weekend quantum dream wouldnt collapse till Alexa announced it was 8 am to kickstart the work week, and then it all suddenly gets real:-)
 
 In Samkhya, quantum state is represented by prakriti. Prakriti, an equilibrium of potential, manifests one step at a time through the proximity of Purusha, an eternal but random observer. This observer, in both QM or Sāṃkhya, need NOT be "conscious" (like a human)—it is just an act of measurement. Just the way Alexa, though not conscious, measured your Monday morning to let loose the reality!
 

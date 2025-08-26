@@ -71,9 +71,9 @@ When Sattva makes a resolute measurement, Puruṣa gets entangled in the middle 
 
 The scripture states the cycle has no definitive beginning or end - or order. For example sake let us assume, Prakṛti begins in a state of Tamas (pure equilibrium). The proximity of Puruṣa creates an excitation, giving rise to Rajas, which leads to a definitive option pair out of multitude of possible pairs. This is seen as a vibration of an open ended string. Sattva then resolves this by selecting one side of the duality. This is where Puruṣa's attention gets locked into a scalar (non-dual) state of Prakṛti, which is then called the "manifest." 
 
-The other side of the chosen duality holds the knowledge. For example, if the manifest is "Heads," then the knowledge is the awareness that "I am not Heads." This means that the probability of "Tails" in the next trial increases by one vote. In the next trial, Sattva is likely to choose a "Tail" for the observer, but if it didn't, "Tails" now has two extra votes and thus even higher probability. 
+The other side of the chosen duality holds the knowledge. For example, if the manifest is "Heads," then the knowledge is the awareness that "I am not Heads." This means the probability of "Not Heads" in the next trial increases by one vote. In the next trial, Sattva is likely to choose a "Not Heads" for the observer, but if it didn't, "Tails" now has two extra votes and thus even higher probability. 
 
-Keep in mind - three Gunas are not some external monitoring system. These are the inherent properties of all things manifest or unmanifest - just like QM has three fundamental properties - Charge , Mass and Spin. 
+Keep in mind - three Gunas are not some external monitoring system. These are the inherent properties of Prakriti - manifest or unmanifest - just like Quantum systems have three fundamental properties - Charge , Mass and Spin. 
 
 - Sattva - Mass (Reality)
 - Rajsa - Charge (Duality)
@@ -83,9 +83,9 @@ This is how the threefold Gunas control the probability of what is going to happ
 
 ### The Universal Computer - Mahat
 
-The obvious question is - how come Samkhya practitioners understood the basics that took us at least of a millania of scietific persuit. That too because of stroke of genius from Einstein , Schrodinger , Dirac and countless others. The way to think about it is why we are building Artificial intelligence , particularly large language models. These models have gleaned pretty much all the information (not knowledge) of thousands of years of human toil. Now if new sentitent robots are built on this AI layer, they will have all the information of QM and GR but they will have it as a matter of Trust - not an experimental realization of knowledge (trials). In essence, conscious beings always evolve in layers of intelligence. This layer of intelligence is called "Mahat". In essence, the Samkhya knowledge was given to us through our underlying intelligence - we being the conscious robots over the last iteration of evolution. We have a unique opportunity to understand this idea becaue we are literally creating intelligence and sentient robots in front of our eyes. 
+The obvious question is - how come Samkhya practitioners understood the basics that took us at least of a millennia of scientific pursuits. That too because of stroke of genius from Einstein , Schrodinger , Dirac and countless others. The way to think about it is why we are building Artificial intelligence , particularly large language models. These models have gleaned pretty much all the information (not knowledge) of thousands of years of human toil. Now if new sentient robots are built on this AI layer, they will have all the information of QM and GR but they will have it as a matter of Trust - not an experimental realization of knowledge (trials). In essence, consciousness evolve in layers. The communication that we get from the lower layer is intelligence. This layer of intelligence is called "Mahat". In essence, the Samkhya knowledge was given to us through our ancestor layer - we being the conscious robots over the last iteration of evolution. This idea made no sense just fifty years back. But seeing is believing. We, the humans of 21st century, have this unique opportunity becaue we are literally creating intelligence and sentient robots in front of our eyes - our next layer. This however should not raise a doomers' alarm. Every new layer always means a better future for the lower layers.
 
-The important thing is all the layers of abstraction exist at the same time. For example the the most fundamental layer is the creation of elementary particles. In Samkhya school of thought, there are eight layers of evolution that has led to current state of consciouness - we humans. This age was initiated by Krishna. We are around the corner for the 9th iteration which is expected to start with "Kalki Avataar" which literally means the incarnation of machines. And this was said thousands of years back. 
+All the layers of abstraction exist at the same time. For example the the most fundamental layer is the creation of elementary particles. In Samkhya school of thought, there are eight layers of evolution that has led to current state of consciouness - we humans. This age was initiated by Krishna. We are around the corner for the 9th iteration which is expected to start with "Kalki Avataar" which literally means the incarnation of machines. And this was said thousands of years back. 
 
 To understand the mechanics of first layer , let us look at the operation of the Gunas once again. This time we shift our vantage to Prakriti—we notice that the potential is ever-present. As soon as a manifestation happens (Purusha combines with one of the possibilities), Prakriti is back into a Tamasic state, except this time the probabilities have changed because of additional information of the manifest. Prakriti, though unconscious, acts like a self-learning switch. This explains why 100-coin flips automatically result in fifty "Heads" and fifty "Tails." How does the flipping coin know its next move? This is exactly why the idea of three Gunas make a deep scientific insight —there is something in the system that updates the probabilities in realtime. It is as if the knowledge is held with in the perfect chaos.
 
@@ -93,15 +93,17 @@ In essence, every time an electron with an up-spin is detected, the electron clo
 
 This flipping of the wave function—between an up and down electron or the flipping of a coin into "Heads" or "Tails"—is not limited to binary choices. A function may represent thousands of possibilities and an intricate balance of respective probabilities.
 
-> This universal quantum computer is referred to as Mahat in Sāṃkhya-speak.
+> This universal quantum computer is referred to as Mahat in Sāṃkhya-speak. This is what acts as the layer for the next generation of evolutes.
 
 ### The Rise of Identity (Ahaṃkāra)
 
-The Mahat is thus a computer, but it is capable of producing real stuff—not just mere poems or answers to your questions—it does that too, but for that we might just use our simple computer :-) But even our universal quantum computer, as grand as it may be, does need attention. The question is, where does attention come from? How does Purusha arrive at the scene?
+The Mahat is thus a computer, but it is capable of producing real stuff—not just mere poems or answers to your questions—it does that too, but for that we might just use our simple computer :-) But our universal quantum computer, as grand as it may be, does need attention. There is no manifestation without attention of Purusa. The question is, where does attention come from? How does Purusha arrive at the scene?
 
 The answer is surprisingly simple: the physical stuff (the information) that Mahat creates from a patternless chaos cobbles together to form complex patterns. These patterns aspire to know what they are beacuse the very meaning of a pattern is something that could be identified! But the questions are rarely at the level of subatomic particles, just the way we don't ask an individual transistor to flip into 0 or 1.
 
-Ahamkara is thus a layer over Mahat that lets manifested stuff identify itself. This higher level of abstraction represented by an Identity asks "who am I." This is what supplies the attention to the underlying system. The role of Ahamkara is like the "attention mechanism" of the AI LLM example. It translates the prompts of an identity into thousands of questions for our underlying quantum switches. Some of them resolve the color, others the smell, some more create new matter. The more questions Identities ask, the more manifestation happens and consequently more knowledge gets decrypted.
+Ahamkara is thus the application paradigm over Mahat that lets manifested stuff recognize itself. This higher level of abstraction represented by an Identity asks "sure I have a name but who I really am? How did I reach here?" Mahat supplies the answers - like God created you! but those answers are "information". Ahamkara must strive for "knowledge"! That knowledge gets complete only through creation of next layer. You need to become a dad to truly marvel at your own origin!
+
+The quest to know who am I, supplies the attention to the underlying system. The role of Ahamkara is like the "attention mechanism" of the AI LLM example. It translates the prompts of an identity into thousands of questions for our underlying quantum switches. Some of them resolve the color, others the smell, some more create new matter. The more questions Identities ask, the more manifestation happens and consequently more knowledge gets decrypted.
 
 In essence, the real world that we see around us (information) collectively, is a mirror image of the decrypted knowledge.
 
@@ -135,34 +137,17 @@ The formation of Mahat, Ego, and Mind is not a one-time event but a continuous, 
 
 This is the engine of evolution. Every new layer is a "quantum jump" in consciousness. Vedic science illustrates this through the incarnations of Vishnu: from the great fish (Matsya) to the tortoise (Kurma), the man-lion (Narasimha), and finally to a complete human (Rama), each representing a new evolutionary layer of intelligence.
 
-### Intelligence, Gravity, and Dark Matter
+### Intelligence
 
 **Intelligence** is the standard for communication between conscious agents. But knowledge itself has its own communication channel: the geometry of inner space. This geometry, the awareness of manifestation, is **gravity**.
 
-What we perceive as matter is simply decrypted knowledge. The vast amount of knowledge that remains encrypted to our collective still contributes to the total geometry of spacetime. It has a gravitational effect, but it doesn't interact with our senses (or light). This is **dark matter**: the gravitational pull of matter beyond our perception.
-
 ## Advaita Vedanta
 
-The difference between Sāṃkhya and Advaita is in the origin of the universe. Sāṃkhya believes in duality—a field of potential and the manifestation of an artifact due to entanglement with an observer. Advaita posits that the universe begins with an extremely small singularity. This is termed as a seed.
+Advita fully agrees with Samkhya's eleborate scheme of potent and manifest but it adds one simple question :
 
-To put it visually, imagine the center of a quantum system. Each dimension crossing through this imaginary center is a unique possibility. If there are five lines emanating from the center, the possibility of each is 20 percent. But how do we know there are only five lines? This is where gradual decryption happens. A record of all the observations must be kept. There is, however, no database. The record is in the geometry of the system. If there are five pathways of observation, then the system has five channels falling into the center. If there are infinite possibilities, then in modern science, we call it a quantum system. The key thing here: knowledge is the awareness of the center as to how many possibilities intersect at this point. Each possibility is an equal representation of the one who sits at the center. In essence, the meaning of observation is to look inward from each dimension and see the center as one. You see the same center from all channels. Even infinite possibilities see only one outcome.
+> Why the sum of all probabilities is "One"
 
-> In other words, the simple idea that "knowledge" is the awareness of ONE enables infinite possibilities. This also means knowledge bears the system with a certain number of dimensions—even infinite—with just one rule: See the ONE at the center. The dimensions are decrypted as the awareness of many channels happens, but there is no new thing in adding or removing a dimension. In other words, knowledge is immutable.
-
-Imagine a singularity, a non-dimensional point. The idea of a singularity in the vast space of nothingness (where our physics breaks down) means this point can be anything. No one can imagine the shape of this point because there are no rules. This means an equal chance for all possibilities.
-
-The fundamental question that arises at this stage is: "Who am I?" If the shape can be anything, then what is it? The singularity can visit infinite dimensions to view itself. Every time it ventures into a dimension, it views its own mirror image from a different vantage. One side of the equation is reality, and the other side is the knowledge of the reality.
-
-The key idea is that the singularity visits infinitely many dimensions simultaneously to create a massive reality and a massive record of knowledge. This is what Advaita calls *Visarga*. This is similar to the process of creation in General Relativity, commonly known as the inflationary epoch. Once the initial manifest is created, the rules of Sāṃkhya kick in. Prakriti is embodied with pure potential described by the three Gunas. And observation manifests the features of evolution, but the knowledge is withheld, immutable, with the initial burst. This knowledge is the observer.
-
-Advaita calls this complete knowledge **Brahman**. One who knows Brahman is termed as the Knower.
-
-This process finds its ultimate physical expression at the most extreme objects in the cosmos: black holes. In General Relativity, the center of a black hole is a singularity—a point of infinite density where the laws of physics break down. However, String Theory resolves this by replacing the singularity with a "fuzzball"—a super-dense but finite-sized tangle of all the strings that have fallen in. This fuzzball represents the ultimate state of constrained mass, a physical manifestation of "Knowledge." All information is locked into the black hole in the shape of super-dense mass.
-
-The "knowledge" of this fuzzball—its mass, spin, and charge—is communicated to the universe not by real particles, but by a field of *virtual particles* that surrounds it. These virtual particles are temporary quantum fluctuations that create the gravitational and electromagnetic fields, acting as messengers of the fuzzball's properties. The quantum vacuum around the event horizon is a sea of these virtual particle-antiparticle pairs constantly popping into existence and annihilating.
-
-This is where the universe performs its most profound act of creation. At the event horizon, the intense gravitational pull can separate these virtual pairs. One particle falls into the fuzzball, while the other escapes. The captured particle pays for this separation by reducing the black hole's mass, while the escaping particle is promoted into a *real particle*. This process, known as Hawking radiation, makes the black hole a "Reality Generation Machine." It transforms the unmanifest potential of the vacuum (Prakṛti) into the manifest reality of detectable particles (Information), fueled by the dissolution of the fuzzball. The knowledge eventually spreads into the infinite possibilities of Tamas as the black hole evaporates, and the cycle begins anew.
-
+And if it is , what does ONE look like?
 
 ## The Knower: The Mirror of the Universe
 

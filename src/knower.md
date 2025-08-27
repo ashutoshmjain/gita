@@ -8,9 +8,9 @@ This essay seeks to understand the characteristics of the "Knower" by bridging m
 
 ## Sāṃkhya
 
-While the bulk of Sāṃkhya and Advaita are overlapping, the core difference is in the boundary conditions—origin and dissolution. The Sāṃkhya school of thought considers a perpetual duality of Prakriti and Purusha—the potential and the observer. Advaita considers a definite beginning from a singularity (seed), albeit in a cycle of demise and regeneration.
+While the bulk of Sāṃkhya and Advaita are overlapping, the core difference is in the boundary conditions—origin and dissolution. The Sāṃkhya school of thought considers a perpetual duality of Prakriti and Purusha—the potential and the observer. Advaita considers a definite beginning from a singularity (seed), albeit recurring cycles of demise and regeneration.
 
-Let us understand the core concepts with Sāṃkhya because this path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began?". In other words, Sāṃkhya is designed for minds that need logical closure. It is an analytical view of Vedic science. The word "Sāṃkhya" in Sanskrit literally means "a number." Sāṃkhya thus means "of numbers" or "analysis of numbers."
+Let us understand the core concepts with Sāṃkhya because this path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began?". In other words, Sāṃkhya is designed for minds that need logical closure. It is an analytical view of Vedic science. The word "Suṃkhya" in Sanskrit literally means "a number." Sāṃkhya thus means "of numbers" or "analysis of numbers."
 
 ### Knowledge vs. Information
 
@@ -31,9 +31,11 @@ Krishna is seen as the "knower" because he not only knew the options that fate (
 
 For an external observer, knowledge unfolds with every new trial. For example, if it was your first time flipping a coin, you would soon realize that heads and tails are the only pair of options and they happen randomly. But there is an order in that randomness—if you flipped enough times, the occurrences of heads and tails are more or less the same.
 
-Knowledge means you understand the system inside out, while information indicates awareness of a random event. Knowledge can hypothesize predictable experiments; information begins with the assumption that the experiments were somehow right—a stroke of luck! The amazing thing is: No one ever told "the coin" how to behave. Knowledge is embedded into the potential of the "coin flipping experiment." The unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle.
+Knowledge means you understand the system inside out, while information indicates awareness of a random event. Knowledge can hypothesize. It can predict or lay down prophecies. Information, on the other hand, begins with the assumption that the hypothesis was "somehow" right—a random stroke of luck! 
 
-> Observation is a prerequisite for understanding. Even though there may not be a visible pattern, a solution always emerges amidst the chaos, provided enough iterative observations.
+> The amazing thing is: No one ever told "the coin" how to behave. Knowledge is embedded into the potential of the "coin flipping experiment." The unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle.
+
+Observation is a prerequisite for understanding. Even though there may not be a visible pattern, a solution always emerges amidst the chaos, provided enough iterative observations.
 
 ### The Act of Observation
 

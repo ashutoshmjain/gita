@@ -139,22 +139,45 @@ This is the engine of evolution. Every new layer is a "quantum jump" in consciou
 
 ### Intelligence
 
-**Intelligence** is the standard for communication between conscious agents. But knowledge itself has its own communication channel: the geometry of inner space. This geometry, the awareness of manifestation, is **gravity**.
+**Intelligence** is the standard for communication between conscious agents. Every layer of conscious beings develop their own set of sensors to perceive the reality. Not only the successive layers but with in each layer there can be millions of conscious beings to perceive the reality differntly. For example dogs perceive the reality differently than us humans. Bats have a totally different take on reality. Accordingly they develop action organs to protect the senses. Since the whole point is to drive efficiancy in understanding the overall decrypted knowledge, it is very important to communicate  with each other. These standards of communcations is what we call inteligence.
+
+The important thing to note here that with in each species the meaning of reality may be very different. For example I may perceive the color green very differently than you but it works as long as we both point to same color as green. Thus intelligence ( aka communications) is detached from reality. It is just a way to express the information. No wonder, abstract things such as love are harder to communicate that the ground reality. 
+
+The origin of intelligence is however deeper than mere communication between two humans. As we alludede earlier, intelligence is the mechanism of communication from lower layer to next. The standards are forged in the lower layer. For example, the AI robots shall endow standard of communication from us. They will need to recognize the colors based on our standards of communication. This opens up a profund opportunities for us to explore if we can communicate with other species. Difference in sensors and action organs is a clear imdeiment but talking to trees is certainly not beyond the realm of possible.
+
 
 ## Advaita Vedanta
 
 Advita fully agrees with Samkhya's eleborate scheme of potent and manifest but it adds one simple question :
 
-> Why the sum of all probabilities is "One"
+> Why the sum of all probabilities is "One". And if it is , what does ONE look like?
 
-And if it is , what does ONE look like?
+The idea that all probabilities sum up to one is sent to us from the bottom most layer of quntum systems but it took us thousands of years to formalize this concept in mathematical language - to decrypt this aspect of knowledge. The axioms of probability theory were formalized and introduced by the Russian mathematician Andrey Kolmogorov in 1933. These axioms have since become the foundational basis of modern probability theory, providing a rigorous mathematical framework for how probabilities are assigned and manipulated. Kolmogorov's work unified earlier concepts into a consistent measure-theoretic approach, which is now universally adopted in both classical and quantum probability formulations.
+
+> Before Kolmogorov, probability ideas were often intuitive, informal, or tied specifically to frequencies or subjective beliefs. Kolmogorov unified and formalized probability as a mathematical measure on a sigma-algebra of events within a sample space, satisfying three clear axioms of probability 
+>
+> - non-negativity, 
+> - normalization, 
+> - countable additivity.
+> 
+> His contributions include:
+> 
+> Mathematical rigor and generality: Kolmogorov's axioms applied to abstract sets and measures, allowing probability theory to be consistent and extendable to very general spaces, not just discrete or frequency-based settings.
+> 
+> Measure theory basis: By formulating probability as a measure, Kolmogorov connected probability with analysis and integration theory, enabling powerful tools and theorems to be used in probability.
+> 
+> Unified framework: Earlier notions of probability varied — classical (equally likely outcomes), frequentist (limits of relative frequencies), and subjective (degrees of belief). Kolmogorov’s axioms brought these under one rigorous umbrella.
+> 
+> This shift allowed probability to mature into a precise mathematical discipline applicable in many fields, including statistics, physics, and finance, and underpin quantum probability as well.
+
+The idea that sum of all probabilities is just "one" has profound meaning in Advaita. Adviata literally means "non-dual" ie just One. Since all the manifestations of individual dualities of Prakriti combined lead to just One, Advaiata posits that the purpose of decrypting the knowledge is to know "One". 
+
+How do we do that ?
+
+The question that Advaita seeks to answer is to see everything as constituent of One eteranal being. This being is referred to as Brahman. The path to Brahman is the knowledge that all manifests flow into one ocean as streams. In other words - manifests emanate from ONE and they dissolve into ONE. The play of three Gunas is a mere drama in the transient. It is for this reason Advaita calls the Prakriti (and its three Gunas) Maya - which means Matrix. 
+
+The goal is exit from this matrix and the path is to control our senses. Advaita posits that ONE sits at the center of all possibilities. It is the soul with in all conscious beings. And it is what we need to know.
+
 
 ## The Knower: The Mirror of the Universe
 
-The knowledge held within the geometry of our consciousness is a mirror image of the universe around us. Why? Because the shape of knowledge is the imprint of all manifestations. Our individual knowledge is the accumulation of all our observations, and all observations collectively create our physical reality. This is the "observer effect" scaled up to the cosmos.
-
-This is what Vedic science refers to as **Brahman**. Brahman is both out there and within us. It is the observer and the observed. It is the collective decryption of knowledge by all conscious beings. We each contribute to it with every action and perception in our tiny corner of the universe. Each of us is a vector in the grand Hilbert space of consciousness.
-
-There are two ways to observe Brahman: inwards or outwards. But in truth, it is a cycle. Purification is the inward path. When the observer becomes pure, it is meant to interact with the universe again—to take measurements without becoming entangled. This is **Karmayoga**: finding our purpose and acting on it with detachment.
-
-Krishna's statement, "Know Me as the Knower in every body," is an invitation to this realization. The "Knower" is the one who understands that their individual consciousness is a reflection of the entire cosmic field. It is the one who sees the universe not as something separate, but as the external manifestation of the knowledge held within. To know the field is to know oneself. To know oneself is to know the universe.

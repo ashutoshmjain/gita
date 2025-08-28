@@ -21,7 +21,7 @@ To understand the Knower, we must first understand what is meant by "knowledge."
 
 > Knowledge is the menu of potential futures—it is a way of framing "what to look for" or "what to measure." In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but is quite certain how it shall unfold—the likely scenarios).
 >
-> Knowledge doesn't strive to be accurate in terms of absolute occurrences (heads may be slightly more than tails for some time, or vice versa), but it is super accurate in the probabilities of outcomes. A slight change in conditions immediately changes the odds without fail. There is no way to bluff the knowledge.
+> Knowledge doesn't strive to be accurate in terms of absolute occurrences (heads may be slightly more than tails for some time, or vice versa), but it is super accurate in the probabilities of outcomes. A slight change in conditions immediately changes the odds without fail. There is no way to bluff the knowledge. If you throw a dice, it can't turn into a pigeon.
 
 To put the idea of "knowledge" in context, let's look at the Bhagavad Gītā. Krishna suggested a binary option to Arjuna: if you die in the war, you shall gain exit (Nirvāṇa); if you win, you will enjoy the vast kingdom. Life and death are choices like the flipping of a coin here. However, he clarified that "not fighting" is not an option because even if Arjuna were to decide not to fight, his nature (set of conditions) would force him into it. It is in the "geometry" of a coin to be flipped as much as that in the nature of a warrior to fight.
 
@@ -29,13 +29,11 @@ Krishna is seen as the "knower" because he not only knew the options that fate (
 
 > Even if it may conflict with epistemology, let us restate the definitions for the sake of this essay: "Knowledge" is the set of rules governing the probabilities based on prerequisite conditions, while "information" is the record of manifested reality.
 
-For an external observer, knowledge unfolds with every new trial. For example, if it was your first time flipping a coin, you would soon realize that heads and tails are the only pair of options and they happen randomly. But there is an order in that randomness—if you flipped enough times, the occurrences of heads and tails are more or less the same.
+For an external observer, knowledge unfolds with every new trial. For example, if it was your first time flipping a coin, you would soon realize that heads and tails are the only pair of options and they happen randomly. But there is an order in that randomness—if you flipped enough times, the occurrences of heads and tails converge - they are more or less the same.  The amazing thing is: 
 
-Knowledge means you understand the system inside out (not outside in like an external observer) , while information indicates awareness of a random event. Knowledge can hypothesize. It can predict or lay down prophecies. Information, on the other hand, begins with the assumption that the hypothesis was "somehow" right—a random stroke of luck! 
+> No one ever told "the coin" how to behave. Knowledge is embedded into the potential of the "coin flipping experiment." The unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle.
 
-> The amazing thing is: No one ever told "the coin" how to behave. Knowledge is embedded into the potential of the "coin flipping experiment." The unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle.
-
-From outside, observation is a prerequisite for understanding. Even though there may not be a visible pattern, a solution always emerges amidst the chaos, provided enough iterative observations.
+Knowledge means you understand the system inside out (not outside in like an external observer) , while information indicates awareness of a random event(s). Knowledge can hypothesize. It can predict or lay down prophecies. Information, on the other hand, begins with the assumption that the hypothesis was "somehow" right—a stroke of luck! 
 
 ### The Act of Observation
 

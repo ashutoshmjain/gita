@@ -65,7 +65,7 @@ The best part: You don't need to be a string theorist to understand three gunas!
 
 The journey of manifestation is thus from many dualities (Tamas) to a single duality (Rajas) to finally one option of the duality (Sattva). The collapse of the wave function means symmetry is broken. One side of the duality turned into real stuff (information), and the other is retained by the system as "Knowledge."
 
-When Sattva makes a resolute measurement, Puruṣa gets entangled in the middle of the decoherence it caused. It "gets stuck," which means the attention gets locked. This entangled manifestation is a "knot." In Vedic terms, this is the fundamental bondage of observation—**Chakshu Bandhana**. The very act of observation is a bondage at this level, different from the **Karmic Bondage** we normally refer to in traditional Vedic teachings. BTW, this is exactly how  an AI Large Language Model works: It is a great way to comprehend that QM framework is missing a very important formalism - the observer! 
+When Sattva makes a resolute measurement, Puruṣa gets entangled in the middle of the decoherence it caused. It "gets stuck," which means the attention gets locked. This entangled manifestation is a "knot." In Vedic terms, this is the fundamental bondage of observation—**Chakshu Bandhana**. The very act of observation is a bondage at this level, different from the **Karmic Bondage** we normally refer to in traditional Vedic teachings. BTW, this is exactly how  an AI Large Language Model works: It is a great way to comprehend that QM framework is missing a very important formalism[^observer] - the observer! 
 
 > In an LLM such as Google Gemini, all the "words" (tokens) that are used to train the model are suspended in a vector space of thousands of mathematical dimensions. Of course, these are not real physical dimensions like length or width—they are mathematical dimensions (x, y, and z coordinates).
 >
@@ -73,9 +73,15 @@ When Sattva makes a resolute measurement, Puruṣa gets entangled in the middle 
 >
 > The prompt that we give to an LLM thus runs through the attention mechanism. Attention, clubbed with the vast model of trained tokens, then probabilistically renders one word at a time to provide a response to your prompt. In this example, think of Prakriti as the state of the LLM and Purusha as the attention mechanism. When potential and attention join together, they manifest an artifact. The only difference is that in our quantum computer of Prakriti and Purusha, the manifests are real things, while in LLMs, it is a poem! Or cat pics. :-)
 
-The scripture states the cycle has no definitive beginning or end or order. For example's sake, let us assume Prakṛti begins in a state of Tamas (pure equilibrium). The proximity of Puruṣa creates an excitation, giving rise to Rajas, which leads to a definitive option pair out of a multitude of possible pairs. This is seen as a vibration of an open-ended string. Sattva then resolves this by selecting one side of the duality. This is where Puruṣa's attention gets locked into a scalar (non-dual) state of Prakṛti, which is then called the "manifest."
+The scripture states the cycle has no definitive beginning or end or order becasuse there is no notion of Time. The time (Kala) is an emergent behaviour of the manifested. It is the way we present the information flow. 
 
-The other side of the chosen duality holds the knowledge. For example, if the manifest is "Heads," then the knowledge is the awareness that "I am not Heads." - just the way you beleive you are not your image in the mirror - yes you two look alike but image doesn't exist. Think of your image as unmanifested knowledge locked in the system. In QM this idea is represented as "complex conjugate" though not this lucid. This means the probability of "Not Heads" in the next trial increases by one vote. In the next trial, Sattva is likely to choose "Not Heads" for the observer, but if it didn't, "Tails" now has two extra votes and thus an even higher probability.
+For example's sake, let us assume Prakṛti begins in a state of Tamas (pure equilibrium). The proximity of Puruṣa creates an excitation, giving rise to Rajas, which leads to a definitive option pair out of a multitude of possible pairs. This is seen as a vibration of an open-ended string. Sattva then resolves this by selecting one side of the duality. This is where Puruṣa's attention gets locked into a scalar (non-dual) state of Prakṛti, which is then called the "manifest."
+
+The other side of the chosen duality holds the knowledge. For example, if the manifest is "Heads," then the knowledge is the awareness that "I am not Heads." - just the way you beleive you are not your image in the mirror - yes you two look alike but image doesn't exist. Think of your image as unmanifested knowledge locked in the system. In QM this idea is represented as "complex conjugate" though not this lucid. 
+
+This means the probability of "Not Heads" in the next trial increases by one vote. It is important to be careful here because the each "toss of the coin" is independent of previous toss. We CAN'T icrease the probability of Tails based on the results of past trial, but we can sure increase the probability of a "thing" that is NOT a designated outcome. So "Not Heads" is a way to circumvent the formalisation of probability theory. In truth "Not Heads" in this case is same as Tails becuse there are only two "real" options. In the next trial, thus, Sattva is likely to choose "Not Heads" for the observer, but if it didn't, "Tails" now has two extra votes and thus an even higher probability. 
+
+> The idea of saying "NOT-HEADS" as the knowledge is a crucial point here. It means "knowledge" may represent a proxy vote in the probablistic disposition of the trial but it can't manifest (in real) on its own. It must take on the shape of "Tails".
 
 Keep in mind that the three Gunas are not some external monitoring system. These are the inherent properties of Prakriti—manifest or unmanifest—just like Quantum systems have three fundamental properties: Charge, Mass, and Spin.
 
@@ -186,3 +192,10 @@ The question that Advaita seeks to answer is to see everything as a constituent 
 The goal is to exit from this matrix, and the path is to control our senses. Advaita posits that ONE sits at the center of all possibilities. It is the soul within all conscious beings. And it is what we need to know.
 
 ## The Knower: The Mirror of the Universe
+
+
+
+
+[^observer]: In string theory, we find a possble echo of fundamental observer though there is still total lack of scientific recognition. I think most QM Practitioners miss the point that idea of "probability" (on which the entire field is based) has NO meaning without a measurement (observervation). 
+- The strings are basically of two types. Closed strings and open strings. Open strings may act like vibrations of Prakriti because they cling together to fom Branes. Closed strings normally called gravitons (at spin 2 massless excitation) may be seen as Vedik Purusa.
+- Call it an accident or sweet coincidence that both Samkhya and String Theory are (at the most granular level) based on timeless paradigm of two - Open and closed strings v/s Prakriti and Purusa. Must I say the later naming convention appears far more poetically refined!

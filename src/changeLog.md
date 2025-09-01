@@ -9,7 +9,16 @@ Unlike a book, a publication is always in the open [^open]. Unlike a publication
 - If I shuffle a couple of paras up or down, without changing the underlying theme - it is minor update. 
 - If I pretty much restructure  a post or change the theme, it is a "major update". 
 
-## Aug 01, 25
+## Aug 15, 25
+
+  - [Bhagvad Gita](./bhagvadGitaLanding.md) 
+      - [Podcast](bg00.md)  
+          - [Chapter 13](./bg13.md) - Working on part 2 of chapter 13. 
+       - [Essays](./0.0_about.md) 
+          - [Knower](./knower.md) - Replaced "hypothesis" with "knower". This shall serve as the basis for podcast episode "Chapter 13 - part 2" . This is a very ambitious write up. An attempt to converge Samkhya , Advita with the latest in String Theory. Goes wthout saying there is lot of work still out there. 
+
+
+## Aug 08, 25
 
   - [Bhagvad Gita](./bhagvadGitaLanding.md) 
       - [Podcast](bg00.md)  

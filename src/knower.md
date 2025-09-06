@@ -50,7 +50,9 @@ This is where Quantum Mechanics provides a crucial insight. It is common knowled
 
 In Sāṃkhya, the quantum state is represented by Prakriti. Prakriti, an equilibrium of potential, manifests one step at a time. But there is a mandatory requirement: the proximity of Purusha - an eternal but random observer. This observer, in both QM or Sāṃkhya, need not be "conscious" (like a human)—it can be an automated act of measurement. Just the way Alexa, though not conscious, measured your Monday morning to let loose the reality! 
 
-Mathematically speaking, think of potential as pairs of complex numbers and their complex conjugates - like mirror images of imaginary numbers. As an observer, we multiply two sides of a specific pair to resolve into a real number. All those possibility pairs exist, but the question is what are you measuring - where is your attention fixed? What you want to measure defines your reality plane - argend plane. In essence a knower can bend the reality just by shifting our attention from expectation of outcome A to outcome B.
+Mathematically speaking, think of potential as infinite pairs of complex numbers with respective complex conjugates - like mirror images of imaginary numbers across the reality plane. As an observer, we multiply two sides of a specific pair. The inner product  cancels out the  complex parts - yields into a real number. All other possibility pairs exist, but the question is what are you measuring - where is your attention fixed? What you want to measure defines your reality plane - argend plane. In essence a knower can bend the reality just by shifting our attention from expectation of outcome A to outcome B.
+
+< Bookmark complex pair example > 
 
 > While the concept of Prakriti is well understood in modern science—all elementary particles (quarks, bosons, electrons, etc.) exhibit quantumness—the idea of an "elementary observer" is conspicuously missing. Why should Purusha seek to observe? What motivates it to take measurements?
 >

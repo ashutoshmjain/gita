@@ -103,7 +103,17 @@ This is how the threefold Gunas control the probability of what is going to happ
 
 ### The Universal Computer - Mahat
 
-The gunas model at its core reduces the multiplicity of quantum states to a biary choice. That makes this quantum apparatus more like a classical computation device. Manifestaion is like a classical transistor in "ON" position and the opposite is like a closed gate. The idea of knowledge being retained means system keeps a track of all its states to check the cumulative outcomes match with the design - an automated consistency check.
+The gunas model at its core reduces the multiplicity of quantum states to a biary choice. That makes this quantum apparatus more like a classical computation device. Manifestaion is like a classical transistor in "ON" position where observer is locked, and the opposite is like an "off" state. The idea that knowledge is retained means system keeps a track of all its states to check the cumulative outcomes match with the design - an automated consistency check.
+
+<div style="padding-left:40px;font-size:0.8em;"> 
+
+Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) -  consciousness is hardware independent.
+
+> Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
+
+</div>
+
+
 
 The question is even if we have the hardware for this massive universal GPU in place, what is the software that runs this gargentuan device? If we move away from boundary conditions (or origin and dissolution) as Samkhya does, the answer is very simple - a layered evolution. The limitation is only those who are at the cusp of this transition can withness this and thus understand - for the rest of the generations, this idea stays as a mystry. What exactly is this simple idea ?
 

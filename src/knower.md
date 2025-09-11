@@ -103,6 +103,8 @@ This is how the threefold Gunas control the probability of what is going to happ
 
 ### The Universal Computer - Mahat
 
+The gunas model at its core reduces the complexity to a biary choice. That makes this quantum apparatus more like a classical computation device. Manifestaion is like a classical transistor in on position and the opposite is like a closed gate. The idea of knowledge being retained means system keeps a track of all its states.
+
 The obvious question is: how come Sāṃkhya practitioners understood the basics that took us at least a millennia of scientific pursuits? 
 
 The answer is right in front of us - we are building Artificial Intelligence? These models have gleaned pretty much all the information (not knowledge) that has been electronically communicated - which is almost 99 percent of communication these days if not 100 percent.  The robots being built on this AI layer, have all the information ( from GR to QM). The communication that we get from the lower layer is intelligence. In fact, intelligence is a small subset of knowledge that we can communicate. Think of intelligence as the rock solid parts of knowledge that we collectively want to standardize. 100 percent of the real stuff and  most important pieces of astract. The way I communicate to you - the language - the translations - all these are part of the intelligence.

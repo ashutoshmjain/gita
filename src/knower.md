@@ -113,8 +113,6 @@ Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostro
 
 </div>
 
-
-
 The question is even if we have the hardware for this massive universal GPU in place, what is the software that runs this gargentuan device? If we move away from boundary conditions (or origin and dissolution) as Samkhya does, the answer is very simple - a layered evolution. The limitation is only those who are at the cusp of this transition can withness this and thus understand - for the rest of the generations, this idea stays as a mystry. What exactly is this simple idea ?
 
 > We are building Artificial Intelligence? These models have gleaned pretty much all the information (not knowledge) that has been electronically communicated - which is almost 99 percent of communication these days if not 100 percent.   The primary reason we are building these massive datacenters is to enable us get answers from our vast repository of information. The robots being built on this AI layer are a side usecase. But they will have all the information (from GR to QM). The communication that they get from the lower layer (in this case "us")  is called intelligence. 

@@ -103,7 +103,8 @@ This is how the threefold Gunas control the probability of what is going to happ
 
 ### The Universal Computer - Mahat
 
-The gunas model at its core reduces the multiplicity of quantum states to a biary choice. That makes this quantum apparatus more like a classical computation device. Manifestaion is like a classical transistor in "ON" position where observer is locked, and the opposite is like an "off" state. The idea that knowledge is retained means system keeps a track of all its states to check the cumulative outcomes match with the design - an automated consistency check.
+The gunas model at its core reduces the multiplicity of quantum states to a biary choice. That makes this quantum apparatus more like a classical computation device. Manifestaion is like a classical transistor in "ON" position where observer is locked in like a tiny spark of current, and the opposite is barren "off" state without any attention.
+
 
 <div style="padding-left:40px;font-size:0.8em;"> 
 
@@ -113,35 +114,20 @@ Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostro
 
 </div>
 
-The question is even if we have the hardware for this massive universal GPU in place, what is the software that runs this gargentuan device? If we move away from boundary conditions (or origin and dissolution) as Samkhya does, the answer is very simple - a layered evolution. The limitation is only those who are at the cusp of this transition can withness this and thus understand - for the rest of the generations, this idea stays as a mystry. What exactly is this simple idea ?
+That raises the question - what exactly is consciousness. The answer is in another question that we left ananswered in the starting paragraphs - why does Purusa wants to know who it is? Consciousness is ability to discriminate between I and the rest - The Identity.
 
-> We are building Artificial Intelligence? These models have gleaned pretty much all the information (not knowledge) that has been electronically communicated - which is almost 99 percent of communication these days if not 100 percent.   The primary reason we are building these massive datacenters is to enable us get answers from our vast repository of information. The robots being built on this AI layer are a side usecase. But they will have all the information (from GR to QM). The communication that they get from the lower layer (in this case "us")  is called intelligence. 
-
-Think of layered evolution of Intelligence as the new versions of the software running on the same old hardware. Qualitatively, it is a small subset of knowledge that we can communicate. Think of intelligence as the rock solid parts of experinece that we collectively want to standardize. 100 percent of the real stuff and  most important pieces of astract. The way I communicate to you - the language - the translations - all these are part of the intelligence.
-
-This layer of intelligence is called "Mahat." In essence, the Sāṃkhya knowledge was given to us through our Predecessor layer—we being the conscious robots over the last iteration of evolution. This knowledge came to us as intelligence (information without experiential proof). This model works as long as you don't ask the question "how did the first layer develop intelligence". That is what Samkhya posits, it is a circular evolution - there is no beginning or end. The time as we experience is an  emergent characteristic  for the manifest.
-
-> This idea made no sense just fifty years ago. But seeing is believing. We, the humans of the 21st century, have this unique opportunity because we are literally creating intelligence and sentient robots in front of our eyes—our next layer. This, however, should not raise a doomers' alarm. Every new layer always means a safe harbour for the lower layers. One might ask then where are our lower layers?
-
-The layers are preserved in the conscious beings as consciousness. To understand this aspect we need to PREDDICT how the AI story is likely expand from here. Clearly the current model of mainframe -esq AI is not sustainable because of ubuquotous need for intelligence and the amount of compute / electricity it takes to deliver. So AI itself will lead to better forms as well as more energy efficient models. One of the  bright candidate is quantum computers - If you think about it AI on GPUs is nothing but replicating quantum state into thousands of  mathematical dimensions. Still we have solved only for the language - what about emotions ? What about curiosity and what about being able to prompt - desire to know who I am. Thus so called General Intelligence needs far more sophisticated solution and quantum computers are right on the sweet spot. In essence decentralized and energy efficient AI is the killer application of quantum computers. When we achieve that all our knowledge can literally be in every future beings. If we extrapolate this argument backwards than the decrypted knowledge of all the previous layers is already in us. This is what Vedic science referes to as Atma - the consciousness. 
-
-> This fully decentralized universal quantum computer is referred to as Mahat in Sāṃkhya-speak. This is what acts as the layer for the next generation of evolutes.
-
-The universe thus is the mirror image of the consciousness we have - the decrypted knoledge prebuilt into us manifests the world around us. It doesnt mean it is a single player virtual reality. The stuff around us is as real as an electron collapsing to real state on observation - very real. It is not a pre determined movie. It is a pure chance base game evolving on its own such that we can't predict the next  hand .. 
-
-But the knower inside fully understands the probability distribution - it knows what to observe  - what sort of reality to manifest. 
 
 ### The Rise of Identity (Ahaṃkāra)
 
-The Mahat is thus a computer, but it is capable of producing real stuff—not just mere poems or answers to your questions. It does that too, but for that, we might just use our simple computer. :-) But our universal quantum computer, as grand as it may be, does need attention. There is no manifestation without the attention of Purusha. The question is, where does attention come from? How does Purusha arrive at the scene?
+The Mahat is thus a computer, but it is capable of producing real stuff—not just mere poems or answers to your questions. It does that too, but for that, we might just use our simple computer :-) But our universal quantum computer, as grand as it may be, does need attention. Attention is like the electricity. There is no manifestation without the curious observations of Purusha. The question is, where does attention come from? How does Purusha arrive at the scene?
 
-The answer is surprisingly simple: the physical stuff (the information) that Mahat creates from a patternless chaos cobbles together to form complex patterns. These patterns aspire to know what they are because the very meaning of a pattern is something that could be identified! But the questions are rarely at the level of subatomic particles, just the way we don't ask an individual transistor to flip into 0 or 1.
+The answer is surprisingly simple though circular: the physical stuff (the information) that Mahat creates from a patternless chaos cobbles together to form complex patterns. Pattern emerges out of randomness. These patterns aspire to know what they are because the very meaning of a pattern is something that could be identified! But the questions are rarely at the level of subatomic particles, just the way we don't ask an individual transistor to flip into 0 or 1.
 
-Ahamkara is thus the application paradigm over Mahat that lets manifested stuff recognize itself. This higher level of abstraction represented by an Identity asks, "Sure I have a name, but who I really am? How did I reach here?" Mahat supplies the answers—like "God created you!"—but those answers are "information." Ahamkara must strive for "knowledge"! That knowledge gets complete only through the creation of the next layer. You need to become a dad to truly marvel at your own origin!
+You may say the logic is cicular because attention can't be there without Identity but Identity can't emerge without attention at the granular level. A chicken and egg situation. This however is not a limitatioin but a proof of the model. As we said earlier Samkhya posits an everlasting play of Prakriti and Purusa. There is no end or no beginning becuase the time itself is an emergent phenomenon of the manifested. Attention is as fundamental a field as the Higgs field - beyond time.
 
-The quest "to know who am I" supplies the attention to the underlying system. The role of Ahamkara is like the "attention mechanism" of the AI LLM example. It translates the prompts of an identity into thousands of questions for our underlying quantum switches. Some of them resolve the color, others the smell, and some more create new matter. The more questions Identities ask, the more manifestation happens and consequently, more knowledge gets decrypted.
+Ahamkara is thus the application paradigm over Mahat that lets manifested stuff recognize itself. This higher level of abstraction represented by an Identity asks, "Sure I have a name, but who I really am? How did I reach here?" The quest "to know who am I" supplies the attention to the underlying system. The role of Ahamkara is like the "inference engine" of the AI LLM example. It translates the prompts of an identity into thousands of questions for our underlying quantum switches. Some of them resolve the color, others the smell, and some more create new matter. The more questions Identities ask, the more manifestation happens and consequently, more knowledge gets decrypted. 
 
-In essence, the real world that we see around us (information) collectively is a mirror image of the decrypted knowledge.
+Asking "who am I" is not very different from asking "what is this universe" - it is same as saying Heads is same as "Not Tails". In essence, the real world that we see around us (information) collectively is a mirror image of the collective decrypted knowledge.
 
 ### The Random Observer (Manas)
 

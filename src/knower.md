@@ -27,7 +27,7 @@ The easiest way to comprehend knowledge is to contrast it with information.
 While conventional definitions often see "information" as a tool to predict next event (say a stock market tip, perfect weather for the beach etc.); and "knowledge" as the concrete universal reality (speed of light is a constant), we will flip these definitions to align them with the probabilistic quantum world. Probablity is a useful tool. As observers, our predictive capabilities (of most physical processes) lack certainty. That is exactly where probabilty shines - to handle uncertainty.
 
 *   **Information** is the data from events that have already occurred—the outcomes of repetitive trials. If you flip a coin a million times, the record of say 501,000 heads and 499,000 tails is *information*. It is concrete record of outcomes. It is the past. In Sāṃkhya, this is called *Bhūtādika* (manifested realities of the past). Manifest can be both, physical as well as abstract.
-*   **Knowledge** is the awareness of all possibilities and their respective probabilities. The understanding that a fair coin *may* land on either heads or tails with a ~ 50/50 probability is *knowledge*.
+*   **Knowledge** is the awareness of all possibilities and their respective probabilities. For example, the simple idea that a fair coin *may* land on either heads or tails with a ~ 50/50 probability is *knowledge*.
 
 > Knowledge is the menu of potential futures—it is a way to frame "what to look for" or "what to measure." In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but we are quite sure of likely scenarios). 
 >
@@ -35,7 +35,7 @@ While conventional definitions often see "information" as a tool to predict next
 >
 > Knowledge doesn't strive to be accurate in terms of absolute occurrences - heads may be more than tails in a flipping contest, or vice versa - but it is super accurate in the probabilities of outcomes. A slight change in conditions immediately changes the odds without fail. There is no way to bluff the knowledge:  if you throw a dice, it can't turn into a pigeon! Or can it? 
 >
->> It can .. but the probability of such an outcome is so small that it would take trillions of universes, trillions times bigger than that of ours,  yet your very next throw may very well turn into a pigeon. Because knowledge is NOT accurate on individual hand - literally anything can happen.
+>> It can .. but the probability of such an outcome is so small that it would take trillions of universes, trillions times bigger than that of ours,  yet your very next throw may very well turn into a pigeon. Because knowledge is NOT accurate on individual hand - literally anything can happen, albeit an extremely low chance.
 
 To put the idea of "knowledge" in context, let's look at the Bhagavad Gītā. Krishna suggested a binary option to Arjuna: if you die in the war, you shall gain exit (Nirvāṇa); if you win, you will enjoy the vast kingdom. Life and death are choices like those in an air-borne flipping coin. However, he clarified that "not fighting" isn't a valid option. The chances of him not fighting were akin to a throw of a dice turning into a banana. Even if Arjuna were to abandon the fight, his conditioning would force him back in. It is in the "geometry" of a coin to be flipped as much as that in the nature of a warrior to fight.
 
@@ -45,7 +45,7 @@ Krishna is seen as the "knower" because he not only knew the options that fate (
 >
 > For the sake of this essay, "Knowledge" is the set of rules governing the probabilities based on a set of preexisting conditions, while "information" is the record of individual outcomes.
 
-For an external observer, knowledge unfolds with every new piece of information. For example, if it was your first time flipping a fair coin, you would soon realize that Heads or Tails were only options. For a binary pair such as coin toss, "Not Heads" exists but eventually it means "Tails", and vice versa. You can name "Tails" as "Not Heads" depending upon what you are looking for. You will soon notice that Heads and Tails are random occurrences, but there is an order in that randomness. If you flipped enough times, the occurrences of two options converge towards the average - half and half. If there were three probable outcomes, the outcomes shall gravitate towards "one third". These are proven laws of probability theory but the amazing thing is:  
+For an external observer, knowledge unfolds with every new piece of information. For example, if it was your first time flipping a fair coin, you would soon realize that Heads or Tails were only options. For a binary pair such as coin toss, "Not Heads" exists but eventually it means "Tails", and vice versa. You can name "Tails" as "Not Heads" depending upon what you are looking for. You would also see that Heads and Tails are random occurrences - independent of what showed up in last flip. But there is an order in that randomness. If you flipped enough times, the occurrences of two options converge towards the average - half and half. If there were three probable outcomes, the outcomes shall gravitate towards "one third". These are proven laws of probability theory but the amazing thing is:  
 
 > No one ever told "the coin" how to behave. It didn't take probability theory lessons :-) Eienstein famously said "God doesn't throw dice". 
 >
@@ -53,7 +53,7 @@ For an external observer, knowledge unfolds with every new piece of information.
 >
 > The gradual unveiling of knowledge (for an observer) is thus akin to "decrypting" a puzzle through repeated trials and errors.
 
-Knowledge means you approach the system inside out, not outside in like an external observer. While a well "informed" may cite event(s), knowledge is the only path to hypothesize. It can predict things or lay down prophecies. Knower is an insider. It is so deeply entrenched in the system that it is invisible even to ardent observers. An observer is collecting information (past), a knower is choosing the direction of future by designating what to observe. 
+Knowledge means you approach the system inside out, not outside in like an external observer. While a well "informed" may cite event(s), knowledge is the only path to hypothesize. It can predict things or lay down prophecies. Knower is an insider. It is so deeply entrenched that it is invisible even to ardent observers. An observer is collecting information (past), a knower is choosing the direction of future by designating what to observe. 
 
 While potential is perfectly random, "what to observe" creates a narrative - an order emerges. We always look for a Head or Tail in a coin flip. No one is counting banans after flipping a coin.
 

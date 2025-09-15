@@ -4,7 +4,7 @@ In Chapter 13 of the Bhagavad Gītā, Krishna tells Arjuna that the body (and by
 
 > He then says, "Know Me as the Knower in every field."
 
-This essay seeks to understand the characteristics of the "Knower" by bridging modern physics, computing, and ancient Vedic philosophies of Sāṃkhya and Advaita Vedānta.
+This essay seeks to understand the characteristics of the "Knower" by bridging modern physics and  computing with ancient Vedic philosophies of Sāṃkhya and Advaita Vedānta.
 
 ## Sāṃkhya
 
@@ -24,22 +24,22 @@ To understand the Knower, we must first understand what is meant by "knowledge"!
 
 The easiest way to comprehend knowledge is to contrast it with information. 
 
-While conventional definitions often see "information" as a tool to predict next event (say a stock market tip, perfect weather for the beach etc.); and "knowledge" as the concrete universal reality (speed of light is a constant), we will flip these definitions to align them with the probabilistic quantum world. Probablity is a useful tool. As observers, our predictive capabilities (of most physical processes) lack certainty. That is exactly where probabilty shines - to handle uncertainty.
+Conventional definitions often see "information" as a tool to predict next event (say a stock market tip, perfect weather for the beach etc.); and "knowledge" as the concrete universal reality (speed of light is a constant). For this essay, we will flip these definitions to align them with the probabilistic quantum world. Probablity is a useful tool. As observers, our predictive capabilities (of most physical processes) lack certainty. That is exactly where probabilty shines - to handle uncertainty.
 
 *   **Information** is the data from events that have already occurred—the outcomes of repetitive trials. If you flip a coin a million times, the record of say 501,000 heads and 499,000 tails is *information*. It is concrete record of outcomes. It is the past. In Sāṃkhya, this is called *Bhūtādika* (manifested realities of the past). Manifest can be both, physical as well as abstract.
-*   **Knowledge** is the awareness of all possibilities and their respective probabilities. For example, the simple idea that a fair coin *may* land on either heads or tails with a ~ 50/50 probability is *knowledge*.
+*   **Knowledge** is the awareness of all options and their respective probabilities. For example, the simple idea that a fair coin *may* land on either heads or tails with a ~ 50/50 probability is *knowledge*.
 
 > Knowledge is the menu of potential futures—it is a way to frame "what to look for" or "what to measure." In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but we are quite sure of likely scenarios). 
 >
 > A rather watered down anology would be the example of a casino. In that very limited scope of slot machines and games, a casino has the knowledge as to how much edge it has per hand, though it can't pick up gains against a specific player. It has control over final outcome but not on individual play. A gambler, on the other hand, is someone who is changing his bets based on the "information" of the individual outcomes - fully aware that probability is stacked against him. This specific design is very useful becuase even though the game is rigged it is not so in favor of a specific player. Even the casino manager can't predict individual hand if she wish to try her own luck. 
 >
-> Knowledge doesn't strive to be accurate in terms of absolute occurrences - heads may be more than tails in a flipping contest, or vice versa - but it is super accurate in the probabilities of outcomes. A slight change in conditions immediately changes the odds without fail. There is no way to bluff the knowledge:  if you throw a dice, it can't turn into a pigeon! Or can it? 
+> Knowledge doesn't strive to be accurate in terms of absolute occurrences - heads may be more than tails in a flipping contest, or vice versa - but it is super accurate in large sample size. A slight change in conditions immediately changes the odds without fail. There is no way to bluff the knowledge:  if you throw a dice, it can't turn into a pigeon! Or can it? 
 >
 >> It can .. but the probability of such an outcome is so small that it would take trillions of universes, trillions times bigger than that of ours,  yet your very next throw may very well turn into a pigeon. Because knowledge is NOT accurate on individual hand - literally anything can happen, albeit an extremely low chance.
 
 To put the idea of "knowledge" in context, let's look at the Bhagavad Gītā. Krishna suggested a binary option to Arjuna: if you die in the war, you shall gain exit (Nirvāṇa); if you win, you will enjoy the vast kingdom. Life and death are choices like those in an air-borne flipping coin. However, he clarified that "not fighting" isn't a valid option. The chances of him not fighting were akin to a throw of a dice turning into a banana. Even if Arjuna were to abandon the fight, his conditioning would force him back in. It is in the "geometry" of a coin to be flipped as much as that in the nature of a warrior to fight.
 
-Krishna is seen as the "knower" because he not only knew the options that fate (*prārabdha*) had on offer, but that these choices were only for Arjuna—not for thousands of other warriors—and also that the options opened up (conditionally) once the manifest reached the battle of Kurukshetra. The Gītā had to be told only after reaching the centerstage, from where entire universe could hear.
+Krishna is seen as the "knower" because he not only knew the options that fate (*prārabdha*) had on offer, but that these choices belonged only to Arjuna—not to thousands of other warriors. And that the options opened up (conditionally) once the manifest reached the battle of Kurukshetra. The Gītā had to be told only after reaching the centerstage, from where entire universe could hear.
 
 > Even if it may conflict with formal epistemology, let us restate the definitions once again:  
 >

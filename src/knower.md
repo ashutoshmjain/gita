@@ -43,7 +43,7 @@ Krishna is seen as the "knower" because he not only knew the options that fate (
 
 > Even if it may conflict with formal epistemology, let us restate the definitions once again:  
 >
-> For the sake of this essay, "Knowledge" is the set of rules governing the probabilities based on a set of preexisting conditions, while "information" is the record of individual outcomes.
+> For the sake of this essay, "Knowledge" is the set of rules governing the probabilities, while "information" is the record of individual outcomes.
 
 For an external observer, knowledge unfolds with every new piece of information. For example, if it was your first time flipping a fair coin, you would soon realize that Heads or Tails were only options. For a binary pair such as coin toss, "Not Heads" exists but eventually it means "Tails", and vice versa. You can name "Tails" as "Not Heads" depending upon what you are looking for. You would also see that Heads and Tails are random occurrences - independent of what showed up in last flip. But there is an order in that randomness. If you flipped enough times, the occurrences of two options converge towards the average - half and half. If there were three probable outcomes, the outcomes shall gravitate towards "one third". These are proven laws of probability theory but the amazing thing is:  
 
@@ -61,7 +61,7 @@ While potential is perfectly random, "what to observe" creates a narrative - an 
 
 This is where Quantum Mechanics provides a crucial insight: an act of measurement collapses the wave function.
 
-> A "wave function" is just a fancy way to account for "all the possibilities" (in a mathematical equation). The quantumness, however, is a fascinating idea. It means all the possibilities exist together in a state called "super position". An observation breaks this "possibility cloud" into one unique state. This one chosen possibility is our reality. It is a concrete event - the information. It is like Monday morning when you are half asleep imagining it was still Sunday. The weekend quantum dream wouldn't collapse till Alexa announced it was eight a.m. to kickstart the work week, and then it all suddenly gets real! Monday happened.
+> A "wave function" is just a fancy way to account for "all the possibilities" (in a mathematical equation). The quantumness, however, is a fascinating idea. It means all the possibilities exist together in a state called "super position". An observation breaks this "possibility cloud" into one unique state. This one chosen possibility is a tiny increment in our reality. It is a concrete event - the information. It is like Monday morning when you are half asleep imagining it was still Sunday. The weekend quantum dream wouldn't collapse till Alexa announced it was eight a.m. to kickstart the work week, and then it all suddenly gets real! Monday happened.
 
 The rookie mistake is to think that these probabilities exist as a mix of percentages - like heads 40 percent and tails 60 percent. No ... they both exist in full. Think of them as state vectors separated by a phase if the potential was represented as a wave. A (sine) wave is a circle without notion of time. If we take away the time aspect, every possibility is like the radius of circle at different angles. Infinite angles may exist with in one circle. Act of measurement forces our attention on one unique angle. But keep in mind the mirror image exists if you extend the radius to meet other side of the circle. Thus a diameter is what connects two mirror images of a possibility - "Heads and Not Heads".
 

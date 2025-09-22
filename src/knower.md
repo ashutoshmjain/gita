@@ -16,7 +16,7 @@ While the bulk of Sāṃkhya and Advaita are overlapping, the core difference is
 >
 > Bhagavad Gita - Chapter 7.
 
-Let us understand the core concepts with Sāṃkhya because this path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began?". In other words, Sāṃkhya is designed for minds that need logical closure. It is an analytical view of Vedic science. The word "Suṃkhya" in Sanskrit literally means "a number." Sāṃkhya thus means: based in rational logic.
+Let us understand the core concepts with Sāṃkhya because this path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began - before bigbang?". In other words, Sāṃkhya is designed for minds that need logical closure. It is an analytical view of Vedic science. The word "Suṃkhya" in Sanskrit literally means "a number." Sāṃkhya thus means: based in rational logic.
 
 ### Knowledge vs. Information
 
@@ -29,7 +29,7 @@ Conventional definitions often see "information" as a tool to predict next event
 *   **Information** is the data from events that have already occurred—the outcomes of repetitive trials. If you flip a coin a million times, the record of say 501,000 heads and 499,000 tails is *information*. It is concrete record of outcomes. It is the past. In Sāṃkhya, this is called *Bhūtādika* (manifested realities of the past). Manifest can be both, physical as well as abstract.
 *   **Knowledge** is the awareness of all options and their respective probabilities. For example, the simple idea that a fair coin *may* land on either heads or tails with a ~ 50/50 probability is *knowledge*.
 
-> Knowledge is the menu of potential futures—it is a way to frame "what to look for" or "what to measure." In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but we are quite sure of the  likely scenarios). 
+> Knowledge is the menu of potential option—these are the "only" items available for dinner tonight-nothing else. It is a way to let obsservers frame "what to look for" or "what to measure-set of permissions or degrees of freedom." In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but we are quite sure of the  likely scenarios). 
 >
 > A rather watered down anology would be the example of a casino. In that very limited scope of slot machines and games, a casino has the knowledge as to how much edge it has (per hand), though it can't pick up gains against a specific player. It has control over final outcome but not on individual play. A gambler, on the other hand, is someone who is changing his bets based on the "information" of the individual outcomes - fully aware that probability is stacked against him. This design is useful becuase even though the game is rigged it is not so in favor of a specific player. Even the casino manager couldn't predict individual hand if she wished to try her own luck. Samkhya thus, despite being atheistic, accepts divine incarnation, albeit such incarnation is as tied to the physical laws as an ordinary player to the rule book of casino - there are no special privelages except for the knowledge.
 >

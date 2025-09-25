@@ -8,13 +8,7 @@ This essay seeks to understand the characteristics of the "Knower" by bridging m
 
 ## Sāṃkhya
 
-While the bulk of Sāṃkhya and Advaita are overlapping, the core difference is in the boundary conditions—origin and dissolution. The Sāṃkhya school of thought considers a perpetual duality of Prakriti and Purusha—the potential and the observer. Advaita considers a definite beginning from a non-dual singularity (seed), albeit recurring cycles of sudden demise (Pralaya) and sudden regeneration (Prabhava).
-
-> etad yonīni bhūtāni sarvāṇītyupadhāraya |
->
-> ahaṁ kṛtsnasya jagataḥ prabhavaḥ pralayastathā ||
->
-> Bhagavad Gita - Chapter 7.
+The Sāṃkhya school of thought considers a perpetual duality of Prakriti and Purusha—the potential and the observer. Advaita considers a non-dual brahman as the only truth. 
 
 Let us understand the core concepts with Sāṃkhya because this path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began - before bigbang?". In other words, Sāṃkhya is designed for minds that need logical closure. It is an analytical view of Vedic science. The word "Suṃkhya" in Sanskrit literally means "a number." Sāṃkhya thus means: based in rational logic.
 

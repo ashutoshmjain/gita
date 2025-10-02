@@ -1,6 +1,6 @@
 # Knower
 
-In Chapter 13 of the Bhagavad Gītā, Krishna tells Arjuna that the body (and by extension, the entire universe) is the "field" (*kṣetra*), and the one who understands this field is the "knower of the field" (*kṣetrajña*).
+In Chapter 13, Krishna tells Arjuna that the body (and by extension, the entire universe) is the "field" (*kṣetra*), and the one who understands this field is the "knower of the field" (*kṣetrajña*).
 
 > He then says, "Know Me as the Knower in every field."
 
@@ -8,11 +8,11 @@ This essay seeks to understand the characteristics of the "Knower" by bridging m
 
 ## Sāṃkhya
 
-The Sāṃkhya school of thought posits a perpetual duality of Prakriti and Purusha—the potential and the observer. In contrast, Advaita's beleives in a non-dual brahman (God) as the only truth. The modern view is: Samkhya was atheistic vs devotion of Advita in singular God - much like the science vs religion debate of today. This line of thinking lacks any evidence, and is based on our current divisive experience. We are simply juxtaposing on past our own reality of divergence of science from religion. 
+The Sāṃkhya school of thought posits a perpetual duality of Prakriti and Purusha—the potential and the observer. In contrast, Advaita's beleives in a non-dual brahman (God) as the only truth. The modern view is: Samkhya was atheistic vs the blind devotion of Advita in singular God - much like the science vs religion debate of today. This line of thinking lacks any evidence, and is based on our current divisive experience. We are simply juxtaposing on past our own reality of divergence of science from religion. 
 
-Adviata's mission was to help society get over a convoluted belief system of hundreds of deities and demigods, often used to exploit the masses. Modern interpretations see it as an opposition to Samkhya simply because the name "Advita" means "Not Two" (non dual) contrasting the duality of Samkhya. 
+Adviata's mission was to help society get over a convoluted belief system of hundreds of deities and demigods, often used to exploit the masses. Modern interpretations see it as an opposition to Samkhya simply because the name "Advita" means "Not Two" (non dual) contrasting the duality of Samkhya. It is important to note here the exploitation wasn't because of multiplicity of deities. In India, there are still hundreds, if not thousands, of Gods. Today, however, there is no exploitation because the masses are educated. On the contarary, the diveristy of faith is a matter of celebration now.
 
-Advita, in truth didn't refute the duality of Samkhya. On the contarary, it reinforced the indivisibility of Purusa (often termed "Nirguna Brahman" in Advaita) as one singular form of consciousness. In essence it expands the scope of Samkya from individual droplets of consciouness to an immense universal field of consciousness, on which all the "mind and matter" complex (manifest Prakriti) takes roots. It adds a philosphical underpinning that the nature of the manifested is transient (time dependent), and hence it is unreal (Mithya) - one that decays. It was the first attempt to name the manifest as Matrix (Maya) because it acts as a jail to an untrained mind. Pure consciousness as Purusa is thus the only truth in Advaita's vantage.
+Advita, in truth didn't refute the duality of Samkhya. Quite the opposite, it reinforced the indivisibility of Purusa (often termed "Nirguna Brahman" in Advaita) as one singular form of consciousness. In essence, it  expanded the scope of Samkya from individual droplets of consciouness to an immense universal field of consciousness, on which all the "mind and matter" complex (manifest Prakriti) takes roots. It adds a philosphical underpinning that the nature of the manifested is transient (time dependent), and hence it is unreal (Mithya) - one that decays. It was the first attempt to name the manifest as Matrix (Maya) because it acts as a jail to an untrained mind. Pure consciousness as Purusa is thus the only truth in Advaita's vantage.
 
 Let us understand the core concepts with Sāṃkhya because this path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began - before bigbang?". In other words, Sāṃkhya is designed for a logical closure. It is an analytical view of Vedic science. The word "Suṃkhya" in Sanskrit literally means "a number." Sāṃkhya thus means: based in rational logic. Adviata implements this rational logic as faith.
 

@@ -117,6 +117,12 @@ Keep in mind that the three Gunas are not some external monitoring system. These
 
 This is how the threefold Gunas control the probability of what is going to happen, but that is not all—the system turns into massive computer hardware.
 
+
+
+---- WIP ----
+
+
+
 ### The Universal Computer - Mahat
 
 The gunas model at its core reduces the multiplicity of quantum states to a binary choice. That makes this quantum apparatus more like a classical computation device. Manifestation is like a classical transistor in "ON" position where observer is locked in like a tiny spark of current, and the opposite is barren "off" state without any attention.

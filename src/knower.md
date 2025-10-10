@@ -91,7 +91,7 @@ The journey of manifestation is thus from many tangled dualities (Tamas) to a si
 
 When Sattva makes a resolute measurement, Purusha gets entangled in the middle of the decoherence it caused. It "gets stuck," and the time begins - which means the time is a measure of how long attention stays locked. In Vedic terms, this is the fundamental bondage of observation—**Bodh Bandhana** - the bondage of awareness. The very state of knowing is a bond at this level, different from the **Karmic Bondage** we normally refer to in traditional Vedic teachings. In some traditions, "not knowing" is considered ultimate freedom. Buddha was often called "BodhiSattva"  because he had freedom from the bond of knowing. Like karmic manifest, time does pass in this bondage - there is a notion of rise and decay - but duration of this bond is exponentially longer. You just can't "unknow" that easily.
 
-BTW, this is exactly how  an AI Large Language Model works: It is a great way to comprehend what QM framework is missing a very important formalism - the observer[^observer]! 
+BTW, this is exactly how  an AI Large Language Model works: It is a great way to comprehend what QM framework is missing a very important formalism - the observer! 
 
 > In an LLM such as Google Gemini, all the "words" (tokens) that are used to train the model are suspended in a vector space of thousands of mathematical dimensions. Of course, these are not real physical dimensions like length or width—they are mathematical dimensions (x, y, and z coordinates).
 >
@@ -117,8 +117,31 @@ Keep in mind that the three Gunas are not some external monitoring system. These
 
 This is how the threefold Gunas control the probability of what is going to happen, but that is not all—the system turns into massive computer hardware.
 
+## Connection with Quantum Mechanics and deeper mathematics
 
+The Advaita model has a striking parallel to Quantum Feild theory (QFT) . Except that, the QFT posits seventeen different fields - not just one! But still the idea that an underlying feild bears the the knowledge of which manifest emerges makes sense. So we have a notion of an ocean of Nirguna of which Saguna emerges as it interacts with the three qualities of Prakriti.
 
+But the question remains - how do we explain the three fundamental qualities of Prakriti?  QFT explains the three-ness through an arbitrary mathematics of Quantum Chromodynamics (QCD) . QCD is used to explain the strong force - the very reason of manifestation through an arbitrary assumption of three color charges - Red , Blue and Green - akin to three qualities of Samkhya. It works very well but it has no structural underpinning.
+
+String theory, luckily, solves both the problems - the duality of Samkhya ( Prakriti and Purusha) and the three qualities of Prakriti. There are two types of strings - open strings and closed loops - representing Prakriti and Prurusa. Open Strings emerge into three types based on the types of Branes they are attached to!
+
+### A Geometric Tapestry: How String Theory Weaves the Colors of the Strong Force
+
+In the heart of every atom, the universe’s most powerful force is at play. Known as the strong nuclear force, it binds tiny particles called quarks together to form the protons and neutrons that make up our world. The theory describing this force, Quantum Chromodynamics (QCD), is a cornerstone of modern physics. It tells a peculiar story of "color charge," a property of quarks that comes in three varieties—whimsically named red, green, and blue. These are not literal colors, but labels for a type of charge that governs how quarks interact, mediated by force-carrying particles called gluons.
+
+For decades, the rules of QCD have been accepted as fundamental truths because they perfectly predict the outcomes of experiments. Quarks have three colors; gluons carry color and can change a quark's color; and no particle with a net color charge can ever be seen in isolation—a phenomenon called confinement. But a deeper question has always lingered: *why* these specific rules? Why three colors and not two, or five? Physics, in its quest for ultimate understanding, seeks not just the "what" but the "why." String theory, a candidate for a unified "theory of everything," offers a startling and elegant answer, transforming these abstract rules into a tangible, geometric picture.
+
+The first step in this new perspective is to abandon the idea of particles as infinitesimal points. String theory proposes that the fundamental constituents of reality are not points, but unimaginably small, one-dimensional vibrating strings. Different vibrations of these strings correspond to different particles, much like different vibrations of a violin string produce different musical notes. For this framework to be consistent, it requires a universe with more than the three spatial dimensions we experience. Within this higher-dimensional space, string theory introduces another crucial ingredient: vast, sheet-like objects called "branes" (short for membranes).
+
+The relationship between strings and branes is the key to unlocking the mystery of forces. The theory contains two types of strings: closed loops and open strings with two endpoints. Closed strings are free to travel throughout all dimensions, and their lowest vibrational state corresponds to the graviton, the particle of gravity. Open strings, however, are different. Their endpoints are not free; they must be anchored to a brane, like threads stitched onto a tapestry. It is the vibrations of these open strings, confined to live on branes, that manifest as the particles and forces of the Standard Model, including the strong force.
+
+This is where the geometric explanation for color charge emerges. To construct the strong force, string theorists imagine a stack of three distinct branes placed together in the extra dimensions. Each of these branes corresponds to one of the three colors: a "red" brane, a "green" brane, and a "blue" brane. The force-carrying gluons of QCD are then revealed to be nothing more than the vibrations of open strings that have both of their endpoints attached to this stack.
+
+A string that begins and ends on the same brane (say, the red brane) behaves like a certain type of gluon. More importantly, a string can stretch from one brane to another. A string stretching from the red brane to the green brane corresponds to a gluon that can interact with a red quark and change its color to green. The complete set of all possible open strings that can exist on this three-brane stack—strings starting and ending on the same brane, and strings stretching between different branes—perfectly reproduces the properties of the eight gluons required by QCD. The abstract rule of three colors is no longer an axiom; it is a direct consequence of the existence of three branes.
+
+This elegant model also provides a natural origin for quarks. If gluons are strings with *both* ends on the color branes, what are quarks? The answer lies in introducing a second, separate group of "flavor branes" at a distance from the color branes. A quark, in this picture, is an open string that stretches across the gap, with one end attached to one of the three color branes and the other end attached to a flavor brane. This immediately explains why quarks feel the strong force—one of their endpoints lives in the world of color. It also gives them a distinct identity from gluons, which are confined entirely to the color brane stack.
+
+In this way, string theory provides a profound reinterpretation of the strong force. The seemingly arbitrary laws of color charge are revealed to be a reflection of a deeper, geometric reality. The number of colors is the number of branes. The properties of gluons and quarks are dictated by where the strings they are made of can end. This translation of abstract quantum rules into a physical model of strings and surfaces is one of the most powerful and beautiful ideas in theoretical physics, suggesting that the very fabric of our universe is woven from a hidden, higher-dimensional geometry.
 ---- WIP ----
 
 
@@ -130,9 +153,9 @@ The gunas model at its core reduces the multiplicity of quantum states to a bina
 
 <div style="padding-left:40px;font-size:0.8em;"> 
 
-Nick Bostrom and Carl Shulman suggest in their [recent paper](https://nickbostrom.com/propositions.pdf) -  consciousness is hardware independent.
+Nick Bostrom and Carl Shulman suggest in their (https://nickbostrom.com/propositions.pdf) -  consciousness is hardware independent.
 
-> Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/propositions.pdf)
+> Mental states can supervene on any of a broad class of physical substrates. Provided a system implements the right sort of computational structures and processes, it can be associated with conscious experiences. It is not an essential property of consciousness that it is implemented on carbon-based biological neural networks inside a cranium: silicon-based processors inside a computer could in principle do the trick as well ~ (https://nickbostrom.com/propositions.pdf)
 
 </div>
 
@@ -228,6 +251,6 @@ The goal is to exit from this matrix, and the path is to control our senses. Adv
 
 
 
-[^observer]: In string theory, we find a possible echo of fundamental observer though there is still total lack of scientific recognition. I think most QM Practitioners miss the point that idea of "probability" (on which the entire field is based) has NO meaning without a measurement (observation). 
+: In string theory, we find a possible echo of fundamental observer though there is still total lack of scientific recognition. I think most QM Practitioners miss the point that idea of "probability" (on which the entire field is based) has NO meaning without a measurement (observation). 
 - The strings are basically of two types. Closed strings and open strings. Open strings may act like vibrations of Prakriti because they cling together to form Branes. Closed strings normally called gravitons (at spin 2 massless excitation) may be seen as Vedic Purusha.
 - Call it an accident or sweet coincidence that both Sāṃkhya and String Theory are (at the most granular level) based on timeless paradigm of two - Open and closed strings v/s Prakriti and Purusha. Must I say the later naming convention appears far more poetically refined!

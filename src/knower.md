@@ -109,19 +109,19 @@ This split of physical and knowledge also means the probability of "Not Heads" i
 
 > The idea of saying "NOT-HEADS" as the knowledge is a crucial point here. It means "knowledge" may represent a proxy vote in the probabilistic disposition of the trial but it can't manifest (in real) on its own. It must take on the shape of "Tails".
 
-Keep in mind that the three Gunas are not some external monitoring system. These are the inherent properties of Prakriti—manifest or unmanifest—just like Quantum systems have three fundamental properties: Charge, Mass, and Spin.
+Keep in mind that the three Gunas are not some external monitoring system. These are the inherent properties of Prakriti—manifest or unmanifest—just like Quarks have three fundamental color charges: Red , Blue and Green. 
 
-- Sattva <=> Mass (Physical Reality)
-- Rajas <=> Charge (Duality)
-- Tamas <=> Spin (Quantum degrees of freedom)
+- Sattva <=> Green - creativity
+- Rajas <=> Red - action
+- Tamas <=> Blue - inertia.
 
-This is how the threefold Gunas control the probability of what is going to happen, but that is not all—the system turns into massive computer hardware.
+Together, these three qualities bear the force of creation - akin to strong nuclear foce - the strongest force of the four force.
 
 ## Connection with Quantum Mechanics and deeper mathematics
 
 The Advaita model has a striking parallel to Quantum Feild theory (QFT) . Except that, the QFT posits seventeen different fields - not just one! But still the idea that an underlying feild bears the the knowledge of which manifest emerges makes sense. So we have a notion of an ocean of Nirguna of which Saguna emerges as it interacts with the three qualities of Prakriti.
 
-But the question remains - how do we explain the three fundamental qualities of Prakriti?  QFT explains the three-ness through an arbitrary mathematics of Quantum Chromodynamics (QCD) . QCD is used to explain the strong force - the very reason of manifestation through an arbitrary assumption of three color charges - Red , Blue and Green - akin to three qualities of Samkhya. It works very well but it has no structural underpinning.
+But the question remains - how do we explain the three fundamental qualities of Prakriti?  QFT explains the three-ness through an arbitrary mathematics of Quantum Chromodynamics (QCD) . QCD is used to explain the strong force,  the very reason of manifestation, through an arbitrary assumption of three color charges - Red , Blue and Green - akin to three qualities of Samkhya. It works very well but it has no structural underpinning.
 
 String theory, luckily, solves both the problems - the duality of Samkhya ( Prakriti and Purusha) and the three qualities of Prakriti. There are two types of strings - open strings and closed loops - representing Prakriti and Prurusa. Open Strings emerge into three types based on the types of Branes they are attached to!
 

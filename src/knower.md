@@ -12,13 +12,17 @@ The Sāṃkhya school of thought posits a perpetual duality of Prakriti and Puru
 
 But they are not at odds, as it feels on the web!
 
-> The modern point of view appears to be misguided - and that includes the AI chatbots too. The artificial synthesis is : Sāṃkhya was atheistic vs the blind devotion of Advaita in singular God - much like the science vs religion debate of today. This line of thinking has recency bias on account of our current divisive experience. We are simply juxtaposing on past our own reality of divergence of science from faith. 
+> The modern point of view appears to be misguided - and that includes the AI chatbots too. The artificial conclusion is : Sāṃkhya was atheistic vs the blind devotion of Advaita in singular God - much like the science vs religion debate of today. This line of thinking has recency bias on account of our current divisive experience. We are simply juxtaposing on past our own reality of divergence of science from faith. 
 >
 > Secondly, modern interpretation seeems to be  based on (superficial) semantic argument - that the name "Advaita" means "Not Two" (non dual) contrasting the hallmark duality of Sāṃkhya. They miss the point that Advaita's mission was to help society get over a rigid belief system of hundreds of deities and demigods, often hindering social mobility. The society was compartmentalized into watertight segments of castes and races. The message of non duality was necessary to bring the people together.
 
-Advaita didn't refute the duality of Sāṃkhya. Quite the opposite, it reinforced the indivisibility of Purusha  as one singular form of consciousness - often termed "Nirguna Brahman". In Samkhya, Prakriti is described to have three fundamental qualities - Sattva, Rajas and Tamas. These qualities, as a collective, are called : "Gunas". 
+Advaita didn't refute the duality of Sāṃkhya. Quite the opposite, it reinforced the indivisibility of Purusha  as one singular form of consciousness - often termed "Nirguna Brahman". 
 
-> A Purusha that is NOT influenced by "Gunas" is seen as "nir-guna" Brahman in Advaita - one inert to the influence of Gunas, and hence detached from Prakriti. On the other side, the one that readily reacts with "Gunas" is qualified as "sa-guna" Brahman. 
+> In Samkhya, Prakriti is described to have three fundamental qualities - Sattva, Rajas and Tamas. These qualities, as a collective, are called : "Gunas". 
+>
+> A Purusha that is NOT influenced by "Gunas" is seen as "nir-guna" Brahman in Advaita - one inert to the influence of Gunas, and hence detached from Prakriti. 
+>
+> On the other side, the one that readily binds with "Gunas" is qualified as "sa-guna" Brahman. 
 
 In essence, Advaita sees the play of Prakriti and Purusa as changing states of ONE Brahman. This core concept of  Advaita is not a mere faith based deduction. In modern mathematics - the second axiom of probability theory dictates that the sum of all probabilities must be ONE. And so does the Unitarity principle in Quantum Mechanics. Adviata refers to this ONENESS as Brahman.
 

@@ -32,7 +32,9 @@
   </div>
 </div>
 
-Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. The literal translation of word  `Smriti` is "memory", though the word has a specific meaning when used in context of Vaidik Science. 
+Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. 
+
+The literal translation of word  `Smriti` is "memory", though the word has a specific meaning when used in context of Vaidik Science. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -46,7 +48,7 @@ Then we discovered scribing!  Given the difficulties of early days, scribes chos
 
 Long before we learnt the skills of scribing and reading, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
 
-Now that it is easier to scribe, and to record audio, we have zettabytes  of information, so much so that it is impossible to scrape through - at least for humans. However, the quality of content is questionable. Technology has enabled every individual to exercise their wish without seeking consensus - good or bad ? - we don't know ! 
+Now that it is easier to scribe, and to record audio, we have zettabytes  of information, so much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
 
 Revisiting the first `Smriti` is thus finding signal with in endless noise. There are two paths to access this scripture - look inside - contemplation;  or read the text - search. Both are valid, and probably complimentary.
 

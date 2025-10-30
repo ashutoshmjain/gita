@@ -46,9 +46,9 @@ Then we discovered scribing!  Given the difficulties of early days, scribes chos
 
 </div>
 
-Long before we learnt the skills of scribing and reading, critical information was passed on through rigorous recital - not mere "word of mouth". Such information was called `Shruti` - communicated through repetitive oration. The Sanskrit word later morphed into `Shutri` in Hindi.
+Long before we learnt scribing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. The Sanskrit word later morphed into `Shutri` in Hindi.
 
-Now that it is easier to scribe, and to record audio, we have zettabytes  of information, so much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
+Now that it is easier to scribe we have zettabytes  of written words. So much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable because of missing consensus. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
 
 Revisiting the first `Smriti` is thus finding signal with in endless noise. There are two paths to access this scripture - look inside - contemplation;  or read the text - search. Both are valid, and probably complimentary.
 

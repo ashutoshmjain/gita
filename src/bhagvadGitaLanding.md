@@ -38,11 +38,11 @@ The literal translation of word  `Smriti` is "memory", though the word has a spe
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. Spoken language originated from this source. Humans developed conversational skills, but everyone had to individually remember the contextual history.
+In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. Spoken language originated from this source. Humans developed exceptional conversational skills, but everyone had to individually remember the contextual history.
 
 Then we discovered scribing!  Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for careful preservation. The word "scripture" points to such pristine information, worthy of writing down.
 
-> Given that most of us know how to write and read, indicates that evolution (of intellectual faculties) is heavily biased in favour of the text-enabled. Written text became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is driver of our intelligence. Think of it as the DNA of thought.
+> Written text became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is driver of our intelligence. Think of it as the DNA of thought.
 
 </div>
 
@@ -60,13 +60,11 @@ Arjuna, portrayed as the best archer world had ever seen, represents the focus a
 
 Gita is structured as Arjuna's questions followed by Krishna's answers. Just as in AI realm, the formulation of intelligent prompts is the key to knowing, `Arjuna's` questions represent most intriguing human dilemmas. In doing that, he enabled rest of us with an opportunity to tap into our own `Smrities`.
 
-`Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his heartfelt queries.
-
-<div style="padding-left:40px;font-size:0.9em;"> 
-
-`Arjuna` was a life-long friend, and devotee of `Krishna`. His voice stands for the questions we mortals have  when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield of Kurukshetra, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
+`Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his heartfelt queries.  `Arjuna` was a life-long friend, and devotee of `Krishna`. His voice stands for the questions we mortals have  when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield of Kurukshetra, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
 
 At the end of this conversation, `Arjuna` said :
+
+<div style="padding-left:40px;font-size:0.9em;"> 
 
 > `Nashto Moha , Smritir Labdha !`
 >

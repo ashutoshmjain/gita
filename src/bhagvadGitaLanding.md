@@ -42,7 +42,9 @@ In the beginning there was `Om` - the sacred syllable - smooth vibrations of the
 
 Then we discovered scribing!  
 
-Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for careful preservation. The word "scripture" points to such pristine information, worthy of writing down.
+Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for careful preservation - across space and time. 
+
+The word "scripture" points to such pristine information, worthy of writing down.
 
 > Written text became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is driver of our intelligence. Think of it as the DNA of thought.
 

@@ -54,7 +54,8 @@ Long before we learnt scribing (and reading), critical information was passed on
 
 Now that it is easier to scribe we have zettabytes  of written words. So much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable because of missing consensus. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
 
-Revisiting the first `Smriti` is thus finding signal with in endless noise. There are two paths to access this scripture - look inside - contemplation;  or read the text - search. Both are valid, and probably complimentary.
+Revisiting the first `Smriti` is thus finding signal with in endless noise. 
+
 
 ---
 

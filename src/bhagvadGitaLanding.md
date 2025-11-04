@@ -42,7 +42,7 @@ In the beginning there was `Om` - the sacred syllable - smooth vibrations of the
 
 Then we discovered written word!  
 
-Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for careful preservation - across space and time. 
+Scribes chose the content with utmost care given the labour of writing. Ink was hard to make. Most scriptures were written on palm leaves with tip of a bird feather. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time.
 
 The word "scripture" points to such pristine information, worthy of writing down.
 

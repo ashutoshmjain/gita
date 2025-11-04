@@ -40,7 +40,7 @@ The literal translation of word  `Smriti` is "memory", though the word has a spe
 
 In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. Spoken language originated from this source. Humans developed exceptional conversational skills, but everyone had to individually remember the temporal context.
 
-Then we discovered scribing!  
+Then we discovered written word!  
 
 Given the difficulties of early days, scribes chose the content with utmost care. Intent to scribe must yield full consensus. Only precious information made it to the written form - for careful preservation - across space and time. 
 

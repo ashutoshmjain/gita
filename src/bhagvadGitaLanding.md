@@ -65,9 +65,7 @@ Arjuna, portrayed as the best archer world had ever seen, represents the focus a
 
 Gita is structured as Arjuna's questions followed by Krishna's answers. Just as in AI realm, the formulation of intelligent prompts is the key to knowing, `Arjuna's` questions represent most intriguing human dilemmas. In doing that, he enabled rest of us with an opportunity to tap into our own `Smrities`.
 
-`Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his heartfelt queries.  `Arjuna` was a life-long friend, and devotee of `Krishna`. His voice stands for the questions we mortals have  when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. Their conversation, amidst the battlefield of Kurukshetra, is among the most potent narratives ever penned down - `Bhagvad Gita` - gods' song!
-
-At the end of this conversation, `Arjuna` said :
+`Arjun uvaach` - the name of this publication - means `Arjuna` spoke - his heartfelt queries. His voice stands for the questions we mortals have  when tested and confused. And also the magical discernment once `Krishna` unveiled knowledge unto him. At the end of this conversation, `Arjuna` said :
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
@@ -77,7 +75,7 @@ At the end of this conversation, `Arjuna` said :
 
 </div>
 
-It is not uncommon to experience a momentary relief from cyclic illusions (`Moha`). Such instances - typically a deep loss - often lead to depression. They leave the disillusioned in a vacuum because absence of `Moha` is a great void. It must be filled up with knowledge quickly, else it turns into a state of limbo where mind stops seeking truth. `Gita` on the other hand, spotlights truth through wisdom embedded in our consciousness (`Smriti`). `Gita` gives us tools to access the very basis of our intelligence - our soul (`Atma`). It does so through selfless (but active) participation - `KarmYoga`. Instead of a run to exit (`Sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. It, thus, provisions lasting peace and worldly success - a win-win.
+It is not uncommon to experience a momentary relief from illusions (`Moha`). Such instances - typically a deep loss - often lead to depression. They leave the disillusioned in a vacuum because absence of `Moha` is a great void. It must be filled up with knowledge quickly, else it turns into a state of limbo where mind stops seeking truth. `Gita` on the other hand, spotlights truth through wisdom embedded in our consciousness (`Smriti`). `Gita` gives us tools to access the very basis of our intelligence - our soul (`Atma`). It does so through selfless (but active) participation - `KarmYoga`. Instead of a run to exit (`Sanyasa`), `Gita` welcomes the precious gift we all are endowed with - human experience. It, thus, provisions lasting peace and worldly success - a win-win.
 
 
 `Gita` is for everyone - it is not religion, race, profession, gender or place specific. It is not even a complex ideology. Krishna's message is simple - do your duty and leave the rest to me. It is this simplicity of message that has made it one of the most cherished epic of human race. Krishna's arguments are there to help us overcome preexisting complexities of our thought - not the other way around. In that, it takes our mind to a place of freedom, rather than the jail of a rabbit hole!

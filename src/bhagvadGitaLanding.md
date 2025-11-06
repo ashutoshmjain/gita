@@ -34,17 +34,17 @@
 
 Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. 
 
-The literal translation of word  `Smriti` is "memory", though the word has a specific meaning when used in context of Vaidik Science. 
+The general translation of word  `Smriti` is any  "memory" - good or bad - cherished or the ones that you wish you forget. The word, though,  has a specific meaning when used in the context of Vaidik Science .. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. Spoken language originated from this source. Humans developed exceptional conversational skills, but everyone had to individually remember the temporal context.
+In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. It was said to field of knowledge. Spoken language originated from this source. Humans developed exceptional conversational skills, but everyone had to individually remember the temporal context. This was called the realm of information.
 
 Then we discovered written word!  
 
-Scribes chose the content with utmost care given the labour of writing. Ink was hard to make. Most scriptures were written on palm leaves with tip of a bird feather. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time.
+Scribes chose the content with utmost care given the labour of writing. Ink was hard to make. Most scriptures were written on palm leaves with a quill. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time. The hope was broken symmetry between knowledge and information would be restored.
 
-The word "scripture" points to such pristine information, worthy of writing down.
+The word "scripture" points to such pristine information, worthy of writing down - human expression of knowledge.
 
 > Written text became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is driver of our intelligence. Think of it as the DNA of thought.
 

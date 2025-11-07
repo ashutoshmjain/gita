@@ -34,23 +34,23 @@
 
 Bhagavad Gita is the first scribed source of `Karmyoga` - first `Smriti`. 
 
-The general translation of word  `Smriti` is any  "memory" - good or bad - cherished or the ones that you wish you forget. The word, though,  has a specific meaning when used in the context of Vaidik Science .. 
+The general translation of word  `Smriti` is a  "memory" - good or bad - cherished or the ones that you wished you forgot. The word, though,  has a specific meaning when used in the context of Vaidic Science .. 
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. It was said to field of knowledge. Spoken language originated from this source. Humans developed exceptional conversational skills, but everyone had to individually remember the temporal context. This was called the realm of information.
+In the beginning there was `Om` - the sacred syllable - smooth vibrations of the underlying divine field. It was said to be the field of knowledge. Spoken language originated from this source. Humans developed exceptional conversational skills, but everyone had to individually remember the temporal context. This was called the realm of information.
 
 Then we discovered written word!  
 
-Scribes chose the content with utmost care given the labour of writing. Ink was hard to make. Most scriptures were written on palm leaves with a quill. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time. The hope was broken symmetry between knowledge and information would be restored.
+Scribes chose the content with utmost care given the labour of writing. Ink was hard to make. Most scriptures were written on palm leaves - with a quill. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time. For example God's song ( Bhagvad Gita) has reached us traveling five thousand years in time. And it's ideology spread across the globe in different religions and matters of scientific curiosity. The hope was text would restore the broken symmetry between knowledge and information!
 
 The word "scripture" points to such pristine information, worthy of writing down - human expression of knowledge.
 
-> Written text became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is driver of our intelligence. Think of it as the DNA of thought.
+> Written text became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is driver of our intelligence. Think of it as the DNA of thought - a super long bridge between knowledge and information.
 
 </div>
 
-Long before we learnt scribing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. The Sanskrit word later morphed into `Shutri` in Hindi.
+Long before we learnt scribing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. The Sanskrit word later morphed into `Shutri` in Hindi. The domain name of this publication. It means information passed through word of mouth.
 
 Now that it is easier to scribe we have zettabytes  of written words. So much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable because of missing consensus. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
 

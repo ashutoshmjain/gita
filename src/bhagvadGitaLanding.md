@@ -42,7 +42,7 @@ In the beginning there was `Om` - the sacred syllable - smooth vibrations of the
 
 Then we discovered written word!  
 
-Scribes chose the content with utmost care given the labour of writing. Ink was hard to make. Most scriptures were written on palm leaves - with a quill. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time. For example God's song ( Bhagvad Gita) has reached us traveling five thousand years in time. And it's ideology spread across the globe in different religions and matters of scientific curiosity. The hope was text would restore the broken symmetry between knowledge and information!
+Scribes chose the content with utmost care given the labor of writing. Ink was hard to make. Most scriptures were written on palm leaves - with a quill. Intent to scribe, thus,  must yield full consensus. Only precious information made it to the written form - for careful preservation. The outcome was equally rewarding. Unlike the spoken word , text could move the information in  space and time. For example God's song ( Bhagvad Gita) has reached us traveling five thousand years in time. And it's ideology spread across the globe in different religions and matters of scientific curiosity. The hope was text would restore the broken symmetry between knowledge and information!
 
 The word "scripture" points to such pristine information, worthy of writing down - human expression of knowledge.
 
@@ -50,9 +50,9 @@ The word "scripture" points to such pristine information, worthy of writing down
 
 </div>
 
-Long before we learnt scribing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. The Sanskrit word later morphed into `Shutri` in Hindi. The domain name of this publication. It means information passed through word of mouth.
+Long before we learned writing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. The Sanskrit word later morphed into `Shutri` in Hindi. The domain name of this publication. It means information passed through word of mouth.
 
-Now that it is easier to scribe we have zettabytes  of written words. So much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable because of missing consensus. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
+Now that it is easier to scribe we have exabytes  of written words. So much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable because of missing consensus. Technology has enabled every individual to express themselves but every one talking over each other feels more like noise than a message.
 
 Revisiting the first `Smriti` is thus finding signal with in endless noise. 
 

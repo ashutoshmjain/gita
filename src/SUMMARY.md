@@ -1,5 +1,5 @@
 # Summary
-- [Bhagvad Gita](./bhagvadGitaLanding.md)
+- [Bhagvad Gita](./bhagavadGitaLanding.md)
     - [Podcast](bg00.md)
       - [Chapter 1](bg01.md)
       - [Chapter 2](bg02.md)

@@ -42,15 +42,17 @@ In the beginning there was `Om` - the sacred syllable - smooth vibrations of the
 
 Then we discovered the written word!  
 
-Given the labor of writing, scribes chose the content with utmost care. Ink was hard to make. There was no paper - scriptures were written on palm leaves - with a quill! Intent to scribe, thus,  had to yield full consensus or be worth its weight in gold. Only precious information made it to the written form - for careful preservation. The outcome was significant  -  unlike the spoken word - text could take the information hundreds of miles. And through time! For example Bhagavad Gita reached us traveling, say, five thousand years - in time. And through this motion in space-time, its ideas spread across the globe - adapted by different religions, and surprisingly inspired profound scientific curiosity - from the Manhattan Project to quantum mechanics. 
+Given the labor of writing, scribes chose the content with utmost care. Ink was hard to make. There was no paper - scriptures were written on palm leaves - with a quill! Intent to scribe, thus,  had to yield full consensus or be worth its weight in gold. Only precious information made it to the written form - for careful preservation. 
+
+The outcome was significant  -  unlike the spoken word - text could take the information hundreds of miles. And through time! It was as if we tapped into underlying field of knowledge, albeit limitations of a physical form.
 
 The word "scripture" points to such pristine information, worthy of writing down - a human expression of knowledge.
 
-> Scripture, or text, thus became the collective memory. In Sanskrit, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is the driver of our intelligence. Think of it as the DNA of thought - a super long bridge between knowledge and information.
+> Scripture, or text, thus became the collective memory. In Vedic parlance, such a collective memory is deemed `Smriti`. By virtue of being the collective memory, it is embedded into all of us, even if we are unaware. This  deep-seated memory is the driver of our intelligence. Think of it as the DNA of thought - a bridge between knowledge and information.
 
 </div>
 
-Long before we learned writing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. The Sanskrit word later morphed into `Shruti` in Hindi, which is the domain name of this publication. It means information passed through word of mouth.
+Long before we learned writing (and reading), critical information was passed on through rigorous recital. Such information was called `Shruti`. 
 
 Now that it is easier to scribe, we have exabytes of written words. So much so that it is impossible to scrape through - at least for humans. The quality of content is, however, questionable because of a lack of consensus. Technology has enabled every individual to express themselves, but everyone talking over each other feels more like noise than a message.
 

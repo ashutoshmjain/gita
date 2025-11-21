@@ -6,47 +6,22 @@ In Chapter 13, Krishna tells Arjuna that the body (and by extension, the entire 
 
 This essay seeks to understand the characteristics of the "Knower" exploring  modern physics and computing alongside ancient Vedic philosophies of Sāṃkhya and Advaita Vedānta.
 
-## Sāṃkhya vs Advaita debate
-
-The Sāṃkhya school of thought posits a perpetual duality of Prakriti and Purusha—the potential and the observer. In contrast, Advaita believes in a non-dual Brahman (God) as the only truth .....
-
-But they are not at odds, as it feels on the web!
-
-> The modern point of view appears to be misguided - and that includes the AI chatbots too. The artificial conclusion is : Sāṃkhya was atheistic vs the blind devotion of Advaita in singular God - much like the science vs religion debate of today. This line of thinking has recency bias on account of our current divisive experience. We are simply juxtaposing on past our own reality of divergence of science from faith. 
->
-> Secondly, modern interpretation seeems to be  based on (superficial) semantic argument - that the name "Advaita" means "Not Two" (non dual) contrasting the hallmark duality of Sāṃkhya. They miss the point that Advaita's mission was to help society get over a rigid belief system of hundreds of deities and demigods, often hindering social mobility. The society was compartmentalized into watertight segments of castes and races. The message of non duality was necessary to bring the people together.
-
-Advaita didn't refute the duality of Sāṃkhya. Quite the opposite, it reinforced the indivisibility of Purusha  as one singular form of consciousness - often termed "Nirguna Brahman". 
-
-> In Samkhya, Prakriti is described to have three fundamental qualities - Sattva, Rajas and Tamas. These qualities, as a collective, are called : "Gunas". 
->
-> A Purusha that is NOT influenced by "Gunas" is seen as "nir-guna" Brahman in Advaita - one inert to the influence of Gunas, and hence detached from Prakriti. 
->
-> On the other side, the one that readily binds with "Gunas" is qualified as "sa-guna" Brahman. 
-
-In essence, Advaita sees the play of Prakriti and Purusa as changing states of ONE Brahman. This core concept of  Advaita is not a mere faith based deduction. In modern mathematics - the second axiom of probability theory dictates that the sum of all probabilities must be ONE. And so does the Unitarity principle in Quantum Mechanics. Adviata refers to this ONENESS as Brahman.
-
-
-In fact, Advaita  expanded the scope of Purusha from individual droplets of consciousness to an immense universal field. This single field acts as the basis to "mind-matter" complex (manifest Prakriti). In essence "Nirguna" is like the vast ocean and "Saguna" akin to waves. Advaita did add a philosophical nuance to the nature of the manifested. Like ripples, it is transient (time decay), and hence it is unreal (Mithya). To its semantic success, it was the first attempt to name the manifest a Matrix (Maya), for Maya acts as a jail to an untrained mind. Pure consciousness as Nirguna Brahman is thus the only goal worth aspiring.
-
-Let us understand the core concepts with Sāṃkhya. This path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began - before the Big Bang?" In other words, Sāṃkhya is designed for a logical closure. It is an analytical view of Vedic science. The word "Sāṃkhya" in Sanskrit literally means "a number." Think of Advaita as physics and Sāṃkhya as the math behind its theories.
-
-### Knowledge vs. Information
+## Knowledge vs. Information
 
 To understand the Knower, we must first understand what is meant by "knowledge."
 
 The easiest way to comprehend knowledge is to contrast it with information. 
 
-Conventional definitions often see "information" as a nudge to predict next event (say an imminent stock market crash, perfect weather for the beach etc.); and "knowledge" as the concrete universal reality (speed of light is a constant). For this essay, we will flip these definitions to align them with the probabilistic quantum world. Probability is a useful tool. As observers, our predictive faculties lack certainty. That makes probability a universal theme - to handle uncertainty.
+Conventional definitions often see "information" as a nudge to predict next event (say an imminent stock market crash, perfect weather for the beach etc.); and "knowledge" as the concrete universal reality (speed of light is a constant). For this essay, we will flip these definitions to align them with the probabilistic quantum world. As observers, our predictive faculties lack certainty. That makes probability a universal method - to handle uncertainty.
 
 *   **Information** is the data from events that have already occurred—the outcomes of repetitive trials. If you flip a coin a million times, the record of say 501,000 heads and 499,000 tails is *information*. It is concrete record of outcomes. It is the known past. In Sāṃkhya, this is called *Bhūtādika* (manifested realities of the past). Manifest can be both, physical as well as abstract.
 *   **Knowledge** is the awareness of all options and their respective probabilities. For example, the simple idea that a fair coin *may* land on either heads or tails with a ~ 50/50 probability is *knowledge*.
 
 Knowledge is the menu of potential options. For example: these are the "only" items available for dinner tonight-nothing else. It is a way to let observers frame "what to look for" or "what to measure"-a set of permissions or degrees of freedom. In Sāṃkhya, this is called *Prārabdha* (the destiny that is yet to unfold but we are quite sure of the likely scenarios). 
 
-> A rather watered down analogy would be the example of a casino. In that very limited scope of slot machines and games, a casino has the knowledge as to how much edge it has (per hand), though it can't pick up gains against a specific player. It has control over final outcome but not on individual play. A gambler, on the other hand, is someone who is changing his bets based on the "information" of the individual outcomes - fully aware that probability is stacked against him. This design is useful because even though the game is rigged it is not so in favor of a specific player. Even the casino manager couldn't predict individual hand if she wished to try her own luck. Sāṃkhya thus, despite being atheistic, accepts divine incarnation, albeit such incarnation is as tied to the physical laws as an ordinary player to the rule book of casino - there are no special privileges except for the knowledge. 
+> A common analogy is the mechanics of a casino. In that very limited scope of slot machines and games, a casino has the knowledge as to how much edge it has (per hand), though it can't pick up gains against a specific player. It has control over final outcome but not on individual play. A gambler, on the other hand, is someone who is changing his bets based on the "information" of the individual outcomes - fully aware that probability is stacked against him. This design is useful because even though the game is rigged it is not so in favor of a specific player. Even the casino manager couldn't predict individual hand if she wished to try her own luck. Sāṃkhya thus, despite being atheistic, accepts divine incarnation, albeit such incarnation is as tied to the physical laws as an ordinary player to the rule book of casino - there are no special privileges except for the knowledge. 
 >
->> To design a fair system,  where every player is equally likely to win (or lose) , the system must be probabilistic, but to make sure there exists a direction, the options must be narrowed down to a binary choice. 
+>> To design a fair system,  where every player is equally likely to win (or lose) , the system must be probabilistic, but to make sure there exists a direction, the options must be narrowed down to a binary choice. The availability of a binary choice is a grace becaause the nature of underlying substrate is infinitely large possibilities. Imagine comparing a coin toss with SHA256 function - when you flip a coin , there are only two outcomes - when you blend a digital input into SHA256 , the outcome is impossible to know. Why binary is such a predictive certainty ? because if it is not Tail, then you know for sure it is a Head. In case of multi possibility scenario, deduction tends to go to impossible as the number of possibilities increase .. In a way , two options of a binary system are entangled .. this is the first connection. 
 
 Knowledge doesn't strive to be accurate in terms of absolute occurrences - heads may be slightly more than tails in a flipping trial, or vice versa - but it is super accurate in a large sample size. It is thus a core driver of decentralization - many players on the same slot machine (beings). Or conversely infinitely many samples of the same slot machine (species) - they all collectively realize the probability distribution of the setup, assuming the setup stays put.
 
@@ -73,6 +48,32 @@ For an external observer, knowledge unfolds with every new piece of information.
 Knowledge means you build the system inside out, not outside in. While a well "informed" may cite event(s), knowledge is the means to hypothesize. It can predict things or lay down prophecies. Knower is an insider. It is so deeply entrenched that it is invisible even to ardent observers. An observer is collecting information (past), a knower is choosing the direction of the future. 
 
 While potential is perfectly random, "what to observe" creates a narrative - an order emerges. We always look for a Head or Tail in a coin flip. No one is counting bananas after flipping a coin. There are waves in the ocean because we are counting the waves.
+
+
+## Sāṃkhya vs Advaita debate
+
+The Sāṃkhya school of thought posits a perpetual duality of Prakriti and Purusha—the potential and the observer. In contrast, Advaita believes in a non-dual Brahman (God) as the only truth .....
+
+But they are not at odds, as it feels on the web!
+
+> The modern point of view appears to be misguided - and that includes the AI chatbots too. The artificial conclusion is : Sāṃkhya was atheistic vs the blind devotion of Advaita in singular God - much like the science vs religion debate of today. This line of thinking has recency bias on account of our current divisive experience. We are simply juxtaposing on past our own reality of divergence of science from faith. 
+>
+> Secondly, modern interpretation seeems to be  based on (superficial) semantic argument - that the name "Advaita" means "Not Two" (non dual) contrasting the hallmark duality of Sāṃkhya. They miss the point that Advaita's mission was to help society get over a rigid belief system of hundreds of deities and demigods, often hindering social mobility. The society was compartmentalized into watertight segments of castes and races. The message of non duality was necessary to bring the people together.
+
+Advaita didn't refute the duality of Sāṃkhya. Quite the opposite, it reinforced the indivisibility of Purusha  as one singular form of consciousness - often termed "Nirguna Brahman". 
+
+> In Samkhya, Prakriti is described to have three fundamental qualities - Sattva, Rajas and Tamas. These qualities, as a collective, are called : "Gunas". 
+>
+> A Purusha that is NOT influenced by "Gunas" is seen as "nir-guna" Brahman in Advaita - one inert to the influence of Gunas, and hence detached from Prakriti. 
+>
+> On the other side, the one that readily binds with "Gunas" is qualified as "sa-guna" Brahman. 
+
+In essence, Advaita sees the play of Prakriti and Purusa as changing states of ONE Brahman. This core concept of  Advaita is not a mere faith based deduction. In modern mathematics - the second axiom of probability theory dictates that the sum of all probabilities must be ONE. And so does the Unitarity principle in Quantum Mechanics. Adviata refers to this ONENESS as Brahman.
+
+
+In fact, Advaita  expanded the scope of Purusha from individual droplets of consciousness to an immense universal field. This single field acts as the basis to "mind-matter" complex (manifest Prakriti). In essence "Nirguna" is like the vast ocean and "Saguna" akin to waves. Advaita did add a philosophical nuance to the nature of the manifested. Like ripples, it is transient (time decay), and hence it is unreal (Mithya). To its semantic success, it was the first attempt to name the manifest a Matrix (Maya), for Maya acts as a jail to an untrained mind. Pure consciousness as Nirguna Brahman is thus the only goal worth aspiring.
+
+Let us understand the core concepts with Sāṃkhya. This path is easier for the scientifically-predisposed mind, and it satisfies the question that haunts both science and religion: "What was there before the universe began - before the Big Bang?" In other words, Sāṃkhya is designed for a logical closure. It is an analytical view of Vedic science. The word "Sāṃkhya" in Sanskrit literally means "a number." Think of Advaita as physics and Sāṃkhya as the math behind its theories.
 
 ### The Act of Observation - locking attention
 

@@ -1,10 +1,27 @@
 # Knower (Work in Progress) 
 
-In Chapter 13, Krishna tells Arjuna that the body (and by extension, the entire universe) is the "field" (*kṣetra*), and the one who understands this field is the "knower of the field" (*kṣetrajña*).
+In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who understands this field is the "knower of the field" (*kṣetrajña*). 
+
+To understand this idea, let us assume we have a physical field - maybe a field to produce potatoes. If I ask you this "Potato Land" is the field and the one who understands how to sow, feritilize, grow, harvest and sell potatoes - who is he? A farmer - you would say - right ? Actions (Farming) define the identity or type of a doer - a "Farmer" in this example.
+
+The way there is a thing called "farming" in our potato field, in the same fashion there is skill called "Knowing" in Krishna's field that he dsecribed as "body".
+
+The way farming is performed with different tools, the "knowing" is performed with (primarily)  five tools - Eyes to see , Ears for hearing, Toungue to taste, Nose to smell, and skin to touch. The way to use these tools is to use them to watch the field (the body). One who monitors this body all waking hours is called a knower - just the way one who farms is called the "farmer". 
 
 > He then says, "Know Me as the Knower in every field."
 
-This essay seeks to understand the characteristics of the "Knower" exploring  modern physics and computing alongside ancient Vedic philosophies of Sāṃkhya and Advaita Vedānta.
+The distinction is qualified here : the farmer in every field may be different (apparently), but the "knower" in every field called "body" is just one - everywhere in every body. And that knower is me. Every thing in every body - that is observed by knowers - is stored in me.
+
+The knower may not be complex - like say a complex robot waking up at say Mars.  All the sensors to check its internals and environment is the "knower module" of the robot, we may call it "robrain" for lack of better words - a complex one. But knower can be very simple - lets say a string vibrated - a knower is the one watching the string - a wave function that collapsed. That knower is same as the one in every robrain - it just watches the body (the field) and knows its existence.
+
+In previous chapter when Arjuna had asked to see Krishna - Krishna gave him divine eyes and he told Arjuna - See this entire world in me. It means the knower sees the world. 
+
+The field is the body - knower sees the body -- and he sees the world. It was a divine intervention.  How does a knower watching the field starts seeing the world - becomes conscious? How does a robot wakes up at Mars or a string starts to vibrate ? Through action ? Being able to perceive the world and act in it are synonymous. A robrain becomes a potatos farmer at Mars. The sensors are there to watch the robot's body - but with in that body-watch lies the perception of its universe. It just gets flipped through a divine touch. The knower module sits at this intersection -  understanding the world through watching the self. 
+
+This essay seeks to understand the characteristics of the "Knower" exploring  modern physics and computing alongside ancient Vedic philosophies of Sāṃkhya and Advaita Vedānta that asks a simple question - is body and universe are two separate entities in Samkhya and Advaita both - the path is however just One :  
+
+> See the field - Cleanse the observation through designated actions - seeing the field  with cleansed observation is knowledge - the one with knowlede is knower. The process is same - be it Science ( Samkhya) or Faith ( Advaita). 
+
 
 ## Knowledge vs. Information
 

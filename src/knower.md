@@ -6,11 +6,11 @@ To understand this idea, let us assume we have a physical field - maybe a field 
 
 The way there is a thing called "farming" in our potato field, in the same fashion there is skill called "Knowing" in Krishna's field that he dsecribed as "body".
 
-The way farming is performed with different tools, the "knowing" is performed with (primarily)  five tools - Eyes to see , Ears for hearing, Toungue to taste, Nose to smell, and skin to touch. The way to use these tools is to use them to watch the field (the body). One who monitors this body all waking hours is called a knower - just the way one who farms is called the "farmer". 
+The way farming is performed with different tools, the "knowing" is performed with (primarily)  five tools - Eyes to see , Ears for hearing, Toungue to taste, Nose to smell, and skin to touch. The way to use these tools is to use them to watch the field (the body). One who monitors his body all waking hours - tends to it - understands it and responds to its needs - is called a knower - just the way one who farms is called the "farmer". 
 
 > He then says, "Know Me as the Knower in every field."
 
-The distinction is qualified here : the farmer in every field may be different (apparently), but the "knower" in every field called "body" is just one - everywhere in every body. And that knower is me. Every thing in every body - that is observed by knowers - is stored in me.
+The distinction is qualified here : the farmer in every field may be different  person or entity,  but the "knower" in every field called "body" is just one - everywhere in every body. And that knower is me. I comprehend the meaning of body's language through the sensors I have posted at chosen places in the body - just the way Farmer installs sensors in his plouging field to measure say moisture in soil and say air temperature.
 
 The knower may not be complex - like say a complex robot waking up at say Mars.  All the sensors to check its internals and environment is the "knower module" of the robot, we may call it "robrain" for lack of better words - a complex one. But knower can be very simple - lets say a string vibrated - a knower is the one watching the string - a wave function that collapsed. That knower is same as the one in every robrain - it just watches the body (the field) and knows its existence.
 

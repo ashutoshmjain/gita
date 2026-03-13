@@ -10,7 +10,7 @@ The prinicple is equally applicable to micro world as it appears relevant to the
 
 Krishna says, just like external fields, the body itself is a field. Just the way a Farmer negotiates the potato-land externally, in the same fashion, one who understand the internal farm of one's own body is called a "Knower.
 
-It works on three foundational ideas - Uniquness , Chirality and Decentralization. The token of this field is "Attention". The key insight is to look at our own body as a field - the external world is a superimposed reflection of the self. It is useful to observe outside to the extent of knowing your Karma - but the true object for the knower is to understand the symmetry of the own field !
+It works on three foundational ideas - Uniquness , Chirality and Decentralization. The token of this field is "Attention". The key insight is to understand ourselves as a field - you are the Farm - not the Farmer. Just the way Potato Land can't fathom the activities of the Farmer, it is almost impossible for us to articulate the Farmer inside. Nevertheless , we can start assisting him in his chores - we can be a partner. The good thing is the external world is a superimposed reflection of the self. It is useful to observe outside to the extent of knowing our Karma - but the true object for the knower is to understand the symmetry of the own field - and the divine elements that run this super cmplex mobile farm !
 
 ## Uniquenss
 

@@ -1,6 +1,6 @@
 # Knower
 
-In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*). 
+In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*). The question is how do we know our body ? Our senses are designed to see outwards!
 
 To understand this, consider a physical field—perhaps one used to grow potatoes. If I ask who knows how to sow, fertilize, grow, harvest, and sell those potatoes, you would say a farmer, right? If the purpose was to get ample crop, then farmer is the hamster running the farm to keep it aligned to its mission. His actions rotate based on the seasons - or the crops - but to the outside world, the farm acts kinda like a blackbox - a self organizing system that exchanges value with it's surrounding (villages). 
 

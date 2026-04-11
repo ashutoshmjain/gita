@@ -1,9 +1,9 @@
 # Knower
 
 
-In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*). The question is: how do we know our body? Our senses are designed to see outwards! Aren't they? I mean, I can't, with my own eyes, see my neurons firing, nor can I hear my heart pumping. Their main purpose is external experience - not internal diagnostics. And the field seems to be well automated - we can't change how it grows - in height or in diameter :-) Sleep, hunger, thirst - every thing seems to be on auto-pilot. Does that mean there is someone driving this complex biological chariot? Our natural intution is - yes , there must be one. But this is been the longest debate in human history - because  there is no proof - as the science  would rightly demand. Should we assume there is no one running this complex field - it is simply on auto-pilot? 
+In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*). The question is: how do we know our body? Our senses are designed to see outwards! Aren't they? I mean, I can't, with my own eyes, see my neurons firing, nor can I hear my heart pumping. Their main purpose is external experience - not internal diagnostics. And the field seems to be well automated - we can't change how it grows - in height or in diameter :-) Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. Does that mean there is someone driving this complex biological chariot? Our natural intution is - yes, there must be one. But this is been the longest debate in human history - because  there is no physical proof - as the science  would rightly demand. Ultimately , it gets into realm of unproven hard problems. Should we assume there is no one running this complex field - it is simply on auto-pilot - consciousness emerges from sheer complexity Or consider a force that is beyond our physical experience - ie meta physical? 
 
-But Krishna made it easier for us. He absolved us from need to know the driver. 
+But Krishna made it easier for us. He absolved us from need to circle in this endless debate. 
 
 > He said that one who knows this field (body), is the true knower. 
 >

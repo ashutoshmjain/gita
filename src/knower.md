@@ -5,19 +5,19 @@ In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), a
 
 The purpose of sensory apparatus is external experience - not internal diagnostics. And the internal field seems to be well automated - we can't control how it grows - in height or in diameter :-) Or its modifications from infancy to old age. Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. Does that mean there is someone inside driving this complex biological chariot? A logical deduction is - yes - there must be one because there is never an effect without a cause. God is a logical idea.
 
-But this is where the logic crashes head first into proof seekers.  Arguments aren't misplaced - because there is no physical evidence - as the science  would [rightly] demand. Doctors and scientiests have looked at the body inside out - dissected every part of every tissue - but there is no one singular over-arching driver to be found. Even microscopic checks reveal no all encomassing captain of cellular ship - let alone the entire human body. Ultimately, it gets into realm of unproven hard problems - is consciousness fundamental or is it emergent? The problem is - we know it exists - we feel being conscious! Should we assume there is no singular ONE running this complex system - it is simply on collective auto-pilot ! Or should we consider a force that is beyond our physical experience - hence unprovable!
+But this is where the logic crashes head first into proof seekers.  Arguments aren't misplaced - because there is no physical evidence - as the science  would [rightly] demand. Doctors and scientiests have looked at the body inside out - dissected every part of every tissue - but there is no one singular over-arching driver to be found. Even microscopic checks reveal no captain at cellular level - let alone the entire human body. Ultimately, it gets into realm of unproven hard problems - is consciousness fundamental or is it emergent? The problem is - we know it exists - we feel being conscious! Should we assume there is no singular ONE running this complex system - it is simply on collective auto-pilot ! Or should we consider a force that is beyond our physical experience - hence unprovable!
 
-While science and spirituality are grappling this this age-old debate - Krishna made it easier for us mortals. He absolved us from the need to circle in this endless argument. 
+While Samkhya (Science) and Adviata (faith) were grappling this age-old debate - Krishna made it easier for us mortals. He absolved us from the need to circle in this endless argument. 
 
 > He said that one who knows this field (body), is the true knower. 
 
-Fair Enough - don't worry about consciouness - focus on your body - even though the perception tools are pretty useless . 
+Fair Enough - don't worry about consciouness - focus on your body - even though the perception tools (senses) are pretty limited . 
 
 But here is another big idea he added ..
 
 > He then says, "Know Me as the Knower in every field."
 
-How can this be true ? This means - either a copy of Krishna is with in everybody - what Bhagavad Gita refers to as soul - a full copy.  
+How can this be true ? This means - either a copy of Krishna is with in everybody - what Bhagavad Gita refers to as soul - a full copy - a connection - not a Driver.
 
 Or Krishna is located such that it can see everyone - like infinite waves in an ocean - that emerge and crash back into the ocean.
 

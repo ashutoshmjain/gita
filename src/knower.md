@@ -9,13 +9,13 @@ The purpose of sensory apparatus is external experience - not internal diagnosti
 
 Does that mean there is someone inside driving this complex biological chariot? 
 
-A logical deduction is - yes - there must be one because there is never an effect without a cause. This "ONE" is [obvously] different from the "I". Left to my devices, body shall fade in a jiffy, for "I" don't have slightest clue how food churns into the blood - or how does air saturate my lungs! 
+A logical deduction is - yes - there must be one because there is never an effect without a cause. This "ONE" is [obvously] different from the "I". Left to my "I", body shall fade in a jiffy, for "I" don't have slightest clue how food churns into the blood - or how does air saturate my lungs! 
 
-"I" am limited - "ONE" seems to have supreme control. 
+"I" am limited - "ONE" seems to have supreme control. How do I know the knower ? How do I separate "One" from "I" ?
 
-The question is "Who are we looking for" - do we want to prove "I" exists (which obviously does or else who is asking this question or reading this page) ..  or do we want to see the "ONE" in action?  The one that not only runs my body [behind the scenes], but by natural extension the entirety - beyond the observer patch of my own tinybox!
+The first question of the order is "Who are we looking for" - do we want to prove "I" exists (which obviously does or else who is asking this question or reading this page) ..  Or do we want to see the "ONE" in action?  The one that not only runs my body [behind the scenes], but by natural extension the entirety - beyond the observer patch of my own tinybox!
 
-And more importantly - Who do we call consciousness?  "I" or the "ONE".
+The second question is - Who do we call consciousness?  "I" or the "ONE".
 
 Sentanctic consistency is important because if definitions are jumbled up, not only the emergent paths turn into crossroads, they lead to irrational arguments - like you looking at sky to see the moon and I looking at the moon's reflection in a super large mirror - so big that I could't see the edges. For all practical purposes - the image in the mirror is indistingushable from the truth. Is "I" a mirror image of the "ONE" ? Or is it a privelaged copy designed specifically to ACT in a deterministic fashion.
 

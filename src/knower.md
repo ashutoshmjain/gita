@@ -5,25 +5,21 @@
 
 The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping. 
 
-The purpose of sensory apparatus is external experience - not internal diagnostics. And the internal field seems to be well automated - we can't (and need not) control how it grows - in height or in diameter :-) If it is so well automated, why should we seek to know it for  beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. 
+The purpose of sensory apparatus is external experience - not internal diagnostics. And the internal field seems to be well automated - we can't control how it grows - in height or in diameter :-) Beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. 
 
-Does that mean there is someone inside driving this complex biological chariot? 
+Does that mean there is someone inside driving this complex biological chariot? Is knowing the body as a field same as knowing him? - the interal driver?
 
 A logical deduction is - yes - there must be one because there is never an effect without a cause. This "ONE" is [obvously] different from the "I". Left to my "I", body shall fade in a jiffy, for "I" don't have slightest clue how food churns into the blood - or how does air saturate my lungs! 
 
-"I" am limited - "ONE" seems to have supreme control. How do I know the knower ? How do I separate "One" from "I" ?
+"I" am limited - "ONE" seems to have supreme control. How do I know the knower ? How do I distinguish "One" beyond the maze of "I" ?
 
-The first question of the order is "Who are we looking for" - do we want to prove "I" exists (which obviously does or else who is asking this question or reading this page) ..  Or do we want to see the "ONE" in action?  The one that not only runs my body [behind the scenes], but by natural extension the entirety - beyond the observer patch of my own tinybox!
+The important thing is to decide "Who are we looking for" - do we want to prove "I" exists (which obviously does or else who is asking this question or reading this page) ..  Or do we want to see the "ONE" in action?  The one that not only runs my body [behind the scenes], but by natural extension the entirety - beyond the observer patch of my own tinybox!
 
 The second question is - Who do we call consciousness?  "I" or the "ONE".
 
-Sentanctic consistency is important because if definitions are jumbled up, not only the emergent paths turn into crossroads, they lead to irrational arguments - like you looking at sky to see the moon and I looking at the moon's reflection in a super large mirror - so big that I could't see the edges. For all practical purposes - the image in the mirror is indistingushable from the truth. Is "I" a mirror image of the "ONE" ? Or is it a privelaged copy designed specifically to ACT in a deterministic fashion.
+Sentanctic consistency is important because if definitions are jumbled up, they lead to irrational arguments - like you looking at sky to see the moon and I looking at the moon's reflection in a super large endlesss mirror. For all practical purposes - the image in the mirror is indistingushable from the truth. Is "I" a passive mirror image of the "ONE" ? Or is it a privelaged ascent designed specifically to ACT in this reality?
 
-The "One" is a logical idea yet in most scientific discussions it is seen as a pre-existing backdrop - a self sustaining auto-pilot - homeostasis. Sometimes it is refrred to as the evolutionary dynamics, others trace it to the very fundamental laws of physics. There are attempts to recognize Qualia as a formal fundamental force (in  physics) ( et el Marat Yavachev Jan 2026 on Research Gate) but the outcomes here are dicey - to say the least. 
-
-The fundamental aspect of knowledge of ONE is - "Does it just happen - an everlasting continuum - like a background humm and we are a natural outcome"  OR  "Is it there for an active purpose - like a simulation". And if yes - Why? . 
-
-The answers to "why" questions are rare because the science is great at explaining "how the thing works" - not "why it is there". All it's attempts to explain the "Why" invariably lead to philosophy. A trivial example is - you can't ask why this tree is here - you can ask how it gets water or grows to be a three hundred feet tall Redwood. Science is great at the mechanics - but it is miserable at the means. A clear approach must include how the system came into being - what is its purpose - how it tries to accomplish the said purpose - fail or pass - and ultimatley its demise. 
+The "One" is a logical idea yet in most scientific discussions it is seen as a pre-existing backdrop - a self sustaining auto-pilot - homeostasis. Sometimes it is refrred to as the evolutionary dynamics, others trace it to the very fundamental laws of physics. There are attempts to recognize Qualia as a formal fundamental force (in  physics) ( et el Marat Yavachev Jan 2026 on Research Gate) but it hasn't yet gained scientific momentum or scrutny.
 
 This also means that we ourself can't be in the system because otherwise it becomes self refrential loop. Every change in the system changes me, and a change in me in turn changes the system - you can't be your own therepist :-)  Observer must be located outside the system. The science of Macro ( General Relativity ) looks at the universe from outside - objective reality. And we get one beautiful picture. But the science of micro (Quantum Mechanics) makes observer a part of the system ( because the act of measurement itself disturbs the system). Thus the system becomes a self refrential loop. Effectively, every observer becomes a separate universe. Instead of one beautiful picture, we get a shattered reality of infinite universes. 
 

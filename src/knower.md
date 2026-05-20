@@ -3,7 +3,7 @@
 
 > In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*).
 
-The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping. 
+The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping let alone the guts of a cell or a microbe.
 
 The purpose of sensory apparatus is external experience - not internal diagnostics. And the internal field seems to be well automated - we can't control how it grows - in height or in diameter :-) Beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. 
 
@@ -11,13 +11,11 @@ Does that mean there is someone inside driving this complex biological chariot? 
 
 A logical deduction is - yes - there must be one because there is never an effect without a cause. This "ONE" is [obvously] different from the "I". Left to my "I", body shall fade in a jiffy, for "I" don't have slightest clue how food churns into the blood - or how does air saturate my lungs! 
 
-"I" am limited - "ONE" seems to have supreme control. How do I know the knower ? How do I distinguish "One" beyond the maze of "I" ?
+"I" is limited - "ONE" seems to have supreme control. How do I know the knower ? How do I distinguish "One" beyond the maze of "I" ?
 
-The important thing is to decide "Who are we looking for" - do we want to prove "I" exists (which obviously does or else who is asking this question or reading this page) ..  Or do we want to see the "ONE" in action?  The one that not only runs my body [behind the scenes], but by natural extension the entirety - beyond the observer patch of my own tinybox!
+Before we embark on the journey, the important thing is to decide "what are we looking for" - do we want to prove "I" exists (which obviously does or else who is asking this question or reading this page) ..  Or do we want to see the "ONE" in action?  The one that not only runs my body [behind the scenes], but by natural extension the entirety - beyond the observer patch of my own tinybox!
 
-The second question is - Who do we call consciousness?  "I" or the "ONE".
-
-Sentanctic consistency is important because if definitions are jumbled up, they lead to irrational arguments - like you looking at sky to see the moon and I looking at the moon's reflection in a super large endlesss mirror. For all practical purposes - the image in the mirror is indistingushable from the truth. Is "I" a passive mirror image of the "ONE" ? Or is it a privelaged ascent designed specifically to ACT in this reality?
+It is also important to align or assign correct meaning to existing words that are rooted deep in our language model. For example - What is consciousness?  "I" or the "ONE". Or a state in between. Sentanctic consistency is important because if definitions are jumbled up, they lead to irrational arguments. For example, from  neurobiology standpoint, "I" is seen as consciousness - capacity to perceive things. If I fainted - the doctor would call me unconscious - wouldn't he? But ONE in me is stil breathing. My gut is still functioining. Consciousness, in medicinal realm, is strictly limited to functioning sensory apparatus and awareness ("I"). This is not to blame medical science for a narrow perspective. The truth is to experimental obsservations of "I" (the cognitive faculty) are so hard that there is presumably no attempt to look at the harder problem - who is the consumer of the cognitive feed. If we can't conclusively reach "I" - the "ONE" is almost impossible to comprehend - off limits for science - the conversations is handed over to spirituality or physics.
 
 The "One" is a logical idea yet in most scientific discussions it is seen as a pre-existing backdrop - a self sustaining auto-pilot - homeostasis. Sometimes it is refrred to as the evolutionary dynamics, others trace it to the very fundamental laws of physics. There are attempts to recognize Qualia as a formal fundamental force (in  physics) ( et el Marat Yavachev Jan 2026 on Research Gate) but it hasn't yet gained scientific momentum or scrutny.
 
@@ -25,7 +23,6 @@ This also means that we ourself can't be in the system because otherwise it beco
 
 ---
 
-At the same time, from neurobiology standpoint, "I" is seen as consciousness - capacity to perceive things. If I fainted - the doctor would call me unconscious - wouldn't he? But ONE in me is stil breathing. My gut is still functioining. Consciousness, in medicinal realm, is strictly limited to functioning sensory apparatus and awareness ("I"). This is not to blame medical field or to look down upon them. Experimental obsservation of the seat of cognition itself is so hard that there is presumably no attempt to look at the harder problem - who is the consumer of the cognitive feed. We can't conclusively reach "I" - the "ONE" is almost impossible to comprehend.
 
 In the Eastern philosphies, same "I" is seen as the root of all problems - the ego. The Sanskrit word for "I" is sementically neutral and accurate - "Ahmkara" - which literally means birth of "I" as a separate entity from the ocean of consciousness. YOu can call it - "I making machine".  
 

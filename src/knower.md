@@ -5,9 +5,9 @@
 
 The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping let alone the guts of a trivial cell or a microbe.
 
-The purpose of sensory apparatus is external experience - not internal diagnostics. And the internal field seems to be well automated - we can't control how it grows - in height or in diameter :-) Beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. 
+The purpose of sensory apparatus is external experience - not internal diagnostics besides the internal field seems to be well automated. We can't control how it grows - in height or in diameter :-) Beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. 
 
-Does that mean there is someone inside driving this complex biological chariot? Is knowing the body as a field same as knowing him? - the interal driver? Or the ultimate Observer (in QM the act of obsrvation is "action" because observation collapses the wave function. Which implies the ultimate Observer is the real actor - or the Driver - it observes our egoic "I")
+Does that mean there is someone (inside) driving this complex biological chariot? Is knowing the body as a field same as knowing him or his ways of working? The interal driver - the ultimate Observer. In QM, the act of obsrvation is "action" because observation collapses the possibilities. Which implies the ultimate Observer is the real actor - or the Driver - it observes our egoic "I" into existence.
 
 A logical deduction is - yes - there must be one because there is never an effect without a cause. This "ONE" is [obvously] different from the "I". Left to my "I", body shall fade in a jiffy, for "I" don't have slightest clue how food churns into the blood - or how does air saturate my lungs! 
 

@@ -3,9 +3,11 @@
 
 > In Chapter 13, Krishna tells Arjuna that the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*).
 
-The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping let alone the guts of a trivial cell or a microbe.
+The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping let alone the guts of a trivial cell,  or a puny microbe.
 
-The purpose of sensory apparatus is external experience - not internal diagnostics,  besides the internal field seems to be well automated - you don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. It appears as if the sensory apparatus (senses plus the frontal cortex) are busy observing everything possible  - except of course, the dark reaches of the inner self. Are they forbidden to look at the truth? Why ? A more intriguing question is - What does it mean to comprehend beyond our physical reality?
+The very purpose of sensory apparatus is external experience - not internal diagnostics,  besides the internal field seems to be well automated - you don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to old age! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. It appears as if the sensory apparatus (senses plus the frontal cortex) are busy observing everything possible  - except of course, the dark depths of the inner self. Are they forbidden to look at the truth? Why ? 
+
+A more intriguing question is - What does it mean to comprehend beyond our physical reality? Are we looking at a mere user interface with our senses - how do we access the code underneath? Isn't that the final quest of science - and spirituality?
 
 In Quantum Mechanics, the act of obsrvation is seen as the "action" , because observation collapses the possibilities' space. In neuro biology the same concept is seen as  "from actions potentials in neurons to a real spark" . Which implies the "Observer" is the "Actor". Why is observation so potent ? Isn't it a magical power ? You observe a possibility space for something real, and boom - it becomes real! How are we all endowed with such a creative power?
 

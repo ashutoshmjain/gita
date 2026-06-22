@@ -5,9 +5,11 @@
 
 The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping, let alone the guts of a trivial cell,  or those of a tiny microbe.
 
-The very purpose of sensory apparatus is external experience - not internal diagnostics,  besides the internal field seems to be fully automated. When it comes to autonomy,  we don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to the passing! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. The apparatus (senses plus the frontal cortex)  is busy observing everything possible, except of course, the dark depths of the inner escape. Even bigger question is brain the "observer" or the true seer is something else? 
+The very purpose of sensory apparatus is external experience - not internal diagnostics,  besides the internal field seems to be fully automated. When it comes to autonomy,  we don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to the passing! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot. The apparatus (senses plus the frontal cortex)  is busy observing everything possible, except of course, the dark depths of the inner escape. Even bigger question :  Is brain the "observer" or the true seer is something else? 
 
-Science is silent about the observer except that Observer is needed to collapse the wave function. On the other hand, traditional  spiritual argument is - should we aspire for more of the physical stuff when the quest is really to understand our soul - aka observer?  If true, then why would evolution design us the way we are - chasing survival and physical growth, while ignoring the self - the seer. On top - Krishna is also saying that the body is worth knowing - it is the field.
+Traditional science is silent about the observer except the acknowledgement that Observer is a fundamental necessity to collapse the wave function. On the other hand, traditional  spiritual argument is - should we aspire for more of the physical stuff (decohered potential) when the quest is really to understand the potential - the vast sea of consciousness?  One is focused on decohered potential (physical reality), other is on devotional chasing of all possibilities - what about the observer? 
+
+If true, then why would evolution design us the way we are - chasing survival and physical growth, while ignoring the self - the seer. On top - Krishna is also saying that the body is worth knowing - it is the field.
 
 There must be a good reason! 
 

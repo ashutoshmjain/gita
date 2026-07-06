@@ -3,7 +3,7 @@
 
 > In Chapter 13, Krishna said the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*).
 
-The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping, let alone the guts of a trivial cell,  or those of a tiny microbe.
+The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping, let alone the guts of the complex cellular machinary,  or that of an alien microbe inhabitating my body as its endless universe! 
 
 > The very purpose of sensory apparatus is external experience - not internal diagnostics. Besides the internal field seems to be fully automated. 
 

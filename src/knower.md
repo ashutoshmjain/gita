@@ -1,17 +1,23 @@
 # Knower
 
 
-> In Chapter 13, Krishna said the body is the "field" (*kṣetra*), and the one who knows this field is the "knower of the field" (*kṣetrajña*).
+> In Chapter 13, Krishna said the true field (*kṣetra* - the workspace) is the human body, and the one who understands his body is the "knower of the field" (*kṣetrajña*).
 
-The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping - let alone the guts of the complex cellular machinary,  or that of an alien microbe inhabitating my body as its own endless universe! That microbe is as much me as my nose !
+The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  
+
+I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping - let alone the complex cellular machinary that makes up the organs. 
 
 > The very purpose of sensory apparatus is external experience - not internal diagnostics. Besides the internal field seems to be fully automated. 
 
-When it comes to autonomy,  we don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to the passing! Sleep, hunger, thirst, love - every thing seems to be on auto-pilot - yet, the body, sends signals. These subtle signals are blurred - you cant make out their place of origin, but they carry profound meaning - they are like ambience of a temple - of peace and deepest sorrows - not the usual pleasure or pain. These are not sensory signals - they rise from depth of our being. Think of them as the background humm of our 4D reality - maybe white noise!  It is hard to tune into the white noise because our cognition is biased towards the external.
+When it comes to autonomy,  we don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to its passing!  Sleep, hunger, thirst, love - every thing seems to be on auto-pilot ...
 
-The cognitive apparatus is mostly busy consuming external stimulii - sharp and clear - like a high def station on your car radio. No, I am not blaming our senses.  They are doing their intended task "fight or flight" - predicting the future. 
+.... yet, the body, sends dim signals. These subtle signals are blurred. You cant make out their place of origin, but they carry meaning - they are like the ambience of a temple - of peace and of deepest sorrows - not the usual pleasure or pain. These are not sensory signals - they rise from depths of our being. Think of them as the background humm of our 4D reality - maybe white noise!  It is hard to tune into the white noise because our cognition is biased towards the external.
 
-How do we make it listen to the internal voice ! Even more profound question is why? Do we really need to listen to the gut feelings - the inner voice? The answer is simple - we can fix external complexities by observing the external - through sensory apparatus; but to fix internal sorrow or to find the internal solace - only mechanism is observing the inner self, and here is the bigger problem - the only mechanism available to sync with internal is "karm yoga". Often people say meditation is the path for internal clarity - true ; but only when it is practiced as Karm yoga. In fact the actions dont matter - the ritual does. Actions ritual - Karm Yoga - is the art of acting on behalf of the internal voice - without any other motivation ! .. Well that last part "Without any other motivation" is also a bit of a misfit here ..It is not that you are actively suppressing external motivations - instead the motivation to sync with your own self is so immense that all other worldly rotations seem puny - they dont attract a Karm Yogi ..
+The cognitive apparatus is mostly busy consuming external stimulii - sharp and clear - like a high definition station on your car radio. No, I am not blaming our senses.  They are doing their intended task "fight or flight" - predicting the future. 
+
+How do we listen to the internal voice ! Even more profound question is why? Do we really need to listen to the gut feelings - the inner voice? The answer is simple - we can fix external complexities by observing the external - through sensory apparatus; but to fix internal sorrow or to find the eternal solace - only mechanism is observing the inner self. And here is the bigger problem - the only mechanism available to sync with internal is "karm yoga". 
+
+People often say meditation is the path for internal clarity - true ; but only when it is practiced as Karm yoga. In fact the actions dont matter - the ritual does. Actions ritual - Karm Yoga - is the art of acting on behalf of the internal voice - without any other motivation ! .. Well that last part "Without any other motivation" is also a bit of a misrepresentation here ..It is not that you are actively suppressing external desires - instead the motivation to sync with your own self is so strong that all other worldly rotations seem insignificant - they just dont attract a Karm Yogi ..
 
 The good news is - internal stuff doesn't take much bandwidth. It is not an extra effort for the brain. In fact, it is in being effortless [literally] - the act of resting - simply stopping external observations for a moment - simply doing things for no apparent worldly benefit.  Even better news is we don't need to meditate forcefully. Every night, brain shuts the senses off as a part of deep sleep cycles - and every afternoon, if you are lucky enough to carve a window out for the post lunch nap :-).  
 

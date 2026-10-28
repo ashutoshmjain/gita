@@ -1,19 +1,15 @@
 # Knower
 
 
-> In Chapter 13, Krishna said the true field (*kṣetra* - the workspace) is the human body, and the one who understands his body is the "knower of the field" (*kṣetrajña*).
+> In Chapter 13, Krishna said the true field (*kṣetra* - the workspace) is our own body, and the one who understands his body is the "knower of the field" (*kṣetrajña*).
 
-The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  
+The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping - let alone the cellular machinary that makes up the complex organs.. 
 
-I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping - let alone the complex cellular machinary that makes up the organs. 
+> The purpose of sensory apparatus is external experience - not internal diagnostics. Besides the internal field seems to be fully automated.  When it comes to autonomy,  we don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to its passing!  Sleep, hunger, thirst, love - every thing seems to be on auto-pilot ...
 
-> The very purpose of sensory apparatus is external experience - not internal diagnostics. Besides the internal field seems to be fully automated. 
+.... yet, the body, sends subtle signals. These dim signals are blurred. You cant make out their place of origin or exact message encoded in there. But they carry meaning - they are like the background shades of peace, and of the deepest sorrows - not the usual pleasure or physical pain. These are not sensory signals - they rise from depths of our being. Think of them as the ambience of our individual 4D reality - maybe white noise if the signal stayed unresolved for too long!
 
-When it comes to autonomy,  we don't really have many choices. We can't control how the body grows - in height or in diameter :-) Beyond control are its modifications - from infancy to its passing!  Sleep, hunger, thirst, love - every thing seems to be on auto-pilot ...
-
-.... yet, the body, sends dim signals. These subtle signals are blurred. You cant make out their place of origin, but they carry meaning - they are like the ambience of a temple - of peace and of deepest sorrows - not the usual pleasure or pain. These are not sensory signals - they rise from depths of our being. Think of them as the background humm of our 4D reality - maybe white noise!  It is hard to tune into the white noise because our cognition is biased towards the external.
-
-The cognitive apparatus is mostly busy consuming external stimulii - sharp and clear - like a high definition station on your car radio. No, I am not blaming our senses.  They are doing their intended task "fight or flight" - predicting the future. 
+The cognitive apparatus is always busy consuming external stimulii - sharp and clear - like a high definition station on your car radio - they skip the white noise. No, I am not blaming our senses.  They are doing their intended task. They must respond to external threats -  "fight or flight". They are supposed to predict immediate future. 
 
 How do we listen to the internal voice ! Even more profound question is why? Do we really need to listen to the gut feelings - the inner voice? The answer is simple - we can fix external complexities by observing the external - through sensory apparatus; but to fix internal sorrow or to find the eternal solace - only mechanism is observing the inner self. And here is the bigger problem - the only mechanism available to sync with internal is "karm yoga". 
 

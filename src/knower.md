@@ -3,9 +3,7 @@
 
 > In Chapter 13, Krishna said the true field (*kṣetra* - the workspace) is our own body, and the one who understands his body is the "knower of the field" (*kṣetrajña*).
 
-The question is: how do we know our body? Our senses are designed to see outwards! Aren't they?  I mean, I can't, with my eyes, see my own neurons firing, nor can I hear my heart pumping - let alone the cellular machinary that makes up the complex organs.. 
-
-> The purpose of sensory apparatus is external experience - not internal diagnostics. Besides the internal field seems to be fully automated.  When it comes to autonomy,  we don't really have many choices. We can't control its physical states - how the body grows - in height or in diameter :-) Beyond control are its ever changing emotional states - from infancy to its passing!  Its needs like sleep, hunger, thirst are beyond us and so are abstractions such as love, hate, happiness and satisfaction. Every thing seems to be on auto-pilot without a steering wheel afforded to our will.
+The question is what exactly is our body ?  The frame of  bones or flesh that we see or is it something universal? 
 
 .... yet, the field sends subtle signals. These dim signals are blurred. We cant make out their place of origin or exact message encoded in there. But they carry meaning - they are the background raditions of peace, and those of the deepest sorrows - not the usual pleasure or physical pain. These are not sensory projections - they rise from farthest corners of the body. Think of them as eight dimensional non commutative , non associative signals. Senses capture these signals - and they project a 4D associative reality. The body, as we perceive, the pumping heart and the flowing blood, is the the instantiation of the field - $self. You may feel you are looking outside - but the truth is you projecting a reality inwards. The task is to understand the field - the body - not a mere projection of it.
 
